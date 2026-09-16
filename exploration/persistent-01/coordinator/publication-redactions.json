@@ -96,5 +96,26 @@
     "original_sha256": "b928e92641f058963ba8a5631c9ea3938d4382af233d387acbeef0087fb721f1",
     "published_sha256": "09fc85fdc4cdee8f0865d501664a3830a8a1ef3b14053f2cca1535b58b32a81c",
     "change": "Normalize only absolute source shard paths to repository-relative paths; raw original retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-m/M21/perl-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-m/M21/perl-command.json",
+    "original_sha256": "63519c0ad25cdafd9bd9b5ca1ad1b3b8f3787f28c63ab6ae0b638ad461ab7fb6",
+    "published_sha256": "54d3d4b6f724a8ae51cd46d7a3d139aea828eb5503f96ce009c8cd0d02d77d80",
+    "change": "Only local checkout prefix normalized; original command/output bytes retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/review-06/perl-command.json",
+    "private_original": "exploration/persistent-01/private-originals/review-06/perl-command.json",
+    "original_sha256": "674ad3f837b40fc61861c2b340d4b21d5374871de85b886f88cfc6058dfad798",
+    "published_sha256": "c8db87eb0c4bd9daeacf1c50f97a5b9c2fd35b4dd150f89ccd44ddabee0308d0",
+    "change": "Only local checkout prefix normalized; original command/output bytes retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-m/M21/runs/20260916T212758.185509Z-fetch-primary-source/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-m/M21/runs/20260916T212758.185509Z-fetch-primary-source/stderr.txt",
+    "original_sha256": "c03e6c3d943b67ab27ab3489dac30de0892fe48cdfa043764c3258776c8e782d",
+    "published_sha256": "779d9329f7a7fd1e6c476e441f41fec1ed89b44a0be77c8d9a3b60f8e3909744",
+    "change": "Only local checkout prefix normalized; original command/output bytes retained privately."
   }
 ]

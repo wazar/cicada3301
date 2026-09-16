@@ -1,0 +1,103 @@
+{
+  "source_path": "corpus/A-primary-artifacts/pgp/messages/2014-01-rsa-oaep-challenge.asc",
+  "source_sha256": "65ff60bfa019e424ce2ae23994f19af5692f7e12e6bc177830b42a154985defd",
+  "n": 7557912574608535164426718292058021255641310207187633095795069445700059210248050757270234679993673844203148013173091173786572116639,
+  "e": 65537,
+  "k": 54,
+  "n_bits": 432,
+  "factors_product_matches_published": true,
+  "cipher_length": 162,
+  "cipher_sha256": "6a41b574cf4c1dea0fa9c99b033c77af8fec4fbd5d98fd1e7580f9d88cd321a7",
+  "container_raw_hex": "31300031363200437970686572746578742c4da3c494b513331cf3490e2be86b6b518a9d78102908158ad232f0d800ee4c67daef233500ef96ed2eca634d8aee975420a7eba6b1187d0867dc3801fdcaff24608ce6ec7c0d50ed0aa95cd00b27d1453e0625e6b874edc04f33d91b487e83ca753fe5c6204287762b29a359c22f2b1dc592357850e19a9039c17f5790a75bb0be7dcac435704f2ccfa9b32766f380d3a11c01f2adcb3d6110afd405791e31e56b",
+  "container_md5_valid": true,
+  "blocks": [
+    {
+      "index": 0,
+      "cipher_hex": "2c4da3c494b513331cf3490e2be86b6b518a9d78102908158ad232f0d800ee4c67daef233500ef96ed2eca634d8aee975420a7eba6b1",
+      "em_hex": "fc5b56f169bd5c3ae38890852c73425dc4b9ed3d9b7123830b6d1d4b68eef9226bda878380b8de3a466d576ad928ce2903abc70705",
+      "old": {
+        "seed": "eacec1c42a8519f1f9e13149ac5ca2bd96ac1058",
+        "db": "da39a3ee5e6b4b0d3255bfef95601890afd807093892f8ac1e8a7c62b03e18dc72",
+        "lhash_ok": true,
+        "strict_ok": false,
+        "message_hex": null
+      },
+      "new": {
+        "seed": "eacec1c42a8519f1f9e13149ac5ca2bd96ac1058",
+        "db": "da39a3ee5e6b4b0d3255bfef95601890afd80709010a63753334336c33336e7161",
+        "lhash_ok": true,
+        "strict_ok": true,
+        "message_hex": "0a63753334336c33336e7161"
+      },
+      "first_db_divergence": 20,
+      "reencryption_exact": true
+    },
+    {
+      "index": 1,
+      "cipher_hex": "187d0867dc3801fdcaff24608ce6ec7c0d50ed0aa95cd00b27d1453e0625e6b874edc04f33d91b487e83ca753fe5c6204287762b29a3",
+      "em_hex": "871c1a5ad995d2e0dce2b02e31937b435df3141d0c68c64feffd7487a53fbdd225e2319b24b1fcd05a27433d42604ed10a286eb8f1",
+      "old": {
+        "seed": "0b56fb1b951ba1c706e201f99482aa97446647d1",
+        "db": "da39a3ee5e6b4b0d3255bfef95601890afd8070902ac101a0dc64b20057f0f8eba",
+        "lhash_ok": true,
+        "strict_ok": false,
+        "message_hex": null
+      },
+      "new": {
+        "seed": "0b56fb1b951ba1c706e201f99482aa97446647d1",
+        "db": "da39a3ee5e6b4b0d3255bfef95601890afd8070901656b726e772e6f6e696f6e0a",
+        "lhash_ok": true,
+        "strict_ok": true,
+        "message_hex": "656b726e772e6f6e696f6e0a"
+      },
+      "first_db_divergence": 20,
+      "reencryption_exact": true
+    },
+    {
+      "index": 2,
+      "cipher_hex": "59c22f2b1dc592357850e19a9039c17f5790a75bb0be7dcac435704f2ccfa9b32766f380d3a11c01f2adcb3d6110afd405791e31e56b",
+      "em_hex": "9243b0149c72c7bf8dfbade14fd22233ec90bb7e1b68212202aa54398c9ac3ee790d085ae9f8db78ab58a4ab6ffcf940ffebaec1df",
+      "old": {
+        "seed": "3f81b8f9d597e417ebfbc57eb7fd1049d32afa5e",
+        "db": "da39a3ee5e6b4b0d3255bfef95601890afd807091675bb54df6414d9f69a4b2516",
+        "lhash_ok": true,
+        "strict_ok": false,
+        "message_hex": null
+      },
+      "new": {
+        "seed": "3f81b8f9d597e417ebfbc57eb7fd1049d32afa5e",
+        "db": "da39a3ee5e6b4b0d3255bfef95601890afd807090000000000000000000000010a",
+        "lhash_ok": true,
+        "strict_ok": true,
+        "message_hex": "0a"
+      },
+      "first_db_divergence": 20,
+      "reencryption_exact": true
+    }
+  ],
+  "plaintext_hex": "0a63753334336c33336e7161656b726e772e6f6e696f6e0a0a",
+  "plaintext_utf8": "\ncu343l33nqaekrnw.onion\n\n",
+  "synthetic_source_interoperability": 4,
+  "header_equivalence_panel": [
+    {
+      "emlen": 53,
+      "trials": 1000
+    },
+    {
+      "emlen": 255,
+      "trials": 1000
+    },
+    {
+      "emlen": 256,
+      "trials": 1000
+    },
+    {
+      "emlen": 511,
+      "trials": 1000
+    }
+  ],
+  "header_equivalence_proof": "For any EM with hLen20, seedmask output length20 and first20 DBmask use only counter0 under either convention. Both reconstructed seed and DB[0:20] are identical. Subsequent counter0x14 versus0x01 only changes DB[20:].",
+  "lp2_payload_read": false,
+  "lp2_retest_reason": "No change to old first20-only predicate; no new payload/key/offset search justified.",
+  "actual_source_dependencies": "small integer PARI identity, Digest::SHA SHA1, fixed synthetic random seed; RSA arithmetic independently Python only"
+}

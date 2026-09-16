@@ -1,0 +1,68 @@
+{
+  "verdict": "PASS_SCOPED",
+  "sources": [
+    {
+      "url": "https://www.cpan.org/modules/by-module/Crypt/Crypt-RSA-1.99.tar.gz",
+      "sha256": "4706fd6605c920cd1c79f4afc0036b14e233620162b3957abe9b5f1be50b24be",
+      "unpatched_files_verified": 49
+    },
+    {
+      "url": "https://www.cpan.org/modules/by-module/Convert/Convert-ASCII-Armour-1.4.tar.gz",
+      "sha256": "97e8acb6eb2a2a91af7d6cf0d2dff6fa42aaf939fc7d6d1c6057a4f0df52c904",
+      "unpatched_files_verified": 10
+    }
+  ],
+  "carrier_sha256": "65ff60bfa019e424ce2ae23994f19af5692f7e12e6bc177830b42a154985defd",
+  "blocks": [
+    {
+      "em_hex": "fc5b56f169bd5c3ae38890852c73425dc4b9ed3d9b7123830b6d1d4b68eef9226bda878380b8de3a466d576ad928ce2903abc70705",
+      "message_hex": "0a63753334336c33336e7161",
+      "reencryption": true,
+      "crt_agrees": true
+    },
+    {
+      "em_hex": "871c1a5ad995d2e0dce2b02e31937b435df3141d0c68c64feffd7487a53fbdd225e2319b24b1fcd05a27433d42604ed10a286eb8f1",
+      "message_hex": "656b726e772e6f6e696f6e0a",
+      "reencryption": true,
+      "crt_agrees": true
+    },
+    {
+      "em_hex": "9243b0149c72c7bf8dfbade14fd22233ec90bb7e1b68212202aa54398c9ac3ee790d085ae9f8db78ab58a4ab6ffcf940ffebaec1df",
+      "message_hex": "0a",
+      "reencryption": true,
+      "crt_agrees": true
+    }
+  ],
+  "known_vectors": 6,
+  "malformed_controls_rejected": 7,
+  "old_predicate_panels": [
+    {
+      "em_length": 41,
+      "cases": 100
+    },
+    {
+      "em_length": 42,
+      "cases": 100
+    },
+    {
+      "em_length": 53,
+      "cases": 100
+    },
+    {
+      "em_length": 255,
+      "cases": 100
+    },
+    {
+      "em_length": 256,
+      "cases": 100
+    },
+    {
+      "em_length": 511,
+      "cases": 100
+    }
+  ],
+  "source_harness_sha256": "6c3f6788b276440c03c85a8a2118a43bfcf322552e3ad687fd2ae34feb32e443",
+  "lp2_read": false,
+  "signature_verified_here": false,
+  "missing_legacy_factor_script": true
+}

@@ -1,0 +1,70 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-06/check.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e306d1c3c90703873ea727812c3c4055dafab99b",
+  "started_utc": "2026-09-16T21:34:32.514410+00:00",
+  "timeout_seconds": 120,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "corpus/A-primary-artifacts/pgp/messages/2014-01-rsa-oaep-challenge.asc",
+      "exists": true,
+      "bytes": 1498,
+      "sha256": "65ff60bfa019e424ce2ae23994f19af5692f7e12e6bc177830b42a154985defd"
+    },
+    {
+      "path": "exploration/persistent-01/review-06/check.py",
+      "exists": true,
+      "bytes": 6547,
+      "sha256": "336e31e03da72d3d254e7cf8ff755370f771cde27345c100befabdd007acd43b"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M21/source_harness.pl",
+      "exists": true,
+      "bytes": 2505,
+      "sha256": "6c3f6788b276440c03c85a8a2118a43bfcf322552e3ad687fd2ae34feb32e443"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M21/sources/armour-manifest.json",
+      "exists": true,
+      "bytes": 2104,
+      "sha256": "5998e83c6bb339f59ef18dbb4c588bd6bdfb148f2841dea233d304e503b80d4a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M21/sources/manifest.json",
+      "exists": true,
+      "bytes": 8643,
+      "sha256": "9370dea4cd9b68d23c1691035da88e02e81920bd716f4e22e0d718d7791cf7ee"
+    },
+    {
+      "path": "liber-primus/analysis/round19/C1/e01_cryptrsa.py",
+      "exists": true,
+      "bytes": 10518,
+      "sha256": "76e463ee9d608db8ee1d692705ba5fb76e99f85fdb72558c0af5d5ae043d60e7"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 53712,
+  "finished_utc": "2026-09-16T21:34:34.325666+00:00",
+  "duration_seconds": 1.8110084590007318
+}

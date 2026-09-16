@@ -1,0 +1,254 @@
+{
+  "url": "https://www.cpan.org/modules/by-module/Crypt/Crypt-RSA-1.99.tar.gz",
+  "final_url": "https://www.cpan.org/modules/by-module/Crypt/Crypt-RSA-1.99.tar.gz",
+  "archive_bytes": 52393,
+  "sha256": "4706fd6605c920cd1c79f4afc0036b14e233620162b3957abe9b5f1be50b24be",
+  "files": [
+    {
+      "path": "Crypt-RSA-1.99/COPYING",
+      "bytes": 15238,
+      "sha256": "5c4f83b5db604539049b543b6519bd2838917121e983a9aa124a49ceec79e792"
+    },
+    {
+      "path": "Crypt-RSA-1.99/t/09-publickey.t",
+      "bytes": 1624,
+      "sha256": "d01fda1c12544fb2360d55e43d9cae4b63d26469816abfd094ee1742d06664bf"
+    },
+    {
+      "path": "Crypt-RSA-1.99/t/05-primitives.t",
+      "bytes": 1121,
+      "sha256": "18705af4bc2124a0bbeb7eed8683d12d99940b635d834cb4aca615c32b166444"
+    },
+    {
+      "path": "Crypt-RSA-1.99/t/01-i2osp.t",
+      "bytes": 991,
+      "sha256": "881d7c56c470bd09dffd26bb98cf5f9dd2a9cbcba86984fbd1f636e7a037d69c"
+    },
+    {
+      "path": "Crypt-RSA-1.99/t/15-benchmark.t",
+      "bytes": 3577,
+      "sha256": "96c91f8944274b5b851c90e5673528face60b05fae4f5b8115fca710f81ed84f"
+    },
+    {
+      "path": "Crypt-RSA-1.99/t/11-wrapper.t",
+      "bytes": 3538,
+      "sha256": "f50b628a6ab0215748bf87e5edf1beaffca72f2dfa76cf48b5e218c9cc892813"
+    },
+    {
+      "path": "Crypt-RSA-1.99/t/13-es-pkcs1v15.t",
+      "bytes": 2174,
+      "sha256": "0ea80ade374e07b48244b32709d0313ab7dd525de5f865537d6403d0f1ce93b6"
+    },
+    {
+      "path": "Crypt-RSA-1.99/t/00-errorhandler.t",
+      "bytes": 1171,
+      "sha256": "a671318a8d032ac3ea869576dc4e64dbb562dc1d542e49827cb8fb9767c0dd9d"
+    },
+    {
+      "path": "Crypt-RSA-1.99/t/10-keygen.t",
+      "bytes": 1090,
+      "sha256": "0ef4fe458f8d0b3756355facaf23245a79d2e28a68bd59a376162fb9d814467a"
+    },
+    {
+      "path": "Crypt-RSA-1.99/t/14-ss-pkcs1v15.t",
+      "bytes": 2306,
+      "sha256": "5dd05cdf9cf587f2241bd20dccefec4f759ef96a14a9eea7029ad16d901811e1"
+    },
+    {
+      "path": "Crypt-RSA-1.99/t/07-pss.t",
+      "bytes": 2108,
+      "sha256": "c04c472fd3a155c426cb5e26f88af624c7bffd6f0b560c82a9d8a54ec1b9fb11"
+    },
+    {
+      "path": "Crypt-RSA-1.99/t/03-random_octet.t",
+      "bytes": 640,
+      "sha256": "be56d57ef76df856075f6a2b7708b11d581b2a7c5b9b3d7683b565bd011a1bb6"
+    },
+    {
+      "path": "Crypt-RSA-1.99/t/08-secretkey.t",
+      "bytes": 2042,
+      "sha256": "087f922e74be68715152b9eeb246f67358b3ec55fc9bfce72d3b0416e053724a"
+    },
+    {
+      "path": "Crypt-RSA-1.99/t/04-octet_xor.t",
+      "bytes": 738,
+      "sha256": "f50afca0edff9e8c0eb241e37f6574abe390b03bac6228213ed341f592919d93"
+    },
+    {
+      "path": "Crypt-RSA-1.99/t/06-oaep.t",
+      "bytes": 1069,
+      "sha256": "e7fd8d2bfc337c2a6722746140e595d85327f9a0f6d0904c5d5c5bb994f90ce4"
+    },
+    {
+      "path": "Crypt-RSA-1.99/t/02-os2ip.t",
+      "bytes": 1364,
+      "sha256": "2479a47b76f19788b23233703921deb629c4541999224b31cc584032fc79d804"
+    },
+    {
+      "path": "Crypt-RSA-1.99/t/12-versioning.t",
+      "bytes": 660,
+      "sha256": "8ee020200db281d63311437e59701d246aed8f2e11961f073eedf864fcbc709c"
+    },
+    {
+      "path": "Crypt-RSA-1.99/TODO",
+      "bytes": 5695,
+      "sha256": "c8b941d678aa3d554aeb64b2198b6d23109085c6dfcbddce6dda5bde1841e82a"
+    },
+    {
+      "path": "Crypt-RSA-1.99/Makefile.PL",
+      "bytes": 1210,
+      "sha256": "b798e4fbc435355b25502ad7051259052df8504e53b17591f536e30d4f2e33b2"
+    },
+    {
+      "path": "Crypt-RSA-1.99/extradocs/crypt-rsa-interoperablity-template.pod",
+      "bytes": 807,
+      "sha256": "752e1474b3b67af86d5e568c11b8b80c5d9ecf89723d87303ca9d93a55503915"
+    },
+    {
+      "path": "Crypt-RSA-1.99/extradocs/crypt-rsa-interoperablity.pod",
+      "bytes": 1455,
+      "sha256": "2732f05087fddf51bab76b4fe9af4e21e63cbadf7ee36ff68c400d7cf314ee1a"
+    },
+    {
+      "path": "Crypt-RSA-1.99/MANIFEST.skip",
+      "bytes": 13,
+      "sha256": "e9a2ddb5e57e02b3b8aa2c1b272084acea3b6d8f1839cafef8f5d75c869dcc3c"
+    },
+    {
+      "path": "Crypt-RSA-1.99/MANIFEST",
+      "bytes": 1051,
+      "sha256": "884829704a42ffb5e7f7e08b1f5234c407f35e9a072f0037a8802d1c88fba073"
+    },
+    {
+      "path": "Crypt-RSA-1.99/inc/Module/Install.pm",
+      "bytes": 8549,
+      "sha256": "3afe2a015ee228682694bc67a40408dd966f90b0d326c4eedd892c2f021d094f"
+    },
+    {
+      "path": "Crypt-RSA-1.99/inc/Module/Install/Makefile.pm",
+      "bytes": 6225,
+      "sha256": "fb056e86da6b6118d3465b6992ee7ea2320fd9529cd90d0539024e1213da92fa"
+    },
+    {
+      "path": "Crypt-RSA-1.99/inc/Module/Install/Base.pm",
+      "bytes": 1053,
+      "sha256": "4b3ecad20356c14279bf7c962ac391d014363a637d3307b6e401c4de27fd67df"
+    },
+    {
+      "path": "Crypt-RSA-1.99/inc/Module/Install/Fetch.pm",
+      "bytes": 2456,
+      "sha256": "2ce4156aec78a2c85125ecfd6406c320d8444881961195b7bd64ae96f3608097"
+    },
+    {
+      "path": "Crypt-RSA-1.99/inc/Module/Install/Metadata.pm",
+      "bytes": 9448,
+      "sha256": "e9a658e6c7bd1ae4c1ce8008159c04aba951070c6f0bcfc202162d5c5c629a70"
+    },
+    {
+      "path": "Crypt-RSA-1.99/inc/Module/Install/WriteAll.pm",
+      "bytes": 721,
+      "sha256": "1f6b6ac622f02e5f45067d2c202b7ae5a3261f91e928905d455f7c2046492cbc"
+    },
+    {
+      "path": "Crypt-RSA-1.99/inc/Module/Install/Win32.pm",
+      "bytes": 1794,
+      "sha256": "81688695d82d58d11e07fa68543dbc1954207a849e899a9e640d5249b88005cd"
+    },
+    {
+      "path": "Crypt-RSA-1.99/inc/Module/Install/Can.pm",
+      "bytes": 1788,
+      "sha256": "aee9bee67e6531cdfccbd64c0947831256a2d5b57d5035bb5da110ebbe514fb5"
+    },
+    {
+      "path": "Crypt-RSA-1.99/Changes",
+      "bytes": 9947,
+      "sha256": "4b1dcab19d32f60861b0d0687b474df344d4b694b15178cbe73cdd9ecee73c29"
+    },
+    {
+      "path": "Crypt-RSA-1.99/README",
+      "bytes": 877,
+      "sha256": "9d4b9a275e3a0ee155606852db711988a1eae7f2d6454cb1775ac84c0dd16784"
+    },
+    {
+      "path": "Crypt-RSA-1.99/lib/Crypt/RSA.pm",
+      "bytes": 18130,
+      "sha256": "ff54d9706650157147eb4b24cb4ed8425f10e96f83f027620f25d4cea36d44ee"
+    },
+    {
+      "path": "Crypt-RSA-1.99/lib/Crypt/RSA/DataFormat.pm",
+      "bytes": 4661,
+      "sha256": "7df43c281f53fed2bc1310d3ff8e9c5379fab15d3b720949f2411cd6815e7b58"
+    },
+    {
+      "path": "Crypt-RSA-1.99/lib/Crypt/RSA/Debug.pm",
+      "bytes": 1660,
+      "sha256": "7a82c69f0bd15f1dcff8a3c08daf1eb6d6e2c20292ef5f06c8f5f91eca782b42"
+    },
+    {
+      "path": "Crypt-RSA-1.99/lib/Crypt/RSA/Primitives.pm",
+      "bytes": 3569,
+      "sha256": "059d7f853d957ae0590b7b0453b7c56e2298e0b5e0fa1dfd67a785de2aefaec4"
+    },
+    {
+      "path": "Crypt-RSA-1.99/lib/Crypt/RSA/SS/PKCS1v15.pm",
+      "bytes": 6601,
+      "sha256": "f1d0f40c1b27585c96adecbcace3a89a00d233289cdcc31a3e69a38e778ac4d0"
+    },
+    {
+      "path": "Crypt-RSA-1.99/lib/Crypt/RSA/SS/PSS.pm",
+      "bytes": 7948,
+      "sha256": "2ba87f0bcba6e0574f3a0451db345f2e5ea70064e5c9f84ad33d6e716347b567"
+    },
+    {
+      "path": "Crypt-RSA-1.99/lib/Crypt/RSA/Key/Private.pm",
+      "bytes": 8847,
+      "sha256": "a15038c927db30dd3ee7131902f7ebfc9b43d4a95b707b5c85f313129c5e250b"
+    },
+    {
+      "path": "Crypt-RSA-1.99/lib/Crypt/RSA/Key/Public.pm",
+      "bytes": 3723,
+      "sha256": "bb388027cf4ee42c4ee03063cb78dda31d4e89dc272f8d0d3ad4f1c0e28d37fe"
+    },
+    {
+      "path": "Crypt-RSA-1.99/lib/Crypt/RSA/Key/Public/SSH.pm",
+      "bytes": 1175,
+      "sha256": "3962a80442489a25e3fa2880d8dcb3fb3064777a6afc2cc7dba0ab8be6e70bd8"
+    },
+    {
+      "path": "Crypt-RSA-1.99/lib/Crypt/RSA/Key/Private/SSH.pm",
+      "bytes": 4648,
+      "sha256": "538c51cae9f321f9d0e6ee1b5fdd6a3b25264399c3d7a9bebae8c0309cd3b67b"
+    },
+    {
+      "path": "Crypt-RSA-1.99/lib/Crypt/RSA/Errorhandler.pm",
+      "bytes": 3114,
+      "sha256": "b1d4739519f5df66020b284f700a424a39c1c76e742f9e13ca3f4ed30a3998d8"
+    },
+    {
+      "path": "Crypt-RSA-1.99/lib/Crypt/RSA/Key.pm",
+      "bytes": 6581,
+      "sha256": "e975d217da3d8c2759325dd9ed6f54f5b8735780385736fe275e4df059ed4233"
+    },
+    {
+      "path": "Crypt-RSA-1.99/lib/Crypt/RSA/ES/OAEP.pm",
+      "bytes": 8813,
+      "sha256": "e491d70f873c546f7eee3fc8099fe977c8a4ceb3d69f1b32247b8e6dedd09326"
+    },
+    {
+      "path": "Crypt-RSA-1.99/lib/Crypt/RSA/ES/PKCS1v15.pm",
+      "bytes": 5637,
+      "sha256": "515884c7ba470b2f647e6b41d0fdb8523f43a69ce983f525aff7407ee5baa725"
+    },
+    {
+      "path": "Crypt-RSA-1.99/ARTISTIC",
+      "bytes": 5250,
+      "sha256": "e4a56cd2b0ec7054738275e4a0de6cf1de7a5a75d0f51f20e68750d1602cb3bc"
+    },
+    {
+      "path": "Crypt-RSA-1.99/META.yml",
+      "bytes": 649,
+      "sha256": "bbe6e0c07c9dc96fc4a040b4c4f419fe5ebd8aa847b5402344d80ff1211bda18"
+    }
+  ],
+  "missing_legacy_path": true
+}

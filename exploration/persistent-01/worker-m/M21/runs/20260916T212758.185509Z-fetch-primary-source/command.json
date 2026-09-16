@@ -1,0 +1,46 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-m/M21/fetch.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e306d1c3c90703873ea727812c3c4055dafab99b",
+  "started_utc": "2026-09-16T21:27:58.194639+00:00",
+  "timeout_seconds": 120,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M21/card.md",
+      "exists": true,
+      "bytes": 1876,
+      "sha256": "e56a494cae06ff6b3449e2e53e176659cac37d6ec0885665ea5b491792547403"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M21/fetch.py",
+      "exists": true,
+      "bytes": 1376,
+      "sha256": "707fe3a6a743628239c55e7ca6bd8ac7e8018540f5be02b777f7eaeb34fa32e8"
+    }
+  ],
+  "outcome": "NONZERO",
+  "exit_code": 1,
+  "pid": 53143,
+  "finished_utc": "2026-09-16T21:27:59.380037+00:00",
+  "duration_seconds": 1.1851950419986679
+}

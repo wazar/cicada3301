@@ -1,0 +1,37 @@
+{
+  "source_path": "corpus/A-primary-artifacts/pgp/messages/2014-01-rsa-oaep-challenge.asc",
+  "source_sha256": "65ff60bfa019e424ce2ae23994f19af5692f7e12e6bc177830b42a154985defd",
+  "n": 7557912574608535164426718292058021255641310207187633095795069445700059210248050757270234679993673844203148013173091173786572116639,
+  "e": 65537,
+  "k": 54,
+  "n_bits": 432,
+  "factors_product_matches_published": true,
+  "cipher_length": 162,
+  "cipher_sha256": "6a41b574cf4c1dea0fa9c99b033c77af8fec4fbd5d98fd1e7580f9d88cd321a7",
+  "container_md5_valid": true,
+  "plaintext_hex": "0a63753334336c33336e7161656b726e772e6f6e696f6e0a0a",
+  "plaintext_utf8": "\ncu343l33nqaekrnw.onion\n\n",
+  "synthetic_source_interoperability": 4,
+  "header_equivalence_panel": [
+    {
+      "emlen": 53,
+      "trials": 1000
+    },
+    {
+      "emlen": 255,
+      "trials": 1000
+    },
+    {
+      "emlen": 256,
+      "trials": 1000
+    },
+    {
+      "emlen": 511,
+      "trials": 1000
+    }
+  ],
+  "header_equivalence_proof": "For any EM with hLen20, seedmask output length20 and first20 DBmask use only counter0 under either convention. Both reconstructed seed and DB[0:20] are identical. Subsequent counter0x14 versus0x01 only changes DB[20:].",
+  "lp2_payload_read": false,
+  "lp2_retest_reason": "No change to old first20-only predicate; no new payload/key/offset search justified.",
+  "actual_source_dependencies": "small integer PARI identity, Digest::SHA SHA1, fixed synthetic random seed; RSA arithmetic independently Python only"
+}

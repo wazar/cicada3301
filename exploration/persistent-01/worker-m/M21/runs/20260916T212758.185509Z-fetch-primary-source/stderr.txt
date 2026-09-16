@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/worker-m/M21/fetch.py", line 5, in <module>
+    for x in members:assert x.name.startswith('Crypt-RSA-1.99/') and '..' not in pathlib.PurePosixPath(x.name).parts and not x.issym() and not x.islnk()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

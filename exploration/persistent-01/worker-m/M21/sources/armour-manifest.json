@@ -1,0 +1,59 @@
+{
+  "url": "https://www.cpan.org/modules/by-module/Convert/Convert-ASCII-Armour-1.4.tar.gz",
+  "final_url": "https://www.cpan.org/modules/by-module/Convert/Convert-ASCII-Armour-1.4.tar.gz",
+  "archive_bytes": 6002,
+  "sha256": "97e8acb6eb2a2a91af7d6cf0d2dff6fa42aaf939fc7d6d1c6057a4f0df52c904",
+  "files": [
+    {
+      "path": "Convert-ASCII-Armour-1.4/t/01-encode_content.t",
+      "bytes": 1263,
+      "sha256": "2f8a2a5d4c25e4fc8bc9f064b6101425392f2c178d87036d0d49ee23e7cc2e89"
+    },
+    {
+      "path": "Convert-ASCII-Armour-1.4/t/04-noheaders.t",
+      "bytes": 1495,
+      "sha256": "2f595486463e83b873b8874a79148b10b4c89842386f42add8a9ca194f9080a3"
+    },
+    {
+      "path": "Convert-ASCII-Armour-1.4/t/03-armour-compress.t",
+      "bytes": 1882,
+      "sha256": "48ff7eaa93674986347eac80e9bfaa6222e1e4617adbe92c8fbb0bcf5a511d27"
+    },
+    {
+      "path": "Convert-ASCII-Armour-1.4/t/02-armour.t",
+      "bytes": 1823,
+      "sha256": "bcf4173c8d22cda1cdfa65bae43fe08664fc577fec779ea13ad591637d295e56"
+    },
+    {
+      "path": "Convert-ASCII-Armour-1.4/t/05-armor.t",
+      "bytes": 1864,
+      "sha256": "6b4e99778b60d2689ce22421c53d17cb66c82bbf55fc65c1af443808f1c14548"
+    },
+    {
+      "path": "Convert-ASCII-Armour-1.4/lib/Convert/ASCII/Armour.pm",
+      "bytes": 6555,
+      "sha256": "b48cc2175189032f935ba1e47cc14a94baa9a9fe7d782aa079ebdc8bca81ce65"
+    },
+    {
+      "path": "Convert-ASCII-Armour-1.4/lib/Convert/ASCII/Armor.pm",
+      "bytes": 716,
+      "sha256": "c2455177f8d8d093cdcc69e92c2eec544d2c2b579bb237531206eb79e1a3d58b"
+    },
+    {
+      "path": "Convert-ASCII-Armour-1.4/MANIFEST",
+      "bytes": 276,
+      "sha256": "82997d4077288f6e48df4d039d501f5613f46a8a2f96642df54733d00381ab00"
+    },
+    {
+      "path": "Convert-ASCII-Armour-1.4/Makefile.PL",
+      "bytes": 689,
+      "sha256": "71a1a5aa31e5e17d8ed976da2cd2e055b22595803e82e3e01d13a2a565163f3a"
+    },
+    {
+      "path": "Convert-ASCII-Armour-1.4/ARTISTIC",
+      "bytes": 5250,
+      "sha256": "e4a56cd2b0ec7054738275e4a0de6cf1de7a5a75d0f51f20e68750d1602cb3bc"
+    }
+  ],
+  "missing_legacy_path": true
+}
