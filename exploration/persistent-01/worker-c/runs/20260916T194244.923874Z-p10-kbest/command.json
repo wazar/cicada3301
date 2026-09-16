@@ -1,0 +1,83 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "exploration/persistent-01/worker-c/p10_kbest.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "4271ab65c01e365f0e329dab627c15e389216996",
+  "started_utc": "2026-09-16T19:42:44.934333+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/overnight-01/worker-a/r02/keys.json",
+      "exists": true,
+      "bytes": 204818,
+      "sha256": "5a454fe2409ec0c7c612f39b9269d2c8a6fd85ef3f9dee96b243dcb03a19750c"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p03-frozen-manifest.json",
+      "exists": true,
+      "bytes": 1776,
+      "sha256": "15a39aa258bb53322db44759edba1eeafd2112c5714d4b111e721bfbb618e9cd"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p03.py",
+      "exists": true,
+      "bytes": 6350,
+      "sha256": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p03_frozen.py",
+      "exists": true,
+      "bytes": 6350,
+      "sha256": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p06.py",
+      "exists": true,
+      "bytes": 4929,
+      "sha256": "73400b516aa94041f7b050657f77a50f35b46ef701350497ed802bf78f21bc40"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p08.py",
+      "exists": true,
+      "bytes": 4793,
+      "sha256": "f7e4ef7301b9ecdf0bd9997417b4936f4be3bd053db86ccffbae998bec1d0753"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p09_viterbi.py",
+      "exists": true,
+      "bytes": 4138,
+      "sha256": "f30a31fe4e267744f9fa46e2c6704b5061ed3313570bef6897f0f0fafb61e284"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p10_kbest.py",
+      "exists": true,
+      "bytes": 3784,
+      "sha256": "2a59429fa83073e04c551eb4ce4ef2ca3fcff47e091d043eaa6e0d7d0b8f1cef"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 26839,
+  "finished_utc": "2026-09-16T19:44:26.429196+00:00",
+  "duration_seconds": 101.49428783400072
+}

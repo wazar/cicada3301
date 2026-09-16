@@ -1,0 +1,10 @@
+Assumption challenged: all mechanisms are additive scalar keystreams; English quadgrams are required evidence.
+Alternative: published5x5 numeric squares are fixed invertible block-linear operators over rune indicesF29. E01 established rank5 for both.
+Prediction: applying correct fixed operator/direction yields nonuniform symbol distribution or dependencies from structured source; within-page ciphertext shuffling destroys block alignment. No statement that all meaningful output must be nonuniform.
+Exact transformation: two published matrices reduced29 and their inverses; each applied to consecutive5-rune column vectors at offsets0..4 independently within each discoverypage. Pool transformed outputs over45pages; score Pearson concentration across29rune frequencies.20fixed candidates, no fitted key/English scorer. Record all scores and family maximum.
+Controls: biased synthetic rune plaintext from weights29..1; encrypt with first source matrix at phase0, ensure inverse phase0 recovery and whole-procedure detection. Null1000 independent within-page rune shuffles; recalculates all20candidates and maximum. Negative shuffle retains marginal frequencies, removes block alignment; no p-value claim across earlier/future adaptive tests.
+Against: no real excess versus maximum-null undermines fixed5-rune block-linear interpretation with nonuniform output; does not exclude uniform/compressed output, transposition, other block boundary policies.
+Free parameters:2source matrices x2directions x5phases=20; rune-index representation fixed; no matrix combinations, offsets or keys.
+Prior coverage: initial bounded report search found magic-square stream as key in ARMADA-20-FINDINGS.md, not this block-linear test; precise source-code overlap still to inspect. Incidental reserved page54vision metadata returned during an overbroad prior-coverage search; not used in rule or input, documented separately.
+First command: run experiment02.py through run_logged.py900s cap.
+Next distinct test: integers as complete coordinate selectors/domain and duplicate constraints, without partial text interpretation.

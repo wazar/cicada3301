@@ -1,0 +1,11 @@
+{
+  "cases": 4008,
+  "compatible_cases": 1820,
+  "width": 1,
+  "signs": [
+    -1,
+    1
+  ],
+  "finding": "Prefix feasibility guard retained an arithmetic completion iff key length >= nonzero ciphertext count, even under hostile ranking. Every retained path independently reconstructs ciphertext.",
+  "limit": "Existence and arithmetic only; not optimal language ranking, planted recovery or plaintext evidence."
+}

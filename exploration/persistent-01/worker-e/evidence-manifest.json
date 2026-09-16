@@ -1,0 +1,65 @@
+{
+  "experiment06-evidence.json.gz": {
+    "sha256": "84aebad4678e34e98770e0f96f6f4c57a02ddde1657d5738275e0eaa497e6528",
+    "bytes": 68040,
+    "keys": [
+      "null_all_statistics",
+      "controls",
+      "decoded",
+      "rng_seed",
+      "ordering"
+    ]
+  },
+  "experiment02-evidence.json.gz": {
+    "sha256": "193802c4d5e9961a43c47c1647e2966e8218315aebe52cc32a91a7ab35d6a949",
+    "bytes": 337222,
+    "keys": [
+      "null_all_scores",
+      "control_null_all_scores",
+      "control_null_maxima",
+      "control_plain",
+      "control_cipher",
+      "control_candidates",
+      "rng_seed",
+      "ordering",
+      "transformed"
+    ]
+  },
+  "experiment05-evidence.json.gz": {
+    "sha256": "4147111382f52bd712042b7f4adc15cb77c38a5984a4c84f108abc75a9d87c48",
+    "bytes": 2657,
+    "keys": [
+      "null_all_match_counts",
+      "null_max_match_counts",
+      "control_input",
+      "control_target",
+      "control_corrupted",
+      "rng_seed",
+      "ordering"
+    ]
+  },
+  "experiment04-evidence.json.gz": {
+    "sha256": "d0dd1320b4aaf4dd0aa757af15d692ebc440eecf0aea825baddf26c9e5bef088",
+    "bytes": 159749,
+    "keys": [
+      "null_all_scores",
+      "control_null_all_scores",
+      "control_null_maxima",
+      "control_plain",
+      "control_cipher",
+      "control_candidates",
+      "rng_seed",
+      "ordering",
+      "transformed_outputs"
+    ]
+  },
+  "experiment01-null.json.gz": {
+    "sha256": "81475d1d6461b28479a4d9363c5185bb2d065f050504e256ab9e532ec2887a9a",
+    "bytes": 171,
+    "keys": [
+      "null_hit_counts",
+      "rng_seed",
+      "ordering"
+    ]
+  }
+}

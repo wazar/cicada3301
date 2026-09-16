@@ -1,0 +1,807 @@
+{
+  "summary": {
+    "eligible_cells": 3972,
+    "old_ordinary_length_eligible": 3896,
+    "new_length_gap_cells": 76,
+    "affected_pages": [
+      0,
+      1,
+      3,
+      8,
+      11,
+      12,
+      13,
+      15,
+      16,
+      17,
+      18,
+      20,
+      22,
+      23,
+      25,
+      26,
+      27,
+      28,
+      31,
+      33,
+      36,
+      40,
+      41,
+      42,
+      43,
+      45,
+      46,
+      48,
+      49,
+      51,
+      53
+    ],
+    "interpretation": "Necessary key-length eligibility only; no plaintext tested or recovered.",
+    "input_hashes": {
+      "audit/parallel-01/inputs/dataset.json": "e3d8a8b7a81f00e17d54209772eee7bedb5b922e6176ca722be31f952eaea895",
+      "exploration/overnight-01/worker-a/r02/keys.json": "5a454fe2409ec0c7c612f39b9269d2c8a6fd85ef3f9dee96b243dcb03a19750c"
+    }
+  },
+  "omitted_cells": [
+    {
+      "page": 0,
+      "key_id": "text:solved_0_loss_of_divinity.txt",
+      "offset": 503,
+      "sign": -1,
+      "remaining": 252,
+      "runes": 262,
+      "cipher_Fs": 14,
+      "minimum_consumption": 248
+    },
+    {
+      "page": 0,
+      "key_id": "text:solved_0_loss_of_divinity.txt",
+      "offset": 503,
+      "sign": 1,
+      "remaining": 252,
+      "runes": 262,
+      "cipher_Fs": 14,
+      "minimum_consumption": 248
+    },
+    {
+      "page": 0,
+      "key_id": "text:solved_jpg107-167.txt",
+      "offset": 71,
+      "sign": -1,
+      "remaining": 248,
+      "runes": 262,
+      "cipher_Fs": 14,
+      "minimum_consumption": 248
+    },
+    {
+      "page": 0,
+      "key_id": "text:solved_jpg107-167.txt",
+      "offset": 71,
+      "sign": 1,
+      "remaining": 248,
+      "runes": 262,
+      "cipher_Fs": 14,
+      "minimum_consumption": 248
+    },
+    {
+      "page": 1,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": -1,
+      "remaining": 264,
+      "runes": 266,
+      "cipher_Fs": 13,
+      "minimum_consumption": 253
+    },
+    {
+      "page": 1,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": 1,
+      "remaining": 264,
+      "runes": 266,
+      "cipher_Fs": 13,
+      "minimum_consumption": 253
+    },
+    {
+      "page": 3,
+      "key_id": "text:solved_0_loss_of_divinity.txt",
+      "offset": 539,
+      "sign": -1,
+      "remaining": 216,
+      "runes": 217,
+      "cipher_Fs": 7,
+      "minimum_consumption": 210
+    },
+    {
+      "page": 3,
+      "key_id": "text:solved_0_loss_of_divinity.txt",
+      "offset": 539,
+      "sign": 1,
+      "remaining": 216,
+      "runes": 217,
+      "cipher_Fs": 7,
+      "minimum_consumption": 210
+    },
+    {
+      "page": 8,
+      "key_id": "text:solved_0_loss_of_divinity.txt",
+      "offset": 503,
+      "sign": -1,
+      "remaining": 252,
+      "runes": 255,
+      "cipher_Fs": 8,
+      "minimum_consumption": 247
+    },
+    {
+      "page": 8,
+      "key_id": "text:solved_0_loss_of_divinity.txt",
+      "offset": 503,
+      "sign": 1,
+      "remaining": 252,
+      "runes": 255,
+      "cipher_Fs": 8,
+      "minimum_consumption": 247
+    },
+    {
+      "page": 8,
+      "key_id": "text:solved_jpg107-167.txt",
+      "offset": 71,
+      "sign": -1,
+      "remaining": 248,
+      "runes": 255,
+      "cipher_Fs": 8,
+      "minimum_consumption": 247
+    },
+    {
+      "page": 8,
+      "key_id": "text:solved_jpg107-167.txt",
+      "offset": 71,
+      "sign": 1,
+      "remaining": 248,
+      "runes": 255,
+      "cipher_Fs": 8,
+      "minimum_consumption": 247
+    },
+    {
+      "page": 11,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": -1,
+      "remaining": 264,
+      "runes": 273,
+      "cipher_Fs": 14,
+      "minimum_consumption": 259
+    },
+    {
+      "page": 11,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": 1,
+      "remaining": 264,
+      "runes": 273,
+      "cipher_Fs": 14,
+      "minimum_consumption": 259
+    },
+    {
+      "page": 12,
+      "key_id": "text:solved_0_loss_of_divinity.txt",
+      "offset": 503,
+      "sign": -1,
+      "remaining": 252,
+      "runes": 261,
+      "cipher_Fs": 12,
+      "minimum_consumption": 249
+    },
+    {
+      "page": 12,
+      "key_id": "text:solved_0_loss_of_divinity.txt",
+      "offset": 503,
+      "sign": 1,
+      "remaining": 252,
+      "runes": 261,
+      "cipher_Fs": 12,
+      "minimum_consumption": 249
+    },
+    {
+      "page": 13,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": -1,
+      "remaining": 264,
+      "runes": 272,
+      "cipher_Fs": 12,
+      "minimum_consumption": 260
+    },
+    {
+      "page": 13,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": 1,
+      "remaining": 264,
+      "runes": 272,
+      "cipher_Fs": 12,
+      "minimum_consumption": 260
+    },
+    {
+      "page": 15,
+      "key_id": "text:solved_0_warning.txt",
+      "offset": 28,
+      "sign": -1,
+      "remaining": 156,
+      "runes": 159,
+      "cipher_Fs": 7,
+      "minimum_consumption": 152
+    },
+    {
+      "page": 15,
+      "key_id": "text:solved_0_warning.txt",
+      "offset": 28,
+      "sign": 1,
+      "remaining": 156,
+      "runes": 159,
+      "cipher_Fs": 7,
+      "minimum_consumption": 152
+    },
+    {
+      "page": 15,
+      "key_id": "text:solved_0_wisdom.txt",
+      "offset": 0,
+      "sign": -1,
+      "remaining": 157,
+      "runes": 159,
+      "cipher_Fs": 7,
+      "minimum_consumption": 152
+    },
+    {
+      "page": 15,
+      "key_id": "text:solved_0_wisdom.txt",
+      "offset": 0,
+      "sign": 1,
+      "remaining": 157,
+      "runes": 159,
+      "cipher_Fs": 7,
+      "minimum_consumption": 152
+    },
+    {
+      "page": 15,
+      "key_id": "text:solved_0_koan_1.txt",
+      "offset": 627,
+      "sign": -1,
+      "remaining": 153,
+      "runes": 159,
+      "cipher_Fs": 7,
+      "minimum_consumption": 152
+    },
+    {
+      "page": 15,
+      "key_id": "text:solved_0_koan_1.txt",
+      "offset": 627,
+      "sign": 1,
+      "remaining": 153,
+      "runes": 159,
+      "cipher_Fs": 7,
+      "minimum_consumption": 152
+    },
+    {
+      "page": 16,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": -1,
+      "remaining": 264,
+      "runes": 267,
+      "cipher_Fs": 10,
+      "minimum_consumption": 257
+    },
+    {
+      "page": 16,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": 1,
+      "remaining": 264,
+      "runes": 267,
+      "cipher_Fs": 10,
+      "minimum_consumption": 257
+    },
+    {
+      "page": 17,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": -1,
+      "remaining": 264,
+      "runes": 273,
+      "cipher_Fs": 12,
+      "minimum_consumption": 261
+    },
+    {
+      "page": 17,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": 1,
+      "remaining": 264,
+      "runes": 273,
+      "cipher_Fs": 12,
+      "minimum_consumption": 261
+    },
+    {
+      "page": 18,
+      "key_id": "text:solved_0_loss_of_divinity.txt",
+      "offset": 503,
+      "sign": -1,
+      "remaining": 252,
+      "runes": 260,
+      "cipher_Fs": 10,
+      "minimum_consumption": 250
+    },
+    {
+      "page": 18,
+      "key_id": "text:solved_0_loss_of_divinity.txt",
+      "offset": 503,
+      "sign": 1,
+      "remaining": 252,
+      "runes": 260,
+      "cipher_Fs": 10,
+      "minimum_consumption": 250
+    },
+    {
+      "page": 20,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": -1,
+      "remaining": 264,
+      "runes": 269,
+      "cipher_Fs": 7,
+      "minimum_consumption": 262
+    },
+    {
+      "page": 20,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": 1,
+      "remaining": 264,
+      "runes": 269,
+      "cipher_Fs": 7,
+      "minimum_consumption": 262
+    },
+    {
+      "page": 22,
+      "key_id": "text:solved_0_wisdom.txt",
+      "offset": 27,
+      "sign": -1,
+      "remaining": 130,
+      "runes": 131,
+      "cipher_Fs": 6,
+      "minimum_consumption": 125
+    },
+    {
+      "page": 22,
+      "key_id": "text:solved_0_wisdom.txt",
+      "offset": 27,
+      "sign": 1,
+      "remaining": 130,
+      "runes": 131,
+      "cipher_Fs": 6,
+      "minimum_consumption": 125
+    },
+    {
+      "page": 22,
+      "key_id": "text:solved_0_loss_of_divinity.txt",
+      "offset": 630,
+      "sign": -1,
+      "remaining": 125,
+      "runes": 131,
+      "cipher_Fs": 6,
+      "minimum_consumption": 125
+    },
+    {
+      "page": 22,
+      "key_id": "text:solved_0_loss_of_divinity.txt",
+      "offset": 630,
+      "sign": 1,
+      "remaining": 125,
+      "runes": 131,
+      "cipher_Fs": 6,
+      "minimum_consumption": 125
+    },
+    {
+      "page": 23,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 307,
+      "sign": -1,
+      "remaining": 208,
+      "runes": 213,
+      "cipher_Fs": 7,
+      "minimum_consumption": 206
+    },
+    {
+      "page": 23,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 307,
+      "sign": 1,
+      "remaining": 208,
+      "runes": 213,
+      "cipher_Fs": 7,
+      "minimum_consumption": 206
+    },
+    {
+      "page": 25,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": -1,
+      "remaining": 264,
+      "runes": 273,
+      "cipher_Fs": 9,
+      "minimum_consumption": 264
+    },
+    {
+      "page": 25,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": 1,
+      "remaining": 264,
+      "runes": 273,
+      "cipher_Fs": 9,
+      "minimum_consumption": 264
+    },
+    {
+      "page": 26,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": -1,
+      "remaining": 264,
+      "runes": 265,
+      "cipher_Fs": 9,
+      "minimum_consumption": 256
+    },
+    {
+      "page": 26,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": 1,
+      "remaining": 264,
+      "runes": 265,
+      "cipher_Fs": 9,
+      "minimum_consumption": 256
+    },
+    {
+      "page": 27,
+      "key_id": "text:solved_0_loss_of_divinity.txt",
+      "offset": 527,
+      "sign": -1,
+      "remaining": 228,
+      "runes": 234,
+      "cipher_Fs": 11,
+      "minimum_consumption": 223
+    },
+    {
+      "page": 27,
+      "key_id": "text:solved_0_loss_of_divinity.txt",
+      "offset": 527,
+      "sign": 1,
+      "remaining": 228,
+      "runes": 234,
+      "cipher_Fs": 11,
+      "minimum_consumption": 223
+    },
+    {
+      "page": 28,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": -1,
+      "remaining": 264,
+      "runes": 269,
+      "cipher_Fs": 12,
+      "minimum_consumption": 257
+    },
+    {
+      "page": 28,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": 1,
+      "remaining": 264,
+      "runes": 269,
+      "cipher_Fs": 12,
+      "minimum_consumption": 257
+    },
+    {
+      "page": 31,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": -1,
+      "remaining": 264,
+      "runes": 269,
+      "cipher_Fs": 9,
+      "minimum_consumption": 260
+    },
+    {
+      "page": 31,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": 1,
+      "remaining": 264,
+      "runes": 269,
+      "cipher_Fs": 9,
+      "minimum_consumption": 260
+    },
+    {
+      "page": 33,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 307,
+      "sign": -1,
+      "remaining": 208,
+      "runes": 214,
+      "cipher_Fs": 9,
+      "minimum_consumption": 205
+    },
+    {
+      "page": 33,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 307,
+      "sign": 1,
+      "remaining": 208,
+      "runes": 214,
+      "cipher_Fs": 9,
+      "minimum_consumption": 205
+    },
+    {
+      "page": 36,
+      "key_id": "text:solved_0_koan_1.txt",
+      "offset": 543,
+      "sign": -1,
+      "remaining": 237,
+      "runes": 238,
+      "cipher_Fs": 8,
+      "minimum_consumption": 230
+    },
+    {
+      "page": 36,
+      "key_id": "text:solved_0_koan_1.txt",
+      "offset": 543,
+      "sign": 1,
+      "remaining": 237,
+      "runes": 238,
+      "cipher_Fs": 8,
+      "minimum_consumption": 230
+    },
+    {
+      "page": 40,
+      "key_id": "text:solved_0_loss_of_divinity.txt",
+      "offset": 527,
+      "sign": -1,
+      "remaining": 228,
+      "runes": 231,
+      "cipher_Fs": 10,
+      "minimum_consumption": 221
+    },
+    {
+      "page": 40,
+      "key_id": "text:solved_0_loss_of_divinity.txt",
+      "offset": 527,
+      "sign": 1,
+      "remaining": 228,
+      "runes": 231,
+      "cipher_Fs": 10,
+      "minimum_consumption": 221
+    },
+    {
+      "page": 41,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": -1,
+      "remaining": 264,
+      "runes": 273,
+      "cipher_Fs": 11,
+      "minimum_consumption": 262
+    },
+    {
+      "page": 41,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": 1,
+      "remaining": 264,
+      "runes": 273,
+      "cipher_Fs": 11,
+      "minimum_consumption": 262
+    },
+    {
+      "page": 42,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": -1,
+      "remaining": 264,
+      "runes": 272,
+      "cipher_Fs": 14,
+      "minimum_consumption": 258
+    },
+    {
+      "page": 42,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": 1,
+      "remaining": 264,
+      "runes": 272,
+      "cipher_Fs": 14,
+      "minimum_consumption": 258
+    },
+    {
+      "page": 43,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": -1,
+      "remaining": 264,
+      "runes": 274,
+      "cipher_Fs": 17,
+      "minimum_consumption": 257
+    },
+    {
+      "page": 43,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": 1,
+      "remaining": 264,
+      "runes": 274,
+      "cipher_Fs": 17,
+      "minimum_consumption": 257
+    },
+    {
+      "page": 45,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": -1,
+      "remaining": 264,
+      "runes": 270,
+      "cipher_Fs": 8,
+      "minimum_consumption": 262
+    },
+    {
+      "page": 45,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": 1,
+      "remaining": 264,
+      "runes": 270,
+      "cipher_Fs": 8,
+      "minimum_consumption": 262
+    },
+    {
+      "page": 46,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": -1,
+      "remaining": 264,
+      "runes": 270,
+      "cipher_Fs": 9,
+      "minimum_consumption": 261
+    },
+    {
+      "page": 46,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": 1,
+      "remaining": 264,
+      "runes": 270,
+      "cipher_Fs": 9,
+      "minimum_consumption": 261
+    },
+    {
+      "page": 48,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": -1,
+      "remaining": 264,
+      "runes": 271,
+      "cipher_Fs": 14,
+      "minimum_consumption": 257
+    },
+    {
+      "page": 48,
+      "key_id": "text:solved_0_welcome.txt",
+      "offset": 251,
+      "sign": 1,
+      "remaining": 264,
+      "runes": 271,
+      "cipher_Fs": 14,
+      "minimum_consumption": 257
+    },
+    {
+      "page": 49,
+      "key_id": "text:solved_0_warning.txt",
+      "offset": 120,
+      "sign": -1,
+      "remaining": 64,
+      "runes": 66,
+      "cipher_Fs": 2,
+      "minimum_consumption": 64
+    },
+    {
+      "page": 49,
+      "key_id": "text:solved_0_warning.txt",
+      "offset": 120,
+      "sign": 1,
+      "remaining": 64,
+      "runes": 66,
+      "cipher_Fs": 2,
+      "minimum_consumption": 64
+    },
+    {
+      "page": 51,
+      "key_id": "text:solved_p57_parable.txt",
+      "offset": 7,
+      "sign": -1,
+      "remaining": 88,
+      "runes": 92,
+      "cipher_Fs": 4,
+      "minimum_consumption": 88
+    },
+    {
+      "page": 51,
+      "key_id": "text:solved_p57_parable.txt",
+      "offset": 7,
+      "sign": 1,
+      "remaining": 88,
+      "runes": 92,
+      "cipher_Fs": 4,
+      "minimum_consumption": 88
+    },
+    {
+      "page": 53,
+      "key_id": "text:solved_0_warning.txt",
+      "offset": 6,
+      "sign": -1,
+      "remaining": 178,
+      "runes": 179,
+      "cipher_Fs": 5,
+      "minimum_consumption": 174
+    },
+    {
+      "page": 53,
+      "key_id": "text:solved_0_warning.txt",
+      "offset": 6,
+      "sign": 1,
+      "remaining": 178,
+      "runes": 179,
+      "cipher_Fs": 5,
+      "minimum_consumption": 174
+    },
+    {
+      "page": 53,
+      "key_id": "text:solved_0_koan_1.txt",
+      "offset": 605,
+      "sign": -1,
+      "remaining": 175,
+      "runes": 179,
+      "cipher_Fs": 5,
+      "minimum_consumption": 174
+    },
+    {
+      "page": 53,
+      "key_id": "text:solved_0_koan_1.txt",
+      "offset": 605,
+      "sign": 1,
+      "remaining": 175,
+      "runes": 179,
+      "cipher_Fs": 5,
+      "minimum_consumption": 174
+    },
+    {
+      "page": 53,
+      "key_id": "text:solved_jpg107-167.txt",
+      "offset": 145,
+      "sign": -1,
+      "remaining": 174,
+      "runes": 179,
+      "cipher_Fs": 5,
+      "minimum_consumption": 174
+    },
+    {
+      "page": 53,
+      "key_id": "text:solved_jpg107-167.txt",
+      "offset": 145,
+      "sign": 1,
+      "remaining": 174,
+      "runes": 179,
+      "cipher_Fs": 5,
+      "minimum_consumption": 174
+    }
+  ]
+}

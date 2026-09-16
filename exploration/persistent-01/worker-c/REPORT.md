@@ -1,0 +1,31 @@
+# PERSISTENT-01 worker C — research in progress
+
+No credible plaintext found. No reserved original page decoded. All language claims are conditional on the small solved-reference English register; source-disjoint here means complete reference groups, not independent image witnesses.
+
+- P03 direct rune+boundary trigram scorer trained on complete warning,wisdom,koan1,loss-of-divinity,jpg229, held welcome/circumference/p56/p57. Actual64key/sign/phase searches recover all4 complete heldgroups exactly; matched shuffles do not. First16 cluekeys/allphases/bothsigns across45pages withmatchednull gives14,580 Fbeam64 searches, no separation. Frozen model/source hashes in `p03-frozen-manifest.json`.
+- P06 exact quad objective versus inherited surrogate,38 matched fits:27 samekeys,11 differ. Both recover periods1/3/8/16 on2heldsources; period32 fails. Exactvector score agrees direct100random checks. Continuations remain noise.
+- P08 unknown periodic key with literalF fitting under independentrune LM:6/6 exact searchedkeys periods1/3/8,4/6 fulloutputs exact. Remaining cases have1training or2continuation runeerrors whiletruepath survives. All45pages×3periods×real/null=270 fits,167,174 fittingbeam calls,166,783,391 path expansions. Realbest continuation−4.42046, nullbest−4.10978. No coherent fulloutput.
+- SharedP13, localworker-c/P09: exactViterbi state=keyphase+last2LMtokens.100 exhaustive controls14,970 masks confirm maxima. Wrongpath controls remainwrong at exactoptimum: scoring limitation, not beamwidth. First4 realpage leaders unchanged.
+- SharedP13 followup, localworker-c/P10: exactglobaltop16 (16paths perstate),100 exhaustive alltop16 scorechecks pass. Newclue16..31 allphases/signs×45pages+matchednull=20,520 cells.338 perkey scores improve overbeam64 (max0.182);0/90 pageleaders change.200,813,788 exactpath expansions. `frozen_kbest.py` standalone immutable decoder, SHA256 bdd54bf0fdbd07f9115e9354ae7ef3e913b554a5d2f6a5587f4ae21c328f5390; sharedwithA.
+- C14 length/start factorial:24 fits2,107,200 objective evaluations. Both period32 plantedcases fail first50% regardless4or32starts; both recover exactkeys andcontinuations at75% even4starts. This diagnoses samplelength sensitivity, not universalperiod bounds. Real0/17 continuations remainnoise.
+- C15 finite-key exacttop16 runeLM:100 exhaustive controls include impossible/emptykey cases. Actual96keysearch onheldp56/p57 finds truthkeyrank1both; p56 exact,p57two runeerrors withtruthintop16.256 deterministicBjob IDs andmatchednull, realbest−4.335/null−4.440. Full30,048job×real/null application complete:60,096 exactcells,155,715,556 path expansions, realbest−4.05145/null−4.08428; no credible separation. Frozenfinite.py sharedwithD.
+
+## Evidence and next actions
+
+Execution snapshots, input hashes, PIDs, commands, rawstdout/stderr and exits in `runs/`. Cards predate their runs. `publication-compression.json` maps largecompleted originals to losslessgzip copies and bothSHA256s; originals keptlocal for existingreader compatibility. Exclude listed originals fromGit and publishcompressed files withmanifest.
+
+Current strategy outside-box-v1: additive/scorer refinements deferred. WorkerC now challenges the operation/outputunits, with language-agnostic predictions. See below. Preserve exactarithmetic, searchretention, scorepreference and actualkeyrecovery as separate observations.
+
+## Outside-box-v1 checkpoint (2026-09-16)
+
+C16 was completed before strategicpivot: strictall-plaintextF-literal rule reproduces3actualreference groups exactly; among7,290 fixedclue cells real287paths-compatible/null301, no separation. No further expansion.
+
+OB-C1 nonadditive previouscipher-deletion rankcode:29rune alphabet withescape28,remainder ordered28;58fixedrotations/directions.27source enc/dec controls exact;4heldgroups correctorder entropy rank1 with2reflectionties. Held entropy4.1905bits/lagMI1.2412, matchednull p<=1/201. Actual45pages10,466runes entropy4.80399 (log2(28)=4.80735),MI.05707.200 matchedgenerative/permutation nulls: entropy p.0398/.0697, MI p.672/.652. Tiny entropydeparture doesnot resemble encodedreference signal. Iid rank input withescapeq/uniformother28 generates exactly the same Markov law asrepeatq/uniformothercipher; not identifiable fromdoublets alone.
+
+OB-C2 adaptive move-to-front permutation code: output repeats iffsource rank0; sourceEA28 assignedrank0.27source exactcontrols plus58initialalphabet invariance checks. Recurrence ranks atalreadyseen symbols are independentofANY initialalphabet; firstoccurrences excluded. Held entropy4.180/MI1.035 vsreal4.79693/.06980. Realnull entropy p.985/.886,MI p.433/.383. No source-like skew/dependency. Complete58initialmaps preserved; noEnglishadmission.
+
+OB-C3 adjacentpagecontinuity:12 contiguousdiscoverygroups,never bridgeheldout/missing50, resolves956 formerlyomitted ranks. Extraentropy4.3223 vsheldcontrol3.7003; realnull p.960/.965. No signal. Rankcodefamily nowleft; no arbitraryinitialalphabet expansion.
+
+OB-C4 digraphfractionation: source0..209 ->A14xB15 pair;2fixedpartitions/2phases. Globalalternating stream necessarycondition, notgeneral fractionation. Spectralbound says ANY partition requires>=44.9994% withinclass transitions onrealinput, versus0.54697% repeatedrunes. Sparse stuttercannot explainthis.18source enc/dec anduniform210stuttercontrols pass.200repeatmatchedgenerative nullbound range.44537..45756; observedtypical. Explicitproof and boundaryscope inOB-C4-BOUND.md.100 weightedtinygraphs validate boundagainst exhaustivecuts; perpage and withinpair phase checks inob-c4/pagewise-boundary-checks.json. Distinguish overlapping consecutiveedges fromdisjointpair edges. No decoder basedonEnglishscore orcandidatepad.
+
+Next two executable questions: (1) overlapping-alphabet digraph transform where globalbipartiteness isnotnecessary: fixed coordinate rotations/reflections or modularproduct units, calibratedjointlag predictions andsourceenc/dec controls; (2) directfixed base29 digitpair->integer output with explicitstructured-target constraints, comparecompleteparses/checksums ratherthan printablefragments. Select concrete lowcomplexity rule aftercurrentevidence, do not run arbitraryprogramsearch. Fixeddeadline2026-09-17T03:30:37Z unchanged; currentworker alive.

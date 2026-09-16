@@ -1,0 +1,64 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "exploration/persistent-01/worker-b/search.py",
+    "search",
+    "--count",
+    "100",
+    "--null-seed",
+    "92001"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "4271ab65c01e365f0e329dab627c15e389216996",
+  "started_utc": "2026-09-16T19:34:42.088766+00:00",
+  "timeout_seconds": 300,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/parallel-01/inputs/dataset.json",
+      "exists": true,
+      "bytes": 1378156,
+      "sha256": "e3d8a8b7a81f00e17d54209772eee7bedb5b922e6176ca722be31f952eaea895"
+    },
+    {
+      "path": "exploration/overnight-01/worker-c/routes.json",
+      "exists": true,
+      "bytes": 124291,
+      "sha256": "d908ef6359c206bdf4a117812daf01e44da7e12c0915c638e55db18aee3a9e10"
+    },
+    {
+      "path": "exploration/overnight-01/worker-c/search.py",
+      "exists": true,
+      "bytes": 6560,
+      "sha256": "71d8abd6edd0c08f4b1f682e1ddfe55325273b275398f545225e9d28c74aa12b"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-b/search.py",
+      "exists": true,
+      "bytes": 5542,
+      "sha256": "19a40fafc7991e4e94e30648c12901cd6b9f299785e852c86adf6cff8d1ab26c"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 22722,
+  "finished_utc": "2026-09-16T19:34:44.909119+00:00",
+  "duration_seconds": 2.820139499999641
+}

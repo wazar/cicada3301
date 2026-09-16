@@ -1,0 +1,338 @@
+{
+  "scope": "bounded independent arithmetic/evidence review",
+  "checks": [
+    {
+      "id": "E01",
+      "status": "PASS",
+      "windows": 1598,
+      "null_hits": 0,
+      "line_sums": [
+        1033,
+        3301
+      ]
+    },
+    {
+      "id": "E02",
+      "status": "PASS",
+      "scalar_outputs_verified": 900,
+      "family_p": 0.5624375624375625,
+      "control_detected": true
+    },
+    {
+      "id": "E04",
+      "status": "PASS",
+      "scalar_outputs_verified": 900,
+      "family_p": 0.45354645354645357,
+      "control_detected": true
+    },
+    {
+      "id": "E03",
+      "status": "PASS",
+      "checks": 360,
+      "complete": 0
+    },
+    {
+      "id": "E05",
+      "status": "PASS",
+      "real_max": 10,
+      "null_max": 12
+    },
+    {
+      "id": "E06",
+      "status": "PASS",
+      "tails": [
+        0.4825174825174825,
+        0.7782217782217782,
+        0.06893106893106893,
+        0.4975024975024975
+      ],
+      "bonferroni_min": 0.2757242757242757,
+      "control_exact": 4
+    },
+    {
+      "id": "ob-c1",
+      "status": "PASS",
+      "nulls": 200,
+      "comparisons": {
+        "generative": {
+          "entropy_lower_tail_p": 0.03980099502487562,
+          "mi_upper_tail_p": 0.6716417910447762,
+          "entropy_null_range": [
+            4.803440019930555,
+            4.806097964547422
+          ],
+          "mi_null_range": [
+            0.051258760721573385,
+            0.0657099170029025
+          ]
+        },
+        "permutation": {
+          "entropy_lower_tail_p": 0.06965174129353234,
+          "mi_upper_tail_p": 0.6517412935323383,
+          "entropy_null_range": [
+            4.803519594618411,
+            4.805390022738341
+          ],
+          "mi_null_range": [
+            0.05190915815226105,
+            0.06366797016521662
+          ]
+        }
+      }
+    },
+    {
+      "id": "ob-c2",
+      "status": "PASS",
+      "nulls": 200,
+      "comparisons": {
+        "generative": {
+          "entropy_p": 0.9850746268656716,
+          "mi_p": 0.43283582089552236,
+          "entropy_range": [
+            4.787513746419386,
+            4.798145128350166
+          ],
+          "mi_range": [
+            0.06157465995388205,
+            0.0796091059809835
+          ]
+        },
+        "permutation": {
+          "entropy_p": 0.8855721393034826,
+          "mi_p": 0.38308457711442784,
+          "entropy_range": [
+            4.7898762359222165,
+            4.798439968922059
+          ],
+          "mi_range": [
+            0.06075944804526962,
+            0.07779481903786846
+          ]
+        }
+      }
+    },
+    {
+      "id": "C2-independent-MTF",
+      "status": "PASS",
+      "maps": 2610,
+      "counts_match": true
+    },
+    {
+      "id": "C3",
+      "status": "PASS",
+      "new_runes": 956,
+      "held_null_saved": false
+    },
+    {
+      "id": "C4",
+      "status": "PASS",
+      "pooled_bound": 0.44999426974885576,
+      "pagewise": 45,
+      "tiny_exact_graphs": 100,
+      "triangle_witnesses": 45
+    },
+    {
+      "id": "B-finite-feasibility",
+      "status": "PASS",
+      "width1_cases": 1538,
+      "claim": "existence only, not score optimality"
+    },
+    {
+      "id": "E02-control-forward",
+      "status": "PASS",
+      "blocks": 2000
+    },
+    {
+      "id": "E04-control-forward",
+      "status": "PASS",
+      "blocks": 2000
+    },
+    {
+      "id": "E01-full-real-window-check",
+      "status": "PASS",
+      "hits": 0
+    }
+  ],
+  "inputs": {
+    "exploration/persistent-01/worker-c/ob-c1/full-decoded-maps.jsonl.gz": {
+      "sha256": "906846f5e6cfaae8360fc98fc1d98a1e277918a41f879af3080a45b30bdac49b",
+      "bytes": 1036288
+    },
+    "exploration/persistent-01/worker-e/experiment01-result.json": {
+      "sha256": "cc265822a2808b9607c7c9c09e9598dcd6edf3a64490e867cc8c844b7cb6043a",
+      "bytes": 4223
+    },
+    "exploration/persistent-01/worker-e/experiment01-discovery-cells.json": {
+      "sha256": "74b6c6cc0047fd71b74f12e07773ee7916c5d4a1c49e7ccda1b88979474a7e07",
+      "bytes": 267861
+    },
+    "exploration/persistent-01/worker-e/experiment01-null.json.gz": {
+      "sha256": "81475d1d6461b28479a4d9363c5185bb2d065f050504e256ab9e532ec2887a9a",
+      "bytes": 171
+    },
+    "exploration/persistent-01/worker-e/experiment02-evidence.json.gz": {
+      "sha256": "193802c4d5e9961a43c47c1647e2966e8218315aebe52cc32a91a7ab35d6a949",
+      "bytes": 337222
+    },
+    "exploration/persistent-01/worker-e/experiment02-result.json": {
+      "sha256": "aeb4e5d967344ac807a834cb6ef206d3a84510f14295542d8a888cfe807992ec",
+      "bytes": 11102
+    },
+    "exploration/persistent-01/worker-e/experiment04-result.json": {
+      "sha256": "29b27505ed35a1909e1d3b2871677088878a0fc93e765c35636b09aa3d3931db",
+      "bytes": 47540
+    },
+    "exploration/persistent-01/worker-e/experiment04-evidence.json.gz": {
+      "sha256": "d0dd1320b4aaf4dd0aa757af15d692ebc440eecf0aea825baddf26c9e5bef088",
+      "bytes": 159749
+    },
+    "exploration/persistent-01/worker-e/experiment03-result.json": {
+      "sha256": "9b60ab7c1db9bb315a5020a3e2e6eef07d5c031ba653a0a247f42efdc7d182f6",
+      "bytes": 236
+    },
+    "exploration/persistent-01/worker-e/experiment05-result.json": {
+      "sha256": "c63c71d395fde24bfdee13a326417bf2e7defb323f6b55ab2d384504ed2c5565",
+      "bytes": 3950
+    },
+    "exploration/persistent-01/worker-e/experiment05-evidence.json.gz": {
+      "sha256": "4147111382f52bd712042b7f4adc15cb77c38a5984a4c84f108abc75a9d87c48",
+      "bytes": 2657
+    },
+    "exploration/persistent-01/worker-e/experiment06-result.json": {
+      "sha256": "d24b59135d89a62279b799807d2ed40968a7ed4e17a4c9e382b5ec415e2fe927",
+      "bytes": 2235
+    },
+    "exploration/persistent-01/worker-e/experiment06-evidence.json.gz": {
+      "sha256": "84aebad4678e34e98770e0f96f6f4c57a02ddde1657d5738275e0eaa497e6528",
+      "bytes": 68040
+    },
+    "exploration/persistent-01/worker-c/ob-c1/real-statistics.json": {
+      "sha256": "e978dd67305f608b928d0f77f685327646f050d0e1f1306217557a00ba559c4a",
+      "bytes": 28291
+    },
+    "exploration/persistent-01/worker-c/ob-c1/summary.json": {
+      "sha256": "d0d5d18044deb0dbf90f8112e2f9b66411681d392c81b9c36a205e9294c06870",
+      "bytes": 1397
+    },
+    "exploration/persistent-01/worker-c/ob-c1/nulls.json": {
+      "sha256": "85391cac090abf76f6ee48114632476208169cc855a6027faa9c3d39ea35f5dc",
+      "bytes": 47985
+    },
+    "exploration/persistent-01/worker-c/ob-c2/summary.json": {
+      "sha256": "69742a8026db420aab3c3006583217556d25a5811a09a8d7ce3621031a7ba9ca",
+      "bytes": 2108
+    },
+    "exploration/persistent-01/worker-c/ob-c2/nulls.json": {
+      "sha256": "6460b514e6cbe45f97315e076006326b2ebb48f8d700ae26e2553e785771a489",
+      "bytes": 241023
+    },
+    "exploration/persistent-01/worker-c/ob-c2/full-output-maps.jsonl.gz": {
+      "sha256": "5df9fbedb9f2b17dc6886457a06a224eb2c13146b0e58d40befb5734584a5a72",
+      "bytes": 218768
+    },
+    "exploration/persistent-01/worker-c/ob-c3/summary.json": {
+      "sha256": "9e1a05b5a4a5fcfd49ab3f132039406f47e4f2582106003b3e3ca6af6b170be6",
+      "bytes": 2592
+    },
+    "exploration/persistent-01/worker-c/ob-c3/nulls.json": {
+      "sha256": "48935cf9d73652736c33a3505e078c08fee43305bae25be4f147740f401ab7d1",
+      "bytes": 494734
+    },
+    "exploration/persistent-01/worker-c/ob-c4/real-graph.json": {
+      "sha256": "47e98a64b5426a65d230c6e8ccef99e424d8766a1894a3f25a102ec2379977b3",
+      "bytes": 8942
+    },
+    "exploration/persistent-01/worker-c/ob-c4/pagewise-boundary-checks.json": {
+      "sha256": "ed812684790aa176bab43c8a8986dd83970d6aac8907c471fa03eaca8a4fccb7",
+      "bytes": 39789
+    },
+    "exploration/persistent-01/worker-c/ob-c4/exhaustive-graph-controls.json": {
+      "sha256": "8ceb52cb57a7c0702d14d7d354397f6b8a00abfaf9fe7101f18d4ec2414b3eda",
+      "bytes": 173950
+    },
+    "exploration/persistent-01/worker-b/feasible.py": {
+      "sha256": "e5c9cc1444716ca2a3ab4f71e7c58cf041db2809fe0e3788d27e3beacc2af17b",
+      "bytes": 3632
+    },
+    "exploration/persistent-01/worker-e/experiment01.py": {
+      "sha256": "51d6ff81d2b26d02afde3c047e402eb8153fb9683fb0f7043235ca6a41dee908",
+      "bytes": 3340
+    },
+    "exploration/persistent-01/worker-e/experiment02.py": {
+      "sha256": "53ea6ee1331016048f7138cfc5a53b01ca72b67c43e47c69899c27ca2542e0ea",
+      "bytes": 3160
+    },
+    "exploration/persistent-01/worker-e/experiment03.py": {
+      "sha256": "e4d19f959a1a43193ac3f377da5c2c190bebf6ebcc13503c258379e25eab4ff9",
+      "bytes": 1415
+    },
+    "exploration/persistent-01/worker-e/experiment04.py": {
+      "sha256": "9c423db55bf86972d68e829456398738b73fd6e0a5c7afce0469588280d7e73c",
+      "bytes": 3160
+    },
+    "exploration/persistent-01/worker-e/experiment05.py": {
+      "sha256": "5f67b3786aa3d59e3255d53afae7113504a0939800ec96919db862cab71abc7a",
+      "bytes": 2279
+    },
+    "exploration/persistent-01/worker-e/experiment06.py": {
+      "sha256": "027609923b14b238370a15c674cb97ee91b318dfb164c22d8dc05a9f79797c32",
+      "bytes": 3448
+    },
+    "exploration/persistent-01/worker-c/ob_c1.py": {
+      "sha256": "f4d9ac91f31104edf91a691a55aebc34156026d443c21d620a8cfd71678e6c41",
+      "bytes": 5910
+    },
+    "exploration/persistent-01/worker-c/ob_c2.py": {
+      "sha256": "fb71c1c1617418de2fbcaa5ebcd299e864bdf1c84c9e913dfaf3bbc251fc8c7f",
+      "bytes": 4559
+    },
+    "exploration/persistent-01/worker-c/ob_c3.py": {
+      "sha256": "51b5542ebb02296cb8f3ef827e17dce284844d8c6eba912c7473f971ee955cd7",
+      "bytes": 4056
+    },
+    "exploration/persistent-01/worker-c/ob_c4.py": {
+      "sha256": "97411afae3f9e99100aea1dda875d6d7da9dd1ba6785de4dd1636d782ebfa4d7",
+      "bytes": 4851
+    },
+    "exploration/persistent-01/worker-c/ob_c4_verify.py": {
+      "sha256": "5fab3aed229b8164acbcc137eaa609165c4109528f241d83718d42a7e4bd4173",
+      "bytes": 2755
+    },
+    "exploration/persistent-01/worker-c/p03_frozen.py": {
+      "sha256": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05",
+      "bytes": 6350
+    }
+  },
+  "limitations": [
+    {
+      "id": "L1",
+      "severity": "scope",
+      "finding": "E02/E04/E06 permutation nulls destroy anti-repeat transitions; their tails are conditional on exchangeability, not general cipher probabilities."
+    },
+    {
+      "id": "L2",
+      "severity": "scope",
+      "finding": "C1 minimum p=.0398 is one of two endpoints after adaptive model exploration, not globally calibrated significance."
+    },
+    {
+      "id": "L3",
+      "severity": "retention",
+      "finding": "C3 held control hnull is computed but not persisted; held p not independently re-counted from raw evidence."
+    },
+    {
+      "id": "L4",
+      "severity": "wording",
+      "finding": "C4 min_error_fraction_any_partition is a same-partition transition lower bound, not minimum rune edit fraction."
+    },
+    {
+      "id": "L5",
+      "severity": "scope",
+      "finding": "Controls prove sensitivity to their particular biased/Markov or solved-reference input instances; no universal or population power claim."
+    },
+    {
+      "id": "L6",
+      "severity": "shared-input",
+      "finding": "E and C retain shared transcription ancestry; review reconstructs arithmetic from saved discovery maps, not independent image transcription."
+    }
+  ]
+}

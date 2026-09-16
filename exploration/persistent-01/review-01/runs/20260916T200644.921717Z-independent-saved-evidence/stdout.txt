@@ -1,0 +1,138 @@
+[
+  {
+    "id": "E01",
+    "status": "PASS",
+    "windows": 1598,
+    "null_hits": 0,
+    "line_sums": [
+      1033,
+      3301
+    ]
+  },
+  {
+    "id": "E02",
+    "status": "PASS",
+    "scalar_outputs_verified": 900,
+    "family_p": 0.5624375624375625,
+    "control_detected": true
+  },
+  {
+    "id": "E04",
+    "status": "PASS",
+    "scalar_outputs_verified": 900,
+    "family_p": 0.45354645354645357,
+    "control_detected": true
+  },
+  {
+    "id": "E03",
+    "status": "PASS",
+    "checks": 360,
+    "complete": 0
+  },
+  {
+    "id": "E05",
+    "status": "PASS",
+    "real_max": 10,
+    "null_max": 12
+  },
+  {
+    "id": "E06",
+    "status": "PASS",
+    "tails": [
+      0.4825174825174825,
+      0.7782217782217782,
+      0.06893106893106893,
+      0.4975024975024975
+    ],
+    "bonferroni_min": 0.2757242757242757,
+    "control_exact": 4
+  },
+  {
+    "id": "ob-c1",
+    "status": "PASS",
+    "nulls": 200,
+    "comparisons": {
+      "generative": {
+        "entropy_lower_tail_p": 0.03980099502487562,
+        "mi_upper_tail_p": 0.6716417910447762,
+        "entropy_null_range": [
+          4.803440019930555,
+          4.806097964547422
+        ],
+        "mi_null_range": [
+          0.051258760721573385,
+          0.0657099170029025
+        ]
+      },
+      "permutation": {
+        "entropy_lower_tail_p": 0.06965174129353234,
+        "mi_upper_tail_p": 0.6517412935323383,
+        "entropy_null_range": [
+          4.803519594618411,
+          4.805390022738341
+        ],
+        "mi_null_range": [
+          0.05190915815226105,
+          0.06366797016521662
+        ]
+      }
+    }
+  },
+  {
+    "id": "ob-c2",
+    "status": "PASS",
+    "nulls": 200,
+    "comparisons": {
+      "generative": {
+        "entropy_p": 0.9850746268656716,
+        "mi_p": 0.43283582089552236,
+        "entropy_range": [
+          4.787513746419386,
+          4.798145128350166
+        ],
+        "mi_range": [
+          0.06157465995388205,
+          0.0796091059809835
+        ]
+      },
+      "permutation": {
+        "entropy_p": 0.8855721393034826,
+        "mi_p": 0.38308457711442784,
+        "entropy_range": [
+          4.7898762359222165,
+          4.798439968922059
+        ],
+        "mi_range": [
+          0.06075944804526962,
+          0.07779481903786846
+        ]
+      }
+    }
+  },
+  {
+    "id": "C2-independent-MTF",
+    "status": "PASS",
+    "maps": 2610,
+    "counts_match": true
+  },
+  {
+    "id": "C3",
+    "status": "PASS",
+    "new_runes": 956,
+    "held_null_saved": false
+  },
+  {
+    "id": "C4",
+    "status": "PASS",
+    "pooled_bound": 0.44999426974885576,
+    "pagewise": 45,
+    "tiny_exact_graphs": 100,
+    "triangle_witnesses": 45
+  },
+  {
+    "id": "B-finite-feasibility",
+    "status": "PASS",
+    "width1_cases": 1538,
+    "claim": "existence only, not score optimality"
+  }
+]

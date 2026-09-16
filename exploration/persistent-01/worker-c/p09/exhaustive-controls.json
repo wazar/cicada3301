@@ -1,0 +1,3762 @@
+[
+  {
+    "case": 0,
+    "cipher": [
+      0,
+      6,
+      26,
+      17,
+      2,
+      2,
+      8,
+      11,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5
+    ],
+    "ends": [
+      5,
+      9,
+      12,
+      13
+    ],
+    "key": [
+      22,
+      23,
+      27,
+      22,
+      10,
+      8,
+      13
+    ],
+    "sign": 1,
+    "masks": 64,
+    "score": -4.278280878460769,
+    "diag": {
+      "expanded": 100,
+      "merged": 31,
+      "maxstates": 16,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 1,
+    "cipher": [
+      17,
+      0,
+      0,
+      20,
+      0,
+      14,
+      26,
+      16,
+      0,
+      0,
+      28,
+      24
+    ],
+    "ends": [
+      9,
+      11
+    ],
+    "key": [
+      13,
+      21,
+      21,
+      13,
+      22
+    ],
+    "sign": 1,
+    "masks": 32,
+    "score": -4.44274206801839,
+    "diag": {
+      "expanded": 74,
+      "merged": 15,
+      "maxstates": 10,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 2,
+    "cipher": [
+      24,
+      17,
+      14,
+      11,
+      28,
+      0,
+      0,
+      28,
+      22,
+      16,
+      0,
+      16,
+      0,
+      26,
+      0,
+      26
+    ],
+    "ends": [
+      2,
+      4,
+      5,
+      8,
+      15
+    ],
+    "key": [
+      9,
+      2
+    ],
+    "sign": 1,
+    "masks": 32,
+    "score": -3.8551526162102814,
+    "diag": {
+      "expanded": 53,
+      "merged": 12,
+      "maxstates": 4,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 3,
+    "cipher": [
+      0,
+      22,
+      16,
+      22,
+      0,
+      0,
+      18
+    ],
+    "ends": [
+      0,
+      3,
+      6
+    ],
+    "key": [
+      27
+    ],
+    "sign": -1,
+    "masks": 8,
+    "score": -3.9272871497296036,
+    "diag": {
+      "expanded": 16,
+      "merged": 4,
+      "maxstates": 4,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 4,
+    "cipher": [
+      0,
+      10,
+      3,
+      14,
+      22,
+      26,
+      20,
+      0,
+      0,
+      18,
+      27,
+      15,
+      14,
+      22,
+      4,
+      0
+    ],
+    "ends": [
+      14,
+      15
+    ],
+    "key": [
+      21,
+      22,
+      24,
+      26,
+      13,
+      27
+    ],
+    "sign": 1,
+    "masks": 16,
+    "score": -4.909071853098803,
+    "diag": {
+      "expanded": 64,
+      "merged": 4,
+      "maxstates": 8,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 5,
+    "cipher": [
+      13,
+      19,
+      0,
+      3,
+      0
+    ],
+    "ends": [
+      0,
+      1,
+      4
+    ],
+    "key": [
+      23,
+      1,
+      11,
+      10,
+      23,
+      9
+    ],
+    "sign": -1,
+    "masks": 4,
+    "score": -3.9000279197306438,
+    "diag": {
+      "expanded": 10,
+      "merged": 0,
+      "maxstates": 4,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 6,
+    "cipher": [
+      0,
+      0,
+      0,
+      8,
+      9,
+      9,
+      26,
+      10,
+      0,
+      22,
+      9
+    ],
+    "ends": [
+      3,
+      4,
+      5,
+      8,
+      10
+    ],
+    "key": [
+      5
+    ],
+    "sign": 1,
+    "masks": 16,
+    "score": -5.183979861103257,
+    "diag": {
+      "expanded": 27,
+      "merged": 8,
+      "maxstates": 4,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 7,
+    "cipher": [
+      0,
+      21,
+      1,
+      21,
+      19,
+      0,
+      14,
+      3,
+      0,
+      25,
+      24,
+      0,
+      0,
+      26
+    ],
+    "ends": [
+      0,
+      3,
+      6,
+      8,
+      9,
+      13
+    ],
+    "key": [
+      11,
+      5,
+      22,
+      17
+    ],
+    "sign": -1,
+    "masks": 32,
+    "score": -3.360235271015648,
+    "diag": {
+      "expanded": 77,
+      "merged": 15,
+      "maxstates": 16,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 8,
+    "cipher": [
+      0,
+      24,
+      26,
+      4,
+      0,
+      0,
+      2
+    ],
+    "ends": [
+      6
+    ],
+    "key": [
+      14,
+      4,
+      0,
+      23,
+      16,
+      20,
+      21,
+      16
+    ],
+    "sign": 1,
+    "masks": 8,
+    "score": -4.1789168099790235,
+    "diag": {
+      "expanded": 28,
+      "merged": 4,
+      "maxstates": 8,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 9,
+    "cipher": [
+      13,
+      26,
+      0,
+      0,
+      9,
+      20,
+      25,
+      0,
+      0,
+      3
+    ],
+    "ends": [
+      9
+    ],
+    "key": [
+      15,
+      15,
+      2,
+      10,
+      7
+    ],
+    "sign": 1,
+    "masks": 16,
+    "score": -4.517600308804325,
+    "diag": {
+      "expanded": 49,
+      "merged": 8,
+      "maxstates": 12,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 10,
+    "cipher": [
+      20,
+      0,
+      0,
+      4,
+      26,
+      0,
+      28,
+      21,
+      3,
+      0,
+      22,
+      0,
+      0,
+      0,
+      6
+    ],
+    "ends": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      9,
+      11,
+      13,
+      14
+    ],
+    "key": [
+      25,
+      25,
+      15,
+      1
+    ],
+    "sign": -1,
+    "masks": 128,
+    "score": -3.4467200394709443,
+    "diag": {
+      "expanded": 98,
+      "merged": 27,
+      "maxstates": 8,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 11,
+    "cipher": [
+      14,
+      0,
+      0,
+      2,
+      6,
+      12,
+      0,
+      4,
+      5,
+      25,
+      0,
+      17,
+      7,
+      0
+    ],
+    "ends": [
+      0,
+      1,
+      6,
+      10,
+      11,
+      13
+    ],
+    "key": [
+      23,
+      17
+    ],
+    "sign": 1,
+    "masks": 32,
+    "score": -4.155017201802863,
+    "diag": {
+      "expanded": 43,
+      "merged": 6,
+      "maxstates": 4,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 12,
+    "cipher": [
+      19,
+      0,
+      0,
+      0,
+      4,
+      18,
+      0,
+      28,
+      0,
+      12,
+      0,
+      8,
+      23,
+      0,
+      17,
+      0,
+      13
+    ],
+    "ends": [
+      2,
+      8,
+      9,
+      11,
+      15,
+      16
+    ],
+    "key": [
+      10,
+      20,
+      2,
+      14,
+      1,
+      28,
+      6,
+      1
+    ],
+    "sign": -1,
+    "masks": 256,
+    "score": -4.04072546544773,
+    "diag": {
+      "expanded": 172,
+      "merged": 39,
+      "maxstates": 16,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 13,
+    "cipher": [
+      12,
+      28,
+      0,
+      5,
+      13,
+      0,
+      0,
+      12,
+      27,
+      20,
+      9,
+      0,
+      22,
+      0
+    ],
+    "ends": [
+      0,
+      5,
+      11,
+      13
+    ],
+    "key": [
+      26,
+      21,
+      21,
+      15,
+      22,
+      4,
+      22
+    ],
+    "sign": 1,
+    "masks": 32,
+    "score": -4.530061353481903,
+    "diag": {
+      "expanded": 66,
+      "merged": 7,
+      "maxstates": 10,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 14,
+    "cipher": [
+      16,
+      16,
+      10,
+      6,
+      9,
+      0,
+      0,
+      0,
+      22,
+      26,
+      13
+    ],
+    "ends": [
+      4,
+      8,
+      10
+    ],
+    "key": [
+      27,
+      24
+    ],
+    "sign": -1,
+    "masks": 8,
+    "score": -5.061469178696796,
+    "diag": {
+      "expanded": 31,
+      "merged": 6,
+      "maxstates": 8,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 15,
+    "cipher": [
+      0,
+      0,
+      24,
+      15,
+      0,
+      0,
+      17,
+      22
+    ],
+    "ends": [
+      3,
+      6,
+      7
+    ],
+    "key": [
+      9,
+      6,
+      8,
+      26
+    ],
+    "sign": -1,
+    "masks": 16,
+    "score": -3.5446251835038964,
+    "diag": {
+      "expanded": 48,
+      "merged": 9,
+      "maxstates": 12,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 16,
+    "cipher": [
+      17,
+      0,
+      0,
+      3,
+      12,
+      2,
+      8,
+      0,
+      7,
+      6,
+      0,
+      0
+    ],
+    "ends": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "key": [
+      5,
+      27,
+      0,
+      6
+    ],
+    "sign": -1,
+    "masks": 32,
+    "score": -4.290948533686818,
+    "diag": {
+      "expanded": 59,
+      "merged": 11,
+      "maxstates": 7,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 17,
+    "cipher": [
+      0,
+      0,
+      0,
+      11,
+      10
+    ],
+    "ends": [
+      1,
+      2,
+      4
+    ],
+    "key": [
+      20,
+      21,
+      19,
+      0,
+      16,
+      26,
+      10
+    ],
+    "sign": -1,
+    "masks": 8,
+    "score": -3.0532573314940405,
+    "diag": {
+      "expanded": 24,
+      "merged": 4,
+      "maxstates": 6,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 18,
+    "cipher": [
+      15,
+      18,
+      19,
+      7,
+      23,
+      7,
+      22,
+      25,
+      0,
+      11,
+      0,
+      8,
+      0,
+      0,
+      18
+    ],
+    "ends": [
+      0,
+      1,
+      5,
+      11,
+      14
+    ],
+    "key": [
+      22,
+      27,
+      2,
+      23,
+      5,
+      10,
+      27
+    ],
+    "sign": 1,
+    "masks": 16,
+    "score": -4.469273492704455,
+    "diag": {
+      "expanded": 50,
+      "merged": 8,
+      "maxstates": 12,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 19,
+    "cipher": [
+      22,
+      0,
+      4,
+      9,
+      15,
+      0,
+      3,
+      4,
+      10,
+      9,
+      15,
+      0,
+      11,
+      19,
+      20
+    ],
+    "ends": [
+      0,
+      1,
+      7,
+      11,
+      12,
+      14
+    ],
+    "key": [
+      12
+    ],
+    "sign": -1,
+    "masks": 8,
+    "score": -4.028947704307461,
+    "diag": {
+      "expanded": 22,
+      "merged": 3,
+      "maxstates": 2,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 20,
+    "cipher": [
+      18,
+      0,
+      12,
+      11,
+      11,
+      0,
+      17
+    ],
+    "ends": [
+      3,
+      6
+    ],
+    "key": [
+      1,
+      10,
+      0,
+      0,
+      2,
+      28,
+      17
+    ],
+    "sign": 1,
+    "masks": 4,
+    "score": -4.803945774180878,
+    "diag": {
+      "expanded": 17,
+      "merged": 1,
+      "maxstates": 4,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 21,
+    "cipher": [
+      8,
+      0,
+      12,
+      0,
+      0,
+      0,
+      10,
+      0,
+      19,
+      15,
+      0,
+      22,
+      13,
+      0
+    ],
+    "ends": [
+      1,
+      13
+    ],
+    "key": [
+      1,
+      13,
+      2,
+      7,
+      19,
+      10,
+      27,
+      25
+    ],
+    "sign": 1,
+    "masks": 128,
+    "score": -4.085531428963908,
+    "diag": {
+      "expanded": 131,
+      "merged": 23,
+      "maxstates": 14,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 22,
+    "cipher": [
+      19,
+      0,
+      22,
+      0,
+      0,
+      4,
+      15,
+      0
+    ],
+    "ends": [
+      1,
+      7
+    ],
+    "key": [
+      11,
+      9,
+      11,
+      4,
+      22
+    ],
+    "sign": 1,
+    "masks": 16,
+    "score": -4.286268716806493,
+    "diag": {
+      "expanded": 39,
+      "merged": 4,
+      "maxstates": 8,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 23,
+    "cipher": [
+      27,
+      13,
+      0,
+      4,
+      16,
+      0,
+      20,
+      0,
+      24,
+      0,
+      0,
+      15,
+      0,
+      0,
+      0
+    ],
+    "ends": [
+      0,
+      4,
+      5,
+      8,
+      10,
+      12,
+      14
+    ],
+    "key": [
+      4,
+      11,
+      15,
+      7,
+      7,
+      17
+    ],
+    "sign": 1,
+    "masks": 256,
+    "score": -3.619152875787499,
+    "diag": {
+      "expanded": 122,
+      "merged": 37,
+      "maxstates": 12,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 24,
+    "cipher": [
+      8,
+      25,
+      0,
+      0,
+      6,
+      0
+    ],
+    "ends": [
+      3,
+      5
+    ],
+    "key": [
+      8,
+      24,
+      14,
+      2,
+      22,
+      0
+    ],
+    "sign": 1,
+    "masks": 8,
+    "score": -3.93976626373131,
+    "diag": {
+      "expanded": 18,
+      "merged": 1,
+      "maxstates": 6,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 25,
+    "cipher": [
+      22,
+      3,
+      26,
+      0,
+      21,
+      3,
+      26,
+      0,
+      0,
+      14,
+      4,
+      23,
+      0,
+      0,
+      0
+    ],
+    "ends": [
+      4,
+      7,
+      14
+    ],
+    "key": [
+      19,
+      3
+    ],
+    "sign": -1,
+    "masks": 64,
+    "score": -3.810115305856173,
+    "diag": {
+      "expanded": 61,
+      "merged": 18,
+      "maxstates": 8,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 26,
+    "cipher": [
+      25,
+      0,
+      3,
+      7,
+      0,
+      0,
+      26,
+      5,
+      0
+    ],
+    "ends": [
+      1,
+      2,
+      5,
+      6,
+      8
+    ],
+    "key": [
+      16,
+      12,
+      25,
+      4,
+      11
+    ],
+    "sign": -1,
+    "masks": 16,
+    "score": -3.8906106392967823,
+    "diag": {
+      "expanded": 37,
+      "merged": 4,
+      "maxstates": 8,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 27,
+    "cipher": [
+      0,
+      5,
+      24,
+      16,
+      26,
+      8,
+      0,
+      0,
+      0
+    ],
+    "ends": [
+      2,
+      8
+    ],
+    "key": [
+      14,
+      7,
+      5,
+      25,
+      9,
+      4
+    ],
+    "sign": 1,
+    "masks": 16,
+    "score": -5.0727735284849125,
+    "diag": {
+      "expanded": 40,
+      "merged": 8,
+      "maxstates": 8,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 28,
+    "cipher": [
+      0,
+      0,
+      26,
+      6,
+      0,
+      14,
+      0,
+      6,
+      0,
+      0,
+      9,
+      16,
+      12
+    ],
+    "ends": [
+      2,
+      8,
+      12
+    ],
+    "key": [
+      23,
+      24,
+      27,
+      20
+    ],
+    "sign": 1,
+    "masks": 64,
+    "score": -4.0341335020646065,
+    "diag": {
+      "expanded": 97,
+      "merged": 25,
+      "maxstates": 8,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 29,
+    "cipher": [
+      0,
+      22,
+      0,
+      22,
+      14,
+      0,
+      0,
+      0,
+      12,
+      8,
+      0
+    ],
+    "ends": [
+      0,
+      6,
+      10
+    ],
+    "key": [
+      10,
+      6,
+      3,
+      5
+    ],
+    "sign": 1,
+    "masks": 64,
+    "score": -4.036751747653414,
+    "diag": {
+      "expanded": 74,
+      "merged": 17,
+      "maxstates": 8,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 30,
+    "cipher": [
+      0,
+      0,
+      0,
+      28,
+      21,
+      0,
+      0,
+      17
+    ],
+    "ends": [
+      6,
+      7
+    ],
+    "key": [
+      6,
+      21,
+      18
+    ],
+    "sign": 1,
+    "masks": 32,
+    "score": -3.6075367172904196,
+    "diag": {
+      "expanded": 52,
+      "merged": 14,
+      "maxstates": 8,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 31,
+    "cipher": [
+      3,
+      15,
+      25,
+      24,
+      1,
+      15,
+      0
+    ],
+    "ends": [
+      1,
+      2,
+      6
+    ],
+    "key": [
+      27,
+      26
+    ],
+    "sign": 1,
+    "masks": 2,
+    "score": -5.688085419723778,
+    "diag": {
+      "expanded": 8,
+      "merged": 0,
+      "maxstates": 2,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 32,
+    "cipher": [
+      13,
+      0,
+      13,
+      20,
+      7,
+      0,
+      0,
+      0,
+      19
+    ],
+    "ends": [
+      8
+    ],
+    "key": [
+      23,
+      27,
+      18,
+      7
+    ],
+    "sign": 1,
+    "masks": 16,
+    "score": -4.661252803880144,
+    "diag": {
+      "expanded": 49,
+      "merged": 12,
+      "maxstates": 12,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 33,
+    "cipher": [
+      4,
+      22,
+      7,
+      22,
+      0,
+      18,
+      14,
+      28,
+      14,
+      26,
+      19,
+      22,
+      0,
+      13,
+      0
+    ],
+    "ends": [
+      3,
+      5,
+      14
+    ],
+    "key": [
+      10,
+      6,
+      22,
+      0,
+      8,
+      20
+    ],
+    "sign": 1,
+    "masks": 8,
+    "score": -4.634085053194169,
+    "diag": {
+      "expanded": 36,
+      "merged": 2,
+      "maxstates": 6,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 34,
+    "cipher": [
+      14,
+      12,
+      0,
+      5,
+      4,
+      0,
+      0,
+      0
+    ],
+    "ends": [
+      6,
+      7
+    ],
+    "key": [
+      22
+    ],
+    "sign": 1,
+    "masks": 16,
+    "score": -4.491617446236098,
+    "diag": {
+      "expanded": 18,
+      "merged": 5,
+      "maxstates": 2,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 35,
+    "cipher": [
+      20,
+      25,
+      0,
+      0,
+      0
+    ],
+    "ends": [
+      0,
+      3,
+      4
+    ],
+    "key": [
+      4,
+      2,
+      26,
+      18,
+      5
+    ],
+    "sign": -1,
+    "masks": 8,
+    "score": -2.896450874467947,
+    "diag": {
+      "expanded": 16,
+      "merged": 2,
+      "maxstates": 6,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 36,
+    "cipher": [
+      5,
+      3,
+      0,
+      21,
+      23,
+      20,
+      0,
+      0,
+      0
+    ],
+    "ends": [
+      4,
+      8
+    ],
+    "key": [
+      22
+    ],
+    "sign": -1,
+    "masks": 16,
+    "score": -5.077659964537337,
+    "diag": {
+      "expanded": 23,
+      "merged": 7,
+      "maxstates": 4,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 37,
+    "cipher": [
+      0,
+      2,
+      17,
+      10,
+      16,
+      28,
+      27,
+      7,
+      0,
+      0,
+      0
+    ],
+    "ends": [
+      7,
+      9,
+      10
+    ],
+    "key": [
+      20,
+      21
+    ],
+    "sign": -1,
+    "masks": 16,
+    "score": -4.224385592249242,
+    "diag": {
+      "expanded": 36,
+      "merged": 8,
+      "maxstates": 4,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 38,
+    "cipher": [
+      23,
+      0,
+      0,
+      0,
+      21,
+      3,
+      10,
+      0
+    ],
+    "ends": [
+      0,
+      1,
+      7
+    ],
+    "key": [
+      9,
+      22,
+      20,
+      21
+    ],
+    "sign": -1,
+    "masks": 16,
+    "score": -4.579473787785911,
+    "diag": {
+      "expanded": 41,
+      "merged": 4,
+      "maxstates": 8,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 39,
+    "cipher": [
+      25,
+      18,
+      10,
+      22,
+      19,
+      0,
+      24,
+      0,
+      0,
+      16,
+      2,
+      0,
+      8,
+      26,
+      0,
+      10,
+      3
+    ],
+    "ends": [
+      8,
+      10,
+      16
+    ],
+    "key": [
+      13,
+      23,
+      1
+    ],
+    "sign": 1,
+    "masks": 32,
+    "score": -4.666035089936652,
+    "diag": {
+      "expanded": 66,
+      "merged": 11,
+      "maxstates": 6,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 40,
+    "cipher": [
+      2,
+      28,
+      12,
+      11,
+      27,
+      12,
+      0,
+      27,
+      10
+    ],
+    "ends": [
+      1,
+      2,
+      5,
+      8
+    ],
+    "key": [
+      2,
+      1
+    ],
+    "sign": -1,
+    "masks": 2,
+    "score": -4.843169361155477,
+    "diag": {
+      "expanded": 12,
+      "merged": 0,
+      "maxstates": 2,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 41,
+    "cipher": [
+      0,
+      0,
+      24,
+      0,
+      0,
+      0
+    ],
+    "ends": [
+      0,
+      4,
+      5
+    ],
+    "key": [
+      20,
+      9,
+      27
+    ],
+    "sign": -1,
+    "masks": 32,
+    "score": -3.177654652511724,
+    "diag": {
+      "expanded": 42,
+      "merged": 14,
+      "maxstates": 6,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 42,
+    "cipher": [
+      7,
+      15,
+      28,
+      15,
+      0,
+      10,
+      7,
+      0
+    ],
+    "ends": [
+      3,
+      7
+    ],
+    "key": [
+      20,
+      14,
+      19,
+      17,
+      26
+    ],
+    "sign": -1,
+    "masks": 4,
+    "score": -4.409601563614794,
+    "diag": {
+      "expanded": 14,
+      "merged": 0,
+      "maxstates": 4,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 43,
+    "cipher": [
+      0,
+      1,
+      15,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      18,
+      0,
+      0,
+      24,
+      5,
+      0,
+      0,
+      14,
+      23
+    ],
+    "ends": [
+      3,
+      7,
+      17
+    ],
+    "key": [
+      26,
+      19,
+      0,
+      25,
+      26,
+      11,
+      28,
+      28
+    ],
+    "sign": -1,
+    "masks": 1024,
+    "score": -3.574366565801336,
+    "diag": {
+      "expanded": 278,
+      "merged": 80,
+      "maxstates": 29,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 44,
+    "cipher": [
+      14,
+      0,
+      0,
+      25,
+      28,
+      1,
+      24,
+      0
+    ],
+    "ends": [
+      1,
+      2,
+      6,
+      7
+    ],
+    "key": [
+      26,
+      12,
+      22,
+      25,
+      24,
+      21
+    ],
+    "sign": -1,
+    "masks": 8,
+    "score": -3.8068918356480634,
+    "diag": {
+      "expanded": 26,
+      "merged": 1,
+      "maxstates": 6,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 45,
+    "cipher": [
+      0,
+      11,
+      22,
+      13,
+      0,
+      2,
+      18,
+      2,
+      7,
+      0,
+      20,
+      0,
+      14,
+      21,
+      5,
+      3,
+      5,
+      7
+    ],
+    "ends": [
+      5,
+      10,
+      11,
+      14,
+      17
+    ],
+    "key": [
+      13,
+      18,
+      19
+    ],
+    "sign": -1,
+    "masks": 16,
+    "score": -4.272058611399541,
+    "diag": {
+      "expanded": 64,
+      "merged": 7,
+      "maxstates": 6,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 46,
+    "cipher": [
+      0,
+      1,
+      0,
+      0,
+      1,
+      6,
+      0,
+      0,
+      0,
+      0,
+      8,
+      17,
+      0,
+      21
+    ],
+    "ends": [
+      4,
+      9,
+      11,
+      13
+    ],
+    "key": [
+      11,
+      13,
+      25
+    ],
+    "sign": 1,
+    "masks": 256,
+    "score": -4.248288064408058,
+    "diag": {
+      "expanded": 114,
+      "merged": 41,
+      "maxstates": 12,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 47,
+    "cipher": [
+      7,
+      0,
+      18,
+      16,
+      13,
+      20,
+      19,
+      0,
+      27,
+      0,
+      12,
+      8,
+      0,
+      18
+    ],
+    "ends": [
+      7,
+      13
+    ],
+    "key": [
+      20,
+      8,
+      4,
+      16,
+      14,
+      28,
+      18,
+      17
+    ],
+    "sign": 1,
+    "masks": 16,
+    "score": -4.599397952768024,
+    "diag": {
+      "expanded": 55,
+      "merged": 6,
+      "maxstates": 8,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 48,
+    "cipher": [
+      0,
+      10,
+      25,
+      18,
+      25,
+      0,
+      0,
+      27,
+      0,
+      28,
+      16,
+      20,
+      20,
+      0,
+      13
+    ],
+    "ends": [
+      0,
+      2,
+      3,
+      4,
+      7,
+      10,
+      11,
+      12,
+      14
+    ],
+    "key": [
+      28,
+      25,
+      2,
+      3,
+      27,
+      1,
+      25,
+      27
+    ],
+    "sign": -1,
+    "masks": 32,
+    "score": -4.052649857590355,
+    "diag": {
+      "expanded": 84,
+      "merged": 11,
+      "maxstates": 10,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 49,
+    "cipher": [
+      24,
+      0,
+      8,
+      0,
+      0,
+      15,
+      10,
+      11,
+      0
+    ],
+    "ends": [
+      3,
+      6,
+      7,
+      8
+    ],
+    "key": [
+      25,
+      24,
+      23,
+      20,
+      0,
+      15,
+      6
+    ],
+    "sign": 1,
+    "masks": 16,
+    "score": -3.4539199124321085,
+    "diag": {
+      "expanded": 41,
+      "merged": 4,
+      "maxstates": 8,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 50,
+    "cipher": [
+      0,
+      10,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      17,
+      5,
+      0,
+      24,
+      5,
+      0
+    ],
+    "ends": [
+      0,
+      1,
+      7,
+      14,
+      16,
+      17
+    ],
+    "key": [
+      16
+    ],
+    "sign": -1,
+    "masks": 2048,
+    "score": -3.394255482993285,
+    "diag": {
+      "expanded": 59,
+      "merged": 21,
+      "maxstates": 4,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 51,
+    "cipher": [
+      0,
+      21,
+      3,
+      0,
+      2,
+      0,
+      25,
+      22,
+      28,
+      1,
+      0,
+      23,
+      25
+    ],
+    "ends": [
+      0,
+      1,
+      6,
+      10,
+      11,
+      12
+    ],
+    "key": [
+      16
+    ],
+    "sign": 1,
+    "masks": 16,
+    "score": -4.307804691911393,
+    "diag": {
+      "expanded": 23,
+      "merged": 5,
+      "maxstates": 2,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 52,
+    "cipher": [
+      27,
+      25,
+      0,
+      4,
+      0,
+      0,
+      14,
+      11,
+      0,
+      2
+    ],
+    "ends": [
+      1,
+      3,
+      5,
+      6,
+      9
+    ],
+    "key": [
+      12
+    ],
+    "sign": 1,
+    "masks": 16,
+    "score": -4.150437989243271,
+    "diag": {
+      "expanded": 19,
+      "merged": 5,
+      "maxstates": 2,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 53,
+    "cipher": [
+      14,
+      24,
+      18,
+      7,
+      0,
+      0,
+      28,
+      11,
+      13,
+      27
+    ],
+    "ends": [
+      1,
+      7,
+      9
+    ],
+    "key": [
+      2,
+      2
+    ],
+    "sign": -1,
+    "masks": 4,
+    "score": -6.126595311273386,
+    "diag": {
+      "expanded": 22,
+      "merged": 2,
+      "maxstates": 4,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 54,
+    "cipher": [
+      26,
+      23,
+      0,
+      24,
+      0,
+      12
+    ],
+    "ends": [
+      5
+    ],
+    "key": [
+      6
+    ],
+    "sign": 1,
+    "masks": 4,
+    "score": -2.4354009023309686,
+    "diag": {
+      "expanded": 12,
+      "merged": 3,
+      "maxstates": 2,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 55,
+    "cipher": [
+      0,
+      0,
+      0,
+      25,
+      16,
+      0,
+      0,
+      0,
+      21,
+      0,
+      27,
+      0
+    ],
+    "ends": [
+      5,
+      11
+    ],
+    "key": [
+      21,
+      17,
+      18,
+      2
+    ],
+    "sign": 1,
+    "masks": 256,
+    "score": -3.516550621333166,
+    "diag": {
+      "expanded": 124,
+      "merged": 36,
+      "maxstates": 16,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 56,
+    "cipher": [
+      12,
+      3,
+      20,
+      0,
+      0,
+      15,
+      0,
+      26,
+      2,
+      0
+    ],
+    "ends": [
+      2,
+      7,
+      9
+    ],
+    "key": [
+      25,
+      14,
+      3,
+      26,
+      26,
+      22
+    ],
+    "sign": -1,
+    "masks": 16,
+    "score": -3.7116677815439263,
+    "diag": {
+      "expanded": 39,
+      "merged": 4,
+      "maxstates": 8,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 57,
+    "cipher": [
+      0,
+      28,
+      13,
+      5,
+      14,
+      8,
+      5,
+      8,
+      25,
+      0,
+      0,
+      0,
+      17
+    ],
+    "ends": [
+      6,
+      7,
+      12
+    ],
+    "key": [
+      25,
+      27,
+      27,
+      4,
+      8
+    ],
+    "sign": -1,
+    "masks": 16,
+    "score": -3.990843309330828,
+    "diag": {
+      "expanded": 58,
+      "merged": 11,
+      "maxstates": 12,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 58,
+    "cipher": [
+      0,
+      0,
+      0,
+      28,
+      5,
+      0,
+      0,
+      23,
+      22,
+      0
+    ],
+    "ends": [
+      9
+    ],
+    "key": [
+      12,
+      21,
+      15,
+      20,
+      22,
+      0
+    ],
+    "sign": 1,
+    "masks": 64,
+    "score": -4.8219389319619195,
+    "diag": {
+      "expanded": 88,
+      "merged": 15,
+      "maxstates": 15,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 59,
+    "cipher": [
+      0,
+      0,
+      0,
+      0,
+      28,
+      0,
+      0,
+      0,
+      0,
+      3,
+      23,
+      0,
+      0,
+      1,
+      0
+    ],
+    "ends": [
+      0,
+      1,
+      2,
+      6,
+      10,
+      13,
+      14
+    ],
+    "key": [
+      16,
+      0
+    ],
+    "sign": 1,
+    "masks": 2048,
+    "score": -3.379843072568414,
+    "diag": {
+      "expanded": 74,
+      "merged": 27,
+      "maxstates": 5,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 60,
+    "cipher": [
+      0,
+      5,
+      26,
+      8,
+      25,
+      27,
+      13,
+      15,
+      0,
+      12,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ends": [
+      2,
+      3,
+      5,
+      17
+    ],
+    "key": [
+      18,
+      18,
+      20
+    ],
+    "sign": 1,
+    "masks": 1024,
+    "score": -3.653723291767481,
+    "diag": {
+      "expanded": 188,
+      "merged": 80,
+      "maxstates": 12,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 61,
+    "cipher": [
+      7,
+      0,
+      28,
+      0,
+      12
+    ],
+    "ends": [
+      2,
+      4
+    ],
+    "key": [
+      12,
+      10,
+      14,
+      0
+    ],
+    "sign": -1,
+    "masks": 4,
+    "score": -3.1472569590679202,
+    "diag": {
+      "expanded": 13,
+      "merged": 1,
+      "maxstates": 4,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 62,
+    "cipher": [
+      11,
+      24,
+      28,
+      3,
+      0,
+      0
+    ],
+    "ends": [
+      4,
+      5
+    ],
+    "key": [
+      28,
+      10,
+      6,
+      25,
+      0,
+      9
+    ],
+    "sign": 1,
+    "masks": 4,
+    "score": -4.129786650135621,
+    "diag": {
+      "expanded": 10,
+      "merged": 1,
+      "maxstates": 3,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 63,
+    "cipher": [
+      7,
+      9,
+      0,
+      0,
+      12,
+      0,
+      13,
+      7,
+      17,
+      0,
+      4,
+      0,
+      0,
+      5
+    ],
+    "ends": [
+      0,
+      1,
+      4,
+      12,
+      13
+    ],
+    "key": [
+      27,
+      8,
+      18
+    ],
+    "sign": 1,
+    "masks": 64,
+    "score": -4.387146416696029,
+    "diag": {
+      "expanded": 75,
+      "merged": 19,
+      "maxstates": 6,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 64,
+    "cipher": [
+      0,
+      0,
+      9,
+      26,
+      0,
+      7,
+      4,
+      0,
+      28,
+      0,
+      23,
+      17
+    ],
+    "ends": [
+      2,
+      3,
+      4,
+      6,
+      10,
+      11
+    ],
+    "key": [
+      8,
+      4,
+      3
+    ],
+    "sign": 1,
+    "masks": 32,
+    "score": -3.5340513059048826,
+    "diag": {
+      "expanded": 61,
+      "merged": 13,
+      "maxstates": 6,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 65,
+    "cipher": [
+      25,
+      25,
+      8,
+      13,
+      0,
+      0,
+      0,
+      25,
+      0,
+      0,
+      19
+    ],
+    "ends": [
+      1,
+      2,
+      5,
+      7,
+      10
+    ],
+    "key": [
+      20,
+      8,
+      1,
+      22,
+      17,
+      27,
+      7
+    ],
+    "sign": 1,
+    "masks": 32,
+    "score": -3.6163092034448794,
+    "diag": {
+      "expanded": 64,
+      "merged": 14,
+      "maxstates": 16,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 66,
+    "cipher": [
+      8,
+      28,
+      26,
+      20,
+      11,
+      3,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ends": [
+      1,
+      4,
+      8,
+      10,
+      11
+    ],
+    "key": [
+      18
+    ],
+    "sign": -1,
+    "masks": 32,
+    "score": -4.104049984125815,
+    "diag": {
+      "expanded": 25,
+      "merged": 8,
+      "maxstates": 2,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 67,
+    "cipher": [
+      10,
+      9,
+      5,
+      25,
+      25,
+      0,
+      25,
+      0,
+      3,
+      17,
+      0,
+      0,
+      26,
+      0,
+      23,
+      0,
+      25,
+      0,
+      0
+    ],
+    "ends": [
+      0,
+      1,
+      6,
+      15,
+      18
+    ],
+    "key": [
+      2,
+      6
+    ],
+    "sign": -1,
+    "masks": 256,
+    "score": -4.3519784247770135,
+    "diag": {
+      "expanded": 77,
+      "merged": 20,
+      "maxstates": 8,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 68,
+    "cipher": [
+      20,
+      0,
+      0,
+      0,
+      21,
+      25
+    ],
+    "ends": [
+      5
+    ],
+    "key": [
+      22,
+      23,
+      18,
+      24,
+      21
+    ],
+    "sign": -1,
+    "masks": 8,
+    "score": -4.128468964342277,
+    "diag": {
+      "expanded": 29,
+      "merged": 4,
+      "maxstates": 8,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 69,
+    "cipher": [
+      0,
+      0,
+      3,
+      25,
+      23,
+      18,
+      27,
+      0,
+      11,
+      14,
+      3,
+      1
+    ],
+    "ends": [
+      6,
+      11
+    ],
+    "key": [
+      27,
+      8,
+      12,
+      1,
+      10,
+      1,
+      16,
+      17
+    ],
+    "sign": -1,
+    "masks": 8,
+    "score": -4.606712568634542,
+    "diag": {
+      "expanded": 49,
+      "merged": 3,
+      "maxstates": 6,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 70,
+    "cipher": [
+      4,
+      0,
+      15,
+      0,
+      19,
+      3,
+      28,
+      0,
+      0,
+      2,
+      0,
+      6,
+      4,
+      0
+    ],
+    "ends": [
+      1,
+      3,
+      4,
+      13
+    ],
+    "key": [
+      26,
+      24,
+      26,
+      18,
+      24
+    ],
+    "sign": -1,
+    "masks": 64,
+    "score": -4.095799364137784,
+    "diag": {
+      "expanded": 95,
+      "merged": 16,
+      "maxstates": 12,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 71,
+    "cipher": [
+      13,
+      9,
+      25,
+      1,
+      0,
+      0,
+      12
+    ],
+    "ends": [
+      1,
+      3,
+      5,
+      6
+    ],
+    "key": [
+      13,
+      13,
+      20,
+      6,
+      27
+    ],
+    "sign": -1,
+    "masks": 4,
+    "score": -4.069730862444978,
+    "diag": {
+      "expanded": 14,
+      "merged": 1,
+      "maxstates": 4,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 72,
+    "cipher": [
+      0,
+      25,
+      5,
+      16,
+      12,
+      0,
+      21,
+      3,
+      0,
+      0,
+      0,
+      9,
+      15
+    ],
+    "ends": [
+      0,
+      4,
+      9,
+      12
+    ],
+    "key": [
+      16,
+      28,
+      26,
+      19,
+      23,
+      17,
+      6,
+      22
+    ],
+    "sign": 1,
+    "masks": 32,
+    "score": -4.391662669194704,
+    "diag": {
+      "expanded": 76,
+      "merged": 15,
+      "maxstates": 10,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 73,
+    "cipher": [
+      0,
+      22,
+      0,
+      0,
+      0,
+      24,
+      15
+    ],
+    "ends": [
+      6
+    ],
+    "key": [
+      14,
+      18,
+      25
+    ],
+    "sign": 1,
+    "masks": 16,
+    "score": -3.6441033246573395,
+    "diag": {
+      "expanded": 50,
+      "merged": 13,
+      "maxstates": 12,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 74,
+    "cipher": [
+      25,
+      1,
+      18,
+      19,
+      27,
+      0,
+      25,
+      0
+    ],
+    "ends": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      7
+    ],
+    "key": [
+      9,
+      26
+    ],
+    "sign": -1,
+    "masks": 4,
+    "score": -3.752837840610409,
+    "diag": {
+      "expanded": 13,
+      "merged": 0,
+      "maxstates": 4,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 75,
+    "cipher": [
+      0,
+      5,
+      0,
+      15,
+      0,
+      17,
+      0,
+      5,
+      0,
+      17,
+      7,
+      14,
+      2,
+      0,
+      0,
+      19,
+      16
+    ],
+    "ends": [
+      1,
+      4,
+      9,
+      11,
+      12,
+      13,
+      16
+    ],
+    "key": [
+      2,
+      26,
+      22,
+      5,
+      1
+    ],
+    "sign": -1,
+    "masks": 128,
+    "score": -3.3564025942956746,
+    "diag": {
+      "expanded": 133,
+      "merged": 30,
+      "maxstates": 10,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 76,
+    "cipher": [
+      20,
+      5,
+      6,
+      4,
+      28,
+      4,
+      5,
+      0
+    ],
+    "ends": [
+      2,
+      5,
+      7
+    ],
+    "key": [
+      10,
+      18,
+      7,
+      11,
+      5,
+      8
+    ],
+    "sign": -1,
+    "masks": 2,
+    "score": -4.803244363042554,
+    "diag": {
+      "expanded": 9,
+      "merged": 0,
+      "maxstates": 2,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 77,
+    "cipher": [
+      6,
+      25,
+      17,
+      25,
+      14,
+      2,
+      0,
+      22,
+      0,
+      0,
+      27
+    ],
+    "ends": [
+      3,
+      6,
+      9,
+      10
+    ],
+    "key": [
+      17,
+      25,
+      19,
+      3,
+      15,
+      9,
+      1
+    ],
+    "sign": 1,
+    "masks": 8,
+    "score": -3.9946476254629277,
+    "diag": {
+      "expanded": 28,
+      "merged": 4,
+      "maxstates": 6,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 78,
+    "cipher": [
+      0,
+      0,
+      0,
+      25,
+      0,
+      0,
+      18,
+      3,
+      0,
+      11,
+      0,
+      0,
+      9,
+      0,
+      7,
+      0,
+      0,
+      6,
+      17
+    ],
+    "ends": [
+      7,
+      8,
+      12,
+      14,
+      18
+    ],
+    "key": [
+      22,
+      7
+    ],
+    "sign": 1,
+    "masks": 2048,
+    "score": -3.949458640413688,
+    "diag": {
+      "expanded": 110,
+      "merged": 30,
+      "maxstates": 8,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 79,
+    "cipher": [
+      12,
+      0,
+      4,
+      13,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ends": [
+      2,
+      4,
+      6,
+      7
+    ],
+    "key": [
+      15
+    ],
+    "sign": 1,
+    "masks": 32,
+    "score": -3.859936082186478,
+    "diag": {
+      "expanded": 20,
+      "merged": 7,
+      "maxstates": 2,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 80,
+    "cipher": [
+      10,
+      0,
+      19,
+      2,
+      0,
+      23,
+      8,
+      8,
+      27,
+      25
+    ],
+    "ends": [
+      0,
+      1,
+      9
+    ],
+    "key": [
+      26,
+      18
+    ],
+    "sign": -1,
+    "masks": 4,
+    "score": -4.892008297449244,
+    "diag": {
+      "expanded": 25,
+      "merged": 2,
+      "maxstates": 4,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 81,
+    "cipher": [
+      14,
+      8,
+      0,
+      0,
+      0,
+      9,
+      2,
+      23,
+      18,
+      23,
+      18,
+      1,
+      4,
+      10,
+      28,
+      22,
+      28,
+      10
+    ],
+    "ends": [
+      4,
+      6,
+      9,
+      10,
+      14,
+      17
+    ],
+    "key": [
+      18,
+      5,
+      19,
+      22,
+      4,
+      18,
+      2
+    ],
+    "sign": 1,
+    "masks": 8,
+    "score": -4.610659423302511,
+    "diag": {
+      "expanded": 70,
+      "merged": 4,
+      "maxstates": 6,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 82,
+    "cipher": [
+      20,
+      17,
+      0,
+      0,
+      2,
+      14,
+      0,
+      0,
+      12,
+      11,
+      2,
+      9,
+      8,
+      0,
+      0
+    ],
+    "ends": [
+      0,
+      6,
+      12,
+      13,
+      14
+    ],
+    "key": [
+      22,
+      7
+    ],
+    "sign": 1,
+    "masks": 64,
+    "score": -3.7268027458874053,
+    "diag": {
+      "expanded": 54,
+      "merged": 12,
+      "maxstates": 4,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 83,
+    "cipher": [
+      6,
+      21,
+      0,
+      19,
+      8,
+      0,
+      12,
+      0,
+      21,
+      0
+    ],
+    "ends": [
+      3,
+      4,
+      9
+    ],
+    "key": [
+      19
+    ],
+    "sign": -1,
+    "masks": 16,
+    "score": -4.1001193127136455,
+    "diag": {
+      "expanded": 21,
+      "merged": 5,
+      "maxstates": 2,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 84,
+    "cipher": [
+      24,
+      0,
+      26,
+      8,
+      0,
+      20,
+      0,
+      0,
+      0,
+      22,
+      13,
+      0
+    ],
+    "ends": [
+      1,
+      10,
+      11
+    ],
+    "key": [
+      6,
+      27,
+      2
+    ],
+    "sign": 1,
+    "masks": 64,
+    "score": -3.769375486021496,
+    "diag": {
+      "expanded": 83,
+      "merged": 23,
+      "maxstates": 12,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 85,
+    "cipher": [
+      0,
+      20,
+      0,
+      26,
+      0,
+      7,
+      12,
+      2,
+      0,
+      0,
+      24,
+      0,
+      26,
+      15,
+      21,
+      0,
+      18,
+      18
+    ],
+    "ends": [
+      0,
+      9,
+      17
+    ],
+    "key": [
+      24,
+      20,
+      28,
+      25,
+      14,
+      18,
+      14,
+      1
+    ],
+    "sign": 1,
+    "masks": 128,
+    "score": -4.232123023517998,
+    "diag": {
+      "expanded": 155,
+      "merged": 25,
+      "maxstates": 14,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 86,
+    "cipher": [
+      0,
+      6,
+      24,
+      23,
+      0,
+      0,
+      0
+    ],
+    "ends": [
+      0,
+      1,
+      2,
+      5,
+      6
+    ],
+    "key": [
+      4,
+      0,
+      27,
+      8,
+      22,
+      13,
+      2,
+      9
+    ],
+    "sign": 1,
+    "masks": 16,
+    "score": -3.3459743827614794,
+    "diag": {
+      "expanded": 32,
+      "merged": 6,
+      "maxstates": 8,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 87,
+    "cipher": [
+      0,
+      7,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ends": [
+      5
+    ],
+    "key": [
+      9,
+      14,
+      26,
+      20,
+      18,
+      13,
+      24
+    ],
+    "sign": -1,
+    "masks": 32,
+    "score": -3.5874465228536443,
+    "diag": {
+      "expanded": 56,
+      "merged": 18,
+      "maxstates": 12,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 88,
+    "cipher": [
+      0,
+      0,
+      19,
+      21,
+      7,
+      13,
+      0
+    ],
+    "ends": [
+      2,
+      6
+    ],
+    "key": [
+      28,
+      11,
+      0
+    ],
+    "sign": -1,
+    "masks": 8,
+    "score": -4.304049099479865,
+    "diag": {
+      "expanded": 25,
+      "merged": 2,
+      "maxstates": 5,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 89,
+    "cipher": [
+      9,
+      7,
+      0,
+      0,
+      0,
+      0,
+      12,
+      22,
+      0,
+      9,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      2
+    ],
+    "ends": [
+      1,
+      5,
+      7,
+      8,
+      11,
+      16
+    ],
+    "key": [
+      14,
+      19,
+      16
+    ],
+    "sign": -1,
+    "masks": 1024,
+    "score": -3.574415856732185,
+    "diag": {
+      "expanded": 131,
+      "merged": 46,
+      "maxstates": 12,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 90,
+    "cipher": [
+      0,
+      0,
+      0,
+      2,
+      21,
+      2,
+      15,
+      20,
+      12,
+      24,
+      0,
+      0
+    ],
+    "ends": [
+      0,
+      11
+    ],
+    "key": [
+      25
+    ],
+    "sign": -1,
+    "masks": 32,
+    "score": -4.261392273745834,
+    "diag": {
+      "expanded": 27,
+      "merged": 7,
+      "maxstates": 4,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 91,
+    "cipher": [
+      7,
+      0,
+      14,
+      20,
+      26,
+      0,
+      14,
+      0,
+      7,
+      17,
+      26,
+      0,
+      22,
+      0,
+      10
+    ],
+    "ends": [
+      0,
+      3,
+      7,
+      11,
+      12,
+      14
+    ],
+    "key": [
+      7,
+      21,
+      9,
+      14,
+      9,
+      19
+    ],
+    "sign": -1,
+    "masks": 32,
+    "score": -4.054066738519096,
+    "diag": {
+      "expanded": 75,
+      "merged": 11,
+      "maxstates": 10,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 92,
+    "cipher": [
+      24,
+      0,
+      27,
+      0,
+      0,
+      14,
+      13,
+      14
+    ],
+    "ends": [
+      7
+    ],
+    "key": [
+      15,
+      12,
+      14,
+      16,
+      27,
+      23
+    ],
+    "sign": -1,
+    "masks": 8,
+    "score": -4.3903023791937725,
+    "diag": {
+      "expanded": 35,
+      "merged": 4,
+      "maxstates": 8,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 93,
+    "cipher": [
+      0,
+      22,
+      0,
+      7,
+      0,
+      0,
+      0
+    ],
+    "ends": [
+      1,
+      4,
+      6
+    ],
+    "key": [
+      27,
+      5,
+      18,
+      9,
+      2,
+      26,
+      4,
+      20
+    ],
+    "sign": 1,
+    "masks": 32,
+    "score": -3.953418886748838,
+    "diag": {
+      "expanded": 48,
+      "merged": 12,
+      "maxstates": 10,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 94,
+    "cipher": [
+      13,
+      3,
+      24,
+      0,
+      20,
+      19,
+      0,
+      0,
+      0,
+      4,
+      8,
+      0,
+      0,
+      18,
+      16,
+      0,
+      14,
+      16,
+      14
+    ],
+    "ends": [
+      1,
+      5,
+      15,
+      18
+    ],
+    "key": [
+      17,
+      6
+    ],
+    "sign": 1,
+    "masks": 128,
+    "score": -4.788704182554583,
+    "diag": {
+      "expanded": 85,
+      "merged": 22,
+      "maxstates": 8,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 95,
+    "cipher": [
+      10,
+      0,
+      0,
+      28,
+      12
+    ],
+    "ends": [
+      1,
+      4
+    ],
+    "key": [
+      10,
+      28,
+      22,
+      17,
+      6
+    ],
+    "sign": -1,
+    "masks": 4,
+    "score": -3.3636437334775957,
+    "diag": {
+      "expanded": 15,
+      "merged": 1,
+      "maxstates": 4,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 96,
+    "cipher": [
+      0,
+      0,
+      4,
+      0,
+      22,
+      21,
+      0,
+      0,
+      14,
+      0,
+      0,
+      4,
+      18,
+      0,
+      6,
+      0
+    ],
+    "ends": [
+      0,
+      5,
+      8,
+      9,
+      12,
+      15
+    ],
+    "key": [
+      15,
+      18,
+      14,
+      3,
+      20
+    ],
+    "sign": 1,
+    "masks": 512,
+    "score": -3.5370759524939355,
+    "diag": {
+      "expanded": 160,
+      "merged": 40,
+      "maxstates": 16,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 97,
+    "cipher": [
+      5,
+      0,
+      0,
+      19,
+      17,
+      0,
+      0,
+      0,
+      0,
+      0,
+      12,
+      13,
+      8,
+      10,
+      0,
+      15,
+      26,
+      0
+    ],
+    "ends": [
+      2,
+      3,
+      9,
+      11,
+      17
+    ],
+    "key": [
+      0,
+      15,
+      3,
+      25,
+      25,
+      1,
+      0
+    ],
+    "sign": 1,
+    "masks": 512,
+    "score": -3.625016718589304,
+    "diag": {
+      "expanded": 204,
+      "merged": 58,
+      "maxstates": 16,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 98,
+    "cipher": [
+      19,
+      0,
+      0,
+      16,
+      23,
+      0,
+      0,
+      10,
+      13,
+      0,
+      0,
+      0,
+      0,
+      1,
+      24,
+      0,
+      0
+    ],
+    "ends": [
+      1,
+      6,
+      12,
+      13,
+      16
+    ],
+    "key": [
+      16,
+      9,
+      24,
+      0,
+      24,
+      18,
+      2
+    ],
+    "sign": 1,
+    "masks": 1024,
+    "score": -3.5467882563098314,
+    "diag": {
+      "expanded": 223,
+      "merged": 79,
+      "maxstates": 23,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  },
+  {
+    "case": 99,
+    "cipher": [
+      15,
+      0,
+      0,
+      0,
+      25,
+      5,
+      28,
+      9,
+      0,
+      26,
+      0,
+      0,
+      1,
+      7,
+      4
+    ],
+    "ends": [
+      3,
+      9,
+      11,
+      14
+    ],
+    "key": [
+      7
+    ],
+    "sign": -1,
+    "masks": 64,
+    "score": -4.4500388090996115,
+    "diag": {
+      "expanded": 34,
+      "merged": 11,
+      "maxstates": 4,
+      "retention": "one exact best path per phase/context endpoint; endpoints are NOT global top16 paths"
+    }
+  }
+]

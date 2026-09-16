@@ -1,0 +1,113 @@
+{
+  "strategy": "outside-box-v1",
+  "rule": "Fixed RGB threshold R>150,G<100,B<100 after viewing only originals0/1; exploratory color measurement, not glyph recognition.",
+  "control": "Exact rectangle and black exclusion pass",
+  "pages": [
+    {
+      "page": 0,
+      "path": "liber-primus/data/relikd/p0.jpg",
+      "sha256": "197e1e153958b9a2736b09c10eea7d8bb00e0632fd22a8d9606840becc79942e",
+      "size": [
+        2400,
+        3600
+      ],
+      "red_pixels": 55144,
+      "bbox_xyxy": [
+        602,
+        668,
+        1444,
+        1164
+      ],
+      "row_spans": [
+        [
+          668,
+          1164
+        ]
+      ],
+      "column_spans": [
+        [
+          602,
+          750
+        ],
+        [
+          772,
+          814
+        ],
+        [
+          822,
+          874
+        ],
+        [
+          882,
+          915
+        ],
+        [
+          920,
+          962
+        ],
+        [
+          968,
+          1020
+        ],
+        [
+          1028,
+          1079
+        ],
+        [
+          1086,
+          1118
+        ],
+        [
+          1124,
+          1132
+        ],
+        [
+          1140,
+          1174
+        ],
+        [
+          1180,
+          1230
+        ],
+        [
+          1236,
+          1288
+        ],
+        [
+          1297,
+          1344
+        ],
+        [
+          1352,
+          1402
+        ],
+        [
+          1406,
+          1414
+        ],
+        [
+          1420,
+          1428
+        ],
+        [
+          1436,
+          1444
+        ]
+      ]
+    },
+    {
+      "page": 1,
+      "path": "liber-primus/data/relikd/p1.jpg",
+      "sha256": "f804fae06a68315eb6206158a2b34f55fe157c7d663fa961639fbe8dfc52a39f",
+      "size": [
+        2400,
+        3600
+      ],
+      "red_pixels": 0,
+      "bbox_xyxy": null,
+      "row_spans": [],
+      "column_spans": []
+    }
+  ],
+  "limits": "JPEG/compression/color thresholds affect pixel counts; no symbol accuracy or cipher-channel inference. Text/source mapping is provisional and not used to decode."
+}

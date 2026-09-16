@@ -1,0 +1,8 @@
+Assumption challenged: a pooled output rune histogram can detect all structured five-coordinate outputs. It cannot if coordinate marginals cancel.
+Alternative detector within the retained fixed-grid linear mechanism: sum five Pearson statistics, one per output coordinate. Matrices/directions/phases remain exactly E02's20candidates. No new cipher parameter.
+Prediction/control: synthetic five-coordinate plaintext has probabilities proportional to1+0.8cos(2pi*rune/29+2pi*coordinate/5). Its expected pooled rune histogram is exactly uniform while each coordinate is nonuniform; encrypt with source0matrix. Exact inverse must recover and coordinate detector must reject100wholeprocedure null replicates.
+Real test: same45discoverypages, nopadding, E02mapping,1000withinpage shuffle replicates evaluated over all20candidates. Statistic is sum of5chi-square marginal concentrations; does not presume English or one rune per letter.
+Against: ordinary null-like real results bound both pooled and separate-coordinate concentration under these exact operators. Cannot reject dependencies with uniform per-coordinate marginals.
+Novelty: catches explicit failure mode untested by E02; at most this one extension before changing model.
+First executable step: experiment04.py throughlogged runner.
+Next two distinct tests: word-group prime-sum residues as structured field elements with exact invertibility/collision accounting; source-grid equal-line constraints as an error-detection code, compute dimension and identify how much of each grid is actually independent before attributing structure to a cipher.

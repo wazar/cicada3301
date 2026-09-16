@@ -1,0 +1,60 @@
+{
+  "version": "outside-box-v1",
+  "applied_at": "2026-09-16T21:52:05.603341+02:00",
+  "commit": "ef2e807da5af7838d3c312997a9a598c61f58956",
+  "mode": "DIRECT",
+  "deadline_utc": "2026-09-17T03:30:37Z",
+  "external_controller": false,
+  "verification": "Coordinator read updated files in active session; worker acknowledgements and actual executed cards will verify delivery.",
+  "files": {
+    "RESEARCH-STRATEGY.md": "eac5f90b963597464862cadbd2f8245375c844d2d0b6f9e52f418bcad617517c",
+    "CICADA-CONTINUOUS-RESEARCH.md": "638c4ed1f85cad5cd55887df7cefeb1896cb73eb0afaf8b8e7d7a6b9f3e2a240"
+  },
+  "assignments": {
+    "persistent_a": "One existing-method lane: uncovered F-only clue search; current real/null tranche retained.",
+    "persistent_c": "Alternative operation: finite-state nonadditive encoder explanations, second structural prediction, language-agnostic tests.",
+    "persistent_e": "Alternative representation/procedure/output target: fresh neutral brief using the two source 5x5 fields; propose two explanations and implement a discriminating real-input test."
+  },
+  "acknowledged_workers": [
+    "persistent_a",
+    "persistent_c",
+    "persistent_e"
+  ],
+  "checkpointed_worker": "persistent_d",
+  "delivery_verification": [
+    {
+      "worker": "worker-a",
+      "ack_file": "exploration/persistent-01/worker-a/strategy-ack.json",
+      "matching_document_hashes": true
+    },
+    {
+      "worker": "worker-c",
+      "ack_file": "exploration/persistent-01/worker-c/strategy-ack.json",
+      "matching_document_hashes": true
+    },
+    {
+      "worker": "worker-e",
+      "ack_file": "exploration/persistent-01/worker-e/strategy-ack.json",
+      "matching_document_hashes": true
+    },
+    {
+      "worker": "worker-f",
+      "ack_file": "exploration/persistent-01/worker-f/strategy-ack.json",
+      "matching_document_hashes": true
+    }
+  ],
+  "actual_alternative_execution": {
+    "OB-C": "Nonadditive rank-deletion model on45 discovery pages, controls and400 matched nulls; completed8.94s",
+    "OB-E": "Source-grid representation and algebraic gate,1598 discovery windows plus1000shuffles; completed1.15s; operator experiment next"
+  },
+  "current_assignments": {
+    "persistent_a": "Existing periodic F real completed; matched null running.",
+    "persistent_c": "Alternative structured binary output from framed rank streams, OB-C6.",
+    "persistent_f": "Alternative separator-conditioned operation, rotation null keeps cipher/repeats exactly; then page roles."
+  },
+  "completed_alternative_cycle": [
+    "OB-C1..C4 reviewed; C5 completed pending next checkpoint",
+    "OB-E1..E6 reviewed"
+  ],
+  "fresh_review": "exploration/persistent-01/review-01/REPORT.md"
+}

@@ -1,0 +1,65 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "exploration/persistent-01/coordinator/layout_color.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "ef2e807da5af7838d3c312997a9a598c61f58956",
+  "started_utc": "2026-09-16T20:07:15.399192+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/check_finite_guard.py",
+      "exists": true,
+      "bytes": 1880,
+      "sha256": "c22ea15006eefbc4b1801516f5aba2edae033468c7829b50ba69f9b533b3f483"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/layout_color.py",
+      "exists": true,
+      "bytes": 1607,
+      "sha256": "c68b094a4fccb856cbba538cd3700392fd4f46108df8c43c626253c90beb0859"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/running_scope.py",
+      "exists": true,
+      "bytes": 1795,
+      "sha256": "7f543c4591bde7a926991c45da4250d8d05f2dce2b60747b3d8e5e6c08b93694"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "liber-primus/data/relikd/p0.jpg",
+      "exists": true,
+      "bytes": 695525,
+      "sha256": "197e1e153958b9a2736b09c10eea7d8bb00e0632fd22a8d9606840becc79942e"
+    },
+    {
+      "path": "liber-primus/data/relikd/p1.jpg",
+      "exists": true,
+      "bytes": 667228,
+      "sha256": "f804fae06a68315eb6206158a2b34f55fe157c7d663fa961639fbe8dfc52a39f"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 36346,
+  "finished_utc": "2026-09-16T20:07:15.592636+00:00",
+  "duration_seconds": 0.19318795800063526
+}

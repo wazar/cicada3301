@@ -1,0 +1,65 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "exploration/persistent-01/coordinator/check_finite_guard.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "4271ab65c01e365f0e329dab627c15e389216996",
+  "started_utc": "2026-09-16T19:41:36.205852+00:00",
+  "timeout_seconds": 60,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/overnight-01/worker-c/search.py",
+      "exists": true,
+      "bytes": 6560,
+      "sha256": "71d8abd6edd0c08f4b1f682e1ddfe55325273b275398f545225e9d28c74aa12b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/check_finite_guard.py",
+      "exists": true,
+      "bytes": 1880,
+      "sha256": "c22ea15006eefbc4b1801516f5aba2edae033468c7829b50ba69f9b533b3f483"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/running_scope.py",
+      "exists": true,
+      "bytes": 1795,
+      "sha256": "7f543c4591bde7a926991c45da4250d8d05f2dce2b60747b3d8e5e6c08b93694"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-b/feasible.py",
+      "exists": true,
+      "bytes": 3632,
+      "sha256": "e5c9cc1444716ca2a3ab4f71e7c58cf041db2809fe0e3788d27e3beacc2af17b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-b/search.py",
+      "exists": true,
+      "bytes": 5542,
+      "sha256": "19a40fafc7991e4e94e30648c12901cd6b9f299785e852c86adf6cff8d1ab26c"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 26419,
+  "finished_utc": "2026-09-16T19:41:36.287322+00:00",
+  "duration_seconds": 0.08123962500030757
+}

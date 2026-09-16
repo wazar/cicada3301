@@ -1,0 +1,110 @@
+{
+  "strategy": "outside-box-v1",
+  "model": "move-to-front rankencoder,29symbolpermutationstate;rank0rareEA mappedsource28",
+  "real": {
+    "nonrepeat_seen_rank_entropy": 4.79692737871163,
+    "seen_rank_lag1_mi": 0.06979841018858013,
+    "counts": [
+      0,
+      358,
+      368,
+      362,
+      390,
+      350,
+      372,
+      366,
+      351,
+      340,
+      332,
+      334,
+      330,
+      328,
+      300,
+      338,
+      340,
+      336,
+      325,
+      322,
+      331,
+      338,
+      315,
+      292,
+      271,
+      292,
+      252,
+      240,
+      236
+    ],
+    "retained_nonrepeat": 9109,
+    "pair_count": 8531
+  },
+  "held": {
+    "nonrepeat_seen_rank_entropy": 4.179975755618645,
+    "seen_rank_lag1_mi": 1.034817041920927,
+    "counts": [
+      0,
+      17,
+      58,
+      41,
+      66,
+      56,
+      26,
+      17,
+      21,
+      24,
+      65,
+      83,
+      3,
+      0,
+      11,
+      3,
+      62,
+      61,
+      3,
+      109,
+      17,
+      39,
+      5,
+      0,
+      34,
+      51,
+      0,
+      23,
+      1
+    ],
+    "retained_nonrepeat": 896,
+    "pair_count": 851
+  },
+  "held_entropy_p": 0.004975124378109453,
+  "held_mi_p": 0.004975124378109453,
+  "comparisons": {
+    "generative": {
+      "entropy_p": 0.9850746268656716,
+      "mi_p": 0.43283582089552236,
+      "entropy_range": [
+        4.787513746419386,
+        4.798145128350166
+      ],
+      "mi_range": [
+        0.06157465995388205,
+        0.0796091059809835
+      ]
+    },
+    "permutation": {
+      "entropy_p": 0.8855721393034826,
+      "mi_p": 0.38308457711442784,
+      "entropy_range": [
+        4.7898762359222165,
+        4.798439968922059
+      ],
+      "mi_range": [
+        0.06075944804526962,
+        0.07779481903786846
+      ]
+    }
+  },
+  "pages": 45,
+  "runes": 10466,
+  "seconds": 1.4798221249984636,
+  "limits": "Mainstatistics useonlyseen-symbol positions, invariant to ANY initialalphabet; firstoccurrence sourcevalues remainambiguous. Arbitrary fixed relabelling changesnoentropy/MI. SourceEnglishcontrols;otherhighentropyinputs notexcluded. Two selectedstatistics notjointtest."
+}

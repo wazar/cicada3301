@@ -1,0 +1,877 @@
+{
+  "train": [
+    "0_warning",
+    "0_wisdom",
+    "0_koan_1",
+    "0_loss_of_divinity",
+    "jpg229"
+  ],
+  "check": [
+    "0_welcome",
+    "jpg107-167",
+    "p56_an_end",
+    "p57_parable"
+  ],
+  "sources": [
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_warning.txt",
+      "sha256": "c6ca9c1952307bd55866e22b9f868163bca493893162baefdba71cb9e1a206d9"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_wisdom.txt",
+      "sha256": "4363dc279d01ac8866011988d0422a31bf608940abccaa37368c689099f52efe"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_koan_1.txt",
+      "sha256": "5aaae7ee19dfb46a41d5e10f975b5a252b82b6e18b49116a9f99b31a2fbee06c"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_loss_of_divinity.txt",
+      "sha256": "10954c8d61744ceb453e9b553e52cd3e01289d12b727c521e21bc0594f0e0c91"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_jpg229.txt",
+      "sha256": "67635c556f84b1fe8319f0300d4378d8f1dc664d779c1f0f69c4cb272c87c181"
+    }
+  ],
+  "method": "rune trigram interpolated Dirichlet smoothing .5 unigram,8 bigram,5 trigram; boundary token29; nats per emitted token",
+  "width": 64,
+  "cells": [
+    {
+      "id": "clue:000:0:-1",
+      "key_id": "clue:000",
+      "phase": 0,
+      "sign": -1,
+      "key": [
+        7,
+        24,
+        4,
+        9,
+        21
+      ]
+    },
+    {
+      "id": "clue:000:0:1",
+      "key_id": "clue:000",
+      "phase": 0,
+      "sign": 1,
+      "key": [
+        7,
+        24,
+        4,
+        9,
+        21
+      ]
+    },
+    {
+      "id": "clue:000:1:-1",
+      "key_id": "clue:000",
+      "phase": 1,
+      "sign": -1,
+      "key": [
+        24,
+        4,
+        9,
+        21,
+        7
+      ]
+    },
+    {
+      "id": "clue:000:1:1",
+      "key_id": "clue:000",
+      "phase": 1,
+      "sign": 1,
+      "key": [
+        24,
+        4,
+        9,
+        21,
+        7
+      ]
+    },
+    {
+      "id": "clue:001:0:-1",
+      "key_id": "clue:001",
+      "phase": 0,
+      "sign": -1,
+      "key": [
+        17,
+        18,
+        20,
+        10,
+        18,
+        1,
+        18
+      ]
+    },
+    {
+      "id": "clue:001:0:1",
+      "key_id": "clue:001",
+      "phase": 0,
+      "sign": 1,
+      "key": [
+        17,
+        18,
+        20,
+        10,
+        18,
+        1,
+        18
+      ]
+    },
+    {
+      "id": "clue:001:1:-1",
+      "key_id": "clue:001",
+      "phase": 1,
+      "sign": -1,
+      "key": [
+        18,
+        20,
+        10,
+        18,
+        1,
+        18,
+        17
+      ]
+    },
+    {
+      "id": "clue:001:1:1",
+      "key_id": "clue:001",
+      "phase": 1,
+      "sign": 1,
+      "key": [
+        18,
+        20,
+        10,
+        18,
+        1,
+        18,
+        17
+      ]
+    },
+    {
+      "id": "clue:002:0:-1",
+      "key_id": "clue:002",
+      "phase": 0,
+      "sign": -1,
+      "key": [
+        9,
+        3,
+        2,
+        21
+      ]
+    },
+    {
+      "id": "clue:002:0:1",
+      "key_id": "clue:002",
+      "phase": 0,
+      "sign": 1,
+      "key": [
+        9,
+        3,
+        2,
+        21
+      ]
+    },
+    {
+      "id": "clue:002:1:-1",
+      "key_id": "clue:002",
+      "phase": 1,
+      "sign": -1,
+      "key": [
+        3,
+        2,
+        21,
+        9
+      ]
+    },
+    {
+      "id": "clue:002:1:1",
+      "key_id": "clue:002",
+      "phase": 1,
+      "sign": 1,
+      "key": [
+        3,
+        2,
+        21,
+        9
+      ]
+    },
+    {
+      "id": "clue:003:0:-1",
+      "key_id": "clue:003",
+      "phase": 0,
+      "sign": -1,
+      "key": [
+        0,
+        4,
+        3,
+        19
+      ]
+    },
+    {
+      "id": "clue:003:0:1",
+      "key_id": "clue:003",
+      "phase": 0,
+      "sign": 1,
+      "key": [
+        0,
+        4,
+        3,
+        19
+      ]
+    },
+    {
+      "id": "clue:003:1:-1",
+      "key_id": "clue:003",
+      "phase": 1,
+      "sign": -1,
+      "key": [
+        4,
+        3,
+        19,
+        0
+      ]
+    },
+    {
+      "id": "clue:003:1:1",
+      "key_id": "clue:003",
+      "phase": 1,
+      "sign": 1,
+      "key": [
+        4,
+        3,
+        19,
+        0
+      ]
+    },
+    {
+      "id": "clue:004:0:-1",
+      "key_id": "clue:004",
+      "phase": 0,
+      "sign": -1,
+      "key": [
+        17,
+        3,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "clue:004:0:1",
+      "key_id": "clue:004",
+      "phase": 0,
+      "sign": 1,
+      "key": [
+        17,
+        3,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "clue:004:1:-1",
+      "key_id": "clue:004",
+      "phase": 1,
+      "sign": -1,
+      "key": [
+        3,
+        3,
+        5,
+        17
+      ]
+    },
+    {
+      "id": "clue:004:1:1",
+      "key_id": "clue:004",
+      "phase": 1,
+      "sign": 1,
+      "key": [
+        3,
+        3,
+        5,
+        17
+      ]
+    },
+    {
+      "id": "clue:005:0:-1",
+      "key_id": "clue:005",
+      "phase": 0,
+      "sign": -1,
+      "key": [
+        18,
+        14,
+        5,
+        18,
+        13,
+        16
+      ]
+    },
+    {
+      "id": "clue:005:0:1",
+      "key_id": "clue:005",
+      "phase": 0,
+      "sign": 1,
+      "key": [
+        18,
+        14,
+        5,
+        18,
+        13,
+        16
+      ]
+    },
+    {
+      "id": "clue:005:1:-1",
+      "key_id": "clue:005",
+      "phase": 1,
+      "sign": -1,
+      "key": [
+        14,
+        5,
+        18,
+        13,
+        16,
+        18
+      ]
+    },
+    {
+      "id": "clue:005:1:1",
+      "key_id": "clue:005",
+      "phase": 1,
+      "sign": 1,
+      "key": [
+        14,
+        5,
+        18,
+        13,
+        16,
+        18
+      ]
+    },
+    {
+      "id": "clue:006:0:-1",
+      "key_id": "clue:006",
+      "phase": 0,
+      "sign": -1,
+      "key": [
+        7,
+        8,
+        24,
+        16
+      ]
+    },
+    {
+      "id": "clue:006:0:1",
+      "key_id": "clue:006",
+      "phase": 0,
+      "sign": 1,
+      "key": [
+        7,
+        8,
+        24,
+        16
+      ]
+    },
+    {
+      "id": "clue:006:1:-1",
+      "key_id": "clue:006",
+      "phase": 1,
+      "sign": -1,
+      "key": [
+        8,
+        24,
+        16,
+        7
+      ]
+    },
+    {
+      "id": "clue:006:1:1",
+      "key_id": "clue:006",
+      "phase": 1,
+      "sign": 1,
+      "key": [
+        8,
+        24,
+        16,
+        7
+      ]
+    },
+    {
+      "id": "clue:007:0:-1",
+      "key_id": "clue:007",
+      "phase": 0,
+      "sign": -1,
+      "key": [
+        5,
+        9,
+        3,
+        7
+      ]
+    },
+    {
+      "id": "clue:007:0:1",
+      "key_id": "clue:007",
+      "phase": 0,
+      "sign": 1,
+      "key": [
+        5,
+        9,
+        3,
+        7
+      ]
+    },
+    {
+      "id": "clue:007:1:-1",
+      "key_id": "clue:007",
+      "phase": 1,
+      "sign": -1,
+      "key": [
+        9,
+        3,
+        7,
+        5
+      ]
+    },
+    {
+      "id": "clue:007:1:1",
+      "key_id": "clue:007",
+      "phase": 1,
+      "sign": 1,
+      "key": [
+        9,
+        3,
+        7,
+        5
+      ]
+    },
+    {
+      "id": "clue:008:0:-1",
+      "key_id": "clue:008",
+      "phase": 0,
+      "sign": -1,
+      "key": [
+        16,
+        4,
+        1,
+        18
+      ]
+    },
+    {
+      "id": "clue:008:0:1",
+      "key_id": "clue:008",
+      "phase": 0,
+      "sign": 1,
+      "key": [
+        16,
+        4,
+        1,
+        18
+      ]
+    },
+    {
+      "id": "clue:008:1:-1",
+      "key_id": "clue:008",
+      "phase": 1,
+      "sign": -1,
+      "key": [
+        4,
+        1,
+        18,
+        16
+      ]
+    },
+    {
+      "id": "clue:008:1:1",
+      "key_id": "clue:008",
+      "phase": 1,
+      "sign": 1,
+      "key": [
+        4,
+        1,
+        18,
+        16
+      ]
+    },
+    {
+      "id": "clue:009:0:-1",
+      "key_id": "clue:009",
+      "phase": 0,
+      "sign": -1,
+      "key": [
+        16,
+        18,
+        15,
+        16
+      ]
+    },
+    {
+      "id": "clue:009:0:1",
+      "key_id": "clue:009",
+      "phase": 0,
+      "sign": 1,
+      "key": [
+        16,
+        18,
+        15,
+        16
+      ]
+    },
+    {
+      "id": "clue:009:1:-1",
+      "key_id": "clue:009",
+      "phase": 1,
+      "sign": -1,
+      "key": [
+        18,
+        15,
+        16,
+        16
+      ]
+    },
+    {
+      "id": "clue:009:1:1",
+      "key_id": "clue:009",
+      "phase": 1,
+      "sign": 1,
+      "key": [
+        18,
+        15,
+        16,
+        16
+      ]
+    },
+    {
+      "id": "clue:010:0:-1",
+      "key_id": "clue:010",
+      "phase": 0,
+      "sign": -1,
+      "key": [
+        5,
+        9,
+        3,
+        7,
+        20,
+        18,
+        23,
+        6,
+        18
+      ]
+    },
+    {
+      "id": "clue:010:0:1",
+      "key_id": "clue:010",
+      "phase": 0,
+      "sign": 1,
+      "key": [
+        5,
+        9,
+        3,
+        7,
+        20,
+        18,
+        23,
+        6,
+        18
+      ]
+    },
+    {
+      "id": "clue:010:1:-1",
+      "key_id": "clue:010",
+      "phase": 1,
+      "sign": -1,
+      "key": [
+        9,
+        3,
+        7,
+        20,
+        18,
+        23,
+        6,
+        18,
+        5
+      ]
+    },
+    {
+      "id": "clue:010:1:1",
+      "key_id": "clue:010",
+      "phase": 1,
+      "sign": 1,
+      "key": [
+        9,
+        3,
+        7,
+        20,
+        18,
+        23,
+        6,
+        18,
+        5
+      ]
+    },
+    {
+      "id": "clue:011:0:-1",
+      "key_id": "clue:011",
+      "phase": 0,
+      "sign": -1,
+      "key": [
+        0,
+        10,
+        9,
+        23
+      ]
+    },
+    {
+      "id": "clue:011:0:1",
+      "key_id": "clue:011",
+      "phase": 0,
+      "sign": 1,
+      "key": [
+        0,
+        10,
+        9,
+        23
+      ]
+    },
+    {
+      "id": "clue:011:1:-1",
+      "key_id": "clue:011",
+      "phase": 1,
+      "sign": -1,
+      "key": [
+        10,
+        9,
+        23,
+        0
+      ]
+    },
+    {
+      "id": "clue:011:1:1",
+      "key_id": "clue:011",
+      "phase": 1,
+      "sign": 1,
+      "key": [
+        10,
+        9,
+        23,
+        0
+      ]
+    },
+    {
+      "id": "clue:012:0:-1",
+      "key_id": "clue:012",
+      "phase": 0,
+      "sign": -1,
+      "key": [
+        26,
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "clue:012:0:1",
+      "key_id": "clue:012",
+      "phase": 0,
+      "sign": 1,
+      "key": [
+        26,
+        3,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "clue:012:1:-1",
+      "key_id": "clue:012",
+      "phase": 1,
+      "sign": -1,
+      "key": [
+        3,
+        1,
+        4,
+        26
+      ]
+    },
+    {
+      "id": "clue:012:1:1",
+      "key_id": "clue:012",
+      "phase": 1,
+      "sign": 1,
+      "key": [
+        3,
+        1,
+        4,
+        26
+      ]
+    },
+    {
+      "id": "clue:013:0:-1",
+      "key_id": "clue:013",
+      "phase": 0,
+      "sign": -1,
+      "key": [
+        16,
+        4,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "clue:013:0:1",
+      "key_id": "clue:013",
+      "phase": 0,
+      "sign": 1,
+      "key": [
+        16,
+        4,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "clue:013:1:-1",
+      "key_id": "clue:013",
+      "phase": 1,
+      "sign": -1,
+      "key": [
+        4,
+        1,
+        2,
+        16
+      ]
+    },
+    {
+      "id": "clue:013:1:1",
+      "key_id": "clue:013",
+      "phase": 1,
+      "sign": 1,
+      "key": [
+        4,
+        1,
+        2,
+        16
+      ]
+    },
+    {
+      "id": "clue:014:0:-1",
+      "key_id": "clue:014",
+      "phase": 0,
+      "sign": -1,
+      "key": [
+        18,
+        14,
+        13,
+        18,
+        4,
+        10,
+        18,
+        9,
+        5,
+        18
+      ]
+    },
+    {
+      "id": "clue:014:0:1",
+      "key_id": "clue:014",
+      "phase": 0,
+      "sign": 1,
+      "key": [
+        18,
+        14,
+        13,
+        18,
+        4,
+        10,
+        18,
+        9,
+        5,
+        18
+      ]
+    },
+    {
+      "id": "clue:014:1:-1",
+      "key_id": "clue:014",
+      "phase": 1,
+      "sign": -1,
+      "key": [
+        14,
+        13,
+        18,
+        4,
+        10,
+        18,
+        9,
+        5,
+        18,
+        18
+      ]
+    },
+    {
+      "id": "clue:014:1:1",
+      "key_id": "clue:014",
+      "phase": 1,
+      "sign": 1,
+      "key": [
+        14,
+        13,
+        18,
+        4,
+        10,
+        18,
+        9,
+        5,
+        18,
+        18
+      ]
+    },
+    {
+      "id": "clue:015:0:-1",
+      "key_id": "clue:015",
+      "phase": 0,
+      "sign": -1,
+      "key": [
+        18,
+        23,
+        10,
+        16
+      ]
+    },
+    {
+      "id": "clue:015:0:1",
+      "key_id": "clue:015",
+      "phase": 0,
+      "sign": 1,
+      "key": [
+        18,
+        23,
+        10,
+        16
+      ]
+    },
+    {
+      "id": "clue:015:1:-1",
+      "key_id": "clue:015",
+      "phase": 1,
+      "sign": -1,
+      "key": [
+        23,
+        10,
+        16,
+        18
+      ]
+    },
+    {
+      "id": "clue:015:1:1",
+      "key_id": "clue:015",
+      "phase": 1,
+      "sign": 1,
+      "key": [
+        23,
+        10,
+        16,
+        18
+      ]
+    }
+  ]
+}

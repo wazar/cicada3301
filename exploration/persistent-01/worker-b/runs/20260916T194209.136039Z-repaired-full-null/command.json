@@ -1,0 +1,96 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "exploration/persistent-01/worker-b/replay_feasible.py",
+    "search",
+    "--count",
+    "30048",
+    "--seconds",
+    "425",
+    "--null-seed",
+    "92001"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "4271ab65c01e365f0e329dab627c15e389216996",
+  "started_utc": "2026-09-16T19:42:09.147579+00:00",
+  "timeout_seconds": 450,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/parallel-01/inputs/dataset.json",
+      "exists": true,
+      "bytes": 1378156,
+      "sha256": "e3d8a8b7a81f00e17d54209772eee7bedb5b922e6176ca722be31f952eaea895"
+    },
+    {
+      "path": "exploration/overnight-01/worker-c/f-jobs.json",
+      "exists": true,
+      "bytes": 1474756,
+      "sha256": "a8331b4eed1bd418672d632363789f202b2302cf58e1f5e8aefe7ee68f61846c"
+    },
+    {
+      "path": "exploration/overnight-01/worker-c/routes.json",
+      "exists": true,
+      "bytes": 124291,
+      "sha256": "d908ef6359c206bdf4a117812daf01e44da7e12c0915c638e55db18aee3a9e10"
+    },
+    {
+      "path": "exploration/overnight-01/worker-c/search.py",
+      "exists": true,
+      "bytes": 6560,
+      "sha256": "71d8abd6edd0c08f4b1f682e1ddfe55325273b275398f545225e9d28c74aa12b"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-b/feasible.py",
+      "exists": true,
+      "bytes": 3632,
+      "sha256": "e5c9cc1444716ca2a3ab4f71e7c58cf041db2809fe0e3788d27e3beacc2af17b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-b/replay_feasible.py",
+      "exists": true,
+      "bytes": 611,
+      "sha256": "413e0102f0887eabc558b594a44a620799544d4e4f894b26b6e832f13e60c375"
+    },
+    {
+      "path": "exploration/persistent-01/worker-b/reset.py",
+      "exists": true,
+      "bytes": 2630,
+      "sha256": "ca22a34a2a8493a9503066cfd19d0c4e24c5df8b76d7302a7fe195668ced9b4c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-b/search.py",
+      "exists": true,
+      "bytes": 5542,
+      "sha256": "19a40fafc7991e4e94e30648c12901cd6b9f299785e852c86adf6cff8d1ab26c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-b/structure.py",
+      "exists": true,
+      "bytes": 2799,
+      "sha256": "6d92cd81ea518d65ee61b8382a638752b7540225b5638e822cff1c7251592b54"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 26615,
+  "finished_utc": "2026-09-16T19:43:18.662327+00:00",
+  "duration_seconds": 69.5142938329991
+}

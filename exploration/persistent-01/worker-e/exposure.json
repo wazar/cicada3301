@@ -1,0 +1,23 @@
+{
+  "at_recording": "2026-09-16T19:57:01.680790+00:00",
+  "type": "incidental prior-coverage tool-output exposure",
+  "command": "rg -n 'magic.square|magic square|1311|matrix.*rank|rank.*matrix' liber-primus/LEDGER.json liber-primus/analysis exploration/overnight-01 audit/reports --glob '*.md' --glob '*.json'",
+  "visible_reserved_page": 54,
+  "visible_fields": [
+    "page",
+    "band",
+    "x",
+    "y",
+    "w",
+    "h",
+    "comp",
+    "cls",
+    "d1",
+    "cls2",
+    "d2"
+  ],
+  "consumption": "Tool output was unexpectedly huge and truncated. I recognized visible page54 per-rune vision-class/position metadata, did not transcribe or derive any rule from those records, and did not rerun or inspect source to reconstruct them. Nevertheless page54 is contaminated for my future validation.",
+  "rule_selection": "Experiment01 frozen and executed before exposure. Experiment02 selected from published source matrices and their rank5 only; no rule chosen from exposed metadata.",
+  "future_policy": "All ten reserved pages still excluded from all experiments; page54 cannot be claimed untouched for workerE. Other nine not knowingly exposed; no further inspection.",
+  "notified_coordinator": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": "P10-scope",
+  "at": "2026-09-16T21:36:30.953086+02:00",
+  "hypothesis": "Finite solved running keys may finish under literal-F non-consumption even when an ordinary length prefilter rejected them.",
+  "rationale": "Prior R02 clues.cells requires offset+page_length<=key_length, which is sufficient but not necessary for literal-F. Reuse source-defined offsets only.",
+  "novelty": "Find finite running-key cells omitted by the old ordinary-length prefilter; enumeration only, no decode or scored reserve inspection.",
+  "inputs": [
+    "audit/parallel-01/inputs/dataset.json",
+    "exploration/overnight-01/worker-a/r02/keys.json"
+  ],
+  "method": "For discovery pages only, necessary bound remaining>=N-count(cipherF); compare old bound remaining>=N. Both signs.",
+  "controls": "Boundary arithmetic sanity and explicit reserved-page exclusion; feasibility is necessary, not proof beam path exists.",
+  "outcome": "Pending enumeration",
+  "limits": "This determines possible cells, not evidence of plaintext or cipher-family likelihood.",
+  "next_decision": "Add bounded finite-key F search if meaningful omitted cells exist."
+}

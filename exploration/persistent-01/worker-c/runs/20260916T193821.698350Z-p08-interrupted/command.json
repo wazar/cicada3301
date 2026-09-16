@@ -1,0 +1,71 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "exploration/persistent-01/worker-c/p08.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "4271ab65c01e365f0e329dab627c15e389216996",
+  "started_utc": "2026-09-16T19:38:21.708893+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/parallel-01/inputs/dataset.json",
+      "exists": true,
+      "bytes": 1378156,
+      "sha256": "e3d8a8b7a81f00e17d54209772eee7bedb5b922e6176ca722be31f952eaea895"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_welcome.txt",
+      "exists": true,
+      "bytes": 1934,
+      "sha256": "95caaffb0ae764801bb023ba8eda15b49366cb3258aab9e26922e89e884c7b73"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_jpg107-167.txt",
+      "exists": true,
+      "bytes": 1236,
+      "sha256": "2dd885e1785ffee22692901167edb1a37a0fae87c7d765bf53f799b108663b6c"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p03.py",
+      "exists": true,
+      "bytes": 6350,
+      "sha256": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p06.py",
+      "exists": true,
+      "bytes": 4929,
+      "sha256": "73400b516aa94041f7b050657f77a50f35b46ef701350497ed802bf78f21bc40"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p08.py",
+      "exists": true,
+      "bytes": 4483,
+      "sha256": "1bd2b51e438bd5dce14d9c97c5f386193deb44b049246b0b6613bf03ab0b0938"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 24899,
+  "finished_utc": "2026-09-16T19:38:36.314920+00:00",
+  "duration_seconds": 14.605761790999168
+}

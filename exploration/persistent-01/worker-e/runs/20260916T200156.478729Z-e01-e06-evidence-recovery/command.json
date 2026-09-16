@@ -1,0 +1,78 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "-c",
+    "import runpy; [runpy.run_path(\"exploration/persistent-01/worker-e/experiment%02d.py\" % i) for i in [1,2,4,5,6]]"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "ef2e807da5af7838d3c312997a9a598c61f58956",
+  "started_utc": "2026-09-16T20:01:56.489280+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/parallel-01/inputs/dataset.json",
+      "exists": true,
+      "bytes": 1378156,
+      "sha256": "e3d8a8b7a81f00e17d54209772eee7bedb5b922e6176ca722be31f952eaea895"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-e/experiment01.py",
+      "exists": true,
+      "bytes": 3340,
+      "sha256": "51d6ff81d2b26d02afde3c047e402eb8153fb9683fb0f7043235ca6a41dee908"
+    },
+    {
+      "path": "exploration/persistent-01/worker-e/experiment02.py",
+      "exists": true,
+      "bytes": 3027,
+      "sha256": "d4327017073367fbed5ccd2ebab901581d4d399f20ef1200c0252b24b6cd6bf1"
+    },
+    {
+      "path": "exploration/persistent-01/worker-e/experiment03.py",
+      "exists": true,
+      "bytes": 1415,
+      "sha256": "e4d19f959a1a43193ac3f377da5c2c190bebf6ebcc13503c258379e25eab4ff9"
+    },
+    {
+      "path": "exploration/persistent-01/worker-e/experiment04.py",
+      "exists": true,
+      "bytes": 3027,
+      "sha256": "816785b1388251be816093d93f46dde336d3d8e9eb6ae5841cd5fa1350dfc33f"
+    },
+    {
+      "path": "exploration/persistent-01/worker-e/experiment05.py",
+      "exists": true,
+      "bytes": 2279,
+      "sha256": "5f67b3786aa3d59e3255d53afae7113504a0939800ec96919db862cab71abc7a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-e/experiment06.py",
+      "exists": true,
+      "bytes": 3442,
+      "sha256": "0dafe83620f50c2e01ebd45ddf09bd3f2b6ab070addc0d97168f996f86795522"
+    }
+  ],
+  "outcome": "NONZERO",
+  "exit_code": 1,
+  "pid": 34238,
+  "finished_utc": "2026-09-16T20:02:01.956214+00:00",
+  "duration_seconds": 5.466652333998354
+}

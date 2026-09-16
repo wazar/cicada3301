@@ -1,0 +1,116 @@
+[
+  {
+    "label": "control-0_welcome",
+    "n": 515,
+    "evaluated": 64,
+    "truth_key_rank": 1,
+    "best_errors": 0,
+    "planted_errors": 0,
+    "truth_in_top16": true,
+    "best_score": -2.2641914903243716,
+    "elapsed": 0.610485167000661
+  },
+  {
+    "label": "null-0_welcome",
+    "n": 515,
+    "evaluated": 64,
+    "best_score": -4.506336168324288,
+    "elapsed": 1.1780844580007397
+  },
+  {
+    "label": "control-jpg107-167",
+    "n": 319,
+    "evaluated": 64,
+    "truth_key_rank": 1,
+    "best_errors": 0,
+    "planted_errors": 0,
+    "truth_in_top16": true,
+    "best_score": -2.0614024146659866,
+    "elapsed": 1.4177117920007731
+  },
+  {
+    "label": "null-jpg107-167",
+    "n": 319,
+    "evaluated": 64,
+    "best_score": -4.43692255262827,
+    "elapsed": 1.7366435420008202
+  },
+  {
+    "label": "control-p56_an_end",
+    "n": 85,
+    "evaluated": 64,
+    "truth_key_rank": 1,
+    "best_errors": 0,
+    "planted_errors": 0,
+    "truth_in_top16": true,
+    "best_score": -2.475484466936424,
+    "elapsed": 1.741466292000041
+  },
+  {
+    "label": "null-p56_an_end",
+    "n": 85,
+    "evaluated": 64,
+    "best_score": -4.335736298793694,
+    "elapsed": 1.7469448750016454
+  },
+  {
+    "label": "control-p57_parable",
+    "n": 95,
+    "evaluated": 64,
+    "truth_key_rank": 1,
+    "best_errors": 0,
+    "planted_errors": 0,
+    "truth_in_top16": true,
+    "best_score": -2.287929477802066,
+    "elapsed": 1.7585001250008645
+  },
+  {
+    "label": "null-p57_parable",
+    "n": 95,
+    "evaluated": 64,
+    "best_score": -4.142585665710042,
+    "elapsed": 1.779205250000814
+  },
+  {
+    "label": "real-0",
+    "n": 262,
+    "evaluated": 64,
+    "best_score": -4.585944631634107,
+    "elapsed": 2.0474252920012077
+  },
+  {
+    "label": "real-null-0",
+    "n": 262,
+    "evaluated": 64,
+    "best_score": -4.5201881594863105,
+    "elapsed": 2.243746583000757
+  },
+  {
+    "label": "real-17",
+    "n": 273,
+    "evaluated": 64,
+    "best_score": -4.524356020426597,
+    "elapsed": 2.4563370420000865
+  },
+  {
+    "label": "real-null-17",
+    "n": 273,
+    "evaluated": 64,
+    "best_score": -4.555528249465253,
+    "elapsed": 2.757129583000278
+  },
+  {
+    "label": "real-55",
+    "n": 76,
+    "evaluated": 64,
+    "best_score": -4.384077889128609,
+    "elapsed": 2.7712805830014986
+  },
+  {
+    "label": "real-null-55",
+    "n": 76,
+    "evaluated": 64,
+    "best_score": -4.2453685533365855,
+    "elapsed": 2.78104308300135
+  }
+]

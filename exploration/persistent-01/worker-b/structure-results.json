@@ -1,0 +1,6784 @@
+{
+  "real": [
+    {
+      "route": "column-r1c0-mod29",
+      "lag": 1,
+      "z": 2.737172526076013,
+      "pairs": 158,
+      "hits": 4,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.005
+        },
+        {
+          "page": 3,
+          "pairs": 10,
+          "hits": 1,
+          "baseline": 0.013888888888888888
+        },
+        {
+          "page": 6,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.005128205128205128
+        },
+        {
+          "page": 7,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 8,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.011811023622047244
+        },
+        {
+          "page": 15,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 22,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.007692307692307693
+        },
+        {
+          "page": 23,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0047169811320754715
+        },
+        {
+          "page": 27,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.02145922746781116
+        },
+        {
+          "page": 32,
+          "pairs": 6,
+          "hits": 1,
+          "baseline": 0.016666666666666666
+        },
+        {
+          "page": 33,
+          "pairs": 10,
+          "hits": 1,
+          "baseline": 0.009389671361502348
+        },
+        {
+          "page": 36,
+          "pairs": 11,
+          "hits": 1,
+          "baseline": 0.012658227848101266
+        },
+        {
+          "page": 37,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 38,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 40,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 49,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.01098901098901099
+        },
+        {
+          "page": 53,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 55,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.013333333333333334
+        }
+      ]
+    },
+    {
+      "route": "row-r1c0-mod29",
+      "lag": 8,
+      "z": 2.044666079496741,
+      "pairs": 144,
+      "hits": 9,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 9,
+          "hits": 1,
+          "baseline": 0.03626943005181347
+        },
+        {
+          "page": 3,
+          "pairs": 10,
+          "hits": 3,
+          "baseline": 0.0430622009569378
+        },
+        {
+          "page": 6,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.03723404255319149
+        },
+        {
+          "page": 7,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.04
+        },
+        {
+          "page": 8,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.016194331983805668
+        },
+        {
+          "page": 15,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.033112582781456956
+        },
+        {
+          "page": 22,
+          "pairs": 4,
+          "hits": 1,
+          "baseline": 0.032520325203252036
+        },
+        {
+          "page": 23,
+          "pairs": 10,
+          "hits": 1,
+          "baseline": 0.03902439024390244
+        },
+        {
+          "page": 27,
+          "pairs": 10,
+          "hits": 1,
+          "baseline": 0.04424778761061947
+        },
+        {
+          "page": 32,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.035398230088495575
+        },
+        {
+          "page": 33,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.014563106796116505
+        },
+        {
+          "page": 36,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.030434782608695653
+        },
+        {
+          "page": 37,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.022727272727272728
+        },
+        {
+          "page": 38,
+          "pairs": 10,
+          "hits": 1,
+          "baseline": 0.05
+        },
+        {
+          "page": 40,
+          "pairs": 10,
+          "hits": 1,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 49,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.047619047619047616
+        },
+        {
+          "page": 53,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.029239766081871343
+        },
+        {
+          "page": 55,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        }
+      ]
+    },
+    {
+      "route": "column-r1c1-reject232",
+      "lag": 1,
+      "z": 1.966732397548747,
+      "pairs": 114,
+      "hits": 2,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.005
+        },
+        {
+          "page": 3,
+          "pairs": 9,
+          "hits": 1,
+          "baseline": 0.013888888888888888
+        },
+        {
+          "page": 6,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.005128205128205128
+        },
+        {
+          "page": 7,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 15,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 22,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.007692307692307693
+        },
+        {
+          "page": 23,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0047169811320754715
+        },
+        {
+          "page": 32,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.016666666666666666
+        },
+        {
+          "page": 33,
+          "pairs": 9,
+          "hits": 1,
+          "baseline": 0.009389671361502348
+        },
+        {
+          "page": 37,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 38,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 40,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 49,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.01098901098901099
+        },
+        {
+          "page": 53,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 55,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.013333333333333334
+        }
+      ]
+    },
+    {
+      "route": "column-r0c1-mod29",
+      "lag": 1,
+      "z": 1.4474233705731172,
+      "pairs": 191,
+      "hits": 3,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.005
+        },
+        {
+          "page": 3,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.013888888888888888
+        },
+        {
+          "page": 6,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.005128205128205128
+        },
+        {
+          "page": 7,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 8,
+          "pairs": 13,
+          "hits": 1,
+          "baseline": 0.011811023622047244
+        },
+        {
+          "page": 15,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 22,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.007692307692307693
+        },
+        {
+          "page": 23,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.0047169811320754715
+        },
+        {
+          "page": 27,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.02145922746781116
+        },
+        {
+          "page": 32,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.016666666666666666
+        },
+        {
+          "page": 33,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.009389671361502348
+        },
+        {
+          "page": 36,
+          "pairs": 13,
+          "hits": 1,
+          "baseline": 0.012658227848101266
+        },
+        {
+          "page": 37,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 38,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 40,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 49,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 6,
+          "hits": 1,
+          "baseline": 0.01098901098901099
+        },
+        {
+          "page": 53,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 55,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.013333333333333334
+        }
+      ]
+    },
+    {
+      "route": "row-r1c1-reject232",
+      "lag": 1,
+      "z": 1.3364270118011783,
+      "pairs": 165,
+      "hits": 2,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.005
+        },
+        {
+          "page": 3,
+          "pairs": 11,
+          "hits": 1,
+          "baseline": 0.013888888888888888
+        },
+        {
+          "page": 6,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.005128205128205128
+        },
+        {
+          "page": 7,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 15,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 22,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.007692307692307693
+        },
+        {
+          "page": 23,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.0047169811320754715
+        },
+        {
+          "page": 32,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.016666666666666666
+        },
+        {
+          "page": 33,
+          "pairs": 11,
+          "hits": 1,
+          "baseline": 0.009389671361502348
+        },
+        {
+          "page": 37,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 38,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 40,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 49,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.01098901098901099
+        },
+        {
+          "page": 53,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 55,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.013333333333333334
+        }
+      ]
+    },
+    {
+      "route": "row-r1c1-mod29",
+      "lag": 8,
+      "z": 1.0916512886895577,
+      "pairs": 145,
+      "hits": 7,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.03626943005181347
+        },
+        {
+          "page": 3,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0430622009569378
+        },
+        {
+          "page": 6,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.03723404255319149
+        },
+        {
+          "page": 7,
+          "pairs": 10,
+          "hits": 1,
+          "baseline": 0.04
+        },
+        {
+          "page": 8,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.016194331983805668
+        },
+        {
+          "page": 15,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.033112582781456956
+        },
+        {
+          "page": 22,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.032520325203252036
+        },
+        {
+          "page": 23,
+          "pairs": 10,
+          "hits": 1,
+          "baseline": 0.03902439024390244
+        },
+        {
+          "page": 27,
+          "pairs": 10,
+          "hits": 1,
+          "baseline": 0.04424778761061947
+        },
+        {
+          "page": 32,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.035398230088495575
+        },
+        {
+          "page": 33,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.014563106796116505
+        },
+        {
+          "page": 36,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.030434782608695653
+        },
+        {
+          "page": 37,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.022727272727272728
+        },
+        {
+          "page": 38,
+          "pairs": 10,
+          "hits": 3,
+          "baseline": 0.05
+        },
+        {
+          "page": 40,
+          "pairs": 10,
+          "hits": 1,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 49,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.047619047619047616
+        },
+        {
+          "page": 53,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.029239766081871343
+        },
+        {
+          "page": 55,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        }
+      ]
+    },
+    {
+      "route": "column-r1c0-reject232",
+      "lag": 32,
+      "z": 1.0682550342353452,
+      "pairs": 102,
+      "hits": 6,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.0650887573964497
+        },
+        {
+          "page": 3,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.02702702702702703
+        },
+        {
+          "page": 6,
+          "pairs": 8,
+          "hits": 1,
+          "baseline": 0.024390243902439025
+        },
+        {
+          "page": 7,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.03409090909090909
+        },
+        {
+          "page": 15,
+          "pairs": 6,
+          "hits": 1,
+          "baseline": 0.047244094488188976
+        },
+        {
+          "page": 22,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 23,
+          "pairs": 8,
+          "hits": 1,
+          "baseline": 0.027624309392265192
+        },
+        {
+          "page": 32,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.02247191011235955
+        },
+        {
+          "page": 33,
+          "pairs": 8,
+          "hits": 1,
+          "baseline": 0.04945054945054945
+        },
+        {
+          "page": 37,
+          "pairs": 8,
+          "hits": 1,
+          "baseline": 0.025510204081632654
+        },
+        {
+          "page": 38,
+          "pairs": 8,
+          "hits": 1,
+          "baseline": 0.05612244897959184
+        },
+        {
+          "page": 40,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.05025125628140704
+        },
+        {
+          "page": 49,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        },
+        {
+          "page": 51,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.06666666666666667
+        },
+        {
+          "page": 53,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.04081632653061224
+        },
+        {
+          "page": 55,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.045454545454545456
+        }
+      ]
+    },
+    {
+      "route": "row-r0c0-reject232",
+      "lag": 8,
+      "z": 0.8417552571041835,
+      "pairs": 103,
+      "hits": 5,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.03626943005181347
+        },
+        {
+          "page": 3,
+          "pairs": 9,
+          "hits": 2,
+          "baseline": 0.0430622009569378
+        },
+        {
+          "page": 6,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.03723404255319149
+        },
+        {
+          "page": 7,
+          "pairs": 9,
+          "hits": 1,
+          "baseline": 0.04
+        },
+        {
+          "page": 15,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.033112582781456956
+        },
+        {
+          "page": 22,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.032520325203252036
+        },
+        {
+          "page": 23,
+          "pairs": 9,
+          "hits": 1,
+          "baseline": 0.03902439024390244
+        },
+        {
+          "page": 32,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.035398230088495575
+        },
+        {
+          "page": 33,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.014563106796116505
+        },
+        {
+          "page": 37,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.022727272727272728
+        },
+        {
+          "page": 38,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.05
+        },
+        {
+          "page": 40,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 49,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.047619047619047616
+        },
+        {
+          "page": 53,
+          "pairs": 7,
+          "hits": 1,
+          "baseline": 0.029239766081871343
+        },
+        {
+          "page": 55,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        }
+      ]
+    },
+    {
+      "route": "column-r1c0-reject232",
+      "lag": 8,
+      "z": 0.8282448656636806,
+      "pairs": 106,
+      "hits": 5,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.03626943005181347
+        },
+        {
+          "page": 3,
+          "pairs": 9,
+          "hits": 1,
+          "baseline": 0.0430622009569378
+        },
+        {
+          "page": 6,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.03723404255319149
+        },
+        {
+          "page": 7,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.04
+        },
+        {
+          "page": 15,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.033112582781456956
+        },
+        {
+          "page": 22,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.032520325203252036
+        },
+        {
+          "page": 23,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.03902439024390244
+        },
+        {
+          "page": 32,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.035398230088495575
+        },
+        {
+          "page": 33,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.014563106796116505
+        },
+        {
+          "page": 37,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.022727272727272728
+        },
+        {
+          "page": 38,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.05
+        },
+        {
+          "page": 40,
+          "pairs": 9,
+          "hits": 2,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 49,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.047619047619047616
+        },
+        {
+          "page": 53,
+          "pairs": 8,
+          "hits": 1,
+          "baseline": 0.029239766081871343
+        },
+        {
+          "page": 55,
+          "pairs": 3,
+          "hits": 1,
+          "baseline": 0.029411764705882353
+        }
+      ]
+    },
+    {
+      "route": "row-r1c1-reject232",
+      "lag": 32,
+      "z": 0.764275700025038,
+      "pairs": 71,
+      "hits": 4,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.0650887573964497
+        },
+        {
+          "page": 3,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.02702702702702703
+        },
+        {
+          "page": 6,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.024390243902439025
+        },
+        {
+          "page": 7,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.03409090909090909
+        },
+        {
+          "page": 15,
+          "pairs": 5,
+          "hits": 1,
+          "baseline": 0.047244094488188976
+        },
+        {
+          "page": 22,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 23,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.027624309392265192
+        },
+        {
+          "page": 32,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.02247191011235955
+        },
+        {
+          "page": 33,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.04945054945054945
+        },
+        {
+          "page": 37,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.025510204081632654
+        },
+        {
+          "page": 38,
+          "pairs": 6,
+          "hits": 1,
+          "baseline": 0.05612244897959184
+        },
+        {
+          "page": 40,
+          "pairs": 7,
+          "hits": 2,
+          "baseline": 0.05025125628140704
+        },
+        {
+          "page": 49,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        },
+        {
+          "page": 51,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.06666666666666667
+        },
+        {
+          "page": 53,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.04081632653061224
+        },
+        {
+          "page": 55,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.045454545454545456
+        }
+      ]
+    },
+    {
+      "route": "column-r0c0-reject232",
+      "lag": 32,
+      "z": 0.759269187464454,
+      "pairs": 94,
+      "hits": 5,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.0650887573964497
+        },
+        {
+          "page": 3,
+          "pairs": 7,
+          "hits": 1,
+          "baseline": 0.02702702702702703
+        },
+        {
+          "page": 6,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.024390243902439025
+        },
+        {
+          "page": 7,
+          "pairs": 7,
+          "hits": 1,
+          "baseline": 0.03409090909090909
+        },
+        {
+          "page": 15,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.047244094488188976
+        },
+        {
+          "page": 22,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 23,
+          "pairs": 7,
+          "hits": 1,
+          "baseline": 0.027624309392265192
+        },
+        {
+          "page": 32,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.02247191011235955
+        },
+        {
+          "page": 33,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.04945054945054945
+        },
+        {
+          "page": 37,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.025510204081632654
+        },
+        {
+          "page": 38,
+          "pairs": 7,
+          "hits": 1,
+          "baseline": 0.05612244897959184
+        },
+        {
+          "page": 40,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.05025125628140704
+        },
+        {
+          "page": 49,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        },
+        {
+          "page": 51,
+          "pairs": 3,
+          "hits": 1,
+          "baseline": 0.06666666666666667
+        },
+        {
+          "page": 53,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.04081632653061224
+        },
+        {
+          "page": 55,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.045454545454545456
+        }
+      ]
+    },
+    {
+      "route": "column-r0c1-reject232",
+      "lag": 1,
+      "z": 0.4944365973558834,
+      "pairs": 124,
+      "hits": 1,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.005
+        },
+        {
+          "page": 3,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.013888888888888888
+        },
+        {
+          "page": 6,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.005128205128205128
+        },
+        {
+          "page": 7,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 15,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 22,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.007692307692307693
+        },
+        {
+          "page": 23,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0047169811320754715
+        },
+        {
+          "page": 32,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.016666666666666666
+        },
+        {
+          "page": 33,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.009389671361502348
+        },
+        {
+          "page": 37,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 38,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 40,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 49,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 5,
+          "hits": 1,
+          "baseline": 0.01098901098901099
+        },
+        {
+          "page": 53,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 55,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.013333333333333334
+        }
+      ]
+    },
+    {
+      "route": "column-r0c0-mod29",
+      "lag": 8,
+      "z": 0.49183957628874275,
+      "pairs": 96,
+      "hits": 4,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.03626943005181347
+        },
+        {
+          "page": 3,
+          "pairs": 6,
+          "hits": 1,
+          "baseline": 0.0430622009569378
+        },
+        {
+          "page": 6,
+          "pairs": 6,
+          "hits": 1,
+          "baseline": 0.03723404255319149
+        },
+        {
+          "page": 7,
+          "pairs": 6,
+          "hits": 1,
+          "baseline": 0.04
+        },
+        {
+          "page": 8,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.016194331983805668
+        },
+        {
+          "page": 15,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.033112582781456956
+        },
+        {
+          "page": 22,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.032520325203252036
+        },
+        {
+          "page": 23,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.03902439024390244
+        },
+        {
+          "page": 27,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.04424778761061947
+        },
+        {
+          "page": 32,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.035398230088495575
+        },
+        {
+          "page": 33,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.014563106796116505
+        },
+        {
+          "page": 36,
+          "pairs": 6,
+          "hits": 1,
+          "baseline": 0.030434782608695653
+        },
+        {
+          "page": 37,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.022727272727272728
+        },
+        {
+          "page": 38,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.05
+        },
+        {
+          "page": 40,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 49,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.047619047619047616
+        },
+        {
+          "page": 53,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.029239766081871343
+        },
+        {
+          "page": 55,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        }
+      ]
+    },
+    {
+      "route": "row-r0c1-reject232",
+      "lag": 1,
+      "z": 0.475282621083933,
+      "pairs": 137,
+      "hits": 1,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.005
+        },
+        {
+          "page": 3,
+          "pairs": 11,
+          "hits": 1,
+          "baseline": 0.013888888888888888
+        },
+        {
+          "page": 6,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.005128205128205128
+        },
+        {
+          "page": 7,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 15,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 22,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.007692307692307693
+        },
+        {
+          "page": 23,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.0047169811320754715
+        },
+        {
+          "page": 32,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.016666666666666666
+        },
+        {
+          "page": 33,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.009389671361502348
+        },
+        {
+          "page": 37,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 38,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 40,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 49,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.01098901098901099
+        },
+        {
+          "page": 53,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 55,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.013333333333333334
+        }
+      ]
+    },
+    {
+      "route": "row-r1c0-reject232",
+      "lag": 1,
+      "z": 0.4038258316250572,
+      "pairs": 140,
+      "hits": 1,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.005
+        },
+        {
+          "page": 3,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.013888888888888888
+        },
+        {
+          "page": 6,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.005128205128205128
+        },
+        {
+          "page": 7,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 15,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 22,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.007692307692307693
+        },
+        {
+          "page": 23,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0047169811320754715
+        },
+        {
+          "page": 32,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.016666666666666666
+        },
+        {
+          "page": 33,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.009389671361502348
+        },
+        {
+          "page": 37,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 38,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 40,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 49,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.01098901098901099
+        },
+        {
+          "page": 53,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 55,
+          "pairs": 4,
+          "hits": 1,
+          "baseline": 0.013333333333333334
+        }
+      ]
+    },
+    {
+      "route": "column-r0c1-reject232",
+      "lag": 8,
+      "z": 0.40307848903928306,
+      "pairs": 99,
+      "hits": 4,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 6,
+          "hits": 1,
+          "baseline": 0.03626943005181347
+        },
+        {
+          "page": 3,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.0430622009569378
+        },
+        {
+          "page": 6,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.03723404255319149
+        },
+        {
+          "page": 7,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.04
+        },
+        {
+          "page": 15,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.033112582781456956
+        },
+        {
+          "page": 22,
+          "pairs": 6,
+          "hits": 2,
+          "baseline": 0.032520325203252036
+        },
+        {
+          "page": 23,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.03902439024390244
+        },
+        {
+          "page": 32,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.035398230088495575
+        },
+        {
+          "page": 33,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.014563106796116505
+        },
+        {
+          "page": 37,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.022727272727272728
+        },
+        {
+          "page": 38,
+          "pairs": 8,
+          "hits": 1,
+          "baseline": 0.05
+        },
+        {
+          "page": 40,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 49,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.047619047619047616
+        },
+        {
+          "page": 53,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.029239766081871343
+        },
+        {
+          "page": 55,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        }
+      ]
+    },
+    {
+      "route": "column-r0c0-mod29",
+      "lag": 32,
+      "z": 0.35672754105268334,
+      "pairs": 87,
+      "hits": 4,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.0650887573964497
+        },
+        {
+          "page": 3,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.02702702702702703
+        },
+        {
+          "page": 6,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.024390243902439025
+        },
+        {
+          "page": 7,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.03409090909090909
+        },
+        {
+          "page": 8,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 15,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.047244094488188976
+        },
+        {
+          "page": 22,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 23,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.027624309392265192
+        },
+        {
+          "page": 27,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.039603960396039604
+        },
+        {
+          "page": 32,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.02247191011235955
+        },
+        {
+          "page": 33,
+          "pairs": 6,
+          "hits": 1,
+          "baseline": 0.04945054945054945
+        },
+        {
+          "page": 36,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.04854368932038835
+        },
+        {
+          "page": 37,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.025510204081632654
+        },
+        {
+          "page": 38,
+          "pairs": 7,
+          "hits": 1,
+          "baseline": 0.05612244897959184
+        },
+        {
+          "page": 40,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.05025125628140704
+        },
+        {
+          "page": 49,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        },
+        {
+          "page": 51,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.06666666666666667
+        },
+        {
+          "page": 53,
+          "pairs": 4,
+          "hits": 2,
+          "baseline": 0.04081632653061224
+        },
+        {
+          "page": 55,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.045454545454545456
+        }
+      ]
+    },
+    {
+      "route": "row-r1c0-reject232",
+      "lag": 32,
+      "z": 0.043584773638503604,
+      "pairs": 101,
+      "hits": 4,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.0650887573964497
+        },
+        {
+          "page": 3,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.02702702702702703
+        },
+        {
+          "page": 6,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.024390243902439025
+        },
+        {
+          "page": 7,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.03409090909090909
+        },
+        {
+          "page": 15,
+          "pairs": 6,
+          "hits": 2,
+          "baseline": 0.047244094488188976
+        },
+        {
+          "page": 22,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 23,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.027624309392265192
+        },
+        {
+          "page": 32,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.02247191011235955
+        },
+        {
+          "page": 33,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.04945054945054945
+        },
+        {
+          "page": 37,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.025510204081632654
+        },
+        {
+          "page": 38,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.05612244897959184
+        },
+        {
+          "page": 40,
+          "pairs": 9,
+          "hits": 1,
+          "baseline": 0.05025125628140704
+        },
+        {
+          "page": 49,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        },
+        {
+          "page": 51,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.06666666666666667
+        },
+        {
+          "page": 53,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.04081632653061224
+        },
+        {
+          "page": 55,
+          "pairs": 3,
+          "hits": 1,
+          "baseline": 0.045454545454545456
+        }
+      ]
+    },
+    {
+      "route": "row-r0c0-mod29",
+      "lag": 1,
+      "z": -0.032351433567453305,
+      "pairs": 145,
+      "hits": 1,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.005
+        },
+        {
+          "page": 3,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.013888888888888888
+        },
+        {
+          "page": 6,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.005128205128205128
+        },
+        {
+          "page": 7,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 8,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.011811023622047244
+        },
+        {
+          "page": 15,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 22,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.007692307692307693
+        },
+        {
+          "page": 23,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0047169811320754715
+        },
+        {
+          "page": 27,
+          "pairs": 11,
+          "hits": 1,
+          "baseline": 0.02145922746781116
+        },
+        {
+          "page": 32,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.016666666666666666
+        },
+        {
+          "page": 33,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.009389671361502348
+        },
+        {
+          "page": 36,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.012658227848101266
+        },
+        {
+          "page": 37,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 38,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 40,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 49,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.01098901098901099
+        },
+        {
+          "page": 53,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 55,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.013333333333333334
+        }
+      ]
+    },
+    {
+      "route": "row-r1c0-reject232",
+      "lag": 8,
+      "z": -0.1205745442120686,
+      "pairs": 96,
+      "hits": 3,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 8,
+          "hits": 1,
+          "baseline": 0.03626943005181347
+        },
+        {
+          "page": 3,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.0430622009569378
+        },
+        {
+          "page": 6,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.03723404255319149
+        },
+        {
+          "page": 7,
+          "pairs": 8,
+          "hits": 1,
+          "baseline": 0.04
+        },
+        {
+          "page": 15,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.033112582781456956
+        },
+        {
+          "page": 22,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.032520325203252036
+        },
+        {
+          "page": 23,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.03902439024390244
+        },
+        {
+          "page": 32,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.035398230088495575
+        },
+        {
+          "page": 33,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.014563106796116505
+        },
+        {
+          "page": 37,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.022727272727272728
+        },
+        {
+          "page": 38,
+          "pairs": 10,
+          "hits": 1,
+          "baseline": 0.05
+        },
+        {
+          "page": 40,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 49,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.047619047619047616
+        },
+        {
+          "page": 53,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.029239766081871343
+        },
+        {
+          "page": 55,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        }
+      ]
+    },
+    {
+      "route": "column-r0c0-mod29",
+      "lag": 1,
+      "z": -0.16927386404269332,
+      "pairs": 168,
+      "hits": 1,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.005
+        },
+        {
+          "page": 3,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.013888888888888888
+        },
+        {
+          "page": 6,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.005128205128205128
+        },
+        {
+          "page": 7,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 8,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.011811023622047244
+        },
+        {
+          "page": 15,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 22,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.007692307692307693
+        },
+        {
+          "page": 23,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0047169811320754715
+        },
+        {
+          "page": 27,
+          "pairs": 12,
+          "hits": 1,
+          "baseline": 0.02145922746781116
+        },
+        {
+          "page": 32,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.016666666666666666
+        },
+        {
+          "page": 33,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.009389671361502348
+        },
+        {
+          "page": 36,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.012658227848101266
+        },
+        {
+          "page": 37,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 38,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 40,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 49,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.01098901098901099
+        },
+        {
+          "page": 53,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 55,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.013333333333333334
+        }
+      ]
+    },
+    {
+      "route": "row-r0c0-reject232",
+      "lag": 32,
+      "z": -0.22574005872048095,
+      "pairs": 88,
+      "hits": 3,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.0650887573964497
+        },
+        {
+          "page": 3,
+          "pairs": 7,
+          "hits": 1,
+          "baseline": 0.02702702702702703
+        },
+        {
+          "page": 6,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.024390243902439025
+        },
+        {
+          "page": 7,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.03409090909090909
+        },
+        {
+          "page": 15,
+          "pairs": 6,
+          "hits": 1,
+          "baseline": 0.047244094488188976
+        },
+        {
+          "page": 22,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 23,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.027624309392265192
+        },
+        {
+          "page": 32,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.02247191011235955
+        },
+        {
+          "page": 33,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.04945054945054945
+        },
+        {
+          "page": 37,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.025510204081632654
+        },
+        {
+          "page": 38,
+          "pairs": 7,
+          "hits": 1,
+          "baseline": 0.05612244897959184
+        },
+        {
+          "page": 40,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.05025125628140704
+        },
+        {
+          "page": 49,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        },
+        {
+          "page": 51,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.06666666666666667
+        },
+        {
+          "page": 53,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.04081632653061224
+        },
+        {
+          "page": 55,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.045454545454545456
+        }
+      ]
+    },
+    {
+      "route": "row-r0c1-mod29",
+      "lag": 32,
+      "z": -0.2286177784795468,
+      "pairs": 145,
+      "hits": 5,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0650887573964497
+        },
+        {
+          "page": 3,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.02702702702702703
+        },
+        {
+          "page": 6,
+          "pairs": 9,
+          "hits": 1,
+          "baseline": 0.024390243902439025
+        },
+        {
+          "page": 7,
+          "pairs": 9,
+          "hits": 1,
+          "baseline": 0.03409090909090909
+        },
+        {
+          "page": 8,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 15,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.047244094488188976
+        },
+        {
+          "page": 22,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 23,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.027624309392265192
+        },
+        {
+          "page": 27,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.039603960396039604
+        },
+        {
+          "page": 32,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.02247191011235955
+        },
+        {
+          "page": 33,
+          "pairs": 9,
+          "hits": 1,
+          "baseline": 0.04945054945054945
+        },
+        {
+          "page": 36,
+          "pairs": 9,
+          "hits": 1,
+          "baseline": 0.04854368932038835
+        },
+        {
+          "page": 37,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.025510204081632654
+        },
+        {
+          "page": 38,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.05612244897959184
+        },
+        {
+          "page": 40,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.05025125628140704
+        },
+        {
+          "page": 49,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        },
+        {
+          "page": 51,
+          "pairs": 4,
+          "hits": 1,
+          "baseline": 0.06666666666666667
+        },
+        {
+          "page": 53,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.04081632653061224
+        },
+        {
+          "page": 55,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.045454545454545456
+        }
+      ]
+    },
+    {
+      "route": "column-r1c1-mod29",
+      "lag": 1,
+      "z": -0.24382254604429646,
+      "pairs": 184,
+      "hits": 1,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.005
+        },
+        {
+          "page": 3,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.013888888888888888
+        },
+        {
+          "page": 6,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.005128205128205128
+        },
+        {
+          "page": 7,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 8,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.011811023622047244
+        },
+        {
+          "page": 15,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 22,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.007692307692307693
+        },
+        {
+          "page": 23,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.0047169811320754715
+        },
+        {
+          "page": 27,
+          "pairs": 12,
+          "hits": 1,
+          "baseline": 0.02145922746781116
+        },
+        {
+          "page": 32,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.016666666666666666
+        },
+        {
+          "page": 33,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.009389671361502348
+        },
+        {
+          "page": 36,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.012658227848101266
+        },
+        {
+          "page": 37,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 38,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 40,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 49,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.01098901098901099
+        },
+        {
+          "page": 53,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 55,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.013333333333333334
+        }
+      ]
+    },
+    {
+      "route": "column-r1c1-reject232",
+      "lag": 8,
+      "z": -0.2887806489517241,
+      "pairs": 73,
+      "hits": 2,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.03626943005181347
+        },
+        {
+          "page": 3,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.0430622009569378
+        },
+        {
+          "page": 6,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.03723404255319149
+        },
+        {
+          "page": 7,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.04
+        },
+        {
+          "page": 15,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.033112582781456956
+        },
+        {
+          "page": 22,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.032520325203252036
+        },
+        {
+          "page": 23,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.03902439024390244
+        },
+        {
+          "page": 32,
+          "pairs": 3,
+          "hits": 1,
+          "baseline": 0.035398230088495575
+        },
+        {
+          "page": 33,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.014563106796116505
+        },
+        {
+          "page": 37,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.022727272727272728
+        },
+        {
+          "page": 38,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.05
+        },
+        {
+          "page": 40,
+          "pairs": 7,
+          "hits": 1,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 49,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.047619047619047616
+        },
+        {
+          "page": 53,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.029239766081871343
+        },
+        {
+          "page": 55,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        }
+      ]
+    },
+    {
+      "route": "row-r0c0-mod29",
+      "lag": 8,
+      "z": -0.3065862710936083,
+      "pairs": 209,
+      "hits": 6,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 12,
+          "hits": 1,
+          "baseline": 0.03626943005181347
+        },
+        {
+          "page": 3,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.0430622009569378
+        },
+        {
+          "page": 6,
+          "pairs": 12,
+          "hits": 1,
+          "baseline": 0.03723404255319149
+        },
+        {
+          "page": 7,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.04
+        },
+        {
+          "page": 8,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.016194331983805668
+        },
+        {
+          "page": 15,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.033112582781456956
+        },
+        {
+          "page": 22,
+          "pairs": 11,
+          "hits": 2,
+          "baseline": 0.032520325203252036
+        },
+        {
+          "page": 23,
+          "pairs": 13,
+          "hits": 1,
+          "baseline": 0.03902439024390244
+        },
+        {
+          "page": 27,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.04424778761061947
+        },
+        {
+          "page": 32,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.035398230088495575
+        },
+        {
+          "page": 33,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.014563106796116505
+        },
+        {
+          "page": 36,
+          "pairs": 13,
+          "hits": 1,
+          "baseline": 0.030434782608695653
+        },
+        {
+          "page": 37,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.022727272727272728
+        },
+        {
+          "page": 38,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.05
+        },
+        {
+          "page": 40,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 49,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.047619047619047616
+        },
+        {
+          "page": 53,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.029239766081871343
+        },
+        {
+          "page": 55,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        }
+      ]
+    },
+    {
+      "route": "row-r1c1-mod29",
+      "lag": 1,
+      "z": -0.342107670392052,
+      "pairs": 203,
+      "hits": 1,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.005
+        },
+        {
+          "page": 3,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.013888888888888888
+        },
+        {
+          "page": 6,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.005128205128205128
+        },
+        {
+          "page": 7,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 8,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.011811023622047244
+        },
+        {
+          "page": 15,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 22,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.007692307692307693
+        },
+        {
+          "page": 23,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.0047169811320754715
+        },
+        {
+          "page": 27,
+          "pairs": 12,
+          "hits": 1,
+          "baseline": 0.02145922746781116
+        },
+        {
+          "page": 32,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.016666666666666666
+        },
+        {
+          "page": 33,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.009389671361502348
+        },
+        {
+          "page": 36,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.012658227848101266
+        },
+        {
+          "page": 37,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 38,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 40,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 49,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.01098901098901099
+        },
+        {
+          "page": 53,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 55,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.013333333333333334
+        }
+      ]
+    },
+    {
+      "route": "column-r1c1-reject232",
+      "lag": 32,
+      "z": -0.3842686620808328,
+      "pairs": 68,
+      "hits": 2,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 5,
+          "hits": 1,
+          "baseline": 0.0650887573964497
+        },
+        {
+          "page": 3,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.02702702702702703
+        },
+        {
+          "page": 6,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.024390243902439025
+        },
+        {
+          "page": 7,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.03409090909090909
+        },
+        {
+          "page": 15,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.047244094488188976
+        },
+        {
+          "page": 22,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 23,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.027624309392265192
+        },
+        {
+          "page": 32,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.02247191011235955
+        },
+        {
+          "page": 33,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.04945054945054945
+        },
+        {
+          "page": 37,
+          "pairs": 7,
+          "hits": 1,
+          "baseline": 0.025510204081632654
+        },
+        {
+          "page": 38,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.05612244897959184
+        },
+        {
+          "page": 40,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.05025125628140704
+        },
+        {
+          "page": 49,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        },
+        {
+          "page": 51,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.06666666666666667
+        },
+        {
+          "page": 53,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.04081632653061224
+        },
+        {
+          "page": 55,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.045454545454545456
+        }
+      ]
+    },
+    {
+      "route": "row-r0c1-mod29",
+      "lag": 8,
+      "z": -0.6620544053954545,
+      "pairs": 206,
+      "hits": 5,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.03626943005181347
+        },
+        {
+          "page": 3,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.0430622009569378
+        },
+        {
+          "page": 6,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.03723404255319149
+        },
+        {
+          "page": 7,
+          "pairs": 12,
+          "hits": 1,
+          "baseline": 0.04
+        },
+        {
+          "page": 8,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.016194331983805668
+        },
+        {
+          "page": 15,
+          "pairs": 11,
+          "hits": 1,
+          "baseline": 0.033112582781456956
+        },
+        {
+          "page": 22,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.032520325203252036
+        },
+        {
+          "page": 23,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.03902439024390244
+        },
+        {
+          "page": 27,
+          "pairs": 13,
+          "hits": 1,
+          "baseline": 0.04424778761061947
+        },
+        {
+          "page": 32,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.035398230088495575
+        },
+        {
+          "page": 33,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.014563106796116505
+        },
+        {
+          "page": 36,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.030434782608695653
+        },
+        {
+          "page": 37,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.022727272727272728
+        },
+        {
+          "page": 38,
+          "pairs": 13,
+          "hits": 1,
+          "baseline": 0.05
+        },
+        {
+          "page": 40,
+          "pairs": 13,
+          "hits": 1,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 49,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.047619047619047616
+        },
+        {
+          "page": 53,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.029239766081871343
+        },
+        {
+          "page": 55,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        }
+      ]
+    },
+    {
+      "route": "column-r0c1-mod29",
+      "lag": 8,
+      "z": -0.6958844541658075,
+      "pairs": 59,
+      "hits": 1,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.03626943005181347
+        },
+        {
+          "page": 3,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.0430622009569378
+        },
+        {
+          "page": 6,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.03723404255319149
+        },
+        {
+          "page": 7,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.04
+        },
+        {
+          "page": 8,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.016194331983805668
+        },
+        {
+          "page": 15,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.033112582781456956
+        },
+        {
+          "page": 22,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.032520325203252036
+        },
+        {
+          "page": 23,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.03902439024390244
+        },
+        {
+          "page": 27,
+          "pairs": 4,
+          "hits": 1,
+          "baseline": 0.04424778761061947
+        },
+        {
+          "page": 32,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.035398230088495575
+        },
+        {
+          "page": 33,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.014563106796116505
+        },
+        {
+          "page": 36,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.030434782608695653
+        },
+        {
+          "page": 37,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.022727272727272728
+        },
+        {
+          "page": 38,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.05
+        },
+        {
+          "page": 40,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 49,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.047619047619047616
+        },
+        {
+          "page": 53,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.029239766081871343
+        },
+        {
+          "page": 55,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        }
+      ]
+    },
+    {
+      "route": "column-r1c0-reject232",
+      "lag": 1,
+      "z": -0.7446325330898631,
+      "pairs": 112,
+      "hits": 0,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.005
+        },
+        {
+          "page": 3,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.013888888888888888
+        },
+        {
+          "page": 6,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.005128205128205128
+        },
+        {
+          "page": 7,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 15,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 22,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.007692307692307693
+        },
+        {
+          "page": 23,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.0047169811320754715
+        },
+        {
+          "page": 32,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.016666666666666666
+        },
+        {
+          "page": 33,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.009389671361502348
+        },
+        {
+          "page": 37,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 38,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 40,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 49,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.01098901098901099
+        },
+        {
+          "page": 53,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 55,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.013333333333333334
+        }
+      ]
+    },
+    {
+      "route": "row-r0c0-reject232",
+      "lag": 1,
+      "z": -0.7707894370130157,
+      "pairs": 135,
+      "hits": 0,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.005
+        },
+        {
+          "page": 3,
+          "pairs": 12,
+          "hits": 0,
+          "baseline": 0.013888888888888888
+        },
+        {
+          "page": 6,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.005128205128205128
+        },
+        {
+          "page": 7,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 15,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 22,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.007692307692307693
+        },
+        {
+          "page": 23,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.0047169811320754715
+        },
+        {
+          "page": 32,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.016666666666666666
+        },
+        {
+          "page": 33,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.009389671361502348
+        },
+        {
+          "page": 37,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 38,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 40,
+          "pairs": 13,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 49,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.01098901098901099
+        },
+        {
+          "page": 53,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 55,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.013333333333333334
+        }
+      ]
+    },
+    {
+      "route": "column-r0c0-reject232",
+      "lag": 1,
+      "z": -0.7730255728460654,
+      "pairs": 121,
+      "hits": 0,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.005
+        },
+        {
+          "page": 3,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.013888888888888888
+        },
+        {
+          "page": 6,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.005128205128205128
+        },
+        {
+          "page": 7,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 15,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 22,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.007692307692307693
+        },
+        {
+          "page": 23,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0047169811320754715
+        },
+        {
+          "page": 32,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.016666666666666666
+        },
+        {
+          "page": 33,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.009389671361502348
+        },
+        {
+          "page": 37,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 38,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 40,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 49,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.01098901098901099
+        },
+        {
+          "page": 53,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 55,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.013333333333333334
+        }
+      ]
+    },
+    {
+      "route": "row-r0c1-reject232",
+      "lag": 8,
+      "z": -0.9312168001194915,
+      "pairs": 154,
+      "hits": 3,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.03626943005181347
+        },
+        {
+          "page": 3,
+          "pairs": 11,
+          "hits": 1,
+          "baseline": 0.0430622009569378
+        },
+        {
+          "page": 6,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.03723404255319149
+        },
+        {
+          "page": 7,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.04
+        },
+        {
+          "page": 15,
+          "pairs": 10,
+          "hits": 1,
+          "baseline": 0.033112582781456956
+        },
+        {
+          "page": 22,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.032520325203252036
+        },
+        {
+          "page": 23,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.03902439024390244
+        },
+        {
+          "page": 32,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.035398230088495575
+        },
+        {
+          "page": 33,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.014563106796116505
+        },
+        {
+          "page": 37,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.022727272727272728
+        },
+        {
+          "page": 38,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.05
+        },
+        {
+          "page": 40,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 49,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 6,
+          "hits": 1,
+          "baseline": 0.047619047619047616
+        },
+        {
+          "page": 53,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.029239766081871343
+        },
+        {
+          "page": 55,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        }
+      ]
+    },
+    {
+      "route": "column-r0c1-mod29",
+      "lag": 32,
+      "z": -0.9320487777210242,
+      "pairs": 165,
+      "hits": 4,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0650887573964497
+        },
+        {
+          "page": 3,
+          "pairs": 10,
+          "hits": 1,
+          "baseline": 0.02702702702702703
+        },
+        {
+          "page": 6,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.024390243902439025
+        },
+        {
+          "page": 7,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.03409090909090909
+        },
+        {
+          "page": 8,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 15,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.047244094488188976
+        },
+        {
+          "page": 22,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 23,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.027624309392265192
+        },
+        {
+          "page": 27,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.039603960396039604
+        },
+        {
+          "page": 32,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.02247191011235955
+        },
+        {
+          "page": 33,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.04945054945054945
+        },
+        {
+          "page": 36,
+          "pairs": 10,
+          "hits": 1,
+          "baseline": 0.04854368932038835
+        },
+        {
+          "page": 37,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.025510204081632654
+        },
+        {
+          "page": 38,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.05612244897959184
+        },
+        {
+          "page": 40,
+          "pairs": 10,
+          "hits": 1,
+          "baseline": 0.05025125628140704
+        },
+        {
+          "page": 49,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        },
+        {
+          "page": 51,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.06666666666666667
+        },
+        {
+          "page": 53,
+          "pairs": 9,
+          "hits": 1,
+          "baseline": 0.04081632653061224
+        },
+        {
+          "page": 55,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.045454545454545456
+        }
+      ]
+    },
+    {
+      "route": "row-r0c1-reject232",
+      "lag": 32,
+      "z": -0.9885881332334533,
+      "pairs": 100,
+      "hits": 2,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.0650887573964497
+        },
+        {
+          "page": 3,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.02702702702702703
+        },
+        {
+          "page": 6,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.024390243902439025
+        },
+        {
+          "page": 7,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.03409090909090909
+        },
+        {
+          "page": 15,
+          "pairs": 6,
+          "hits": 1,
+          "baseline": 0.047244094488188976
+        },
+        {
+          "page": 22,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 23,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.027624309392265192
+        },
+        {
+          "page": 32,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.02247191011235955
+        },
+        {
+          "page": 33,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.04945054945054945
+        },
+        {
+          "page": 37,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.025510204081632654
+        },
+        {
+          "page": 38,
+          "pairs": 9,
+          "hits": 1,
+          "baseline": 0.05612244897959184
+        },
+        {
+          "page": 40,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.05025125628140704
+        },
+        {
+          "page": 49,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        },
+        {
+          "page": 51,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.06666666666666667
+        },
+        {
+          "page": 53,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.04081632653061224
+        },
+        {
+          "page": 55,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.045454545454545456
+        }
+      ]
+    },
+    {
+      "route": "row-r0c1-mod29",
+      "lag": 1,
+      "z": -0.9895959502726365,
+      "pairs": 141,
+      "hits": 0,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.005
+        },
+        {
+          "page": 3,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.013888888888888888
+        },
+        {
+          "page": 6,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.005128205128205128
+        },
+        {
+          "page": 7,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 8,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.011811023622047244
+        },
+        {
+          "page": 15,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 22,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.007692307692307693
+        },
+        {
+          "page": 23,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0047169811320754715
+        },
+        {
+          "page": 27,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.02145922746781116
+        },
+        {
+          "page": 32,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.016666666666666666
+        },
+        {
+          "page": 33,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.009389671361502348
+        },
+        {
+          "page": 36,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.012658227848101266
+        },
+        {
+          "page": 37,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 38,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 40,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 49,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.01098901098901099
+        },
+        {
+          "page": 53,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 55,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.013333333333333334
+        }
+      ]
+    },
+    {
+      "route": "row-r1c1-mod29",
+      "lag": 32,
+      "z": -0.9968543824566636,
+      "pairs": 135,
+      "hits": 3,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.0650887573964497
+        },
+        {
+          "page": 3,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.02702702702702703
+        },
+        {
+          "page": 6,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.024390243902439025
+        },
+        {
+          "page": 7,
+          "pairs": 8,
+          "hits": 1,
+          "baseline": 0.03409090909090909
+        },
+        {
+          "page": 8,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 15,
+          "pairs": 5,
+          "hits": 1,
+          "baseline": 0.047244094488188976
+        },
+        {
+          "page": 22,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 23,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.027624309392265192
+        },
+        {
+          "page": 27,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.039603960396039604
+        },
+        {
+          "page": 32,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.02247191011235955
+        },
+        {
+          "page": 33,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.04945054945054945
+        },
+        {
+          "page": 36,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.04854368932038835
+        },
+        {
+          "page": 37,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.025510204081632654
+        },
+        {
+          "page": 38,
+          "pairs": 10,
+          "hits": 1,
+          "baseline": 0.05612244897959184
+        },
+        {
+          "page": 40,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.05025125628140704
+        },
+        {
+          "page": 49,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        },
+        {
+          "page": 51,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.06666666666666667
+        },
+        {
+          "page": 53,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.04081632653061224
+        },
+        {
+          "page": 55,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.045454545454545456
+        }
+      ]
+    },
+    {
+      "route": "row-r1c0-mod29",
+      "lag": 1,
+      "z": -1.0606584862387876,
+      "pairs": 160,
+      "hits": 0,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.005
+        },
+        {
+          "page": 3,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.013888888888888888
+        },
+        {
+          "page": 6,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.005128205128205128
+        },
+        {
+          "page": 7,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 8,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.011811023622047244
+        },
+        {
+          "page": 15,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 22,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.007692307692307693
+        },
+        {
+          "page": 23,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0047169811320754715
+        },
+        {
+          "page": 27,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.02145922746781116
+        },
+        {
+          "page": 32,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.016666666666666666
+        },
+        {
+          "page": 33,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.009389671361502348
+        },
+        {
+          "page": 36,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.012658227848101266
+        },
+        {
+          "page": 37,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 38,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 40,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 49,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.01098901098901099
+        },
+        {
+          "page": 53,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 55,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.013333333333333334
+        }
+      ]
+    },
+    {
+      "route": "column-r0c0-reject232",
+      "lag": 8,
+      "z": -1.0974758996104679,
+      "pairs": 86,
+      "hits": 1,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.03626943005181347
+        },
+        {
+          "page": 3,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.0430622009569378
+        },
+        {
+          "page": 6,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.03723404255319149
+        },
+        {
+          "page": 7,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.04
+        },
+        {
+          "page": 15,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.033112582781456956
+        },
+        {
+          "page": 22,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.032520325203252036
+        },
+        {
+          "page": 23,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.03902439024390244
+        },
+        {
+          "page": 32,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.035398230088495575
+        },
+        {
+          "page": 33,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.014563106796116505
+        },
+        {
+          "page": 37,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.022727272727272728
+        },
+        {
+          "page": 38,
+          "pairs": 7,
+          "hits": 1,
+          "baseline": 0.05
+        },
+        {
+          "page": 40,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 49,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.047619047619047616
+        },
+        {
+          "page": 53,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.029239766081871343
+        },
+        {
+          "page": 55,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        }
+      ]
+    },
+    {
+      "route": "column-r1c1-mod29",
+      "lag": 32,
+      "z": -1.3659952488145706,
+      "pairs": 167,
+      "hits": 3,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 10,
+          "hits": 1,
+          "baseline": 0.0650887573964497
+        },
+        {
+          "page": 3,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.02702702702702703
+        },
+        {
+          "page": 6,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.024390243902439025
+        },
+        {
+          "page": 7,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.03409090909090909
+        },
+        {
+          "page": 8,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 15,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.047244094488188976
+        },
+        {
+          "page": 22,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 23,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.027624309392265192
+        },
+        {
+          "page": 27,
+          "pairs": 10,
+          "hits": 1,
+          "baseline": 0.039603960396039604
+        },
+        {
+          "page": 32,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.02247191011235955
+        },
+        {
+          "page": 33,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.04945054945054945
+        },
+        {
+          "page": 36,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.04854368932038835
+        },
+        {
+          "page": 37,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.025510204081632654
+        },
+        {
+          "page": 38,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.05612244897959184
+        },
+        {
+          "page": 40,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.05025125628140704
+        },
+        {
+          "page": 49,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        },
+        {
+          "page": 51,
+          "pairs": 5,
+          "hits": 1,
+          "baseline": 0.06666666666666667
+        },
+        {
+          "page": 53,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.04081632653061224
+        },
+        {
+          "page": 55,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.045454545454545456
+        }
+      ]
+    },
+    {
+      "route": "column-r1c0-mod29",
+      "lag": 8,
+      "z": -1.4221379754601395,
+      "pairs": 59,
+      "hits": 0,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.03626943005181347
+        },
+        {
+          "page": 3,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.0430622009569378
+        },
+        {
+          "page": 6,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.03723404255319149
+        },
+        {
+          "page": 7,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.04
+        },
+        {
+          "page": 8,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.016194331983805668
+        },
+        {
+          "page": 15,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.033112582781456956
+        },
+        {
+          "page": 22,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.032520325203252036
+        },
+        {
+          "page": 23,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.03902439024390244
+        },
+        {
+          "page": 27,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.04424778761061947
+        },
+        {
+          "page": 32,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.035398230088495575
+        },
+        {
+          "page": 33,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.014563106796116505
+        },
+        {
+          "page": 36,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.030434782608695653
+        },
+        {
+          "page": 37,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.022727272727272728
+        },
+        {
+          "page": 38,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.05
+        },
+        {
+          "page": 40,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 49,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.047619047619047616
+        },
+        {
+          "page": 53,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.029239766081871343
+        },
+        {
+          "page": 55,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        }
+      ]
+    },
+    {
+      "route": "row-r1c1-reject232",
+      "lag": 8,
+      "z": -1.4689270893073112,
+      "pairs": 115,
+      "hits": 1,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.03626943005181347
+        },
+        {
+          "page": 3,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0430622009569378
+        },
+        {
+          "page": 6,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.03723404255319149
+        },
+        {
+          "page": 7,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.04
+        },
+        {
+          "page": 15,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.033112582781456956
+        },
+        {
+          "page": 22,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.032520325203252036
+        },
+        {
+          "page": 23,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.03902439024390244
+        },
+        {
+          "page": 32,
+          "pairs": 5,
+          "hits": 1,
+          "baseline": 0.035398230088495575
+        },
+        {
+          "page": 33,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.014563106796116505
+        },
+        {
+          "page": 37,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.022727272727272728
+        },
+        {
+          "page": 38,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.05
+        },
+        {
+          "page": 40,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 49,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.047619047619047616
+        },
+        {
+          "page": 53,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.029239766081871343
+        },
+        {
+          "page": 55,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        }
+      ]
+    },
+    {
+      "route": "row-r1c0-mod29",
+      "lag": 32,
+      "z": -1.4765333655225554,
+      "pairs": 138,
+      "hits": 2,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.0650887573964497
+        },
+        {
+          "page": 3,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.02702702702702703
+        },
+        {
+          "page": 6,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.024390243902439025
+        },
+        {
+          "page": 7,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.03409090909090909
+        },
+        {
+          "page": 8,
+          "pairs": 11,
+          "hits": 1,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 15,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.047244094488188976
+        },
+        {
+          "page": 22,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 23,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.027624309392265192
+        },
+        {
+          "page": 27,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.039603960396039604
+        },
+        {
+          "page": 32,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.02247191011235955
+        },
+        {
+          "page": 33,
+          "pairs": 9,
+          "hits": 1,
+          "baseline": 0.04945054945054945
+        },
+        {
+          "page": 36,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.04854368932038835
+        },
+        {
+          "page": 37,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.025510204081632654
+        },
+        {
+          "page": 38,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.05612244897959184
+        },
+        {
+          "page": 40,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.05025125628140704
+        },
+        {
+          "page": 49,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        },
+        {
+          "page": 51,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.06666666666666667
+        },
+        {
+          "page": 53,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.04081632653061224
+        },
+        {
+          "page": 55,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.045454545454545456
+        }
+      ]
+    },
+    {
+      "route": "row-r0c0-mod29",
+      "lag": 32,
+      "z": -1.5201446119586937,
+      "pairs": 145,
+      "hits": 2,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.0650887573964497
+        },
+        {
+          "page": 3,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.02702702702702703
+        },
+        {
+          "page": 6,
+          "pairs": 8,
+          "hits": 1,
+          "baseline": 0.024390243902439025
+        },
+        {
+          "page": 7,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.03409090909090909
+        },
+        {
+          "page": 8,
+          "pairs": 11,
+          "hits": 0,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 15,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.047244094488188976
+        },
+        {
+          "page": 22,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 23,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.027624309392265192
+        },
+        {
+          "page": 27,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.039603960396039604
+        },
+        {
+          "page": 32,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.02247191011235955
+        },
+        {
+          "page": 33,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.04945054945054945
+        },
+        {
+          "page": 36,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.04854368932038835
+        },
+        {
+          "page": 37,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.025510204081632654
+        },
+        {
+          "page": 38,
+          "pairs": 9,
+          "hits": 1,
+          "baseline": 0.05612244897959184
+        },
+        {
+          "page": 40,
+          "pairs": 9,
+          "hits": 0,
+          "baseline": 0.05025125628140704
+        },
+        {
+          "page": 49,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        },
+        {
+          "page": 51,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.06666666666666667
+        },
+        {
+          "page": 53,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.04081632653061224
+        },
+        {
+          "page": 55,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.045454545454545456
+        }
+      ]
+    },
+    {
+      "route": "column-r1c1-mod29",
+      "lag": 8,
+      "z": -1.5970759706263498,
+      "pairs": 75,
+      "hits": 0,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.03626943005181347
+        },
+        {
+          "page": 3,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.0430622009569378
+        },
+        {
+          "page": 6,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.03723404255319149
+        },
+        {
+          "page": 7,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.04
+        },
+        {
+          "page": 8,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.016194331983805668
+        },
+        {
+          "page": 15,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.033112582781456956
+        },
+        {
+          "page": 22,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.032520325203252036
+        },
+        {
+          "page": 23,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.03902439024390244
+        },
+        {
+          "page": 27,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.04424778761061947
+        },
+        {
+          "page": 32,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.035398230088495575
+        },
+        {
+          "page": 33,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.014563106796116505
+        },
+        {
+          "page": 36,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.030434782608695653
+        },
+        {
+          "page": 37,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.022727272727272728
+        },
+        {
+          "page": 38,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.05
+        },
+        {
+          "page": 40,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 49,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 51,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.047619047619047616
+        },
+        {
+          "page": 53,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.029239766081871343
+        },
+        {
+          "page": 55,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        }
+      ]
+    },
+    {
+      "route": "column-r0c1-reject232",
+      "lag": 32,
+      "z": -1.850767905767803,
+      "pairs": 84,
+      "hits": 0,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.0650887573964497
+        },
+        {
+          "page": 3,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.02702702702702703
+        },
+        {
+          "page": 6,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.024390243902439025
+        },
+        {
+          "page": 7,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.03409090909090909
+        },
+        {
+          "page": 15,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.047244094488188976
+        },
+        {
+          "page": 22,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 23,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.027624309392265192
+        },
+        {
+          "page": 32,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.02247191011235955
+        },
+        {
+          "page": 33,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.04945054945054945
+        },
+        {
+          "page": 37,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.025510204081632654
+        },
+        {
+          "page": 38,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.05612244897959184
+        },
+        {
+          "page": 40,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.05025125628140704
+        },
+        {
+          "page": 49,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        },
+        {
+          "page": 51,
+          "pairs": 2,
+          "hits": 0,
+          "baseline": 0.06666666666666667
+        },
+        {
+          "page": 53,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.04081632653061224
+        },
+        {
+          "page": 55,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.045454545454545456
+        }
+      ]
+    },
+    {
+      "route": "column-r1c0-mod29",
+      "lag": 32,
+      "z": -1.9007060819895263,
+      "pairs": 90,
+      "hits": 0,
+      "parts": [
+        {
+          "page": 2,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.0650887573964497
+        },
+        {
+          "page": 3,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.02702702702702703
+        },
+        {
+          "page": 6,
+          "pairs": 5,
+          "hits": 0,
+          "baseline": 0.024390243902439025
+        },
+        {
+          "page": 7,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.03409090909090909
+        },
+        {
+          "page": 8,
+          "pairs": 10,
+          "hits": 0,
+          "baseline": 0.02242152466367713
+        },
+        {
+          "page": 15,
+          "pairs": 3,
+          "hits": 0,
+          "baseline": 0.047244094488188976
+        },
+        {
+          "page": 22,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.0
+        },
+        {
+          "page": 23,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.027624309392265192
+        },
+        {
+          "page": 27,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.039603960396039604
+        },
+        {
+          "page": 32,
+          "pairs": 1,
+          "hits": 0,
+          "baseline": 0.02247191011235955
+        },
+        {
+          "page": 33,
+          "pairs": 6,
+          "hits": 0,
+          "baseline": 0.04945054945054945
+        },
+        {
+          "page": 36,
+          "pairs": 8,
+          "hits": 0,
+          "baseline": 0.04854368932038835
+        },
+        {
+          "page": 37,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.025510204081632654
+        },
+        {
+          "page": 38,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.05612244897959184
+        },
+        {
+          "page": 40,
+          "pairs": 7,
+          "hits": 0,
+          "baseline": 0.05025125628140704
+        },
+        {
+          "page": 49,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.029411764705882353
+        },
+        {
+          "page": 51,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.06666666666666667
+        },
+        {
+          "page": 53,
+          "pairs": 4,
+          "hits": 0,
+          "baseline": 0.04081632653061224
+        },
+        {
+          "page": 55,
+          "pairs": 0,
+          "hits": 0,
+          "baseline": 0.045454545454545456
+        }
+      ]
+    }
+  ],
+  "null_maxima": [
+    2.7702029245077266,
+    2.8390231317374397,
+    2.8993629016713993,
+    2.601754408523765,
+    2.365558080480354,
+    2.9668645424681874,
+    3.851072749859342,
+    1.8731467511784368,
+    2.0654868827789055,
+    3.4231597244513488,
+    4.352493234504732,
+    4.0527684838707865,
+    3.1920373283392873,
+    3.468424928593846,
+    2.1861490933963497,
+    3.15381951664202,
+    2.328431191798133,
+    2.0547570246270777,
+    2.5042871520165724,
+    1.682250481264178,
+    2.908115178197501,
+    2.356653493968444,
+    2.7046793116686105,
+    2.091203450961148,
+    3.100790698776201,
+    3.369622406876472,
+    3.4823638171613682,
+    1.9523840389668414,
+    2.8285642145648615,
+    4.230652082959559,
+    2.9503648801837405,
+    2.7113629719232204,
+    2.5123594830593174,
+    2.341546706551199,
+    3.7526946486778607,
+    3.258006133552678,
+    2.5170800352867784,
+    4.191510832458261,
+    2.598637256354399,
+    3.6034528033797835,
+    2.7785721339575873,
+    3.289682013908211,
+    2.312450202784015,
+    3.851176817402697,
+    2.0172621535290682,
+    4.428343079259046,
+    3.417304913900389,
+    4.814403650195028,
+    4.511045579095131,
+    1.318769303372331,
+    2.949799790347315,
+    3.5120624391572925,
+    2.103199495854304,
+    2.2967344498354674,
+    3.534067813110399,
+    2.2394066635542256,
+    2.7239734741176975,
+    2.768989875934062,
+    2.6718764293554806,
+    3.1389084194603054,
+    3.1691558601272067,
+    3.258874537425422,
+    2.7949568393629654,
+    2.2943962916757723,
+    3.037578107457711,
+    1.827603068243523,
+    2.5772080380847746,
+    3.728966831872233,
+    2.328618918599046,
+    1.8858282928515864,
+    2.1805616551192544,
+    2.7517011961841944,
+    2.5306256257135153,
+    2.0980857777144553,
+    3.410536172397337,
+    2.5936759064202417,
+    2.7049343819111544,
+    2.631368964262948,
+    3.3309608145251772,
+    1.9682897314645567,
+    2.6833582446013313,
+    3.181532307508366,
+    2.3351314583745792,
+    2.234626490907211,
+    3.749865781345612,
+    2.564296757902869,
+    3.027483357902526,
+    1.605605085431954,
+    3.418496995483006,
+    2.903151524198024,
+    3.561898335923372,
+    5.524175276551435,
+    2.469709624494919,
+    1.9770932169278255,
+    3.6938784642159375,
+    2.095457291675117,
+    2.078061673648723,
+    3.5573136896273447,
+    2.1010460132790802,
+    1.9102516000563647,
+    2.3876980889836172,
+    1.927510888905878,
+    2.363907394959981,
+    2.0147292127757517,
+    1.8566686850391456,
+    2.2374687238441573,
+    3.5202180762871347,
+    2.0456792085344375,
+    2.977234237373266,
+    2.536562682208209,
+    2.22898733340029,
+    2.289825121856771,
+    3.0517874309235045,
+    1.8428349741946513,
+    2.491881110468568,
+    2.3976671377948993,
+    2.735946187954806,
+    1.3906876752196362,
+    2.2307238455887353,
+    2.399585113545495,
+    2.7947740153679073,
+    2.836427439396573,
+    2.131251182544088,
+    2.7016793226702913,
+    3.4133725589587023,
+    1.7465791343032246,
+    1.8514884926434647,
+    2.3016408698006003,
+    1.7788340412021273,
+    2.2949242018359928,
+    2.1539420210114937,
+    2.918124483206322,
+    2.791531398065032,
+    2.549886632663023,
+    3.6900324488151997,
+    3.12635105609419,
+    3.635820527286922,
+    2.5139318118327645,
+    4.198569587847146,
+    3.1577364746232988,
+    3.2575032003216826,
+    2.1075155513632637,
+    2.7442476116711423,
+    3.4792412723074158,
+    3.6958112549217015,
+    3.318192668664675,
+    2.928074636266116,
+    2.1272408323024474,
+    1.8177734123355358,
+    2.83045133782472,
+    2.8806306444985053,
+    2.228714615096474,
+    2.8388890217863003,
+    2.707843091261025,
+    2.6403229448717718,
+    2.632403222309282,
+    2.2950362660551775,
+    3.0530813310789116,
+    1.9783518561323035,
+    2.410811100101257,
+    5.496568794357404,
+    2.4600738185329787,
+    2.447676016186882,
+    2.8634074283160027,
+    3.5057799095623148,
+    2.973270426284959,
+    4.394388515001582,
+    2.598339737756489,
+    1.8312225618860096,
+    2.2142695401230887,
+    2.0669969343769963,
+    3.52021370845978,
+    3.7962239065879957,
+    1.4135741206580439,
+    2.346166420623441,
+    2.2618731122442157,
+    2.4958347113865886,
+    3.361287597679128,
+    1.7137915914139168,
+    2.6732173314646897,
+    1.7007062325385458,
+    3.1405861780406794,
+    2.089820090585345,
+    1.61589595112186,
+    3.8153888418807784,
+    3.149460063497889,
+    1.9976411117610768,
+    2.113330143849331,
+    2.8331199507376845,
+    3.8002053226110304,
+    1.971019530336252,
+    2.729518849639229,
+    3.4161033429792345,
+    3.167531441120538,
+    2.6607386600487386,
+    3.2258791538531617,
+    3.460597394773322,
+    2.7725141013978396,
+    2.5542368596733396,
+    2.9374573027226343,
+    2.924144016660008,
+    2.849742953327734,
+    1.6613401759760658,
+    2.1258161119512873,
+    1.9251592976164797,
+    2.596019092546822,
+    3.06572357507896,
+    3.2542031874703072,
+    1.716783431720053,
+    3.461368214781897,
+    3.015133964277696,
+    2.0495399127051974,
+    1.6460982584954942,
+    2.181307892065866,
+    3.482778703151033,
+    2.6810761335796727,
+    2.641076906860287,
+    2.998487614235046,
+    2.812273440205147,
+    1.7852528794531133,
+    1.3949933597258002,
+    2.6514211938748273,
+    2.19510044823801,
+    2.506790312719511,
+    2.6678170204301366,
+    2.2707546670565293,
+    2.8366240766011583,
+    2.6708018470351176,
+    2.4095530504159646,
+    3.4893558015530663,
+    2.727536823810962,
+    2.9382555694760795,
+    3.0592627371683414,
+    3.8685896154319925,
+    2.3212311936267858,
+    4.094491681945628,
+    1.5829140592969337,
+    2.7378168928264515,
+    2.0508904620961816,
+    3.796586890913805,
+    2.448245598311975,
+    2.5620904828505027,
+    1.825610013481629,
+    3.025222442921007,
+    2.0261265373996076,
+    2.1956963699590912,
+    2.467960233863996,
+    2.7254881253318732,
+    2.9927930359846426,
+    3.5069506837103424,
+    1.8542737644137475,
+    2.604341456422894,
+    2.21718888807725,
+    3.6446941454385766,
+    2.2234658959096105,
+    2.0409499362689543,
+    2.8624423226365976,
+    3.718307233167043,
+    2.767791925579515,
+    2.9381615458039336,
+    2.281222617263167,
+    2.5154719798374456,
+    2.2551965644234095,
+    2.5002720262851788,
+    2.7951932143655993,
+    2.7400728343472003,
+    3.025617288271154,
+    2.331338192171329,
+    2.7688193003742123,
+    3.1972279208163457,
+    2.503281261508612,
+    2.048164208934944,
+    3.626492567865331,
+    2.716415237464259,
+    2.3788285360542516,
+    2.7016020226258384,
+    4.109526842338063,
+    2.1449487036134083,
+    1.3880910472410155,
+    2.7006471588857894,
+    2.9787702718382385,
+    5.5316497187523925,
+    2.0803538216087327,
+    1.9291071035919845,
+    1.7219061004054712,
+    2.6899520150377603,
+    3.729435634594146,
+    2.9779172270570804,
+    3.5972959741753994,
+    2.222030880126888,
+    1.0821850374592854,
+    2.8798035172468626,
+    2.334205762915151,
+    2.328834806068465,
+    2.527312782152013,
+    2.763693259597753,
+    2.5807878985412165,
+    2.665125444512786,
+    1.571585286489069,
+    2.3331957669916514,
+    2.736864865964739,
+    3.2264435700124814,
+    2.6400778272961274,
+    2.5478710490807943,
+    2.223128893469837,
+    2.4451128111590212,
+    1.6198957059397896,
+    2.21977864208728,
+    2.1768515750924227,
+    2.4166063067577657,
+    2.8642057245153123,
+    3.5893984024891066,
+    4.262090278087019,
+    4.273843251741814,
+    1.908102675618578,
+    2.2665529914039535,
+    3.300058563485383,
+    3.025159122923461,
+    3.5054893307350956,
+    2.2096893350684184,
+    2.631010542319259,
+    2.0226648472162396,
+    2.9494210101360365,
+    3.3580335756835584,
+    2.528367828461827,
+    2.7487497258674876,
+    3.0541274966972995,
+    2.8725878994991163,
+    1.3843313524748808,
+    2.258881320021091,
+    3.12716099389799,
+    3.275954930439566,
+    2.203892325895513,
+    2.1337478675855133,
+    1.778964223179453,
+    2.8389050452023366,
+    4.639019728813285,
+    2.816970642126013,
+    3.212518423322672,
+    2.2637683861922144,
+    2.4299772836468705,
+    2.4247918813104588,
+    3.2467946258885254,
+    1.7226041909418717,
+    3.1315546170870343,
+    3.583454224146332,
+    1.791589950017872,
+    2.5333321840064293,
+    2.09237743808461,
+    1.9483727788831229,
+    2.2348483182407546,
+    3.1700924512696584,
+    2.244794442761234,
+    1.7728889518385609,
+    2.5658130429175103,
+    1.5015908062684082,
+    2.5442578855057865,
+    2.6168537296164094,
+    2.6868874053345215,
+    1.7824323645535465,
+    2.609364169305768,
+    2.4973777194707654,
+    2.478516094639846,
+    4.334457705544632,
+    2.8319763999736423,
+    2.8387718706929213,
+    2.3609875923521555,
+    1.9550624883684984,
+    2.6303274333625217,
+    1.9361456532599282,
+    2.7214561964931767,
+    2.151355006976526,
+    3.7213647847932667,
+    2.2331968024605784,
+    2.5452931062312083,
+    2.8278591364246624,
+    2.9527002474615274,
+    2.8009488971750676,
+    3.01184787271005,
+    2.419789254089113,
+    2.0137150843017424,
+    2.37682814173691,
+    3.6482785216591505,
+    2.8380286803810604,
+    2.6978393674768855,
+    1.9909090742410773,
+    1.8962459989224165,
+    2.0668109281363116,
+    2.131913280973417,
+    1.9497124430223365,
+    2.432714202683789,
+    1.7398831687086762,
+    1.9234542463741722,
+    2.751044697526894,
+    2.5519871617473573,
+    2.2502381992493734,
+    3.204872433392009,
+    4.092233093132371,
+    1.2818514022301584,
+    3.543181379412892,
+    3.2677216887342424,
+    2.977430029566808,
+    2.8208095366926123,
+    2.1423325980974783,
+    2.4072188684137883,
+    2.540261780119704,
+    3.3697686018680333,
+    3.058387643716792,
+    2.1820897069605176,
+    2.5023269495059206,
+    3.0425371620246042,
+    2.5372054339571184,
+    3.9117780568264657,
+    2.7508381822343364,
+    2.8363261838167917,
+    3.3142799292505583,
+    3.258480914128186,
+    2.1249847056400606,
+    2.1596991911473618,
+    1.9090405672260924,
+    2.5589172383768393,
+    3.5957164493486435,
+    2.9360461837085112,
+    2.2876435974524885,
+    3.32512460898031,
+    2.512243569855622,
+    3.1521725402786913,
+    5.691559481049834,
+    1.804552313288114,
+    4.066872879936223,
+    3.044262432874983,
+    2.099913464531357,
+    2.7075209145946886,
+    1.9557810670380298,
+    2.770186188000706,
+    4.154124494162705,
+    2.494892384551339,
+    3.415346859021575,
+    2.0718227614211595,
+    1.8878141162998536,
+    2.6406314790488,
+    3.686780302570424,
+    2.445551565020695,
+    2.154106962398731,
+    4.0606888025863155,
+    2.279203053006876,
+    3.964358234442241,
+    3.0721679147137686,
+    2.894469809154393,
+    2.8386655211482377,
+    3.0539887193048916,
+    2.540330611604661,
+    1.69387611249367,
+    1.8832383725826454,
+    3.498106199953831,
+    2.684874133376897,
+    3.098369067246067,
+    3.0417701867978644,
+    3.5666287531129375,
+    2.414740880019499,
+    1.9759941364732414,
+    3.8125796022279106,
+    2.433693921243634,
+    2.5273718851628018,
+    3.340917411812065,
+    2.715524039033546,
+    2.2990156473473746,
+    3.6011694047437213,
+    4.318097512868088,
+    2.694873580933932,
+    2.648603722597783,
+    2.306470079568454,
+    1.898880540408253,
+    1.6556488231577398,
+    2.8335837898109735,
+    3.751155544329625,
+    2.5927194559798776,
+    2.4148181635010064,
+    1.5064796162538838,
+    3.6042030356942685,
+    3.9828747598664425,
+    2.5824238556296137,
+    1.885858324830778,
+    2.576641517591042,
+    2.7244540205761063,
+    2.2110393230637766,
+    2.94245543836004,
+    2.1205471962068287,
+    2.8504057841618153,
+    2.651421193874827,
+    3.2415462268302324,
+    2.9778339216367677,
+    2.8924582644887407,
+    2.3679339271560047,
+    2.114584646010791,
+    3.4767487374616968,
+    3.8722151817893593,
+    2.488298229310279,
+    2.1158055692746056
+  ],
+  "pvalue_max": 0.434,
+  "controls": [
+    {
+      "bias": 0.034482758620689655,
+      "detected": 0,
+      "trials": 20,
+      "samples": [
+        {
+          "truth": "row-r0c0-mod29",
+          "top": {
+            "route": "column-r1c0-mod29",
+            "lag": 32,
+            "z": 2.452570258896749,
+            "pairs": 90,
+            "hits": 7,
+            "parts": []
+          },
+          "truth_best": 2.1493443336197866,
+          "detected": false
+        },
+        {
+          "truth": "row-r0c0-reject232",
+          "top": {
+            "route": "column-r1c1-reject232",
+            "lag": 8,
+            "z": 2.181704133397981,
+            "pairs": 73,
+            "hits": 6,
+            "parts": []
+          },
+          "truth_best": -0.3795785433080434,
+          "detected": false
+        },
+        {
+          "truth": "row-r0c1-mod29",
+          "top": {
+            "route": "row-r0c0-mod29",
+            "lag": 32,
+            "z": 2.781657567483958,
+            "pairs": 145,
+            "hits": 11,
+            "parts": []
+          },
+          "truth_best": -0.6019908700471938,
+          "detected": false
+        },
+        {
+          "truth": "row-r0c1-reject232",
+          "top": {
+            "route": "column-r1c1-reject232",
+            "lag": 32,
+            "z": 2.4090276544722338,
+            "pairs": 68,
+            "hits": 6,
+            "parts": []
+          },
+          "truth_best": 0.6556687051305546,
+          "detected": false
+        },
+        {
+          "truth": "row-r1c0-mod29",
+          "top": {
+            "route": "column-r0c1-reject232",
+            "lag": 1,
+            "z": 2.943804155859061,
+            "pairs": 124,
+            "hits": 10,
+            "parts": []
+          },
+          "truth_best": 1.2698467339004453,
+          "detected": false
+        },
+        {
+          "truth": "row-r1c0-reject232",
+          "top": {
+            "route": "row-r1c0-mod29",
+            "lag": 1,
+            "z": 2.7894670361834777,
+            "pairs": 129,
+            "hits": 10,
+            "parts": []
+          },
+          "truth_best": 0.810428617719959,
+          "detected": false
+        },
+        {
+          "truth": "row-r1c1-mod29",
+          "top": {
+            "route": "column-r0c1-reject232",
+            "lag": 32,
+            "z": 2.3159262871491553,
+            "pairs": 84,
+            "hits": 7,
+            "parts": []
+          },
+          "truth_best": 2.258508152788245,
+          "detected": false
+        },
+        {
+          "truth": "row-r1c1-reject232",
+          "top": {
+            "route": "column-r1c1-mod29",
+            "lag": 1,
+            "z": 2.8083334262101256,
+            "pairs": 147,
+            "hits": 12,
+            "parts": []
+          },
+          "truth_best": 0.34300112467297955,
+          "detected": false
+        },
+        {
+          "truth": "column-r0c0-mod29",
+          "top": {
+            "route": "column-r0c1-reject232",
+            "lag": 8,
+            "z": 2.0979291547234307,
+            "pairs": 99,
+            "hits": 6,
+            "parts": []
+          },
+          "truth_best": 1.9487702474612218,
+          "detected": false
+        },
+        {
+          "truth": "column-r0c0-reject232",
+          "top": {
+            "route": "column-r1c1-mod29",
+            "lag": 8,
+            "z": 1.9900715826850575,
+            "pairs": 57,
+            "hits": 5,
+            "parts": []
+          },
+          "truth_best": -0.32419723566087527,
+          "detected": false
+        },
+        {
+          "truth": "column-r0c1-mod29",
+          "top": {
+            "route": "column-r1c0-mod29",
+            "lag": 1,
+            "z": 3.3326241619455397,
+            "pairs": 158,
+            "hits": 13,
+            "parts": []
+          },
+          "truth_best": -0.215509169184084,
+          "detected": false
+        },
+        {
+          "truth": "column-r0c1-reject232",
+          "top": {
+            "route": "column-r0c0-reject232",
+            "lag": 8,
+            "z": 2.073655220000025,
+            "pairs": 86,
+            "hits": 6,
+            "parts": []
+          },
+          "truth_best": 0.1223840140083013,
+          "detected": false
+        },
+        {
+          "truth": "column-r1c0-mod29",
+          "top": {
+            "route": "row-r1c1-reject232",
+            "lag": 32,
+            "z": 2.5898904202463453,
+            "pairs": 71,
+            "hits": 6,
+            "parts": []
+          },
+          "truth_best": 1.1329039207226408,
+          "detected": false
+        },
+        {
+          "truth": "column-r1c0-reject232",
+          "top": {
+            "route": "column-r0c0-mod29",
+            "lag": 32,
+            "z": 2.2747411422780814,
+            "pairs": 62,
+            "hits": 5,
+            "parts": []
+          },
+          "truth_best": 1.6018390545209253,
+          "detected": false
+        },
+        {
+          "truth": "column-r1c1-mod29",
+          "top": {
+            "route": "row-r1c1-reject232",
+            "lag": 1,
+            "z": 3.1193058742462476,
+            "pairs": 165,
+            "hits": 15,
+            "parts": []
+          },
+          "truth_best": 0.6593735000709728,
+          "detected": false
+        },
+        {
+          "truth": "column-r1c1-reject232",
+          "top": {
+            "route": "column-r1c0-reject232",
+            "lag": 8,
+            "z": 1.8552463042867533,
+            "pairs": 106,
+            "hits": 7,
+            "parts": []
+          },
+          "truth_best": 0.5950745878071471,
+          "detected": false
+        },
+        {
+          "truth": "row-r0c0-mod29",
+          "top": {
+            "route": "column-r1c0-mod29",
+            "lag": 8,
+            "z": 2.3031538231126456,
+            "pairs": 59,
+            "hits": 6,
+            "parts": []
+          },
+          "truth_best": 0.35331896549079184,
+          "detected": false
+        },
+        {
+          "truth": "row-r0c0-reject232",
+          "top": {
+            "route": "column-r1c1-reject232",
+            "lag": 8,
+            "z": 2.0402769090201245,
+            "pairs": 73,
+            "hits": 6,
+            "parts": []
+          },
+          "truth_best": -0.531782452898521,
+          "detected": false
+        },
+        {
+          "truth": "row-r0c1-mod29",
+          "top": {
+            "route": "row-r0c0-reject232",
+            "lag": 32,
+            "z": 2.7249456121105284,
+            "pairs": 88,
+            "hits": 8,
+            "parts": []
+          },
+          "truth_best": -0.24015476981073466,
+          "detected": false
+        },
+        {
+          "truth": "row-r0c1-reject232",
+          "top": {
+            "route": "column-r1c0-reject232",
+            "lag": 8,
+            "z": 1.7303100273947176,
+            "pairs": 106,
+            "hits": 7,
+            "parts": []
+          },
+          "truth_best": -0.3361626520236362,
+          "detected": false
+        }
+      ]
+    },
+    {
+      "bias": 0.25,
+      "detected": 14,
+      "trials": 20,
+      "samples": [
+        {
+          "truth": "row-r0c0-mod29",
+          "top": {
+            "route": "row-r0c0-mod29",
+            "lag": 32,
+            "z": 5.328601038325734,
+            "pairs": 145,
+            "hits": 17,
+            "parts": []
+          },
+          "truth_best": 5.328601038325734,
+          "detected": true
+        },
+        {
+          "truth": "row-r0c0-reject232",
+          "top": {
+            "route": "row-r0c0-reject232",
+            "lag": 1,
+            "z": 4.903730970550442,
+            "pairs": 135,
+            "hits": 16,
+            "parts": []
+          },
+          "truth_best": 4.903730970550442,
+          "detected": true
+        },
+        {
+          "truth": "row-r0c1-mod29",
+          "top": {
+            "route": "row-r0c1-mod29",
+            "lag": 8,
+            "z": 2.6441724554308927,
+            "pairs": 206,
+            "hits": 13,
+            "parts": []
+          },
+          "truth_best": 2.6441724554308927,
+          "detected": false
+        },
+        {
+          "truth": "row-r0c1-reject232",
+          "top": {
+            "route": "row-r0c0-reject232",
+            "lag": 8,
+            "z": 3.3947642302176146,
+            "pairs": 103,
+            "hits": 11,
+            "parts": []
+          },
+          "truth_best": 3.0426813772725536,
+          "detected": false
+        },
+        {
+          "truth": "row-r1c0-mod29",
+          "top": {
+            "route": "row-r1c0-mod29",
+            "lag": 1,
+            "z": 4.730400704380335,
+            "pairs": 160,
+            "hits": 16,
+            "parts": []
+          },
+          "truth_best": 4.730400704380335,
+          "detected": true
+        },
+        {
+          "truth": "row-r1c0-reject232",
+          "top": {
+            "route": "row-r1c0-reject232",
+            "lag": 8,
+            "z": 2.786684630320722,
+            "pairs": 96,
+            "hits": 8,
+            "parts": []
+          },
+          "truth_best": 2.786684630320722,
+          "detected": false
+        },
+        {
+          "truth": "row-r1c1-mod29",
+          "top": {
+            "route": "row-r1c1-mod29",
+            "lag": 1,
+            "z": 5.16223694264198,
+            "pairs": 203,
+            "hits": 23,
+            "parts": []
+          },
+          "truth_best": 5.16223694264198,
+          "detected": true
+        },
+        {
+          "truth": "row-r1c1-reject232",
+          "top": {
+            "route": "row-r1c1-reject232",
+            "lag": 1,
+            "z": 4.4513570022276925,
+            "pairs": 165,
+            "hits": 17,
+            "parts": []
+          },
+          "truth_best": 4.4513570022276925,
+          "detected": true
+        },
+        {
+          "truth": "column-r0c0-mod29",
+          "top": {
+            "route": "column-r0c0-mod29",
+            "lag": 8,
+            "z": 4.684512561976806,
+            "pairs": 96,
+            "hits": 12,
+            "parts": []
+          },
+          "truth_best": 4.684512561976806,
+          "detected": true
+        },
+        {
+          "truth": "column-r0c0-reject232",
+          "top": {
+            "route": "column-r1c0-mod29",
+            "lag": 8,
+            "z": 4.07571668281797,
+            "pairs": 47,
+            "hits": 7,
+            "parts": []
+          },
+          "truth_best": 3.390718824205159,
+          "detected": true
+        },
+        {
+          "truth": "column-r0c1-mod29",
+          "top": {
+            "route": "column-r0c1-mod29",
+            "lag": 1,
+            "z": 4.164658278292138,
+            "pairs": 191,
+            "hits": 19,
+            "parts": []
+          },
+          "truth_best": 4.164658278292138,
+          "detected": true
+        },
+        {
+          "truth": "column-r0c1-reject232",
+          "top": {
+            "route": "column-r0c1-reject232",
+            "lag": 1,
+            "z": 5.642546943582652,
+            "pairs": 124,
+            "hits": 15,
+            "parts": []
+          },
+          "truth_best": 5.642546943582652,
+          "detected": true
+        },
+        {
+          "truth": "column-r1c0-mod29",
+          "top": {
+            "route": "column-r1c0-mod29",
+            "lag": 8,
+            "z": 3.2351796329270694,
+            "pairs": 59,
+            "hits": 6,
+            "parts": []
+          },
+          "truth_best": 3.2351796329270694,
+          "detected": false
+        },
+        {
+          "truth": "column-r1c0-reject232",
+          "top": {
+            "route": "column-r1c0-reject232",
+            "lag": 32,
+            "z": 5.9041933657835655,
+            "pairs": 102,
+            "hits": 14,
+            "parts": []
+          },
+          "truth_best": 5.9041933657835655,
+          "detected": true
+        },
+        {
+          "truth": "column-r1c1-mod29",
+          "top": {
+            "route": "column-r1c1-mod29",
+            "lag": 1,
+            "z": 3.7773133140087927,
+            "pairs": 184,
+            "hits": 15,
+            "parts": []
+          },
+          "truth_best": 3.7773133140087927,
+          "detected": false
+        },
+        {
+          "truth": "column-r1c1-reject232",
+          "top": {
+            "route": "column-r1c1-reject232",
+            "lag": 32,
+            "z": 5.357636704700846,
+            "pairs": 68,
+            "hits": 10,
+            "parts": []
+          },
+          "truth_best": 5.357636704700846,
+          "detected": true
+        },
+        {
+          "truth": "row-r0c0-mod29",
+          "top": {
+            "route": "row-r0c0-mod29",
+            "lag": 32,
+            "z": 3.70165572995614,
+            "pairs": 145,
+            "hits": 13,
+            "parts": []
+          },
+          "truth_best": 3.70165572995614,
+          "detected": false
+        },
+        {
+          "truth": "row-r0c0-reject232",
+          "top": {
+            "route": "row-r0c0-reject232",
+            "lag": 8,
+            "z": 5.1931211172128915,
+            "pairs": 103,
+            "hits": 12,
+            "parts": []
+          },
+          "truth_best": 5.1931211172128915,
+          "detected": true
+        },
+        {
+          "truth": "row-r0c1-mod29",
+          "top": {
+            "route": "row-r0c1-mod29",
+            "lag": 1,
+            "z": 4.489719574103816,
+            "pairs": 141,
+            "hits": 16,
+            "parts": []
+          },
+          "truth_best": 4.489719574103816,
+          "detected": true
+        },
+        {
+          "truth": "row-r0c1-reject232",
+          "top": {
+            "route": "row-r0c1-reject232",
+            "lag": 32,
+            "z": 4.442866870778465,
+            "pairs": 100,
+            "hits": 12,
+            "parts": []
+          },
+          "truth_best": 4.442866870778465,
+          "detected": true
+        }
+      ]
+    },
+    {
+      "bias": 0.6,
+      "detected": 20,
+      "trials": 20,
+      "samples": [
+        {
+          "truth": "row-r0c0-mod29",
+          "top": {
+            "route": "row-r0c0-mod29",
+            "lag": 8,
+            "z": 22.548824051657867,
+            "pairs": 209,
+            "hits": 81,
+            "parts": []
+          },
+          "truth_best": 22.548824051657867,
+          "detected": true
+        },
+        {
+          "truth": "row-r0c0-reject232",
+          "top": {
+            "route": "row-r0c0-reject232",
+            "lag": 1,
+            "z": 18.64973149439189,
+            "pairs": 135,
+            "hits": 53,
+            "parts": []
+          },
+          "truth_best": 18.64973149439189,
+          "detected": true
+        },
+        {
+          "truth": "row-r0c1-mod29",
+          "top": {
+            "route": "row-r0c1-mod29",
+            "lag": 8,
+            "z": 23.156974401192635,
+            "pairs": 206,
+            "hits": 78,
+            "parts": []
+          },
+          "truth_best": 23.156974401192635,
+          "detected": true
+        },
+        {
+          "truth": "row-r0c1-reject232",
+          "top": {
+            "route": "row-r0c1-reject232",
+            "lag": 8,
+            "z": 19.68720963972197,
+            "pairs": 154,
+            "hits": 58,
+            "parts": []
+          },
+          "truth_best": 19.68720963972197,
+          "detected": true
+        },
+        {
+          "truth": "row-r1c0-mod29",
+          "top": {
+            "route": "row-r1c0-mod29",
+            "lag": 1,
+            "z": 22.67303788408828,
+            "pairs": 160,
+            "hits": 63,
+            "parts": []
+          },
+          "truth_best": 22.67303788408828,
+          "detected": true
+        },
+        {
+          "truth": "row-r1c0-reject232",
+          "top": {
+            "route": "row-r1c0-reject232",
+            "lag": 8,
+            "z": 19.643750320776483,
+            "pairs": 96,
+            "hits": 39,
+            "parts": []
+          },
+          "truth_best": 19.643750320776483,
+          "detected": true
+        },
+        {
+          "truth": "row-r1c1-mod29",
+          "top": {
+            "route": "row-r1c1-mod29",
+            "lag": 1,
+            "z": 22.532984709824536,
+            "pairs": 203,
+            "hits": 73,
+            "parts": []
+          },
+          "truth_best": 22.532984709824536,
+          "detected": true
+        },
+        {
+          "truth": "row-r1c1-reject232",
+          "top": {
+            "route": "row-r1c1-reject232",
+            "lag": 1,
+            "z": 22.142459467336984,
+            "pairs": 165,
+            "hits": 64,
+            "parts": []
+          },
+          "truth_best": 22.142459467336984,
+          "detected": true
+        },
+        {
+          "truth": "column-r0c0-mod29",
+          "top": {
+            "route": "column-r0c0-mod29",
+            "lag": 1,
+            "z": 21.06070619965723,
+            "pairs": 168,
+            "hits": 57,
+            "parts": []
+          },
+          "truth_best": 21.06070619965723,
+          "detected": true
+        },
+        {
+          "truth": "column-r0c0-reject232",
+          "top": {
+            "route": "column-r0c0-reject232",
+            "lag": 8,
+            "z": 22.66017703467562,
+            "pairs": 86,
+            "hits": 40,
+            "parts": []
+          },
+          "truth_best": 22.66017703467562,
+          "detected": true
+        },
+        {
+          "truth": "column-r0c1-mod29",
+          "top": {
+            "route": "column-r0c1-mod29",
+            "lag": 1,
+            "z": 23.81499647234929,
+            "pairs": 191,
+            "hits": 74,
+            "parts": []
+          },
+          "truth_best": 23.81499647234929,
+          "detected": true
+        },
+        {
+          "truth": "column-r0c1-reject232",
+          "top": {
+            "route": "column-r0c1-reject232",
+            "lag": 8,
+            "z": 20.07233221552755,
+            "pairs": 99,
+            "hits": 43,
+            "parts": []
+          },
+          "truth_best": 20.07233221552755,
+          "detected": true
+        },
+        {
+          "truth": "column-r1c0-mod29",
+          "top": {
+            "route": "column-r1c0-mod29",
+            "lag": 1,
+            "z": 21.354672590270166,
+            "pairs": 158,
+            "hits": 57,
+            "parts": []
+          },
+          "truth_best": 21.354672590270166,
+          "detected": true
+        },
+        {
+          "truth": "column-r1c0-reject232",
+          "top": {
+            "route": "column-r1c0-reject232",
+            "lag": 8,
+            "z": 20.61072281513876,
+            "pairs": 106,
+            "hits": 44,
+            "parts": []
+          },
+          "truth_best": 20.61072281513876,
+          "detected": true
+        },
+        {
+          "truth": "column-r1c1-mod29",
+          "top": {
+            "route": "column-r1c1-mod29",
+            "lag": 1,
+            "z": 21.27573895399354,
+            "pairs": 184,
+            "hits": 65,
+            "parts": []
+          },
+          "truth_best": 21.27573895399354,
+          "detected": true
+        },
+        {
+          "truth": "column-r1c1-reject232",
+          "top": {
+            "route": "column-r1c1-reject232",
+            "lag": 1,
+            "z": 19.765438514768658,
+            "pairs": 114,
+            "hits": 43,
+            "parts": []
+          },
+          "truth_best": 19.765438514768658,
+          "detected": true
+        },
+        {
+          "truth": "row-r0c0-mod29",
+          "top": {
+            "route": "row-r0c0-mod29",
+            "lag": 8,
+            "z": 24.803288429964745,
+            "pairs": 209,
+            "hits": 83,
+            "parts": []
+          },
+          "truth_best": 24.803288429964745,
+          "detected": true
+        },
+        {
+          "truth": "row-r0c0-reject232",
+          "top": {
+            "route": "row-r0c0-reject232",
+            "lag": 1,
+            "z": 18.02000979142991,
+            "pairs": 135,
+            "hits": 46,
+            "parts": []
+          },
+          "truth_best": 18.02000979142991,
+          "detected": true
+        },
+        {
+          "truth": "row-r0c1-mod29",
+          "top": {
+            "route": "row-r0c1-mod29",
+            "lag": 8,
+            "z": 22.940529068299792,
+            "pairs": 206,
+            "hits": 79,
+            "parts": []
+          },
+          "truth_best": 22.940529068299792,
+          "detected": true
+        },
+        {
+          "truth": "row-r0c1-reject232",
+          "top": {
+            "route": "row-r0c1-reject232",
+            "lag": 1,
+            "z": 18.52319242719452,
+            "pairs": 137,
+            "hits": 49,
+            "parts": []
+          },
+          "truth_best": 18.52319242719452,
+          "detected": true
+        }
+      ]
+    }
+  ],
+  "seconds": 3.155670291000206,
+  "null_seed": 9200501,
+  "limits": "Fixed natural-start additive finite keys; no literal-F path search; equal-key collision statistic only; no English ranking."
+}
