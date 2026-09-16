@@ -13,6 +13,20 @@ This instruction supersedes older assignment-level commands to stop after a name
 
 Success means a reproducible, defensible advance on the puzzle. Work must remain honest when nothing useful is found. Do not invent a discovery to satisfy the mission.
 
+## Required strategic change: challenge the problem model
+
+Read `RESEARCH-STRATEGY.md` at the start of each research turn. This is part of the research contract, not optional background. Its strategic version is `outside-box-v1`.
+
+No current search method is established as the best route. The fact that it is implemented, tested on a few known cases, or inherited from a large repository does not establish that the remaining puzzle uses its model.
+
+Do not let the mission become only a longer password search inside the existing decoder. Keep changing keys and offsets as one lane, not the whole programme. Actively test whether our representation, output target, cipher family, page relationships, or omitted input channels are wrong.
+
+Initial worker split: one worker extends a justified existing method; two workers test materially different explanations. Aim to devote at least half of substantive research effort to alternative-model experiments until there is independently checked evidence favouring a specific model. This is a scheduling heuristic, not a probability claim or a permanent quota. A candidate that predicts unused material can justify focused work; a high tuned score alone cannot. Keep some challenge capacity even during focused follow-up.
+
+At least one alternative lane must not depend on the existing English quadgram scorer. At least one must not assume additive mod-29 decoding with a candidate keystream. State any shared assumptions: three agents using the same decoder are not three different research directions.
+
+Each cycle must turn at least one new explanation into an executable test or a specific source-level observation. Do not stop at a brainstorm. Describe which current assumption it challenges, its observable prediction, the evidence that would count against it, and the smallest useful test. Do not demand a prior signed clue for every new mechanism; a simple, falsifiable explanation of an observed feature can justify a bounded test.
+
 ## Two execution modes
 
 DIRECT MODE: continue working within the active session until the deadline, an explicit owner stop, or a genuine global execution block. Use native goal/continuation controls only when actually available. A final summary is not a mechanism for keeping a turn active.
@@ -24,6 +38,7 @@ In either mode, context loss or a turn boundary requires checkpoint recovery, no
 ## Start from the actual current state
 
 Read these first, then read only the lane code and evidence needed for your next action:
+- `RESEARCH-STRATEGY.md`
 - `audit/reports/OVERNIGHT-01.md`
 - `exploration/overnight-01/REPORT.md`
 - `exploration/overnight-01/RESUME.md`
@@ -40,11 +55,11 @@ Initial genuine gaps identified by the last report:
 3. R04's short-period fitting used limited deterministic starts and a declared scoring surrogate. It did not establish recovery under all interrupted or multilingual models.
 4. R06 tested a few layout routes with limited control coverage and did not cross them with the full clue-key/F set.
 
-These are starting questions, not a terminal list or claims that they contain the solution.
+These are starting questions for the existing-method lane, not a terminal list or claims that they contain the solution. Do not occupy all workers filling these gaps before testing an alternative explanation.
 
 ## Organisation
 
-Use one coordinator and up to three simultaneous native workers, within the actual runtime limit. Do not pretend sub-agents exist. No nested agent trees and no second coordinator. Keep one researcher testing concrete possibilities, one improving or challenging a useful method, and one investigating distinct structure or clues. Reassign idle workers immediately.
+Use one coordinator and up to three simultaneous native workers, within the actual runtime limit. Do not pretend sub-agents exist. No nested agent trees and no second coordinator. Initially assign one existing-method worker and two alternative-model workers as specified above. Rotate roles when a useful result or a failed line of reasoning changes priorities. Reassign idle workers immediately.
 
 Give workers separate directories under `exploration/persistent-01/`. Only the coordinator edits shared state and performs Git writes. Reuse a freed worker slot for fresh review of a serious candidate. Reviews run alongside other research; they are not mandatory global barriers after every batch.
 
@@ -55,37 +70,32 @@ Use at most three CPU-heavy local jobs initially, with one numerical-library thr
 Repeat until the real stop condition:
 
 1. CHECK: read the clock, current experiment state, active worker/process state, and new evidence.
-2. SELECT: choose work expected to change a research decision, not merely increase a counter.
-3. SPECIFY: write a short experiment card before execution.
+2. SELECT: choose work expected to change a research decision, not merely increase a counter. Check whether the active lanes share the same untested assumptions.
+3. SPECIFY: write a short experiment card before execution, including the challenged assumption and distinguishing prediction.
 4. IMPLEMENT: reuse checked arithmetic; write only missing method-specific code.
 5. TEST: run appropriate small controls to catch implementation errors. Measure imperfect ranking rather than pretending it is exact.
-6. SEARCH: execute on the authorised real discovery input.
+6. SEARCH: execute on the authorised real discovery input, or make the specific real-input observation required by the hypothesis.
 7. COMPARE: inspect full outputs, alternatives, matched controls, continuation behaviour, and sensitivity to parameters.
 8. LEARN: explain what changed, what did not, and the next useful discriminating test.
 9. REPLENISH: add follow-on work before the ready queue becomes empty. Then execute it.
 
-Keep at least twice as many concrete ready jobs as available worker slots whenever practical. Queue entries need input, method, exact change from prior work, first command or implementation step, expected cost, and a result that would change the next decision.
+Keep at least twice as many concrete ready jobs as available worker slots whenever practical. Queue entries need input, method, exact change from prior work, first command or implementation step, expected cost, and a result that would change the next decision. Include alternatives to the current problem model, not only parameter extensions.
 
 An empty queue triggers hypothesis generation and implementation. It is not a stopping condition. A fresh reviewer, when requested, evaluates evidence; it does not veto all further work just because one method has limits.
 
 ## First work, then evolve from evidence
 
-Start independent F-only clue-key coverage and the uncovered finite block-key/F offsets. Pilot their actual costs before selecting the first tranche. A rigid-score shortlist must not control admission to an F-only search. Preserve the complete current discovery/holdout split.
+Assign ONE worker either independent F-only clue-key coverage or uncovered finite block-key/F offsets. Pilot its actual cost before selecting the first tranche. A rigid-score shortlist must not control admission to an F-only search. Preserve the current discovery/holdout split.
 
-Have the remaining researcher build a different useful capability. Priorities include a delimiter-aware rune language model checked on held-out solved/reference material; efficient search of exact F transitions; or periodic-key fitting that handles interruption choices. Pick based on the code and current bottleneck, not on a fixed preference in this document.
+Assign the second worker a representation or mechanism challenge from `RESEARCH-STRATEGY.md`, or an equally specific new proposal. Start with actual source material or measured structure, then test a prediction.
 
-After each initial tranche, choose among:
-- Extend a method's actually uncovered parameters when controls support it.
-- Improve a method that fails planted recovery and then test its repaired scope on real text.
-- Combine two individually tested methods when the composition has a concrete rationale.
-- Test section/reset structure using documented physical boundaries, not arbitrary grouping selected for a good score.
-- Use a source-grounded clue to construct a genuinely new key or transform.
-- Build a small counterexample or matched synthetic test that distinguishes competing explanations.
-- Independently inspect source regions implicated by a promising result, without choosing glyphs to improve its score.
+Assign the third worker a distinct output-target, cross-page, clue-interpretation, or inverse-construction hypothesis. It must not simply build a faster scorer for the same search while being labelled an alternative model. Useful tool development is allowed when it serves that worker's concrete experiment during this window.
+
+At the end of the first cycle, compare what the three tasks taught us. Reassign based on evidence, uncertainty reduced, and feasible next tests. Do not convert this initial assignment into another finite checklist.
 
 Do not expand only by multiplying arbitrary constants. Explain why an expansion can resolve uncertainty. After two unrewarding expansions in one family, change a material assumption or shift resources to another family. Revisit it later only with new evidence or capability.
 
-Maintain diversity. At least one active lane should avoid depending on the existing English quadgram ranking. Alternative views are not automatically independent evidence; record shared training sources. Non-language structure can matter, but binary-looking output is not a discovery without a justified validity check.
+Maintain diversity. Alternative language views are not automatically independent evidence; record shared training sources. Non-language structure can matter, but binary-looking output is not a discovery without a justified validity check.
 
 ## Discovery standards, not a universal perfection gate
 
@@ -104,7 +114,7 @@ For representative controls, compare truth survival, rank, recovery, and actual 
 
 Adaptive experiments are allowed. Label them exploratory, record the additional selection, and do not claim their final selected score has an untouched-test p-value. Count actual evaluated candidates, restarts, paths, and data examined. Counts are not proof of significance or progress.
 
-Reserve originals 4, 9, 14, 19, 24, 29, 34, 39, 44, and 54 unless the existing config documents a different already-authorised split. Do not open them merely because there is spare time. Freeze a candidate rule before validation and reveal only the required material. Each reveal is recorded and is not later reused as untouched confirmation. A local page-specific solution can be investigated without claiming cross-page uniformity.
+Reserve originals 4, 9, 14, 19, 24, 29, 34, 39, 44, and 54 unless the existing config documents a different already-authorised split. Do not open them merely because there is spare time. Freeze a candidate rule before validation and reveal only the required material. Each reveal is recorded and is not later reused as untouched confirmation. A local page-specific solution can be investigated without claiming cross-page uniformity. Examining reserved-page images, layout, or non-rune text for a new theory is also a reveal; creativity does not exempt it from the record.
 
 ## Productive persistence
 
@@ -112,7 +122,7 @@ Do not spend the session waiting for the deadline. Do not add sleeps, repeat com
 
 Do not count planning documents, commits, reviews of known noise, or larger execution counts as scientific advances. Each completed batch needs new measured evidence, a tested method improvement, a source-backed observation, or a resolved ambiguity.
 
-If two batches produce no material new evidence, the coordinator must diagnose the research loop. Assign a fresh worker to design a different discriminating experiment while another implements a concrete uncovered case. This is a change of approach, not permission to idle or terminate.
+If two batches produce no material new evidence, the coordinator must diagnose the research loop. Assign a fresh worker to design and execute a different discriminating experiment while another implements a concrete uncovered case. This is a change of approach, not permission to idle or terminate.
 
 Use cached inputs and intermediate results. Keep routine audit/report work small. Do not create a new generic agent platform, dashboard, or large testing framework. Tools must have a concrete experiment that will use them during this window.
 
@@ -127,12 +137,12 @@ A promising candidate starts a verification task; it does not end the mission. A
 ## State and checkpoints
 
 Use these lightweight files:
-- `exploration/persistent-01/STATE.md`: last substantive result, current tasks, blockers, exact next steps, worker/PID state, and clock/deadline.
+- `exploration/persistent-01/STATE.md`: last substantive result, current tasks, blockers, exact next steps, worker/PID state, clock/deadline, and loaded strategy version.
 - `exploration/persistent-01/QUEUE.json`: ready/running/completed/deferred jobs, with completion not equivalent to mission completion.
 - `exploration/persistent-01/experiments.jsonl`: append-only experiment cards and result references.
 - Per-run directories for commands, versions, seeds, candidate outputs, and measured scope.
 
-Each experiment card contains: hypothesis; rationale; novelty versus prior work; input hashes; model/scorer; parameter bounds; controls; actual counts; outcome; limits; next decision. A brief card is enough.
+Each experiment card contains: hypothesis; rationale; challenged assumption; distinguishing prediction; novelty versus prior work; input hashes; model/scorer; parameter bounds; controls; actual counts; outcome; limits; next decision. A brief card is enough.
 
 Checkpoint after meaningful batches and before a context/turn boundary. Leave at least two executable next actions. Record active processes and ensure they are supervised. Do not orphan calculations or spawn detached Codex sessions. A new coordinator must check for existing workers before starting replacements.
 
