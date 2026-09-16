@@ -1,0 +1,37 @@
+{
+  "pages": 43,
+  "paired_searches": 86,
+  "cells": 68800,
+  "real_cells": 34400,
+  "null_cells": 34400,
+  "path_expansions": 45284672,
+  "retention_path_expansions": 16935614,
+  "retained_top16_paths": 24760,
+  "seconds": 44.717277456988086,
+  "best_real": {
+    "name": "real-49",
+    "page": 49,
+    "kind": "real",
+    "score": -4.171239297300683,
+    "key_id": "0_wisdom:raw:row:6:1",
+    "model": "ordinary",
+    "cells": 800,
+    "seconds": 0.0835800829991058,
+    "path_expansions": 65992,
+    "retention_path_expansions": 3315,
+    "top16_retained_paths": 68
+  },
+  "best_null": {
+    "name": "null-49",
+    "page": 49,
+    "kind": "null",
+    "score": -4.019062617602914,
+    "key_id": "jpg229:phi:column:9:-1",
+    "model": "ordinary",
+    "cells": 800,
+    "seconds": 0.07193395899957977,
+    "path_expansions": 51584,
+    "retention_path_expansions": 1946,
+    "top16_retained_paths": 56
+  }
+}

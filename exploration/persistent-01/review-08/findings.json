@@ -1,0 +1,97 @@
+{
+  "sources": [
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_warning.txt",
+      "sha256": "c6ca9c1952307bd55866e22b9f868163bca493893162baefdba71cb9e1a206d9"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_wisdom.txt",
+      "sha256": "4363dc279d01ac8866011988d0422a31bf608940abccaa37368c689099f52efe"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_koan_1.txt",
+      "sha256": "5aaae7ee19dfb46a41d5e10f975b5a252b82b6e18b49116a9f99b31a2fbee06c"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_loss_of_divinity.txt",
+      "sha256": "10954c8d61744ceb453e9b553e52cd3e01289d12b727c521e21bc0594f0e0c91"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_jpg229.txt",
+      "sha256": "67635c556f84b1fe8319f0300d4378d8f1dc664d779c1f0f69c4cb272c87c181"
+    }
+  ],
+  "lm_table_sha256": "656007c3f85bde77efa2418e4dfb27f8ea1d7f2a84a4ea4a2990f439aa754eef",
+  "tiny_cases": 1296,
+  "literal_masks_enumerated": 3072,
+  "all_period1_2_scanner_keys": 870,
+  "fullused_DP_records": [
+    "control-0_welcome-p1",
+    "control-0_welcome-p2",
+    "control-0_welcome-p3",
+    "control-jpg107-167-p1",
+    "control-jpg107-167-p2",
+    "control-jpg107-167-p3",
+    "control-p56_an_end-p1",
+    "control-p56_an_end-p2",
+    "control-p56_an_end-p3",
+    "control-p57_parable-p1",
+    "control-p57_parable-p2",
+    "control-p57_parable-p3",
+    "real-0",
+    "real-17"
+  ],
+  "p56_witness": {
+    "truth_key": [
+      27,
+      20,
+      28
+    ],
+    "heuristic_key": [
+      20,
+      28,
+      27
+    ],
+    "truth_score": -2.3011426937815616,
+    "heuristic_exact_score": -2.495426094180916,
+    "optimization_gap": 0.19428340039935454,
+    "brute_masks_each": 2,
+    "period3_scores_replayed": 24389
+  },
+  "incorrect_prefix_winners": [
+    {
+      "name": "0_welcome-p1",
+      "errors": 3,
+      "true_score": -2.257292381442166,
+      "winner_score": -2.2470628376547643
+    },
+    {
+      "name": "p56_an_end-p1",
+      "errors": 1,
+      "true_score": -2.3011426937815616,
+      "winner_score": -2.2563981223924916
+    },
+    {
+      "name": "p57_parable-p1",
+      "errors": 1,
+      "true_score": -2.6340413533175964,
+      "winner_score": -2.606624738228332
+    }
+  ],
+  "retained_primary_searches": 440,
+  "periodic_streams": 25201,
+  "nominal_keys": 25259,
+  "suffix_mutation_isolation": true,
+  "real_tails": [
+    {
+      "page": 0,
+      "p": 0.57
+    },
+    {
+      "page": 17,
+      "p": 0.49
+    }
+  ],
+  "controls_all_tail005": true,
+  "binary_local_only": true
+}

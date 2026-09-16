@@ -1,0 +1,31 @@
+# M22 — exact short-key recovery improves one control; discovery pilot misses
+
+Exact search recovered all12 planted keys across four complete held solved groups × periods1/2/3. The inherited P08 heuristic (beam32, two starts, three sweeps, all29 coordinate values) recovered11/12. On p56 period3, its selected key's objective was0.1942834 nats/token below the exact global maximum. Its beam error at that key was below numerical precision: this miss was key optimization, not beam pruning. Exact search recovered the planted key and every rune in that control.
+
+Discovery originals0/17 produced no predictive candidate. Frozen-prefix keys were [5,22,11] and [1,24,9]; conditional suffix decode scores were −4.82160476 and −4.72464757, empirical fullprocedure permutation tails0.57 and0.49 (99 nulls each). These are previously examined discovery pages. No global untouched evidence claim is made.
+
+## Actual coverage and what changed
+
+R04/P06 and queueP14/C14 use local coordinate fitting under rigid timing; P08 introduced unknown periodic literalF with finite beam/local starts and periods1/3/8. P09 was exact only after fixing the key. M22 exhaustively searched **29+841+24,389=25,259 nominal keys** under exact fixed-key maximum-path scoring for periods1–3. This represents **25,201 distinct infinite periodic keystreams**: the29 constant keys appear in each period. No separate offsets/rotations were searched; key sequences already encode all origins. Period2 was absent from P08.
+
+A C scalar kernel merges only states with identical consumed-key phase and lasttwo rune/boundary LM tokens. All their future transitions/scores coincide; retaining the highest cumulative score is exact for this fixed-key objective. It maximizes the same frozen P03 interpolated rune/boundary LM, without Latin quadgram filtering. Exact maximum does not imply correct plaintext. One hundred randomized short cases agreed with both independent PythonP09 Viterbi and exhaustive enumeration of every literalF mask.
+
+The first floor(N/2) runes select the key across allthree periods and a single exact best prefix path. That path's consumed-key phase and LM context are frozen. Suffix Viterbi may select suffix literalF decisions but cannot reselect prefix path/key/boundary. The reported quantity is therefore a **conditional maximum suffix decode score**, not a marginal predictive probability. The fullprocedure null repeats all key, phase/path, period and suffix decisions. Replacing every suffix rune left all exhaustive prefix score arrays, chosen key, training paths and boundary state unchanged.
+
+## Controls separate arithmetic, path ranking and key recovery
+
+Four whole sources welcome(515), jpg107-167(319), p56(85), p57(95) are excluded from the five frozen LM training sources. Their related English register remains shared with the model. Each has three deterministic planted periodic keys; genuine plaintextF is passed literally when position mod3≠1, consuming no key. Re-encryption is exact for every fixture and selected decoded output.
+
+All12 true keys rank first within their period and win the overall period search. All12 suffixes are exact. Three period1 controls have3/1/1 prefix-rune errors despite correct keys: the score prefers another mathematically valid literalF path. In all12 controls the true prefix path survives inherited beam32; the incorrect path winners are scorer ranking errors, not lack of arithmetic representability or search pruning. Thus9/12 full outputs are exact while12/12 keys and suffixes are exact. This is a measured English-register control panel, not universal language/construction power.
+
+Each control beats all19 fullprocedure nulls, empirical tail0.05 (minimum attainable with20 denominator). This establishes measured separation at that resolution; it does not establish p<0.01 for controls. Nulls preserve ciphertextF positions, boundaries and the exact nonzero histogram while shuffling nonzero positions. They do not preserve repeat counts, word-specific frequencies or higher-order structure. Claims are conditional on this permutation comparison.
+
+## Counts, artifacts and bounds
+
+Primary batch:440 complete exhaustive searches (12controls+228 controlnulls+2real+198 realnulls),11,113,960 nominal key evaluations /11,088,440 distinct-stream evaluations. Separate pilot and suffix-isolation check each add one exhaustive search. Inherited heuristic controls add2,692 beamobjective calls /4,527,807 path expansions. Primary batch completed26.579s at one CPU thread; pilot0.650s including100 arithmetic controls, evidence check0.203s. Exact-state path expansion totals were not instrumented and are not claimed.
+
+All per-key score arrays are retained under scores/ (each keycode is its base29 lexicographic index); outputs/ contains every null/real/control key, input, prefix/suffix alternatives and frozen boundary. Alternatives are best paths per distinct endpoint, **not global top16 paths**. controls.json, real.json, summary.json, check-result.json and arithmetic-checks.json preserve fixtures, control diagnoses, tails/counts and sources; decision.json froze null sizes after cost measurement. Rune IoC×N, minimum distinct32rune window and zlib size accompany every fullsearch output. No non-English LM was used. Source maps for real0/17 are in real.json. RNG seed330823 and final state are saved; every realized null cipher is also retained. runs/ contains commands, source snapshots/hashes, timings and exit codes. The compiled binary is local/rebuildable from exact.c via build.py.
+
+Bounds: unknown periods1–3 only; decoder's transition is ordinary additive mod29 with optional literal ciphertextF consuming zero keys; scorer sees the frozen English rune/boundary register. No anti-repeat rejection loop, arbitrary interruption, non-English register, longer key, other origin policy or page-varying clock coverage. No reserved pages or inherited outputs modified.
+
+Decision: one capability gap was demonstrated and removed at these periods, without a discovery hit. Checkpoint; do not automatically extend periods or pages. A fresh review can check the state-merging proof, scalar kernel and saved p56 period3 optimization witness. Reopen search only under an explicitly different justified question.

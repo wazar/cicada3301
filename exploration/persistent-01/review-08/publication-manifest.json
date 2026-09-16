@@ -1,0 +1,85 @@
+{
+  "scope": "Complete evidence except locally rebuilt compiled library; exact code, score arrays, outputs and compiler record included. Local path redactions explicitly mapped centrally.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/review-08/CARD.md",
+      "bytes": 852,
+      "sha256": "3cc86b501f0515f3e994d85c8fc1a1d5e1d14ddb29d18d0e960ec0451851da3c"
+    },
+    {
+      "path": "exploration/persistent-01/review-08/REPORT.md",
+      "bytes": 5666,
+      "sha256": "6f28a46ede8b303c112db8deeb0d96ad16672c8b8e11a39fe037d91fc6c7d2ef"
+    },
+    {
+      "path": "exploration/persistent-01/review-08/check.py",
+      "bytes": 9353,
+      "sha256": "0141e20b780dae2239337bc96422df5541734c5fa26fb57f56b27c4e82126fdd"
+    },
+    {
+      "path": "exploration/persistent-01/review-08/compiler.json",
+      "bytes": 568,
+      "sha256": "f3ce6dc9af66ed73ceb5df58d33b6a7344703f5320277c0070d3d0c125895546"
+    },
+    {
+      "path": "exploration/persistent-01/review-08/exact.c",
+      "bytes": 1438,
+      "sha256": "3b30e70c4cf7add971876bc24f202abc28aee6b55a67102acaab38cdccf00ddf"
+    },
+    {
+      "path": "exploration/persistent-01/review-08/findings.json",
+      "bytes": 2578,
+      "sha256": "995b20c01db97859579200c9ee22188516d7cdbe376600e11964473c244a4b24"
+    },
+    {
+      "path": "exploration/persistent-01/review-08/independent-lm-table.npy",
+      "bytes": 216128,
+      "sha256": "656007c3f85bde77efa2418e4dfb27f8ea1d7f2a84a4ea4a2990f439aa754eef"
+    },
+    {
+      "path": "exploration/persistent-01/review-08/runs/20260916T214956.143322Z-M22-independent-kernel/code/exploration/persistent-01/review-08/check.py",
+      "bytes": 9353,
+      "sha256": "0141e20b780dae2239337bc96422df5541734c5fa26fb57f56b27c4e82126fdd"
+    },
+    {
+      "path": "exploration/persistent-01/review-08/runs/20260916T214956.143322Z-M22-independent-kernel/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-08/runs/20260916T214956.143322Z-M22-independent-kernel/code/exploration/persistent-01/worker-c/p03_frozen.py",
+      "bytes": 6350,
+      "sha256": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05"
+    },
+    {
+      "path": "exploration/persistent-01/review-08/runs/20260916T214956.143322Z-M22-independent-kernel/code/exploration/persistent-01/worker-c/p09_viterbi.py",
+      "bytes": 4138,
+      "sha256": "f30a31fe4e267744f9fa46e2c6704b5061ed3313570bef6897f0f0fafb61e284"
+    },
+    {
+      "path": "exploration/persistent-01/review-08/runs/20260916T214956.143322Z-M22-independent-kernel/code/exploration/persistent-01/worker-m/M22/m22.py",
+      "bytes": 8297,
+      "sha256": "b8c1f7e56fcfb97034daf5666fc001b22b19af14cba545a0e051107d6b47ab69"
+    },
+    {
+      "path": "exploration/persistent-01/review-08/runs/20260916T214956.143322Z-M22-independent-kernel/command.json",
+      "bytes": 1961,
+      "sha256": "68b3fb4938100ba218ef46268c21751d5c65674f87ca8216996b369cb7581eed"
+    },
+    {
+      "path": "exploration/persistent-01/review-08/runs/20260916T214956.143322Z-M22-independent-kernel/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-08/runs/20260916T214956.143322Z-M22-independent-kernel/stdout.txt",
+      "bytes": 2139,
+      "sha256": "5302fa37043cbd1b99d2d3aa55ec33f82e33e83f4b62ca7af8e78d6a785889f2"
+    },
+    {
+      "path": "exploration/persistent-01/review-08/tiny-cases.json",
+      "bytes": 155622,
+      "sha256": "0596d340a7fc981bbacc68afa6164bbaa816b7f3a3f69cbb0567165f8e4f4631"
+    }
+  ]
+}

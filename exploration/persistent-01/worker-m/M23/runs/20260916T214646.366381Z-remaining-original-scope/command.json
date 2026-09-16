@@ -1,0 +1,71 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-m/M23/m23.py",
+    "full"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "a899c38fe777f66fc2e1995aa0fbfa935bf59d58",
+  "started_utc": "2026-09-16T21:46:46.377008+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/frozen_kbest.py",
+      "exists": true,
+      "bytes": 1440,
+      "sha256": "bdd54bf0fdbd07f9115e9354ae7ef3e913b554a5d2f6a5587f4ae21c328f5390"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p03_frozen.py",
+      "exists": true,
+      "bytes": 6350,
+      "sha256": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05"
+    },
+    {
+      "path": "exploration/persistent-01/worker-d/matrix.py",
+      "exists": true,
+      "bytes": 5353,
+      "sha256": "4b0a33735cbfee228cf369ee8ed2dbc7a9880089b616f23e8c20213522c7dac2"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cost-decision.json",
+      "exists": true,
+      "bytes": 134,
+      "sha256": "63d5be1ef31b43c099c639f3c6bd4502ced4f0cc939678baba442a3156ff9322"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/m23.py",
+      "exists": true,
+      "bytes": 5879,
+      "sha256": "d5330f866c06b0b53a460b198ce2e27d54b6b7034cb19aef08d5e328337a2ab9"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 56633,
+  "finished_utc": "2026-09-16T21:47:57.018215+00:00",
+  "duration_seconds": 70.64080087500042
+}

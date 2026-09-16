@@ -1,0 +1,3 @@
+M23 complete. Original remaining43pairs done; worker-d pilot0/1 preserved unchanged, yielding original45-page scope completion. No running process or incomplete cursor.
+Review: inspect result.json/check-result.json and percell evidence; independently compare sourceconstruction to worker-d/pilot/construction.json and replay any chosen real/null cell. Existing scalar replay already covers all68,800cells. No automatic scope extension.
+If a newly justified fix requires resume, m23.py full skips existing perpage gzip files; it does not repeat old0/1. To reproduce from scratch use a distinct authorized evidence directory rather than deleting original output. Coordinator selects next source-backed question after review.

@@ -1,0 +1,354 @@
+{
+  "scope": "Exact inverse encryption and key-consumption consistency for every retained full output. No search rerun or semantic/scorer independence claim.",
+  "counts": {
+    "cells": 68800,
+    "alternatives": 24760,
+    "rune_visits": 21794872
+  },
+  "files": [
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-10.json.gz",
+      "sha256": "c6c49f35c5e30e83278c9344dc402f64f432b869047f2f6f52010a7fb2b074a4"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-11.json.gz",
+      "sha256": "edb64ace02d0d27ab13db9ffe0b56256d774fd8f26a62eb894007b0f724a4d19"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-12.json.gz",
+      "sha256": "8b1a759e1051e19b80c78b6e7437d6dd70c2bcea5fe520dbdf2e5126c2c7331d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-13.json.gz",
+      "sha256": "2694a8386a5bf63d8ed34ace46c6135708df90c7c92f0976b9e1e9f18bf2c93d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-15.json.gz",
+      "sha256": "aa28d60dc45a1a0b281dbc0c0430c078f66490985ae2ef8a9a96616fc5da58bb"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-16.json.gz",
+      "sha256": "8f8f615af8bd5ef66af52539440e8e2fe8a6e9ba1cfdcb6b7c9ea1307e42257a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-17.json.gz",
+      "sha256": "0f9c5aa07eb2a2dc41a87de9265402070bd627314b14907208ba77669534e8df"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-18.json.gz",
+      "sha256": "5be963968845e0474ca544bbbe83fd7449244e0aeda53c178ba7fe023bc8fcbe"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-2.json.gz",
+      "sha256": "1c71455345c188d379177c63524010213ea5f4868ba2b4b77a35dde371ea2a2b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-20.json.gz",
+      "sha256": "c592dedec50a254c9e6b2f9bcff45f70b88e11d8fee6056e07536b3b3760e993"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-21.json.gz",
+      "sha256": "96fd2f67e424aa397d9734636a9e31560af75687342a2fd66851ca6be0ab2ed0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-22.json.gz",
+      "sha256": "4866505e10cc82dbe559c759e154390af4a918e01e1a1f43236eef04677de1fa"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-23.json.gz",
+      "sha256": "8cddaf17947c46f2e37425babe0e747fad81fcb4816301594c4de1014182dea8"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-25.json.gz",
+      "sha256": "c2853672cd6e7102367c0850418486080e62e3803c7759afdd9cfe56d69c2ab3"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-26.json.gz",
+      "sha256": "96bba13cb391f747b8a1259b4cec4bf22df2fc82666b66a7b607c8cb459434e6"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-27.json.gz",
+      "sha256": "cceb0c4e0327743f70655a50f127e79231ff8b9e600c5416d1d2f146e27d6ee2"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-28.json.gz",
+      "sha256": "12e9494e7d2a99351ddf58220968e562cd05b64e548cbbc72e01374bb8064322"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-3.json.gz",
+      "sha256": "369c480eecc8b4a0e868385bf2de5405d016e8e1be076ef7f443573cae0c73c8"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-30.json.gz",
+      "sha256": "b29d2828e5f0a0baeac5d6212c356194649a8be365e689fec392e1e625afd695"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-31.json.gz",
+      "sha256": "fc1a0a4ecc69c15fb3039013c45b66cbf649424fd13a6171527d15c3dad90a6f"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-32.json.gz",
+      "sha256": "a90d067b41a92a7161f284b197b11651e24aee14b6b13fc0932a7b060fee465c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-33.json.gz",
+      "sha256": "fea46bbaf6da30f109f57a5444a12ae4c1e483b944392ee810cb6c363a15ee2c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-35.json.gz",
+      "sha256": "60c0349fa3849119e783b1976fa5cf7f117e87a147980dc53cd5a0c0113a2960"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-36.json.gz",
+      "sha256": "90b265cd7b464a1115430c6dfcd965a7527692ccea5e153e55e57da2556b088d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-37.json.gz",
+      "sha256": "e86c1c500f854ac44805c896b3bab33db5cd7fe573abc16ea0e4c09410b86a8b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-38.json.gz",
+      "sha256": "50f2d186cc4dde55cc7a98c04eb551f54f10ce38d4192a045bc1f3ccead16961"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-40.json.gz",
+      "sha256": "59a09b9356058b8d17a3e73a49d6f0e0c85b6851eb30f568641c775b0f13eca1"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-41.json.gz",
+      "sha256": "87bd2f487d7a840b32717fc8df45244d4c83ae186e546629fd153b14895774bc"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-42.json.gz",
+      "sha256": "48ad5d3ea6757e75015c6e5c82a69580b0f1bcddf5439a15ed4a9bcddff89f63"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-43.json.gz",
+      "sha256": "9a93f0ee9f395ec90905f3ac73fcec467eb324d1809b9e1bdbf518d850461876"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-45.json.gz",
+      "sha256": "c9e38e801158b67e619ba27fa799ec033dbc6fc1844e9e90b1f4db699334c9fe"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-46.json.gz",
+      "sha256": "36bbece4d1d8cf64faba819b3c01335a62f940c23f669f10ac4b1f3555c91164"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-47.json.gz",
+      "sha256": "4e2f14326d060fe5a2c7b31542d740ddd674260d27643870fce734319f0a3872"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-48.json.gz",
+      "sha256": "52e3d0e7a5de32a0b3ba4bb151028aafed5aa4b1ec49440ca0ca538b934643c0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-49.json.gz",
+      "sha256": "c3af1d6aae43a965e01961822e9b5919f09a2459cb2c1a9cc8b79d485e975958"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-5.json.gz",
+      "sha256": "4400ab39fe0edf22597e3af92168d5cef8b7753169518fa1f8f58feb3c616eec"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-51.json.gz",
+      "sha256": "b575202633fcc2d194fd877ac4dc4ca151e63c796c53404de2ab5a456f95807c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-52.json.gz",
+      "sha256": "08cd8afa2a8c797d720bd15bd6811ca712ba5e4ce55dbf59da5368407538c2f2"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-53.json.gz",
+      "sha256": "2fba0731b55be40191fa8b94c3d0d5396d65b788dd058cb6213d3d1934a9994a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-55.json.gz",
+      "sha256": "b09ead26a4b3b2947bda7b9dfedd94abcfc86b92e295406c844bccda84d5a9c9"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-6.json.gz",
+      "sha256": "4716c95a0fd34361d6d562e48cdf7c207d590b54417ccac9eab6cd7d0ed57320"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-7.json.gz",
+      "sha256": "3d5eaed014bad450914b311d1a78c563045a6b5454e2241d6e914c71d190b869"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/null-8.json.gz",
+      "sha256": "5aff9a56c12e25fa4beb7622ad4f8436f8f275f993f4bd47c1250a172f0d7bb7"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-10.json.gz",
+      "sha256": "e8358efb83046071b195616931ce29f12caf545c096289376eaa86dbca4e81fd"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-11.json.gz",
+      "sha256": "6ad6969cf8f629d0ab73cba67959c77120e67322c249b4020d2734b05db99172"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-12.json.gz",
+      "sha256": "94e2dfd32d9ed6a9e33e66950710eae63b3e8b127af7726c60451516b15c0903"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-13.json.gz",
+      "sha256": "cae7b52d6d6d3cd6a87472c3b1000c91498301d7ad8bd146d9ab936eeaac110c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-15.json.gz",
+      "sha256": "0a0a2a18f57a36afdf56592e5763e00a95c36d57a1202f15c3fb67e74ac63f9c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-16.json.gz",
+      "sha256": "e774e2e932dcf12b1b88099c7e9e8eb5941d4cf5337be114b653bc82104fe8a2"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-17.json.gz",
+      "sha256": "174211ae48f6442a36241ffca48eb635e1aebba9a4873c95cc6ea0686d6d8c69"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-18.json.gz",
+      "sha256": "a888d08a208474b2125d96549cc798ddcaec5ea29550ea70cccfe0386c8faf19"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-2.json.gz",
+      "sha256": "7ea0d138b57eaa1c050dc30a3ee7a517601eb585ca6f77406190c5176598038c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-20.json.gz",
+      "sha256": "303450e3e6dbec0a1c24a41a9fd6247199e990a55b987eba252e1201d93e35c7"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-21.json.gz",
+      "sha256": "526eba6f8644b83b37570002c7c15d774722c9da3206e8e43338c0a1fe7c525e"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-22.json.gz",
+      "sha256": "965f527e73f37185f8abf9d7cf13ebacf76f840adfd74cfda12bf1767a335e38"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-23.json.gz",
+      "sha256": "821e4d9a2217bacbd78f7b0d2706e58f694694b973ae5f10c97e3df7d80f623f"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-25.json.gz",
+      "sha256": "820a5fe705d0974a84f1a8e8d16624308c19b78dac0a0fec847b841a580cb0f6"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-26.json.gz",
+      "sha256": "a0a996e77c1e486fe1a6a9e059471c7e05b85d41cd4559480f4551fa43e48e6a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-27.json.gz",
+      "sha256": "37699b2e2d37cdbd70602a4a5f774aa82e7f94a601eb1a64684ecffe7c89e9ea"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-28.json.gz",
+      "sha256": "b4bf733bc9e4e2ac4da086d99fb4a4625426905d2189e2bbe94449f97b86a459"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-3.json.gz",
+      "sha256": "127dae04880c6545c1a314a16f26f04449e5725692395e4cb7ba088571d29a2a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-30.json.gz",
+      "sha256": "aba3803242d6d6f5e5f660bb56c48d824d6650e9d7387c0d772381bb05b6e799"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-31.json.gz",
+      "sha256": "58746b164b07b5421c3b5df27ee63ba5b92c28f350db97a3e400fc722eff98c7"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-32.json.gz",
+      "sha256": "b6ef76c868ac117414940686a0cddd2055f27ac619fbced6cb4ebd19184d8488"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-33.json.gz",
+      "sha256": "1f02eefcb29fc828177ef10d6887bef2cefb9206885885531056ac6b7d61adb2"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-35.json.gz",
+      "sha256": "90566abfe15af3147cdb06659f3613b9f7f5b77b9b2d7dda3e909a28ab63516f"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-36.json.gz",
+      "sha256": "b8842cd7398a50b181fda6e9f55ba8130d2638f2a35f3641cd0adedf57a81742"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-37.json.gz",
+      "sha256": "c7e263cc9ee7d1635cbc2023b25badce80188ba1019038239759e612033db76b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-38.json.gz",
+      "sha256": "a2badedae2824f28fb542856540138be248ba5fb4622bfdd3ee8fee93a44e54e"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-40.json.gz",
+      "sha256": "fc30e67d375debfb4c7b70f355c23b9e6e763f834b5bd7a3246a7cacde5eb6f4"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-41.json.gz",
+      "sha256": "d4e5bdf04bc52460614ac03b067912f66457c266077e731e4e46c0e925b8b5fc"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-42.json.gz",
+      "sha256": "38e0fc0c3f9b0e99bafca0795b76668528b87be02fc79f973752cf18f39697c8"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-43.json.gz",
+      "sha256": "765075d5fb32935aa705ef6bd2e18fc4f5e51b13450f25d1217a154112e6ace3"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-45.json.gz",
+      "sha256": "36d8c662fc836da179a49d1d910d6507100c755d448a6a0ee7110e2f51ec3410"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-46.json.gz",
+      "sha256": "9d2ff4070a004a94c422194a6bd3ffa3f1658becca4381cc17cc026d8b7139be"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-47.json.gz",
+      "sha256": "4422f4b03ace0baf2ee9864871daf6eb14788792d07e2ee1b65578cf67d7d7d2"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-48.json.gz",
+      "sha256": "b8ba8b0da1932f991171815d66b6d2fa92552f5688edc4d88cfd63625217b805"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-49.json.gz",
+      "sha256": "a499ea75a8afbcdc18f51d1883ff21f19c279cf7ce3fe0eb816d7b8e57444cf8"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-5.json.gz",
+      "sha256": "01f4295637e488fc8b350aed363cc335d8cdc8f00f19b9050f507a743b61f69d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-51.json.gz",
+      "sha256": "6598dc48ad09cd66b90dabcc6e8cc159640e567208fd8fc1a7cc2fa5f5096449"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-52.json.gz",
+      "sha256": "05b66a8c0f4517fa8f0a878571a23813d79e3dc516b1a6782a655283a3e4b9f0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-53.json.gz",
+      "sha256": "bb8edf6d9405d64672735da76dd94479062c656a9dbde62a4ce00655bf54cece"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-55.json.gz",
+      "sha256": "a59a15015e8dd76e632f83ab1b688956821436cac079ce43aefc44dfc4e58b5f"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-6.json.gz",
+      "sha256": "4108ee7fe0ebe86dea8ec60b9f74c975b4cc2f22e58cd20936ba6394ca94666f"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-7.json.gz",
+      "sha256": "5ffae079ec62fb6fedea23c7120cf3b7edadf02f12c421da4aed575510c64afe"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M23/cells/real-8.json.gz",
+      "sha256": "9ffce2d4a3eb62b06eec9d807b55730b08037317442a423225d4662bac4e8567"
+    }
+  ]
+}

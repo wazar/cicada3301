@@ -1,0 +1,14 @@
+{
+  "command": [
+    "cc",
+    "-O3",
+    "-std=c99",
+    "-dynamiclib",
+    "<REPO_ROOT>/exploration/persistent-01/worker-m/M22/exact.c",
+    "-o",
+    "<REPO_ROOT>/exploration/persistent-01/worker-m/M22/exact.dylib"
+  ],
+  "exit_code": 0,
+  "stdout": "",
+  "stderr": ""
+}

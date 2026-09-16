@@ -1,0 +1,17 @@
+{
+  "command": [
+    "cc",
+    "-O3",
+    "-std=c99",
+    "-dynamiclib",
+    "<REPO_ROOT>/exploration/persistent-01/review-08/exact.c",
+    "-o",
+    "<REPO_ROOT>/exploration/persistent-01/review-08/exact-local.dylib"
+  ],
+  "exit_code": 0,
+  "stdout": "",
+  "stderr": "",
+  "version": "Apple clang version 21.0.0 (clang-2100.3.34.2)\nTarget: arm64-apple-darwin27.0.0\nThread model: posix\nInstalledDir: /Library/Developer/CommandLineTools/usr/bin\n",
+  "binary_local_only": true,
+  "source_sha256": "3b30e70c4cf7add971876bc24f202abc28aee6b55a67102acaab38cdccf00ddf"
+}

@@ -6,15 +6,15 @@ Start16 September2026,21:30:37 SAST. Fixed deadline **17 September2026,05:30:37 
 
 ## Current actual assignments
 
-Allocation recorded at 2026-09-16T21:47:19.643238+00:00, same fixed deadline and sole coordinator:
+Allocation recorded at 2026-09-16T21:56:43.736897+00:00, same fixed deadline and sole coordinator:
 
-- M: M23 finished the original remaining43-page grid scope with no candidate. Now M24 tests a direct output-memory mechanism after targeted prior-overlap checks; no plaintext/key/English scoring.
-- P: original13 image test found rough rotational ornament balance, not an exact copied half or cipher instruction. P02 now tests cross-page explicit-unit length templates, distinct from rune equality copies.
-- N: review07 accepted L1/L2/L3 within scope; now fresh review08 independently checks M22 exact short-key kernel and optimization witness alongside other research.
+- M: M24 recency-rank conditional predictor finished its real/null test without a signal; checkpointing its independent check. Next M25 inspects the actual reported skip-by-two transition mismatch and prior coverage before a justified finite pilot. No wider keys or periods after a miss.
+- N: N05 tests horizontal source-pixel placement on existing images0/1. Initial ordinary-layout model failed planted controls; it remains a recorded failure. One physical punctuation-type correction is being tested; no negative channel claim from an insensitive detector.
+- P: P01 rough ornament balance and P02 crosspage unitlength tests finished without candidate. P03 now changes source register to exactly vowel-omitted canonical Latin text and tests exact count compatibility, with every removed character mapped.
 
 M22 exact periods1–3 recovered12/12 controlkeys versus11/12 for inheritedheuristic, with three correct-key wrongprefix path winners. Its real0/17 pilot had nulltails.57/.49; no automatic expansion. N03/N04 crosspage equality/one-corruption tests found no usefulrelation;16-runecontrols remain underpowered. O01 opcode-arity model missed; O02 exactcountpartitions eliminate the finite J03 five-page conjunction on pages0/3/17. Those are finite construction/register bounds, not wholecipher exclusions.
 
-Reviewed checkpoint4 b3c5d0f and historical correction a899c38 are pushed. M21's actual Crypt::RSA counter convention is independently reproduced; first20-byte LP2 predicate remains unchanged. No LP2 rerun/addressnavigation. K/L/M20/N/O newer evidence is prepared for focused publication; M22 waits for kernel review.
+Reviewed checkpoint4 b3c5d0f and historical correction a899c38 are pushed. M21's actual Crypt::RSA counter convention is independently reproduced; first20-byte LP2 predicate remains unchanged. No LP2 rerun/addressnavigation. K/L/M20/N/O newer evidence is prepared for focused publication; M22 passed fresh review08 and is included with M23 in checkpoint6.
 
 Initial A/C/E ACK hashes and actual executed alternative cards establish direct-process strategy delivery. Later assignments preserve outside-box-v1; no controller restart or deadline extension occurred. Two substantive alternative families have continued alongside each existing-method cycle, with fresh review occupying a slot as needed.
 
@@ -38,4 +38,4 @@ Frozen config/dataset hashes unchanged. Discovery excludes originals4,9,14,19,24
 
 Raw commands/output/exits/source snapshots and alternatives retained perworker. Reports are claims with explicit bounds. Freshreviews01/02 cover selectedmethod/output evidence, not independenttranscription or everyhistoricalclaim. Large outputs have losslessgzip manifests; originalbytes remainlocal. Localcheckout prefixes alone normalized in completedtracebacks, originals privatelyretained withhashes.
 
-Next two executable actions: M24 freeze and execute the direct memory hypothesis after overlap checks; P02 execute the fixed page-template comparison. Review08 checks M22 kernel in parallel. At least six concrete next jobs are recorded with overlap checks; do not execute redundant ones merely to fill time. A negative, completed queue, report or push does not end the mission.
+Next two executable actions: execute the fixed consonantal representation/count test and N05 punctuation-informed ordinary-placement controls. M25 inspects the exact reported construction before a bounded search. At least six concrete next jobs are recorded; overlap or nonidentifiability can redirect a job, never count a duplicate as new research. A negative, completed queue, report or push does not end the mission.

@@ -124,5 +124,19 @@
     "original_sha256": "e8ffc60c08b05d3522753b6ce637156edc8038ba7d71f180ce4f72fbe26b33f8",
     "published_sha256": "eb3325bc7a8470ce57cf80627d9abf957c89bd7bdbc65816b53cf737545a07e8",
     "change": "Only local checkout prefix normalized; raw failed-control traceback retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-m/M22/compiler.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-m/M22/compiler.json",
+    "original_sha256": "b4c66cbfe31630d8e4731bae7095ea3e658eaffea01ebd35918dd318665261ba",
+    "published_sha256": "4a91284de23ed78d113c608eb2c85c187c5bbc8e77038d1e064b82d40cdaa3a3",
+    "change": "Only checkout prefix normalized in compiler command; original retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/review-08/compiler.json",
+    "private_original": "exploration/persistent-01/private-originals/review-08/compiler.json",
+    "original_sha256": "6bb3d3d61dd0e9064d6187e3a1d3b287f523d3a9517d77006daa1bcb8d2ca0b4",
+    "published_sha256": "f3ce6dc9af66ed73ceb5df58d33b6a7344703f5320277c0070d3d0c125895546",
+    "change": "Only checkout prefix normalized in compiler command; original retained privately."
   }
 ]

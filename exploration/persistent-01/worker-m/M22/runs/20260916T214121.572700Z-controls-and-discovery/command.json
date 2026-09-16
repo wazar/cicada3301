@@ -1,0 +1,89 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-m/M22/m22.py",
+    "run"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "b3c5d0fa31e49965f01d343c31f41903327bac57",
+  "started_utc": "2026-09-16T21:41:21.582626+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p03.py",
+      "exists": true,
+      "bytes": 6350,
+      "sha256": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p03_frozen.py",
+      "exists": true,
+      "bytes": 6350,
+      "sha256": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p08.py",
+      "exists": true,
+      "bytes": 4793,
+      "sha256": "f7e4ef7301b9ecdf0bd9997417b4936f4be3bd053db86ccffbae998bec1d0753"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p09_viterbi.py",
+      "exists": true,
+      "bytes": 4138,
+      "sha256": "f30a31fe4e267744f9fa46e2c6704b5061ed3313570bef6897f0f0fafb61e284"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M22/build.py",
+      "exists": true,
+      "bytes": 365,
+      "sha256": "9ff90b7161ca9aef7c414fba53eb7a07e509c0afd302356ad2bfa9014e214281"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M22/decision.json",
+      "exists": true,
+      "bytes": 408,
+      "sha256": "4b895d590893d1011bb8070d29243c86530cfa485834ad567825f5432ef5a2f1"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M22/exact.c",
+      "exists": true,
+      "bytes": 1438,
+      "sha256": "3b30e70c4cf7add971876bc24f202abc28aee6b55a67102acaab38cdccf00ddf"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M22/m22.py",
+      "exists": true,
+      "bytes": 8297,
+      "sha256": "b8c1f7e56fcfb97034daf5666fc001b22b19af14cba545a0e051107d6b47ab69"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 55671,
+  "finished_utc": "2026-09-16T21:41:48.162228+00:00",
+  "duration_seconds": 26.57930487500198
+}

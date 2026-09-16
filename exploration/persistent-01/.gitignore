@@ -497,3 +497,7 @@ __pycache__/
 # P11 complete raw alternatives remain local, pinned by public per-shard manifest.
 /worker-i/p11/search/
 /worker-i/p11/controls/
+
+# Compiled review/search libraries are local and rebuilt from pinned C source.
+/worker-m/M22/exact.dylib
+/review-08/exact-local.dylib
