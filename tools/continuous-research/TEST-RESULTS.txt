@@ -1,0 +1,17 @@
+test_bad_budget (test_launcher.Tests.test_bad_budget) ... ok
+test_child_nonzero_is_preserved (test_launcher.Tests.test_child_nonzero_is_preserved) ... ok
+test_child_timeout_is_recorded (test_launcher.Tests.test_child_timeout_is_recorded) ... ok
+test_event_failure_is_not_success (test_launcher.Tests.test_event_failure_is_not_success) ... ok
+test_exclusive_lock (test_launcher.Tests.test_exclusive_lock) ... ok
+test_five_no_checkpoint_turns_pause (test_launcher.Tests.test_five_no_checkpoint_turns_pause) ... ok
+test_multiple_turns_until_deadline (test_launcher.Tests.test_multiple_turns_until_deadline) ... ok
+test_stop_file (test_launcher.Tests.test_stop_file) ... ok
+test_lock_detection (test_start.StartTests.test_lock_detection) ... ok
+test_repo_location_and_status (test_start.StartTests.test_repo_location_and_status) ... ok
+test_resume_flag (test_start.StartTests.test_resume_flag) ... ok
+test_shell_quoting (test_start.StartTests.test_shell_quoting) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 19.335s
+
+OK
