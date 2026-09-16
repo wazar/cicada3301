@@ -1,0 +1,5531 @@
+{
+  "version": "alphanumeric-01-v1",
+  "indexing": "zero based; image pixels x0,y0,x1,y1; tokens row-major; pages49/50/51",
+  "spacing": "Text uses one separator; original source whitespace retained; image bboxes and pixel gaps retain visual spacing. No claim spaces are encoded characters.",
+  "pages": [
+    {
+      "page": 49,
+      "image": "liber-primus/data/relikd/p49.jpg",
+      "rows": [
+        {
+          "row": 0,
+          "text": "3N 3p 2l 36 1b 3v 26 33",
+          "source_line_verbatim": "    3N 3p 2l 36 1b 3v 26 33",
+          "bbox": [
+            688,
+            1244,
+            1707,
+            1342
+          ],
+          "inter_token_pixel_gaps": [
+            39,
+            35,
+            39,
+            47,
+            36,
+            32,
+            37
+          ]
+        },
+        {
+          "row": 1,
+          "text": "1W 49 2a 3g 47 04 33 3W",
+          "source_line_verbatim": "    1W 49 2a 3g 47 04 33 3W",
+          "bbox": [
+            641,
+            1427,
+            1771,
+            1520
+          ],
+          "inter_token_pixel_gaps": [
+            29,
+            36,
+            38,
+            34,
+            31,
+            36,
+            41
+          ]
+        },
+        {
+          "row": 2,
+          "text": "21 3M 0F 0X 1g 2H 0x 1R",
+          "source_line_verbatim": "    21 3M 0F 0X 1g 2H 0x 1R",
+          "bbox": [
+            671,
+            1606,
+            1728,
+            1699
+          ],
+          "inter_token_pixel_gaps": [
+            54,
+            31,
+            36,
+            43,
+            39,
+            37,
+            42
+          ]
+        },
+        {
+          "row": 3,
+          "text": "1n 3I 2r 0P 2U 16 2L 2D",
+          "source_line_verbatim": "    1n 3I 2r 0P 2U 16 2L 2D",
+          "bbox": [
+            723,
+            1787,
+            1687,
+            1856
+          ],
+          "inter_token_pixel_gaps": [
+            39,
+            38,
+            32,
+            34,
+            48,
+            36,
+            32
+          ]
+        },
+        {
+          "row": 4,
+          "text": "1t 1s 3H 0d 0s 1K 2D 05",
+          "source_line_verbatim": "    1t 1s 3H 0d 0s 1K 2D 05",
+          "bbox": [
+            711,
+            1960,
+            1694,
+            2035
+          ],
+          "inter_token_pixel_gaps": [
+            40,
+            35,
+            37,
+            37,
+            45,
+            33,
+            34
+          ]
+        },
+        {
+          "row": 5,
+          "text": "1K 1O 0S 1D 3o 1l 3J 1G",
+          "source_line_verbatim": "    1K 1O 0S 1D 3o 1l 3J 1G",
+          "bbox": [
+            693,
+            2139,
+            1716,
+            2220
+          ],
+          "inter_token_pixel_gaps": [
+            43,
+            34,
+            45,
+            35,
+            45,
+            39,
+            48
+          ]
+        },
+        {
+          "row": 6,
+          "text": "4D 0G 0l 0x 1Q 2p 2a 1K",
+          "source_line_verbatim": "    4D 0G 0l 0x 1Q 2p 2a 1K",
+          "bbox": [
+            670,
+            2318,
+            1728,
+            2416
+          ],
+          "inter_token_pixel_gaps": [
+            33,
+            34,
+            37,
+            42,
+            36,
+            34,
+            47
+          ]
+        },
+        {
+          "row": 7,
+          "text": "4E 1w 2Q 19 1k 3G 24 0p",
+          "source_line_verbatim": "    4E 1w 2Q 19 1k 3G 24 0p",
+          "bbox": [
+            652,
+            2497,
+            1744,
+            2595
+          ],
+          "inter_token_pixel_gaps": [
+            47,
+            32,
+            45,
+            47,
+            33,
+            35,
+            34
+          ]
+        },
+        {
+          "row": 8,
+          "text": "22 4F 0P 3C 3J 1D 2n 1m",
+          "source_line_verbatim": "    22 4F 0P 3C 3J 1D 2n 1m",
+          "bbox": [
+            685,
+            2681,
+            1712,
+            2758
+          ],
+          "inter_token_pixel_gaps": [
+            36,
+            36,
+            35,
+            39,
+            48,
+            35,
+            48
+          ]
+        },
+        {
+          "row": 9,
+          "text": "2i 1J 3P 2v 1s 2O 0k 1M",
+          "source_line_verbatim": "    2i 1J 3P 2v 1s 2O 0k 1M",
+          "bbox": [
+            704,
+            2855,
+            1698,
+            2936
+          ],
+          "inter_token_pixel_gaps": [
+            48,
+            40,
+            34,
+            42,
+            35,
+            34,
+            42
+          ]
+        }
+      ]
+    },
+    {
+      "page": 50,
+      "image": "liber-primus/data/relikd/p50.jpg",
+      "rows": [
+        {
+          "row": 0,
+          "text": "2M 0w 3L 3D 2r 0S 1p 15",
+          "source_line_verbatim": "    2M 0w 3L 3D 2r 0S 1p 15",
+          "bbox": [
+            676,
+            627,
+            1719,
+            721
+          ],
+          "inter_token_pixel_gaps": [
+            31,
+            33,
+            34,
+            35,
+            32,
+            45,
+            45
+          ]
+        },
+        {
+          "row": 1,
+          "text": "3V 3e 3I 0n 3u 1O 0u 0Z",
+          "source_line_verbatim": "    3V 3e 3I 0n 3u 1O 0u 0Z",
+          "bbox": [
+            695,
+            809,
+            1706,
+            880
+          ],
+          "inter_token_pixel_gaps": [
+            33,
+            36,
+            37,
+            40,
+            47,
+            33,
+            37
+          ]
+        },
+        {
+          "row": 2,
+          "text": "3g 2U 1C 0Y 1N 3n 0W 3Q",
+          "source_line_verbatim": "    3g 2U 1C 0Y 1N 3n 0W 3Q",
+          "bbox": [
+            628,
+            985,
+            1772,
+            1078
+          ],
+          "inter_token_pixel_gaps": [
+            38,
+            47,
+            36,
+            42,
+            39,
+            37,
+            34
+          ]
+        },
+        {
+          "row": 3,
+          "text": "22 13 0V 3c 0E 34 0W 1t",
+          "source_line_verbatim": "    22 13 0V 3c 0E 34 0W 1t",
+          "bbox": [
+            675,
+            1165,
+            1729,
+            1238
+          ],
+          "inter_token_pixel_gaps": [
+            49,
+            39,
+            33,
+            35,
+            39,
+            34,
+            42
+          ]
+        },
+        {
+          "row": 4,
+          "text": "1D 2N 3H 47 0s 2p 0Z 34",
+          "source_line_verbatim": "    1D 2N 3H 47 0s 2p 0Z 34",
+          "bbox": [
+            676,
+            1344,
+            1733,
+            1438
+          ],
+          "inter_token_pixel_gaps": [
+            34,
+            39,
+            35,
+            31,
+            36,
+            34,
+            35
+          ]
+        },
+        {
+          "row": 5,
+          "text": "0g 3v 1Q 0s 0D 0K 2h 3D",
+          "source_line_verbatim": "    0g 3v 1Q 0s 0D 0K 2h 3D",
+          "bbox": [
+            674,
+            1519,
+            1724,
+            1616
+          ],
+          "inter_token_pixel_gaps": [
+            39,
+            42,
+            33,
+            34,
+            34,
+            32,
+            39
+          ]
+        },
+        {
+          "row": 6,
+          "text": "3L 2x 1Q 20 2n 2L 1C 2p",
+          "source_line_verbatim": "    3L 2x 1Q 20 2n 2L 1C 2p",
+          "bbox": [
+            688,
+            1704,
+            1712,
+            1796
+          ],
+          "inter_token_pixel_gaps": [
+            32,
+            41,
+            35,
+            34,
+            38,
+            41,
+            37
+          ]
+        },
+        {
+          "row": 7,
+          "text": "0A 29 3r 0D 45 0k 2e 2W",
+          "source_line_verbatim": "    0A 29 3r 0D 45 0k 2e 2W",
+          "bbox": [
+            664,
+            1877,
+            1737,
+            1954
+          ],
+          "inter_token_pixel_gaps": [
+            32,
+            37,
+            31,
+            31,
+            39,
+            32,
+            35
+          ]
+        },
+        {
+          "row": 8,
+          "text": "25 3U 1W 2r 46 2s 2X 39",
+          "source_line_verbatim": "    25 3U 1W 2r 46 2s 2X 39",
+          "bbox": [
+            670,
+            2060,
+            1728,
+            2133
+          ],
+          "inter_token_pixel_gaps": [
+            40,
+            47,
+            32,
+            29,
+            37,
+            35,
+            33
+          ]
+        },
+        {
+          "row": 9,
+          "text": "3p 0X 0E 1q 0q 4B 49 48",
+          "source_line_verbatim": "    3p 0X 0E 1q 0q 4B 49 48",
+          "bbox": [
+            684,
+            2239,
+            1713,
+            2333
+          ],
+          "inter_token_pixel_gaps": [
+            34,
+            32,
+            47,
+            36,
+            35,
+            33,
+            33
+          ]
+        },
+        {
+          "row": 10,
+          "text": "3r 3b 3C 1M 1j 0I 4A 48",
+          "source_line_verbatim": "    3r 3b 3C 1M 1j 0I 4A 48",
+          "bbox": [
+            697,
+            2414,
+            1700,
+            2512
+          ],
+          "inter_token_pixel_gaps": [
+            33,
+            35,
+            47,
+            43,
+            38,
+            35,
+            30
+          ]
+        },
+        {
+          "row": 11,
+          "text": "40 3m 4E 0s 2S 1v 3T 0I",
+          "source_line_verbatim": "    40 3m 4E 0s 2S 1v 3T 0I",
+          "bbox": [
+            706,
+            2597,
+            1689,
+            2669
+          ],
+          "inter_token_pixel_gaps": [
+            34,
+            35,
+            36,
+            35,
+            46,
+            33,
+            31
+          ]
+        },
+        {
+          "row": 12,
+          "text": "3t 2B 2k 2t 2O 0e 2l 1L",
+          "source_line_verbatim": "    3t 2B 2k 2t 2O 0e 2l 1L",
+          "bbox": [
+            735,
+            2772,
+            1669,
+            2847
+          ],
+          "inter_token_pixel_gaps": [
+            31,
+            36,
+            32,
+            31,
+            34,
+            35,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "page": 51,
+      "image": "liber-primus/data/relikd/p51.jpg",
+      "rows": [
+        {
+          "row": 0,
+          "text": "28 2a 0J 1L 0c 3C 2o 0X",
+          "source_line_verbatim": "    28 2a 0J 1L 0c 3C 2o 0X",
+          "bbox": [
+            702,
+            629,
+            1699,
+            704
+          ],
+          "inter_token_pixel_gaps": [
+            38,
+            37,
+            48,
+            30,
+            37,
+            37,
+            33
+          ]
+        },
+        {
+          "row": 1,
+          "text": "00 2Z 2d 1T 2u 1t 1j 0l",
+          "source_line_verbatim": "    00 2Z 2d 1T 2u 1t 1j 0l",
+          "bbox": [
+            733,
+            803,
+            1663,
+            901
+          ],
+          "inter_token_pixel_gaps": [
+            34,
+            33,
+            47,
+            32,
+            48,
+            40,
+            37
+          ]
+        },
+        {
+          "row": 2,
+          "text": "1o 1E 3T 18 3E 1G 27 0L",
+          "source_line_verbatim": "    1o 1E 3T 18 3E 1G 27 0L",
+          "bbox": [
+            698,
+            987,
+            1715,
+            1056
+          ],
+          "inter_token_pixel_gaps": [
+            44,
+            37,
+            42,
+            39,
+            48,
+            35,
+            31
+          ]
+        },
+        {
+          "row": 3,
+          "text": "0v 2t 06 11 1A 2U 4B 1O",
+          "source_line_verbatim": "    0v 2t 06 11 1A 2U 4B 1O",
+          "bbox": [
+            677,
+            1150,
+            1721,
+            1250
+          ],
+          "inter_token_pixel_gaps": [
+            20,
+            8,
+            20,
+            48,
+            34,
+            34,
+            46
+          ]
+        },
+        {
+          "row": 4,
+          "text": "2M 3d 2S 0x 0w 0q 0p 2V",
+          "source_line_verbatim": "    2M 3d 2S 0x 0w 0q 0p 2V",
+          "bbox": [
+            663,
+            1340,
+            1739,
+            1438
+          ],
+          "inter_token_pixel_gaps": [
+            34,
+            38,
+            34,
+            30,
+            31,
+            37,
+            35
+          ]
+        },
+        {
+          "row": 5,
+          "text": "18 0q 1D 49 2O 00 1v 2t",
+          "source_line_verbatim": "    18 0q 1D 49 2O 00 1v 2t",
+          "bbox": [
+            691,
+            1523,
+            1722,
+            1617
+          ],
+          "inter_token_pixel_gaps": [
+            37,
+            47,
+            31,
+            37,
+            35,
+            44,
+            32
+          ]
+        },
+        {
+          "row": 6,
+          "text": "1k 3s 3G 21 3w 0W 29 2r",
+          "source_line_verbatim": "    1k 3s 3G 21 3w 0W 29 2r",
+          "bbox": [
+            672,
+            1698,
+            1740,
+            1775
+          ],
+          "inter_token_pixel_gaps": [
+            33,
+            35,
+            35,
+            53,
+            31,
+            32,
+            36
+          ]
+        },
+        {
+          "row": 7,
+          "text": "2O 2L 0g 3Y 0M 0u 3I 3C",
+          "source_line_verbatim": "    2O 2L 0g 3Y 0M 0u 3I 3C",
+          "bbox": [
+            677,
+            1881,
+            1720,
+            1974
+          ],
+          "inter_token_pixel_gaps": [
+            35,
+            30,
+            39,
+            32,
+            32,
+            38,
+            38
+          ]
+        },
+        {
+          "row": 8,
+          "text": "1r 2c 2q 3o 30 0a 39 1K",
+          "source_line_verbatim": "    1r 2c 2q 3o 30 0a 39 1K",
+          "bbox": [
+            705,
+            2062,
+            1707,
+            2154
+          ],
+          "inter_token_pixel_gaps": [
+            32,
+            36,
+            38,
+            35,
+            33,
+            38,
+            46
+          ]
+        }
+      ]
+    }
+  ],
+  "cells": [
+    {
+      "index": 0,
+      "page": 49,
+      "row": 0,
+      "column": 0,
+      "token": "3N",
+      "bbox": [
+        688,
+        1244,
+        805,
+        1342
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3N",
+        "scream-local": "3N",
+        "relikd-public": "3N"
+      }
+    },
+    {
+      "index": 1,
+      "page": 49,
+      "row": 0,
+      "column": 1,
+      "token": "3p",
+      "bbox": [
+        844,
+        1244,
+        942,
+        1342
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3p",
+        "scream-local": "3p",
+        "relikd-public": "3p"
+      }
+    },
+    {
+      "index": 2,
+      "page": 49,
+      "row": 0,
+      "column": 2,
+      "token": "2l",
+      "bbox": [
+        977,
+        1244,
+        1041,
+        1342
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2l",
+        "scream-local": "2l",
+        "relikd-public": "2l"
+      }
+    },
+    {
+      "index": 3,
+      "page": 49,
+      "row": 0,
+      "column": 3,
+      "token": "36",
+      "bbox": [
+        1080,
+        1244,
+        1179,
+        1342
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "36",
+        "scream-local": "36",
+        "relikd-public": "36"
+      }
+    },
+    {
+      "index": 4,
+      "page": 49,
+      "row": 0,
+      "column": 4,
+      "token": "1b",
+      "bbox": [
+        1226,
+        1244,
+        1315,
+        1342
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1b",
+        "scream-local": "1b",
+        "relikd-public": "1b"
+      }
+    },
+    {
+      "index": 5,
+      "page": 49,
+      "row": 0,
+      "column": 5,
+      "token": "3v",
+      "bbox": [
+        1351,
+        1244,
+        1442,
+        1342
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3v",
+        "scream-local": "3v",
+        "relikd-public": "3v"
+      }
+    },
+    {
+      "index": 6,
+      "page": 49,
+      "row": 0,
+      "column": 6,
+      "token": "26",
+      "bbox": [
+        1474,
+        1244,
+        1574,
+        1342
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "26",
+        "scream-local": "26",
+        "relikd-public": "26"
+      }
+    },
+    {
+      "index": 7,
+      "page": 49,
+      "row": 0,
+      "column": 7,
+      "token": "33",
+      "bbox": [
+        1611,
+        1244,
+        1707,
+        1342
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "33",
+        "scream-local": "33",
+        "relikd-public": "33"
+      }
+    },
+    {
+      "index": 8,
+      "page": 49,
+      "row": 1,
+      "column": 0,
+      "token": "1W",
+      "bbox": [
+        641,
+        1427,
+        777,
+        1520
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1W",
+        "scream-local": "1W",
+        "relikd-public": "1W"
+      }
+    },
+    {
+      "index": 9,
+      "page": 49,
+      "row": 1,
+      "column": 1,
+      "token": "49",
+      "bbox": [
+        806,
+        1427,
+        910,
+        1520
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "49",
+        "scream-local": "49",
+        "relikd-public": "49"
+      }
+    },
+    {
+      "index": 10,
+      "page": 49,
+      "row": 1,
+      "column": 2,
+      "token": "2a",
+      "bbox": [
+        946,
+        1427,
+        1042,
+        1520
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2a",
+        "scream-local": "2a",
+        "relikd-public": "2a"
+      }
+    },
+    {
+      "index": 11,
+      "page": 49,
+      "row": 1,
+      "column": 3,
+      "token": "3g",
+      "bbox": [
+        1080,
+        1427,
+        1176,
+        1520
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3g",
+        "scream-local": "3g",
+        "relikd-public": "3g"
+      }
+    },
+    {
+      "index": 12,
+      "page": 49,
+      "row": 1,
+      "column": 4,
+      "token": "47",
+      "bbox": [
+        1210,
+        1427,
+        1318,
+        1520
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "47",
+        "scream-local": "47",
+        "relikd-public": "47"
+      }
+    },
+    {
+      "index": 13,
+      "page": 49,
+      "row": 1,
+      "column": 5,
+      "token": "04",
+      "bbox": [
+        1349,
+        1427,
+        1452,
+        1520
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "04",
+        "scream-local": "04",
+        "relikd-public": "04"
+      }
+    },
+    {
+      "index": 14,
+      "page": 49,
+      "row": 1,
+      "column": 6,
+      "token": "33",
+      "bbox": [
+        1488,
+        1427,
+        1584,
+        1520
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "33",
+        "scream-local": "33",
+        "relikd-public": "33"
+      }
+    },
+    {
+      "index": 15,
+      "page": 49,
+      "row": 1,
+      "column": 7,
+      "token": "3W",
+      "bbox": [
+        1625,
+        1427,
+        1771,
+        1520
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3W",
+        "scream-local": "3W",
+        "relikd-public": "3W"
+      }
+    },
+    {
+      "index": 16,
+      "page": 49,
+      "row": 2,
+      "column": 0,
+      "token": "21",
+      "bbox": [
+        671,
+        1606,
+        755,
+        1699
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "21",
+        "scream-local": "21",
+        "relikd-public": "21"
+      }
+    },
+    {
+      "index": 17,
+      "page": 49,
+      "row": 2,
+      "column": 1,
+      "token": "3M",
+      "bbox": [
+        809,
+        1606,
+        937,
+        1699
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3M",
+        "scream-local": "3M",
+        "relikd-public": "3M"
+      }
+    },
+    {
+      "index": 18,
+      "page": 49,
+      "row": 2,
+      "column": 2,
+      "token": "0F",
+      "bbox": [
+        968,
+        1606,
+        1057,
+        1699
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0F",
+        "scream-local": "0F",
+        "relikd-public": "0F"
+      }
+    },
+    {
+      "index": 19,
+      "page": 49,
+      "row": 2,
+      "column": 3,
+      "token": "0X",
+      "bbox": [
+        1093,
+        1606,
+        1194,
+        1699
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0X",
+        "scream-local": "0X",
+        "relikd-public": "0X"
+      }
+    },
+    {
+      "index": 20,
+      "page": 49,
+      "row": 2,
+      "column": 4,
+      "token": "1g",
+      "bbox": [
+        1237,
+        1606,
+        1322,
+        1699
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1g",
+        "scream-local": "1g",
+        "relikd-public": "1g"
+      }
+    },
+    {
+      "index": 21,
+      "page": 49,
+      "row": 2,
+      "column": 5,
+      "token": "2H",
+      "bbox": [
+        1361,
+        1606,
+        1468,
+        1699
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2H",
+        "scream-local": "2H",
+        "relikd-public": "2H"
+      }
+    },
+    {
+      "index": 22,
+      "page": 49,
+      "row": 2,
+      "column": 6,
+      "token": "0x",
+      "bbox": [
+        1505,
+        1606,
+        1600,
+        1699
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0x",
+        "scream-local": "0x",
+        "relikd-public": "0x"
+      }
+    },
+    {
+      "index": 23,
+      "page": 49,
+      "row": 2,
+      "column": 7,
+      "token": "1R",
+      "bbox": [
+        1642,
+        1606,
+        1728,
+        1699
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1R",
+        "scream-local": "1R",
+        "relikd-public": "1R"
+      }
+    },
+    {
+      "index": 24,
+      "page": 49,
+      "row": 3,
+      "column": 0,
+      "token": "1n",
+      "bbox": [
+        723,
+        1787,
+        804,
+        1856
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1n",
+        "scream-local": "1n",
+        "relikd-public": "1n"
+      }
+    },
+    {
+      "index": 25,
+      "page": 49,
+      "row": 3,
+      "column": 1,
+      "token": "3I",
+      "bbox": [
+        843,
+        1787,
+        907,
+        1856
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3I",
+        "scream-local": "3I",
+        "relikd-public": "3I"
+      }
+    },
+    {
+      "index": 26,
+      "page": 49,
+      "row": 3,
+      "column": 2,
+      "token": "2r",
+      "bbox": [
+        945,
+        1787,
+        1024,
+        1856
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2r",
+        "scream-local": "2r",
+        "relikd-public": "2r"
+      }
+    },
+    {
+      "index": 27,
+      "page": 49,
+      "row": 3,
+      "column": 3,
+      "token": "0P",
+      "bbox": [
+        1056,
+        1787,
+        1149,
+        1856
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0P",
+        "scream-local": "0P",
+        "relikd-public": "0P"
+      }
+    },
+    {
+      "index": 28,
+      "page": 49,
+      "row": 3,
+      "column": 4,
+      "token": "2U",
+      "bbox": [
+        1183,
+        1787,
+        1289,
+        1856
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2U",
+        "scream-local": "2U",
+        "relikd-public": "2U"
+      }
+    },
+    {
+      "index": 29,
+      "page": 49,
+      "row": 3,
+      "column": 5,
+      "token": "16",
+      "bbox": [
+        1337,
+        1787,
+        1428,
+        1856
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "16",
+        "scream-local": "16",
+        "relikd-public": "16"
+      }
+    },
+    {
+      "index": 30,
+      "page": 49,
+      "row": 3,
+      "column": 6,
+      "token": "2L",
+      "bbox": [
+        1464,
+        1787,
+        1547,
+        1856
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2L",
+        "scream-local": "2L",
+        "relikd-public": "2L"
+      }
+    },
+    {
+      "index": 31,
+      "page": 49,
+      "row": 3,
+      "column": 7,
+      "token": "2D",
+      "bbox": [
+        1579,
+        1787,
+        1687,
+        1856
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2D",
+        "scream-local": "2D",
+        "relikd-public": "2D"
+      }
+    },
+    {
+      "index": 32,
+      "page": 49,
+      "row": 4,
+      "column": 0,
+      "token": "1t",
+      "bbox": [
+        711,
+        1960,
+        774,
+        2035
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1t",
+        "scream-local": "1t",
+        "relikd-public": "1t"
+      }
+    },
+    {
+      "index": 33,
+      "page": 49,
+      "row": 4,
+      "column": 1,
+      "token": "1s",
+      "bbox": [
+        814,
+        1960,
+        887,
+        2035
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1s",
+        "scream-local": "1s",
+        "relikd-public": "1s"
+      }
+    },
+    {
+      "index": 34,
+      "page": 49,
+      "row": 4,
+      "column": 2,
+      "token": "3H",
+      "bbox": [
+        922,
+        1960,
+        1029,
+        2035
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3H",
+        "scream-local": "3H",
+        "relikd-public": "3H"
+      }
+    },
+    {
+      "index": 35,
+      "page": 49,
+      "row": 4,
+      "column": 3,
+      "token": "0d",
+      "bbox": [
+        1066,
+        1960,
+        1162,
+        2035
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0d",
+        "scream-local": "0d",
+        "relikd-public": "0d"
+      }
+    },
+    {
+      "index": 36,
+      "page": 49,
+      "row": 4,
+      "column": 4,
+      "token": "0s",
+      "bbox": [
+        1199,
+        1960,
+        1283,
+        2035
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0s",
+        "scream-local": "0s",
+        "relikd-public": "0s"
+      }
+    },
+    {
+      "index": 37,
+      "page": 49,
+      "row": 4,
+      "column": 5,
+      "token": "1K",
+      "bbox": [
+        1328,
+        1960,
+        1422,
+        2035
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1K",
+        "scream-local": "1K",
+        "relikd-public": "1K"
+      }
+    },
+    {
+      "index": 38,
+      "page": 49,
+      "row": 4,
+      "column": 6,
+      "token": "2D",
+      "bbox": [
+        1455,
+        1960,
+        1562,
+        2035
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2D",
+        "scream-local": "2D",
+        "relikd-public": "2D"
+      }
+    },
+    {
+      "index": 39,
+      "page": 49,
+      "row": 4,
+      "column": 7,
+      "token": "05",
+      "bbox": [
+        1596,
+        1960,
+        1694,
+        2035
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "05",
+        "scream-local": "05",
+        "relikd-public": "05"
+      }
+    },
+    {
+      "index": 40,
+      "page": 49,
+      "row": 5,
+      "column": 0,
+      "token": "1K",
+      "bbox": [
+        693,
+        2139,
+        787,
+        2220
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1K",
+        "scream-local": "1K",
+        "relikd-public": "1K"
+      }
+    },
+    {
+      "index": 41,
+      "page": 49,
+      "row": 5,
+      "column": 1,
+      "token": "1O",
+      "bbox": [
+        830,
+        2139,
+        943,
+        2220
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1O",
+        "scream-local": "1O",
+        "relikd-public": "1O"
+      }
+    },
+    {
+      "index": 42,
+      "page": 49,
+      "row": 5,
+      "column": 2,
+      "token": "0S",
+      "bbox": [
+        977,
+        2139,
+        1075,
+        2220
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0S",
+        "scream-local": "0S",
+        "relikd-public": "0S"
+      }
+    },
+    {
+      "index": 43,
+      "page": 49,
+      "row": 5,
+      "column": 3,
+      "token": "1D",
+      "bbox": [
+        1120,
+        2139,
+        1218,
+        2220
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1D",
+        "scream-local": "1D",
+        "relikd-public": "1D"
+      }
+    },
+    {
+      "index": 44,
+      "page": 49,
+      "row": 5,
+      "column": 4,
+      "token": "3o",
+      "bbox": [
+        1253,
+        2139,
+        1350,
+        2220
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3o",
+        "scream-local": "3o",
+        "relikd-public": "3o"
+      }
+    },
+    {
+      "index": 45,
+      "page": 49,
+      "row": 5,
+      "column": 5,
+      "token": "1l",
+      "bbox": [
+        1395,
+        2139,
+        1449,
+        2220
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1L",
+        "scream-local": "1l",
+        "relikd-public": "1L"
+      }
+    },
+    {
+      "index": 46,
+      "page": 49,
+      "row": 5,
+      "column": 6,
+      "token": "3J",
+      "bbox": [
+        1488,
+        2139,
+        1558,
+        2220
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3J",
+        "scream-local": "3J",
+        "relikd-public": "3J"
+      }
+    },
+    {
+      "index": 47,
+      "page": 49,
+      "row": 5,
+      "column": 7,
+      "token": "1G",
+      "bbox": [
+        1606,
+        2139,
+        1716,
+        2220
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1G",
+        "scream-local": "1G",
+        "relikd-public": "1G"
+      }
+    },
+    {
+      "index": 48,
+      "page": 49,
+      "row": 6,
+      "column": 0,
+      "token": "4D",
+      "bbox": [
+        670,
+        2318,
+        781,
+        2416
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "4D",
+        "scream-local": "4D",
+        "relikd-public": "4D"
+      }
+    },
+    {
+      "index": 49,
+      "page": 49,
+      "row": 6,
+      "column": 1,
+      "token": "0G",
+      "bbox": [
+        814,
+        2318,
+        935,
+        2416
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0G",
+        "scream-local": "0G",
+        "relikd-public": "0G"
+      }
+    },
+    {
+      "index": 50,
+      "page": 49,
+      "row": 6,
+      "column": 2,
+      "token": "0l",
+      "bbox": [
+        969,
+        2318,
+        1035,
+        2416
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0L",
+        "scream-local": "0l",
+        "relikd-public": "0L"
+      }
+    },
+    {
+      "index": 51,
+      "page": 49,
+      "row": 6,
+      "column": 3,
+      "token": "0x",
+      "bbox": [
+        1072,
+        2318,
+        1167,
+        2416
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0x",
+        "scream-local": "0x",
+        "relikd-public": "0x"
+      }
+    },
+    {
+      "index": 52,
+      "page": 49,
+      "row": 6,
+      "column": 4,
+      "token": "1Q",
+      "bbox": [
+        1209,
+        2318,
+        1322,
+        2416
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1Q",
+        "scream-local": "1Q",
+        "relikd-public": "1Q"
+      }
+    },
+    {
+      "index": 53,
+      "page": 49,
+      "row": 6,
+      "column": 5,
+      "token": "2p",
+      "bbox": [
+        1358,
+        2318,
+        1457,
+        2416
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2p",
+        "scream-local": "2p",
+        "relikd-public": "2p"
+      }
+    },
+    {
+      "index": 54,
+      "page": 49,
+      "row": 6,
+      "column": 6,
+      "token": "2a",
+      "bbox": [
+        1491,
+        2318,
+        1587,
+        2416
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2a",
+        "scream-local": "2a",
+        "relikd-public": "2a"
+      }
+    },
+    {
+      "index": 55,
+      "page": 49,
+      "row": 6,
+      "column": 7,
+      "token": "1K",
+      "bbox": [
+        1634,
+        2318,
+        1728,
+        2416
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1K",
+        "scream-local": "1K",
+        "relikd-public": "1K"
+      }
+    },
+    {
+      "index": 56,
+      "page": 49,
+      "row": 7,
+      "column": 0,
+      "token": "4E",
+      "bbox": [
+        652,
+        2497,
+        748,
+        2595
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "4E",
+        "scream-local": "4E",
+        "relikd-public": "4E"
+      }
+    },
+    {
+      "index": 57,
+      "page": 49,
+      "row": 7,
+      "column": 1,
+      "token": "1w",
+      "bbox": [
+        795,
+        2497,
+        902,
+        2595
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1w",
+        "scream-local": "1w",
+        "relikd-public": "1w"
+      }
+    },
+    {
+      "index": 58,
+      "page": 49,
+      "row": 7,
+      "column": 2,
+      "token": "2Q",
+      "bbox": [
+        934,
+        2497,
+        1058,
+        2595
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2Q",
+        "scream-local": "2Q",
+        "relikd-public": "2Q"
+      }
+    },
+    {
+      "index": 59,
+      "page": 49,
+      "row": 7,
+      "column": 3,
+      "token": "19",
+      "bbox": [
+        1103,
+        2497,
+        1193,
+        2595
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "19",
+        "scream-local": "19",
+        "relikd-public": "19"
+      }
+    },
+    {
+      "index": 60,
+      "page": 49,
+      "row": 7,
+      "column": 4,
+      "token": "1k",
+      "bbox": [
+        1240,
+        2497,
+        1322,
+        2595
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1k",
+        "scream-local": "1k",
+        "relikd-public": "1k"
+      }
+    },
+    {
+      "index": 61,
+      "page": 49,
+      "row": 7,
+      "column": 5,
+      "token": "3G",
+      "bbox": [
+        1355,
+        2497,
+        1473,
+        2595
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3G",
+        "scream-local": "3G",
+        "relikd-public": "3G"
+      }
+    },
+    {
+      "index": 62,
+      "page": 49,
+      "row": 7,
+      "column": 6,
+      "token": "24",
+      "bbox": [
+        1508,
+        2497,
+        1610,
+        2595
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "24",
+        "scream-local": "24",
+        "relikd-public": "24"
+      }
+    },
+    {
+      "index": 63,
+      "page": 49,
+      "row": 7,
+      "column": 7,
+      "token": "0p",
+      "bbox": [
+        1644,
+        2497,
+        1744,
+        2595
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0p",
+        "scream-local": "0p",
+        "relikd-public": "0p"
+      }
+    },
+    {
+      "index": 64,
+      "page": 49,
+      "row": 8,
+      "column": 0,
+      "token": "22",
+      "bbox": [
+        685,
+        2681,
+        782,
+        2758
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "22",
+        "scream-local": "22",
+        "relikd-public": "22"
+      }
+    },
+    {
+      "index": 65,
+      "page": 49,
+      "row": 8,
+      "column": 1,
+      "token": "4F",
+      "bbox": [
+        818,
+        2681,
+        909,
+        2758
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "4F",
+        "scream-local": "4F",
+        "relikd-public": "4F"
+      }
+    },
+    {
+      "index": 66,
+      "page": 49,
+      "row": 8,
+      "column": 2,
+      "token": "0P",
+      "bbox": [
+        945,
+        2681,
+        1039,
+        2758
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0P",
+        "scream-local": "0P",
+        "relikd-public": "0P"
+      }
+    },
+    {
+      "index": 67,
+      "page": 49,
+      "row": 8,
+      "column": 3,
+      "token": "3C",
+      "bbox": [
+        1074,
+        2681,
+        1181,
+        2758
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3C",
+        "scream-local": "3C",
+        "relikd-public": "3C"
+      }
+    },
+    {
+      "index": 68,
+      "page": 49,
+      "row": 8,
+      "column": 4,
+      "token": "3J",
+      "bbox": [
+        1220,
+        2681,
+        1290,
+        2758
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3J",
+        "scream-local": "3J",
+        "relikd-public": "3J"
+      }
+    },
+    {
+      "index": 69,
+      "page": 49,
+      "row": 8,
+      "column": 5,
+      "token": "1D",
+      "bbox": [
+        1338,
+        2681,
+        1436,
+        2758
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1D",
+        "scream-local": "1D",
+        "relikd-public": "1D"
+      }
+    },
+    {
+      "index": 70,
+      "page": 49,
+      "row": 8,
+      "column": 6,
+      "token": "2n",
+      "bbox": [
+        1471,
+        2681,
+        1561,
+        2758
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2n",
+        "scream-local": "2n",
+        "relikd-public": "2n"
+      }
+    },
+    {
+      "index": 71,
+      "page": 49,
+      "row": 8,
+      "column": 7,
+      "token": "1m",
+      "bbox": [
+        1609,
+        2681,
+        1712,
+        2758
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1m",
+        "scream-local": "1m",
+        "relikd-public": "1m"
+      }
+    },
+    {
+      "index": 72,
+      "page": 49,
+      "row": 9,
+      "column": 0,
+      "token": "2i",
+      "bbox": [
+        704,
+        2855,
+        771,
+        2936
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2i",
+        "scream-local": "2i",
+        "relikd-public": "2i"
+      }
+    },
+    {
+      "index": 73,
+      "page": 49,
+      "row": 9,
+      "column": 1,
+      "token": "1J",
+      "bbox": [
+        819,
+        2855,
+        880,
+        2936
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1J",
+        "scream-local": "1J",
+        "relikd-public": "1J"
+      }
+    },
+    {
+      "index": 74,
+      "page": 49,
+      "row": 9,
+      "column": 2,
+      "token": "3P",
+      "bbox": [
+        920,
+        2855,
+        1011,
+        2936
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3P",
+        "scream-local": "3P",
+        "relikd-public": "3P"
+      }
+    },
+    {
+      "index": 75,
+      "page": 49,
+      "row": 9,
+      "column": 3,
+      "token": "2v",
+      "bbox": [
+        1045,
+        2855,
+        1137,
+        2936
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2v",
+        "scream-local": "2v",
+        "relikd-public": "2v"
+      }
+    },
+    {
+      "index": 76,
+      "page": 49,
+      "row": 9,
+      "column": 4,
+      "token": "1s",
+      "bbox": [
+        1179,
+        2855,
+        1251,
+        2936
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1s",
+        "scream-local": "1s",
+        "relikd-public": "1s"
+      }
+    },
+    {
+      "index": 77,
+      "page": 49,
+      "row": 9,
+      "column": 5,
+      "token": "2O",
+      "bbox": [
+        1286,
+        2855,
+        1410,
+        2936
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2O",
+        "scream-local": "2O",
+        "relikd-public": "2O"
+      }
+    },
+    {
+      "index": 78,
+      "page": 49,
+      "row": 9,
+      "column": 6,
+      "token": "0k",
+      "bbox": [
+        1444,
+        2855,
+        1537,
+        2936
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0k",
+        "scream-local": "0k",
+        "relikd-public": "0k"
+      }
+    },
+    {
+      "index": 79,
+      "page": 49,
+      "row": 9,
+      "column": 7,
+      "token": "1M",
+      "bbox": [
+        1579,
+        2855,
+        1698,
+        2936
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1M",
+        "scream-local": "1M",
+        "relikd-public": "1M"
+      }
+    },
+    {
+      "index": 80,
+      "page": 50,
+      "row": 0,
+      "column": 0,
+      "token": "2M",
+      "bbox": [
+        676,
+        627,
+        805,
+        721
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2M",
+        "scream-local": "2M",
+        "relikd-public": "2M"
+      }
+    },
+    {
+      "index": 81,
+      "page": 50,
+      "row": 0,
+      "column": 1,
+      "token": "0w",
+      "bbox": [
+        836,
+        627,
+        955,
+        721
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0w",
+        "scream-local": "0w",
+        "relikd-public": "0w"
+      }
+    },
+    {
+      "index": 82,
+      "page": 50,
+      "row": 0,
+      "column": 2,
+      "token": "3L",
+      "bbox": [
+        988,
+        627,
+        1070,
+        721
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3L",
+        "scream-local": "3L",
+        "relikd-public": "3L"
+      }
+    },
+    {
+      "index": 83,
+      "page": 50,
+      "row": 0,
+      "column": 3,
+      "token": "3D",
+      "bbox": [
+        1104,
+        627,
+        1210,
+        721
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3D",
+        "scream-local": "3D",
+        "relikd-public": "3D"
+      }
+    },
+    {
+      "index": 84,
+      "page": 50,
+      "row": 0,
+      "column": 4,
+      "token": "2r",
+      "bbox": [
+        1245,
+        627,
+        1324,
+        721
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2r",
+        "scream-local": "2r",
+        "relikd-public": "2r"
+      }
+    },
+    {
+      "index": 85,
+      "page": 50,
+      "row": 0,
+      "column": 5,
+      "token": "0S",
+      "bbox": [
+        1356,
+        627,
+        1454,
+        721
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0S",
+        "scream-local": "0S",
+        "relikd-public": "0S"
+      }
+    },
+    {
+      "index": 86,
+      "page": 50,
+      "row": 0,
+      "column": 6,
+      "token": "1p",
+      "bbox": [
+        1499,
+        627,
+        1587,
+        721
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1p",
+        "scream-local": "1p",
+        "relikd-public": "1p"
+      }
+    },
+    {
+      "index": 87,
+      "page": 50,
+      "row": 0,
+      "column": 7,
+      "token": "15",
+      "bbox": [
+        1632,
+        627,
+        1719,
+        721
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "15",
+        "scream-local": "15",
+        "relikd-public": "15"
+      }
+    },
+    {
+      "index": 88,
+      "page": 50,
+      "row": 1,
+      "column": 0,
+      "token": "3V",
+      "bbox": [
+        695,
+        809,
+        800,
+        880
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3V",
+        "scream-local": "3V",
+        "relikd-public": "3V"
+      }
+    },
+    {
+      "index": 89,
+      "page": 50,
+      "row": 1,
+      "column": 1,
+      "token": "3e",
+      "bbox": [
+        833,
+        809,
+        925,
+        880
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3e",
+        "scream-local": "3e",
+        "relikd-public": "3e"
+      }
+    },
+    {
+      "index": 90,
+      "page": 50,
+      "row": 1,
+      "column": 2,
+      "token": "3I",
+      "bbox": [
+        961,
+        809,
+        1025,
+        880
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3I",
+        "scream-local": "3I",
+        "relikd-public": "3I"
+      }
+    },
+    {
+      "index": 91,
+      "page": 50,
+      "row": 1,
+      "column": 3,
+      "token": "0n",
+      "bbox": [
+        1062,
+        809,
+        1153,
+        880
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0n",
+        "scream-local": "0n",
+        "relikd-public": "0n"
+      }
+    },
+    {
+      "index": 92,
+      "page": 50,
+      "row": 1,
+      "column": 4,
+      "token": "3u",
+      "bbox": [
+        1193,
+        809,
+        1282,
+        880
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3u",
+        "scream-local": "3u",
+        "relikd-public": "3u"
+      }
+    },
+    {
+      "index": 93,
+      "page": 50,
+      "row": 1,
+      "column": 5,
+      "token": "1O",
+      "bbox": [
+        1329,
+        809,
+        1444,
+        880
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1O",
+        "scream-local": "1O",
+        "relikd-public": "1O"
+      }
+    },
+    {
+      "index": 94,
+      "page": 50,
+      "row": 1,
+      "column": 6,
+      "token": "0u",
+      "bbox": [
+        1477,
+        809,
+        1568,
+        880
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0u",
+        "scream-local": "0u",
+        "relikd-public": "0u"
+      }
+    },
+    {
+      "index": 95,
+      "page": 50,
+      "row": 1,
+      "column": 7,
+      "token": "0Z",
+      "bbox": [
+        1605,
+        809,
+        1706,
+        880
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0Z",
+        "scream-local": "0Z",
+        "relikd-public": "0Z"
+      }
+    },
+    {
+      "index": 96,
+      "page": 50,
+      "row": 2,
+      "column": 0,
+      "token": "3g",
+      "bbox": [
+        628,
+        985,
+        723,
+        1078
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3g",
+        "scream-local": "3g",
+        "relikd-public": "3g"
+      }
+    },
+    {
+      "index": 97,
+      "page": 50,
+      "row": 2,
+      "column": 1,
+      "token": "2U",
+      "bbox": [
+        761,
+        985,
+        866,
+        1078
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2U",
+        "scream-local": "2U",
+        "relikd-public": "2U"
+      }
+    },
+    {
+      "index": 98,
+      "page": 50,
+      "row": 2,
+      "column": 2,
+      "token": "1C",
+      "bbox": [
+        913,
+        985,
+        1013,
+        1078
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1C",
+        "scream-local": "1C",
+        "relikd-public": "1C"
+      }
+    },
+    {
+      "index": 99,
+      "page": 50,
+      "row": 2,
+      "column": 3,
+      "token": "0Y",
+      "bbox": [
+        1049,
+        985,
+        1152,
+        1078
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0Y",
+        "scream-local": "0Y",
+        "relikd-public": "0Y"
+      }
+    },
+    {
+      "index": 100,
+      "page": 50,
+      "row": 2,
+      "column": 4,
+      "token": "1N",
+      "bbox": [
+        1194,
+        985,
+        1302,
+        1078
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1N",
+        "scream-local": "1N",
+        "relikd-public": "1N"
+      }
+    },
+    {
+      "index": 101,
+      "page": 50,
+      "row": 2,
+      "column": 5,
+      "token": "3n",
+      "bbox": [
+        1341,
+        985,
+        1431,
+        1078
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3n",
+        "scream-local": "3n",
+        "relikd-public": "3n"
+      }
+    },
+    {
+      "index": 102,
+      "page": 50,
+      "row": 2,
+      "column": 6,
+      "token": "0W",
+      "bbox": [
+        1468,
+        985,
+        1616,
+        1078
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0W",
+        "scream-local": "0W",
+        "relikd-public": "0W"
+      }
+    },
+    {
+      "index": 103,
+      "page": 50,
+      "row": 2,
+      "column": 7,
+      "token": "3Q",
+      "bbox": [
+        1650,
+        985,
+        1772,
+        1078
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3Q",
+        "scream-local": "3Q",
+        "relikd-public": "3Q"
+      }
+    },
+    {
+      "index": 104,
+      "page": 50,
+      "row": 3,
+      "column": 0,
+      "token": "22",
+      "bbox": [
+        675,
+        1165,
+        773,
+        1238
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "22",
+        "scream-local": "22",
+        "relikd-public": "22"
+      }
+    },
+    {
+      "index": 105,
+      "page": 50,
+      "row": 3,
+      "column": 1,
+      "token": "13",
+      "bbox": [
+        822,
+        1165,
+        909,
+        1238
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "13",
+        "scream-local": "13",
+        "relikd-public": "13"
+      }
+    },
+    {
+      "index": 106,
+      "page": 50,
+      "row": 3,
+      "column": 2,
+      "token": "0V",
+      "bbox": [
+        948,
+        1165,
+        1054,
+        1238
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0V",
+        "scream-local": "0V",
+        "relikd-public": "0V"
+      }
+    },
+    {
+      "index": 107,
+      "page": 50,
+      "row": 3,
+      "column": 3,
+      "token": "3c",
+      "bbox": [
+        1087,
+        1165,
+        1175,
+        1238
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3c",
+        "scream-local": "3c",
+        "relikd-public": "3c"
+      }
+    },
+    {
+      "index": 108,
+      "page": 50,
+      "row": 3,
+      "column": 4,
+      "token": "0E",
+      "bbox": [
+        1210,
+        1165,
+        1303,
+        1238
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0E",
+        "scream-local": "0E",
+        "relikd-public": "0E"
+      }
+    },
+    {
+      "index": 109,
+      "page": 50,
+      "row": 3,
+      "column": 5,
+      "token": "34",
+      "bbox": [
+        1342,
+        1165,
+        1442,
+        1238
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "34",
+        "scream-local": "34",
+        "relikd-public": "34"
+      }
+    },
+    {
+      "index": 110,
+      "page": 50,
+      "row": 3,
+      "column": 6,
+      "token": "0W",
+      "bbox": [
+        1476,
+        1165,
+        1624,
+        1238
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0W",
+        "scream-local": "0W",
+        "relikd-public": "0W"
+      }
+    },
+    {
+      "index": 111,
+      "page": 50,
+      "row": 3,
+      "column": 7,
+      "token": "1t",
+      "bbox": [
+        1666,
+        1165,
+        1729,
+        1238
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1t",
+        "scream-local": "1t",
+        "relikd-public": "1t"
+      }
+    },
+    {
+      "index": 112,
+      "page": 50,
+      "row": 4,
+      "column": 0,
+      "token": "1D",
+      "bbox": [
+        676,
+        1344,
+        774,
+        1438
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1D",
+        "scream-local": "1D",
+        "relikd-public": "1D"
+      }
+    },
+    {
+      "index": 113,
+      "page": 50,
+      "row": 4,
+      "column": 1,
+      "token": "2N",
+      "bbox": [
+        808,
+        1344,
+        926,
+        1438
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2N",
+        "scream-local": "2N",
+        "relikd-public": "2N"
+      }
+    },
+    {
+      "index": 114,
+      "page": 50,
+      "row": 4,
+      "column": 2,
+      "token": "3H",
+      "bbox": [
+        965,
+        1344,
+        1072,
+        1438
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3H",
+        "scream-local": "3H",
+        "relikd-public": "3H"
+      }
+    },
+    {
+      "index": 115,
+      "page": 50,
+      "row": 4,
+      "column": 3,
+      "token": "47",
+      "bbox": [
+        1107,
+        1344,
+        1215,
+        1438
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "47",
+        "scream-local": "47",
+        "relikd-public": "47"
+      }
+    },
+    {
+      "index": 116,
+      "page": 50,
+      "row": 4,
+      "column": 4,
+      "token": "0s",
+      "bbox": [
+        1246,
+        1344,
+        1329,
+        1438
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0s",
+        "scream-local": "0s",
+        "relikd-public": "0s"
+      }
+    },
+    {
+      "index": 117,
+      "page": 50,
+      "row": 4,
+      "column": 5,
+      "token": "2p",
+      "bbox": [
+        1365,
+        1344,
+        1463,
+        1438
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2p",
+        "scream-local": "2p",
+        "relikd-public": "2p"
+      }
+    },
+    {
+      "index": 118,
+      "page": 50,
+      "row": 4,
+      "column": 6,
+      "token": "0Z",
+      "bbox": [
+        1497,
+        1344,
+        1598,
+        1438
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0Z",
+        "scream-local": "0Z",
+        "relikd-public": "0Z"
+      }
+    },
+    {
+      "index": 119,
+      "page": 50,
+      "row": 4,
+      "column": 7,
+      "token": "34",
+      "bbox": [
+        1633,
+        1344,
+        1733,
+        1438
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "34",
+        "scream-local": "34",
+        "relikd-public": "34"
+      }
+    },
+    {
+      "index": 120,
+      "page": 50,
+      "row": 5,
+      "column": 0,
+      "token": "0g",
+      "bbox": [
+        674,
+        1519,
+        771,
+        1616
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0g",
+        "scream-local": "0g",
+        "relikd-public": "0g"
+      }
+    },
+    {
+      "index": 121,
+      "page": 50,
+      "row": 5,
+      "column": 1,
+      "token": "3v",
+      "bbox": [
+        810,
+        1519,
+        900,
+        1616
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3v",
+        "scream-local": "3v",
+        "relikd-public": "3v"
+      }
+    },
+    {
+      "index": 122,
+      "page": 50,
+      "row": 5,
+      "column": 2,
+      "token": "1Q",
+      "bbox": [
+        942,
+        1519,
+        1056,
+        1616
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1Q",
+        "scream-local": "1Q",
+        "relikd-public": "1Q"
+      }
+    },
+    {
+      "index": 123,
+      "page": 50,
+      "row": 5,
+      "column": 3,
+      "token": "0s",
+      "bbox": [
+        1089,
+        1519,
+        1173,
+        1616
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0s",
+        "scream-local": "0s",
+        "relikd-public": "0s"
+      }
+    },
+    {
+      "index": 124,
+      "page": 50,
+      "row": 5,
+      "column": 4,
+      "token": "0D",
+      "bbox": [
+        1207,
+        1519,
+        1316,
+        1616
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0D",
+        "scream-local": "0D",
+        "relikd-public": "0D"
+      }
+    },
+    {
+      "index": 125,
+      "page": 50,
+      "row": 5,
+      "column": 5,
+      "token": "0K",
+      "bbox": [
+        1350,
+        1519,
+        1455,
+        1616
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0K",
+        "scream-local": "0K",
+        "relikd-public": "0K"
+      }
+    },
+    {
+      "index": 126,
+      "page": 50,
+      "row": 5,
+      "column": 6,
+      "token": "2h",
+      "bbox": [
+        1487,
+        1519,
+        1578,
+        1616
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2h",
+        "scream-local": "2h",
+        "relikd-public": "2h"
+      }
+    },
+    {
+      "index": 127,
+      "page": 50,
+      "row": 5,
+      "column": 7,
+      "token": "3D",
+      "bbox": [
+        1617,
+        1519,
+        1724,
+        1616
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3D",
+        "scream-local": "3D",
+        "relikd-public": "3D"
+      }
+    },
+    {
+      "index": 128,
+      "page": 50,
+      "row": 6,
+      "column": 0,
+      "token": "3L",
+      "bbox": [
+        688,
+        1704,
+        770,
+        1796
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3L",
+        "scream-local": "3L",
+        "relikd-public": "3L"
+      }
+    },
+    {
+      "index": 129,
+      "page": 50,
+      "row": 6,
+      "column": 1,
+      "token": "2x",
+      "bbox": [
+        802,
+        1704,
+        897,
+        1796
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2x",
+        "scream-local": "2x",
+        "relikd-public": "2x"
+      }
+    },
+    {
+      "index": 130,
+      "page": 50,
+      "row": 6,
+      "column": 2,
+      "token": "1Q",
+      "bbox": [
+        938,
+        1704,
+        1052,
+        1796
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1Q",
+        "scream-local": "1Q",
+        "relikd-public": "1Q"
+      }
+    },
+    {
+      "index": 131,
+      "page": 50,
+      "row": 6,
+      "column": 3,
+      "token": "20",
+      "bbox": [
+        1087,
+        1704,
+        1189,
+        1796
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "20",
+        "scream-local": "20",
+        "relikd-public": "20"
+      }
+    },
+    {
+      "index": 132,
+      "page": 50,
+      "row": 6,
+      "column": 4,
+      "token": "2n",
+      "bbox": [
+        1223,
+        1704,
+        1315,
+        1796
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2n",
+        "scream-local": "2n",
+        "relikd-public": "2n"
+      }
+    },
+    {
+      "index": 133,
+      "page": 50,
+      "row": 6,
+      "column": 5,
+      "token": "2L",
+      "bbox": [
+        1353,
+        1704,
+        1437,
+        1796
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2L",
+        "scream-local": "2L",
+        "relikd-public": "2L"
+      }
+    },
+    {
+      "index": 134,
+      "page": 50,
+      "row": 6,
+      "column": 6,
+      "token": "1C",
+      "bbox": [
+        1478,
+        1704,
+        1577,
+        1796
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1C",
+        "scream-local": "1C",
+        "relikd-public": "1C"
+      }
+    },
+    {
+      "index": 135,
+      "page": 50,
+      "row": 6,
+      "column": 7,
+      "token": "2p",
+      "bbox": [
+        1614,
+        1704,
+        1712,
+        1796
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2p",
+        "scream-local": "2p",
+        "relikd-public": "2p"
+      }
+    },
+    {
+      "index": 136,
+      "page": 50,
+      "row": 7,
+      "column": 0,
+      "token": "0A",
+      "bbox": [
+        664,
+        1877,
+        777,
+        1954
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0A",
+        "scream-local": "0A",
+        "relikd-public": "0A"
+      }
+    },
+    {
+      "index": 137,
+      "page": 50,
+      "row": 7,
+      "column": 1,
+      "token": "29",
+      "bbox": [
+        809,
+        1877,
+        910,
+        1954
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "29",
+        "scream-local": "29",
+        "relikd-public": "29"
+      }
+    },
+    {
+      "index": 138,
+      "page": 50,
+      "row": 7,
+      "column": 2,
+      "token": "3r",
+      "bbox": [
+        947,
+        1877,
+        1026,
+        1954
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3r",
+        "scream-local": "3r",
+        "relikd-public": "3r"
+      }
+    },
+    {
+      "index": 139,
+      "page": 50,
+      "row": 7,
+      "column": 3,
+      "token": "0D",
+      "bbox": [
+        1057,
+        1877,
+        1166,
+        1954
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0D",
+        "scream-local": "0D",
+        "relikd-public": "0D"
+      }
+    },
+    {
+      "index": 140,
+      "page": 50,
+      "row": 7,
+      "column": 4,
+      "token": "45",
+      "bbox": [
+        1197,
+        1877,
+        1298,
+        1954
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "45",
+        "scream-local": "45",
+        "relikd-public": "45"
+      }
+    },
+    {
+      "index": 141,
+      "page": 50,
+      "row": 7,
+      "column": 5,
+      "token": "0k",
+      "bbox": [
+        1337,
+        1877,
+        1430,
+        1954
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0k",
+        "scream-local": "0k",
+        "relikd-public": "0k"
+      }
+    },
+    {
+      "index": 142,
+      "page": 50,
+      "row": 7,
+      "column": 6,
+      "token": "2e",
+      "bbox": [
+        1462,
+        1877,
+        1555,
+        1954
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2e",
+        "scream-local": "2e",
+        "relikd-public": "2e"
+      }
+    },
+    {
+      "index": 143,
+      "page": 50,
+      "row": 7,
+      "column": 7,
+      "token": "2W",
+      "bbox": [
+        1590,
+        1877,
+        1737,
+        1954
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2W",
+        "scream-local": "2W",
+        "relikd-public": "2W"
+      }
+    },
+    {
+      "index": 144,
+      "page": 50,
+      "row": 8,
+      "column": 0,
+      "token": "25",
+      "bbox": [
+        670,
+        2060,
+        768,
+        2133
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "25",
+        "scream-local": "25",
+        "relikd-public": "25"
+      }
+    },
+    {
+      "index": 145,
+      "page": 50,
+      "row": 8,
+      "column": 1,
+      "token": "3U",
+      "bbox": [
+        808,
+        2060,
+        912,
+        2133
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3U",
+        "scream-local": "3U",
+        "relikd-public": "3U"
+      }
+    },
+    {
+      "index": 146,
+      "page": 50,
+      "row": 8,
+      "column": 2,
+      "token": "1W",
+      "bbox": [
+        959,
+        2060,
+        1097,
+        2133
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1W",
+        "scream-local": "1W",
+        "relikd-public": "1W"
+      }
+    },
+    {
+      "index": 147,
+      "page": 50,
+      "row": 8,
+      "column": 3,
+      "token": "2r",
+      "bbox": [
+        1129,
+        2060,
+        1208,
+        2133
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2r",
+        "scream-local": "2r",
+        "relikd-public": "2r"
+      }
+    },
+    {
+      "index": 148,
+      "page": 50,
+      "row": 8,
+      "column": 4,
+      "token": "46",
+      "bbox": [
+        1237,
+        2060,
+        1341,
+        2133
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "46",
+        "scream-local": "46",
+        "relikd-public": "46"
+      }
+    },
+    {
+      "index": 149,
+      "page": 50,
+      "row": 8,
+      "column": 5,
+      "token": "2s",
+      "bbox": [
+        1378,
+        2060,
+        1460,
+        2133
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2s",
+        "scream-local": "2s",
+        "relikd-public": "2s"
+      }
+    },
+    {
+      "index": 150,
+      "page": 50,
+      "row": 8,
+      "column": 6,
+      "token": "2X",
+      "bbox": [
+        1495,
+        2060,
+        1595,
+        2133
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2X",
+        "scream-local": "2X",
+        "relikd-public": "2X"
+      }
+    },
+    {
+      "index": 151,
+      "page": 50,
+      "row": 8,
+      "column": 7,
+      "token": "39",
+      "bbox": [
+        1628,
+        2060,
+        1728,
+        2133
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "39",
+        "scream-local": "39",
+        "relikd-public": "39"
+      }
+    },
+    {
+      "index": 152,
+      "page": 50,
+      "row": 9,
+      "column": 0,
+      "token": "3p",
+      "bbox": [
+        684,
+        2239,
+        782,
+        2333
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3p",
+        "scream-local": "3p",
+        "relikd-public": "3p"
+      }
+    },
+    {
+      "index": 153,
+      "page": 50,
+      "row": 9,
+      "column": 1,
+      "token": "0X",
+      "bbox": [
+        816,
+        2239,
+        916,
+        2333
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0X",
+        "scream-local": "0X",
+        "relikd-public": "0X"
+      }
+    },
+    {
+      "index": 154,
+      "page": 50,
+      "row": 9,
+      "column": 2,
+      "token": "0E",
+      "bbox": [
+        948,
+        2239,
+        1041,
+        2333
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0E",
+        "scream-local": "0E",
+        "relikd-public": "0E"
+      }
+    },
+    {
+      "index": 155,
+      "page": 50,
+      "row": 9,
+      "column": 3,
+      "token": "1q",
+      "bbox": [
+        1088,
+        2239,
+        1174,
+        2333
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1q",
+        "scream-local": "1q",
+        "relikd-public": "1q"
+      }
+    },
+    {
+      "index": 156,
+      "page": 50,
+      "row": 9,
+      "column": 4,
+      "token": "0q",
+      "bbox": [
+        1210,
+        2239,
+        1307,
+        2333
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0q",
+        "scream-local": "0q",
+        "relikd-public": "0q"
+      }
+    },
+    {
+      "index": 157,
+      "page": 50,
+      "row": 9,
+      "column": 5,
+      "token": "4B",
+      "bbox": [
+        1342,
+        2239,
+        1442,
+        2333
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "4B",
+        "scream-local": "4B",
+        "relikd-public": "4B"
+      }
+    },
+    {
+      "index": 158,
+      "page": 50,
+      "row": 9,
+      "column": 6,
+      "token": "49",
+      "bbox": [
+        1475,
+        2239,
+        1578,
+        2333
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "49",
+        "scream-local": "49",
+        "relikd-public": "49"
+      }
+    },
+    {
+      "index": 159,
+      "page": 50,
+      "row": 9,
+      "column": 7,
+      "token": "48",
+      "bbox": [
+        1611,
+        2239,
+        1713,
+        2333
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "48",
+        "scream-local": "48",
+        "relikd-public": "48"
+      }
+    },
+    {
+      "index": 160,
+      "page": 50,
+      "row": 10,
+      "column": 0,
+      "token": "3r",
+      "bbox": [
+        697,
+        2414,
+        776,
+        2512
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3r",
+        "scream-local": "3r",
+        "relikd-public": "3r"
+      }
+    },
+    {
+      "index": 161,
+      "page": 50,
+      "row": 10,
+      "column": 1,
+      "token": "3b",
+      "bbox": [
+        809,
+        2414,
+        907,
+        2512
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3b",
+        "scream-local": "3b",
+        "relikd-public": "3b"
+      }
+    },
+    {
+      "index": 162,
+      "page": 50,
+      "row": 10,
+      "column": 2,
+      "token": "3C",
+      "bbox": [
+        942,
+        2414,
+        1050,
+        2512
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3C",
+        "scream-local": "3C",
+        "relikd-public": "3C"
+      }
+    },
+    {
+      "index": 163,
+      "page": 50,
+      "row": 10,
+      "column": 3,
+      "token": "1M",
+      "bbox": [
+        1097,
+        2414,
+        1216,
+        2512
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1M",
+        "scream-local": "1M",
+        "relikd-public": "1M"
+      }
+    },
+    {
+      "index": 164,
+      "page": 50,
+      "row": 10,
+      "column": 4,
+      "token": "1j",
+      "bbox": [
+        1259,
+        2414,
+        1316,
+        2512
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1j",
+        "scream-local": "1j",
+        "relikd-public": "1j"
+      }
+    },
+    {
+      "index": 165,
+      "page": 50,
+      "row": 10,
+      "column": 5,
+      "token": "0I",
+      "bbox": [
+        1354,
+        2414,
+        1420,
+        2512
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0l",
+        "scream-local": "0I",
+        "relikd-public": "0l"
+      }
+    },
+    {
+      "index": 166,
+      "page": 50,
+      "row": 10,
+      "column": 6,
+      "token": "4A",
+      "bbox": [
+        1455,
+        2414,
+        1569,
+        2512
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "4A",
+        "scream-local": "4A",
+        "relikd-public": "4A"
+      }
+    },
+    {
+      "index": 167,
+      "page": 50,
+      "row": 10,
+      "column": 7,
+      "token": "48",
+      "bbox": [
+        1599,
+        2414,
+        1700,
+        2512
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "48",
+        "scream-local": "48",
+        "relikd-public": "48"
+      }
+    },
+    {
+      "index": 168,
+      "page": 50,
+      "row": 11,
+      "column": 0,
+      "token": "40",
+      "bbox": [
+        706,
+        2597,
+        812,
+        2669
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "40",
+        "scream-local": "40",
+        "relikd-public": "40"
+      }
+    },
+    {
+      "index": 169,
+      "page": 50,
+      "row": 11,
+      "column": 1,
+      "token": "3m",
+      "bbox": [
+        846,
+        2597,
+        958,
+        2669
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3m",
+        "scream-local": "3m",
+        "relikd-public": "3m"
+      }
+    },
+    {
+      "index": 170,
+      "page": 50,
+      "row": 11,
+      "column": 2,
+      "token": "4E",
+      "bbox": [
+        993,
+        2597,
+        1088,
+        2669
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "4E",
+        "scream-local": "4E",
+        "relikd-public": "4E"
+      }
+    },
+    {
+      "index": 171,
+      "page": 50,
+      "row": 11,
+      "column": 3,
+      "token": "0s",
+      "bbox": [
+        1124,
+        2597,
+        1208,
+        2669
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0s",
+        "scream-local": "0s",
+        "relikd-public": "0s"
+      }
+    },
+    {
+      "index": 172,
+      "page": 50,
+      "row": 11,
+      "column": 4,
+      "token": "2S",
+      "bbox": [
+        1243,
+        2597,
+        1339,
+        2669
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2s",
+        "scream-local": "2S",
+        "relikd-public": "2s"
+      }
+    },
+    {
+      "index": 173,
+      "page": 50,
+      "row": 11,
+      "column": 5,
+      "token": "1v",
+      "bbox": [
+        1385,
+        2597,
+        1467,
+        2669
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1v",
+        "scream-local": "1v",
+        "relikd-public": "1v"
+      }
+    },
+    {
+      "index": 174,
+      "page": 50,
+      "row": 11,
+      "column": 6,
+      "token": "3T",
+      "bbox": [
+        1500,
+        2597,
+        1591,
+        2669
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3T",
+        "scream-local": "3T",
+        "relikd-public": "3T"
+      }
+    },
+    {
+      "index": 175,
+      "page": 50,
+      "row": 11,
+      "column": 7,
+      "token": "0I",
+      "bbox": [
+        1622,
+        2597,
+        1689,
+        2669
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0I",
+        "scream-local": "0I",
+        "relikd-public": "0I"
+      }
+    },
+    {
+      "index": 176,
+      "page": 50,
+      "row": 12,
+      "column": 0,
+      "token": "3t",
+      "bbox": [
+        735,
+        2772,
+        806,
+        2847
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3t",
+        "scream-local": "3t",
+        "relikd-public": "3t"
+      }
+    },
+    {
+      "index": 177,
+      "page": 50,
+      "row": 12,
+      "column": 1,
+      "token": "2B",
+      "bbox": [
+        837,
+        2772,
+        933,
+        2847
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2B",
+        "scream-local": "2B",
+        "relikd-public": "2B"
+      }
+    },
+    {
+      "index": 178,
+      "page": 50,
+      "row": 12,
+      "column": 2,
+      "token": "2k",
+      "bbox": [
+        969,
+        2772,
+        1061,
+        2847
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2k",
+        "scream-local": "2k",
+        "relikd-public": "2k"
+      }
+    },
+    {
+      "index": 179,
+      "page": 50,
+      "row": 12,
+      "column": 3,
+      "token": "2t",
+      "bbox": [
+        1093,
+        2772,
+        1166,
+        2847
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2t",
+        "scream-local": "2t",
+        "relikd-public": "2t"
+      }
+    },
+    {
+      "index": 180,
+      "page": 50,
+      "row": 12,
+      "column": 4,
+      "token": "2O",
+      "bbox": [
+        1197,
+        2772,
+        1320,
+        2847
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2O",
+        "scream-local": "2O",
+        "relikd-public": "2O"
+      }
+    },
+    {
+      "index": 181,
+      "page": 50,
+      "row": 12,
+      "column": 5,
+      "token": "0e",
+      "bbox": [
+        1354,
+        2772,
+        1449,
+        2847
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0e",
+        "scream-local": "0e",
+        "relikd-public": "0e"
+      }
+    },
+    {
+      "index": 182,
+      "page": 50,
+      "row": 12,
+      "column": 6,
+      "token": "2l",
+      "bbox": [
+        1484,
+        2772,
+        1548,
+        2847
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2l",
+        "scream-local": "2l",
+        "relikd-public": "2l"
+      }
+    },
+    {
+      "index": 183,
+      "page": 50,
+      "row": 12,
+      "column": 7,
+      "token": "1L",
+      "bbox": [
+        1596,
+        2772,
+        1669,
+        2847
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1L",
+        "scream-local": "1L",
+        "relikd-public": "1L"
+      }
+    },
+    {
+      "index": 184,
+      "page": 51,
+      "row": 0,
+      "column": 0,
+      "token": "28",
+      "bbox": [
+        702,
+        629,
+        801,
+        704
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "28",
+        "scream-local": "28",
+        "relikd-public": "28"
+      }
+    },
+    {
+      "index": 185,
+      "page": 51,
+      "row": 0,
+      "column": 1,
+      "token": "2a",
+      "bbox": [
+        839,
+        629,
+        934,
+        704
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2a",
+        "scream-local": "2a",
+        "relikd-public": "2a"
+      }
+    },
+    {
+      "index": 186,
+      "page": 51,
+      "row": 0,
+      "column": 2,
+      "token": "0J",
+      "bbox": [
+        971,
+        629,
+        1044,
+        704
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0J",
+        "scream-local": "0J",
+        "relikd-public": "0J"
+      }
+    },
+    {
+      "index": 187,
+      "page": 51,
+      "row": 0,
+      "column": 3,
+      "token": "1L",
+      "bbox": [
+        1092,
+        629,
+        1166,
+        704
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1L",
+        "scream-local": "1L",
+        "relikd-public": "1L"
+      }
+    },
+    {
+      "index": 188,
+      "page": 51,
+      "row": 0,
+      "column": 4,
+      "token": "0c",
+      "bbox": [
+        1196,
+        629,
+        1286,
+        704
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0c",
+        "scream-local": "0c",
+        "relikd-public": "0c"
+      }
+    },
+    {
+      "index": 189,
+      "page": 51,
+      "row": 0,
+      "column": 5,
+      "token": "3C",
+      "bbox": [
+        1323,
+        629,
+        1431,
+        704
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3C",
+        "scream-local": "3C",
+        "relikd-public": "3C"
+      }
+    },
+    {
+      "index": 190,
+      "page": 51,
+      "row": 0,
+      "column": 6,
+      "token": "2o",
+      "bbox": [
+        1468,
+        629,
+        1566,
+        704
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2o",
+        "scream-local": "2o",
+        "relikd-public": "2o"
+      }
+    },
+    {
+      "index": 191,
+      "page": 51,
+      "row": 0,
+      "column": 7,
+      "token": "0X",
+      "bbox": [
+        1599,
+        629,
+        1699,
+        704
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0X",
+        "scream-local": "0X",
+        "relikd-public": "0X"
+      }
+    },
+    {
+      "index": 192,
+      "page": 51,
+      "row": 1,
+      "column": 0,
+      "token": "00",
+      "bbox": [
+        733,
+        803,
+        837,
+        901
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "00",
+        "scream-local": "00",
+        "relikd-public": "00"
+      }
+    },
+    {
+      "index": 193,
+      "page": 51,
+      "row": 1,
+      "column": 1,
+      "token": "2Z",
+      "bbox": [
+        871,
+        803,
+        972,
+        901
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2Z",
+        "scream-local": "2Z",
+        "relikd-public": "2Z"
+      }
+    },
+    {
+      "index": 194,
+      "page": 51,
+      "row": 1,
+      "column": 2,
+      "token": "2d",
+      "bbox": [
+        1005,
+        803,
+        1101,
+        901
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2d",
+        "scream-local": "2d",
+        "relikd-public": "2d"
+      }
+    },
+    {
+      "index": 195,
+      "page": 51,
+      "row": 1,
+      "column": 3,
+      "token": "1T",
+      "bbox": [
+        1148,
+        803,
+        1230,
+        901
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1T",
+        "scream-local": "1T",
+        "relikd-public": "1T"
+      }
+    },
+    {
+      "index": 196,
+      "page": 51,
+      "row": 1,
+      "column": 4,
+      "token": "2u",
+      "bbox": [
+        1262,
+        803,
+        1352,
+        901
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2u",
+        "scream-local": "2u",
+        "relikd-public": "2u"
+      }
+    },
+    {
+      "index": 197,
+      "page": 51,
+      "row": 1,
+      "column": 5,
+      "token": "1t",
+      "bbox": [
+        1400,
+        803,
+        1463,
+        901
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1t",
+        "scream-local": "1t",
+        "relikd-public": "1t"
+      }
+    },
+    {
+      "index": 198,
+      "page": 51,
+      "row": 1,
+      "column": 6,
+      "token": "1j",
+      "bbox": [
+        1503,
+        803,
+        1561,
+        901
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1j",
+        "scream-local": "1j",
+        "relikd-public": "1j"
+      }
+    },
+    {
+      "index": 199,
+      "page": 51,
+      "row": 1,
+      "column": 7,
+      "token": "0l",
+      "bbox": [
+        1598,
+        803,
+        1663,
+        901
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0l",
+        "scream-local": "0l",
+        "relikd-public": "0l"
+      }
+    },
+    {
+      "index": 200,
+      "page": 51,
+      "row": 2,
+      "column": 0,
+      "token": "1o",
+      "bbox": [
+        698,
+        987,
+        786,
+        1056
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1o",
+        "scream-local": "1o",
+        "relikd-public": "1o"
+      }
+    },
+    {
+      "index": 201,
+      "page": 51,
+      "row": 2,
+      "column": 1,
+      "token": "1E",
+      "bbox": [
+        830,
+        987,
+        913,
+        1056
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1E",
+        "scream-local": "1E",
+        "relikd-public": "1E"
+      }
+    },
+    {
+      "index": 202,
+      "page": 51,
+      "row": 2,
+      "column": 2,
+      "token": "3T",
+      "bbox": [
+        950,
+        987,
+        1041,
+        1056
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3T",
+        "scream-local": "3T",
+        "relikd-public": "3T"
+      }
+    },
+    {
+      "index": 203,
+      "page": 51,
+      "row": 2,
+      "column": 3,
+      "token": "18",
+      "bbox": [
+        1083,
+        987,
+        1172,
+        1056
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "18",
+        "scream-local": "18",
+        "relikd-public": "18"
+      }
+    },
+    {
+      "index": 204,
+      "page": 51,
+      "row": 2,
+      "column": 4,
+      "token": "3E",
+      "bbox": [
+        1211,
+        987,
+        1302,
+        1056
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3E",
+        "scream-local": "3E",
+        "relikd-public": "3E"
+      }
+    },
+    {
+      "index": 205,
+      "page": 51,
+      "row": 2,
+      "column": 5,
+      "token": "1G",
+      "bbox": [
+        1350,
+        987,
+        1459,
+        1056
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1G",
+        "scream-local": "1G",
+        "relikd-public": "1G"
+      }
+    },
+    {
+      "index": 206,
+      "page": 51,
+      "row": 2,
+      "column": 6,
+      "token": "27",
+      "bbox": [
+        1494,
+        987,
+        1599,
+        1056
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "27",
+        "scream-local": "27",
+        "relikd-public": "27"
+      }
+    },
+    {
+      "index": 207,
+      "page": 51,
+      "row": 2,
+      "column": 7,
+      "token": "0L",
+      "bbox": [
+        1630,
+        987,
+        1715,
+        1056
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0L",
+        "scream-local": "0L",
+        "relikd-public": "0L"
+      }
+    },
+    {
+      "index": 208,
+      "page": 51,
+      "row": 3,
+      "column": 0,
+      "token": "0v",
+      "bbox": [
+        677,
+        1165,
+        770,
+        1237
+      ],
+      "coordinate_source": "Round19 C1 grid; p51 row3 columns1-3 inspection override",
+      "sources": {
+        "relikd-local": "0v",
+        "scream-local": "0v",
+        "relikd-public": "0v"
+      }
+    },
+    {
+      "index": 209,
+      "page": 51,
+      "row": 3,
+      "column": 1,
+      "token": "2t",
+      "bbox": [
+        790,
+        1150,
+        879,
+        1250
+      ],
+      "coordinate_source": "Round19 C1 grid; p51 row3 columns1-3 inspection override",
+      "sources": {
+        "relikd-local": "2t",
+        "scream-local": "2t",
+        "relikd-public": "2t"
+      }
+    },
+    {
+      "index": 210,
+      "page": 51,
+      "row": 3,
+      "column": 2,
+      "token": "06",
+      "bbox": [
+        887,
+        1150,
+        1015,
+        1250
+      ],
+      "coordinate_source": "Round19 C1 grid; p51 row3 columns1-3 inspection override",
+      "sources": {
+        "relikd-local": "06",
+        "scream-local": "06",
+        "relikd-public": "06"
+      }
+    },
+    {
+      "index": 211,
+      "page": 51,
+      "row": 3,
+      "column": 3,
+      "token": "11",
+      "bbox": [
+        1035,
+        1150,
+        1140,
+        1250
+      ],
+      "coordinate_source": "Round19 C1 grid; p51 row3 columns1-3 inspection override",
+      "sources": {
+        "relikd-local": "11",
+        "scream-local": "11",
+        "relikd-public": "11"
+      }
+    },
+    {
+      "index": 212,
+      "page": 51,
+      "row": 3,
+      "column": 4,
+      "token": "1A",
+      "bbox": [
+        1188,
+        1165,
+        1289,
+        1237
+      ],
+      "coordinate_source": "Round19 C1 grid; p51 row3 columns1-3 inspection override",
+      "sources": {
+        "relikd-local": "1A",
+        "scream-local": "1A",
+        "relikd-public": "1A"
+      }
+    },
+    {
+      "index": 213,
+      "page": 51,
+      "row": 3,
+      "column": 5,
+      "token": "2U",
+      "bbox": [
+        1323,
+        1165,
+        1428,
+        1237
+      ],
+      "coordinate_source": "Round19 C1 grid; p51 row3 columns1-3 inspection override",
+      "sources": {
+        "relikd-local": "2U",
+        "scream-local": "2U",
+        "relikd-public": "2U"
+      }
+    },
+    {
+      "index": 214,
+      "page": 51,
+      "row": 3,
+      "column": 6,
+      "token": "4B",
+      "bbox": [
+        1462,
+        1165,
+        1562,
+        1237
+      ],
+      "coordinate_source": "Round19 C1 grid; p51 row3 columns1-3 inspection override",
+      "sources": {
+        "relikd-local": "4B",
+        "scream-local": "4B",
+        "relikd-public": "4B"
+      }
+    },
+    {
+      "index": 215,
+      "page": 51,
+      "row": 3,
+      "column": 7,
+      "token": "1O",
+      "bbox": [
+        1608,
+        1165,
+        1721,
+        1237
+      ],
+      "coordinate_source": "Round19 C1 grid; p51 row3 columns1-3 inspection override",
+      "sources": {
+        "relikd-local": "1O",
+        "scream-local": "1O",
+        "relikd-public": "1O"
+      }
+    },
+    {
+      "index": 216,
+      "page": 51,
+      "row": 4,
+      "column": 0,
+      "token": "2M",
+      "bbox": [
+        663,
+        1340,
+        792,
+        1438
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2M",
+        "scream-local": "2M",
+        "relikd-public": "2M"
+      }
+    },
+    {
+      "index": 217,
+      "page": 51,
+      "row": 4,
+      "column": 1,
+      "token": "3d",
+      "bbox": [
+        826,
+        1340,
+        920,
+        1438
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3d",
+        "scream-local": "3d",
+        "relikd-public": "3d"
+      }
+    },
+    {
+      "index": 218,
+      "page": 51,
+      "row": 4,
+      "column": 2,
+      "token": "2S",
+      "bbox": [
+        958,
+        1340,
+        1055,
+        1438
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2S",
+        "scream-local": "2S",
+        "relikd-public": "2S"
+      }
+    },
+    {
+      "index": 219,
+      "page": 51,
+      "row": 4,
+      "column": 3,
+      "token": "0x",
+      "bbox": [
+        1089,
+        1340,
+        1185,
+        1438
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0x",
+        "scream-local": "0x",
+        "relikd-public": "0x"
+      }
+    },
+    {
+      "index": 220,
+      "page": 51,
+      "row": 4,
+      "column": 4,
+      "token": "0w",
+      "bbox": [
+        1215,
+        1340,
+        1334,
+        1438
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0w",
+        "scream-local": "0w",
+        "relikd-public": "0w"
+      }
+    },
+    {
+      "index": 221,
+      "page": 51,
+      "row": 4,
+      "column": 5,
+      "token": "0q",
+      "bbox": [
+        1365,
+        1340,
+        1462,
+        1438
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0q",
+        "scream-local": "0q",
+        "relikd-public": "0q"
+      }
+    },
+    {
+      "index": 222,
+      "page": 51,
+      "row": 4,
+      "column": 6,
+      "token": "0p",
+      "bbox": [
+        1499,
+        1340,
+        1598,
+        1438
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0p",
+        "scream-local": "0p",
+        "relikd-public": "0p"
+      }
+    },
+    {
+      "index": 223,
+      "page": 51,
+      "row": 4,
+      "column": 7,
+      "token": "2V",
+      "bbox": [
+        1633,
+        1340,
+        1739,
+        1438
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2V",
+        "scream-local": "2V",
+        "relikd-public": "2V"
+      }
+    },
+    {
+      "index": 224,
+      "page": 51,
+      "row": 5,
+      "column": 0,
+      "token": "18",
+      "bbox": [
+        691,
+        1523,
+        780,
+        1617
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "18",
+        "scream-local": "18",
+        "relikd-public": "18"
+      }
+    },
+    {
+      "index": 225,
+      "page": 51,
+      "row": 5,
+      "column": 1,
+      "token": "0q",
+      "bbox": [
+        817,
+        1523,
+        914,
+        1617
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0q",
+        "scream-local": "0q",
+        "relikd-public": "0q"
+      }
+    },
+    {
+      "index": 226,
+      "page": 51,
+      "row": 5,
+      "column": 2,
+      "token": "1D",
+      "bbox": [
+        961,
+        1523,
+        1059,
+        1617
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1D",
+        "scream-local": "1D",
+        "relikd-public": "1D"
+      }
+    },
+    {
+      "index": 227,
+      "page": 51,
+      "row": 5,
+      "column": 3,
+      "token": "49",
+      "bbox": [
+        1090,
+        1523,
+        1194,
+        1617
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "49",
+        "scream-local": "49",
+        "relikd-public": "49"
+      }
+    },
+    {
+      "index": 228,
+      "page": 51,
+      "row": 5,
+      "column": 4,
+      "token": "2O",
+      "bbox": [
+        1231,
+        1523,
+        1354,
+        1617
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2O",
+        "scream-local": "2O",
+        "relikd-public": "2O"
+      }
+    },
+    {
+      "index": 229,
+      "page": 51,
+      "row": 5,
+      "column": 5,
+      "token": "00",
+      "bbox": [
+        1389,
+        1523,
+        1492,
+        1617
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "00",
+        "scream-local": "00",
+        "relikd-public": "00"
+      }
+    },
+    {
+      "index": 230,
+      "page": 51,
+      "row": 5,
+      "column": 6,
+      "token": "1v",
+      "bbox": [
+        1536,
+        1523,
+        1618,
+        1617
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1v",
+        "scream-local": "1v",
+        "relikd-public": "1v"
+      }
+    },
+    {
+      "index": 231,
+      "page": 51,
+      "row": 5,
+      "column": 7,
+      "token": "2t",
+      "bbox": [
+        1650,
+        1523,
+        1722,
+        1617
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2t",
+        "scream-local": "2t",
+        "relikd-public": "2t"
+      }
+    },
+    {
+      "index": 232,
+      "page": 51,
+      "row": 6,
+      "column": 0,
+      "token": "1k",
+      "bbox": [
+        672,
+        1698,
+        754,
+        1775
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1k",
+        "scream-local": "1k",
+        "relikd-public": "1k"
+      }
+    },
+    {
+      "index": 233,
+      "page": 51,
+      "row": 6,
+      "column": 1,
+      "token": "3s",
+      "bbox": [
+        787,
+        1698,
+        869,
+        1775
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3s",
+        "scream-local": "3s",
+        "relikd-public": "3s"
+      }
+    },
+    {
+      "index": 234,
+      "page": 51,
+      "row": 6,
+      "column": 2,
+      "token": "3G",
+      "bbox": [
+        904,
+        1698,
+        1023,
+        1775
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3G",
+        "scream-local": "3G",
+        "relikd-public": "3G"
+      }
+    },
+    {
+      "index": 235,
+      "page": 51,
+      "row": 6,
+      "column": 3,
+      "token": "21",
+      "bbox": [
+        1058,
+        1698,
+        1142,
+        1775
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "21",
+        "scream-local": "21",
+        "relikd-public": "21"
+      }
+    },
+    {
+      "index": 236,
+      "page": 51,
+      "row": 6,
+      "column": 4,
+      "token": "3w",
+      "bbox": [
+        1195,
+        1698,
+        1313,
+        1775
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3w",
+        "scream-local": "3w",
+        "relikd-public": "3w"
+      }
+    },
+    {
+      "index": 237,
+      "page": 51,
+      "row": 6,
+      "column": 5,
+      "token": "0W",
+      "bbox": [
+        1344,
+        1698,
+        1492,
+        1775
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0W",
+        "scream-local": "0W",
+        "relikd-public": "0W"
+      }
+    },
+    {
+      "index": 238,
+      "page": 51,
+      "row": 6,
+      "column": 6,
+      "token": "29",
+      "bbox": [
+        1524,
+        1698,
+        1624,
+        1775
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "29",
+        "scream-local": "29",
+        "relikd-public": "29"
+      }
+    },
+    {
+      "index": 239,
+      "page": 51,
+      "row": 6,
+      "column": 7,
+      "token": "2r",
+      "bbox": [
+        1660,
+        1698,
+        1740,
+        1775
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2r",
+        "scream-local": "2r",
+        "relikd-public": "2r"
+      }
+    },
+    {
+      "index": 240,
+      "page": 51,
+      "row": 7,
+      "column": 0,
+      "token": "2O",
+      "bbox": [
+        677,
+        1881,
+        800,
+        1974
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2O",
+        "scream-local": "2O",
+        "relikd-public": "2O"
+      }
+    },
+    {
+      "index": 241,
+      "page": 51,
+      "row": 7,
+      "column": 1,
+      "token": "2L",
+      "bbox": [
+        835,
+        1881,
+        919,
+        1974
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2L",
+        "scream-local": "2L",
+        "relikd-public": "2L"
+      }
+    },
+    {
+      "index": 242,
+      "page": 51,
+      "row": 7,
+      "column": 2,
+      "token": "0g",
+      "bbox": [
+        949,
+        1881,
+        1046,
+        1974
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0g",
+        "scream-local": "0g",
+        "relikd-public": "0g"
+      }
+    },
+    {
+      "index": 243,
+      "page": 51,
+      "row": 7,
+      "column": 3,
+      "token": "3Y",
+      "bbox": [
+        1085,
+        1881,
+        1186,
+        1974
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3Y",
+        "scream-local": "3Y",
+        "relikd-public": "3Y"
+      }
+    },
+    {
+      "index": 244,
+      "page": 51,
+      "row": 7,
+      "column": 4,
+      "token": "0M",
+      "bbox": [
+        1218,
+        1881,
+        1348,
+        1974
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0M",
+        "scream-local": "0M",
+        "relikd-public": "0M"
+      }
+    },
+    {
+      "index": 245,
+      "page": 51,
+      "row": 7,
+      "column": 5,
+      "token": "0u",
+      "bbox": [
+        1380,
+        1881,
+        1471,
+        1974
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0u",
+        "scream-local": "0u",
+        "relikd-public": "0u"
+      }
+    },
+    {
+      "index": 246,
+      "page": 51,
+      "row": 7,
+      "column": 6,
+      "token": "3I",
+      "bbox": [
+        1509,
+        1881,
+        1574,
+        1974
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3i",
+        "scream-local": "3I",
+        "relikd-public": "3i"
+      }
+    },
+    {
+      "index": 247,
+      "page": 51,
+      "row": 7,
+      "column": 7,
+      "token": "3C",
+      "bbox": [
+        1612,
+        1881,
+        1720,
+        1974
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3C",
+        "scream-local": "3C",
+        "relikd-public": "3C"
+      }
+    },
+    {
+      "index": 248,
+      "page": 51,
+      "row": 8,
+      "column": 0,
+      "token": "1r",
+      "bbox": [
+        705,
+        2062,
+        775,
+        2154
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1r",
+        "scream-local": "1r",
+        "relikd-public": "1r"
+      }
+    },
+    {
+      "index": 249,
+      "page": 51,
+      "row": 8,
+      "column": 1,
+      "token": "2c",
+      "bbox": [
+        807,
+        2062,
+        895,
+        2154
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2c",
+        "scream-local": "2c",
+        "relikd-public": "2c"
+      }
+    },
+    {
+      "index": 250,
+      "page": 51,
+      "row": 8,
+      "column": 2,
+      "token": "2q",
+      "bbox": [
+        931,
+        2062,
+        1027,
+        2154
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "2q",
+        "scream-local": "2q",
+        "relikd-public": "2q"
+      }
+    },
+    {
+      "index": 251,
+      "page": 51,
+      "row": 8,
+      "column": 3,
+      "token": "3o",
+      "bbox": [
+        1065,
+        2062,
+        1162,
+        2154
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "3o",
+        "scream-local": "3o",
+        "relikd-public": "3o"
+      }
+    },
+    {
+      "index": 252,
+      "page": 51,
+      "row": 8,
+      "column": 4,
+      "token": "30",
+      "bbox": [
+        1197,
+        2062,
+        1299,
+        2154
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "30",
+        "scream-local": "30",
+        "relikd-public": "30"
+      }
+    },
+    {
+      "index": 253,
+      "page": 51,
+      "row": 8,
+      "column": 5,
+      "token": "0a",
+      "bbox": [
+        1332,
+        2062,
+        1429,
+        2154
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "0a",
+        "scream-local": "0a",
+        "relikd-public": "0a"
+      }
+    },
+    {
+      "index": 254,
+      "page": 51,
+      "row": 8,
+      "column": 6,
+      "token": "39",
+      "bbox": [
+        1467,
+        2062,
+        1567,
+        2154
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "39",
+        "scream-local": "39",
+        "relikd-public": "39"
+      }
+    },
+    {
+      "index": 255,
+      "page": 51,
+      "row": 8,
+      "column": 7,
+      "token": "1K",
+      "bbox": [
+        1613,
+        2062,
+        1707,
+        2154
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1K",
+        "scream-local": "1K",
+        "relikd-public": "1K"
+      }
+    }
+  ]
+}

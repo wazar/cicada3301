@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "audit/alphanumeric-01/supplement.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "beee1b995e142ba920280736e9e45835abbf650a",
+  "started_utc": "2026-09-16T18:05:12.593911+00:00",
+  "timeout_seconds": 300,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/alphanumeric-01/recover.py",
+      "exists": true,
+      "bytes": 6255,
+      "sha256": "acf7847fdc33efc5788fb28cfb329be6670e6459adf027a0ddac39da08d2ea6c"
+    },
+    {
+      "path": "audit/alphanumeric-01/supplement.py",
+      "exists": true,
+      "bytes": 5372,
+      "sha256": "cfac8920dd6d56cbdbebd49706fb11db3e57b246c32846780f851e0213c6eeb3"
+    },
+    {
+      "path": "audit/alphanumeric-01/v1/scream-local.txt",
+      "exists": true,
+      "bytes": 137957,
+      "sha256": "0f7545d470f2056b45b5de2c8c116ecdea66969fdca6be57ccbd8e591e40ee92"
+    },
+    {
+      "path": "audit/alphanumeric-01/v1/transcription.json",
+      "exists": true,
+      "bytes": 109966,
+      "sha256": "d2a8cd1bf7cb20b0802c5262d752908d6036bd27a25730dd6a60fe2b8bfdfd7f"
+    },
+    {
+      "path": "audit/next-01/run_logged.py",
+      "exists": true,
+      "bytes": 2845,
+      "sha256": "7c9c595a4e6129484f652d8b6e5f16462fbcfe048d0a5785605ae87ac870fc89"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "finished_utc": "2026-09-16T18:05:12.634085+00:00",
+  "duration_seconds": 0.0399127500004397
+}

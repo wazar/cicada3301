@@ -1,0 +1,66 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "audit/f-interruption-01/verify.py",
+    "audit/f-interruption-01/results/20260916T180408.121651Z-pilot.json",
+    "audit/f-interruption-01/results/20260916T180434.839675Z-main.json"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "beee1b995e142ba920280736e9e45835abbf650a",
+  "started_utc": "2026-09-16T18:04:55.509204+00:00",
+  "timeout_seconds": 300,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/f-interruption-01/PLAN.md",
+      "exists": true,
+      "bytes": 2427,
+      "sha256": "851c0d52fd57a7c4e37e478ca68f67278cdffbfc6e907f462c72f8fe24696079"
+    },
+    {
+      "path": "audit/f-interruption-01/check.py",
+      "exists": true,
+      "bytes": 9736,
+      "sha256": "11056e5f354e9eef83ec633f5bc18d188c5798870dddb08cf902a2fbb3733ca9"
+    },
+    {
+      "path": "audit/f-interruption-01/results/20260916T180408.121651Z-pilot.json",
+      "exists": true,
+      "bytes": 275836,
+      "sha256": "2a90e1e4ce3804c1e789e2f65d254698c9bbde0a758c60cff2fc7d073c057461"
+    },
+    {
+      "path": "audit/f-interruption-01/results/20260916T180434.839675Z-main.json",
+      "exists": true,
+      "bytes": 2925901,
+      "sha256": "08f6f089c1d1f3b2dd92489cfe92053f43cae07d88db3633b0ca8f563d0b6fe7"
+    },
+    {
+      "path": "audit/f-interruption-01/verify.py",
+      "exists": true,
+      "bytes": 2349,
+      "sha256": "1c28ce3a62c0d035201200705be6a0e94be0003b928589d8e3055bed67cfe02f"
+    },
+    {
+      "path": "audit/next-01/run_logged.py",
+      "exists": true,
+      "bytes": 2845,
+      "sha256": "7c9c595a4e6129484f652d8b6e5f16462fbcfe048d0a5785605ae87ac870fc89"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "finished_utc": "2026-09-16T18:04:55.545518+00:00",
+  "duration_seconds": 0.036039042000993504
+}

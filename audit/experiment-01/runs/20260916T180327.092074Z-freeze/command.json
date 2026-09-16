@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "audit/experiment-01/freeze.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "beee1b995e142ba920280736e9e45835abbf650a",
+  "started_utc": "2026-09-16T18:03:27.103238+00:00",
+  "timeout_seconds": 300,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/experiment-01/freeze.py",
+      "exists": true,
+      "bytes": 5238,
+      "sha256": "cb1f408f8dbf71db9d7cc1ce345463db38cb0bcf0007fa1dae7ff439e2f98876"
+    },
+    {
+      "path": "audit/next-01/run_logged.py",
+      "exists": true,
+      "bytes": 2845,
+      "sha256": "7c9c595a4e6129484f652d8b6e5f16462fbcfe048d0a5785605ae87ac870fc89"
+    },
+    {
+      "path": "audit/parallel-01/coordination/PROPOSED-EXPERIMENT.md",
+      "exists": true,
+      "bytes": 3972,
+      "sha256": "0362a106dcb62a891d7af286cc5882c7716b79fdb60d13f2af0abaf32dc9c23a"
+    },
+    {
+      "path": "audit/parallel-01/inputs/dataset.json",
+      "exists": true,
+      "bytes": 1378156,
+      "sha256": "e3d8a8b7a81f00e17d54209772eee7bedb5b922e6176ca722be31f952eaea895"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "finished_utc": "2026-09-16T18:03:27.178781+00:00",
+  "duration_seconds": 0.07499883299988142
+}

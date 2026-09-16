@@ -1,0 +1,70 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "audit/next-01/integrate.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "beee1b995e142ba920280736e9e45835abbf650a",
+  "started_utc": "2026-09-16T18:11:14.184524+00:00",
+  "timeout_seconds": 300,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/CLAIMS.jsonl",
+      "exists": true,
+      "bytes": 172278,
+      "sha256": "afdc70f8f87d3bacd3d996d71b4447f196d2c55ff1c3ddc04b67a3147aeb42f2"
+    },
+    {
+      "path": "audit/alphanumeric-01/REPORT.md",
+      "exists": true,
+      "bytes": 11360,
+      "sha256": "47928a6f4d246e1b63874964db22bda8acc5610e82efe98ad5bf16a449360465"
+    },
+    {
+      "path": "audit/experiment-01/REPORT.md",
+      "exists": true,
+      "bytes": 9818,
+      "sha256": "93ad9c2903eff5ca49c9797917e5c1d5f875d7b3dd7558a01340ecf190c86000"
+    },
+    {
+      "path": "audit/f-interruption-01/REPORT.md",
+      "exists": true,
+      "bytes": 9316,
+      "sha256": "04a071159ad66d6f7ce2a5a7e6ae57faaad41ae4e041a77fe13f4085a5838cbf"
+    },
+    {
+      "path": "audit/next-01/integrate.py",
+      "exists": true,
+      "bytes": 4877,
+      "sha256": "ea94a2e82c72f0cd7ef77a42b332b455d596fefeac43cf4a6d1604ed7eebaa94"
+    },
+    {
+      "path": "audit/next-01/run_logged.py",
+      "exists": true,
+      "bytes": 2845,
+      "sha256": "7c9c595a4e6129484f652d8b6e5f16462fbcfe048d0a5785605ae87ac870fc89"
+    },
+    {
+      "path": "audit/next-review/REPORT.md",
+      "exists": true,
+      "bytes": 8518,
+      "sha256": "44eae77cb2796580e0da5d5d688cb9ffbb9347e554badf16f62dc96f5a94d875"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "finished_utc": "2026-09-16T18:11:14.225473+00:00",
+  "duration_seconds": 0.040639917000589776
+}

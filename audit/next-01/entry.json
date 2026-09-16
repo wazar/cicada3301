@@ -1,0 +1,36 @@
+{
+  "recorded_utc": "2026-09-16T18:02:56.393040+00:00",
+  "working_commit": "beee1b995e142ba920280736e9e45835abbf650a",
+  "git_status": " M .gitignore\n?? Brewfile\n?? CICADA-NEXT-EXPERIMENT-PROMPT.md\n?? MACOS-SETUP.md\n?? audit/next-01/\n?? homebrew-macos-versions.txt\n?? macos-data-checks.json\n?? requirements-macos-resolved.txt\n?? scripts/\n",
+  "unrelated_file_fingerprints": [
+    {
+      "path": "CICADA-NEXT-EXPERIMENT-PROMPT.md",
+      "sha256": "6ddd0e006aa3b425601f3b2793743e12a7ab713abb5306041d73dd5d910586c5"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "3d4bebc7b9cebf99eccabb6feb857ca6e03dc55bf33645a34e0a9b487ee17e50"
+    },
+    {
+      "path": "Brewfile",
+      "sha256": "f55d58cc09ec232ee7aeb78515366dbbbda6cfc4d7fc239b9c0f2e74dd77c9ab"
+    },
+    {
+      "path": "MACOS-SETUP.md",
+      "sha256": "b5f143d3c4ba51b25970fd4a70fa555ae8cd65fbf69b62fc7e0135dd25db3783"
+    },
+    {
+      "path": "homebrew-macos-versions.txt",
+      "sha256": "5a2f3bfa247605dec6a5081d8e49d16c7a0ece87e398c9070f8a5b1b7349383c"
+    },
+    {
+      "path": "macos-data-checks.json",
+      "sha256": "6ef56e977b608d83bbe814bdf4ab1d43af015277b8d85ff142512197b8b03ee2"
+    },
+    {
+      "path": "requirements-macos-resolved.txt",
+      "sha256": "92cf0e92c54cf6be786a36baadaad574c3d67148859a225bd21289e2159b9c17"
+    }
+  ],
+  "note": "Entry metadata capture only; not a scientific experiment."
+}

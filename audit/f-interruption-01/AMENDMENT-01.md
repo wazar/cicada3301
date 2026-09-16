@@ -1,0 +1,3 @@
+# Fixture token repair before main results
+
+The first main command (`runs/20260916T180418.984354Z-main`) exited 1 before producing synthetic fixtures or scoring candidates. The second prose fixture incorrectly spelled the final consonant of WALK as token K, which is not present in the explicitly frozen rune-token alphabet. Change that one token to C, the alphabet's consonant token used for /k/. This is a task-code fixture defect, not a failed recovery control. Original source snapshot and traceback are preserved. No messages were added, removed or selected based on scores; no search parameters or scorer changed. Coordinator informed before repair/rerun.

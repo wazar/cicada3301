@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/audit/f-interruption-01/check.py", line 182, in <module>
+    if __name__=='__main__': main()
+                             ^^^^^^
+  File "<REPO_ROOT>/audit/f-interruption-01/check.py", line 159, in main
+    for case in fixtures(args.mode=='pilot'):
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<REPO_ROOT>/audit/f-interruption-01/check.py", line 129, in fixtures
+    plains = [[TOK.index(t) for t in text.split()] for text in prose] + [[rng.randrange(29) for _ in range(80)]]
+               ^^^^^^^^^^^^
+ValueError: 'K' is not in list

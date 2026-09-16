@@ -1,0 +1,76 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "audit/next-01/check_publication.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "beee1b995e142ba920280736e9e45835abbf650a",
+  "started_utc": "2026-09-16T18:12:19.789456+00:00",
+  "timeout_seconds": 300,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/CLAIMS.jsonl",
+      "exists": true,
+      "bytes": 179919,
+      "sha256": "85f0809fcf9d5e79bb1bf6d6d90d3c7bb7772a4ebc7055c780785bbf11acb813"
+    },
+    {
+      "path": "audit/STATUS.md",
+      "exists": true,
+      "bytes": 2370,
+      "sha256": "67b6ca74bda08e5f4cf96ae891b31f5666711abea88f7252c0db654680a4c888"
+    },
+    {
+      "path": "audit/experiment-01/ACCOUNTING.json",
+      "exists": true,
+      "bytes": 10395,
+      "sha256": "f49d17d1e7a376e2a09ef68a32dfc7f97f89da3f16a1de40c7c5ceefafc48a91"
+    },
+    {
+      "path": "audit/next-01/check_publication.py",
+      "exists": true,
+      "bytes": 3414,
+      "sha256": "ada0d800ce8441ccf1542102d2695e7243c30ade1650586f97ac9b3f6fc5826d"
+    },
+    {
+      "path": "audit/next-01/integrate.py",
+      "exists": true,
+      "bytes": 4877,
+      "sha256": "ea94a2e82c72f0cd7ef77a42b332b455d596fefeac43cf4a6d1604ed7eebaa94"
+    },
+    {
+      "path": "audit/next-01/publication-redactions.json",
+      "exists": true,
+      "bytes": 884,
+      "sha256": "c727b856ababa62f0fc0306cbcab2408b69a5a10464f5bd46af49333aa2ec560"
+    },
+    {
+      "path": "audit/next-01/run_logged.py",
+      "exists": true,
+      "bytes": 2845,
+      "sha256": "7c9c595a4e6129484f652d8b6e5f16462fbcfe048d0a5785605ae87ac870fc89"
+    },
+    {
+      "path": "audit/reports/NEXT-01.md",
+      "exists": true,
+      "bytes": 11904,
+      "sha256": "bea58df2e486d04d59127a546ca9d77ca1313f3d8850d1cef660eb1bc10e7824"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "finished_utc": "2026-09-16T18:12:19.919221+00:00",
+  "duration_seconds": 0.12945816699902934
+}

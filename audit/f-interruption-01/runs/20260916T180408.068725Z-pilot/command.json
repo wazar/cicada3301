@@ -1,0 +1,95 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "audit/f-interruption-01/check.py",
+    "pilot"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "beee1b995e142ba920280736e9e45835abbf650a",
+  "started_utc": "2026-09-16T18:04:08.080354+00:00",
+  "timeout_seconds": 300,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/f-interruption-01/PLAN.md",
+      "exists": true,
+      "bytes": 2427,
+      "sha256": "851c0d52fd57a7c4e37e478ca68f67278cdffbfc6e907f462c72f8fe24696079"
+    },
+    {
+      "path": "audit/f-interruption-01/check.py",
+      "exists": true,
+      "bytes": 9736,
+      "sha256": "41065718b8e4f4a4099fef494caf1a5b2c47bedc35ba1da038bfc240425502de"
+    },
+    {
+      "path": "audit/next-01/run_logged.py",
+      "exists": true,
+      "bytes": 2845,
+      "sha256": "7c9c595a4e6129484f652d8b6e5f16462fbcfe048d0a5785605ae87ac870fc89"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/0_welcome.txt",
+      "exists": true,
+      "bytes": 1947,
+      "sha256": "f541d233700fe1244e5bd11b2ae6e73f5aac3c8a14cfee9f2321a063d7b7b979"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/jpg107-167.txt",
+      "exists": true,
+      "bytes": 1246,
+      "sha256": "4d2a9a4487a353a8d9c2db4a30304cc07f022a360b3507db4b471cbc341246e1"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/p56_an_end.txt",
+      "exists": true,
+      "bytes": 475,
+      "sha256": "ad3b79a3b1d21e696fff8d95c7652784a930a07a7b41b436f2ddbb7f0c8b886f"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_welcome.txt",
+      "exists": true,
+      "bytes": 1934,
+      "sha256": "95caaffb0ae764801bb023ba8eda15b49366cb3258aab9e26922e89e884c7b73"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_jpg107-167.txt",
+      "exists": true,
+      "bytes": 1236,
+      "sha256": "2dd885e1785ffee22692901167edb1a37a0fae87c7d765bf53f799b108663b6c"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_p56_an_end.txt",
+      "exists": true,
+      "bytes": 467,
+      "sha256": "3b82bf89e740dde1d1f8261ddf17e028f7d4bbc8933a1e972a564822f4e4d511"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solver.py",
+      "exists": true,
+      "bytes": 3658,
+      "sha256": "33f3459108d132a89d55e331ee4e2c4ebf168ef781ffe03fd1aa2663349aa619"
+    },
+    {
+      "path": "liber-primus/data/english_quadgrams.txt",
+      "exists": true,
+      "bytes": 608938,
+      "sha256": "fb82963d1fc4a64b9fc6121f8ca88139fd5b15083dddc9a59f8b14bdb8fe4062"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "finished_utc": "2026-09-16T18:04:08.153756+00:00",
+  "duration_seconds": 0.07307004199901712
+}

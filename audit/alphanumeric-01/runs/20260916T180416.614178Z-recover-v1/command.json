@@ -1,0 +1,94 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "audit/alphanumeric-01/recover.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "beee1b995e142ba920280736e9e45835abbf650a",
+  "started_utc": "2026-09-16T18:04:16.625015+00:00",
+  "timeout_seconds": 300,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/alphanumeric-01/recover.py",
+      "exists": true,
+      "bytes": 6255,
+      "sha256": "acf7847fdc33efc5788fb28cfb329be6670e6459adf027a0ddac39da08d2ea6c"
+    },
+    {
+      "path": "audit/next-01/run_logged.py",
+      "exists": true,
+      "bytes": 2845,
+      "sha256": "7c9c595a4e6129484f652d8b6e5f16462fbcfe048d0a5785605ae87ac870fc89"
+    },
+    {
+      "path": "liber-primus/analysis/pp49_51/canon_256.bin",
+      "exists": true,
+      "bytes": 256,
+      "sha256": "4c8dc85531d256793a6d0d318b8845869b4983e672077b094ed955bde92226d5"
+    },
+    {
+      "path": "liber-primus/analysis/pp49_51/canon_256_decpref.bin",
+      "exists": true,
+      "bytes": 256,
+      "sha256": "0a3aa3c813eddcf7f99ef9794c0e790f2a3fd86ea810a100d7113eb1beebacbd"
+    },
+    {
+      "path": "liber-primus/analysis/round19/C1/grid.json",
+      "exists": true,
+      "bytes": 6446,
+      "sha256": "ade3758e4498284e8de91f6ead01ecfa9188bd888f4720da824a086c00e5ffa1"
+    },
+    {
+      "path": "liber-primus/analysis/round19/C1/payload_resolved.bin",
+      "exists": true,
+      "bytes": 256,
+      "sha256": "3b9b07d9a26e6d55c432d94d2661fdff3c2b348daed06821f2bdb23184a4b290"
+    },
+    {
+      "path": "liber-primus/data/relikd/p49.jpg",
+      "exists": true,
+      "bytes": 651504,
+      "sha256": "aa3f89156756edf8b796a470a14a3db96516ad2fedf1ed98ccabc1a1cddc0335"
+    },
+    {
+      "path": "liber-primus/data/relikd/p50.jpg",
+      "exists": true,
+      "bytes": 581983,
+      "sha256": "bd6d4a3678fa37197bd43c58861273dc59604b5b68dfa20de1ec13f0704be776"
+    },
+    {
+      "path": "liber-primus/data/relikd/p51.jpg",
+      "exists": true,
+      "bytes": 661727,
+      "sha256": "2b9d60f62b2bc65d040f7ae1bc0960d5a44ca251d2730d049a618074a83e208b"
+    },
+    {
+      "path": "liber-primus/data/scream314_lp.md",
+      "exists": true,
+      "bytes": 137957,
+      "sha256": "0f7545d470f2056b45b5de2c8c116ecdea66969fdca6be57ccbd8e591e40ee92"
+    },
+    {
+      "path": "liber-primus/data/sources/relikd_p40-53.txt",
+      "exists": true,
+      "bytes": 11962,
+      "sha256": "282ce106e92eb69a11fdf38382670ebd3b73acf777e88be9e7142768edd5a73b"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "finished_utc": "2026-09-16T18:04:17.305362+00:00",
+  "duration_seconds": 0.6798427080011606
+}

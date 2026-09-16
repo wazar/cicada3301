@@ -1,0 +1,653 @@
+{
+  "outcome": "BLOCKED_BY_POSITIVE_CONTROL",
+  "planned_positive_pairs": 320,
+  "executed_positive_pairs": 67,
+  "passed": 66,
+  "failed": 1,
+  "skipped": 253,
+  "cells": [
+    {
+      "recipe": "DIVINITY",
+      "sign": -1,
+      "model": "unfiltered_rigid",
+      "cases": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "cell_index": 0,
+      "executed": 20,
+      "passed": 20,
+      "failed": 0,
+      "skipped": 0,
+      "status": "PASSED"
+    },
+    {
+      "recipe": "DIVINITY",
+      "sign": -1,
+      "model": "rejection_beam",
+      "cases": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "cell_index": 1,
+      "executed": 20,
+      "passed": 20,
+      "failed": 0,
+      "skipped": 0,
+      "status": "PASSED"
+    },
+    {
+      "recipe": "DIVINITY",
+      "sign": 1,
+      "model": "unfiltered_rigid",
+      "cases": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "cell_index": 2,
+      "executed": 20,
+      "passed": 20,
+      "failed": 0,
+      "skipped": 0,
+      "status": "PASSED"
+    },
+    {
+      "recipe": "DIVINITY",
+      "sign": 1,
+      "model": "rejection_beam",
+      "cases": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "cell_index": 3,
+      "executed": 7,
+      "passed": 6,
+      "failed": 1,
+      "skipped": 13,
+      "status": "FAILED"
+    },
+    {
+      "recipe": "FIRFUMFERENFE",
+      "sign": -1,
+      "model": "unfiltered_rigid",
+      "cases": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "cell_index": 4,
+      "executed": 0,
+      "passed": 0,
+      "failed": 0,
+      "skipped": 20,
+      "status": "SKIPPED_AFTER_FAILURE"
+    },
+    {
+      "recipe": "FIRFUMFERENFE",
+      "sign": -1,
+      "model": "rejection_beam",
+      "cases": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "cell_index": 5,
+      "executed": 0,
+      "passed": 0,
+      "failed": 0,
+      "skipped": 20,
+      "status": "SKIPPED_AFTER_FAILURE"
+    },
+    {
+      "recipe": "FIRFUMFERENFE",
+      "sign": 1,
+      "model": "unfiltered_rigid",
+      "cases": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "cell_index": 6,
+      "executed": 0,
+      "passed": 0,
+      "failed": 0,
+      "skipped": 20,
+      "status": "SKIPPED_AFTER_FAILURE"
+    },
+    {
+      "recipe": "FIRFUMFERENFE",
+      "sign": 1,
+      "model": "rejection_beam",
+      "cases": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "cell_index": 7,
+      "executed": 0,
+      "passed": 0,
+      "failed": 0,
+      "skipped": 20,
+      "status": "SKIPPED_AFTER_FAILURE"
+    },
+    {
+      "recipe": "PRIMES",
+      "sign": -1,
+      "model": "unfiltered_rigid",
+      "cases": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "cell_index": 8,
+      "executed": 0,
+      "passed": 0,
+      "failed": 0,
+      "skipped": 20,
+      "status": "SKIPPED_AFTER_FAILURE"
+    },
+    {
+      "recipe": "PRIMES",
+      "sign": -1,
+      "model": "rejection_beam",
+      "cases": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "cell_index": 9,
+      "executed": 0,
+      "passed": 0,
+      "failed": 0,
+      "skipped": 20,
+      "status": "SKIPPED_AFTER_FAILURE"
+    },
+    {
+      "recipe": "PRIMES",
+      "sign": 1,
+      "model": "unfiltered_rigid",
+      "cases": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "cell_index": 10,
+      "executed": 0,
+      "passed": 0,
+      "failed": 0,
+      "skipped": 20,
+      "status": "SKIPPED_AFTER_FAILURE"
+    },
+    {
+      "recipe": "PRIMES",
+      "sign": 1,
+      "model": "rejection_beam",
+      "cases": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "cell_index": 11,
+      "executed": 0,
+      "passed": 0,
+      "failed": 0,
+      "skipped": 20,
+      "status": "SKIPPED_AFTER_FAILURE"
+    },
+    {
+      "recipe": "TOTIENTS",
+      "sign": -1,
+      "model": "unfiltered_rigid",
+      "cases": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "cell_index": 12,
+      "executed": 0,
+      "passed": 0,
+      "failed": 0,
+      "skipped": 20,
+      "status": "SKIPPED_AFTER_FAILURE"
+    },
+    {
+      "recipe": "TOTIENTS",
+      "sign": -1,
+      "model": "rejection_beam",
+      "cases": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "cell_index": 13,
+      "executed": 0,
+      "passed": 0,
+      "failed": 0,
+      "skipped": 20,
+      "status": "SKIPPED_AFTER_FAILURE"
+    },
+    {
+      "recipe": "TOTIENTS",
+      "sign": 1,
+      "model": "unfiltered_rigid",
+      "cases": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "cell_index": 14,
+      "executed": 0,
+      "passed": 0,
+      "failed": 0,
+      "skipped": 20,
+      "status": "SKIPPED_AFTER_FAILURE"
+    },
+    {
+      "recipe": "TOTIENTS",
+      "sign": 1,
+      "model": "rejection_beam",
+      "cases": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "cell_index": 15,
+      "executed": 0,
+      "passed": 0,
+      "failed": 0,
+      "skipped": 20,
+      "status": "SKIPPED_AFTER_FAILURE"
+    }
+  ],
+  "failure": [
+    {
+      "page": 0,
+      "score": -4.0951382033607935,
+      "truth_score": -4.096305974563245,
+      "exact": false,
+      "rune_matches": 119,
+      "wrong_runes": [
+        {
+          "index": 119,
+          "truth": 24,
+          "decoded": 15,
+          "truth_key_index": 123,
+          "decoded_key_index": 122
+        }
+      ],
+      "max_actual_consecutive_rejections": 1,
+      "instrumentation_equals_production": true
+    },
+    {
+      "page": 1,
+      "score": -4.125387407138635,
+      "truth_score": -4.125387407138635,
+      "exact": true,
+      "rune_matches": 120,
+      "wrong_runes": [],
+      "max_actual_consecutive_rejections": 1,
+      "instrumentation_equals_production": true
+    }
+  ],
+  "phase_counts": {
+    "calibration_pairs": 0,
+    "heldout_pairs": 0,
+    "shuffle_pairs": 0,
+    "real_page_choices": 0
+  },
+  "all_logged_execution_seconds": 7.4762070830011,
+  "dedup": {
+    "distinct_signed_arrays": 8,
+    "groups": [
+      [
+        {
+          "recipe": "DIVINITY",
+          "sign": -1
+        }
+      ],
+      [
+        {
+          "recipe": "DIVINITY",
+          "sign": 1
+        }
+      ],
+      [
+        {
+          "recipe": "FIRFUMFERENFE",
+          "sign": -1
+        }
+      ],
+      [
+        {
+          "recipe": "FIRFUMFERENFE",
+          "sign": 1
+        }
+      ],
+      [
+        {
+          "recipe": "PRIMES",
+          "sign": -1
+        }
+      ],
+      [
+        {
+          "recipe": "PRIMES",
+          "sign": 1
+        }
+      ],
+      [
+        {
+          "recipe": "TOTIENTS",
+          "sign": -1
+        }
+      ],
+      [
+        {
+          "recipe": "TOTIENTS",
+          "sign": 1
+        }
+      ]
+    ],
+    "key_hashes": {
+      "DIVINITY": "9953b6e25a0c1422a68405c855a6880933cb0e07374d64a9861eea613ebf99f7",
+      "FIRFUMFERENFE": "6913f4e0a3716e6a015372a596f7b375e2084d1e2a753508d6c045b75954a140",
+      "PRIMES": "52b9f9eb90dca97f32604fce26f06366cf56116c3aaa03a0b8c540a8fdf2a89b",
+      "TOTIENTS": "98db2f46529682c1db5d097239da5a2415cb7a36b3082abb9f7b148f20ced638"
+    }
+  },
+  "failure_top_hypotheses": [
+    {
+      "recipe": "DIVINITY",
+      "sign": 1,
+      "page_scores": [
+        -4.0951382033607935,
+        -4.125387407138635
+      ],
+      "winning_decoders": [
+        [
+          "beam"
+        ],
+        [
+          "beam"
+        ]
+      ],
+      "joint": -4.125387407138635
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "result": "audit/f-interruption-01/results/20260916T180434.839675Z-main.json",
+  "references": [],
+  "cases": [
+    {
+      "name": "prose_0",
+      "compatible_paths": 512,
+      "distinct_plaintexts": 512,
+      "beams": [
+        {
+          "width": 2,
+          "true_path_represented": true,
+          "first_pruned_position": null,
+          "true_path_survives": true,
+          "true_path_rank": 1,
+          "true_path_global_rank": 1,
+          "true_path_ranks_first": true,
+          "true_path_exact_plaintext": true,
+          "top_count": 1,
+          "any_top_plaintext_exact": true,
+          "all_top_plaintexts_exact": true,
+          "retained_count": 2,
+          "max_prefix_population": 4
+        },
+        {
+          "width": 16,
+          "true_path_represented": true,
+          "first_pruned_position": null,
+          "true_path_survives": true,
+          "true_path_rank": 1,
+          "true_path_global_rank": 1,
+          "true_path_ranks_first": true,
+          "true_path_exact_plaintext": true,
+          "top_count": 1,
+          "any_top_plaintext_exact": true,
+          "all_top_plaintexts_exact": true,
+          "retained_count": 16,
+          "max_prefix_population": 16
+        },
+        {
+          "width": 128,
+          "true_path_represented": true,
+          "first_pruned_position": null,
+          "true_path_survives": true,
+          "true_path_rank": 1,
+          "true_path_global_rank": 1,
+          "true_path_ranks_first": true,
+          "true_path_exact_plaintext": true,
+          "top_count": 1,
+          "any_top_plaintext_exact": true,
+          "all_top_plaintexts_exact": true,
+          "retained_count": 128,
+          "max_prefix_population": 128
+        }
+      ]
+    },
+    {
+      "name": "prose_1",
+      "compatible_paths": 64,
+      "distinct_plaintexts": 64,
+      "beams": [
+        {
+          "width": 2,
+          "true_path_represented": true,
+          "first_pruned_position": null,
+          "true_path_survives": true,
+          "true_path_rank": 1,
+          "true_path_global_rank": 1,
+          "true_path_ranks_first": true,
+          "true_path_exact_plaintext": true,
+          "top_count": 1,
+          "any_top_plaintext_exact": true,
+          "all_top_plaintexts_exact": true,
+          "retained_count": 2,
+          "max_prefix_population": 2
+        },
+        {
+          "width": 16,
+          "true_path_represented": true,
+          "first_pruned_position": null,
+          "true_path_survives": true,
+          "true_path_rank": 1,
+          "true_path_global_rank": 1,
+          "true_path_ranks_first": true,
+          "true_path_exact_plaintext": true,
+          "top_count": 1,
+          "any_top_plaintext_exact": true,
+          "all_top_plaintexts_exact": true,
+          "retained_count": 16,
+          "max_prefix_population": 16
+        },
+        {
+          "width": 128,
+          "true_path_represented": true,
+          "first_pruned_position": null,
+          "true_path_survives": true,
+          "true_path_rank": 1,
+          "true_path_global_rank": 1,
+          "true_path_ranks_first": true,
+          "true_path_exact_plaintext": true,
+          "top_count": 1,
+          "any_top_plaintext_exact": true,
+          "all_top_plaintexts_exact": true,
+          "retained_count": 64,
+          "max_prefix_population": 64
+        }
+      ]
+    },
+    {
+      "name": "prose_2",
+      "compatible_paths": 256,
+      "distinct_plaintexts": 246,
+      "beams": [
+        {
+          "width": 2,
+          "true_path_represented": true,
+          "first_pruned_position": null,
+          "true_path_survives": true,
+          "true_path_rank": 1,
+          "true_path_global_rank": 1,
+          "true_path_ranks_first": true,
+          "true_path_exact_plaintext": true,
+          "top_count": 1,
+          "any_top_plaintext_exact": true,
+          "all_top_plaintexts_exact": true,
+          "retained_count": 2,
+          "max_prefix_population": 4
+        },
+        {
+          "width": 16,
+          "true_path_represented": true,
+          "first_pruned_position": null,
+          "true_path_survives": true,
+          "true_path_rank": 1,
+          "true_path_global_rank": 1,
+          "true_path_ranks_first": true,
+          "true_path_exact_plaintext": true,
+          "top_count": 1,
+          "any_top_plaintext_exact": true,
+          "all_top_plaintexts_exact": true,
+          "retained_count": 16,
+          "max_prefix_population": 16
+        },
+        {
+          "width": 128,
+          "true_path_represented": true,
+          "first_pruned_position": null,
+          "true_path_survives": true,
+          "true_path_rank": 1,
+          "true_path_global_rank": 1,
+          "true_path_ranks_first": true,
+          "true_path_exact_plaintext": true,
+          "top_count": 1,
+          "any_top_plaintext_exact": true,
+          "all_top_plaintexts_exact": true,
+          "retained_count": 128,
+          "max_prefix_population": 128
+        }
+      ]
+    },
+    {
+      "name": "random_register",
+      "compatible_paths": 64,
+      "distinct_plaintexts": 64,
+      "beams": [
+        {
+          "width": 2,
+          "true_path_represented": true,
+          "first_pruned_position": 10,
+          "true_path_survives": false,
+          "true_path_rank": null,
+          "true_path_global_rank": 53,
+          "true_path_ranks_first": false,
+          "true_path_exact_plaintext": false,
+          "top_count": 1,
+          "any_top_plaintext_exact": false,
+          "all_top_plaintexts_exact": false,
+          "retained_count": 2,
+          "max_prefix_population": 3
+        },
+        {
+          "width": 16,
+          "true_path_represented": true,
+          "first_pruned_position": 45,
+          "true_path_survives": false,
+          "true_path_rank": null,
+          "true_path_global_rank": 53,
+          "true_path_ranks_first": false,
+          "true_path_exact_plaintext": false,
+          "top_count": 1,
+          "any_top_plaintext_exact": false,
+          "all_top_plaintexts_exact": false,
+          "retained_count": 16,
+          "max_prefix_population": 16
+        },
+        {
+          "width": 128,
+          "true_path_represented": true,
+          "first_pruned_position": null,
+          "true_path_survives": true,
+          "true_path_rank": 53,
+          "true_path_global_rank": 53,
+          "true_path_ranks_first": false,
+          "true_path_exact_plaintext": true,
+          "top_count": 1,
+          "any_top_plaintext_exact": false,
+          "all_top_plaintexts_exact": false,
+          "retained_count": 64,
+          "max_prefix_population": 64
+        }
+      ]
+    }
+  ]
+}

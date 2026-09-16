@@ -1,0 +1,69 @@
+{
+  "reference_checks": [
+    {
+      "name": "0_welcome",
+      "exact_runes": 515,
+      "key_values_consumed": 504
+    },
+    {
+      "name": "jpg107-167",
+      "exact_runes": 319,
+      "key_values_consumed": 317
+    },
+    {
+      "name": "p56_an_end",
+      "exact_runes": 85,
+      "key_values_consumed": 84
+    }
+  ],
+  "score_checks": [
+    {
+      "case": "tiny_mixed",
+      "rank": 5,
+      "compatible_paths": 8,
+      "distinct_plaintexts": 8
+    },
+    {
+      "case": "tiny_zero_key_ambiguity",
+      "rank": 1,
+      "compatible_paths": 4,
+      "distinct_plaintexts": 1
+    },
+    {
+      "case": "prose_0",
+      "rank": 1,
+      "compatible_paths": 512,
+      "distinct_plaintexts": 512
+    },
+    {
+      "case": "prose_1",
+      "rank": 1,
+      "compatible_paths": 64,
+      "distinct_plaintexts": 64
+    },
+    {
+      "case": "prose_2",
+      "rank": 1,
+      "compatible_paths": 256,
+      "distinct_plaintexts": 246
+    },
+    {
+      "case": "random_register",
+      "rank": 53,
+      "compatible_paths": 64,
+      "distinct_plaintexts": 64
+    }
+  ],
+  "all_A_cases_checked": 67,
+  "execution_snapshot_checks": [
+    {
+      "run": "20260916T180521.681117Z-experiment-01-main",
+      "input_hash_count": 16
+    },
+    {
+      "run": "20260916T180434.710356Z-main-repaired",
+      "input_hash_count": 5
+    }
+  ],
+  "finished": "2026-09-16T18:08:23.756974+00:00"
+}

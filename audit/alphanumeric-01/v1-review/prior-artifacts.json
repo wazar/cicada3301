@@ -1,0 +1,84 @@
+[
+  {
+    "path": "liber-primus/analysis/pp49_51/CAMPAIGN-VII-FINDINGS.md",
+    "bytes": 10425,
+    "sha256": "739e0a28f2c57099a5b387a9f4fc1ad7337c6a669ff0478e93ac140e18f95061"
+  },
+  {
+    "path": "liber-primus/analysis/pp49_51/keytest.py",
+    "bytes": 4270,
+    "sha256": "3aa515e46755c20e955b22b3718eeb9897e58e6efbabdeba1a07986ebd371f24"
+  },
+  {
+    "path": "liber-primus/analysis/pp49_51/CAMPAIGN-IX-FINDINGS.md",
+    "bytes": 4599,
+    "sha256": "aae5dd68e2963e343b4493e027e5f3867ff30d0002db981696bdf264051b053c"
+  },
+  {
+    "path": "liber-primus/analysis/pp49_51/campaign9.py",
+    "bytes": 8887,
+    "sha256": "5edcb77f82869c07b8d0928e361aff9952b77e6b55cdd8025e3f257f163888a3"
+  },
+  {
+    "path": "liber-primus/analysis/pp49_51/CAMPAIGN-XX-EXTCIPHER.md",
+    "bytes": 2802,
+    "sha256": "be9eec01a1950bea0b3fe9c7a543ab1fdaed4c8516f5c9780354bc1302ec99b9"
+  },
+  {
+    "path": "liber-primus/analysis/pp49_51/campaign20_extcipher.py",
+    "bytes": 7092,
+    "sha256": "481f552d7a2236c2e0fae664b09867601badd2c08919198ba317b6f37eaa0922"
+  },
+  {
+    "path": "liber-primus/analysis/round13/B05/sweep_results.json",
+    "bytes": 42396,
+    "sha256": "1f781a1e64783a4c7d20bd910e9ba8c8ffc81dbb0010dfef674f47bb6f9c6655"
+  },
+  {
+    "path": "liber-primus/analysis/round13/B05/sweep.log",
+    "bytes": 998,
+    "sha256": "1b04601121bfd9c5c4cf941a2022bcae33dbccb1b576c3eb2d0fb29efeae4099"
+  },
+  {
+    "path": "liber-primus/analysis/round13/B05/control_results.json",
+    "bytes": 2834,
+    "sha256": "f1f95543cdd8af5cb54a376c5a90d40555c8a81f5747008450cfe05a911a06d2"
+  },
+  {
+    "path": "liber-primus/analysis/round19/C1/RESULTS.md",
+    "bytes": 34954,
+    "sha256": "7280c5c94f7c963b60b0c7fb4190089c6d179451c8901bc1efdeab1f7b2e3ab4"
+  },
+  {
+    "path": "liber-primus/analysis/round19/C1/out_b05_sweeprow.jsonl",
+    "bytes": 3551232,
+    "sha256": "a9a16f6e6b42a1c57ac0e87c82bf0ceb8b9716d48a8ac37e6f9f6c10cb990d59",
+    "line_count": 20161,
+    "header": "{\"v\": \"SWEEPROW/1\", \"sweep\": \"round19/C1/B-05-propagation-resolved-payload\", \"fields\": [\"kid\", \"n\", \"en\", \"pmax\", \"preg\", \"pmax_ne\", \"pcon\", \"pcreg\", \"ioc\", \"mds\", \"h2\", \"zl\", \"z\"], \"registers\": [\"EN_MODERN\", \"EN_KJV\", \"LP1_REAL\", \"LATIN\", \"OE\", \"DE\", \"CY\", \"EN_HALFVOWEL\", \"EN_NOVOWEL\"], \"english_ref\": \"EN_MODERN\", \"window\": 32, \"panel_build\": \"2026-08-26T11:10:41\", \"lambdas\": [0.7, 0.2, 0.09, 0.01], \"null\": {\"draws\": 20000, \"seed\": 3301, \"len_grid\": [32, 48, 64, 96, 128, 160, 200, 240, 320, 400, 500, 640, 800, 1000]}, \"corpora_sha256\": {\"EN_MODERN\": [\"b2f3dbd3866e0bec5ae41ac29df09b537c2ef18fa1b88678966587b824ca92f0\", \"80dc6f0d8efc8398a2d1cc8cdf17237020c881cf4fbd2412dfa37ec8be19a5ed\"], \"EN_KJV\": [\"0f1a83cbcdc1d3fae6bcc3daaa496d4fa723fcce9526e84e20df12ae33fda986\"], \"LP1_REAL\": [\"855eed739c8d598044e16d9ace14cb1572e633db0b4137e281f1258f76099aac\"], \"LATIN\": [\"84ac8411841a4d8f5f4a49b6a2cd1f466917c6a5af72916d5e0b2b1ecb2f659c\", \"cc3f9845acd902a26bb58e268499472da99c7c39d7825aa1a86ad8959450b2e8\"], \"OE\": [\"5190b80b0829da81b1b375a5494909dc751aa365de6a88a816b576c048c54839\", \"01a5d48b64209823a8583afe2ad83f252b593a1b307e926253fb64cf21c13992\"], \"DE\": [\"fed2a58edd6910ee96d27ada614d34bcc41f03750d86541c41246bb74c564ff7\", \"359d3f5983c812393f4bd7ee49a350ffffc7d476015e58d6b84b6c848dd2b0e9\"], \"CY\": [\"4b3fd9261e284a8aa653d2d84d5766aa67ab8f0f161f6102981cb0c0bbb1e237\"], \"EN_HALFVOWEL\": [\"b2f3dbd3866e0bec5ae41ac29df09b537c2ef18fa1b88678966587b824ca92f0\", \"80dc6f0d8efc8398a2d1cc8cdf17237020c881cf4fbd2412dfa37ec8be19a5ed\"], \"EN_NOVOWEL\": [\"b2f3dbd3866e0bec5ae41ac29df09b537c2ef18fa1b88678966587b824ca92f0\", \"80dc6f0d8efc8398a2d1cc8cdf17237020c881cf4fbd2412dfa37ec8be19a5ed\"]}, \"precision\": {\"en\": 4, \"pmax\": 3, \"pmax_ne\": 3, \"pcon\": 3, \"ioc\": 4, \"h2\": 4, \"zl\": 4, \"z\": 2}, \"key_space\": \"B-05's Round-13 pinned Part-1 grid, restricted to the 6 representations of the RESOLVED pp49-51 payload (sha256 3b9b07d9...b290; differs from canon_256.bin at indices [45, 50, 246]). 6 reps x 15 PRF generators x {mod,reject} x {fwd,rev} x {atbash,plain} x {+1,-1} x 14 offsets = 20160 decodes, exhaustive over that grid.\", \"decoder\": \"skipdecode.beam_decode, beam_w=120, max_skip=3, HEAD=400. The transition relation is EXACT for encipher_keyskip and NOTHING else (round18 L7-B); skip_by_two and free drift are not representable. I1's repaired decoder is deliberately not used: this sweep's purpose is comparability with Round 13.\", \"adjudicator\": \"I2 adjudicate() 9-register panel on RUNE INDICES; panel statistics at L=120 (a calibrated length); legacy en also reported at L=400.\", \"threshold_contract\": {\"pmax\": {\"n_trials_adjudicated\": 20160, \"segment_len\": 120, \"register\": \"I19:vecbeam.keyskip1+I2\", \"mode\": \"keyskip1\", \"statistic\": \"pmax\", \"panel_mode\": null, \"escalate_alpha\": 0.05, \"escalate_bar\": 6.048528491239485, \"claim_alpha\": 0.01, \"claim_bar\": 6.515560721712147, \"cell\": \"I19:vecbeam.keyskip1+I2|pmax|L120\", \"cell_status\": \"CALIBRATED\", \"cell_n_null_decodes\": 1000000, \"extrapolated\": true}, \"en\": {\"n_trials_adjudicated\": 20160, \"segment_len\": 120, \"register\": \"I19:vecbeam.keyskip1+I2\", \"mode\": \"keyskip1\", \"statistic\": \"en\", \"panel_mode\": null, \"escalate_alpha\": 0.05, \"escalate_bar\": -6.2090510938187915, \"claim_alpha\": 0.01, \"claim_bar\": -6.096999411995215, \"cell\": \"I19:vecbeam.keyskip1+I2|en|L120\", \"cell_status\": \"CALIBRATED\", \"cell_n_null_decodes\": 1000000, \"extrapolated\": true}}, \"beam_w\": 120, \"max_skip\": 3, \"head\": 400, \"adj_len\": 120, \"lane\": \"round19/C1\", \"propagates_from\": \"A-04\"}"
+  },
+  {
+    "path": "liber-primus/analysis/round19/C1/out_b05_readjudicated.json",
+    "bytes": 2331,
+    "sha256": "47ea3e97fee7b48fad42de257ca1c9108c5b6b445d28125177c7f29ae3d5434d"
+  },
+  {
+    "path": "liber-primus/analysis/round19/C1/out_propagation.json",
+    "bytes": 3851,
+    "sha256": "fadc1c7a148c8777df5df6f941ceb1a9af91b1cf1c0fe3b7a7d78120b4136409"
+  },
+  {
+    "path": "liber-primus/analysis/round19/C1/out_e01.json",
+    "bytes": 227334,
+    "sha256": "0a9023c56e4bec4b3d7c0472059f6bc598ed60248db3918cef69ad260086eb73"
+  },
+  {
+    "path": "liber-primus/analysis/round19/C1/out_e01_cryptrsa.json",
+    "bytes": 27455,
+    "sha256": "d5803b9f971746818ec2765610cbf188aee8549284b923ba9d0bc918e284af29"
+  },
+  {
+    "path": "liber-primus/analysis/round19/C1/out_singletons.json",
+    "bytes": 37014,
+    "sha256": "db51d2fad4330da24815089a84751055f46a7e50d0d4c4c7a66c09fa2abd6012"
+  }
+]

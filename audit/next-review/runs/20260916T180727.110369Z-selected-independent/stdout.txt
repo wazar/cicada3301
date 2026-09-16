@@ -1,0 +1,289 @@
+{
+  "started": "2026-09-16T18:07:27.159725+00:00",
+  "A": {
+    "frozen_hashes_match": true,
+    "executed_ordinal_range": [
+      0,
+      66
+    ],
+    "selected_production_reruns": [
+      {
+        "ordinal": 0,
+        "production_choices_checked": 32,
+        "required": [
+          {
+            "page": 0,
+            "exact": true,
+            "score": -4.155493374936406,
+            "wrong": []
+          },
+          {
+            "page": 1,
+            "exact": true,
+            "score": -4.17348045116551,
+            "wrong": []
+          }
+        ]
+      },
+      {
+        "ordinal": 20,
+        "production_choices_checked": 32,
+        "required": [
+          {
+            "page": 0,
+            "exact": true,
+            "score": -4.155493374936406,
+            "wrong": []
+          },
+          {
+            "page": 1,
+            "exact": true,
+            "score": -4.17348045116551,
+            "wrong": []
+          }
+        ]
+      },
+      {
+        "ordinal": 40,
+        "production_choices_checked": 32,
+        "required": [
+          {
+            "page": 0,
+            "exact": true,
+            "score": -4.155493374936406,
+            "wrong": []
+          },
+          {
+            "page": 1,
+            "exact": true,
+            "score": -4.17348045116551,
+            "wrong": []
+          }
+        ]
+      },
+      {
+        "ordinal": 65,
+        "production_choices_checked": 32,
+        "required": [
+          {
+            "page": 0,
+            "exact": true,
+            "score": -4.108135374903316,
+            "wrong": []
+          },
+          {
+            "page": 1,
+            "exact": true,
+            "score": -4.143629780404722,
+            "wrong": []
+          }
+        ]
+      },
+      {
+        "ordinal": 66,
+        "production_choices_checked": 32,
+        "required": [
+          {
+            "page": 0,
+            "exact": false,
+            "score": -4.0951382033607935,
+            "wrong": [
+              119
+            ]
+          },
+          {
+            "page": 1,
+            "exact": true,
+            "score": -4.125387407138635,
+            "wrong": []
+          }
+        ]
+      }
+    ],
+    "phase_outputs": [
+      "audit/experiment-01/outputs/20260916T180424.220919Z/candidate-dedup.json",
+      "audit/experiment-01/outputs/20260916T180424.220919Z/summary.json",
+      "audit/experiment-01/outputs/20260916T180521.719679Z/candidate-dedup.json",
+      "audit/experiment-01/outputs/20260916T180521.719679Z/summary.json"
+    ]
+  },
+  "C": {
+    "independently_enumerated_paths": 908,
+    "reference_handcheck_positions": [
+      {
+        "position": 48,
+        "cipher": 21,
+        "f_occurrence": null,
+        "action": "normal",
+        "key_before": 48,
+        "key_value": 18,
+        "key_after": 49,
+        "plain": 3
+      },
+      {
+        "position": 49,
+        "cipher": 0,
+        "f_occurrence": 2,
+        "action": "literal_F",
+        "key_before": 49,
+        "key_value": null,
+        "key_after": 49,
+        "plain": 0
+      },
+      {
+        "position": 50,
+        "cipher": 11,
+        "f_occurrence": null,
+        "action": "normal",
+        "key_before": 49,
+        "key_value": 9,
+        "key_after": 50,
+        "plain": 2
+      },
+      {
+        "position": 51,
+        "cipher": 18,
+        "f_occurrence": null,
+        "action": "normal",
+        "key_before": 50,
+        "key_value": 0,
+        "key_after": 51,
+        "plain": 18
+      }
+    ],
+    "tiny_case": {
+      "name": "tiny_mixed",
+      "plain": [
+        0,
+        18,
+        0,
+        4,
+        0,
+        24
+      ],
+      "cipher": [
+        0,
+        0,
+        2,
+        2,
+        0,
+        28
+      ],
+      "key": [
+        11,
+        2,
+        27,
+        4,
+        14,
+        11
+      ],
+      "interrupt": [
+        0,
+        4
+      ],
+      "trace": [
+        {
+          "position": 0,
+          "plain": 0,
+          "cipher": 0,
+          "interruption": true,
+          "key_before": 0,
+          "key_after": 0
+        },
+        {
+          "position": 1,
+          "plain": 18,
+          "cipher": 0,
+          "interruption": false,
+          "key_before": 0,
+          "key_after": 1
+        },
+        {
+          "position": 2,
+          "plain": 0,
+          "cipher": 2,
+          "interruption": false,
+          "key_before": 1,
+          "key_after": 2
+        },
+        {
+          "position": 3,
+          "plain": 4,
+          "cipher": 2,
+          "interruption": false,
+          "key_before": 2,
+          "key_after": 3
+        },
+        {
+          "position": 4,
+          "plain": 0,
+          "cipher": 0,
+          "interruption": true,
+          "key_before": 3,
+          "key_after": 3
+        },
+        {
+          "position": 5,
+          "plain": 24,
+          "cipher": 28,
+          "interruption": false,
+          "key_before": 3,
+          "key_after": 4
+        }
+      ],
+      "seed": 330101
+    },
+    "fixture_repair_diff": [
+      "--- \n",
+      "+++ \n",
+      "@@ -123,7 +123,7 @@\n",
+      "         return [a,b]",
+      "     prose = [",
+      "         'F R O M TH E F I R S T L I GH T'.replace('GH','G H')+' W E L EA R N TH E W A Y O F L I F E A N D TH E W A Y O F W I S D O M',",
+      "-        'TH E F I R E I S W A R M A N D TH E S T O N E I S C O L D W E W A L K F A R F R O M H O M E I N TH E L I GH T'.replace('GH','G H'),",
+      "+        'TH E F I R E I S W A R M A N D TH E S T O N E I S C O L D W E W A L C F A R F R O M H O M E I N TH E L I GH T'.replace('GH','G H'),",
+      "         'A F R I E N D W I L L F I N D A P A TH O F P EA C E TH R O U GH TH E F O R E S T A N D R E T U R N H O M E'.replace('GH','G H')]",
+      "     rng = random.Random(330101)",
+      "     plains = [[TOK.index(t) for t in text.split()] for text in prose] + [[rng.randrange(29) for _ in range(80)]]"
+    ]
+  },
+  "B": {
+    "tokens": 256,
+    "conditional_payload_hash": "3b9b07d9a26e6d55c432d94d2661fdff3c2b348daed06821f2bdb23184a4b290",
+    "image_source": {
+      "path": "liber-primus/data/relikd/p49.jpg",
+      "sha256": "aa3f89156756edf8b796a470a14a3db96516ad2fedf1ed98ccabc1a1cddc0335",
+      "dimensions": [
+        2400,
+        3600
+      ]
+    },
+    "crop_rectangle": [
+      1320,
+      2070,
+      1520,
+      2260
+    ],
+    "site": {
+      "index": 45,
+      "page": 49,
+      "row": 5,
+      "column": 5,
+      "token": "1l",
+      "bbox": [
+        1395,
+        2139,
+        1449,
+        2220
+      ],
+      "coordinate_source": "Round19 C1 grid (inherited, spot-checked)",
+      "sources": {
+        "relikd-local": "1L",
+        "scream-local": "1l",
+        "relikd-public": "1L"
+      }
+    },
+    "prior_manifest_hashes_verified": true
+  },
+  "finished": "2026-09-16T18:07:27.314385+00:00"
+}

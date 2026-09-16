@@ -1,0 +1,117 @@
+{
+  "recorded_utc": "2026-09-16T18:12:19.873191+00:00",
+  "outcome": "PASS",
+  "claims_preserved": 47,
+  "claims_scoped_updates": 7,
+  "original_research_and_prior_audits_unchanged": true,
+  "unrelated_local_files_unchanged": true,
+  "frozen_preregistration_unchanged": true,
+  "private_prefixes_published": [],
+  "files_over10MB": [],
+  "worker_review_runs": [
+    {
+      "owner": "experiment-01",
+      "run": "audit/experiment-01/runs/20260916T180327.092074Z-freeze",
+      "outcome": "PASS",
+      "exit_code": 0,
+      "seconds": 0.07499883299988142
+    },
+    {
+      "owner": "experiment-01",
+      "run": "audit/experiment-01/runs/20260916T180424.181107Z-positive-pilot",
+      "outcome": "PASS",
+      "exit_code": 0,
+      "seconds": 0.12486433300000499
+    },
+    {
+      "owner": "experiment-01",
+      "run": "audit/experiment-01/runs/20260916T180509.513413Z-wire-gated-continuation",
+      "outcome": "PASS",
+      "exit_code": 0,
+      "seconds": 0.0368854160005867
+    },
+    {
+      "owner": "experiment-01",
+      "run": "audit/experiment-01/runs/20260916T180521.681117Z-experiment-01-main",
+      "outcome": "PASS",
+      "exit_code": 0,
+      "seconds": 5.797570583999914
+    },
+    {
+      "owner": "experiment-01",
+      "run": "audit/experiment-01/runs/20260916T180556.208277Z-post-stop-accounting",
+      "outcome": "NONZERO",
+      "exit_code": 1,
+      "seconds": 1.441887917000713
+    },
+    {
+      "owner": "experiment-01",
+      "run": "audit/experiment-01/runs/20260916T180606.848227Z-post-stop-accounting-fixed",
+      "outcome": "PASS",
+      "exit_code": 0,
+      "seconds": 1.4348111250001239
+    },
+    {
+      "owner": "alphanumeric-01",
+      "run": "audit/alphanumeric-01/runs/20260916T180416.614178Z-recover-v1",
+      "outcome": "PASS",
+      "exit_code": 0,
+      "seconds": 0.6798427080011606
+    },
+    {
+      "owner": "alphanumeric-01",
+      "run": "audit/alphanumeric-01/runs/20260916T180512.583810Z-review-v1",
+      "outcome": "PASS",
+      "exit_code": 0,
+      "seconds": 0.0399127500004397
+    },
+    {
+      "owner": "f-interruption-01",
+      "run": "audit/f-interruption-01/runs/20260916T180408.068725Z-pilot",
+      "outcome": "PASS",
+      "exit_code": 0,
+      "seconds": 0.07307004199901712
+    },
+    {
+      "owner": "f-interruption-01",
+      "run": "audit/f-interruption-01/runs/20260916T180418.984354Z-main",
+      "outcome": "NONZERO",
+      "exit_code": 1,
+      "seconds": 0.07673912500104052
+    },
+    {
+      "owner": "f-interruption-01",
+      "run": "audit/f-interruption-01/runs/20260916T180434.710356Z-main-repaired",
+      "outcome": "PASS",
+      "exit_code": 0,
+      "seconds": 0.18262237499948242
+    },
+    {
+      "owner": "f-interruption-01",
+      "run": "audit/f-interruption-01/runs/20260916T180455.497718Z-retained-evidence-check",
+      "outcome": "PASS",
+      "exit_code": 0,
+      "seconds": 0.036039042000993504
+    },
+    {
+      "owner": "next-review",
+      "run": "audit/next-review/runs/20260916T180727.110369Z-selected-independent",
+      "outcome": "PASS",
+      "exit_code": 0,
+      "seconds": 0.234278166999502
+    },
+    {
+      "owner": "next-review",
+      "run": "audit/next-review/runs/20260916T180823.564594Z-evidence-reference",
+      "outcome": "PASS",
+      "exit_code": 0,
+      "seconds": 0.18738058300004923
+    }
+  ],
+  "seconds_by_owner": {
+    "alphanumeric-01": 0.7197554580016003,
+    "experiment-01": 8.911018208001224,
+    "f-interruption-01": 0.36847058400053356,
+    "next-review": 0.4216587499995512
+  }
+}
