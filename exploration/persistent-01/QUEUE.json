@@ -679,15 +679,81 @@
   {
     "id": "REVIEW15",
     "title": "Independent JPEG parser review",
-    "status": "running",
+    "status": "completed",
     "owner": "persistent_q",
     "strategy": "outside-box-v1"
   },
   {
     "id": "N07",
     "title": "Conditional likelihood same-panel estimator correction",
-    "status": "numerical_polish",
+    "status": "completed_after_explicit_polish",
     "owner": "persistent_n",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "N08",
+    "status": "completed_no_candidate",
+    "owner": "persistent_n",
+    "title": "Adjacent-page word-length copy",
+    "input": "F06 authorizedadjacentpairs",
+    "first_step": "Exactshared contiguous-unit spans, fullpair/null maxima",
+    "decision": "No6-unit evidence;10/16unit controls pass",
+    "expected_cost": "Pilot then <=900s logged batches",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "Q-Q04",
+    "status": "completed_control_failure",
+    "owner": "persistent_q",
+    "title": "Unknownhomophonicmap jointobjective",
+    "input": "4held+4modelcontrols",
+    "first_step": "Same8x5000search with correctedemissionterm",
+    "decision": "0/8maps; longoptimizationmiss andshortambiguity",
+    "expected_cost": "Pilot then <=900s logged batches",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "REVIEW17",
+    "status": "completed",
+    "owner": "persistent_n",
+    "title": "IndependentQ04 arithmetic/proposal/controlreview",
+    "input": "AllQ04controls",
+    "first_step": "Independentgenerator andfullscore replay",
+    "decision": "Pass implementation; failedrecoverypreserved",
+    "expected_cost": "Pilot then <=900s logged batches",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "N09",
+    "status": "running",
+    "owner": "persistent_n",
+    "title": "Nonadditive second-order exclusion",
+    "input": "45discoverypages existing23/22split",
+    "first_step": "Collapse repeats; forbid canonical extrapolatedsymbol",
+    "decision": "Heldprediction beyondM1deficit with plantedpower",
+    "expected_cost": "Pilot then <=900s logged batches",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "Q-Q05",
+    "status": "running",
+    "owner": "persistent_q",
+    "title": "Prime-product totient recordsequence",
+    "input": "Numbereditems1\u20135 originals36\u201338",
+    "first_step": "Exact29primeexponent successor equality",
+    "decision": "Fourexact relations or finitecounterexample",
+    "expected_cost": "Pilot then <=900s logged batches",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "Q-Q06",
+    "status": "ready",
+    "owner": "persistent_q",
+    "title": "Internalstroke glyphvariants",
+    "input": "I original0/1 frozenclasses/crops",
+    "first_step": "Freeze detector and planted2degree/5px controls versus rasterization",
+    "decision": "Recoveredplantedstates and reproducibleheldshape separation",
+    "expected_cost": "Pilot then <=900s logged batches",
     "strategy": "outside-box-v1"
   }
 ]

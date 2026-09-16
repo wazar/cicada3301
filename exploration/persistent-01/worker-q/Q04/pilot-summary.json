@@ -1,0 +1,51 @@
+[
+  {
+    "label": "held-0",
+    "type": "held_source",
+    "n": 324,
+    "cut": 216,
+    "selected": 6,
+    "truth_rank": 9,
+    "truth_ties": [],
+    "truth_minus_best_prefix": -59.155672590617314,
+    "plaintext_accuracy": 0.13580246913580246,
+    "prefix_accuracy": 0.10648148148148148,
+    "suffix_accuracy": 0.19444444444444445,
+    "observable_map_accuracy": 0.14285714285714285,
+    "full_map_accuracy": 0.13793103448275862,
+    "exact_observed_map": false,
+    "exact_full_map": false,
+    "unused_runes": [
+      2
+    ],
+    "nominal_proposals": 40000,
+    "valid_proposals": 33018,
+    "accepted_proposals": 935,
+    "seconds": 0.012866332999692531
+  },
+  {
+    "label": "model-0",
+    "type": "model_generated",
+    "n": 324,
+    "cut": 216,
+    "selected": 6,
+    "truth_rank": 1,
+    "truth_ties": [],
+    "truth_minus_best_prefix": 127.39606825792703,
+    "plaintext_accuracy": 0.11728395061728394,
+    "prefix_accuracy": 0.12037037037037036,
+    "suffix_accuracy": 0.1111111111111111,
+    "observable_map_accuracy": 0.14814814814814814,
+    "full_map_accuracy": 0.13793103448275862,
+    "exact_observed_map": false,
+    "exact_full_map": false,
+    "unused_runes": [
+      2,
+      13
+    ],
+    "nominal_proposals": 40000,
+    "valid_proposals": 32618,
+    "accepted_proposals": 945,
+    "seconds": 0.01289225000073202
+  }
+]

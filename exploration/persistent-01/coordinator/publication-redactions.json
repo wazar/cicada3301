@@ -481,5 +481,68 @@
     "original_sha256": "c7134ca5cca192d13bb2942a92ea98525210bd7032c1b64f955ad9aa7e58bf10",
     "published_sha256": "6f34349003df61c9c848c90149eed21d8bdf0ecdc00d8806ad683a2437fc1cf2",
     "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P12/color-control-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P12/color-control-command.json",
+    "original_sha256": "836fc6ca594248abc34e41d9befd574b5e547380c8f43210556d88ebac166dd0",
+    "published_sha256": "27a7fabaa6982ab4b728cc590d755c437c2ff1fd2db1393d7ce745d7855737e2",
+    "change": "Only local checkout prefix normalized in completed metadata/output; original bytes retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P12/control.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P12/control.json",
+    "original_sha256": "8a650d8dc8395bd5448c1b684dc18beaf213c9f953b656bc4cf16d3666d6f368",
+    "published_sha256": "0ed0e53b014c678dc52dae22a1c348e03bfe5e97155b0689456df439d7725275",
+    "change": "Only local checkout prefix normalized in completed metadata/output; original bytes retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-q/Q04/kernel-check.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-q/Q04/kernel-check.json",
+    "original_sha256": "cd8d4413deac0b7d482816ed7e09a285a9d45a18424162240eab8c72e18431a9",
+    "published_sha256": "7fdd4b9394ef2023ccd1e9516fc3da6cc7a8c6fdaddf79862857f859fac6f9d8",
+    "change": "Only local checkout prefix normalized in completed metadata/output; original bytes retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-q/Q04/inputs.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-q/Q04/inputs.json",
+    "original_sha256": "e00288b7da539073e1e3557d3bee67befc16a3fde753816f4afe0d8be18e410a",
+    "published_sha256": "d25c2b60114bec9728c10f066dc0a0e83c3b8d1e0a586289cfaaadee4d4ea9c8",
+    "change": "Only local checkout prefix normalized in completed metadata/output; original bytes retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-q/Q04/publication-manifest.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-q/Q04/publication-manifest.json",
+    "original_sha256": "dc1819465b324c502a590fed32b8910fef62107c3b86d8372ce61c6653305089",
+    "published_sha256": "c00d8a290d09f0b40ecccf8c0e5898b654030cb0ad6151cc70a89774aaeeb746",
+    "change": "Only local checkout prefix normalized in completed metadata/output; original bytes retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/review-17/control-inputs.json",
+    "private_original": "exploration/persistent-01/private-originals/review-17/control-inputs.json",
+    "original_sha256": "b822c4b362627b1d48d0d7ad4a65a44343a0d402e6d5e838d13b2cdbeeaa32d8",
+    "published_sha256": "60779e1759a3e79875258d203ccf3a883e0de0ed7175205beb2503cc43fdf0ab",
+    "change": "Only local checkout prefix normalized in completed metadata/output; original bytes retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/review-17/fixtures.json",
+    "private_original": "exploration/persistent-01/private-originals/review-17/fixtures.json",
+    "original_sha256": "7e08cb82041cd2b471457c0c009be076392099595fc46712f9ef1d0be7b7b42f",
+    "published_sha256": "a0879979ca42ad8bda0691ee32cac4275c48103ca5bc2ada16c78cda0cf71856",
+    "change": "Only local checkout prefix normalized in completed metadata/output; original bytes retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/review-17/proposal-build.json",
+    "private_original": "exploration/persistent-01/private-originals/review-17/proposal-build.json",
+    "original_sha256": "9268a3ab780175882f3e94e5c40778a593b27970332beeb7cf56297065db6cae",
+    "published_sha256": "9ca56445f458f69d5905176a0227581fc6dc4acd317edf61e2a08c5f1265322d",
+    "change": "Only local checkout prefix normalized in completed metadata/output; original bytes retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/review-17/build.json",
+    "private_original": "exploration/persistent-01/private-originals/review-17/build.json",
+    "original_sha256": "f4a38e51246e449837324bfde1a67fd4391632a764c0ba1407f933ff528f5e21",
+    "published_sha256": "76424c006a3dfd422c0199a8db7d83cd67b08ca17dd2807d05d89441e8c3f008",
+    "change": "Only local checkout prefix normalized in completed metadata/output; original bytes retained privately."
   }
 ]

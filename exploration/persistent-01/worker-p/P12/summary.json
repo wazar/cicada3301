@@ -1,0 +1,1694 @@
+{
+  "completed": 43,
+  "expected": 43,
+  "seconds": 85.99586383299902,
+  "counts": {
+    "DECLARED_LENGTH_EXCEEDS_CAPACITY": 43
+  },
+  "rows": [
+    {
+      "page": 2,
+      "path": "liber-primus/data/relikd/p2.jpg",
+      "image_sha256": "74e955ebe248e6d7442e2d2cd3029951f258017987d5762f48e7897cf6611e34",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 619659,
+      "packed_sha256": "879213ad432ac2e6e4ba60a8c224c91564784f9e8f2e9bebac43e20205587c54",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 77452,
+        "bits": 619659,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 77452,
+        "remaining_payload_partial_bits": 7
+      },
+      "available_bytes": 77452,
+      "available_sha256": "bf54a6c987b423d44201a7efaecf99dc4570f8fb572f7b2623316d594cc2031c",
+      "historical_bytes": 76800,
+      "historical_sha256": "b8df24294b507ffc47d57f6f94ede8d581095c2c9c716a00e51dbae226a2ac72",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 77452,
+        "header_bits": 36,
+        "buffer_bytes": 652,
+        "bitindex": 0,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "267a423adaeba2f1b284274e93c04628b889b67348c2a2dfafe8fec45454632f",
+      "coefficient_hashes": {
+        "1": "c3f572b3221e6d0240c4a59bf7e44733faa8514a4fafe5759f82120472504050",
+        "2": "379128627d4037202a6efb482c19c1cbcc958aa427ef53d4edc851e744fcb71b",
+        "3": "526aa713dfae867f59872dc54ae7934ca43af209dc919963f29bd6eec92f19ee"
+      },
+      "seconds": 2.132117458000721
+    },
+    {
+      "page": 3,
+      "path": "liber-primus/data/relikd/p3.jpg",
+      "image_sha256": "1453ef27ea607c6ea378d6472c908e77c2881caba33c72d1893caddee8dc1117",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 618354,
+      "packed_sha256": "ff770ba1314baa86c72e434fd93d5a1246498c840266cc031faddf49b66265d9",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 77289,
+        "bits": 618354,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 77289,
+        "remaining_payload_partial_bits": 6
+      },
+      "available_bytes": 77289,
+      "available_sha256": "495bc153dbcf3bdbed6d134a3d5a3d2973dc6225a69362b824346d77003be722",
+      "historical_bytes": 76800,
+      "historical_sha256": "8c4d07414757763b2ac05344515ba2af34cbaa459b0160d431960b031714f26d",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 77289,
+        "header_bits": 36,
+        "buffer_bytes": 489,
+        "bitindex": 1,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "ebd937f81dc9899f313d0a610935b190dbd3581b425700cebea20860b1a4f265",
+      "coefficient_hashes": {
+        "1": "6438dddcedc72d008ce0d4dc8d5fd9c09977e6adf36cdd659d3d026564dd2afd",
+        "2": "87dc631763fa787046530f5f7b6d21964272aea49715ab928b43e5938443d224",
+        "3": "9263d4d6b8c5ba30a1f8996485414de68440af109a6b57a6ee016a5b69216635"
+      },
+      "seconds": 2.1271972920003464
+    },
+    {
+      "page": 5,
+      "path": "liber-primus/data/relikd/p5.jpg",
+      "image_sha256": "bcef0a3b80532b25a013052ec4394ab47ab69ce675b5b3db59cbad044e7adabd",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 683572,
+      "packed_sha256": "dee4dd863f64942f097e94bf48506def71df084bf7b08273f9586dbff64d3ad2",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 85442,
+        "bits": 683572,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 85442,
+        "remaining_payload_partial_bits": 0
+      },
+      "available_bytes": 85442,
+      "available_sha256": "94e0426517a14e492ee2bc6c4bc5069e3ec43df54cbd2bb08d1c9f2e5ac04047",
+      "historical_bytes": 84992,
+      "historical_sha256": "e5c76a8bb9434958d91a7bfe921ec32e2984532f975a3c9823f6b7dc95257c9f",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 85442,
+        "header_bits": 36,
+        "buffer_bytes": 450,
+        "bitindex": 7,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "03a27d758f4e2d3b567c48a372cb8a36653832c67574fd62f6d204dec3fcbb68",
+      "coefficient_hashes": {
+        "1": "2a27799467db6bbb40dcb3c662a6ebd92a10d57ddc68bbcdde1031d2199457c7",
+        "2": "4639d1e061f39a1c2ab4987b9095efd5df85beb9f0bdecc2073d1e2eae477238",
+        "3": "2c4bd5e75b50567dd5a3cb4111a7df207ce8b453d73c916a0ee00c5c88129e5a"
+      },
+      "seconds": 2.186600417000591
+    },
+    {
+      "page": 6,
+      "path": "liber-primus/data/relikd/p6.jpg",
+      "image_sha256": "4c7dce370242c67a7b785828d75547c042717b221d9d565d7dd097834c7b25d7",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 578766,
+      "packed_sha256": "c5c9930e30e93d950271a40ec74498aa75a5a201de29f21083222ce76f6372eb",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 72341,
+        "bits": 578766,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 72341,
+        "remaining_payload_partial_bits": 2
+      },
+      "available_bytes": 72341,
+      "available_sha256": "0b54e329b43f938cf5edb770bb57a7c3e53ef371333d5569aa413f7af332a8d8",
+      "historical_bytes": 71680,
+      "historical_sha256": "8291487ec86a8ace0bd806ca022010f4803c792ba78ebc9d63459b4ab567298f",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 72341,
+        "header_bits": 36,
+        "buffer_bytes": 661,
+        "bitindex": 5,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "9982d45b23f4039e020404326d8768584e6aaadf4cde46bcced87cd6e92be61e",
+      "coefficient_hashes": {
+        "1": "128189a30b3ccd05e13595829c78c78614e44cc9a73892f9abc8c2112ca52a14",
+        "2": "28273b1ff25b5dd2f8f83e719eaaf28f1245dfb692efd31afada896f8ee3693c",
+        "3": "a3d2a9de696a9d480076ec3129f3d9b09f430213e1022400f4b0f24b2bd627f2"
+      },
+      "seconds": 2.0259114159998717
+    },
+    {
+      "page": 7,
+      "path": "liber-primus/data/relikd/p7.jpg",
+      "image_sha256": "91a726a7dd59c6caa4d736b9ce72ceba0a2fa827d6b69a2d4057562b9303636c",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 601609,
+      "packed_sha256": "c36ad19ca997617bd3a2deefdec9d784c61cadbf99c1e0dcf47636aab740e1f8",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 75196,
+        "bits": 601609,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 75196,
+        "remaining_payload_partial_bits": 5
+      },
+      "available_bytes": 75196,
+      "available_sha256": "c0ca99b76def9d5a8141a611e645c56e08ee95a547a5c681a14d1bc37fd76b72",
+      "historical_bytes": 74752,
+      "historical_sha256": "453d92a8ebeebfc421fb42a290d47dcbb470549aecbc90e452af1ed7e9dbcb10",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 75196,
+        "header_bits": 36,
+        "buffer_bytes": 444,
+        "bitindex": 2,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "992e266b84c4e2208cef8408f9ab089723fa593bc6cbeeca929e36de9f6fda42",
+      "coefficient_hashes": {
+        "1": "a08a9bce92ba8dfec58f4c174d327d9e3c0b9523c39cf1b5654f35d21e7bf42b",
+        "2": "e7db1e23120363a1c14f5ce3fe8b9a09bf4c3ad79b2fcb8eb1d2782479d8a901",
+        "3": "00601c33719e7975f4c09937617d336767e8e98bf4d3c1e6beca18becab7b7a3"
+      },
+      "seconds": 2.062906708997616
+    },
+    {
+      "page": 8,
+      "path": "liber-primus/data/relikd/p8.jpg",
+      "image_sha256": "6b1026dfdfb447a5a76819883fe576254e8a47fdf1e97ecf1825166833bc6f00",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 633943,
+      "packed_sha256": "5e8de51d153cc5f9a1a233b4b382b9ccd5f67ce87ace57a4a3566000c0f0d733",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 79238,
+        "bits": 633943,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 79238,
+        "remaining_payload_partial_bits": 3
+      },
+      "available_bytes": 79238,
+      "available_sha256": "10ed9de0f9e736672c2f16355478c07ade688a45e356eab64bea7f2eec76539f",
+      "historical_bytes": 78848,
+      "historical_sha256": "1e48c039a8ea902a0a2dee671a19cada36d0df4da988e834084d3ceff14afaa5",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 79238,
+        "header_bits": 36,
+        "buffer_bytes": 390,
+        "bitindex": 4,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "b582782789162d4748e96edca7fda592b74c049453c7934056d75cc8c57071ba",
+      "coefficient_hashes": {
+        "1": "37bf72ca7ca4858d447dc2507cf20d3b9b51bb541b6966cae8313dcfecc95d71",
+        "2": "dea2c47d6e1219c5a55c68cc13d010f9e190a7f11f6ca751c67a932f6a471c24",
+        "3": "10221555545ba1832e9e30c75c0606f4b621deff02b71064ed8b30508d4a478f"
+      },
+      "seconds": 2.099098208000214
+    },
+    {
+      "page": 10,
+      "path": "liber-primus/data/relikd/p10.jpg",
+      "image_sha256": "1716e282c1d5e8a9ff911c01621e9b195d4728c7fa55ac857176a473eaba3239",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 639723,
+      "packed_sha256": "4879f89eb25b2260754efd1713c24286957508833047383b49fe83604b39a377",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 79960,
+        "bits": 639723,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 79960,
+        "remaining_payload_partial_bits": 7
+      },
+      "available_bytes": 79960,
+      "available_sha256": "544afa9d1f3eedbb161ca5ef03551271e66e1326f2b44476e849d62bbbe4fec5",
+      "historical_bytes": 79872,
+      "historical_sha256": "3b5aaaa1888670e26ec5ca1d8e022bfbdf96d1ff8a79377d32f23f082cf1d407",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 79960,
+        "header_bits": 36,
+        "buffer_bytes": 88,
+        "bitindex": 0,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "a4e4b3d268893991de454ff03f23e74aa1aab3dac8902861b517617a52046c59",
+      "coefficient_hashes": {
+        "1": "fbb1dd1664d1873495e7d815587584b0a4b642dc699f1489172aa24f6758672d",
+        "2": "f61e19584700aa6b2e41fdac62eab35870d236afd6d64a4a9ba693abd90f9246",
+        "3": "2c4bd5e75b50567dd5a3cb4111a7df207ce8b453d73c916a0ee00c5c88129e5a"
+      },
+      "seconds": 2.1161708750005346
+    },
+    {
+      "page": 11,
+      "path": "liber-primus/data/relikd/p11.jpg",
+      "image_sha256": "26f0cb307a23dcb2adf03a70fb9c6da89746258a90fd9be5383b2757ab4aad30",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 630216,
+      "packed_sha256": "db0e10488dba0392bc36c0237ae326d9449cde49e05d57fb9fb1bdf6251ca2af",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 78772,
+        "bits": 630216,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 78772,
+        "remaining_payload_partial_bits": 4
+      },
+      "available_bytes": 78772,
+      "available_sha256": "ef5a67cb94010d2c542af366801d8786f9372c9fd6b07e1729199f8b3c5fb678",
+      "historical_bytes": 77824,
+      "historical_sha256": "057b2bb41b79f7dfd1a06f3f2875c1c2322c24d5d8d121dacd432ac1a59f8154",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 78772,
+        "header_bits": 36,
+        "buffer_bytes": 948,
+        "bitindex": 3,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "e57e2408b808ec3502a2df4e027aff0c26dccf8bb243e3f10e0c2d5a9542a8f2",
+      "coefficient_hashes": {
+        "1": "4598f47b257b93068a58b5ea7cdfe3e1fbff63f8a4acf6b5517b62568b001bf5",
+        "2": "c1d7425c1487d6ca118ee74f5f938ca55ca14db512e8b6affc37698925cc9f05",
+        "3": "2c4bd5e75b50567dd5a3cb4111a7df207ce8b453d73c916a0ee00c5c88129e5a"
+      },
+      "seconds": 2.078998249999131
+    },
+    {
+      "page": 12,
+      "path": "liber-primus/data/relikd/p12.jpg",
+      "image_sha256": "6961f3f8eedba5b802fee9b40ad91fa604cd4e4394f9ba72853141ad71b19b21",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 631954,
+      "packed_sha256": "36e0e1ea46683b2953bbcaf1bbd2dad1c45fcfb469494c084c06dbbe4a39a52c",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 78989,
+        "bits": 631954,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 78989,
+        "remaining_payload_partial_bits": 6
+      },
+      "available_bytes": 78989,
+      "available_sha256": "aa1a0f6f841fe092ee7b3a37bdb26e5d0fbc3cc1f3b026293ca7a8327f44e306",
+      "historical_bytes": 78848,
+      "historical_sha256": "420ca55927a33e8a08bcf1efc51e06516c01ed1d343522f5cef50dc2dbf127b1",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 78989,
+        "header_bits": 36,
+        "buffer_bytes": 141,
+        "bitindex": 1,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "413c3b1ff261481dc8fa3b00e02933559ab37c4965045f95883dffe8837f3a2f",
+      "coefficient_hashes": {
+        "1": "952b8eaaf98058cb0e88791ee28e4e53fe50b934823958a9f9b46562ac60ec51",
+        "2": "f61e19584700aa6b2e41fdac62eab35870d236afd6d64a4a9ba693abd90f9246",
+        "3": "2c4bd5e75b50567dd5a3cb4111a7df207ce8b453d73c916a0ee00c5c88129e5a"
+      },
+      "seconds": 2.12361037500159
+    },
+    {
+      "page": 13,
+      "path": "liber-primus/data/relikd/p13.jpg",
+      "image_sha256": "3481daeed3ab2bea6effbe36eec22f74955bce87ca4b4ae8674be1d3f84ea08d",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 640118,
+      "packed_sha256": "0786e21640ac4689c223fe4dd2adfff551020e3ab1f38387eb0706ea2f4c5cc1",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 80010,
+        "bits": 640118,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 80010,
+        "remaining_payload_partial_bits": 2
+      },
+      "available_bytes": 80010,
+      "available_sha256": "5d2534f9978df0cef90934232e13dd54abe78a6367b3afa78efb18b8b6548b29",
+      "historical_bytes": 79872,
+      "historical_sha256": "b36cf94e4af82735793fb812c2b8bd70a6470eabee7a2d59cb442764a15ab0db",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 80010,
+        "header_bits": 36,
+        "buffer_bytes": 138,
+        "bitindex": 5,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "1c50d7c890938e8d5a8ef62ac2044f9d9402ec057f39e2d785764df8c6409589",
+      "coefficient_hashes": {
+        "1": "17c9927b4291325f7d88f651080d53fcd30c69226e28571203ce5392e08a84b4",
+        "2": "c1d7425c1487d6ca118ee74f5f938ca55ca14db512e8b6affc37698925cc9f05",
+        "3": "2c4bd5e75b50567dd5a3cb4111a7df207ce8b453d73c916a0ee00c5c88129e5a"
+      },
+      "seconds": 2.133098499998596
+    },
+    {
+      "page": 15,
+      "path": "liber-primus/data/relikd/p15.jpg",
+      "image_sha256": "5543cfce96493b86eece3195b3f5ea6e779ff41551676600b0c2479fc18c0ec5",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 541404,
+      "packed_sha256": "a75490271e34f1c912e9aee296fc29ffa86c0b7fa7374f4a35887c3b0da63678",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 67671,
+        "bits": 541404,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 67671,
+        "remaining_payload_partial_bits": 0
+      },
+      "available_bytes": 67671,
+      "available_sha256": "4210d3345178884380a52c14cbc8befa7a15545053bb62c9fc8a11c14165da0b",
+      "historical_bytes": 67584,
+      "historical_sha256": "00162b760359a3b10a97f54902f0ff8d48f7ec062ba480715fd24cf287196c97",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 67671,
+        "header_bits": 36,
+        "buffer_bytes": 87,
+        "bitindex": 7,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "2a23165e7454eeaf36e91e6dea139e43019209b17cbf96b366e52fcb63876123",
+      "coefficient_hashes": {
+        "1": "2d8253152c0b08ebea6ab0c64054852e21c2e17cef52d62ee53ea963bf492ff8",
+        "2": "8546aaec85a3eae319d6eaa95da32d566b60683dcebfad634b691d605bb4b093",
+        "3": "59e191946df1143d8bd768ad01725663b14b400d7c918115406186adc0a9d3b4"
+      },
+      "seconds": 2.000983083002211
+    },
+    {
+      "page": 16,
+      "path": "liber-primus/data/relikd/p16.jpg",
+      "image_sha256": "39780578c48d318310c3bccb0bc30e96adcb5b2de6e4a965000c55465375861d",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 603134,
+      "packed_sha256": "f1d86ba14cbaedf096fa4338bea017936264354de62da39d89a7073894d26436",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 75387,
+        "bits": 603134,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 75387,
+        "remaining_payload_partial_bits": 2
+      },
+      "available_bytes": 75387,
+      "available_sha256": "2e55ee930b283c576445014a2c927a64cb11d38f1a112880c7b56ff144e01f6a",
+      "historical_bytes": 74752,
+      "historical_sha256": "c0121bf77da8a7139ed7d86a269310c625ae336c65f6f3c04bb2784252ec2edc",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 75387,
+        "header_bits": 36,
+        "buffer_bytes": 635,
+        "bitindex": 5,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "4724696543bc04c0fcc2aeab174ca05068ffdd747d58f1be6dab120ad05cff21",
+      "coefficient_hashes": {
+        "1": "c0ccdfe41dcb5b8dd09b904334d59b577c3385aecfdba89938fa48f9a2e172d9"
+      },
+      "seconds": 1.6411478750014794
+    },
+    {
+      "page": 17,
+      "path": "liber-primus/data/relikd/p17.jpg",
+      "image_sha256": "f123b66eefa1b4409750c5ea3879bfe64728c6aa1e1398cb8fbd0fa8b1cf1f50",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 592277,
+      "packed_sha256": "4671205ace07a052b4fa8505b49cb334df57acc9c8b8baaa00db2bfda0ed9ca4",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 74030,
+        "bits": 592277,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 74030,
+        "remaining_payload_partial_bits": 1
+      },
+      "available_bytes": 74030,
+      "available_sha256": "82f612d9eb9abcfd01f77e0488f237876adf0c6330ac320613150a24481e0732",
+      "historical_bytes": 73728,
+      "historical_sha256": "ab512f40b4ba293cb94cca5a7a8b810e8182a053f5a4be3b4e073c6e8799dac2",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 74030,
+        "header_bits": 36,
+        "buffer_bytes": 302,
+        "bitindex": 6,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "6ab9d7be736827662e10ff766d2b0ca62261a88535cf73d665c7af91574aa864",
+      "coefficient_hashes": {
+        "1": "79fbc2f9a4224c616ee39bf0e1a602e95cd02bed82ff8f9bc5647c07318f3168"
+      },
+      "seconds": 1.6409836250022636
+    },
+    {
+      "page": 18,
+      "path": "liber-primus/data/relikd/p18.jpg",
+      "image_sha256": "90fa414c464e86435bdb22f051f9670e886e3dd1c0b6d8954be94b86188da94b",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 593439,
+      "packed_sha256": "1d3990e6ded0c7de310fb03412e5b720b4843c00000a6b08e9eedb094ab65635",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 74175,
+        "bits": 593439,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 74175,
+        "remaining_payload_partial_bits": 3
+      },
+      "available_bytes": 74175,
+      "available_sha256": "2f7d39effe19391db8fd601949502b0600a7937670d11a4847287f718fccf584",
+      "historical_bytes": 73728,
+      "historical_sha256": "60f0bb220a21b92411316425b2c66b4e4f4906091f395ec1ac1aaa3fb40c2f63",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 74175,
+        "header_bits": 36,
+        "buffer_bytes": 447,
+        "bitindex": 4,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "893daef2e847c491bd6b60cef6ed124069fb52f312d9535419bab1222d145aa1",
+      "coefficient_hashes": {
+        "1": "98e714dc6575c3a0f49f43412588579a74138d6d4a09f29d400ffa0a006d0298"
+      },
+      "seconds": 1.6298214590024145
+    },
+    {
+      "page": 20,
+      "path": "liber-primus/data/relikd/p20.jpg",
+      "image_sha256": "1ceef52570621785a021febff39003538f810179e5767ef5279a59c0c05c9985",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 587191,
+      "packed_sha256": "627fd79fc2791fce52a68def7266660e85d3426a3300766fb00e02463a9cdfc6",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 73394,
+        "bits": 587191,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 73394,
+        "remaining_payload_partial_bits": 3
+      },
+      "available_bytes": 73394,
+      "available_sha256": "280d23599e9b2ed1977e93a3c8e4543672e1bf25ae7ed97341ff3d6e31438257",
+      "historical_bytes": 72704,
+      "historical_sha256": "3427acbf4118dd642632725dec81bb95f6b0a8682d1568d1ab041c0c4728f44f",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 73394,
+        "header_bits": 36,
+        "buffer_bytes": 690,
+        "bitindex": 4,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "39b05811988a6bd7bec1146c639cf1939939e9b39618d0858795e618d72cc8e1",
+      "coefficient_hashes": {
+        "1": "8aa6772a6b5ae22298b6343606d9718aa6ff476b1fbd44bdced6111b702cef38"
+      },
+      "seconds": 1.625725791996956
+    },
+    {
+      "page": 21,
+      "path": "liber-primus/data/relikd/p21.jpg",
+      "image_sha256": "c453ad16212b335a065069e9f755791b909225ed250b579eab205655e7a80c10",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 602392,
+      "packed_sha256": "2323f0838ba08e108bfab744f304d61a6529a0c3a36584a4ea39e9f5569bb547",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 75294,
+        "bits": 602392,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 75294,
+        "remaining_payload_partial_bits": 4
+      },
+      "available_bytes": 75294,
+      "available_sha256": "bb2b7030bdd4f894ba262054df3a57e419cc7735f880f01aa05372cae78a09be",
+      "historical_bytes": 74752,
+      "historical_sha256": "b78ec942499095375a5df3eaab4ec10a7522150e1125869be0085e834b911a36",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 75294,
+        "header_bits": 36,
+        "buffer_bytes": 542,
+        "bitindex": 3,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "129e7695dd3f5d76ff5822f698cd30a778d4b39963e551e14f466c61b6cf7fa7",
+      "coefficient_hashes": {
+        "1": "f206fa0591bccd00216f97cfed8dce4292d9d6997b731f340000fd4badd2d564"
+      },
+      "seconds": 1.662837457999558
+    },
+    {
+      "page": 22,
+      "path": "liber-primus/data/relikd/p22.jpg",
+      "image_sha256": "e232eb4649f89125d0edeab7022cbe189185d46ccbf0823fd964b6e71e9bafe7",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 540431,
+      "packed_sha256": "187754c921b08ff0ba6a0706a89ae0395483af56a640cf0936904925ea4ee42f",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 67549,
+        "bits": 540431,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 67549,
+        "remaining_payload_partial_bits": 3
+      },
+      "available_bytes": 67549,
+      "available_sha256": "bb3e2d37f95e2563758a1d8c652b3a182587540bff2bcf51af006389626bcf3b",
+      "historical_bytes": 66560,
+      "historical_sha256": "2de247b6a7802681bbb0818bc8960ce75440008ab8135b2734b283762773fcea",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 67549,
+        "header_bits": 36,
+        "buffer_bytes": 989,
+        "bitindex": 4,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "25fbd2eb02ae3889fa2a355a9d5734b45d17aa8c0d605faf183b44c069db2543",
+      "coefficient_hashes": {
+        "1": "ab766ac99203663db6bbaf7b0d672419559a189ddf6b0a604c485f05a087fb32",
+        "2": "7f8a2b4b9f9ce7af7e2699f17c6b7fb928063a4c5b8266da5f73b911e19683a8",
+        "3": "a11d0fa72f9090f761a3eef364ffb8c3c85e8957f851152cd875be8cb30c2737"
+      },
+      "seconds": 2.0319679579988588
+    },
+    {
+      "page": 23,
+      "path": "liber-primus/data/relikd/p23.jpg",
+      "image_sha256": "d31a23cb3a2e50b505e1c468ffbb0106f5353f469bb5958b87ab929fc88decee",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 518649,
+      "packed_sha256": "4c45727ed0f3a67dc01dbe3989119c48a3c373f9e0c96beda1919093d97553c8",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 64826,
+        "bits": 518649,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 64826,
+        "remaining_payload_partial_bits": 5
+      },
+      "available_bytes": 64826,
+      "available_sha256": "432d965cd2574e33946d4a8580302150e02f5251cecb6b0d79b496d9f99bcba3",
+      "historical_bytes": 64512,
+      "historical_sha256": "27fbf93015bdb779c544bb5a53d1ffefc867f4a700e38c34dff30f468d37ed77",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 64826,
+        "header_bits": 36,
+        "buffer_bytes": 314,
+        "bitindex": 2,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "3ef8477a36dc06eb49c697887b22772d612bece1abbe01cdf7f3ffa9582e9692",
+      "coefficient_hashes": {
+        "1": "a090dca737275840ff3ba480e93e3eb654b0c8888c8c0febbecbf15c52bb4e0c",
+        "2": "d5a1e8338aa13787118be858ea48240356de2abbc51d84a37893362a21c4f37c",
+        "3": "60ed5b47e7282855f009e9bd4a9322e6455e3096958ea49d6df3cc3d6b5093bc"
+      },
+      "seconds": 1.964131124997948
+    },
+    {
+      "page": 25,
+      "path": "liber-primus/data/relikd/p25.jpg",
+      "image_sha256": "a7d6e597debff4f7c5b3516e1b02ca2e4fa5b37d972f567264ed2ec845013cff",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 673546,
+      "packed_sha256": "6505a638e70926e6c3fd66b915500040de852c7e1af76016a8ec1b77943d9050",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 84188,
+        "bits": 673546,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 84188,
+        "remaining_payload_partial_bits": 6
+      },
+      "available_bytes": 84188,
+      "available_sha256": "0b79280414d5b3b0384f8abf3f8787254c82d6338ee39eff93340f91db32e2a9",
+      "historical_bytes": 83968,
+      "historical_sha256": "c311605aa35fe6dea77a8bc49d44718d4f65e637e2c89c2607a86e6653dbef2b",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 84188,
+        "header_bits": 36,
+        "buffer_bytes": 220,
+        "bitindex": 1,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "ddc9ad2940f8aabfa120f801703c1f0c79aabd74878956e38703d8493bf98c7c",
+      "coefficient_hashes": {
+        "1": "3086ba0375bc603ec0386a8baba5fbdb44df006d18687863df51198637ed6104"
+      },
+      "seconds": 1.7616420829981507
+    },
+    {
+      "page": 26,
+      "path": "liber-primus/data/relikd/p26.jpg",
+      "image_sha256": "ed88f5fcdca3d1f846538caa8be979aa28cde969eb99c9464d60daa26c1f9af7",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 692534,
+      "packed_sha256": "884d83e1f45a1ebf6df8f5cd27d23bd19cfbe0a8f35bdeb1ee506c1efc53fa1f",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 86562,
+        "bits": 692534,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 86562,
+        "remaining_payload_partial_bits": 2
+      },
+      "available_bytes": 86562,
+      "available_sha256": "300ce787bf2ae24abcd7828314d9ddbc5fd3bdef748f9cf6ba1c6ef5b3e7b5e0",
+      "historical_bytes": 86016,
+      "historical_sha256": "836040897c118782a48ffa1b8dc7b931b666b4884921abe3d0537d7fa30ca2e7",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 86562,
+        "header_bits": 36,
+        "buffer_bytes": 546,
+        "bitindex": 5,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "81771bc0b23661a9d6c9593ddfd5aab9210cddb46e08ebe9985b010a36ed6ae8",
+      "coefficient_hashes": {
+        "1": "4d1a015a74300f4c80a784c0875181b91426d5e150780c7e0ee13de0848d26ea",
+        "2": "beb7cfcf478e4264903f56aa79def6d1f32b642268da124ec28daf90386e89bb",
+        "3": "9d3fda67aa3e717f74bb4d6bb1b1104e564a005268323f9e745139b0ea4a5357"
+      },
+      "seconds": 2.2899592079993454
+    },
+    {
+      "page": 27,
+      "path": "liber-primus/data/relikd/p27.jpg",
+      "image_sha256": "c92c972f41dd038e136d8589aa7b113e268c36f2860c279cce712cd037cb3a8e",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 606436,
+      "packed_sha256": "a2310e03ef074acedabeaced52221b20859979fc096deedbd03f80cc0ffa1ac4",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 75800,
+        "bits": 606436,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 75800,
+        "remaining_payload_partial_bits": 0
+      },
+      "available_bytes": 75800,
+      "available_sha256": "4034366ce2d56fd00a7e03bb19857e8bbb6dea30bcc2bfb5f2420cdbbbc03346",
+      "historical_bytes": 75776,
+      "historical_sha256": "a9415fa475fbeae9bc32e20409f2b61a6c0ba1686d69a8ca1c7fa59dd3aabd38",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 75800,
+        "header_bits": 36,
+        "buffer_bytes": 24,
+        "bitindex": 7,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "223c8e38a6994a992ad72a0b1c4aa72091ed5844158f9569b0badbe3357c82b7",
+      "coefficient_hashes": {
+        "1": "ac6425341797380ce7c0da935b2b94e0a0b0f7e375e6d2b1792d85f1eb4d297c",
+        "2": "763f954da0a57730e714ff6bb950100a7767a35b88db08102bfe8706027fe779",
+        "3": "9852fb4243d4bbefa3ecccf1275879d6586f866663c760f4f1d627274bf85aa2"
+      },
+      "seconds": 2.177842500001134
+    },
+    {
+      "page": 28,
+      "path": "liber-primus/data/relikd/p28.jpg",
+      "image_sha256": "318bb587f4dcab11b4db7ba3b8bb13b7913ca79bb409e1c987595503a22e0522",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 594378,
+      "packed_sha256": "6cda49f46fc0fdd49f3a20f3519c9d5cd6fa4b66e768653078599d3014af24fa",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 74292,
+        "bits": 594378,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 74292,
+        "remaining_payload_partial_bits": 6
+      },
+      "available_bytes": 74292,
+      "available_sha256": "6d0dfce8e0859c3569851a409ae58251e632912b7d2eda3dfd6f88e104ac97f0",
+      "historical_bytes": 73728,
+      "historical_sha256": "8bba77ff7af2398fefcdf2d08fab87ce2e9e4eef8eebc45660e85a4e1d01fd06",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 74292,
+        "header_bits": 36,
+        "buffer_bytes": 564,
+        "bitindex": 1,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "d51be896a5febf8d5a3211bea0bc7f53f472eb5cfe613a7f5fd32e1c99b7d23c",
+      "coefficient_hashes": {
+        "1": "79dcb383192f7f423b5c9f790400b1ff308ab3ccb1afb09469d89c763ae2280b"
+      },
+      "seconds": 1.6502268750009534
+    },
+    {
+      "page": 30,
+      "path": "liber-primus/data/relikd/p30.jpg",
+      "image_sha256": "701b66d1fe98f730dadc5d7d8e1bc3b9a8e20547c1ffb423011f436037dba8b0",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 590846,
+      "packed_sha256": "e1eb70b8bb4e22ec57cf9a324a3192644dddd895dcff8f68e38a42c20b58a06f",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 73851,
+        "bits": 590846,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 73851,
+        "remaining_payload_partial_bits": 2
+      },
+      "available_bytes": 73851,
+      "available_sha256": "7550e3932830fd183d91c36b2a328dc9fdd887ae6ae38fe569cc385e508f6a88",
+      "historical_bytes": 73728,
+      "historical_sha256": "1b06b56ad18a61a45a932cf2e10cb87e46906e4397ebe5e2d95df792cec394d7",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 73851,
+        "header_bits": 36,
+        "buffer_bytes": 123,
+        "bitindex": 5,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "9b422feff5174a047c9e128a0191e0d5eca0fc5e2d776ece995cadaff78a7b5c",
+      "coefficient_hashes": {
+        "1": "a89833756b2eaa5f4b2c422affffe3be58cca2e3264880c40c0ae41758da6ea8"
+      },
+      "seconds": 1.6735091250011465
+    },
+    {
+      "page": 31,
+      "path": "liber-primus/data/relikd/p31.jpg",
+      "image_sha256": "0cb60ca12b1bf5f9fc03026314018a0d5ee73f813ac86ca4197629c60f2cb80a",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 580922,
+      "packed_sha256": "6dee856f53a324a741cb0d277d92ebb95b947a3a22488c020a85b740f85d9a3f",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 72610,
+        "bits": 580922,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 72610,
+        "remaining_payload_partial_bits": 6
+      },
+      "available_bytes": 72610,
+      "available_sha256": "5fcc83a68c5a36e3e8931f5114e388743119b829c179ac5ee481e32eb9f4d4a1",
+      "historical_bytes": 71680,
+      "historical_sha256": "81a3717c962938eaf24fba463d7cb6995e223e87b2e2a7f33eb878be3e7b55e6",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 72610,
+        "header_bits": 36,
+        "buffer_bytes": 930,
+        "bitindex": 1,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "25aca19511dd4bfc09ed0da29fa6386d4f547f878e11b7a2f7cf058b823ea67a",
+      "coefficient_hashes": {
+        "1": "d59bbddfc1a85aae4485d9780146c4085f2b006371a00cdf5f4137dfc64cea85"
+      },
+      "seconds": 1.6495271249987127
+    },
+    {
+      "page": 32,
+      "path": "liber-primus/data/relikd/p32.jpg",
+      "image_sha256": "c0f778187a8e9ddbfc667a65929ac567430a2e38278a2022377984ac084e5f72",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 393372,
+      "packed_sha256": "8e908026a9345e5efdee985fdcaa7a92e300479109891d6d40d115f7188a3242",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 49167,
+        "bits": 393372,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 49167,
+        "remaining_payload_partial_bits": 0
+      },
+      "available_bytes": 49167,
+      "available_sha256": "80c3c02ec29700a6e7b3a6d8c47f05a70f02bec1e0b22a6b937446b18f05bc74",
+      "historical_bytes": 49152,
+      "historical_sha256": "e3b79538f579f87531e592bc618ef888b86779eda275febf27938ab8432bfc40",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 49167,
+        "header_bits": 36,
+        "buffer_bytes": 15,
+        "bitindex": 7,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "16ac6ce466dca2fc948b9d7b898f8a0fb8cae5f91a74b417f51202a34f9d29bb",
+      "coefficient_hashes": {
+        "1": "acb511146544314a7150c907e7e4e865f6000399e7da2dac94835dfaa19fe37c",
+        "2": "d38b07b0e0b10f611cf278d219b4a06a0b7672e70823b5d73f64901d547f00e7",
+        "3": "b2ba23d709964c037eaa54ea8bd339f8042f1864af1434d7d639a50f9934aec3"
+      },
+      "seconds": 1.779901208999945
+    },
+    {
+      "page": 33,
+      "path": "liber-primus/data/relikd/p33.jpg",
+      "image_sha256": "13ff4c8d8ab934032a001b8c1fda16433aa44a38dd7272b3ff0dd7ac8300c62d",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 556239,
+      "packed_sha256": "cae28df10ea1b216da1f2fdc254226d5aebd618a3d93f30d037524dc464b58a3",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 69525,
+        "bits": 556239,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 69525,
+        "remaining_payload_partial_bits": 3
+      },
+      "available_bytes": 69525,
+      "available_sha256": "bc3260b392f21d49d7610128d9a85ea06f7d2bb45985516ab90e9a0b0e269df8",
+      "historical_bytes": 68608,
+      "historical_sha256": "2bf3e6a2a9892e4570f2b3d78929d7dc384d8c510085641ce5f4c6afc3e308e9",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 69525,
+        "header_bits": 36,
+        "buffer_bytes": 917,
+        "bitindex": 4,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "d200744c3f2fbc859c0303a5d01fcd6d4f376c44c690d4185cbeeefd0f735cd5",
+      "coefficient_hashes": {
+        "1": "baaa1d6935a0e54395b4cec4cdecd08a1ea981d4bcc4025c5a4ee82966268e37",
+        "2": "657cc6cf751221da5768f0733d9557ab46bc18789901751c75f83aacbb8d24b3",
+        "3": "03e70821936b226868471b0d5fd27074ef65c1fa2048f641deeedd11652b3d14"
+      },
+      "seconds": 2.0534627919987543
+    },
+    {
+      "page": 35,
+      "path": "liber-primus/data/relikd/p35.jpg",
+      "image_sha256": "d713dd913d9b835ac61f298e8c0855f5093599e348edaedef964710db8664afa",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 605071,
+      "packed_sha256": "a15d47738954b5ea1567cd55e832850120e6dab451e4e4db5524e5d75029b89f",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 75629,
+        "bits": 605071,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 75629,
+        "remaining_payload_partial_bits": 3
+      },
+      "available_bytes": 75629,
+      "available_sha256": "075faf6d591e8bab7404bfe73fafb29fa472334cefc5affb62e6f1c0c28d0a90",
+      "historical_bytes": 74752,
+      "historical_sha256": "d5b6e53ac7ccf80f6dddf304106899982fadaae6e8b9ae733490b07b20f2a393",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 75629,
+        "header_bits": 36,
+        "buffer_bytes": 877,
+        "bitindex": 4,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "153395569a9cea4d362684f1b2e783b0db5e506d178446837c99dacda3ceb97b",
+      "coefficient_hashes": {
+        "1": "9f87c93ac29daad7b750ff7c2123871de2f41c3afa5da2d0fbb432ed8e053e53",
+        "2": "f4b29bf63f93ddcaccb32b73f2d33236862e43f97ff9e74321e414135c3874b5",
+        "3": "148e787eb579bafc6c0e9f0117955e8493a0621687089dada035ee56819bc205"
+      },
+      "seconds": 2.1231566249989555
+    },
+    {
+      "page": 36,
+      "path": "liber-primus/data/relikd/p36.jpg",
+      "image_sha256": "3b54a31a9e796e2c01b4e80d46e1092dee2e1142a7c61873e282078e2c776cb9",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 543498,
+      "packed_sha256": "87a7af55a048b209c61d7c3dca1b7dbefd7c553681eec8915f2dbbbf104fb1c8",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 67932,
+        "bits": 543498,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 67932,
+        "remaining_payload_partial_bits": 6
+      },
+      "available_bytes": 67932,
+      "available_sha256": "2299232195cd9d80bb59e7221ee1260f8223fc58a147912befba0767cb319fbd",
+      "historical_bytes": 67584,
+      "historical_sha256": "bf7d6a62a14f821edebae0fcea23aba9102b9d16a7bf97ee41a5b6899975bf7a",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 67932,
+        "header_bits": 36,
+        "buffer_bytes": 348,
+        "bitindex": 1,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "93d2a60efe8eda1d24b246074a623013fb09c1b67664623333895a4de1396f4c",
+      "coefficient_hashes": {
+        "1": "056a91a6e9aed2e40109328b3c5fc623ac1ec6cad3af3e0c03b7e847f49ab6b2",
+        "2": "9160027e4ce092cd3fbb7391ef973db9f9183bee5bb0bf1e359b8958866c316f",
+        "3": "ca830bc8e563dc3b53d6ce127b543a0790338bef081c451df96ec12231340e7d"
+      },
+      "seconds": 1.9990754999998899
+    },
+    {
+      "page": 37,
+      "path": "liber-primus/data/relikd/p37.jpg",
+      "image_sha256": "cee96d7e71b7de4d4e57237faacefad791229c153202e8224e4bedda45fb8f43",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 537365,
+      "packed_sha256": "ab40ebd46939f1a6bcf4d3d751eda870880d8bd5039e3c9017c6330c5988e911",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 67166,
+        "bits": 537365,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 67166,
+        "remaining_payload_partial_bits": 1
+      },
+      "available_bytes": 67166,
+      "available_sha256": "67b9e9417dee6b23303821049f5d309637dc5e27674fa60032ca9615a733c817",
+      "historical_bytes": 66560,
+      "historical_sha256": "b29abccc5d0388882eafd9cf2d564c9693917bf2761bbb4c68b6bb9bb3a59deb",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 67166,
+        "header_bits": 36,
+        "buffer_bytes": 606,
+        "bitindex": 6,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "3bf46b1434ca4b464e56112b3164e51a76cc406b0a7af3a333647d817570425a",
+      "coefficient_hashes": {
+        "1": "d216b65836ab4b06d5cce9572caa7ef0449101ed45f6281abb23bb4a10b76576",
+        "2": "79a259d5d02d0db23172529f488c2433af74618f70adff1c219c4a5d32fd5729",
+        "3": "8d2c7a5e9000fd80884c365839353dcf34bcd3b825b0a4797f7342bffee166ab"
+      },
+      "seconds": 2.0160638749985083
+    },
+    {
+      "page": 38,
+      "path": "liber-primus/data/relikd/p38.jpg",
+      "image_sha256": "aec1898f599f57265d6422f3082a481db94a27f62230affbadee595d05077f8c",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 553172,
+      "packed_sha256": "e012c105203f74b2b92743309ed4bbf25268506e18f4eed4cc7d1491399faa80",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 69142,
+        "bits": 553172,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 69142,
+        "remaining_payload_partial_bits": 0
+      },
+      "available_bytes": 69142,
+      "available_sha256": "c79c775f2e22a6d9262bdd0c60b560c464cbc5b14f4a4a71148bc0b74f8df829",
+      "historical_bytes": 68608,
+      "historical_sha256": "e40ba27e20c20488356860c6731200687f93a2420da4a3466ae1e852f3d2ba0b",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 69142,
+        "header_bits": 36,
+        "buffer_bytes": 534,
+        "bitindex": 7,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "b5ba12a3e507883bfe4b946de6fec5f78c6376f57473822a9294c2cdd94e2a18",
+      "coefficient_hashes": {
+        "1": "f3afe6e4c3c5c40cc125489cd40016d95077788e649c4e3bac4860ab9a0f6362",
+        "2": "7660e58fd2a69d8edca1960833565abbd5f93bd1b256703a8c97e9762c3e8cf5",
+        "3": "6fb0831641e25775e18e5c791a1a909fc76d3ba3ea02acbde0826ca2faa1844d"
+      },
+      "seconds": 2.033508542001073
+    },
+    {
+      "page": 40,
+      "path": "liber-primus/data/relikd/p40.jpg",
+      "image_sha256": "3f5af995b39f94f268d4aa94825a10f2429f4a3affa1921a7f627e6d1bfcfb69",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 756640,
+      "packed_sha256": "81b81c7c6e34765c80ca9ca431eabdc87d5cba38e8996dc492fe788e1208f284",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 94575,
+        "bits": 756640,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 94575,
+        "remaining_payload_partial_bits": 4
+      },
+      "available_bytes": 94575,
+      "available_sha256": "23858700ebcbe3bef6e8ac4651f9383443a60755f9185e512429dc2148eb49e8",
+      "historical_bytes": 94208,
+      "historical_sha256": "96e28fee13051e809afeb315f48e0e3f2dbc12a624fd612fdd73e1e5d08d5923",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 94575,
+        "header_bits": 36,
+        "buffer_bytes": 367,
+        "bitindex": 3,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "864a301f84713dce4c188cfc7a9af9fcdd30c1ee4211d9a5e893420effeb072c",
+      "coefficient_hashes": {
+        "1": "c07d75aeb73c940098e7fae159e977401aac0c1d9523adbf1c2371f0698ee0dd",
+        "2": "8a4e2a5d9e6cca5262e09bd61e7d99b0f845e7bf70a3ed22c3c7345e0bad90dc",
+        "3": "a1a5631c1a1a78d1379c245528f56aacba65d915a41e60f3b1902fe253e2a8a3"
+      },
+      "seconds": 2.363137458996789
+    },
+    {
+      "page": 41,
+      "path": "liber-primus/data/relikd/p41.jpg",
+      "image_sha256": "134052dd794a7d11185cc6d942de3f9839bd2b767e0845b0f059f711b269bee2",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 813870,
+      "packed_sha256": "9bbbe26290d85ced8f9225e4f0ee30b0ab6fc5577ce56d4b4857ffe28cd5b976",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 101729,
+        "bits": 813870,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 101729,
+        "remaining_payload_partial_bits": 2
+      },
+      "available_bytes": 101729,
+      "available_sha256": "e06070b546480d18c234e5ee79cc36233b0ebd41776f32b2cce6128941c5c4e8",
+      "historical_bytes": 101376,
+      "historical_sha256": "0c8297fb759a67408585d5d38a8bab04017d0219e05606bea0c3df70cf692c1c",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 101729,
+        "header_bits": 36,
+        "buffer_bytes": 353,
+        "bitindex": 5,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "303c993f8d435734666606d0fdac3f395a913ef9f002e125cd80e29385f37430",
+      "coefficient_hashes": {
+        "1": "54ace5cb30d386cbaac2801bb8af76a05e4dc0bf8205a017c4c1d7df126f0849"
+      },
+      "seconds": 2.0271183749973716
+    },
+    {
+      "page": 42,
+      "path": "liber-primus/data/relikd/p42.jpg",
+      "image_sha256": "e523427112ec6259e97d1711f0420469d961324dedb7dc4eac67ecd9543729f6",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 816345,
+      "packed_sha256": "9175fa3d41ddb67633ebefdafba5ca874cc7ee66e111bb6c452defc66de0dcc3",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 102038,
+        "bits": 816345,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 102038,
+        "remaining_payload_partial_bits": 5
+      },
+      "available_bytes": 102038,
+      "available_sha256": "03164f7b872c3e7a82e3d6cc19ea56f90977faf75a86e9b1bc0c6c9340a0da5a",
+      "historical_bytes": 101376,
+      "historical_sha256": "b9c7dbf39220d009188aef54f1ef605d47fff363828ef406f63ac56797896a65",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 102038,
+        "header_bits": 36,
+        "buffer_bytes": 662,
+        "bitindex": 2,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "44117e46456d0b68c4a4bfa3d6ed0a6d47010fef78d25e68991483db9e3d74f6",
+      "coefficient_hashes": {
+        "1": "556798fa839c9b745f040a5d1d7e3d5a138f1f0cefbb038e73bb1db339aa8065"
+      },
+      "seconds": 2.013351875000808
+    },
+    {
+      "page": 43,
+      "path": "liber-primus/data/relikd/p43.jpg",
+      "image_sha256": "dc4cf22565ccabb2b3d366eb8bd6b74520e3169133a7bd725373aad2f49ac415",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 820718,
+      "packed_sha256": "5401eaa038faff521325fd21e3434190e578abc2cfdd2bbc8e15a5c7dff9d0c6",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 102585,
+        "bits": 820718,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 102585,
+        "remaining_payload_partial_bits": 2
+      },
+      "available_bytes": 102585,
+      "available_sha256": "63f6a56bdd598ed951eba6fa16976fc5dd4a755ff2638dc162ccceb5ce53424e",
+      "historical_bytes": 102400,
+      "historical_sha256": "059d85660abce14960446d7776ab00c1deb97f405106f43b8695eb873c79268f",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 102585,
+        "header_bits": 36,
+        "buffer_bytes": 185,
+        "bitindex": 5,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "bcf346ae662a2bb0d65b9da03cd439db5492189b547721f7fc083d0e78248dc5",
+      "coefficient_hashes": {
+        "1": "eac09ab641fb9a06b6e9c177135add2440411931911ad6c6c40cde62c8e557ac"
+      },
+      "seconds": 2.022505707998789
+    },
+    {
+      "page": 45,
+      "path": "liber-primus/data/relikd/p45.jpg",
+      "image_sha256": "898b614af5473937a9abfcdc618160ba80ea44b07d4a479da4526be6e33f28d9",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 800833,
+      "packed_sha256": "b96f900742037c5130ed8a59ec4b2b49550882bb10162e3d8da67f84e9dcf23d",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 100099,
+        "bits": 800833,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 100099,
+        "remaining_payload_partial_bits": 5
+      },
+      "available_bytes": 100099,
+      "available_sha256": "adc6e473717a523b23ec7d7cd44c8282719d04be359e978164f5c4ec80ecda27",
+      "historical_bytes": 99328,
+      "historical_sha256": "27f04bb1b66408e91823ae47d4b16447f19a14f2725444f7c4add7c87d1be869",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 100099,
+        "header_bits": 36,
+        "buffer_bytes": 771,
+        "bitindex": 2,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "e090c92c5d9cb6703ebbf263804727e72c5830da6d7dd4551183205fcdc7b083",
+      "coefficient_hashes": {
+        "1": "3eb647294002cd597539cc97c89bbaa67afc8d45aa40e866fd57efa74eca62c1"
+      },
+      "seconds": 1.9532751250008005
+    },
+    {
+      "page": 46,
+      "path": "liber-primus/data/relikd/p46.jpg",
+      "image_sha256": "05538b8ebf9ed2a5716d94284a753dd26582a0227f139cc4a27dc3f07b15d301",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 811247,
+      "packed_sha256": "380b4eb3e148644aa5bb911174d7a76bec5941b6b438fee9e958dc51a036ce1d",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 101401,
+        "bits": 811247,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 101401,
+        "remaining_payload_partial_bits": 3
+      },
+      "available_bytes": 101401,
+      "available_sha256": "fee9eb1c8f6706e6dd26d00b5dc5995eb4ce8f104f7c0d6dd0fa4319cb381ab7",
+      "historical_bytes": 101376,
+      "historical_sha256": "31327253904e3cf51a5258b844d364c2d7763b335900ac464481e50091fb41ed",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 101401,
+        "header_bits": 36,
+        "buffer_bytes": 25,
+        "bitindex": 4,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "d7067ec6e28e7578eb75940fd91e4fcd06c1b2052421f25917f3f23c8c34e758",
+      "coefficient_hashes": {
+        "1": "bf87170ce72d543a53b15e39731c5546f92f90d211be1781a14a1bd83985fd5a"
+      },
+      "seconds": 2.0600585829997726
+    },
+    {
+      "page": 47,
+      "path": "liber-primus/data/relikd/p47.jpg",
+      "image_sha256": "08ed86be5561c09ce5c773d8001b290cc505436db89637d66ea0f5a15818d1c8",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 820942,
+      "packed_sha256": "eb89aaccde9173711a536321f80867803890d8dbd7ff9b51152265ff1286bf08",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 102613,
+        "bits": 820942,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 102613,
+        "remaining_payload_partial_bits": 2
+      },
+      "available_bytes": 102613,
+      "available_sha256": "415f1c3e80fb3ca55ed41a9f459953a2b03a3a16d5b099e3befeb8445cff48ca",
+      "historical_bytes": 102400,
+      "historical_sha256": "2e0095fe918b370eeb6f725380f9ccb908cf19844fffa92c677b64f50bd7c825",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 102613,
+        "header_bits": 36,
+        "buffer_bytes": 213,
+        "bitindex": 5,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "0607eb4456ddfbdc291216f5132509aec0cb3131726fb3b2f26d301c261fd3d9",
+      "coefficient_hashes": {
+        "1": "830ea1bb6329476350f7ee20aaef0214ea42342f6ac913aec3b01000ec60ad6a"
+      },
+      "seconds": 2.0851131250019534
+    },
+    {
+      "page": 48,
+      "path": "liber-primus/data/relikd/p48.jpg",
+      "image_sha256": "341da69e9d579528dd17b7659e23de210720429111dc76c512843eb1983100ea",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 832763,
+      "packed_sha256": "a9141db5600aa5e524ea3f37f4c3f51b06ae347ceeeb0323b34c3b5f6c56fb87",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 104090,
+        "bits": 832763,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 104090,
+        "remaining_payload_partial_bits": 7
+      },
+      "available_bytes": 104090,
+      "available_sha256": "57ffb9215298ea8adec147a365f02703da1e5548557fc87a65fb2fcca6a2ca32",
+      "historical_bytes": 103424,
+      "historical_sha256": "8b6510ca8871d7da2a3460cb23caa31838d61503cb83ac561dbb05d815618458",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 104090,
+        "header_bits": 36,
+        "buffer_bytes": 666,
+        "bitindex": 0,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "3978a68dd88605fd613b23d32b90d0918fc5f34d5d225b8bbe7a8d279a173cf1",
+      "coefficient_hashes": {
+        "1": "9f3a53be328e3f9c065e9ef4108265c03cdf83303b31701d8b0733f1281e6b7e"
+      },
+      "seconds": 2.089947166998172
+    },
+    {
+      "page": 49,
+      "path": "liber-primus/data/relikd/p49.jpg",
+      "image_sha256": "aa3f89156756edf8b796a470a14a3db96516ad2fedf1ed98ccabc1a1cddc0335",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 664093,
+      "packed_sha256": "873a308019309bdd0a457b02a287be1dded4df3057198ee9347c7b47fbbb49ba",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 83007,
+        "bits": 664093,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 83007,
+        "remaining_payload_partial_bits": 1
+      },
+      "available_bytes": 83007,
+      "available_sha256": "c1df29c8cabb087b80d86257ad8e2836972da416b72cc7bc771b31f5d1487234",
+      "historical_bytes": 82944,
+      "historical_sha256": "78d9e8dca9bf6f2fef0801030bfafbfe78ee4555be91c05674a1f08a0120d0bb",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 83007,
+        "header_bits": 36,
+        "buffer_bytes": 63,
+        "bitindex": 6,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "91493b99db929b97f891053844d40a4fc6eb6cdf6b154f72ab5b7eb5d6c8c353",
+      "coefficient_hashes": {
+        "1": "913fc30d94d043e8951eeb3099431837cd8bfef45850ad7414afdfef142fc18f",
+        "2": "6f981246b39ea3475c3dcfaefe7b7f1391d5074720856ecfd502ae7a8fa5698e",
+        "3": "4a3c49c1a3431d9aee2bff8f9253cd30981b71a44cf23d4d409f89ec917c4308"
+      },
+      "seconds": 2.3149547089997213
+    },
+    {
+      "page": 51,
+      "path": "liber-primus/data/relikd/p51.jpg",
+      "image_sha256": "2b9d60f62b2bc65d040f7ae1bc0960d5a44ca251d2730d049a618074a83e208b",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 692043,
+      "packed_sha256": "0a25dde8497093f9b2805385ffdd32e87fb9421701bb8753b332da2f465b5116",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 86500,
+        "bits": 692043,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 86500,
+        "remaining_payload_partial_bits": 7
+      },
+      "available_bytes": 86500,
+      "available_sha256": "7f3a6b003f2a04a523be0bb8055decf0d86a635f7c11c76587d1c84c1cb1a03f",
+      "historical_bytes": 86016,
+      "historical_sha256": "be328f4d479b4a70301cf41b609a387d154e6d140f4fa87dd811578654a4e5fb",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 86500,
+        "header_bits": 36,
+        "buffer_bytes": 484,
+        "bitindex": 0,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "2c9391df13b161050c89ecfa17978989c2cd7fa6cba0928840b6444c8ef2da77",
+      "coefficient_hashes": {
+        "1": "baa9ba74a06c9166433943aff61646aad46b02a7f11f13877f853bfd68789127"
+      },
+      "seconds": 1.8959620419991552
+    },
+    {
+      "page": 52,
+      "path": "liber-primus/data/relikd/p52.jpg",
+      "image_sha256": "d34a38f51759284f68fb916122ed6774c3b498dddb5537929355ac674453a0f3",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 824585,
+      "packed_sha256": "ab421c18e76a45d8ba9fd2dc6e1d102d3f3f9026a4afbaaf72c209b6a7e323a8",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 103068,
+        "bits": 824585,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 103068,
+        "remaining_payload_partial_bits": 5
+      },
+      "available_bytes": 103068,
+      "available_sha256": "fd50dc51d08cac84b23f98a5105d4ce6a0e85742cca7095108355d69825a507d",
+      "historical_bytes": 102400,
+      "historical_sha256": "021da9b35550050ca852965031e2909fa0b31072d76471644beb7e36c72e0b4c",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 103068,
+        "header_bits": 36,
+        "buffer_bytes": 668,
+        "bitindex": 2,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "929b9aa693ad08a41e209cae4bb530626fdb99759bc2dafde6f3b0a9f1abccbf",
+      "coefficient_hashes": {
+        "1": "32342229ced13a0cd8c9e0f45a9de0da6f808b293e451e6d20c39a65affb57c2"
+      },
+      "seconds": 2.079108375000942
+    },
+    {
+      "page": 53,
+      "path": "liber-primus/data/relikd/p53.jpg",
+      "image_sha256": "4ec7293ba72bd52384787646d204c8a68fefaf2d22673c40d27f23812d424548",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 758806,
+      "packed_sha256": "63fd95e31b1364de3c3e9525130b218e3d91f0c24ef2e10d3408693d74960ead",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 94846,
+        "bits": 758806,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 94846,
+        "remaining_payload_partial_bits": 2
+      },
+      "available_bytes": 94846,
+      "available_sha256": "9f7a9feaeec0e64d52c79d99db2dcac40b21feab68e3db17965f9a898c236585",
+      "historical_bytes": 94208,
+      "historical_sha256": "859aa9a1a230c64bae3833dc54ea9097e098f909de04d31704b4c747d1bd726b",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 94846,
+        "header_bits": 36,
+        "buffer_bytes": 638,
+        "bitindex": 5,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "70c88e7e4fec114b0fb804c9ef1358762a5df62dc8f2e50943ee51ae89ba37ed",
+      "coefficient_hashes": {
+        "1": "778e167ea2f7c313d1d8fa699270f83750c86e4e7129473be0282de53c5e1b56",
+        "2": "e13246d0bfb82d74f1ddcc48bd586a71c6a7365b116268ba272f7ed5fe297a0a",
+        "3": "5ed98d7b57ec8951ffce82910d7b404094e40aa19a13d3725f95431a949ceb31"
+      },
+      "seconds": 2.3839602500011097
+    },
+    {
+      "page": 55,
+      "path": "liber-primus/data/relikd/p55.jpg",
+      "image_sha256": "a80191592add93a86ed3868f9e4e6ba3944ec20c9ffccc7d3e221b461344beba",
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "eligible_bits": 629181,
+      "packed_sha256": "4e7a41028d09c70c7207a4eca518f797c9a3790de01b3ba002a2a1b38042bd6f",
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 31,
+        "length": 2147483647,
+        "capacity_bytes": 78643,
+        "bits": 629181,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 78643,
+        "remaining_payload_partial_bits": 1
+      },
+      "available_bytes": 78643,
+      "available_sha256": "b7f66a996ffbb59e895d91bbf91b57c35969465c206ef967cf6f922cb90911d5",
+      "historical_bytes": 77824,
+      "historical_sha256": "a32f231c8e280213db3d2e242abe70d3192350272d167e7ebd2c927074164a2a",
+      "sink_state": {
+        "rep_width": 31,
+        "file_size": 2147483647,
+        "fileindex": 78643,
+        "header_bits": 36,
+        "buffer_bytes": 819,
+        "bitindex": 6,
+        "open": 1
+      },
+      "sink_error_count": 0,
+      "eligible_map_sha256": "af3c1153e084fa7d939690e42cbeea9da25d766d86a7e90863350a72da93770c",
+      "coefficient_hashes": {
+        "1": "a84aae5c60b32e56c9d0a75083f184fb01e43f938c7b0cdd39755fb7a47ba421",
+        "2": "621862c425cb782e334247dedb8b5465d056ce50ecadaaeda106616fe0319cc2",
+        "3": "89ab8f3acd781864fd9096f45ed4c44d535d8c582a478031921dcce4221f615a"
+      },
+      "seconds": 2.1974062919980497
+    }
+  ]
+}

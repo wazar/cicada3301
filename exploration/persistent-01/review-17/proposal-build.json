@@ -1,0 +1,14 @@
+{
+  "command": [
+    "c++",
+    "-O2",
+    "-std=c++17",
+    "<REPO_ROOT>/exploration/persistent-01/review-17/proposal-harness.cpp",
+    "-o",
+    "<REPO_ROOT>/exploration/persistent-01/review-17/proposal-harness"
+  ],
+  "returncode": 0,
+  "stdout": "",
+  "stderr": "",
+  "scope": "local bounded instrumented harness, one restart200nominal proposals; not product search"
+}

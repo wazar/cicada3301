@@ -1,0 +1,187 @@
+{
+  "status": "PASS",
+  "input": "<REPO_ROOT>/exploration/persistent-01/worker-p/P10/control-8-clean.jpg",
+  "input_sha256": "99df14c5d24f12f7cd6d29d30f2e7d1768051505eff334eaf96036af42462933",
+  "output_sha256": "86238a036eb6e174aa445a7b64a51a5b8691905c0587bfcaef592fa5e18d8102",
+  "payload_sha256": "9cf226507b354d6fd243b9f9412910503f60dfa6ea10566c7dfc1c4d9a1a26de",
+  "header": {
+    "status": "COMPLETE_UNVERIFIED",
+    "width": 7,
+    "length": 127,
+    "capacity_bytes": 1108,
+    "bits": 8876,
+    "exact_nonempty_encoder_header": true,
+    "readme_width_compatible": true,
+    "complete_available_bytes": 127,
+    "remaining_payload_partial_bits": 0
+  },
+  "sink": {
+    "rep_width": 7,
+    "file_size": 127,
+    "fileindex": 127,
+    "header_bits": 12,
+    "buffer_bytes": 0,
+    "bitindex": 7,
+    "open": 0
+  },
+  "metadata": {
+    "frame": {
+      "width": 128,
+      "height": 96,
+      "components": [
+        {
+          "id": 1,
+          "h": 2,
+          "v": 2,
+          "q": 0
+        },
+        {
+          "id": 2,
+          "h": 1,
+          "v": 1,
+          "q": 1
+        },
+        {
+          "id": 3,
+          "h": 1,
+          "v": 1,
+          "q": 1
+        }
+      ]
+    },
+    "headers": [
+      {
+        "marker": 224,
+        "offset": 2,
+        "length": 16,
+        "fill": 0
+      },
+      {
+        "marker": 219,
+        "offset": 20,
+        "length": 67,
+        "fill": 0
+      },
+      {
+        "marker": 219,
+        "offset": 89,
+        "length": 67,
+        "fill": 0
+      },
+      {
+        "marker": 192,
+        "offset": 158,
+        "length": 17,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 177,
+        "length": 31,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 210,
+        "length": 181,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 393,
+        "length": 31,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 426,
+        "length": 181,
+        "fill": 0
+      },
+      {
+        "marker": 218,
+        "offset": 609,
+        "length": 12,
+        "fill": 0
+      }
+    ],
+    "sos_data_offset": 623,
+    "mcu_grid": [
+      8,
+      6
+    ],
+    "mcus": 48,
+    "blocks": 288,
+    "ac_symbols": 11824,
+    "dummy_blocks": 0,
+    "entropy_bits": 59272,
+    "final_data_byte_offset": 8046,
+    "consumed_bits_in_final_byte": 8,
+    "pad_bits": 0,
+    "pad_value": 0,
+    "padding_all_ones": true,
+    "entropy_byte_end": 8047,
+    "entropy_stuffed_zero_offsets": [
+      780,
+      820,
+      930,
+      947,
+      1579,
+      2428,
+      2985,
+      3751,
+      3949,
+      5434,
+      5813,
+      6044,
+      6655,
+      6818,
+      7696
+    ],
+    "tail_raw_span": [
+      8047,
+      8047
+    ],
+    "tail_raw_bytes": 0,
+    "tail_bytes": 0,
+    "tail_stuffed_zero_offsets": [],
+    "marker_fill_bytes": 0,
+    "eoi_offset": 8047,
+    "after_eoi_span": [
+      8049,
+      8049
+    ],
+    "after_eoi_bytes": 0,
+    "coefficient_sha256": {
+      "1": "a10d4592ae4bff47b17231013b251264927f86c3f5f85b9b85746befd3c0a292",
+      "2": "0f205bb381ef88632c82000aa88eda37c1761d03b315d9b29e97cb5e26b2ecb8",
+      "3": "507e68157412b916821b431604587bfb0f18b7a09e5c76325e0395292bb4021a"
+    },
+    "coefficient_shapes": {
+      "1": [
+        12,
+        16,
+        64
+      ],
+      "2": [
+        6,
+        8,
+        64
+      ],
+      "3": [
+        6,
+        8,
+        64
+      ]
+    }
+  },
+  "commands": [
+    [
+      "<REPO_ROOT>/exploration/persistent-01/worker-p/P11/harness",
+      "sink",
+      "<REPO_ROOT>/exploration/persistent-01/worker-p/P12/color-control.i16",
+      "<REPO_ROOT>/exploration/persistent-01/worker-p/P12/color-control-c-output.bin"
+    ]
+  ],
+  "exit_code": 0
+}

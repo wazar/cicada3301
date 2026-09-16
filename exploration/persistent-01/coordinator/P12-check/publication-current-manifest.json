@@ -1,0 +1,40 @@
+{
+  "scope": "Current public bytes; older manifests retain original snapshot identities, local path normalizations separately mapped.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/coordinator/P12-check/check.py",
+      "bytes": 1690,
+      "sha256": "57d149e596ecc4aead2735791b2b39873d1370b0637b3f5cb07a67128e88e8f0"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/P12-check/results.json",
+      "bytes": 7391,
+      "sha256": "d86385ef49996783a71f18c4cbb738b0a6bd7a4460296c18ec2752973203eced"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/P12-check/runs/20260916T231710.652814Z-scalar-stream-replay/code/exploration/persistent-01/coordinator/P12-check/check.py",
+      "bytes": 1690,
+      "sha256": "57d149e596ecc4aead2735791b2b39873d1370b0637b3f5cb07a67128e88e8f0"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/P12-check/runs/20260916T231710.652814Z-scalar-stream-replay/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/P12-check/runs/20260916T231710.652814Z-scalar-stream-replay/command.json",
+      "bytes": 1378,
+      "sha256": "b072810bb1781d053aba659b5dc13dc0998deabf25b4981f92284f0ac34722d8"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/P12-check/runs/20260916T231710.652814Z-scalar-stream-replay/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/P12-check/runs/20260916T231710.652814Z-scalar-stream-replay/stdout.txt",
+      "bytes": 214,
+      "sha256": "b5dfbd88a90aa31b4ccb1dd696ea5d883da483400eb573b00c23b4636e440d04"
+    }
+  ]
+}

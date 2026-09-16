@@ -1,0 +1,60 @@
+{
+  "status": "PASS",
+  "complete_controls": 8,
+  "generated_uniform_draws_replayed": 1296,
+  "restart_maps_scored": 64,
+  "positions_scored": 10160,
+  "nominal_proposals": 320000,
+  "valid_proposals": 265198,
+  "accepted_proposals": 22814
+}
+[
+  {
+    "label": "held-0",
+    "truth_rank": 9,
+    "accuracy": 0.13580246913580246,
+    "suffix": 0.19444444444444445
+  },
+  {
+    "label": "model-0",
+    "truth_rank": 1,
+    "accuracy": 0.11728395061728394,
+    "suffix": 0.1111111111111111
+  },
+  {
+    "label": "held-1",
+    "truth_rank": 8,
+    "accuracy": 0.046153846153846156,
+    "suffix": 0.03076923076923077
+  },
+  {
+    "label": "model-1",
+    "truth_rank": 1,
+    "accuracy": 0.041025641025641026,
+    "suffix": 0.046153846153846156
+  },
+  {
+    "label": "held-2",
+    "truth_rank": 9,
+    "accuracy": 0.018518518518518517,
+    "suffix": 0.0
+  },
+  {
+    "label": "model-2",
+    "truth_rank": 7,
+    "accuracy": 0.07407407407407407,
+    "suffix": 0.05555555555555555
+  },
+  {
+    "label": "held-3",
+    "truth_rank": 9,
+    "accuracy": 0.06451612903225806,
+    "suffix": 0.09523809523809523
+  },
+  {
+    "label": "model-3",
+    "truth_rank": 9,
+    "accuracy": 0.0,
+    "suffix": 0.0
+  }
+]

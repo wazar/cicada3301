@@ -1,0 +1,353 @@
+{
+  "status": "PASS",
+  "count": 43,
+  "total_bits": 27826276,
+  "total_bytes": 3478073,
+  "scope": "Independent scalar bit/header/capacity/buffering replay and original image hashes. Not independent JPEG entropy decoding.",
+  "checks": [
+    {
+      "page": 2,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 77452,
+      "eligible_bits": 619659,
+      "historical_bytes": 76800
+    },
+    {
+      "page": 3,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 77289,
+      "eligible_bits": 618354,
+      "historical_bytes": 76800
+    },
+    {
+      "page": 5,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 85442,
+      "eligible_bits": 683572,
+      "historical_bytes": 84992
+    },
+    {
+      "page": 6,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 72341,
+      "eligible_bits": 578766,
+      "historical_bytes": 71680
+    },
+    {
+      "page": 7,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 75196,
+      "eligible_bits": 601609,
+      "historical_bytes": 74752
+    },
+    {
+      "page": 8,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 79238,
+      "eligible_bits": 633943,
+      "historical_bytes": 78848
+    },
+    {
+      "page": 10,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 79960,
+      "eligible_bits": 639723,
+      "historical_bytes": 79872
+    },
+    {
+      "page": 11,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 78772,
+      "eligible_bits": 630216,
+      "historical_bytes": 77824
+    },
+    {
+      "page": 12,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 78989,
+      "eligible_bits": 631954,
+      "historical_bytes": 78848
+    },
+    {
+      "page": 13,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 80010,
+      "eligible_bits": 640118,
+      "historical_bytes": 79872
+    },
+    {
+      "page": 15,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 67671,
+      "eligible_bits": 541404,
+      "historical_bytes": 67584
+    },
+    {
+      "page": 16,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 75387,
+      "eligible_bits": 603134,
+      "historical_bytes": 74752
+    },
+    {
+      "page": 17,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 74030,
+      "eligible_bits": 592277,
+      "historical_bytes": 73728
+    },
+    {
+      "page": 18,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 74175,
+      "eligible_bits": 593439,
+      "historical_bytes": 73728
+    },
+    {
+      "page": 20,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 73394,
+      "eligible_bits": 587191,
+      "historical_bytes": 72704
+    },
+    {
+      "page": 21,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 75294,
+      "eligible_bits": 602392,
+      "historical_bytes": 74752
+    },
+    {
+      "page": 22,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 67549,
+      "eligible_bits": 540431,
+      "historical_bytes": 66560
+    },
+    {
+      "page": 23,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 64826,
+      "eligible_bits": 518649,
+      "historical_bytes": 64512
+    },
+    {
+      "page": 25,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 84188,
+      "eligible_bits": 673546,
+      "historical_bytes": 83968
+    },
+    {
+      "page": 26,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 86562,
+      "eligible_bits": 692534,
+      "historical_bytes": 86016
+    },
+    {
+      "page": 27,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 75800,
+      "eligible_bits": 606436,
+      "historical_bytes": 75776
+    },
+    {
+      "page": 28,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 74292,
+      "eligible_bits": 594378,
+      "historical_bytes": 73728
+    },
+    {
+      "page": 30,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 73851,
+      "eligible_bits": 590846,
+      "historical_bytes": 73728
+    },
+    {
+      "page": 31,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 72610,
+      "eligible_bits": 580922,
+      "historical_bytes": 71680
+    },
+    {
+      "page": 32,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 49167,
+      "eligible_bits": 393372,
+      "historical_bytes": 49152
+    },
+    {
+      "page": 33,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 69525,
+      "eligible_bits": 556239,
+      "historical_bytes": 68608
+    },
+    {
+      "page": 35,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 75629,
+      "eligible_bits": 605071,
+      "historical_bytes": 74752
+    },
+    {
+      "page": 36,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 67932,
+      "eligible_bits": 543498,
+      "historical_bytes": 67584
+    },
+    {
+      "page": 37,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 67166,
+      "eligible_bits": 537365,
+      "historical_bytes": 66560
+    },
+    {
+      "page": 38,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 69142,
+      "eligible_bits": 553172,
+      "historical_bytes": 68608
+    },
+    {
+      "page": 40,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 94575,
+      "eligible_bits": 756640,
+      "historical_bytes": 94208
+    },
+    {
+      "page": 41,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 101729,
+      "eligible_bits": 813870,
+      "historical_bytes": 101376
+    },
+    {
+      "page": 42,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 102038,
+      "eligible_bits": 816345,
+      "historical_bytes": 101376
+    },
+    {
+      "page": 43,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 102585,
+      "eligible_bits": 820718,
+      "historical_bytes": 102400
+    },
+    {
+      "page": 45,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 100099,
+      "eligible_bits": 800833,
+      "historical_bytes": 99328
+    },
+    {
+      "page": 46,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 101401,
+      "eligible_bits": 811247,
+      "historical_bytes": 101376
+    },
+    {
+      "page": 47,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 102613,
+      "eligible_bits": 820942,
+      "historical_bytes": 102400
+    },
+    {
+      "page": 48,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 104090,
+      "eligible_bits": 832763,
+      "historical_bytes": 103424
+    },
+    {
+      "page": 49,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 83007,
+      "eligible_bits": 664093,
+      "historical_bytes": 82944
+    },
+    {
+      "page": 51,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 86500,
+      "eligible_bits": 692043,
+      "historical_bytes": 86016
+    },
+    {
+      "page": 52,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 103068,
+      "eligible_bits": 824585,
+      "historical_bytes": 102400
+    },
+    {
+      "page": 53,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 94846,
+      "eligible_bits": 758806,
+      "historical_bytes": 94208
+    },
+    {
+      "page": 55,
+      "width": 31,
+      "length": 2147483647,
+      "capacity": 78643,
+      "eligible_bits": 629181,
+      "historical_bytes": 77824
+    }
+  ]
+}
