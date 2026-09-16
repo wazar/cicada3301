@@ -1,16 +1,17 @@
 # PERSISTENT-01 — active direct research
 
-Strategy **outside-box-v1**, received from safe fast-forward ef2e807 and acknowledged in active workers. Reviewed checkpoint7 6554d1f is on origin/master, covering M24, N05, P01–P04 and fresh review09. Earlier checkpoints remain unchanged.
+Strategy **outside-box-v1**, received from safe fast-forward ef2e807 and acknowledged in active workers. Reviewed checkpoint8 1ad9522 is on origin/master, covering M25/M26/M27, P05/P06, independent reviews10/12 and frozen visual reads. Earlier checkpoints remain unchanged.
 
 Start16 September2026,21:30:37 SAST. Fixed deadline **17 September2026,05:30:37 SAST /03:30:37UTC**. No extension. Honor exploration/persistent-01/STOP. Native goal active. One interactive coordinator; no external controller, no competing supervisor. All research processes stay with logged bounded worker sessions. Git writes only by coordinator; unrelated macOS setup remains untouched.
 
 ## Current actual assignments
 
-Allocation recorded at 2026-09-16T22:32:17.157736+00:00, same fixed deadline and sole coordinator:
+Allocation recorded at 2026-09-16T22:52:43.915281+00:00, same fixed deadline and sole coordinator:
 
-- persistent_m: M28 source-feedback encoder/decoder retry-clock mismatch: AST controls, then frozen56cell available-volume1seed reset-clock pilot. Missing historical seed recorded; no historical-key-identity claim.
-- persistent_n: N06 model-matched likelihood discrimination on1600 fresh synthetic samples with fixed16truth codebooks and their eight saved alternatives; no optimizer or real-page rerun. Review12 complete.
-- persistent_p: P07 fixed physical major-delimiter checksum test completed, independent replay; P08 non-English decoding feasibility against separate existing corpus. P06 remains failed/parked.
+- persistent_p: P10 exact JPEG entropy-tail payload channel on discovery0/1; controlled framed/CRC/pixelidentity extraction, no improvised JSteg. P08/P09 frozen.
+- persistent_q: Review15 independent JPEG MCU/bit/Huffman/padding parser and syntheticfixtures for P10; Q01/Q02checksum andQ03LZ78 grammar complete.
+- persistent_n: N07 same-panel conditional-likelihood estimation; initial85/25960fits failed convergence gate. One separately frozen Newton polish on those85 only, originalfailure preserved; no model expansion.
+- coordinator: Sole controller/Git writer, checkpoint9; rootQ01miss reviewed14 with seeddeviation and estimator caveat. No external controller.
 
 M22 exact periods1–3 recovered12/12 controlkeys versus11/12 for inheritedheuristic, with three correct-key wrongprefix path winners. Its real0/17 pilot had nulltails.57/.49; no automatic expansion. N03/N04 crosspage equality/one-corruption tests found no usefulrelation;16-runecontrols remain underpowered. O01 opcode-arity model missed; O02 exactcountpartitions eliminate the finite J03 five-page conjunction on pages0/3/17. Those are finite construction/register bounds, not wholecipher exclusions.
 
@@ -38,4 +39,4 @@ Frozen config/dataset hashes unchanged. Discovery excludes originals4,9,14,19,24
 
 Raw commands/output/exits/source snapshots and alternatives retained perworker. Reports are claims with explicit bounds. Freshreviews01/02 cover selectedmethod/output evidence, not independenttranscription or everyhistoricalclaim. Large outputs have losslessgzip manifests; originalbytes remainlocal. Localcheckout prefixes alone normalized in completedtracebacks, originals privatelyretained withhashes.
 
-Next two executable actions: prove and test M28 reset-clock inverse against exact historical source; execute N06 model-matched discrimination with saved candidates and new synthetic draws. P07 field checksum yields zero closures; P08 checks feasibility of an actual separate language model. M27 loses held prediction despite recovering controls. P06 reader scores93/93/99 and correlated errors leave full transcription parked; review12 completes P05 limitations. M26 completed43pages/860searches with no coherent candidate and no key expansion. Completed P03 pagewise representation sensitivity and P04 shared-codebook obstruction are both retained, with no plaintext inference. A negative, completed queue, report or push does not end the mission.
+Next two executable actions: validate and run P10 entropy-tail extraction with fresh independent parser review; complete only the flagged N07 likelihood fits under a frozen numerical polish. P09 found no segmentation recovery gap and therefore ran no realsearch. Checkpoint9 records M28, N06, P07/P08/P09, rootQ01 and fresh numbered-record/dictionary tests with their exact limits. No candidate warrants a reserve reveal. A negative, completed queue, report or push does not end the mission.

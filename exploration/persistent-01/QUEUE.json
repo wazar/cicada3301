@@ -623,21 +623,71 @@
     "id": "M28",
     "title": "Historical source-feedback reset-clock inverse",
     "owner": "persistent_m",
-    "status": "running",
+    "status": "completed_reviewed13",
     "strategy": "outside-box-v1"
   },
   {
     "id": "N06",
     "title": "Fixed-map generative discrimination controls",
     "owner": "persistent_n",
-    "status": "running",
+    "status": "completed_verified",
     "strategy": "outside-box-v1"
   },
   {
     "id": "P08-language",
     "title": "Separate non-English source-model feasibility",
     "owner": "persistent_p",
+    "status": "completed_no_candidate",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "ROOT-Q01",
+    "status": "completed_reviewed14",
+    "owner": "coordinator",
+    "title": "Unknown in-band marker parity switches two alphabets",
+    "input": "45 discoverypages F06maps",
+    "first_step": "Frozen29marker predictor +199nulls and12controls",
+    "decision": "Does source-independent state predict held pages?",
+    "expected_cost": "pilot.013s fit;440panels bounded900s",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "Q-Q01",
+    "status": "completed_no_candidate",
+    "owner": "persistent_q",
+    "title": "Numbered-object polynomial record-check hypothesis",
+    "input": "F10 fiveitems originals36/37/38",
+    "first_step": "Freeze28GF29roots+trainingresidue andtestheldterminals withfullprocedurenull",
+    "decision": "Does complete record integrity predict unseen symbols?",
+    "expected_cost": "costpilot then<=900s",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "Q-Q02",
+    "title": "Whole numbered-item codeword framing",
+    "status": "completed_no_candidate",
+    "owner": "persistent_q",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "Q-Q03",
+    "title": "Dynamic LZ78 record grammar",
+    "status": "completed_scoped_rejection",
+    "owner": "persistent_q",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "REVIEW15",
+    "title": "Independent JPEG parser review",
     "status": "running",
+    "owner": "persistent_q",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "N07",
+    "title": "Conditional likelihood same-panel estimator correction",
+    "status": "numerical_polish",
+    "owner": "persistent_n",
     "strategy": "outside-box-v1"
   }
 ]

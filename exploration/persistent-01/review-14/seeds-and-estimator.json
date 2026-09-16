@@ -1,0 +1,86 @@
+{
+  "status": "PASS",
+  "null_seeds": [
+    {
+      "name": "control-0",
+      "seed": 331763,
+      "first_null_full_draws_verified": true
+    },
+    {
+      "name": "control-1",
+      "seed": 331764,
+      "first_null_full_draws_verified": true
+    },
+    {
+      "name": "control-2",
+      "seed": 331765,
+      "first_null_full_draws_verified": true
+    },
+    {
+      "name": "control-3",
+      "seed": 331766,
+      "first_null_full_draws_verified": true
+    },
+    {
+      "name": "control-4",
+      "seed": 331767,
+      "first_null_full_draws_verified": true
+    },
+    {
+      "name": "control-5",
+      "seed": 331768,
+      "first_null_full_draws_verified": true
+    },
+    {
+      "name": "control-6",
+      "seed": 331769,
+      "first_null_full_draws_verified": true
+    },
+    {
+      "name": "control-7",
+      "seed": 331770,
+      "first_null_full_draws_verified": true
+    },
+    {
+      "name": "control-8",
+      "seed": 331771,
+      "first_null_full_draws_verified": true
+    },
+    {
+      "name": "control-9",
+      "seed": 331772,
+      "first_null_full_draws_verified": true
+    },
+    {
+      "name": "control-10",
+      "seed": 331812,
+      "first_null_full_draws_verified": true
+    },
+    {
+      "name": "control-11",
+      "seed": 331813,
+      "first_null_full_draws_verified": true
+    },
+    {
+      "name": "real",
+      "seed": 331321,
+      "first_null_full_draws_verified": true
+    }
+  ],
+  "all_25_seed_collisions": {},
+  "documented_real_seed": 330901,
+  "actual_real_seed": 331321,
+  "estimator_example": {
+    "weights": [
+      "1/2",
+      "1/3",
+      "1/6"
+    ],
+    "stationary_destination_frequencies": [
+      "9/22",
+      "4/11",
+      "5/22"
+    ],
+    "interpretation": "For an all-nonrepeat homogeneous chain, stationary counts estimate normalized w*(1-w), not w. Counts+.5 remain the frozen estimator, but plug-in nulls are not an exact calibrated composite-null test."
+  }
+}

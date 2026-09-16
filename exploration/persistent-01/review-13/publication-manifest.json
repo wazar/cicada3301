@@ -1,0 +1,170 @@
+{
+  "scope": "Completed experiment evidence/current bytes; original snapshots retained separately. No active experiments included.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/review-13/REPORT.md",
+      "bytes": 5241,
+      "sha256": "93c9b5088a86d505bd227342a56be8afb9271aa338e0e213b7dbdcc3df49a112"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/check.py",
+      "bytes": 9659,
+      "sha256": "7b7d5dddb2d1e0afc66354fc34badeba4709f632b5fbeabae41559682162a5db"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/inputs.json",
+      "bytes": 51682,
+      "sha256": "ae0da2640994613d580e2538d2db83a561467843256267a72b179cb7389a6f2e"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/results.json",
+      "bytes": 2437,
+      "sha256": "df19c1c976e33fecb3a761422489e7faa38ef7ed5de31793c1b7f08b68669b5b"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223742.399276Z-independent/code/exploration/persistent-01/review-13/check.py",
+      "bytes": 9441,
+      "sha256": "6bc0ad6d5abbf1e61bbd9aaabdf19ee3299e36bad969dd507170512c162215fa"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223742.399276Z-independent/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223742.399276Z-independent/code/exploration/persistent-01/worker-m/M28/m28.py",
+      "bytes": 9063,
+      "sha256": "710ae0f030cbe91632c86f9bb6e90bf86a56a54930f5b29e5236a6ec0485dd99"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223742.399276Z-independent/code/liber-primus/analysis/campaign18_skip/armada2/selfref_skip.py",
+      "bytes": 26958,
+      "sha256": "60e2db5782d8c26e36435eada3f698bc0c14bf4c3926e1f429e8c677176cb87d"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223742.399276Z-independent/command.json",
+      "bytes": 1780,
+      "sha256": "1c11e99637043eb656235136d71b156483f9530bc08e5addf6bf7db97dc9caa0"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223742.399276Z-independent/stderr.txt",
+      "bytes": 338,
+      "sha256": "0e8c66fe943c5b364d7bb0aa26df81e64afb2c873a05f2f3199d392a5fbb1cf7"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223742.399276Z-independent/stdout.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223801.559984Z-mismatch-diagnostic/code/exploration/persistent-01/review-13/check.py",
+      "bytes": 9743,
+      "sha256": "46ccdfc5d59c7e1b06238cd6fec8b8447a37c8fc82bdf2558f07c792b371d4c5"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223801.559984Z-mismatch-diagnostic/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223801.559984Z-mismatch-diagnostic/code/exploration/persistent-01/worker-m/M28/m28.py",
+      "bytes": 9063,
+      "sha256": "710ae0f030cbe91632c86f9bb6e90bf86a56a54930f5b29e5236a6ec0485dd99"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223801.559984Z-mismatch-diagnostic/command.json",
+      "bytes": 1350,
+      "sha256": "b0c4dcabe66e81bf12be877117893d87ee10555e83c55e207ddb40c9cd0a78e5"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223801.559984Z-mismatch-diagnostic/stderr.txt",
+      "bytes": 456,
+      "sha256": "80face067cc05d91d0e84e4e21d7ebccbf5c7328d653a800c37d9f1ead55400b"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223801.559984Z-mismatch-diagnostic/stdout.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223817.865388Z-numerical-tie-aware/code/exploration/persistent-01/review-13/check.py",
+      "bytes": 9659,
+      "sha256": "7b7d5dddb2d1e0afc66354fc34badeba4709f632b5fbeabae41559682162a5db"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223817.865388Z-numerical-tie-aware/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223817.865388Z-numerical-tie-aware/code/exploration/persistent-01/worker-m/M28/m28.py",
+      "bytes": 9063,
+      "sha256": "710ae0f030cbe91632c86f9bb6e90bf86a56a54930f5b29e5236a6ec0485dd99"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223817.865388Z-numerical-tie-aware/command.json",
+      "bytes": 1346,
+      "sha256": "aae867a00209eb0047ddc201074596ab27ff8d9efdef2782a18065b62256cf4f"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223817.865388Z-numerical-tie-aware/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223817.865388Z-numerical-tie-aware/stdout.txt",
+      "bytes": 2438,
+      "sha256": "c8ca8fe805a4bc6addb0c8a001d03880319ef0dd8c049ef9b70da0fa075dca3f"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223925.461872Z-rational-tie-and-eof/code/exploration/persistent-01/review-13/check.py",
+      "bytes": 9659,
+      "sha256": "7b7d5dddb2d1e0afc66354fc34badeba4709f632b5fbeabae41559682162a5db"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223925.461872Z-rational-tie-and-eof/code/exploration/persistent-01/review-13/tie_and_eof.py",
+      "bytes": 2726,
+      "sha256": "4c2309b0562a8321b850b9fb18294c04d29240fe98d3bbb6663fe00021a2d150"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223925.461872Z-rational-tie-and-eof/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223925.461872Z-rational-tie-and-eof/command.json",
+      "bytes": 1569,
+      "sha256": "65fb23ad519cd7805b186a51b517eaf19bae125ad83dec10704964c66a0904fc"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223925.461872Z-rational-tie-and-eof/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/runs/20260916T223925.461872Z-rational-tie-and-eof/stdout.txt",
+      "bytes": 695,
+      "sha256": "3ff686b8a46fb08c68ac8a6f4147272ab50aa88eab9ea1fdc0fdcb35f3d73a63"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/tie-and-eof.json",
+      "bytes": 1284,
+      "sha256": "3f3514717162fbc8b2e69be5414bd944cc279fd2baf6ed629e8d29a5c2e38bcf"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/tie_and_eof.py",
+      "bytes": 2726,
+      "sha256": "4c2309b0562a8321b850b9fb18294c04d29240fe98d3bbb6663fe00021a2d150"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/tiny-failure.json",
+      "bytes": 7773,
+      "sha256": "eea6e2bf742bcef1f90fe9ca6264825dfd31ac8f93b0418571c74c8aab323278"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/tiny.json",
+      "bytes": 19744,
+      "sha256": "0027e5351cbd44ad2f425ac539705005d94f4d9ec2b2ba84243dd34070b0cf39"
+    }
+  ]
+}

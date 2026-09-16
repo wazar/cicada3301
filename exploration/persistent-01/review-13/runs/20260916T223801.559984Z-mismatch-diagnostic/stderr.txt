@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/review-13/check.py", line 95, in <module>
+    raise AssertionError(('tiny mismatch',trial,retain,rank,x,y))
+AssertionError: ('tiny mismatch', 31, 16, 11, {'score': -4.300904357537897, 'joint_total': -55.91175664799266, 'plain': [25, 16, 1, 23, 3, 14, 24, 16, 11, 16], 'language_score': -4.229239135156554}, (-55.911756647992654, b'\x19\x10\x01\x17\x03\x0c\x18\x10\x0e\x10'))

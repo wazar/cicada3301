@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-13/tie_and_eof.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "1ad9522582003d77aaa6ee02fcb9af2f326d087b",
+  "started_utc": "2026-09-16T22:39:25.471894+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-13/check.py",
+      "exists": true,
+      "bytes": 9659,
+      "sha256": "7b7d5dddb2d1e0afc66354fc34badeba4709f632b5fbeabae41559682162a5db"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/tie_and_eof.py",
+      "exists": true,
+      "bytes": 2726,
+      "sha256": "4c2309b0562a8321b850b9fb18294c04d29240fe98d3bbb6663fe00021a2d150"
+    },
+    {
+      "path": "exploration/persistent-01/review-13/tiny-failure.json",
+      "exists": true,
+      "bytes": 7773,
+      "sha256": "eea6e2bf742bcef1f90fe9ca6264825dfd31ac8f93b0418571c74c8aab323278"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 67301,
+  "finished_utc": "2026-09-16T22:39:25.516840+00:00",
+  "duration_seconds": 0.04470908299845178
+}

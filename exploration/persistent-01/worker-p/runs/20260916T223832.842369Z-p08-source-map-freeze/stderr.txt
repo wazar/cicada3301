@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/worker-p/p08.py", line 71, in <module>
+    {'prepare':prepare,'pilot':lambda:controls([0]),'controls':lambda:controls([1,2,3])}[sys.argv[1]]()
+  File "<REPO_ROOT>/exploration/persistent-01/worker-p/p08.py", line 36, in prepare
+    mapped=maptext(body[x:y],a+x);paragraphs.append(dict(paragraph_index=pi,span=[a+x,a+y],text=body[x:y],**mapped))
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "<REPO_ROOT>/exploration/persistent-01/worker-p/p08.py", line 21, in maptext
+    v=c.upper().replace('Æ','AE').replace('Œ','OE');v=''.join(x for x in unicodedata.normalize('NFKD',v) if not unicodedata.combining(x));v=v.translate(str.maketrans({'J':'I','V':'U','K':'C','Q':'C','Z':'S'}));assert all('A'<=x<='Z' for x in v),(c,v)
+                                                                                                                                                                                                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: ('¾', '3⁄4')

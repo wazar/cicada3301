@@ -1,0 +1,8228 @@
+{
+  "status": "PASS",
+  "conditional_probability_tables": 60204,
+  "normalized_forward_distributions": 60204,
+  "exact_ast_finite_encoders": 100,
+  "independent_tiny_dp": 80,
+  "finite_fixtures": [
+    {
+      "key": [
+        2,
+        0,
+        0,
+        1,
+        1
+      ],
+      "plain": [
+        1,
+        1,
+        3,
+        1,
+        0
+      ],
+      "cipher": [
+        3,
+        4,
+        7,
+        9,
+        10
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 1,
+      "sign": -1,
+      "seed": 0
+    },
+    {
+      "key": [
+        1,
+        2,
+        2,
+        0,
+        0
+      ],
+      "plain": [
+        2,
+        2,
+        3,
+        0,
+        2
+      ],
+      "cipher": [
+        1,
+        27,
+        5,
+        19,
+        22
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 2,
+      "sign": 1,
+      "seed": 1
+    },
+    {
+      "key": [
+        0,
+        0,
+        0,
+        2,
+        1
+      ],
+      "plain": [
+        0,
+        2,
+        3,
+        3,
+        1
+      ],
+      "cipher": [
+        0,
+        2,
+        9,
+        3,
+        11
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 3,
+      "sign": -1,
+      "seed": 2
+    },
+    {
+      "key": [
+        2,
+        2,
+        0,
+        0,
+        2
+      ],
+      "plain": [
+        2,
+        2,
+        0,
+        2,
+        3
+      ],
+      "cipher": [
+        0,
+        2,
+        21,
+        5,
+        10
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": [
+            [
+              1,
+              0.23796462709189137
+            ]
+          ]
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 4,
+      "sign": 1,
+      "seed": 3
+    },
+    {
+      "key": [
+        0,
+        1,
+        0,
+        1,
+        1
+      ],
+      "plain": [
+        0,
+        3,
+        2,
+        0,
+        2
+      ],
+      "cipher": [
+        0,
+        4,
+        22,
+        24,
+        7
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 5,
+      "sign": -1,
+      "seed": 4
+    },
+    {
+      "key": [
+        0,
+        2,
+        2,
+        0,
+        0
+      ],
+      "plain": [
+        3,
+        0,
+        2,
+        0,
+        0
+      ],
+      "cipher": [
+        3,
+        9,
+        4,
+        5,
+        28
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 6,
+      "sign": 1,
+      "seed": 5
+    },
+    {
+      "key": [
+        0,
+        1,
+        2,
+        2,
+        2
+      ],
+      "plain": [
+        0,
+        0,
+        1,
+        2,
+        0
+      ],
+      "cipher": [
+        0,
+        1,
+        10,
+        16,
+        27
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 7,
+      "sign": -1,
+      "seed": 6
+    },
+    {
+      "key": [
+        2,
+        2,
+        2,
+        1,
+        0
+      ],
+      "plain": [
+        3,
+        2,
+        0,
+        0,
+        0
+      ],
+      "cipher": [
+        1,
+        21,
+        4,
+        25,
+        3
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 8,
+      "sign": 1,
+      "seed": 7
+    },
+    {
+      "key": [
+        0,
+        1,
+        1,
+        2,
+        1
+      ],
+      "plain": [
+        2,
+        0,
+        1,
+        1,
+        0
+      ],
+      "cipher": [
+        2,
+        19,
+        28,
+        23,
+        5
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 9,
+      "sign": -1,
+      "seed": 8
+    },
+    {
+      "key": [
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      "plain": [
+        0,
+        1,
+        1,
+        3,
+        3
+      ],
+      "cipher": [
+        0,
+        28,
+        9,
+        27,
+        21
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 10,
+      "sign": 1,
+      "seed": 9
+    },
+    {
+      "key": [
+        1,
+        2,
+        1,
+        0,
+        2
+      ],
+      "plain": [
+        0,
+        2,
+        1,
+        2,
+        1
+      ],
+      "cipher": [
+        1,
+        15,
+        22,
+        12,
+        19
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 11,
+      "sign": -1,
+      "seed": 10
+    },
+    {
+      "key": [
+        1,
+        2,
+        0,
+        1,
+        0
+      ],
+      "plain": [
+        1,
+        2,
+        2,
+        2,
+        1
+      ],
+      "cipher": [
+        0,
+        2,
+        7,
+        4,
+        11
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": [
+            [
+              1,
+              0.4523795535098186
+            ]
+          ]
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 12,
+      "sign": 1,
+      "seed": 11
+    },
+    {
+      "key": [
+        1,
+        1,
+        0,
+        1,
+        2
+      ],
+      "plain": [
+        1,
+        1,
+        1,
+        3,
+        0
+      ],
+      "cipher": [
+        2,
+        28,
+        17,
+        22,
+        27
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 13,
+      "sign": -1,
+      "seed": 12
+    },
+    {
+      "key": [
+        2,
+        0,
+        0,
+        0,
+        2
+      ],
+      "plain": [
+        2,
+        2,
+        3,
+        0,
+        0
+      ],
+      "cipher": [
+        0,
+        2,
+        4,
+        2,
+        28
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 14,
+      "sign": 1,
+      "seed": 13
+    },
+    {
+      "key": [
+        2,
+        2,
+        0,
+        1,
+        1
+      ],
+      "plain": [
+        1,
+        3,
+        0,
+        1,
+        3
+      ],
+      "cipher": [
+        3,
+        21,
+        25,
+        0,
+        4
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 15,
+      "sign": -1,
+      "seed": 14
+    },
+    {
+      "key": [
+        0,
+        2,
+        0,
+        2,
+        1
+      ],
+      "plain": [
+        1,
+        0,
+        1,
+        0,
+        3
+      ],
+      "cipher": [
+        1,
+        11,
+        28,
+        14,
+        10
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 16,
+      "sign": 1,
+      "seed": 15
+    },
+    {
+      "key": [
+        2,
+        1,
+        2,
+        2,
+        1
+      ],
+      "plain": [
+        0,
+        1,
+        1,
+        1,
+        3
+      ],
+      "cipher": [
+        2,
+        7,
+        6,
+        18,
+        20
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 17,
+      "sign": -1,
+      "seed": 16
+    },
+    {
+      "key": [
+        2,
+        2,
+        1,
+        2,
+        1
+      ],
+      "plain": [
+        1,
+        3,
+        1,
+        1,
+        0
+      ],
+      "cipher": [
+        28,
+        19,
+        6,
+        7,
+        18
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 18,
+      "sign": 1,
+      "seed": 17
+    },
+    {
+      "key": [
+        1,
+        0,
+        0,
+        1,
+        2
+      ],
+      "plain": [
+        0,
+        0,
+        3,
+        0,
+        1
+      ],
+      "cipher": [
+        1,
+        19,
+        16,
+        15,
+        27
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 19,
+      "sign": -1,
+      "seed": 18
+    },
+    {
+      "key": [
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "plain": [
+        1,
+        3,
+        2,
+        2,
+        1
+      ],
+      "cipher": [
+        0,
+        2,
+        18,
+        17,
+        7
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 20,
+      "sign": 1,
+      "seed": 19
+    },
+    {
+      "key": [
+        0,
+        0,
+        0,
+        2,
+        2
+      ],
+      "plain": [
+        3,
+        3,
+        1,
+        0,
+        3
+      ],
+      "cipher": [
+        3,
+        8,
+        24,
+        13,
+        17
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 21,
+      "sign": -1,
+      "seed": 20
+    },
+    {
+      "key": [
+        2,
+        0,
+        2,
+        0,
+        1
+      ],
+      "plain": [
+        2,
+        1,
+        2,
+        1,
+        3
+      ],
+      "cipher": [
+        0,
+        1,
+        7,
+        21,
+        4
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 22,
+      "sign": 1,
+      "seed": 21
+    },
+    {
+      "key": [
+        1,
+        0,
+        2,
+        2,
+        0
+      ],
+      "plain": [
+        1,
+        2,
+        0,
+        2,
+        0
+      ],
+      "cipher": [
+        2,
+        19,
+        4,
+        9,
+        4
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 23,
+      "sign": -1,
+      "seed": 22
+    },
+    {
+      "key": [
+        1,
+        1,
+        2,
+        0,
+        1
+      ],
+      "plain": [
+        1,
+        3,
+        2,
+        1,
+        2
+      ],
+      "cipher": [
+        0,
+        2,
+        10,
+        22,
+        24
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 24,
+      "sign": 1,
+      "seed": 23
+    },
+    {
+      "key": [
+        2,
+        0,
+        1,
+        0,
+        2
+      ],
+      "plain": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "cipher": [
+        2,
+        21,
+        4,
+        13,
+        9
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 25,
+      "sign": -1,
+      "seed": 24
+    },
+    {
+      "key": [
+        0,
+        2,
+        0,
+        0,
+        1
+      ],
+      "plain": [
+        1,
+        1,
+        3,
+        1,
+        0
+      ],
+      "cipher": [
+        1,
+        2,
+        9,
+        28,
+        25
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 26,
+      "sign": 1,
+      "seed": 25
+    },
+    {
+      "key": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "plain": [
+        3,
+        2,
+        3,
+        2,
+        1
+      ],
+      "cipher": [
+        3,
+        25,
+        11,
+        9,
+        12
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 27,
+      "sign": -1,
+      "seed": 26
+    },
+    {
+      "key": [
+        2,
+        2,
+        1,
+        0,
+        2
+      ],
+      "plain": [
+        1,
+        0,
+        2,
+        1,
+        1
+      ],
+      "cipher": [
+        28,
+        26,
+        27,
+        28,
+        27
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 28,
+      "sign": 1,
+      "seed": 27
+    },
+    {
+      "key": [
+        2,
+        1,
+        1,
+        0,
+        0
+      ],
+      "plain": [
+        3,
+        1,
+        1,
+        3,
+        1
+      ],
+      "cipher": [
+        5,
+        7,
+        9,
+        12,
+        13
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 1,
+      "sign": -1,
+      "seed": 28
+    },
+    {
+      "key": [
+        2,
+        1,
+        1,
+        2,
+        2
+      ],
+      "plain": [
+        0,
+        3,
+        0,
+        2,
+        1
+      ],
+      "cipher": [
+        27,
+        6,
+        16,
+        26,
+        5
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 2,
+      "sign": 1,
+      "seed": 29
+    },
+    {
+      "key": [
+        2,
+        2,
+        1,
+        1,
+        1
+      ],
+      "plain": [
+        2,
+        3,
+        1,
+        2,
+        1
+      ],
+      "cipher": [
+        4,
+        17,
+        24,
+        17,
+        24
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 3,
+      "sign": -1,
+      "seed": 30
+    },
+    {
+      "key": [
+        2,
+        1,
+        2,
+        2,
+        2
+      ],
+      "plain": [
+        3,
+        2,
+        2,
+        2,
+        3
+      ],
+      "cipher": [
+        1,
+        26,
+        12,
+        10,
+        19
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 4,
+      "sign": 1,
+      "seed": 31
+    },
+    {
+      "key": [
+        2,
+        1,
+        1,
+        1,
+        2
+      ],
+      "plain": [
+        0,
+        3,
+        3,
+        1,
+        3
+      ],
+      "cipher": [
+        2,
+        14,
+        16,
+        24,
+        9
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 5,
+      "sign": -1,
+      "seed": 32
+    },
+    {
+      "key": [
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "plain": [
+        2,
+        3,
+        1,
+        0,
+        3
+      ],
+      "cipher": [
+        1,
+        25,
+        24,
+        0,
+        2
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": [
+            [
+              2,
+              0.5703284231368732
+            ]
+          ]
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 6,
+      "sign": 1,
+      "seed": 33
+    },
+    {
+      "key": [
+        0,
+        1,
+        2,
+        2,
+        2
+      ],
+      "plain": [
+        2,
+        1,
+        0,
+        1,
+        3
+      ],
+      "cipher": [
+        2,
+        16,
+        27,
+        18,
+        15
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 7,
+      "sign": -1,
+      "seed": 34
+    },
+    {
+      "key": [
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "plain": [
+        2,
+        3,
+        0,
+        0,
+        0
+      ],
+      "cipher": [
+        2,
+        16,
+        17,
+        8,
+        22
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 8,
+      "sign": 1,
+      "seed": 35
+    },
+    {
+      "key": [
+        1,
+        2,
+        0,
+        0,
+        1
+      ],
+      "plain": [
+        3,
+        1,
+        2,
+        1,
+        2
+      ],
+      "cipher": [
+        4,
+        10,
+        5,
+        17,
+        11
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 9,
+      "sign": -1,
+      "seed": 36
+    },
+    {
+      "key": [
+        1,
+        1,
+        2,
+        1,
+        0
+      ],
+      "plain": [
+        3,
+        3,
+        2,
+        1,
+        0
+      ],
+      "cipher": [
+        2,
+        11,
+        6,
+        27,
+        20
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 10,
+      "sign": 1,
+      "seed": 37
+    },
+    {
+      "key": [
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "plain": [
+        0,
+        3,
+        0,
+        1,
+        1
+      ],
+      "cipher": [
+        2,
+        25,
+        16,
+        5,
+        0
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 11,
+      "sign": -1,
+      "seed": 38
+    },
+    {
+      "key": [
+        2,
+        2,
+        1,
+        1,
+        2
+      ],
+      "plain": [
+        1,
+        3,
+        1,
+        1,
+        1
+      ],
+      "cipher": [
+        28,
+        13,
+        18,
+        16,
+        10
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 12,
+      "sign": 1,
+      "seed": 39
+    },
+    {
+      "key": [
+        2,
+        2,
+        1,
+        2,
+        0
+      ],
+      "plain": [
+        1,
+        0,
+        3,
+        0,
+        0
+      ],
+      "cipher": [
+        3,
+        12,
+        15,
+        23,
+        9
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 13,
+      "sign": -1,
+      "seed": 40
+    },
+    {
+      "key": [
+        2,
+        2,
+        2,
+        0,
+        0
+      ],
+      "plain": [
+        1,
+        2,
+        2,
+        0,
+        0
+      ],
+      "cipher": [
+        28,
+        14,
+        7,
+        18,
+        9
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 14,
+      "sign": 1,
+      "seed": 41
+    },
+    {
+      "key": [
+        1,
+        0,
+        0,
+        2,
+        2
+      ],
+      "plain": [
+        2,
+        3,
+        0,
+        2,
+        0
+      ],
+      "cipher": [
+        3,
+        19,
+        24,
+        16,
+        10
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 15,
+      "sign": -1,
+      "seed": 42
+    },
+    {
+      "key": [
+        2,
+        2,
+        1,
+        2,
+        2
+      ],
+      "plain": [
+        3,
+        0,
+        1,
+        3,
+        3
+      ],
+      "cipher": [
+        1,
+        11,
+        27,
+        4,
+        24
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 16,
+      "sign": 1,
+      "seed": 43
+    },
+    {
+      "key": [
+        2,
+        2,
+        0,
+        2,
+        1
+      ],
+      "plain": [
+        3,
+        1,
+        3,
+        1,
+        3
+      ],
+      "cipher": [
+        5,
+        1,
+        20,
+        24,
+        6
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 17,
+      "sign": -1,
+      "seed": 44
+    },
+    {
+      "key": [
+        2,
+        1,
+        1,
+        2,
+        0
+      ],
+      "plain": [
+        0,
+        1,
+        0,
+        2,
+        1
+      ],
+      "cipher": [
+        27,
+        7,
+        18,
+        24,
+        4
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 18,
+      "sign": 1,
+      "seed": 45
+    },
+    {
+      "key": [
+        0,
+        0,
+        2,
+        1,
+        2
+      ],
+      "plain": [
+        2,
+        1,
+        0,
+        1,
+        2
+      ],
+      "cipher": [
+        2,
+        10,
+        18,
+        25,
+        15
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 19,
+      "sign": -1,
+      "seed": 46
+    },
+    {
+      "key": [
+        1,
+        1,
+        1,
+        2,
+        0
+      ],
+      "plain": [
+        0,
+        2,
+        0,
+        0,
+        2
+      ],
+      "cipher": [
+        28,
+        21,
+        14,
+        8,
+        16
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 20,
+      "sign": 1,
+      "seed": 47
+    },
+    {
+      "key": [
+        2,
+        1,
+        2,
+        1,
+        1
+      ],
+      "plain": [
+        1,
+        0,
+        3,
+        2,
+        2
+      ],
+      "cipher": [
+        3,
+        6,
+        15,
+        28,
+        11
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 21,
+      "sign": -1,
+      "seed": 48
+    },
+    {
+      "key": [
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      "plain": [
+        0,
+        1,
+        3,
+        0,
+        0
+      ],
+      "cipher": [
+        27,
+        15,
+        20,
+        23,
+        15
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 22,
+      "sign": 1,
+      "seed": 49
+    },
+    {
+      "key": [
+        2,
+        1,
+        0,
+        2,
+        1
+      ],
+      "plain": [
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "cipher": [
+        2,
+        18,
+        8,
+        13,
+        11
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 23,
+      "sign": -1,
+      "seed": 50
+    },
+    {
+      "key": [
+        0,
+        2,
+        2,
+        0,
+        1
+      ],
+      "plain": [
+        0,
+        2,
+        0,
+        3,
+        3
+      ],
+      "cipher": [
+        0,
+        2,
+        8,
+        14,
+        14
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": [
+            [
+              1,
+              0.243517762709337
+            ],
+            [
+              2,
+              0.502208989503156
+            ]
+          ]
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": true,
+          "decisions": [
+            [
+              4,
+              0.16193751429080594
+            ]
+          ]
+        }
+      ],
+      "a": 24,
+      "sign": 1,
+      "seed": 51
+    },
+    {
+      "key": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "plain": [
+        1,
+        0,
+        2,
+        3,
+        0
+      ],
+      "cipher": [
+        1,
+        25,
+        18,
+        18,
+        16
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": [
+            [
+              3,
+              0.9783548583709967
+            ]
+          ]
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 25,
+      "sign": -1,
+      "seed": 52
+    },
+    {
+      "key": [
+        0,
+        1,
+        1,
+        2,
+        2
+      ],
+      "plain": [
+        2,
+        0,
+        3,
+        3,
+        3
+      ],
+      "cipher": [
+        2,
+        5,
+        17,
+        23,
+        12
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 26,
+      "sign": 1,
+      "seed": 53
+    },
+    {
+      "key": [
+        2,
+        1,
+        1,
+        2,
+        1
+      ],
+      "plain": [
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "cipher": [
+        3,
+        25,
+        9,
+        13,
+        4
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 27,
+      "sign": -1,
+      "seed": 54
+    },
+    {
+      "key": [
+        2,
+        2,
+        2,
+        1,
+        1
+      ],
+      "plain": [
+        2,
+        0,
+        2,
+        0,
+        1
+      ],
+      "cipher": [
+        0,
+        27,
+        28,
+        27,
+        27
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": [
+            [
+              2,
+              0.09033985426934954
+            ]
+          ]
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": [
+            [
+              4,
+              0.9506335645634441
+            ]
+          ]
+        }
+      ],
+      "a": 28,
+      "sign": 1,
+      "seed": 55
+    },
+    {
+      "key": [
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "plain": [
+        0,
+        3,
+        2,
+        2,
+        3
+      ],
+      "cipher": [
+        0,
+        3,
+        5,
+        7,
+        12
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 1,
+      "sign": -1,
+      "seed": 56
+    },
+    {
+      "key": [
+        1,
+        0,
+        2,
+        1,
+        1
+      ],
+      "plain": [
+        3,
+        1,
+        3,
+        3,
+        3
+      ],
+      "cipher": [
+        2,
+        26,
+        7,
+        17,
+        26
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 2,
+      "sign": 1,
+      "seed": 57
+    },
+    {
+      "key": [
+        0,
+        0,
+        1,
+        1,
+        2
+      ],
+      "plain": [
+        2,
+        2,
+        1,
+        1,
+        1
+      ],
+      "cipher": [
+        2,
+        8,
+        26,
+        22,
+        11
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 3,
+      "sign": -1,
+      "seed": 58
+    },
+    {
+      "key": [
+        2,
+        0,
+        2,
+        2,
+        2
+      ],
+      "plain": [
+        3,
+        0,
+        1,
+        3,
+        0
+      ],
+      "cipher": [
+        1,
+        25,
+        15,
+        28,
+        2
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 4,
+      "sign": 1,
+      "seed": 59
+    },
+    {
+      "key": [
+        0,
+        2,
+        1,
+        2,
+        2
+      ],
+      "plain": [
+        1,
+        2,
+        2,
+        0,
+        3
+      ],
+      "cipher": [
+        1,
+        9,
+        19,
+        10,
+        26
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 5,
+      "sign": -1,
+      "seed": 60
+    },
+    {
+      "key": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "plain": [
+        1,
+        0,
+        0,
+        0,
+        3
+      ],
+      "cipher": [
+        28,
+        4,
+        3,
+        9,
+        5
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 6,
+      "sign": 1,
+      "seed": 61
+    },
+    {
+      "key": [
+        1,
+        1,
+        0,
+        2,
+        0
+      ],
+      "plain": [
+        1,
+        0,
+        3,
+        2,
+        0
+      ],
+      "cipher": [
+        2,
+        15,
+        21,
+        6,
+        13
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 7,
+      "sign": -1,
+      "seed": 62
+    },
+    {
+      "key": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "plain": [
+        0,
+        3,
+        1,
+        2,
+        1
+      ],
+      "cipher": [
+        28,
+        10,
+        7,
+        3,
+        5
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 8,
+      "sign": 1,
+      "seed": 63
+    },
+    {
+      "key": [
+        0,
+        1,
+        2,
+        2,
+        0
+      ],
+      "plain": [
+        3,
+        3,
+        2,
+        2,
+        0
+      ],
+      "cipher": [
+        3,
+        2,
+        22,
+        28,
+        20
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 9,
+      "sign": -1,
+      "seed": 64
+    },
+    {
+      "key": [
+        1,
+        2,
+        0,
+        1,
+        1
+      ],
+      "plain": [
+        0,
+        3,
+        3,
+        1,
+        3
+      ],
+      "cipher": [
+        28,
+        11,
+        9,
+        26,
+        3
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 10,
+      "sign": 1,
+      "seed": 65
+    },
+    {
+      "key": [
+        1,
+        1,
+        1,
+        0,
+        1
+      ],
+      "plain": [
+        2,
+        0,
+        0,
+        1,
+        2
+      ],
+      "cipher": [
+        3,
+        5,
+        27,
+        8,
+        4
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 11,
+      "sign": -1,
+      "seed": 66
+    },
+    {
+      "key": [
+        0,
+        2,
+        0,
+        1,
+        0
+      ],
+      "plain": [
+        2,
+        2,
+        0,
+        3,
+        0
+      ],
+      "cipher": [
+        2,
+        5,
+        27,
+        26,
+        7
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 12,
+      "sign": 1,
+      "seed": 67
+    },
+    {
+      "key": [
+        2,
+        1,
+        1,
+        0,
+        0
+      ],
+      "plain": [
+        3,
+        1,
+        1,
+        0,
+        1
+      ],
+      "cipher": [
+        5,
+        9,
+        3,
+        10,
+        15
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 13,
+      "sign": -1,
+      "seed": 68
+    },
+    {
+      "key": [
+        2,
+        2,
+        1,
+        1,
+        0
+      ],
+      "plain": [
+        0,
+        3,
+        2,
+        2,
+        2
+      ],
+      "cipher": [
+        27,
+        0,
+        1,
+        16,
+        10
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 14,
+      "sign": 1,
+      "seed": 69
+    },
+    {
+      "key": [
+        1,
+        0,
+        2,
+        2,
+        2
+      ],
+      "plain": [
+        1,
+        1,
+        2,
+        2,
+        0
+      ],
+      "cipher": [
+        2,
+        2,
+        5,
+        21,
+        27
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": [
+            [
+              1,
+              0.909769237923872
+            ]
+          ]
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 15,
+      "sign": -1,
+      "seed": 70
+    },
+    {
+      "key": [
+        0,
+        1,
+        2,
+        2,
+        2
+      ],
+      "plain": [
+        3,
+        2,
+        2,
+        1,
+        3
+      ],
+      "cipher": [
+        3,
+        11,
+        27,
+        2,
+        27
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 16,
+      "sign": 1,
+      "seed": 71
+    },
+    {
+      "key": [
+        2,
+        1,
+        2,
+        1,
+        2
+      ],
+      "plain": [
+        1,
+        3,
+        1,
+        2,
+        2
+      ],
+      "cipher": [
+        3,
+        26,
+        10,
+        28,
+        16
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 17,
+      "sign": -1,
+      "seed": 72
+    },
+    {
+      "key": [
+        1,
+        1,
+        2,
+        1,
+        1
+      ],
+      "plain": [
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "cipher": [
+        28,
+        17,
+        12,
+        16,
+        1
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 18,
+      "sign": 1,
+      "seed": 73
+    },
+    {
+      "key": [
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "plain": [
+        2,
+        0,
+        0,
+        0,
+        2
+      ],
+      "cipher": [
+        3,
+        0,
+        1,
+        20,
+        5
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 19,
+      "sign": -1,
+      "seed": 74
+    },
+    {
+      "key": [
+        0,
+        2,
+        2,
+        0,
+        1
+      ],
+      "plain": [
+        2,
+        3,
+        1,
+        3,
+        3
+      ],
+      "cipher": [
+        2,
+        19,
+        25,
+        24,
+        15
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": [
+            [
+              3,
+              0.45084513414500904
+            ]
+          ]
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 20,
+      "sign": 1,
+      "seed": 75
+    },
+    {
+      "key": [
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "plain": [
+        2,
+        3,
+        2,
+        3,
+        3
+      ],
+      "cipher": [
+        3,
+        8,
+        26,
+        28,
+        12
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 21,
+      "sign": -1,
+      "seed": 76
+    },
+    {
+      "key": [
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "plain": [
+        2,
+        2,
+        2,
+        3,
+        0
+      ],
+      "cipher": [
+        2,
+        16,
+        27,
+        17,
+        2
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 22,
+      "sign": 1,
+      "seed": 77
+    },
+    {
+      "key": [
+        1,
+        0,
+        0,
+        0,
+        2
+      ],
+      "plain": [
+        1,
+        3,
+        1,
+        2,
+        3
+      ],
+      "cipher": [
+        2,
+        20,
+        26,
+        20,
+        1
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 23,
+      "sign": -1,
+      "seed": 78
+    },
+    {
+      "key": [
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "plain": [
+        3,
+        2,
+        2,
+        1,
+        3
+      ],
+      "cipher": [
+        3,
+        16,
+        24,
+        4,
+        23
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 24,
+      "sign": 1,
+      "seed": 79
+    },
+    {
+      "key": [
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "plain": [
+        2,
+        2,
+        3,
+        3,
+        1
+      ],
+      "cipher": [
+        2,
+        24,
+        23,
+        27,
+        9
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": [
+            [
+              2,
+              0.27149111325994557
+            ]
+          ]
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 25,
+      "sign": -1,
+      "seed": 80
+    },
+    {
+      "key": [
+        0,
+        2,
+        2,
+        1,
+        0
+      ],
+      "plain": [
+        0,
+        2,
+        3,
+        3,
+        1
+      ],
+      "cipher": [
+        0,
+        1,
+        4,
+        14,
+        14
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": [
+            [
+              1,
+              0.5059404137702477
+            ],
+            [
+              2,
+              0.45328471316462604
+            ]
+          ]
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": true,
+          "decisions": [
+            [
+              4,
+              0.5579708258176688
+            ]
+          ]
+        }
+      ],
+      "a": 26,
+      "sign": 1,
+      "seed": 81
+    },
+    {
+      "key": [
+        1,
+        0,
+        1,
+        1,
+        0
+      ],
+      "plain": [
+        0,
+        3,
+        1,
+        0,
+        1
+      ],
+      "cipher": [
+        1,
+        2,
+        27,
+        5,
+        20
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": [
+            [
+              1,
+              0.14472055263366845
+            ]
+          ]
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 27,
+      "sign": -1,
+      "seed": 82
+    },
+    {
+      "key": [
+        0,
+        1,
+        0,
+        2,
+        1
+      ],
+      "plain": [
+        1,
+        2,
+        3,
+        0,
+        2
+      ],
+      "cipher": [
+        1,
+        2,
+        5,
+        3,
+        4
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 28,
+      "sign": 1,
+      "seed": 83
+    },
+    {
+      "key": [
+        1,
+        0,
+        0,
+        1,
+        2
+      ],
+      "plain": [
+        2,
+        1,
+        3,
+        1,
+        2
+      ],
+      "cipher": [
+        3,
+        4,
+        7,
+        9,
+        13
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 1,
+      "sign": -1,
+      "seed": 84
+    },
+    {
+      "key": [
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "plain": [
+        1,
+        1,
+        0,
+        3,
+        0
+      ],
+      "cipher": [
+        0,
+        1,
+        26,
+        8,
+        12
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 2,
+      "sign": 1,
+      "seed": 85
+    },
+    {
+      "key": [
+        1,
+        1,
+        0,
+        1,
+        2
+      ],
+      "plain": [
+        3,
+        0,
+        1,
+        1,
+        1
+      ],
+      "cipher": [
+        4,
+        13,
+        11,
+        6,
+        21
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 3,
+      "sign": -1,
+      "seed": 86
+    },
+    {
+      "key": [
+        1,
+        1,
+        2,
+        2,
+        1
+      ],
+      "plain": [
+        3,
+        3,
+        2,
+        0,
+        3
+      ],
+      "cipher": [
+        2,
+        23,
+        24,
+        18,
+        17
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 4,
+      "sign": 1,
+      "seed": 87
+    },
+    {
+      "key": [
+        2,
+        2,
+        2,
+        0,
+        2
+      ],
+      "plain": [
+        3,
+        0,
+        3,
+        2,
+        1
+      ],
+      "cipher": [
+        5,
+        27,
+        24,
+        6,
+        4
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 5,
+      "sign": -1,
+      "seed": 88
+    },
+    {
+      "key": [
+        1,
+        1,
+        2,
+        0,
+        1
+      ],
+      "plain": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "cipher": [
+        0,
+        28,
+        5,
+        0,
+        0
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": [
+            [
+              1,
+              0.08109066462388448
+            ]
+          ]
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": true,
+          "decisions": [
+            [
+              4,
+              0.6068027891459296
+            ]
+          ]
+        }
+      ],
+      "a": 6,
+      "sign": 1,
+      "seed": 89
+    },
+    {
+      "key": [
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "plain": [
+        2,
+        1,
+        0,
+        2,
+        1
+      ],
+      "cipher": [
+        2,
+        15,
+        18,
+        12,
+        0
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 7,
+      "sign": -1,
+      "seed": 90
+    },
+    {
+      "key": [
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "plain": [
+        0,
+        1,
+        0,
+        3,
+        0
+      ],
+      "cipher": [
+        0,
+        1,
+        20,
+        17,
+        9
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": [
+            [
+              1,
+              0.08352052115358566
+            ],
+            [
+              2,
+              0.17237430786719632
+            ]
+          ]
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 8,
+      "sign": 1,
+      "seed": 91
+    },
+    {
+      "key": [
+        1,
+        1,
+        2,
+        0,
+        2
+      ],
+      "plain": [
+        3,
+        2,
+        0,
+        0,
+        3
+      ],
+      "cipher": [
+        4,
+        10,
+        5,
+        16,
+        4
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 9,
+      "sign": -1,
+      "seed": 92
+    },
+    {
+      "key": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "plain": [
+        2,
+        3,
+        2,
+        1,
+        2
+      ],
+      "cipher": [
+        1,
+        21,
+        23,
+        2,
+        10
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 10,
+      "sign": 1,
+      "seed": 93
+    },
+    {
+      "key": [
+        1,
+        0,
+        0,
+        0,
+        2
+      ],
+      "plain": [
+        1,
+        0,
+        2,
+        2,
+        2
+      ],
+      "cipher": [
+        2,
+        22,
+        12,
+        18,
+        28
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 11,
+      "sign": -1,
+      "seed": 94
+    },
+    {
+      "key": [
+        2,
+        0,
+        2,
+        2,
+        0
+      ],
+      "plain": [
+        1,
+        3,
+        2,
+        2,
+        2
+      ],
+      "cipher": [
+        28,
+        15,
+        23,
+        14,
+        8
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 12,
+      "sign": 1,
+      "seed": 95
+    },
+    {
+      "key": [
+        1,
+        0,
+        1,
+        2,
+        2
+      ],
+      "plain": [
+        1,
+        1,
+        1,
+        2,
+        1
+      ],
+      "cipher": [
+        2,
+        27,
+        5,
+        11,
+        1
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 13,
+      "sign": -1,
+      "seed": 96
+    },
+    {
+      "key": [
+        0,
+        1,
+        1,
+        2,
+        1
+      ],
+      "plain": [
+        0,
+        3,
+        1,
+        0,
+        2
+      ],
+      "cipher": [
+        0,
+        2,
+        1,
+        13,
+        22
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 14,
+      "sign": 1,
+      "seed": 97
+    },
+    {
+      "key": [
+        1,
+        2,
+        0,
+        0,
+        2
+      ],
+      "plain": [
+        2,
+        2,
+        1,
+        1,
+        1
+      ],
+      "cipher": [
+        3,
+        20,
+        11,
+        21,
+        28
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 15,
+      "sign": -1,
+      "seed": 98
+    },
+    {
+      "key": [
+        1,
+        1,
+        2,
+        1,
+        0
+      ],
+      "plain": [
+        0,
+        1,
+        0,
+        0,
+        3
+      ],
+      "cipher": [
+        28,
+        16,
+        3,
+        9,
+        4
+      ],
+      "events": [
+        {
+          "start": 0,
+          "accepted": 0,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 1,
+          "accepted": 1,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 2,
+          "accepted": 2,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 3,
+          "accepted": 3,
+          "forced_eof": false,
+          "decisions": []
+        },
+        {
+          "start": 4,
+          "accepted": 4,
+          "forced_eof": false,
+          "decisions": []
+        }
+      ],
+      "a": 16,
+      "sign": 1,
+      "seed": 99
+    }
+  ],
+  "tiny": [
+    {
+      "key": [
+        0,
+        1,
+        0,
+        1,
+        2,
+        2,
+        0,
+        1,
+        1,
+        0
+      ],
+      "cipher": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        10,
+        12,
+        16
+      ],
+      "cell": {
+        "a": 1,
+        "sign": -1
+      },
+      "paths": 4
+    },
+    {
+      "key": [
+        2,
+        3,
+        3,
+        0,
+        3,
+        0,
+        0,
+        2,
+        0,
+        3
+      ],
+      "cipher": [
+        1,
+        25,
+        5,
+        21,
+        16,
+        27,
+        7,
+        13
+      ],
+      "cell": {
+        "a": 2,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        3,
+        1,
+        2,
+        1,
+        2,
+        3,
+        2,
+        2,
+        3,
+        0
+      ],
+      "cipher": [
+        4,
+        13,
+        13,
+        12,
+        11,
+        7,
+        24,
+        19
+      ],
+      "cell": {
+        "a": 3,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        1,
+        0,
+        2,
+        0,
+        3,
+        0,
+        3,
+        2,
+        2,
+        3
+      ],
+      "cipher": [
+        0,
+        1,
+        23,
+        24,
+        18,
+        15,
+        24,
+        18
+      ],
+      "cell": {
+        "a": 4,
+        "sign": 1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        2,
+        3,
+        2,
+        1,
+        1,
+        1,
+        0,
+        2,
+        2,
+        0
+      ],
+      "cipher": [
+        5,
+        28,
+        27,
+        21,
+        19,
+        11,
+        26,
+        16
+      ],
+      "cell": {
+        "a": 5,
+        "sign": -1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        2,
+        0,
+        3,
+        3,
+        0,
+        3,
+        3,
+        0,
+        3,
+        1
+      ],
+      "cipher": [
+        1,
+        26,
+        18,
+        7,
+        18,
+        8,
+        7,
+        17
+      ],
+      "cell": {
+        "a": 6,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        2,
+        2,
+        0,
+        1,
+        2,
+        2,
+        2,
+        3,
+        0,
+        1
+      ],
+      "cipher": [
+        2,
+        16,
+        26,
+        9,
+        7,
+        22,
+        13,
+        8
+      ],
+      "cell": {
+        "a": 7,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        2,
+        1,
+        2,
+        1,
+        2,
+        0,
+        0,
+        3,
+        2,
+        0
+      ],
+      "cipher": [
+        27,
+        16,
+        17,
+        10,
+        5,
+        20,
+        16,
+        17
+      ],
+      "cell": {
+        "a": 8,
+        "sign": 1
+      },
+      "paths": 4
+    },
+    {
+      "key": [
+        1,
+        2,
+        3,
+        0,
+        2,
+        3,
+        3,
+        2,
+        2,
+        0
+      ],
+      "cipher": [
+        2,
+        22,
+        28,
+        23,
+        6,
+        0,
+        3,
+        2
+      ],
+      "cell": {
+        "a": 9,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        0,
+        1,
+        2,
+        3,
+        1,
+        2,
+        3,
+        1,
+        3,
+        3
+      ],
+      "cipher": [
+        0,
+        2,
+        10,
+        16,
+        13,
+        14,
+        3,
+        28
+      ],
+      "cell": {
+        "a": 10,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        1,
+        0,
+        2,
+        3,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      "cipher": [
+        4,
+        18,
+        27,
+        11,
+        6,
+        10,
+        26,
+        27
+      ],
+      "cell": {
+        "a": 11,
+        "sign": -1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        0,
+        2,
+        1,
+        2,
+        0,
+        3,
+        2,
+        2,
+        3,
+        0
+      ],
+      "cipher": [
+        0,
+        28,
+        12,
+        1,
+        18,
+        15,
+        22,
+        27
+      ],
+      "cell": {
+        "a": 12,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        3,
+        1,
+        1,
+        0,
+        0,
+        3,
+        0,
+        1,
+        0,
+        0
+      ],
+      "cipher": [
+        4,
+        26,
+        23,
+        10,
+        15,
+        24,
+        22,
+        26
+      ],
+      "cell": {
+        "a": 13,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        0,
+        0,
+        3,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3
+      ],
+      "cipher": [
+        3,
+        18,
+        9,
+        19,
+        25,
+        24,
+        10,
+        6
+      ],
+      "cell": {
+        "a": 14,
+        "sign": 1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        2,
+        3,
+        3,
+        1,
+        1,
+        3,
+        1,
+        0,
+        2,
+        2
+      ],
+      "cipher": [
+        2,
+        7,
+        24,
+        13,
+        22,
+        17,
+        25,
+        27
+      ],
+      "cell": {
+        "a": 15,
+        "sign": -1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        3,
+        0,
+        0,
+        0,
+        3,
+        3,
+        0,
+        0,
+        2,
+        3
+      ],
+      "cipher": [
+        27,
+        4,
+        26,
+        20,
+        25,
+        5,
+        7,
+        4
+      ],
+      "cell": {
+        "a": 16,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        2,
+        1,
+        3,
+        0,
+        2,
+        2,
+        1,
+        0,
+        0,
+        1
+      ],
+      "cipher": [
+        5,
+        0,
+        6,
+        18,
+        20,
+        24,
+        4,
+        12
+      ],
+      "cell": {
+        "a": 17,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        3,
+        3,
+        2,
+        3,
+        0,
+        3,
+        3,
+        1,
+        3,
+        1
+      ],
+      "cipher": [
+        0,
+        28,
+        17,
+        11,
+        5,
+        23,
+        18,
+        23
+      ],
+      "cell": {
+        "a": 18,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        1,
+        3,
+        0,
+        1,
+        1,
+        0,
+        1,
+        3,
+        2,
+        2
+      ],
+      "cipher": [
+        3,
+        0,
+        3,
+        1,
+        23,
+        2,
+        11,
+        9
+      ],
+      "cell": {
+        "a": 19,
+        "sign": -1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        3,
+        3,
+        2,
+        3,
+        0,
+        3,
+        0,
+        1,
+        1,
+        3
+      ],
+      "cipher": [
+        28,
+        20,
+        6,
+        22,
+        25,
+        20,
+        9,
+        25
+      ],
+      "cell": {
+        "a": 20,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        2,
+        3,
+        0,
+        0,
+        0,
+        1,
+        2,
+        1,
+        3,
+        2
+      ],
+      "cipher": [
+        3,
+        10,
+        7,
+        5,
+        20,
+        15,
+        1,
+        25
+      ],
+      "cell": {
+        "a": 21,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        2,
+        3,
+        1,
+        2,
+        2,
+        0,
+        2,
+        0,
+        3,
+        1
+      ],
+      "cipher": [
+        27,
+        12,
+        27,
+        14,
+        11,
+        22,
+        10,
+        14
+      ],
+      "cell": {
+        "a": 22,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        2,
+        1,
+        2,
+        0,
+        1,
+        1,
+        3,
+        1,
+        3,
+        3
+      ],
+      "cipher": [
+        2,
+        18,
+        10,
+        28,
+        10,
+        28,
+        9,
+        6
+      ],
+      "cell": {
+        "a": 23,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        1,
+        3,
+        2,
+        2,
+        1,
+        0,
+        2,
+        3,
+        2,
+        3
+      ],
+      "cipher": [
+        2,
+        10,
+        21,
+        19,
+        9,
+        18,
+        3,
+        14
+      ],
+      "cell": {
+        "a": 24,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        3,
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        0,
+        3,
+        3
+      ],
+      "cipher": [
+        5,
+        9,
+        25,
+        20,
+        12,
+        11,
+        16,
+        26
+      ],
+      "cell": {
+        "a": 25,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        0,
+        0,
+        3,
+        0,
+        1,
+        0,
+        2,
+        0,
+        3,
+        2
+      ],
+      "cipher": [
+        3,
+        10,
+        28,
+        27,
+        24,
+        16,
+        18,
+        26
+      ],
+      "cell": {
+        "a": 26,
+        "sign": 1
+      },
+      "paths": 4
+    },
+    {
+      "key": [
+        2,
+        1,
+        1,
+        0,
+        0,
+        3,
+        3,
+        2,
+        1,
+        0
+      ],
+      "cipher": [
+        3,
+        25,
+        10,
+        12,
+        8,
+        18,
+        28,
+        7
+      ],
+      "cell": {
+        "a": 27,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        3,
+        2,
+        0,
+        1,
+        1,
+        3,
+        0,
+        1,
+        2,
+        2
+      ],
+      "cipher": [
+        27,
+        0,
+        28,
+        28,
+        1,
+        0,
+        1,
+        0
+      ],
+      "cell": {
+        "a": 28,
+        "sign": 1
+      },
+      "paths": 8
+    },
+    {
+      "key": [
+        0,
+        0,
+        2,
+        1,
+        3,
+        3,
+        1,
+        2,
+        1,
+        1
+      ],
+      "cipher": [
+        0,
+        2,
+        6,
+        10,
+        14,
+        20,
+        21,
+        23
+      ],
+      "cell": {
+        "a": 1,
+        "sign": -1
+      },
+      "paths": 4
+    },
+    {
+      "key": [
+        3,
+        2,
+        2,
+        0,
+        3,
+        2,
+        2,
+        2,
+        0,
+        1
+      ],
+      "cipher": [
+        28,
+        2,
+        26,
+        8,
+        12,
+        4,
+        22,
+        14
+      ],
+      "cell": {
+        "a": 2,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        0,
+        0,
+        3,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        1
+      ],
+      "cipher": [
+        2,
+        8,
+        28,
+        3,
+        14,
+        17,
+        25,
+        22
+      ],
+      "cell": {
+        "a": 3,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        3,
+        0,
+        2,
+        2,
+        0,
+        1,
+        2,
+        3,
+        2,
+        0
+      ],
+      "cipher": [
+        0,
+        2,
+        19,
+        11,
+        15,
+        28,
+        4,
+        11
+      ],
+      "cell": {
+        "a": 4,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        2,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        0,
+        1
+      ],
+      "cipher": [
+        2,
+        13,
+        7,
+        8,
+        12,
+        4,
+        23,
+        3
+      ],
+      "cell": {
+        "a": 5,
+        "sign": -1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        2,
+        2,
+        3,
+        0,
+        3
+      ],
+      "cipher": [
+        1,
+        23,
+        9,
+        6,
+        22,
+        14,
+        1,
+        21
+      ],
+      "cell": {
+        "a": 6,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        1,
+        1,
+        1,
+        1
+      ],
+      "cipher": [
+        4,
+        3,
+        23,
+        20,
+        0,
+        5,
+        7,
+        24
+      ],
+      "cell": {
+        "a": 7,
+        "sign": -1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        1,
+        3,
+        1,
+        3,
+        0,
+        0,
+        3,
+        2,
+        1,
+        2
+      ],
+      "cipher": [
+        2,
+        13,
+        14,
+        3,
+        6,
+        10,
+        4,
+        27
+      ],
+      "cell": {
+        "a": 8,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        1,
+        2,
+        0,
+        3,
+        0,
+        1,
+        2,
+        1,
+        0,
+        1
+      ],
+      "cipher": [
+        3,
+        2,
+        19,
+        3,
+        1,
+        10,
+        6,
+        27
+      ],
+      "cell": {
+        "a": 9,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        2,
+        0,
+        0,
+        0,
+        3,
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "cipher": [
+        1,
+        22,
+        15,
+        26,
+        28,
+        8,
+        9,
+        27
+      ],
+      "cell": {
+        "a": 10,
+        "sign": 1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        2,
+        1,
+        3,
+        3,
+        3,
+        0,
+        2,
+        1,
+        2,
+        3
+      ],
+      "cipher": [
+        4,
+        19,
+        9,
+        16,
+        7,
+        20,
+        19,
+        7
+      ],
+      "cell": {
+        "a": 11,
+        "sign": -1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        1,
+        3,
+        1,
+        0,
+        2,
+        3,
+        0,
+        3,
+        2,
+        2
+      ],
+      "cipher": [
+        2,
+        4,
+        12,
+        4,
+        8,
+        19,
+        6,
+        15
+      ],
+      "cell": {
+        "a": 12,
+        "sign": 1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        2,
+        3,
+        1,
+        1,
+        0,
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "cipher": [
+        4,
+        28,
+        17,
+        22,
+        25,
+        8,
+        21,
+        14
+      ],
+      "cell": {
+        "a": 13,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        1,
+        3,
+        1,
+        3,
+        3,
+        1,
+        2,
+        2,
+        0,
+        2
+      ],
+      "cipher": [
+        1,
+        15,
+        21,
+        23,
+        26,
+        12,
+        5,
+        16
+      ],
+      "cell": {
+        "a": 14,
+        "sign": 1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        2,
+        1,
+        2,
+        2,
+        1,
+        0,
+        2,
+        1,
+        0,
+        1
+      ],
+      "cipher": [
+        5,
+        19,
+        0,
+        5,
+        19,
+        25,
+        1,
+        17
+      ],
+      "cell": {
+        "a": 15,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        1,
+        0,
+        2,
+        1,
+        0,
+        0,
+        0,
+        2,
+        2,
+        1
+      ],
+      "cipher": [
+        2,
+        28,
+        16,
+        5,
+        10,
+        15,
+        22,
+        24
+      ],
+      "cell": {
+        "a": 16,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        1,
+        0,
+        2,
+        2,
+        2,
+        0,
+        2,
+        0,
+        1,
+        0
+      ],
+      "cipher": [
+        1,
+        18,
+        18,
+        19,
+        6,
+        17,
+        1,
+        17
+      ],
+      "cell": {
+        "a": 17,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        2,
+        1,
+        3,
+        3,
+        2,
+        0,
+        1,
+        3,
+        0,
+        0
+      ],
+      "cipher": [
+        27,
+        7,
+        19,
+        3,
+        5,
+        0,
+        1,
+        11
+      ],
+      "cell": {
+        "a": 18,
+        "sign": 1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        0,
+        0,
+        0,
+        3,
+        3,
+        1,
+        0,
+        3,
+        3,
+        1
+      ],
+      "cipher": [
+        2,
+        10,
+        16,
+        20,
+        9,
+        27,
+        20,
+        6
+      ],
+      "cell": {
+        "a": 19,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        3,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        2,
+        0,
+        0
+      ],
+      "cipher": [
+        26,
+        2,
+        19,
+        25,
+        24,
+        12,
+        23,
+        2
+      ],
+      "cell": {
+        "a": 20,
+        "sign": 1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        1,
+        1,
+        2,
+        0,
+        2,
+        1,
+        1,
+        3,
+        0,
+        0
+      ],
+      "cipher": [
+        4,
+        28,
+        10,
+        12,
+        22,
+        0,
+        2,
+        18
+      ],
+      "cell": {
+        "a": 21,
+        "sign": -1
+      },
+      "paths": 4
+    },
+    {
+      "key": [
+        3,
+        0,
+        3,
+        3,
+        1,
+        0,
+        2,
+        0,
+        0,
+        2
+      ],
+      "cipher": [
+        27,
+        15,
+        17,
+        1,
+        7,
+        22,
+        9,
+        8
+      ],
+      "cell": {
+        "a": 22,
+        "sign": 1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        2,
+        0,
+        2,
+        3,
+        2,
+        1,
+        0,
+        3,
+        1,
+        1
+      ],
+      "cipher": [
+        2,
+        20,
+        0,
+        4,
+        8,
+        13,
+        11,
+        26
+      ],
+      "cell": {
+        "a": 23,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        2,
+        2,
+        3,
+        0,
+        1,
+        0,
+        3,
+        1,
+        0,
+        0
+      ],
+      "cipher": [
+        0,
+        28,
+        22,
+        24,
+        3,
+        17,
+        25,
+        10
+      ],
+      "cell": {
+        "a": 24,
+        "sign": 1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        1,
+        3,
+        1,
+        3,
+        2,
+        0,
+        1,
+        0,
+        2,
+        0
+      ],
+      "cipher": [
+        1,
+        0,
+        3,
+        21,
+        5,
+        10,
+        20,
+        8
+      ],
+      "cell": {
+        "a": 25,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        2,
+        3,
+        1,
+        2,
+        1,
+        2,
+        0,
+        2,
+        2,
+        1
+      ],
+      "cipher": [
+        0,
+        27,
+        23,
+        9,
+        27,
+        21,
+        5,
+        15
+      ],
+      "cell": {
+        "a": 26,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        1,
+        2,
+        0,
+        2,
+        0,
+        1,
+        3,
+        0,
+        0,
+        0
+      ],
+      "cipher": [
+        1,
+        2,
+        28,
+        6,
+        18,
+        25,
+        11,
+        8
+      ],
+      "cell": {
+        "a": 27,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        3,
+        0,
+        1,
+        3,
+        1,
+        0,
+        3,
+        1,
+        0,
+        1
+      ],
+      "cipher": [
+        28,
+        2,
+        1,
+        3,
+        4,
+        5,
+        3,
+        5
+      ],
+      "cell": {
+        "a": 28,
+        "sign": 1
+      },
+      "paths": 4
+    },
+    {
+      "key": [
+        0,
+        1,
+        0,
+        0,
+        2,
+        3,
+        3,
+        0,
+        3,
+        3
+      ],
+      "cipher": [
+        0,
+        3,
+        5,
+        6,
+        10,
+        14,
+        19,
+        20
+      ],
+      "cell": {
+        "a": 1,
+        "sign": -1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        3,
+        1,
+        2
+      ],
+      "cipher": [
+        2,
+        27,
+        5,
+        18,
+        25,
+        8,
+        16,
+        26
+      ],
+      "cell": {
+        "a": 2,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        3,
+        2,
+        3,
+        3,
+        3,
+        0,
+        1,
+        3,
+        0,
+        0
+      ],
+      "cipher": [
+        6,
+        23,
+        17,
+        26,
+        23,
+        12,
+        11,
+        7
+      ],
+      "cell": {
+        "a": 3,
+        "sign": -1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        1,
+        0,
+        0,
+        1,
+        1,
+        2,
+        1,
+        2,
+        2,
+        3
+      ],
+      "cipher": [
+        0,
+        2,
+        24,
+        19,
+        12,
+        10,
+        20,
+        6
+      ],
+      "cell": {
+        "a": 4,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        0,
+        2,
+        1,
+        1,
+        0,
+        1,
+        2,
+        0,
+        2,
+        1
+      ],
+      "cipher": [
+        3,
+        20,
+        16,
+        26,
+        15,
+        21,
+        23,
+        28
+      ],
+      "cell": {
+        "a": 5,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        1,
+        2,
+        0,
+        3,
+        1,
+        0,
+        3,
+        0,
+        0,
+        0
+      ],
+      "cipher": [
+        2,
+        18,
+        8,
+        9,
+        3,
+        14,
+        1,
+        23
+      ],
+      "cell": {
+        "a": 6,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        3,
+        2,
+        2,
+        2,
+        2,
+        0,
+        0,
+        3,
+        0,
+        0
+      ],
+      "cipher": [
+        6,
+        18,
+        12,
+        28,
+        26,
+        9,
+        6,
+        16
+      ],
+      "cell": {
+        "a": 7,
+        "sign": -1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        2,
+        0,
+        3,
+        1,
+        3,
+        0,
+        3,
+        1,
+        0,
+        1
+      ],
+      "cipher": [
+        28,
+        10,
+        4,
+        27,
+        15,
+        25,
+        1,
+        22
+      ],
+      "cell": {
+        "a": 8,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        0,
+        2,
+        0,
+        2,
+        3,
+        2,
+        2,
+        3,
+        2,
+        2
+      ],
+      "cipher": [
+        0,
+        5,
+        19,
+        28,
+        26,
+        5,
+        19,
+        1
+      ],
+      "cell": {
+        "a": 9,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        1,
+        2,
+        2,
+        3,
+        2,
+        3,
+        1,
+        0,
+        0,
+        3
+      ],
+      "cipher": [
+        2,
+        10,
+        16,
+        13,
+        16,
+        14,
+        6,
+        27
+      ],
+      "cell": {
+        "a": 10,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        3,
+        0,
+        2,
+        1,
+        1,
+        1,
+        0,
+        2,
+        0,
+        2
+      ],
+      "cipher": [
+        6,
+        10,
+        25,
+        18,
+        26,
+        0,
+        2,
+        24
+      ],
+      "cell": {
+        "a": 11,
+        "sign": -1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        3,
+        2,
+        3,
+        3,
+        3,
+        0,
+        3,
+        0,
+        1,
+        3
+      ],
+      "cipher": [
+        26,
+        6,
+        12,
+        1,
+        16,
+        14,
+        3,
+        22
+      ],
+      "cell": {
+        "a": 12,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        2,
+        2,
+        2,
+        0,
+        0,
+        1,
+        2,
+        3,
+        3,
+        0
+      ],
+      "cipher": [
+        4,
+        27,
+        8,
+        19,
+        15,
+        23,
+        12,
+        16
+      ],
+      "cell": {
+        "a": 13,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        3,
+        3,
+        3,
+        0,
+        1,
+        2,
+        2,
+        0,
+        0,
+        2
+      ],
+      "cipher": [
+        0,
+        3,
+        16,
+        8,
+        5,
+        17,
+        24,
+        12
+      ],
+      "cell": {
+        "a": 14,
+        "sign": 1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        2,
+        1,
+        0,
+        3,
+        3,
+        1,
+        1,
+        2,
+        1,
+        2
+      ],
+      "cipher": [
+        2,
+        4,
+        2,
+        6,
+        9,
+        20,
+        11,
+        23
+      ],
+      "cell": {
+        "a": 15,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        0,
+        1,
+        2,
+        1,
+        0,
+        1,
+        2,
+        1,
+        2,
+        3
+      ],
+      "cipher": [
+        2,
+        25,
+        4,
+        24,
+        23,
+        10,
+        14,
+        9
+      ],
+      "cell": {
+        "a": 16,
+        "sign": 1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        0,
+        2,
+        3,
+        1,
+        3,
+        3,
+        2,
+        0,
+        0,
+        1
+      ],
+      "cipher": [
+        2,
+        7,
+        6,
+        18,
+        21,
+        12,
+        6,
+        15
+      ],
+      "cell": {
+        "a": 17,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        0,
+        3,
+        3,
+        0,
+        2,
+        0,
+        0,
+        2,
+        2,
+        1
+      ],
+      "cipher": [
+        0,
+        28,
+        17,
+        15,
+        18,
+        24,
+        3,
+        4
+      ],
+      "cell": {
+        "a": 18,
+        "sign": 1
+      },
+      "paths": 4
+    },
+    {
+      "key": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        2,
+        3,
+        1,
+        3,
+        1
+      ],
+      "cipher": [
+        1,
+        21,
+        24,
+        23,
+        5,
+        11,
+        10,
+        17
+      ],
+      "cell": {
+        "a": 19,
+        "sign": -1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        0,
+        3,
+        2,
+        3,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+      ],
+      "cipher": [
+        3,
+        25,
+        20,
+        6,
+        27,
+        12,
+        21,
+        17
+      ],
+      "cell": {
+        "a": 20,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        3,
+        1,
+        0,
+        1,
+        3,
+        0,
+        1,
+        0,
+        0,
+        3
+      ],
+      "cipher": [
+        3,
+        9,
+        17,
+        11,
+        4,
+        26,
+        27,
+        18
+      ],
+      "cell": {
+        "a": 21,
+        "sign": -1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        0,
+        0,
+        1,
+        3,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "cipher": [
+        3,
+        21,
+        4,
+        28,
+        22,
+        8,
+        27,
+        18
+      ],
+      "cell": {
+        "a": 22,
+        "sign": 1
+      },
+      "paths": 1
+    },
+    {
+      "key": [
+        3,
+        0,
+        3,
+        1,
+        0,
+        0,
+        3,
+        0,
+        2,
+        3
+      ],
+      "cipher": [
+        5,
+        1,
+        0,
+        3,
+        14,
+        5,
+        2,
+        20
+      ],
+      "cell": {
+        "a": 23,
+        "sign": -1
+      },
+      "paths": 2
+    },
+    {
+      "key": [
+        2,
+        3,
+        3,
+        2,
+        3,
+        1,
+        0,
+        3,
+        0,
+        0
+      ],
+      "cipher": [
+        0,
+        27,
+        19,
+        8,
+        10,
+        23,
+        2,
+        9
+      ],
+      "cell": {
+        "a": 24,
+        "sign": 1
+      },
+      "paths": 2
+    }
+  ]
+}

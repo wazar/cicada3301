@@ -1,0 +1,115 @@
+{
+  "scope": "Completed experiment evidence/current bytes; original snapshots retained separately. No active experiments included.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/worker-p/P08/CARD.md",
+      "bytes": 3548,
+      "sha256": "5bea583a74646a607d0f290c956b1c902275b7a7422a6750981014943ee1cd0d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P08/MANIFEST.json",
+      "bytes": 3112,
+      "sha256": "a8dc8526689d126d383f0d049b6f083720c8926deddcac01e1951ba8df77ef72"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P08/REPORT.md",
+      "bytes": 7712,
+      "sha256": "2fbc252b331382eb2f431f74338388d587101adedb5149d5832e17d1e9103e4c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P08/batch-summary.json",
+      "bytes": 2481,
+      "sha256": "63c554adfe4859fcf558918683af2524e8213e301ddfc5c504ebd84b65d7c5f1"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P08/check.json",
+      "bytes": 8649,
+      "sha256": "23b67dfba3f626e94f575ac5f5b0fae1fde0236e5c6f03be1a5315332d1a8d23"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P08/control-0-batch.json.gz",
+      "bytes": 545678,
+      "sha256": "a64a469c0082f815197560f5dfb33dd1cf29900450e283169a6c1b6236e73007"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P08/control-0.json.gz",
+      "bytes": 30049,
+      "sha256": "d928afb5a628bb0154d62126c93a07364db26266bf02bc85af6ba543c948c024"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P08/control-1-batch.json.gz",
+      "bytes": 189354,
+      "sha256": "d720c5bc55e86720e824c50f4fdb164b6fc1d17ba2b346ea7c81cdff43bfab15"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P08/control-1.json.gz",
+      "bytes": 10217,
+      "sha256": "cb5d209fc264cd17229ed4dd383365ddbd2ac1598e51dc5c1bebfff5e8c4be7c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P08/control-2-batch.json.gz",
+      "bytes": 730484,
+      "sha256": "ec4b352c68f6b4db829da46660dd4c89409fa95653c182062352ece85374f8e2"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P08/control-2.json.gz",
+      "bytes": 36324,
+      "sha256": "11d3b0196ea32fca88137e40423ece1f979fe51453e6359770944eb63f92adea"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P08/control-3-batch.json.gz",
+      "bytes": 207991,
+      "sha256": "e43d72dd2eba61620a0f8fe7bd911674d78abbae02788735c90422a1ff0c2b21"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P08/control-3.json.gz",
+      "bytes": 11571,
+      "sha256": "9b3e0b9e12152fb00a234d2bc818aa19152fe79e5c1b65b7ab967a241e1cf4fa"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P08/control-summary-0.json",
+      "bytes": 642,
+      "sha256": "7c6fdf7cf42cb620b9fb7dde42f91999af8884a60b76aca9f826ae8dcd4af9b6"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P08/control-summary-1.json",
+      "bytes": 643,
+      "sha256": "1ae085ae77463d09e8d5c0f1312a6453b7a7e484bf856724287b29a1d93c8fb3"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P08/control-summary-2.json",
+      "bytes": 642,
+      "sha256": "f87eb9c469ac03d1b2f7f937a6897f9fa7042e5f7d3c434268dcc121b5c38aad"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P08/control-summary-3.json",
+      "bytes": 642,
+      "sha256": "e48126446c094faacd24eb551a0878cff54a44b5e19849cba1be5b8999e51c1a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P08/held.json.gz",
+      "bytes": 13391,
+      "sha256": "fdb1ff6230e0916a6d7fb41f38e9dde49ab2685f5fc46d9b093c773e5cce00ba"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P08/real-0-batch.json.gz",
+      "bytes": 744378,
+      "sha256": "5f553e5477f4deacdb8de585237dd0e9ed2f3f25ae7f9b2e00a5df067e9e5e6f"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P08/real-17-batch.json.gz",
+      "bytes": 775289,
+      "sha256": "4c4733439a50ab90c6c1c907f113548c33fd40664cd3ba1b3fe47315c91dc2a3"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P08/source-summary.json",
+      "bytes": 1711,
+      "sha256": "bca9e4b9b3d45184d5c7e9d48165342eb6ba9ebaf36e8202d2b9fb409aab3599"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P08/sources.json.gz",
+      "bytes": 2055543,
+      "sha256": "9ed8291a8c067e3b3b9ff817a95fe3bdc00c31bf1162a9b1b80bbcb077d806b9"
+    }
+  ]
+}

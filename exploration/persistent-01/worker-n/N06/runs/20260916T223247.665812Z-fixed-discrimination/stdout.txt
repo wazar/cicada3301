@@ -1,0 +1,95 @@
+{"codebook": 0, "n": 324, "done": 100}
+{"codebook": 1, "n": 324, "done": 100}
+{"codebook": 2, "n": 324, "done": 100}
+{"codebook": 3, "n": 324, "done": 100}
+{"codebook": 4, "n": 195, "done": 100}
+{"codebook": 5, "n": 195, "done": 100}
+{"codebook": 6, "n": 195, "done": 100}
+{"codebook": 7, "n": 195, "done": 100}
+{"codebook": 8, "n": 54, "done": 100}
+{"codebook": 9, "n": 54, "done": 100}
+{"codebook": 10, "n": 54, "done": 100}
+{"codebook": 11, "n": 54, "done": 100}
+{"codebook": 12, "n": 62, "done": 100}
+{"codebook": 13, "n": 62, "done": 100}
+{"codebook": 14, "n": 62, "done": 100}
+{"codebook": 15, "n": 62, "done": 100}
+{
+  "samples": 1600,
+  "prefix": {
+    "truth_top": 1600,
+    "truth_strict_top": 1600,
+    "truth_tied_top": 0,
+    "truth_numeric_ties": 0,
+    "rank_hist": {
+      "1": 1600
+    },
+    "mean_margin": 139.43530544967555,
+    "median_margin": 104.50689151289882,
+    "min_margin": 18.212749970417605,
+    "max_margin": 364.1715418625623,
+    "pairwise_truth_advantage_means": [
+      161.3607537254781,
+      161.66909474473024,
+      161.70454381956418,
+      168.05924017787694,
+      167.62003714887902,
+      159.15379991958255,
+      164.12752707870513,
+      164.41817459184855
+    ]
+  },
+  "suffix": {
+    "truth_top": 1600,
+    "truth_strict_top": 1600,
+    "truth_tied_top": 0,
+    "truth_numeric_ties": 0,
+    "rank_hist": {
+      "1": 1600
+    },
+    "mean_margin": 67.70079752126593,
+    "median_margin": 50.23165689024256,
+    "min_margin": 4.316648463715907,
+    "max_margin": 186.60124049815323,
+    "pairwise_truth_advantage_means": [
+      82.3054004120061,
+      82.89209594520338,
+      82.7492043393509,
+      85.86201546522675,
+      85.31277708416962,
+      81.68238524239226,
+      84.15958023382079,
+      83.86523898558859
+    ]
+  },
+  "full": {
+    "truth_top": 1600,
+    "truth_strict_top": 1600,
+    "truth_tied_top": 0,
+    "truth_numeric_ties": 0,
+    "rank_hist": {
+      "1": 1600
+    },
+    "mean_margin": 215.1116548029625,
+    "median_margin": 164.29431728051483,
+    "min_margin": 36.991625589631354,
+    "max_margin": 525.2590172993262,
+    "pairwise_truth_advantage_means": [
+      243.6661541374842,
+      244.56119068993362,
+      244.4537481589151,
+      253.92125564310368,
+      252.93281423304865,
+      240.8361851619748,
+      248.2871073125259,
+      248.28341357743713
+    ]
+  },
+  "prefix_selected_suffix_accuracy_mean": 1.0,
+  "prefix_selected_suffix_margin_mean": 0.0,
+  "prefix_selected_alternative_count": 0,
+  "observed_label_equivalence_count": {
+    "prefix": 0,
+    "suffix": 0
+  }
+}

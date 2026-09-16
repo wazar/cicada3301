@@ -1,0 +1,115 @@
+{
+  "scope": "Completed experiment evidence/current bytes; original snapshots retained separately. No active experiments included.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/review-14/REPORT.md",
+      "bytes": 4781,
+      "sha256": "2bed98005dcbf5a2059c8f051ba5b7af8d5187fdadbcf45ddea1f7a7f5029a74"
+    },
+    {
+      "path": "exploration/persistent-01/review-14/check.py",
+      "bytes": 6486,
+      "sha256": "580ccf61dc000c57ece956d70e505e952dc02dff69303d91e1aeeedad0d34ef6"
+    },
+    {
+      "path": "exploration/persistent-01/review-14/inputs.json",
+      "bytes": 82825,
+      "sha256": "2e1d748b3e418f8b2736fabd7c4f23befe96fb0df334e3d9373e91965b81cc17"
+    },
+    {
+      "path": "exploration/persistent-01/review-14/results.json",
+      "bytes": 1686,
+      "sha256": "36c4c55a5e477a060f218529f5b1f7942a69ea37b8d67281c3090402d93bbbc1"
+    },
+    {
+      "path": "exploration/persistent-01/review-14/runs/20260916T224217.566665Z-independent/code/exploration/persistent-01/coordinator/Q01/q01.py",
+      "bytes": 3676,
+      "sha256": "3ed00e0148a005fe9ad1aed70acc7ac9ca3efa85991d6e28e8bce240fdbbe506"
+    },
+    {
+      "path": "exploration/persistent-01/review-14/runs/20260916T224217.566665Z-independent/code/exploration/persistent-01/review-14/check.py",
+      "bytes": 6486,
+      "sha256": "580ccf61dc000c57ece956d70e505e952dc02dff69303d91e1aeeedad0d34ef6"
+    },
+    {
+      "path": "exploration/persistent-01/review-14/runs/20260916T224217.566665Z-independent/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-14/runs/20260916T224217.566665Z-independent/command.json",
+      "bytes": 1767,
+      "sha256": "7f0a66c7cd179d6915b0259f5d2ddaed359605a298b5fc7e9dd689586584b3e8"
+    },
+    {
+      "path": "exploration/persistent-01/review-14/runs/20260916T224217.566665Z-independent/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-14/runs/20260916T224217.566665Z-independent/stdout.txt",
+      "bytes": 1687,
+      "sha256": "eebe7f178290f7e10e06b474398cff93c0bca2eef9278d02c8c1e1bd2f824fd5"
+    },
+    {
+      "path": "exploration/persistent-01/review-14/runs/20260916T224308.224743Z-seeds-estimator/code/exploration/persistent-01/review-14/check.py",
+      "bytes": 6486,
+      "sha256": "580ccf61dc000c57ece956d70e505e952dc02dff69303d91e1aeeedad0d34ef6"
+    },
+    {
+      "path": "exploration/persistent-01/review-14/runs/20260916T224308.224743Z-seeds-estimator/code/exploration/persistent-01/review-14/seeds_and_estimator.py",
+      "bytes": 1654,
+      "sha256": "52d6d107527661c78ecfce3baed3a97c5684a5c5421869b8c4c5326cd00f3ae3"
+    },
+    {
+      "path": "exploration/persistent-01/review-14/runs/20260916T224308.224743Z-seeds-estimator/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-14/runs/20260916T224308.224743Z-seeds-estimator/command.json",
+      "bytes": 1581,
+      "sha256": "8194065d6eabaf38cb73419b891b2034b596460d6bfd1855034a653971a53714"
+    },
+    {
+      "path": "exploration/persistent-01/review-14/runs/20260916T224308.224743Z-seeds-estimator/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-14/runs/20260916T224308.224743Z-seeds-estimator/stdout.txt",
+      "bytes": 1937,
+      "sha256": "b2f2922e3dda3f5eba1290fb3c3ff6d70398b48d49f881ed3b91abe698af03e6"
+    },
+    {
+      "path": "exploration/persistent-01/review-14/seeds-and-estimator.json",
+      "bytes": 1936,
+      "sha256": "de7fb15b6418ca4e7c7a695ef1b739f13804fd39c2bdbde4fb014f6d7ae15b2e"
+    },
+    {
+      "path": "exploration/persistent-01/review-14/seeds_and_estimator.py",
+      "bytes": 1654,
+      "sha256": "52d6d107527661c78ecfce3baed3a97c5684a5c5421869b8c4c5326cd00f3ae3"
+    },
+    {
+      "path": "exploration/persistent-01/review-14/snapshots/card.md",
+      "bytes": 2581,
+      "sha256": "94f2e7048b620fe40c27435c6d3ce2e426b23e85ed26fe41058d20bc9f4d24d8"
+    },
+    {
+      "path": "exploration/persistent-01/review-14/snapshots/input.json",
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-01/review-14/snapshots/q01.py",
+      "bytes": 3676,
+      "sha256": "3ed00e0148a005fe9ad1aed70acc7ac9ca3efa85991d6e28e8bce240fdbbe506"
+    },
+    {
+      "path": "exploration/persistent-01/review-14/snapshots/result.json",
+      "bytes": 15222,
+      "sha256": "614d3892c4679bc9854a23369fc70cf2d69cfcbbaa10ce4665357feae0e9c61e"
+    }
+  ]
+}

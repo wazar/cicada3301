@@ -1,0 +1,122 @@
+[
+  {
+    "label": "control-0",
+    "n": 210,
+    "repeats": 0,
+    "scores": {
+      "latin": -2.577148948917687,
+      "english": -3.3307783273510165
+    },
+    "tails": {
+      "latin": 0.05,
+      "english": 0.05
+    },
+    "delta": 0.7536293784333297,
+    "delta_tail": 0.05,
+    "best_cells": {
+      "latin": "prime_minus_one:-1",
+      "english": "prime_minus_one:-1"
+    },
+    "seconds": 0.6399731659985264
+  },
+  {
+    "label": "control-1",
+    "n": 124,
+    "repeats": 0,
+    "scores": {
+      "latin": -2.2080564306235413,
+      "english": -3.3966306437048326
+    },
+    "tails": {
+      "latin": 0.05,
+      "english": 0.05
+    },
+    "delta": 1.1885742130812913,
+    "delta_tail": 0.05,
+    "best_cells": {
+      "latin": "prime_minus_one:1",
+      "english": "prime_minus_one:1"
+    },
+    "seconds": 0.3275535410029988
+  },
+  {
+    "label": "control-2",
+    "n": 245,
+    "repeats": 1,
+    "scores": {
+      "latin": -2.1737186662972716,
+      "english": -3.387125454613555
+    },
+    "tails": {
+      "latin": 0.05,
+      "english": 0.05
+    },
+    "delta": 1.2134067883162833,
+    "delta_tail": 0.05,
+    "best_cells": {
+      "latin": "integer_phi:-1",
+      "english": "integer_phi:-1"
+    },
+    "seconds": 0.750914999996894
+  },
+  {
+    "label": "control-3",
+    "n": 140,
+    "repeats": 1,
+    "scores": {
+      "latin": -2.491042638305321,
+      "english": -3.263997796934627
+    },
+    "tails": {
+      "latin": 0.05,
+      "english": 0.05
+    },
+    "delta": 0.7729551586293062,
+    "delta_tail": 0.05,
+    "best_cells": {
+      "latin": "integer_phi:1",
+      "english": "integer_phi:1"
+    },
+    "seconds": 0.3610572920006234
+  },
+  {
+    "label": "real-0",
+    "n": 262,
+    "repeats": 2,
+    "scores": {
+      "latin": -6.822697011352162,
+      "english": -4.674232774206064
+    },
+    "tails": {
+      "latin": 0.15,
+      "english": 0.25
+    },
+    "delta": -2.148464237146098,
+    "delta_tail": 0.15,
+    "best_cells": {
+      "latin": "integer_phi:1",
+      "english": "prime_minus_one:1"
+    },
+    "seconds": 0.8217566249986703
+  },
+  {
+    "label": "real-17",
+    "n": 273,
+    "repeats": 0,
+    "scores": {
+      "latin": -7.018393318047125,
+      "english": -4.642189046369565
+    },
+    "tails": {
+      "latin": 0.95,
+      "english": 0.6
+    },
+    "delta": -2.37620427167756,
+    "delta_tail": 0.95,
+    "best_cells": {
+      "latin": "integer_phi:1",
+      "english": "prime_minus_one:-1"
+    },
+    "seconds": 0.868803042001673
+  }
+]

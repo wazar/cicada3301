@@ -1,0 +1,47 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-q/q01.py",
+    "--pilot"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "1ad9522582003d77aaa6ee02fcb9af2f326d087b",
+  "started_utc": "2026-09-16T22:38:14.599433+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F10-evidence.json.gz",
+      "exists": true,
+      "bytes": 310205,
+      "sha256": "086b938f66638f712b8b978548443868776a132d94798707042732aa6b91da87"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/q01.py",
+      "exists": true,
+      "bytes": 3313,
+      "sha256": "07147f7603ce8be7ce3b0b0184f8baccbffb804dee1b0fb62ff2d0504074f8d0"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 66968,
+  "finished_utc": "2026-09-16T22:38:14.743689+00:00",
+  "duration_seconds": 0.14406041599795572
+}

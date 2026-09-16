@@ -1,0 +1,29 @@
+{
+  "index": 2,
+  "source": "virgil",
+  "n": 245,
+  "rejections": 10,
+  "seconds": 0.04078437499993015,
+  "models": {
+    "latin": {
+      "key_correct": true,
+      "key_rank": 1,
+      "best_errors": 0,
+      "correctkey_errors": 0,
+      "path_correct": true,
+      "used_correct": true,
+      "truth_lm": -2.161311660755133,
+      "truth_joint": -2.173718666297272
+    },
+    "english": {
+      "key_correct": true,
+      "key_rank": 1,
+      "best_errors": 0,
+      "correctkey_errors": 0,
+      "path_correct": true,
+      "used_correct": true,
+      "truth_lm": -3.3747184490714153,
+      "truth_joint": -3.387125454613555
+    }
+  }
+}

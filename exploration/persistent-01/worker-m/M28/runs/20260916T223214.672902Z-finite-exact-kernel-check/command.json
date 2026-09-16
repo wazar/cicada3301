@@ -1,0 +1,46 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-m/M28/kernel_check.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "6554d1fcae7f9a739cd9badaa3c23abf761de25a",
+  "started_utc": "2026-09-16T22:32:14.683245+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M28/kernel_check.py",
+      "exists": true,
+      "bytes": 2587,
+      "sha256": "ce3e7a4d747d8359788207e227498ddbcc68faeb8c939273811267df55ed09ee"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M28/m28.py",
+      "exists": true,
+      "bytes": 9063,
+      "sha256": "710ae0f030cbe91632c86f9bb6e90bf86a56a54930f5b29e5236a6ec0485dd99"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 66338,
+  "finished_utc": "2026-09-16T22:32:14.998127+00:00",
+  "duration_seconds": 0.3145999589978601
+}

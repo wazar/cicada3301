@@ -1,0 +1,990 @@
+{
+  "name": "control-p57_parable",
+  "source": "audit/parallel-01/reference/sources/solved_p57_parable.txt",
+  "sha256": "63c685205fcc753364d12ea72f7e120c6eba4031ab658cdf6fbf3da1d8749f25",
+  "plain": [
+    13,
+    24,
+    4,
+    24,
+    17,
+    20,
+    18,
+    20,
+    10,
+    5,
+    18,
+    2,
+    18,
+    10,
+    9,
+    15,
+    16,
+    24,
+    4,
+    16,
+    1,
+    9,
+    9,
+    18,
+    20,
+    21,
+    16,
+    3,
+    2,
+    18,
+    15,
+    1,
+    4,
+    0,
+    24,
+    5,
+    18,
+    7,
+    18,
+    19,
+    1,
+    15,
+    16,
+    15,
+    8,
+    18,
+    23,
+    3,
+    1,
+    4,
+    3,
+    7,
+    9,
+    5,
+    10,
+    4,
+    5,
+    1,
+    19,
+    0,
+    18,
+    4,
+    18,
+    9,
+    5,
+    18,
+    15,
+    0,
+    10,
+    9,
+    23,
+    2,
+    18,
+    23,
+    10,
+    1,
+    10,
+    9,
+    10,
+    16,
+    26,
+    7,
+    10,
+    2,
+    10,
+    9,
+    24,
+    9,
+    23,
+    18,
+    19,
+    18,
+    4,
+    6,
+    18
+  ],
+  "ends": [
+    6,
+    10,
+    12,
+    18,
+    25,
+    27,
+    29,
+    36,
+    38,
+    42,
+    46,
+    49,
+    52,
+    66,
+    70,
+    72,
+    80,
+    85,
+    88,
+    94
+  ],
+  "cell": {
+    "a": 28,
+    "sign": 1,
+    "id": "28:1"
+  },
+  "cipher": [
+    26,
+    17,
+    26,
+    12,
+    14,
+    0,
+    14,
+    24,
+    17,
+    4,
+    28,
+    1,
+    15,
+    22,
+    12,
+    25,
+    23,
+    2,
+    6,
+    12,
+    27,
+    28,
+    19,
+    4,
+    23,
+    6,
+    15,
+    8,
+    1,
+    25,
+    17,
+    8,
+    25,
+    15,
+    7,
+    3,
+    4,
+    14,
+    9,
+    4,
+    24,
+    0,
+    22,
+    24,
+    28,
+    7,
+    25,
+    10,
+    22,
+    7,
+    15,
+    12,
+    1,
+    1,
+    6,
+    25,
+    17,
+    12,
+    11,
+    16,
+    5,
+    6,
+    20,
+    23,
+    26,
+    25,
+    21,
+    26,
+    19,
+    18,
+    3,
+    2,
+    14,
+    27,
+    5,
+    26,
+    20,
+    25,
+    11,
+    18,
+    0,
+    16,
+    2,
+    17,
+    9,
+    24,
+    19,
+    24,
+    15,
+    14,
+    2,
+    16,
+    2,
+    19,
+    14
+  ],
+  "events": [
+    {
+      "start": 0,
+      "accepted": 0,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 1,
+      "accepted": 1,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 2,
+      "accepted": 2,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 3,
+      "accepted": 3,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 4,
+      "accepted": 4,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 5,
+      "accepted": 5,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 6,
+      "accepted": 6,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 7,
+      "accepted": 7,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 8,
+      "accepted": 8,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 9,
+      "accepted": 9,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 10,
+      "accepted": 10,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 11,
+      "accepted": 11,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 12,
+      "accepted": 12,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 13,
+      "accepted": 13,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 14,
+      "accepted": 14,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 15,
+      "accepted": 15,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 16,
+      "accepted": 16,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 17,
+      "accepted": 17,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 18,
+      "accepted": 18,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 19,
+      "accepted": 19,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 20,
+      "accepted": 20,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 21,
+      "accepted": 21,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 22,
+      "accepted": 22,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 23,
+      "accepted": 23,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 24,
+      "accepted": 24,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 25,
+      "accepted": 25,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 26,
+      "accepted": 26,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 27,
+      "accepted": 27,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 28,
+      "accepted": 28,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 29,
+      "accepted": 30,
+      "forced_eof": false,
+      "decisions": [
+        [
+          29,
+          0.6998428905246437
+        ]
+      ]
+    },
+    {
+      "start": 30,
+      "accepted": 30,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 31,
+      "accepted": 31,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 32,
+      "accepted": 32,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 33,
+      "accepted": 33,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 34,
+      "accepted": 34,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 35,
+      "accepted": 35,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 36,
+      "accepted": 36,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 37,
+      "accepted": 37,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 38,
+      "accepted": 38,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 39,
+      "accepted": 39,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 40,
+      "accepted": 41,
+      "forced_eof": false,
+      "decisions": [
+        [
+          40,
+          0.5272711156961759
+        ]
+      ]
+    },
+    {
+      "start": 41,
+      "accepted": 41,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 42,
+      "accepted": 42,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 43,
+      "accepted": 43,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 44,
+      "accepted": 44,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 45,
+      "accepted": 45,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 46,
+      "accepted": 46,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 47,
+      "accepted": 47,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 48,
+      "accepted": 48,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 49,
+      "accepted": 49,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 50,
+      "accepted": 50,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 51,
+      "accepted": 51,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 52,
+      "accepted": 52,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 53,
+      "accepted": 53,
+      "forced_eof": false,
+      "decisions": [
+        [
+          53,
+          0.8506743562869153
+        ]
+      ]
+    },
+    {
+      "start": 54,
+      "accepted": 54,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 55,
+      "accepted": 55,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 56,
+      "accepted": 56,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 57,
+      "accepted": 57,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 58,
+      "accepted": 58,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 59,
+      "accepted": 59,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 60,
+      "accepted": 60,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 61,
+      "accepted": 61,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 62,
+      "accepted": 62,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 63,
+      "accepted": 63,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 64,
+      "accepted": 64,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 65,
+      "accepted": 66,
+      "forced_eof": false,
+      "decisions": [
+        [
+          65,
+          0.35736619674364156
+        ]
+      ]
+    },
+    {
+      "start": 66,
+      "accepted": 66,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 67,
+      "accepted": 67,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 68,
+      "accepted": 68,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 69,
+      "accepted": 69,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 70,
+      "accepted": 70,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 71,
+      "accepted": 71,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 72,
+      "accepted": 72,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 73,
+      "accepted": 73,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 74,
+      "accepted": 74,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 75,
+      "accepted": 75,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 76,
+      "accepted": 76,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 77,
+      "accepted": 77,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 78,
+      "accepted": 78,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 79,
+      "accepted": 79,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 80,
+      "accepted": 80,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 81,
+      "accepted": 81,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 82,
+      "accepted": 82,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 83,
+      "accepted": 83,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 84,
+      "accepted": 84,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 85,
+      "accepted": 85,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 86,
+      "accepted": 86,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 87,
+      "accepted": 87,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 88,
+      "accepted": 88,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 89,
+      "accepted": 89,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 90,
+      "accepted": 90,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 91,
+      "accepted": 92,
+      "forced_eof": false,
+      "decisions": [
+        [
+          91,
+          0.07052230843759144
+        ]
+      ]
+    },
+    {
+      "start": 92,
+      "accepted": 93,
+      "forced_eof": false,
+      "decisions": [
+        [
+          92,
+          0.27133426024633966
+        ]
+      ]
+    },
+    {
+      "start": 93,
+      "accepted": 93,
+      "forced_eof": false,
+      "decisions": []
+    },
+    {
+      "start": 94,
+      "accepted": 94,
+      "forced_eof": false,
+      "decisions": []
+    }
+  ],
+  "reset_reachable": true,
+  "cumulative": {
+    "reachable": false,
+    "first_dead": 30,
+    "history": [
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ],
+      [
+        4
+      ],
+      [
+        5
+      ],
+      [
+        6
+      ],
+      [
+        7
+      ],
+      [
+        8
+      ],
+      [
+        9
+      ],
+      [
+        10
+      ],
+      [
+        11
+      ],
+      [
+        12
+      ],
+      [
+        13
+      ],
+      [
+        14
+      ],
+      [
+        15
+      ],
+      [
+        16
+      ],
+      [
+        17
+      ],
+      [
+        18
+      ],
+      [
+        19
+      ],
+      [
+        20
+      ],
+      [
+        21
+      ],
+      [
+        22
+      ],
+      [
+        23
+      ],
+      [
+        24
+      ],
+      [
+        25
+      ],
+      [
+        26
+      ],
+      [
+        27
+      ],
+      [
+        28
+      ],
+      [
+        29
+      ],
+      [
+        31
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  }
+}

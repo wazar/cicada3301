@@ -1,0 +1,84 @@
+{
+  "status": "PASS",
+  "manifest_files": 303,
+  "key_length": 132028,
+  "exact_probability_tables": 20358,
+  "normalized_forward_distributions": 20358,
+  "tiny_cases": 64,
+  "tiny_total_paths": 13840,
+  "controls": [
+    {
+      "name": "0_welcome",
+      "n": 515,
+      "reset_reachable": true,
+      "cumulative_dead": 34,
+      "forced_events": 0,
+      "errors": 2,
+      "truth_top16": null,
+      "true_cell_rank": 1
+    },
+    {
+      "name": "jpg107-167",
+      "n": 319,
+      "reset_reachable": true,
+      "cumulative_dead": 4,
+      "forced_events": 0,
+      "errors": 1,
+      "truth_top16": 2,
+      "true_cell_rank": 1
+    },
+    {
+      "name": "p56_an_end",
+      "n": 85,
+      "reset_reachable": true,
+      "cumulative_dead": 24,
+      "forced_events": 0,
+      "errors": 0,
+      "truth_top16": 1,
+      "true_cell_rank": 1
+    },
+    {
+      "name": "p57_parable",
+      "n": 95,
+      "reset_reachable": true,
+      "cumulative_dead": 30,
+      "forced_events": 0,
+      "errors": 2,
+      "truth_top16": 4,
+      "true_cell_rank": 1
+    }
+  ],
+  "searches": 280,
+  "cell_fits": 15680,
+  "saved_paths": 19916,
+  "main_paths_scored": 432,
+  "nulls_seed_replayed": 274,
+  "tails": {
+    "control-0_welcome": 0.05,
+    "control-jpg107-167": 0.05,
+    "control-p56_an_end": 0.05,
+    "control-p57_parable": 0.05,
+    "real-0": 0.02,
+    "real-17": 0.8
+  },
+  "real_outputs": [
+    {
+      "name": "real-0",
+      "cell": {
+        "a": 8,
+        "sign": 1,
+        "id": "8:1"
+      },
+      "text": "THTMJTXND OMBLO TBNR PJR LEOC FRSOEAEPSHFUC LMLYE MAIG INI THING UCUI EMH MORNTHOE MDGUOPBUGJF LT OH EBB AID PWEALTHOP EDAEBI LXJOEBREAEA BA XGEEO AP EDY RMR UTHUIAJ WG SSH CSGT NSLI NEACGIAU CTHIW EAEOBSUL FEI BAML YEPGGTGNG TPJBNSTH RLG U ABSJEAL GDTHFEAEO SHD PIAAS GHEOOEI AC WHDXPEAIANG IUHC IAAL TEE EAOTHEAEAE NUOAGCW UL FOEAHOJS W AEDDNGCENGNX LYC YWYJ P "
+    },
+    {
+      "name": "real-17",
+      "cell": {
+        "a": 13,
+        "sign": -1,
+        "id": "13:-1"
+      },
+      "text": "REA NGM WITH EARGEO TX TEOSWBBDP MAIOECLC OEYEOC EOG IADH PAE PING HLUOEHM PB YX IANAERSRA NXPXF BWTH EOCBGJEOGX CEOM BUNGIA CG THOU TCU RMJDAEL LEA LTDPAFR RUO THTHYTNG H LFJHI R THAPTHEAAU WFY TIANGS XXEA TRGD SAYLOL A YCOEYGA BC WNUEOP ONFW PF CIBPIASTH IAECD RTEIDEA MWNR EO EOIWTH GAC OBN CBIASTH I CAPIATHSU UOEWF XP UL YDXRTHC LTHYGORETH JYPH FYF EAJLIANB FEWIAEA FAEICOEH FOES GYDTH OT AFSD "
+    }
+  ]
+}

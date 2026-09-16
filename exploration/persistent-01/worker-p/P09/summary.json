@@ -1,0 +1,110 @@
+{
+  "controls": [
+    {
+      "index": 0,
+      "n": 210,
+      "separators": 35,
+      "overlap": 8,
+      "models": {
+        "free": {
+          "key_correct": true,
+          "key_rank": 1,
+          "error_positions": [],
+          "path_correct": true,
+          "used_correct": true,
+          "complete": true,
+          "truth_lm": -2.844174205402057
+        },
+        "relocated_aware": {
+          "key_correct": true,
+          "key_rank": 1,
+          "error_positions": [],
+          "path_correct": true,
+          "used_correct": true,
+          "complete": true,
+          "truth_lm": -3.4854144948215326
+        }
+      }
+    },
+    {
+      "index": 1,
+      "n": 124,
+      "separators": 23,
+      "overlap": 5,
+      "models": {
+        "free": {
+          "key_correct": true,
+          "key_rank": 1,
+          "error_positions": [],
+          "path_correct": true,
+          "used_correct": true,
+          "complete": true,
+          "truth_lm": -2.438375085857498
+        },
+        "relocated_aware": {
+          "key_correct": true,
+          "key_rank": 1,
+          "error_positions": [],
+          "path_correct": true,
+          "used_correct": true,
+          "complete": true,
+          "truth_lm": -3.2635109168807452
+        }
+      }
+    },
+    {
+      "index": 2,
+      "n": 245,
+      "separators": 48,
+      "overlap": 11,
+      "models": {
+        "free": {
+          "key_correct": true,
+          "key_rank": 1,
+          "error_positions": [],
+          "path_correct": true,
+          "used_correct": true,
+          "complete": true,
+          "truth_lm": -2.5312523615412292
+        },
+        "relocated_aware": {
+          "key_correct": true,
+          "key_rank": 1,
+          "error_positions": [],
+          "path_correct": true,
+          "used_correct": true,
+          "complete": true,
+          "truth_lm": -3.5551773172196754
+        }
+      }
+    },
+    {
+      "index": 3,
+      "n": 140,
+      "separators": 25,
+      "overlap": 5,
+      "models": {
+        "free": {
+          "key_correct": true,
+          "key_rank": 1,
+          "error_positions": [],
+          "path_correct": true,
+          "used_correct": true,
+          "complete": true,
+          "truth_lm": -2.655165933563738
+        },
+        "relocated_aware": {
+          "key_correct": true,
+          "key_rank": 1,
+          "error_positions": [],
+          "path_correct": true,
+          "used_correct": true,
+          "complete": true,
+          "truth_lm": -3.264948495614385
+        }
+      }
+    }
+  ],
+  "gap_controls": [],
+  "real_authorized": false
+}

@@ -1,0 +1,92 @@
+{
+  "caesar": {
+    "path": "liber-primus/analysis/latin/latin_218.txt",
+    "sha256": "84ac8411841a4d8f5f4a49b6a2cd1f466917c6a5af72916d5e0b2b1ecb2f659c",
+    "raw_bytes": 169899,
+    "normalized_chars": 166844,
+    "body_span": [
+      1066,
+      148293
+    ],
+    "paragraphs": 230,
+    "runes": 120990,
+    "first_selected": [
+      {
+        "index": 0,
+        "span": [
+          1066,
+          1268
+        ],
+        "n": 159
+      },
+      {
+        "index": 1,
+        "span": [
+          1270,
+          1342
+        ],
+        "n": 60
+      }
+    ]
+  },
+  "newton": {
+    "path": "liber-primus/analysis/latin/latin_28233.txt",
+    "sha256": "cc3f9845acd902a26bb58e268499472da99c7c39d7825aa1a86ad8959450b2e8",
+    "raw_bytes": 851822,
+    "normalized_chars": 829001,
+    "body_span": [
+      2400,
+      806481
+    ],
+    "paragraphs": 2,
+    "runes": 334,
+    "first_selected": [
+      {
+        "index": 11,
+        "span": [
+          9652,
+          9924
+        ],
+        "n": 210
+      },
+      {
+        "index": 26,
+        "span": [
+          10920,
+          11072
+        ],
+        "n": 124
+      }
+    ]
+  },
+  "virgil": {
+    "path": "liber-primus/data/keys/armada19/virgil_aeneid_latin.txt",
+    "sha256": "adcda89e39c7429cbee028dbe3c246c3eab99b416c8a7a8ade71876446a141ca",
+    "raw_bytes": 474698,
+    "normalized_chars": 474594,
+    "body_span": [
+      782,
+      456098
+    ],
+    "paragraphs": 2,
+    "runes": 385,
+    "first_selected": [
+      {
+        "index": 0,
+        "span": [
+          782,
+          1102
+        ],
+        "n": 245
+      },
+      {
+        "index": 1,
+        "span": [
+          1105,
+          1284
+        ],
+        "n": 140
+      }
+    ]
+  }
+}

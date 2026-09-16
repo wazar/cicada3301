@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/review-13/check.py", line 92, in <module>
+    for x,y in zip(d,exhaustive):assert x['plain']==list(y[1]) and abs(x['joint_total']-y[0])<1e-10
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

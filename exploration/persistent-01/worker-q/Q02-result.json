@@ -1,0 +1,171 @@
+{
+  "controls": [
+    {
+      "terminals": [
+        20,
+        17,
+        5,
+        12,
+        9
+      ],
+      "observed": {
+        "a": 1,
+        "b": 4,
+        "train_hits": 3,
+        "held_hits": 2,
+        "predictions": [
+          12,
+          9
+        ],
+        "truth": [
+          12,
+          9
+        ]
+      },
+      "tail": 0.008333333333333333,
+      "score_histogram": [
+        107,
+        12,
+        1
+      ],
+      "minimum_attainable_tail": 0.008333333333333333,
+      "plant": {
+        "a": 1,
+        "b": 4
+      }
+    },
+    {
+      "terminals": [
+        7,
+        6,
+        13,
+        21,
+        9
+      ],
+      "observed": {
+        "a": 2,
+        "b": 5,
+        "train_hits": 3,
+        "held_hits": 2,
+        "predictions": [
+          21,
+          9
+        ],
+        "truth": [
+          21,
+          9
+        ]
+      },
+      "tail": 0.008333333333333333,
+      "score_histogram": [
+        107,
+        12,
+        1
+      ],
+      "minimum_attainable_tail": 0.008333333333333333,
+      "plant": {
+        "a": 2,
+        "b": 5
+      }
+    },
+    {
+      "terminals": [
+        19,
+        15,
+        5,
+        18,
+        1
+      ],
+      "observed": {
+        "a": 7,
+        "b": 10,
+        "train_hits": 3,
+        "held_hits": 2,
+        "predictions": [
+          18,
+          1
+        ],
+        "truth": [
+          18,
+          1
+        ]
+      },
+      "tail": 0.008333333333333333,
+      "score_histogram": [
+        110,
+        9,
+        1
+      ],
+      "minimum_attainable_tail": 0.008333333333333333,
+      "plant": {
+        "a": 7,
+        "b": 10
+      }
+    },
+    {
+      "terminals": [
+        14,
+        16,
+        6,
+        4,
+        11
+      ],
+      "observed": {
+        "a": 28,
+        "b": 2,
+        "train_hits": 3,
+        "held_hits": 2,
+        "predictions": [
+          4,
+          11
+        ],
+        "truth": [
+          4,
+          11
+        ]
+      },
+      "tail": 0.008333333333333333,
+      "score_histogram": [
+        109,
+        10,
+        1
+      ],
+      "minimum_attainable_tail": 0.008333333333333333,
+      "plant": {
+        "a": 28,
+        "b": 2
+      }
+    }
+  ],
+  "real": {
+    "terminals": [
+      24,
+      17,
+      7,
+      19,
+      5
+    ],
+    "observed": {
+      "a": 3,
+      "b": 24,
+      "train_hits": 2,
+      "held_hits": 0,
+      "predictions": [
+        4,
+        18
+      ],
+      "truth": [
+        19,
+        5
+      ]
+    },
+    "tail": 1.0,
+    "score_histogram": [
+      112,
+      8,
+      0
+    ],
+    "minimum_attainable_tail": 0.06666666666666667
+  },
+  "fits": 600
+}

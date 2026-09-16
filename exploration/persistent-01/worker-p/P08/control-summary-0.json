@@ -1,0 +1,29 @@
+{
+  "index": 0,
+  "source": "newton",
+  "n": 210,
+  "rejections": 3,
+  "seconds": 0.03899445800198009,
+  "models": {
+    "latin": {
+      "key_correct": true,
+      "key_rank": 1,
+      "best_errors": 0,
+      "correctkey_errors": 0,
+      "path_correct": true,
+      "used_correct": true,
+      "truth_lm": -2.5748673622459544,
+      "truth_joint": -2.577148948917687
+    },
+    "english": {
+      "key_correct": true,
+      "key_rank": 1,
+      "best_errors": 0,
+      "correctkey_errors": 0,
+      "path_correct": true,
+      "used_correct": true,
+      "truth_lm": -3.3284967406792836,
+      "truth_joint": -3.330778327351016
+    }
+  }
+}

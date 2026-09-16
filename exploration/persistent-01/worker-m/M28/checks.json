@@ -1,0 +1,40 @@
+{
+  "status": "PASS",
+  "searches": 280,
+  "all_top1_and_top16_paths": 19916,
+  "exact_stuttermask_nulls": 274,
+  "max_checked_key_index": 515,
+  "key_length": 132028,
+  "unsupported_positions": 0,
+  "finite_fallback_on_controls": 0,
+  "fixtures": [
+    {
+      "name": "control-0_welcome",
+      "source_length": 515,
+      "rejected_draws": 10,
+      "forced_eof": 0,
+      "cumulative_first_dead": 34
+    },
+    {
+      "name": "control-jpg107-167",
+      "source_length": 319,
+      "rejected_draws": 7,
+      "forced_eof": 0,
+      "cumulative_first_dead": 4
+    },
+    {
+      "name": "control-p56_an_end",
+      "source_length": 85,
+      "rejected_draws": 1,
+      "forced_eof": 0,
+      "cumulative_first_dead": 24
+    },
+    {
+      "name": "control-p57_parable",
+      "source_length": 95,
+      "rejected_draws": 5,
+      "forced_eof": 0,
+      "cumulative_first_dead": 30
+    }
+  ]
+}

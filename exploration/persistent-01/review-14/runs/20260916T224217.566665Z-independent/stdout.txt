@@ -1,0 +1,85 @@
+{
+  "status": "PASS",
+  "scalar_panels": [
+    {
+      "name": "real",
+      "score": -0.0031225107383871563,
+      "marker": 13
+    },
+    {
+      "name": "control-0",
+      "score": 0.12939147570351844,
+      "marker": 0
+    },
+    {
+      "name": "control-6",
+      "score": 0.06349718927132529,
+      "marker": 20
+    },
+    {
+      "name": "control-11",
+      "score": 0.07042007439934361,
+      "marker": 14
+    },
+    {
+      "name": "real-null-0",
+      "score": -0.004039643532928942,
+      "marker": 15
+    },
+    {
+      "name": "real-null-198",
+      "score": -0.0023229455760496167,
+      "marker": 28
+    },
+    {
+      "name": "control-0-null-0",
+      "score": -0.005419817487419611,
+      "marker": 7
+    },
+    {
+      "name": "control-6-null-18",
+      "score": -0.005039533973310813,
+      "marker": 24
+    }
+  ],
+  "all_packets": 440,
+  "marker_selections": 12760,
+  "tails": {
+    "control-0": 0.05,
+    "control-1": 0.05,
+    "control-2": 0.05,
+    "control-3": 0.05,
+    "control-4": 0.05,
+    "control-5": 0.05,
+    "control-6": 0.05,
+    "control-7": 0.05,
+    "control-8": 0.05,
+    "control-9": 0.05,
+    "control-10": 0.05,
+    "control-11": 0.05,
+    "real": 0.205
+  },
+  "control_generations_replayed": 12,
+  "null_generations_replayed": [
+    {
+      "name": "real",
+      "actual_seed": 331321
+    },
+    {
+      "name": "control-0",
+      "actual_seed": 331763
+    },
+    {
+      "name": "control-6",
+      "actual_seed": 331769
+    },
+    {
+      "name": "control-11",
+      "actual_seed": 331813
+    }
+  ],
+  "exact_conditional_mask_normalizations": 48,
+  "real_documented_seed": 330901,
+  "real_actual_seed": 331321,
+  "control_marker_matches": 12
+}

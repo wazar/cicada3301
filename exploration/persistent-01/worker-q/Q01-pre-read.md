@@ -1,0 +1,6 @@
+# Frozen neutral hypotheses, 2026-09-16T22:39Z
+Observed only originals36/37/38 images and F10 region/map input: five red numbered items, unequal rune and delimiter-unit lengths; item4 crosses page37/38; terminal separator marks occur inside as well as at item ends. Small red paragraph marks bracket list. No source image outside those3 viewed.
+A: five numbered propositions or procedural steps: separators retain prose grouping; ordering is rhetorical and rune values carry protected text.
+B: five variable-sized machine records: groups encode numeric fields or variable-sized binary content, with terminal/group redundancy providing format constraints; numbering orders records, not propositions.
+Selected direction for discrimination before reading previous findings: test complete-record algebraic integrity constraints (checksum or length fields), which make exact predictions without any English detector or guessed plaintext. Not prefix-length similarity or opcode arity. Freeze concrete family after targeted duplicate check.
+Context limits: parent withheld headline interpretation; inherited user AGENTS contains it and shared files are available. Thus limited-context fresh review, not strong blinding. Did inadvertently view f10.py when locating image paths, including its prefix-length test code; did not inspect its results before this freeze.

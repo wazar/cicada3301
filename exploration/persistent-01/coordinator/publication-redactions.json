@@ -180,5 +180,26 @@
     "original_sha256": "060099a73a44a8fec460168ad7fee811616bbfd1ee4a77b2754cb39cc5655d39",
     "published_sha256": "9f4632998b33949f735927806451cfa96c68a3cc196e0d549079173e2a9fb636",
     "change": "Only checkout prefix normalized in failed P06 geometry traceback; original retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/review-13/runs/20260916T223742.399276Z-independent/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/review-13/runs/20260916T223742.399276Z-independent/stderr.txt",
+    "original_sha256": "570dc2a49879001388cd9a515d1eb71824563eb29f1a9b461c6db9b56efb8491",
+    "published_sha256": "0e8c66fe943c5b364d7bb0aa26df81e64afb2c873a05f2f3199d392a5fbb1cf7",
+    "change": "Only local checkout prefix normalized in completed log; exact original retained locally."
+  },
+  {
+    "path": "exploration/persistent-01/review-13/runs/20260916T223801.559984Z-mismatch-diagnostic/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/review-13/runs/20260916T223801.559984Z-mismatch-diagnostic/stderr.txt",
+    "original_sha256": "a51c626fc5020e8c73c3d1b19a98caf597ef4804bc7f8cd9969fff6a979ff368",
+    "published_sha256": "80face067cc05d91d0e84e4e21d7ebccbf5c7328d653a800c37d9f1ead55400b",
+    "change": "Only local checkout prefix normalized in completed log; exact original retained locally."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/runs/20260916T223832.842369Z-p08-source-map-freeze/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/runs/20260916T223832.842369Z-p08-source-map-freeze/stderr.txt",
+    "original_sha256": "fda6c0aa08a3aa66fc723ce0a60fa384295460e98d290ad256d3f1b2b897a010",
+    "published_sha256": "608b8ae2577ee7baa01e9fe8c5b228c718643b6710b3b586185782c62ab98df8",
+    "change": "Only local checkout prefix normalized in completed log; exact original retained locally."
   }
 ]
