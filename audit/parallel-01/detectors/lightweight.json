@@ -1,0 +1,215 @@
+{
+  "handchecks": true,
+  "C011": {
+    "legacy_distinct": 1,
+    "legacy_symbol": 27,
+    "varied_distinct": 29
+  },
+  "judge_dispatch": [
+    {
+      "mode": "rigid",
+      "page_length": 3,
+      "sign": -1,
+      "o": 0
+    },
+    {
+      "mode": "rigid",
+      "page_length": 3,
+      "sign": 1,
+      "o": 0
+    },
+    {
+      "mode": "beam",
+      "page_length": 3,
+      "sign": -1,
+      "o": 0,
+      "beam_w": 400,
+      "max_skip": 3
+    },
+    {
+      "mode": "beam",
+      "page_length": 3,
+      "sign": 1,
+      "o": 0,
+      "beam_w": 400,
+      "max_skip": 3
+    },
+    {
+      "mode": "rigid",
+      "page_length": 4,
+      "sign": -1,
+      "o": 0
+    },
+    {
+      "mode": "rigid",
+      "page_length": 4,
+      "sign": 1,
+      "o": 0
+    },
+    {
+      "mode": "beam",
+      "page_length": 4,
+      "sign": -1,
+      "o": 0,
+      "beam_w": 400,
+      "max_skip": 3
+    },
+    {
+      "mode": "beam",
+      "page_length": 4,
+      "sign": 1,
+      "o": 0,
+      "beam_w": 400,
+      "max_skip": 3
+    }
+  ],
+  "null_dispatch": [
+    {
+      "mode": "beam",
+      "page_length": 3,
+      "sign": -1,
+      "o": 0,
+      "beam_w": 400,
+      "max_skip": 3
+    },
+    {
+      "mode": "beam",
+      "page_length": 3,
+      "sign": -1,
+      "o": 0,
+      "beam_w": 400,
+      "max_skip": 3
+    },
+    {
+      "mode": "beam",
+      "page_length": 3,
+      "sign": -1,
+      "o": 0,
+      "beam_w": 400,
+      "max_skip": 3
+    }
+  ],
+  "C016": {
+    "1": -5.415752407880083,
+    "31": -5.415752407880083,
+    "60": -5.415752407880083,
+    "120": -5.415752407880083,
+    "400": -5.415752407880083,
+    "12956": -5.415752407880083,
+    "None": -5.415752407880083
+  },
+  "C018_model": {
+    "blocked": "FileNotFoundError",
+    "expected_relative_path": "liber-primus/analysis/round19/I2/models/panel.npz"
+  },
+  "C019_record_arithmetic": {
+    "tested_surface_cells": 15,
+    "best_genuine_safe_catch": 0.8,
+    "heldout_catch": 0.8181818181818182,
+    "heldout_false_reject": 0.16666666666666666,
+    "fresh_population_rerun": false
+  },
+  "blind_reveal": {
+    "top": "candidate-6",
+    "correct": "candidate-6",
+    "match": true,
+    "decoded": {
+      "rows": [
+        {
+          "page": 0,
+          "choices": [
+            {
+              "mode": "rigid",
+              "sign": -1,
+              "score": -6.689207013769679,
+              "recovery": 0.2833333333333333,
+              "exact": false,
+              "alignment_length": 120
+            },
+            {
+              "mode": "rigid",
+              "sign": 1,
+              "score": -6.982177089501056,
+              "recovery": 0.008333333333333333,
+              "exact": false,
+              "alignment_length": 120
+            },
+            {
+              "mode": "beam",
+              "sign": -1,
+              "score": -4.341236660071718,
+              "recovery": 1.0,
+              "exact": true,
+              "alignment_length": 120
+            },
+            {
+              "mode": "beam",
+              "sign": 1,
+              "score": -6.982177089501056,
+              "recovery": 0.008333333333333333,
+              "exact": false,
+              "alignment_length": 120
+            }
+          ],
+          "best": {
+            "mode": "beam",
+            "sign": -1,
+            "score": -4.341236660071718,
+            "recovery": 1.0,
+            "exact": true,
+            "alignment_length": 120
+          }
+        },
+        {
+          "page": 1,
+          "choices": [
+            {
+              "mode": "rigid",
+              "sign": -1,
+              "score": -6.487699978124846,
+              "recovery": 0.31666666666666665,
+              "exact": false,
+              "alignment_length": 120
+            },
+            {
+              "mode": "rigid",
+              "sign": 1,
+              "score": -7.38193139730701,
+              "recovery": 0.025,
+              "exact": false,
+              "alignment_length": 120
+            },
+            {
+              "mode": "beam",
+              "sign": -1,
+              "score": -4.261622656713901,
+              "recovery": 1.0,
+              "exact": true,
+              "alignment_length": 120
+            },
+            {
+              "mode": "beam",
+              "sign": 1,
+              "score": -7.674761809739975,
+              "recovery": 0.025,
+              "exact": false,
+              "alignment_length": 120
+            }
+          ],
+          "best": {
+            "mode": "beam",
+            "sign": -1,
+            "score": -4.261622656713901,
+            "recovery": 1.0,
+            "exact": true,
+            "alignment_length": 120
+          }
+        }
+      ],
+      "best": -4.261622656713901,
+      "second": -4.341236660071718,
+      "english_accept": true
+    }
+  },
+  "C010_selftest_returncode": 0
+}

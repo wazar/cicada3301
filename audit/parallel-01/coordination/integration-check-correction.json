@@ -1,0 +1,7 @@
+{
+  "initial_exit": 1,
+  "initial_error": "Coordinator integrity helper incorrectly required every inherited evidence path to exist relative to repo root; original register contains research-relative paths and missing-evidence claims. Check narrowed to newly added audit evidence paths; original paths preserved.",
+  "stderr_before_redaction_sha256": "6bc70e09a43b633d1bb625bf7f725ffad71b81fa202d4e7fff81d35abfe346cf",
+  "redaction": "Private checkout prefix replaced by <REPO_ROOT>",
+  "scientific_results_changed": false
+}

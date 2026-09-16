@@ -1,0 +1,137 @@
+{
+  "local_vs_external": [
+    {
+      "case": "0_warning",
+      "local_sections": [
+        "Runes - 01.jpg"
+      ],
+      "local_count": 184,
+      "external_count": 184,
+      "input_first_difference": null,
+      "decode_first_difference": null,
+      "complete_match": true,
+      "context": null
+    },
+    {
+      "case": "0_welcome",
+      "local_sections": [
+        "03.jpg",
+        "04.jpg"
+      ],
+      "local_count": 515,
+      "external_count": 515,
+      "input_first_difference": null,
+      "decode_first_difference": null,
+      "complete_match": true,
+      "context": null
+    },
+    {
+      "case": "0_wisdom",
+      "local_sections": [
+        "05.jpg"
+      ],
+      "local_count": 157,
+      "external_count": 157,
+      "input_first_difference": null,
+      "decode_first_difference": null,
+      "complete_match": true,
+      "context": null
+    },
+    {
+      "case": "0_koan_1",
+      "local_sections": [
+        "06.jpg",
+        "09.jpg"
+      ],
+      "local_count": 780,
+      "external_count": 780,
+      "input_first_difference": null,
+      "decode_first_difference": null,
+      "complete_match": true,
+      "context": null
+    },
+    {
+      "case": "0_loss_of_divinity",
+      "local_sections": [
+        "10.jpg - index.1.jpg",
+        "13.jpg - index.4.jpg"
+      ],
+      "local_count": 754,
+      "external_count": 755,
+      "input_first_difference": 126,
+      "decode_first_difference": 126,
+      "complete_match": false,
+      "context": {
+        "position": 126,
+        "expected": "EFOLLOWNGTWOERRO",
+        "actual": "EFOLLWNGTWOERROR"
+      }
+    },
+    {
+      "case": "jpg107-167",
+      "local_sections": [
+        "14.jpg - 107.jpg"
+      ],
+      "local_count": 319,
+      "external_count": 319,
+      "input_first_difference": null,
+      "decode_first_difference": null,
+      "complete_match": true,
+      "context": null
+    },
+    {
+      "case": "jpg229",
+      "local_sections": [
+        "16.jpg - 229.jpg"
+      ],
+      "local_count": 89,
+      "external_count": 89,
+      "input_first_difference": null,
+      "decode_first_difference": null,
+      "complete_match": true,
+      "context": null
+    },
+    {
+      "case": "p56_an_end",
+      "local_sections": [
+        "73.jpg - 56.jpg"
+      ],
+      "local_count": 85,
+      "external_count": 85,
+      "input_first_difference": null,
+      "decode_first_difference": null,
+      "complete_match": true,
+      "context": null
+    },
+    {
+      "case": "p57_parable",
+      "local_sections": [
+        "74.jpg - 57.jpg"
+      ],
+      "local_count": 95,
+      "external_count": 95,
+      "input_first_difference": 80,
+      "decode_first_difference": 80,
+      "complete_match": false,
+      "context": {
+        "position": 80,
+        "expected": "UINITYWITHINANDE",
+        "actual": "UINITEWITHINANDE"
+      }
+    }
+  ],
+  "A_v1_lp2_joins": [
+    {
+      "original_filename": "56.jpg",
+      "segment_id": 55,
+      "first_difference": null,
+      "equal": true
+    },
+    {
+      "original_filename": "57.jpg",
+      "segment_id": 56,
+      "first_difference": null,
+      "equal": true
+    }
+  ]
+}

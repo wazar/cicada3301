@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/audit/parallel-01/coordination/check_integration.py", line 8, in <module>
+    for e in b['evidence_paths']:assert pathlib.Path(e).exists(),(b['id'],e)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: ('C-004', 'analysis/round19/T1/out_gread_lp2.json')

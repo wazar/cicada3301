@@ -1,0 +1,86 @@
+{
+  "recorded_utc": "2026-09-16T17:43:33.061441+00:00",
+  "python": "3.12.14",
+  "environment": {
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "PYTHONDONTWRITEBYTECODE": "1"
+  },
+  "runs": [
+    {
+      "argv": [
+        ".venv/bin/python",
+        "-B",
+        "audit/parallel-01/review/recheck.py"
+      ],
+      "exit": 0,
+      "observed_tool_wall_seconds": 0.786497375,
+      "stdout": "rerun.stdout.txt",
+      "stderr": "rerun.stderr.txt"
+    },
+    {
+      "argv": [
+        ".venv/bin/python",
+        "-B",
+        "audit/parallel-01/review/check_d.py"
+      ],
+      "exit": 0,
+      "stdout": "statistics.stdout.txt",
+      "stderr": "statistics.stderr.txt"
+    }
+  ],
+  "limits": "All calls below300s; runner child fixtures have .2s timeout and each parent30s. No inherited puzzle commands or downloads. No git writes; wrapper git helper mocked inert in temporary fixture.",
+  "sha256": {
+    "liber-primus/data/krisyotam_runes.txt": "5e0003aa7f7dde3b238d17c5f964790dbf6bf9db5edacc4a5ec0bad81c6f4bce",
+    "audit/parallel-01/inputs/dataset.json": "e3d8a8b7a81f00e17d54209772eee7bedb5b922e6176ca722be31f952eaea895",
+    "audit/parallel-01/inputs/page-map.json": "f59bf8d94c86a06cf620b5368eabb27dfebc62fbf39b38e467636785762f4cba",
+    "audit/parallel-01/inputs/parse_inputs.py": "dd83703b892c4908d361f534785908c27cde9e2d890a89d6d6fbdab700fb9f0d",
+    "audit/parallel-01/reference/reference.py": "9d0f285f7137c69e0d464cab996ffb91aa75819610d7b26e3ce13c37d3de342e",
+    "audit/parallel-01/reference/fixtures.py": "5b108cc2ed2a30f52aebbb0613375f7a4c995e809bd3239ec307ab427c9270d4",
+    "audit/parallel-01/detectors/checks.py": "e31d90978fa883adec774f69cf39fcd96471330d8f2f4ed64747579908c8763e",
+    "audit/parallel-01/detectors/main.py": "9f5f2e686654097e1f9101147794ec44300a30c8dbc347980df9e1f92a641946",
+    "audit/parallel-01/statistics/check_statistics.py": "b58e91a34a99b91a0048f2ad37f5fc3780c77333ddd8b672fabb4e778cc078b2",
+    "audit/tools/run_t0.py": "9a3e4b05d22ceea9fa361b6340881cfdcd72b362c276346420879c6d5752e05f",
+    "audit/parallel-01/reference/sources/solved_0_wisdom.txt": "4363dc279d01ac8866011988d0422a31bf608940abccaa37368c689099f52efe",
+    "audit/parallel-01/reference/sources/solved_0_koan_1.txt": "5aaae7ee19dfb46a41d5e10f975b5a252b82b6e18b49116a9f99b31a2fbee06c",
+    "audit/parallel-01/reference/sources/0_warning.txt": "95cce402926587b7f8daf34f11669bc7cfc14f2688e3691d15c13e5332d35959",
+    "audit/parallel-01/reference/sources/solved_0_warning.txt": "c6ca9c1952307bd55866e22b9f868163bca493893162baefdba71cb9e1a206d9",
+    "audit/parallel-01/reference/sources/0_loss_of_divinity.txt": "f5fac68b00bc75e4edf867eb3a9084ca98e9796934df8ede3e673b2f75e3617b",
+    "audit/parallel-01/reference/sources/solved_0_loss_of_divinity.txt": "10954c8d61744ceb453e9b553e52cd3e01289d12b727c521e21bc0594f0e0c91",
+    "audit/parallel-01/reference/sources/jpg229.txt": "7e80e7997057a60706a6eaa59b97167ec9415916540f53743db30990e18564c4",
+    "audit/parallel-01/reference/sources/p57_parable.txt": "c2ddff01c66c6ed3a0bc3ab1b5a4cc441c58e38bcc0753ca3d1590ec40db7102",
+    "audit/parallel-01/reference/sources/solved_jpg107-167.txt": "2dd885e1785ffee22692901167edb1a37a0fae87c7d765bf53f799b108663b6c",
+    "audit/parallel-01/reference/sources/solved_p56_an_end.txt": "3b82bf89e740dde1d1f8261ddf17e028f7d4bbc8933a1e972a564822f4e4d511",
+    "audit/parallel-01/reference/sources/solved_p57_parable.txt": "63c685205fcc753364d12ea72f7e120c6eba4031ab658cdf6fbf3da1d8749f25",
+    "audit/parallel-01/reference/sources/solved_0_welcome.txt": "95caaffb0ae764801bb023ba8eda15b49366cb3258aab9e26922e89e884c7b73",
+    "audit/parallel-01/reference/sources/solved_jpg229.txt": "67635c556f84b1fe8319f0300d4378d8f1dc664d779c1f0f69c4cb272c87c181",
+    "audit/parallel-01/reference/sources/p56_an_end.txt": "ad3b79a3b1d21e696fff8d95c7652784a930a07a7b41b436f2ddbb7f0c8b886f",
+    "audit/parallel-01/reference/sources/0_koan_1.txt": "615c05cdb46b22b1e626a946af2b1691f7f0e2213663207653ee002a386a2485",
+    "audit/parallel-01/reference/sources/0_welcome.txt": "f541d233700fe1244e5bd11b2ae6e73f5aac3c8a14cfee9f2321a063d7b7b979",
+    "audit/parallel-01/reference/sources/0_wisdom.txt": "e5158a362c43173c7af3203de1056fff3567da1c8b0e038816b1c80e58fa45c7",
+    "audit/parallel-01/reference/sources/jpg107-167.txt": "4d2a9a4487a353a8d9c2db4a30304cc07f022a360b3507db4b471cbc341246e1",
+    "audit/parallel-01/review/exit2.stdout.txt": "10773fe30fa9b929ab9145266364e080a63bd12f2a4972a7a8343c0df5e299f6",
+    "audit/parallel-01/review/check_d.py": "5629c07e798211b323407311ea869f4cf037f2e1daf82f628613e0bd196debff",
+    "audit/parallel-01/review/statistics-check.json": "c3c3de7e3b090952b6c42201b4782e6226687aba2b71407cf75f84b07f3a3915",
+    "audit/parallel-01/review/rerun.stdout.txt": "6da9f21f2d4544243cf8f8042a724a48ede7c701dd9efc94c02f7db5f5646a1e",
+    "audit/parallel-01/review/success.stdout.txt": "4792dea1929bc488a2eb1fc9d4923194994605185c208db899e506816aae8cca",
+    "audit/parallel-01/review/timeout.stdout.txt": "476b0981af35ff9b66d44c38c3ed99d481d6fd39a4bcb77f799745b3655c4bfc",
+    "audit/parallel-01/review/REPORT.md": "c748390eb35f4bac0b94a8f0b7098c0d406ca5e6008774e8329e9e29c0510719",
+    "audit/parallel-01/review/statistics.stdout.txt": "ff1f70c9ea538ad6e919bda07984d2aaac634c6f19034dcd080463f404f107ef",
+    "audit/parallel-01/review/results.json": "6da9f21f2d4544243cf8f8042a724a48ede7c701dd9efc94c02f7db5f5646a1e",
+    "audit/parallel-01/review/launch.stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "audit/parallel-01/review/signal.stdout.txt": "eb38ba2161c53b9c4ed10c02db4e514c7d43b0620f40d89c5f9bcd06b7d01470",
+    "audit/parallel-01/review/finalize.py": "f0e15331d98cf52da79ba0e7294634a10ac0efb37ee16a9685bddacf326d1a19",
+    "audit/parallel-01/review/exit1.stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "audit/parallel-01/review/exit2.stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "audit/parallel-01/review/timeout.stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "audit/parallel-01/review/rerun.stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "audit/parallel-01/review/success.stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "audit/parallel-01/review/statistics.stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "audit/parallel-01/review/recheck.py": "4fe9a788c39cc25bb194dc3a4b02034309c1e181eaf4aec951b548104ac24080",
+    "audit/parallel-01/review/exit1.stdout.txt": "54b03fed5ad98979c02aaeedbc75608e68b833070c95a39369c35a3b9064f622",
+    "audit/parallel-01/review/launch.stdout.txt": "441ce8820c5d062ae0f5e9bd4b668bb0b7c17feb9c0e6ba6a23006e4cfed8856",
+    "audit/parallel-01/review/signal.stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

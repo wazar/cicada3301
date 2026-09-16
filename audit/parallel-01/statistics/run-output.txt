@@ -1,0 +1,175 @@
+PASS: formula, parser, convolution, dependence, short-key, filter-equivalence, reset handtests
+{
+  "source": "liber-primus/data/krisyotam_runes.txt",
+  "source_sha256": "5e0003aa7f7dde3b238d17c5f964790dbf6bf9db5edacc4a5ec0bad81c6f4bce",
+  "parser_sha256": "b58e91a34a99b91a0048f2ad37f5fc3780c77333ddd8b672fabb4e778cc078b2",
+  "input_version": "parallel-01-inputs-v1",
+  "input_export_sha256": "e3d8a8b7a81f00e17d54209772eee7bedb5b922e6176ca722be31f952eaea895",
+  "page_map_sha256": "f59bf8d94c86a06cf620b5368eabb27dfebc62fbf39b38e467636785762f4cba",
+  "all_57_arrays_and_source_positions_match": true,
+  "unsolved_hash": "023312066df471005264b9cbe7997cb77d2a9a6a2dc9b3316d22674023af1585",
+  "overall": {
+    "n": 12956,
+    "pairs": 12955,
+    "equal": 86,
+    "entropy_bits": 4.85650361370827,
+    "ioc": 0.03447839786450569,
+    "frequencies": [
+      458,
+      450,
+      455,
+      458,
+      424,
+      443,
+      438,
+      401,
+      414,
+      446,
+      471,
+      450,
+      399,
+      445,
+      458,
+      434,
+      442,
+      445,
+      439,
+      436,
+      460,
+      454,
+      492,
+      439,
+      482,
+      445,
+      448,
+      470,
+      460
+    ]
+  },
+  "ioc_times_29": 0.999873538070665,
+  "within_pages_pairs": 12901,
+  "within_pages_equal": 86,
+  "categories": {
+    "literal_adjacent_runes": {
+      "pairs": 9640,
+      "equal": 60
+    },
+    "within_line_separator": {
+      "pairs": 2722,
+      "equal": 22
+    },
+    "slash_line_join": {
+      "pairs": 539,
+      "equal": 4
+    },
+    "page_join": {
+      "pairs": 54,
+      "equal": 0
+    }
+  },
+  "sensitivity": [
+    {
+      "case": "any_one_rune_substitution",
+      "trials": 362768,
+      "equal_min": 85,
+      "equal_max": 88,
+      "entropy_min": 4.856480030493461,
+      "entropy_max": 4.856526691513242,
+      "ioc_min": 0.03447730161485914,
+      "ioc_max": 0.03447951794566629
+    },
+    {
+      "case": "exclude_mixed_p49_p51",
+      "stats": {
+        "n": 12798,
+        "pairs": 12797,
+        "equal": 85,
+        "entropy_bits": 4.856516300949152,
+        "ioc": 0.034476808525908245,
+        "frequencies": [
+          452,
+          446,
+          451,
+          457,
+          421,
+          440,
+          433,
+          394,
+          412,
+          441,
+          466,
+          442,
+          395,
+          438,
+          456,
+          429,
+          437,
+          438,
+          433,
+          425,
+          453,
+          449,
+          485,
+          432,
+          472,
+          439,
+          443,
+          463,
+          456
+        ]
+      },
+      "warning": "flattened remaining runes; new joins created"
+    },
+    {
+      "case": "include_solved_p56_p57",
+      "stats": {
+        "n": 13136,
+        "pairs": 13135,
+        "equal": 89,
+        "entropy_bits": 4.856542848587519,
+        "ioc": 0.03447729866044872,
+        "frequencies": [
+          466,
+          459,
+          461,
+          465,
+          436,
+          453,
+          442,
+          409,
+          416,
+          459,
+          481,
+          453,
+          400,
+          448,
+          460,
+          442,
+          448,
+          447,
+          456,
+          442,
+          466,
+          458,
+          493,
+          448,
+          489,
+          452,
+          452,
+          473,
+          462
+        ]
+      },
+      "warning": "flattened remaining runes; new joins created"
+    }
+  ],
+  "boundary_uniform_zero_probability": 0.15032866680938947,
+  "boundary_zero_one_sided_95_upper": 0.05396576709737633,
+  "uniform_expected_equal": 446.7241379310345,
+  "suppression_relative_uniform": 0.8074874565804708,
+  "repeat_accept_probability_under_uniform_rejection": 0.1871163260548605,
+  "working_commit": "95e11e918ace77a51de4b612a48e74c298e67e58",
+  "baseline": "396001a9ce55e0e85ddef19e405afc6a13954588",
+  "python": "3.12.14 (main, Aug 12 2026, 13:57:54) [Clang 21.0.0 (clang-2100.3.34.2)]",
+  "random_seeds": []
+}

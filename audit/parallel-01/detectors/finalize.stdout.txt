@@ -1,0 +1,55 @@
+[
+  {
+    "L": 60,
+    "construction": "reset",
+    "register": "english",
+    "positive_n": 20,
+    "accepted": 20,
+    "selected_exact_pages": 40,
+    "selected_mean_rune_recovery": 1.0,
+    "wrong_n": 100,
+    "wrong_accepted": 0,
+    "zero_false_accept_one_sided_95_upper": 0.029513049607039932,
+    "twenty_of_twenty_two_sided_95_lower": 0.8315665290169146
+  },
+  {
+    "L": 120,
+    "construction": "reset",
+    "register": "english",
+    "positive_n": 20,
+    "accepted": 20,
+    "selected_exact_pages": 39,
+    "selected_mean_rune_recovery": 0.9997916666666666,
+    "wrong_n": 100,
+    "wrong_accepted": 0,
+    "zero_false_accept_one_sided_95_upper": 0.029513049607039932,
+    "twenty_of_twenty_two_sided_95_lower": 0.8315665290169146
+  },
+  {
+    "L": 120,
+    "construction": "continuous",
+    "register": "english",
+    "positive_n": 20,
+    "accepted": 0,
+    "selected_exact_pages": 19,
+    "selected_mean_rune_recovery": 0.519375
+  },
+  {
+    "L": 120,
+    "construction": "skip2",
+    "register": "english",
+    "positive_n": 20,
+    "accepted": 2,
+    "selected_exact_pages": 1,
+    "selected_mean_rune_recovery": 0.36375
+  },
+  {
+    "L": 120,
+    "construction": "reset",
+    "register": "novowel",
+    "positive_n": 20,
+    "accepted": 0,
+    "selected_exact_pages": 0,
+    "selected_mean_rune_recovery": 0.21354166666666666
+  }
+]

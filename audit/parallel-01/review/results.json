@@ -1,0 +1,417 @@
+{
+  "input": {
+    "runes": 12956,
+    "hash": "023312066df471005264b9cbe7997cb77d2a9a6a2dc9b3316d22674023af1585",
+    "within_page_pairs": 86,
+    "within_page_denominator": 12901,
+    "combined_pairs": 86,
+    "combined_denominator": 12955,
+    "page_join_equalities": []
+  },
+  "complete_reference_reruns": [
+    {
+      "case": "0_warning",
+      "runes": 184,
+      "complete_equal": true
+    },
+    {
+      "case": "0_welcome",
+      "runes": 515,
+      "complete_equal": true
+    },
+    {
+      "case": "0_wisdom",
+      "runes": 157,
+      "complete_equal": true
+    },
+    {
+      "case": "0_koan_1",
+      "runes": 780,
+      "complete_equal": true
+    },
+    {
+      "case": "0_loss_of_divinity",
+      "runes": 755,
+      "complete_equal": true
+    },
+    {
+      "case": "jpg107-167",
+      "runes": 319,
+      "complete_equal": true
+    },
+    {
+      "case": "jpg229",
+      "runes": 89,
+      "complete_equal": true
+    },
+    {
+      "case": "p56_an_end",
+      "runes": 85,
+      "complete_equal": true
+    },
+    {
+      "case": "p57_parable",
+      "runes": 95,
+      "complete_equal": true
+    }
+  ],
+  "independent_totient": {
+    "runes": 85,
+    "complete_equal": true,
+    "key_symbols_consumed": 84
+  },
+  "constant_wrong_key": {
+    "legacy_unique": 1,
+    "legacy_symbol": 27,
+    "varied_unique": 29
+  },
+  "detector_probes": [
+    {
+      "construction": "reset",
+      "seed": 52001,
+      "result": {
+        "rows": [
+          {
+            "page": 0,
+            "choices": [
+              {
+                "mode": "rigid",
+                "sign": -1,
+                "score": -4.327449908471574,
+                "recovery": 0.8916666666666667,
+                "exact": false,
+                "alignment_length": 120
+              },
+              {
+                "mode": "rigid",
+                "sign": 1,
+                "score": -7.534858767597431,
+                "recovery": 0.008333333333333333,
+                "exact": false,
+                "alignment_length": 120
+              },
+              {
+                "mode": "beam",
+                "sign": -1,
+                "score": -3.95802779443803,
+                "recovery": 1.0,
+                "exact": true,
+                "alignment_length": 120
+              },
+              {
+                "mode": "beam",
+                "sign": 1,
+                "score": -7.143579044025906,
+                "recovery": 0.016666666666666666,
+                "exact": false,
+                "alignment_length": 120
+              }
+            ],
+            "best": {
+              "mode": "beam",
+              "sign": -1,
+              "score": -3.95802779443803,
+              "recovery": 1.0,
+              "exact": true,
+              "alignment_length": 120
+            }
+          },
+          {
+            "page": 1,
+            "choices": [
+              {
+                "mode": "rigid",
+                "sign": -1,
+                "score": -6.988768715382605,
+                "recovery": 0.25833333333333336,
+                "exact": false,
+                "alignment_length": 120
+              },
+              {
+                "mode": "rigid",
+                "sign": 1,
+                "score": -7.808551471488798,
+                "recovery": 0.05,
+                "exact": false,
+                "alignment_length": 120
+              },
+              {
+                "mode": "beam",
+                "sign": -1,
+                "score": -3.9224063330747843,
+                "recovery": 1.0,
+                "exact": true,
+                "alignment_length": 120
+              },
+              {
+                "mode": "beam",
+                "sign": 1,
+                "score": -7.16847588880559,
+                "recovery": 0.025,
+                "exact": false,
+                "alignment_length": 120
+              }
+            ],
+            "best": {
+              "mode": "beam",
+              "sign": -1,
+              "score": -3.9224063330747843,
+              "recovery": 1.0,
+              "exact": true,
+              "alignment_length": 120
+            }
+          }
+        ],
+        "best": -3.9224063330747843,
+        "second": -3.95802779443803,
+        "english_accept": true
+      }
+    },
+    {
+      "construction": "skip2",
+      "seed": 52001,
+      "result": {
+        "rows": [
+          {
+            "page": 0,
+            "choices": [
+              {
+                "mode": "rigid",
+                "sign": -1,
+                "score": -4.497073850824492,
+                "recovery": 0.8916666666666667,
+                "exact": false,
+                "alignment_length": 120
+              },
+              {
+                "mode": "rigid",
+                "sign": 1,
+                "score": -7.545841021895256,
+                "recovery": 0.008333333333333333,
+                "exact": false,
+                "alignment_length": 120
+              },
+              {
+                "mode": "beam",
+                "sign": -1,
+                "score": -4.349177571096744,
+                "recovery": 0.8666666666666667,
+                "exact": false,
+                "alignment_length": 120
+              },
+              {
+                "mode": "beam",
+                "sign": 1,
+                "score": -7.054179219929876,
+                "recovery": 0.016666666666666666,
+                "exact": false,
+                "alignment_length": 120
+              }
+            ],
+            "best": {
+              "mode": "beam",
+              "sign": -1,
+              "score": -4.349177571096744,
+              "recovery": 0.8666666666666667,
+              "exact": false,
+              "alignment_length": 120
+            }
+          },
+          {
+            "page": 1,
+            "choices": [
+              {
+                "mode": "rigid",
+                "sign": -1,
+                "score": -7.101153218335454,
+                "recovery": 0.225,
+                "exact": false,
+                "alignment_length": 120
+              },
+              {
+                "mode": "rigid",
+                "sign": 1,
+                "score": -7.871608687887118,
+                "recovery": 0.05,
+                "exact": false,
+                "alignment_length": 120
+              },
+              {
+                "mode": "beam",
+                "sign": -1,
+                "score": -6.906840182235583,
+                "recovery": 0.25833333333333336,
+                "exact": false,
+                "alignment_length": 120
+              },
+              {
+                "mode": "beam",
+                "sign": 1,
+                "score": -7.716410339786724,
+                "recovery": 0.025,
+                "exact": false,
+                "alignment_length": 120
+              }
+            ],
+            "best": {
+              "mode": "beam",
+              "sign": -1,
+              "score": -6.906840182235583,
+              "recovery": 0.25833333333333336,
+              "exact": false,
+              "alignment_length": 120
+            }
+          }
+        ],
+        "best": -4.349177571096744,
+        "second": -6.906840182235583,
+        "english_accept": false
+      }
+    },
+    {
+      "construction": "continuous",
+      "seed": 52001,
+      "result": {
+        "rows": [
+          {
+            "page": 0,
+            "choices": [
+              {
+                "mode": "rigid",
+                "sign": -1,
+                "score": -4.327449908471574,
+                "recovery": 0.8916666666666667,
+                "exact": false,
+                "alignment_length": 120
+              },
+              {
+                "mode": "rigid",
+                "sign": 1,
+                "score": -7.534858767597431,
+                "recovery": 0.008333333333333333,
+                "exact": false,
+                "alignment_length": 120
+              },
+              {
+                "mode": "beam",
+                "sign": -1,
+                "score": -3.95802779443803,
+                "recovery": 1.0,
+                "exact": true,
+                "alignment_length": 120
+              },
+              {
+                "mode": "beam",
+                "sign": 1,
+                "score": -7.143579044025906,
+                "recovery": 0.016666666666666666,
+                "exact": false,
+                "alignment_length": 120
+              }
+            ],
+            "best": {
+              "mode": "beam",
+              "sign": -1,
+              "score": -3.95802779443803,
+              "recovery": 1.0,
+              "exact": true,
+              "alignment_length": 120
+            }
+          },
+          {
+            "page": 1,
+            "choices": [
+              {
+                "mode": "rigid",
+                "sign": -1,
+                "score": -7.66348530133005,
+                "recovery": 0.03333333333333333,
+                "exact": false,
+                "alignment_length": 120
+              },
+              {
+                "mode": "rigid",
+                "sign": 1,
+                "score": -7.2938701240715424,
+                "recovery": 0.025,
+                "exact": false,
+                "alignment_length": 120
+              },
+              {
+                "mode": "beam",
+                "sign": -1,
+                "score": -7.63403762296172,
+                "recovery": 0.016666666666666666,
+                "exact": false,
+                "alignment_length": 120
+              },
+              {
+                "mode": "beam",
+                "sign": 1,
+                "score": -7.169015872223126,
+                "recovery": 0.025,
+                "exact": false,
+                "alignment_length": 120
+              }
+            ],
+            "best": {
+              "mode": "beam",
+              "sign": 1,
+              "score": -7.169015872223126,
+              "recovery": 0.025,
+              "exact": false,
+              "alignment_length": 120
+            }
+          }
+        ],
+        "best": -3.95802779443803,
+        "second": -7.169015872223126,
+        "english_accept": false
+      }
+    }
+  ],
+  "runner": [
+    {
+      "case": "success",
+      "parent_exit": 0,
+      "child_exit": 0,
+      "outcome": "PASS",
+      "continued": true
+    },
+    {
+      "case": "exit1",
+      "parent_exit": 1,
+      "child_exit": 1,
+      "outcome": "NONZERO_REQUIRES_REVIEW",
+      "continued": true
+    },
+    {
+      "case": "exit2",
+      "parent_exit": 1,
+      "child_exit": 2,
+      "outcome": "NONZERO_REQUIRES_REVIEW",
+      "continued": true
+    },
+    {
+      "case": "signal",
+      "parent_exit": 1,
+      "child_exit": -15,
+      "outcome": "NONZERO_REQUIRES_REVIEW",
+      "continued": true
+    },
+    {
+      "case": "timeout",
+      "parent_exit": 1,
+      "child_exit": -9,
+      "outcome": "TIMEOUT",
+      "continued": true
+    },
+    {
+      "case": "launch",
+      "parent_exit": 1,
+      "child_exit": null,
+      "outcome": "ERROR",
+      "continued": true
+    }
+  ]
+}

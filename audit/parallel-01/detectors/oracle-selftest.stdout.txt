@@ -1,0 +1,23 @@
+==========================================================================
+ORACLE SELF-TEST — can this adjudicator recognise a KNOWN-GOOD solution?
+==========================================================================
+
+planted 3 synthetic pages, doublet rate 0.0000 (real LP2 is 0.0066)
+
+CORRECT key:
+    page 0  beam   -4.139  WELCOMEPILGRIMTOTHEGREATJOURNEYTOWARDTHEENDOFALLTHIN
+    page 1  beam   -4.307  NENDTOALLSTRUGGLEANDSUFFERINGYOURINNOCENCEYOURILLUSI
+    page 2  beam   -4.321  EDTHETOTIENTFUNCTIONISSACREDALLTHINGSSHOULDBEENCRYPT
+    null max -6.962  bar -5.500  pages passing 3  -> oracle says PASS
+
+WRONG key:
+    page 0  rigid  -7.294  JOEAHSMFWDTHOEFRMYIAMAEIAOEPEAAAEIAWIHWPAEEFAFIABXLR
+    page 1  rigid  -7.455  BYBUOWIEHUWREAILMLCTRBYUAENRGIAFTPCMNGCRDTHNGREONAEY
+    page 2  rigid  -7.364  OEIAGNGEAOIARTHLOAEANSJIAIUEAFIAHIAUNGAXUBANGYGNGRTH
+    null max -7.105  bar -5.500  pages passing 0  -> oracle says FAIL
+
+==========================================================================
+SELF-TEST: PASS
+==========================================================================
+The oracle accepts a known-good key and rejects a wrong one. Verdicts
+from it are meaningful.

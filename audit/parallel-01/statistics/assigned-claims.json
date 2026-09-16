@@ -1,0 +1,451 @@
+[
+  {
+    "id": "C-020",
+    "claim": "The unsolved stream is reported to contain 86 equal adjacent pairs: 86/12,955 flattened or 86/12,901 within pages.",
+    "kind": "measurement",
+    "source": {
+      "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+      "path": "liber-primus/analysis/round12/D2/RESULTS.md",
+      "lines": "26-29",
+      "excerpt": "0.664% over 12,955 pairs. Recomputed PER-PAGE (no cross-page adjacency) = 0.667%\nover 12,901 pairs. The 54 cross-page join pairs contain **0** doublets. The join\nconvention changes the rate by 0.003 pp \u2014 nil. Not an artifact.\n"
+    },
+    "additional_sources": [],
+    "depends_on": [
+      "C-001",
+      "C-002",
+      "C-003",
+      "C-005"
+    ],
+    "assumptions": [
+      "Rune classification and ordering correct",
+      "Boundary/normalisation convention explicit"
+    ],
+    "tested_scope": {
+      "T1": "Source and existing-record inspection only; no research rerun.",
+      "reported_or_source_scope": "R12 D2 and R18 L7-C report same count; D2 reimplements counting but shares rune mapping and input.",
+      "inherited_ledger_bounds": [
+        {
+          "id": "R12-D2",
+          "status": "eliminated",
+          "coverage": "Every load-bearing number, recomputed with independent code.",
+          "not_covered": null,
+          "positive_control": "passed"
+        },
+        {
+          "id": "L7-C-HEADLINE-STATS",
+          "status": "audit",
+          "coverage": "n, doublet count and rate, IoC*N, entropy and lag-1 suppression, recomputed from the pinned runes with independently written code.",
+          "not_covered": null,
+          "positive_control": null
+        }
+      ]
+    },
+    "not_tested": [
+      "T1 independent recomputation",
+      "Disputed glyph sensitivity",
+      "Boundary-map validation"
+    ],
+    "reproduce_command": null,
+    "expected_result": "The unsolved stream is reported to contain 86 equal adjacent pairs: 86/12,955 flattened or 86/12,901 within pages.",
+    "observed_result": "Source states or implements the cited claim. Historical measurements are not independently reproduced in T1.",
+    "evidence_paths": [
+      "liber-primus/analysis/round12/D2/RESULTS.md",
+      "liber-primus/analysis/round12/D2/recompute.py",
+      "liber-primus/src/lp/stats.py"
+    ],
+    "status": "SOURCE_CHECKED",
+    "impact_if_wrong": "The main mechanism argument rests on this statistic.",
+    "next_check": "T5 after T2: independently compute counts per image/segment/line and perturb uncertain glyphs.",
+    "inherited_ledger_ids": [
+      "R12-D2",
+      "L7-C-HEADLINE-STATS"
+    ],
+    "provenance_note": "Generated summaries, ledger rows and results prose are derived records, not independent replications."
+  },
+  {
+    "id": "C-021",
+    "claim": "IoC x 29 is reported as .999874 and monogram Shannon entropy as 4.856504 bits.",
+    "kind": "measurement",
+    "source": {
+      "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+      "path": "liber-primus/analysis/round18/L7-redteam/RESULTS.md",
+      "lines": "315-318",
+      "excerpt": "| IoC \u00d7 N | **0.999874** | 0.9999 |\n| entropy | **4.856504 bits** | 4.8565 |\n| lag-1 suppression | **80.746 %** | 80.75 % |\n"
+    },
+    "additional_sources": [],
+    "depends_on": [
+      "C-001",
+      "C-002",
+      "C-003"
+    ],
+    "assumptions": [
+      "Marginal summaries are not tests of all higher-order structure",
+      "Denominators use the same data version"
+    ],
+    "tested_scope": {
+      "T1": "Source and existing-record inspection only; no research rerun.",
+      "reported_or_source_scope": "Aggregate monogram counts in inherited results; per-page variation also described.",
+      "inherited_ledger_bounds": [
+        {
+          "id": "L7-C-HEADLINE-STATS",
+          "status": "audit",
+          "coverage": "n, doublet count and rate, IoC*N, entropy and lag-1 suppression, recomputed from the pinned runes with independently written code.",
+          "not_covered": null,
+          "positive_control": null
+        }
+      ]
+    },
+    "not_tested": [
+      "T1 independent calculation",
+      "All higher-order structure",
+      "Unique generating mechanism"
+    ],
+    "reproduce_command": null,
+    "expected_result": "IoC x 29 is reported as .999874 and monogram Shannon entropy as 4.856504 bits.",
+    "observed_result": "Source states or implements the cited claim. Historical measurements are not independently reproduced in T1.",
+    "evidence_paths": [
+      "liber-primus/analysis/round18/L7-redteam/RESULTS.md",
+      "liber-primus/analysis/round12/D2/recompute.py"
+    ],
+    "status": "SOURCE_CHECKED",
+    "impact_if_wrong": "Near-uniform marginals alone cannot establish ciphertext randomness or cipher identity.",
+    "next_check": "T5: independent formulas and per-page/section tables with explicit scope.",
+    "inherited_ledger_ids": [
+      "L7-C-HEADLINE-STATS"
+    ],
+    "provenance_note": "Generated summaries, ledger rows and results prose are derived records, not independent replications."
+  },
+  {
+    "id": "C-022",
+    "claim": "For independent plaintext/key increments in an additive model, the expected doublet probability is a weighted sum bounded by the minimum plaintext increment probability.",
+    "kind": "interpretation",
+    "source": {
+      "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+      "path": "liber-primus/analysis/round10b/B4-otp-steelman/b4_identifiability.py",
+      "lines": "181-184",
+      "excerpt": "p(\"     P(c_i = c_{i-1}) = P(Dp + Dk = 0) = sum_d Pdp(d) * Pdk(-d)  >=  min_d Pdp(d)\")\np(\"  This class contains: every external one-time pad, every PRNG/hash keystream,\")\np(\"  every raw keytext, every TRANSFORMED keytext, every long derived key.\")\np(\"  If min_d Pdp(d) > 0.664%, the observed rate refutes the WHOLE class.\\n\")"
+    },
+    "additional_sources": [],
+    "depends_on": [
+      "C-020"
+    ],
+    "assumptions": [
+      "Additive mod-29 construction",
+      "Independence of increments at the relevant positions",
+      "Population model, not a deterministic lower bound on every finite sample",
+      "Mixtures/position dependence handled explicitly"
+    ],
+    "tested_scope": {
+      "T1": "Source and existing-record inspection only; no research rerun.",
+      "reported_or_source_scope": "Code states convolution inequality and compares large-corpus empirical floors to observed finite stream.",
+      "inherited_ledger_bounds": []
+    },
+    "not_tested": [
+      "Finite-sample tail bound",
+      "Unknown plaintext law",
+      "Correlated/nonstationary key and text"
+    ],
+    "reproduce_command": null,
+    "expected_result": "For independent plaintext/key increments in an additive model, the expected doublet probability is a weighted sum bounded by the minimum plaintext increment probability.",
+    "observed_result": "Source states or implements the cited claim. Historical measurements are not independently reproduced in T1.",
+    "evidence_paths": [
+      "liber-primus/analysis/round10b/B4-otp-steelman/b4_identifiability.py",
+      "liber-primus/analysis/round12/D2/g3_floor_probe.py"
+    ],
+    "status": "SOURCE_CHECKED",
+    "impact_if_wrong": "Misusing an expectation bound as an impossibility proof rejects too many models.",
+    "next_check": "T5: write formal assumptions and a hand-checkable derivation; separately assess sample uncertainty and alternative models.",
+    "inherited_ledger_ids": [],
+    "provenance_note": "Generated summaries, ledger rows and results prose are derived records, not independent replications."
+  },
+  {
+    "id": "C-023",
+    "claim": "Empirical minimum-increment floors are reported as 1.38\u20131.83% on four English corpora, later 0.972% for the tested German register.",
+    "kind": "measurement",
+    "source": {
+      "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+      "path": "liber-primus/analysis/round18/L7-redteam/RESULTS.md",
+      "lines": "341-344",
+      "excerpt": "| **German** | **0.972 %** | **1.46\u00d7** |\n\n**No register reaches the pre-registered 0.80 % trigger.** The G3 argument \u2014 \"to reach 0.664 %\nvia an independent key the plaintext must itself carry the anti-repeat structure; no natural"
+    },
+    "additional_sources": [],
+    "depends_on": [
+      "C-022"
+    ],
+    "assumptions": [
+      "Test corpora/normalisation represent candidate plaintext registers",
+      "Data versions match historical inputs"
+    ],
+    "tested_scope": {
+      "T1": "Source and existing-record inspection only; no research rerun.",
+      "reported_or_source_scope": "Four English books plus nine register samples across five languages; not every natural-language text.",
+      "inherited_ledger_bounds": [
+        {
+          "id": "L7-C-G3-FLOOR-EXTENDED",
+          "status": "audit",
+          "coverage": "min_d Pdp(d) recomputed for the four published corpora, then computed for the first time on Latin, Old English, German, Welsh, the real LP1 solved-page register, half-vowel English and vowel-dropped English.",
+          "not_covered": [
+            "Greek, Hebrew, Norse and constructed languages",
+            "non-linguistic plaintexts, which by construction can reach any floor"
+          ],
+          "positive_control": null
+        }
+      ]
+    },
+    "not_tested": [
+      "Universal natural-language bound",
+      "Other preprocessing and lengths",
+      "T1 recomputation"
+    ],
+    "reproduce_command": null,
+    "expected_result": "Empirical minimum-increment floors are reported as 1.38\u20131.83% on four English corpora, later 0.972% for the tested German register.",
+    "observed_result": "Source states or implements the cited claim. Historical measurements are not independently reproduced in T1.",
+    "evidence_paths": [
+      "liber-primus/analysis/round18/L7-redteam/RESULTS.md",
+      "liber-primus/analysis/round12/D2/g3_floor_probe.py",
+      "macos-data-checks.json"
+    ],
+    "status": "SOURCE_CHECKED",
+    "impact_if_wrong": "The minimum over selected books cannot justify a universal plaintext exclusion.",
+    "next_check": "T5: pin corpus hashes, window selection and uncertainty; separate empirical minimum from theorem.",
+    "inherited_ledger_ids": [
+      "L7-C-G3-FLOOR-EXTENDED"
+    ],
+    "provenance_note": "Generated summaries, ledger rows and results prose are derived records, not independent replications."
+  },
+  {
+    "id": "C-024",
+    "claim": "The README asserts a pinned ~83% soft anti-repeat filter over a memoryless base.",
+    "kind": "mechanism",
+    "source": {
+      "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+      "path": "README.md",
+      "lines": "113-116",
+      "excerpt": "project pinned what produces it: a **soft rejection-sampling / anti-repeat filter\n(\u224883% suppression, p_keep\u22480.18) over a memoryless base, against a full-length keystream.**\n\n**What that does and does not close.** *If* the keystream is a true external pad, no solver"
+    },
+    "additional_sources": [],
+    "depends_on": [
+      "C-020",
+      "C-021",
+      "C-022",
+      "C-023"
+    ],
+    "assumptions": [
+      "Candidate mechanism family includes the real process",
+      "Parameter fit is identifiable",
+      "Suppression ratio is not automatically rejection-loop probability"
+    ],
+    "tested_scope": {
+      "T1": "Source and existing-record inspection only; no research rerun.",
+      "reported_or_source_scope": "Inherited controls show selected filters can produce a deficit; R18 reports empirical lag-1 suppression 80.746%.",
+      "inherited_ledger_bounds": [
+        {
+          "id": "VERDICT-OTP-CLASS",
+          "status": "open",
+          "coverage": "The battery separates the two members of the class; it does not choose between them. Only running the derived-key dictionary chooses.",
+          "not_covered": null,
+          "positive_control": "passed"
+        },
+        {
+          "id": "R18-L2-A-LOCUS",
+          "status": "measured",
+          "coverage": "200 replicates per model at n = 12,956 over an archaic-English (KJV) plaintext in runes; 5 primary statistics (lag1_rate, delta_chi2_df, max_abs_delta_z, bleed28_z, abab_z); a new Delta-spectrum statistic that concentrates a single-cell rewrite signature into 28 cells instead of P4's 783-cell off-diagonal bigram table. Keystream-side and plaintext-side filtering cannot reach the observed 0.664% doublet rate at ANY suppression strength - bisection drove both to supp=0.999 and both remain 17 sd above the real rate - because a uniform other stream washes the constraint out.",
+          "not_covered": [
+            "M1 (ciphertext key-skip, key desynchronises) vs M2 (ciphertext value-rewrite, key stays aligned) are ciphertext-identical by construction; measured separation power 0.175, i.e. NOT-SEPARABLE. Any sweep must cover both mechanisms because they imply different decoders.",
+            "composite loci (e.g. a filter applied to the ciphertext of an already-deduplicated plaintext)",
+            "loci that vary along the book (all models here are stationary; P4 already showed the rate is constant across the 55 pages at power 0.075, i.e. underpowered)",
+            "the 86 residual doublets are a transcription artifact until register item A-03 is run"
+          ],
+          "positive_control": "passed"
+        }
+      ]
+    },
+    "not_tested": [
+      "Unique mechanism identification",
+      "Alternative encodings/orderings",
+      "Uniform mechanism across pages"
+    ],
+    "reproduce_command": null,
+    "expected_result": "The README asserts a pinned ~83% soft anti-repeat filter over a memoryless base.",
+    "observed_result": "Source states or implements the cited claim. Historical measurements are not independently reproduced in T1.",
+    "evidence_paths": [
+      "README.md",
+      "liber-primus/analysis/round18/L7-redteam/RESULTS.md",
+      "liber-primus/analysis/round10b/B4-otp-steelman/b4_results.json",
+      "liber-primus/analysis/round12/D3/RESULTS.md",
+      "liber-primus/analysis/round18/L2-filter-leak/a_locus.json",
+      "liber-primus/analysis/round18/L2-filter-leak/RESULTS.md"
+    ],
+    "status": "SOURCE_CHECKED",
+    "impact_if_wrong": "Treating the mechanism as established preselects decoder transitions and can foreclose valid alternatives.",
+    "next_check": "T5: distinguish observed deficit, fitted parameter and mechanism; compare prespecified alternatives.",
+    "inherited_ledger_ids": [
+      "VERDICT-OTP-CLASS",
+      "R18-L2-A-LOCUS"
+    ],
+    "provenance_note": "Generated summaries, ledger rows and results prose are derived records, not independent replications."
+  },
+  {
+    "id": "C-025",
+    "claim": "The dossier says flat IoC is reachable only by a full-length keystream; later B4 reports finite detection limits around period 400.",
+    "kind": "interpretation",
+    "source": {
+      "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+      "path": "liber-primus/SOLVERS-DOSSIER.md",
+      "lines": "73-76",
+      "excerpt": "Perfect IoC flatness (1.00) is reachable only by a **full-length keystream**\n(one-time-pad-class); fractionation/substitution top out ~1.4\u20131.5. Add the\ndeliberate no-repeat constraint (the doublet deficit + structural delta=0 hole)\nand the exhaustive key-search failure, and the pages are"
+    },
+    "additional_sources": [],
+    "depends_on": [
+      "C-021"
+    ],
+    "assumptions": [
+      "Detection floor depends on plaintext/window/key distribution and chosen statistic"
+    ],
+    "tested_scope": {
+      "T1": "Source and existing-record inspection only; no research rerun.",
+      "reported_or_source_scope": "B4 tests a discrete period ladder with 60 trials per period and one uniform-null threshold; p*=400 is a tested-grid result.",
+      "inherited_ledger_bounds": []
+    },
+    "not_tested": [
+      "All periodic keys",
+      "Exact universal period cutoff",
+      "Information-theoretic proof"
+    ],
+    "reproduce_command": null,
+    "expected_result": "The dossier says flat IoC is reachable only by a full-length keystream; later B4 reports finite detection limits around period 400.",
+    "observed_result": "Source states or implements the cited claim. Historical measurements are not independently reproduced in T1.",
+    "evidence_paths": [
+      "liber-primus/SOLVERS-DOSSIER.md",
+      "liber-primus/analysis/round10b/B4-otp-steelman/b4_identifiability.py",
+      "liber-primus/analysis/round10b/B4-otp-steelman/b4_results.json"
+    ],
+    "status": "SOURCE_CHECKED",
+    "impact_if_wrong": "A stale full-length necessity claim artificially narrows the problem.",
+    "next_check": "T5/T6: trace B4 G2 simulation assumptions and report a sensitivity bound, not full-length necessity.",
+    "inherited_ledger_ids": [],
+    "provenance_note": "Generated summaries, ledger rows and results prose are derived records, not independent replications."
+  },
+  {
+    "id": "C-026",
+    "claim": "The headline OTP-class verdict is inferred from a limited statistical battery failing to separate an external-pad model from a derived-key model.",
+    "kind": "interpretation",
+    "source": {
+      "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+      "path": "liber-primus/PROBLEM.json",
+      "lines": "118-121",
+      "excerpt": "  \"statement\": \"OTP-class. The ciphertext is indistinguishable between a TRUE EXTERNAL PAD (information-theoretically closed) and a keystream DERIVED FROM A SHORT SEED (finite keyspace, brute-forceable). Only running the derived-key search settles which.\",\n  \"do_not_say\": \"Do NOT state 'information-theoretically unsolvable' without that qualification. That was this repo's own overreach, caught by round12/D3, and it foreclosed a real tractable lane.\",\n  \"evidence\": [\n   \"liber-primus/analysis/round10b/B4-otp-steelman/b4_results.json\","
+    },
+    "additional_sources": [],
+    "depends_on": [
+      "C-020",
+      "C-021",
+      "C-024",
+      "C-025"
+    ],
+    "assumptions": [
+      "Failure to distinguish named models does not exhaust cipher families",
+      "Finite-battery similarity is not information-theoretic equality",
+      "Filtered external-pad secrecy needs its own model"
+    ],
+    "tested_scope": {
+      "T1": "Source and existing-record inspection only; no research rerun.",
+      "reported_or_source_scope": "B4/G5 six statistics reported max |z|=1.60; D3 reports recovery of a planted derived key.",
+      "inherited_ledger_bounds": [
+        {
+          "id": "VERDICT-OTP-CLASS",
+          "status": "open",
+          "coverage": "The battery separates the two members of the class; it does not choose between them. Only running the derived-key dictionary chooses.",
+          "not_covered": null,
+          "positive_control": "passed"
+        },
+        {
+          "id": "VERDICT-UNSOLVABLE-BY-DESIGN",
+          "status": "superseded",
+          "coverage": null,
+          "not_covered": null,
+          "positive_control": "none"
+        }
+      ]
+    },
+    "not_tested": [
+      "Universal indistinguishability",
+      "Actual LP2 key origin",
+      "Exhaustive alternatives"
+    ],
+    "reproduce_command": null,
+    "expected_result": "The headline OTP-class verdict is inferred from a limited statistical battery failing to separate an external-pad model from a derived-key model.",
+    "observed_result": "Source states or implements the cited claim. Historical measurements are not independently reproduced in T1.",
+    "evidence_paths": [
+      "liber-primus/PROBLEM.json",
+      "liber-primus/analysis/round12/D3/RESULTS.md",
+      "liber-primus/analysis/round10b/B4-otp-steelman/b4_results.json",
+      "liber-primus/analysis/round12/D3/pc_derivedkey.py"
+    ],
+    "status": "SOURCE_CHECKED",
+    "impact_if_wrong": "This is the repository headline and controls whether further work is considered possible.",
+    "next_check": "T5/T6: separate formal secrecy statements, model non-identifiability and empirical test power.",
+    "inherited_ledger_ids": [
+      "VERDICT-OTP-CLASS",
+      "VERDICT-UNSOLVABLE-BY-DESIGN"
+    ],
+    "provenance_note": "Generated summaries, ledger rows and results prose are derived records, not independent replications."
+  },
+  {
+    "id": "C-027",
+    "claim": "The dossier infers a continuous keystream and no resets from suppressed boundary repeats.",
+    "kind": "mechanism",
+    "source": {
+      "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+      "path": "liber-primus/SOLVERS-DOSSIER.md",
+      "lines": "107-110",
+      "excerpt": "## 6b. The keystream is one continuous stream over the whole book\nThe no-repeat suppression holds across **every** boundary \u2014 word, clause, line,\nand even page joins (page-boundary doublet rate = 0.0000). So the keystream does\n**not** reset per page/paragraph; it spans the entire concatenated book. There is"
+    },
+    "additional_sources": [
+      {
+        "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+        "path": "liber-primus/analysis/STRUCTURE-FINDINGS.md",
+        "lines": "17-20",
+        "excerpt": "## 2. The keystream is CONTINUOUS across the whole book (no boundary reset)\nDoublet rate (a proxy for \"is the no-repeat rule active here\") by what separates\neach adjacent rune pair:\n"
+      },
+      {
+        "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+        "path": "liber-primus/verify_solution.py",
+        "lines": "135-138",
+        "excerpt": "def judge_keystream(K, segments, label):\n    \"\"\"Decode each unsolved page under the candidate key, both decoders.\"\"\"\n    rows = []\n    for i, seg in enumerate(segments):"
+      }
+    ],
+    "depends_on": [
+      "C-002",
+      "C-020",
+      "C-024"
+    ],
+    "assumptions": [
+      "Filter state continuity implies key-state continuity (not established)",
+      "Boundary sample has discriminatory power"
+    ],
+    "tested_scope": {
+      "T1": "Source and existing-record inspection only; no research rerun.",
+      "reported_or_source_scope": "R12 reports zero repeated pairs at 54 page joins; STRUCTURE-FINDINGS asserts no resets.",
+      "inherited_ledger_bounds": []
+    },
+    "not_tested": [
+      "Key reset inference",
+      "Boundary-specific uncertainty",
+      "Separate filter/key state models"
+    ],
+    "reproduce_command": null,
+    "expected_result": "The dossier infers a continuous keystream and no resets from suppressed boundary repeats.",
+    "observed_result": "Source states or implements the cited claim. Historical measurements are not independently reproduced in T1.",
+    "evidence_paths": [
+      "liber-primus/SOLVERS-DOSSIER.md",
+      "liber-primus/analysis/STRUCTURE-FINDINGS.md",
+      "liber-primus/verify_solution.py"
+    ],
+    "status": "SOURCE_CHECKED",
+    "impact_if_wrong": "Could wrongly exclude page-reset or section-reset attacks and conflicts with oracle reset convention.",
+    "next_check": "T5: distinguish filter state from key phase, calculate boundary power before choosing a reset model.",
+    "inherited_ledger_ids": [],
+    "provenance_note": "Generated summaries, ledger rows and results prose are derived records, not independent replications."
+  }
+]

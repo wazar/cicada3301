@@ -1,0 +1,180 @@
+{
+  "method": "Actual model visual inspection of saved full-page thumbnails and high-resolution coordinate crops, compared with visible rune shapes and then parser output. Not blinded; source text had been read. Coordinates in original 2400x3600 image pixels; rectangles are inspection regions, not fitted glyph boxes. No inherited recognition or alignment code imported.",
+  "version_dependency": "parallel-01-inputs-v1 remains frozen; the records supplement its provisional map and missing solved-image references",
+  "pages": [
+    {
+      "page": 49,
+      "segment": 49,
+      "crop": "crops/p49-top.jpg",
+      "bbox": [
+        500,
+        550,
+        2300,
+        1200
+      ],
+      "rune_region": [
+        580,
+        650,
+        1850,
+        1140
+      ],
+      "reading": "First line begins IA E J F, consistent with segment49 indices0..3. Three rune rows precede ten rows of alphanumeric pairs. Botanical borders flank the text. A red multi-dot terminal mark is visible after the third rune row.",
+      "mapping_status": "targeted visual support; no full rune audit"
+    },
+    {
+      "page": 50,
+      "segment": null,
+      "crop": "crops/transition.jpg",
+      "bbox": [
+        0,
+        0,
+        2400,
+        3600
+      ],
+      "non_rune_regions": [
+        {
+          "bbox": [
+            600,
+            600,
+            1900,
+            3070
+          ],
+          "kind": "13 rows of mixed-case Latin letters and digits; top row begins 2M 0w 3L 3D; no body rune text seen"
+        },
+        {
+          "bbox": [
+            0,
+            700,
+            2400,
+            2900
+          ],
+          "kind": "bilateral botanical ornament, including dots"
+        }
+      ],
+      "reading": "Not blank or near-blank. O/0 case/glyph ambiguity in the alphanumeric field is not adjudicated; no complete transcription of that field is claimed. The previous automated label 'two rune-band components' does not establish two actual runes.",
+      "mapping_status": "No body-text segment is appropriate for the rune-only export, but excluded alphanumeric content remains puzzle input."
+    },
+    {
+      "page": 51,
+      "segment": 50,
+      "crop": "crops/p51-runes.jpg",
+      "bbox": [
+        580,
+        2220,
+        2100,
+        3090
+      ],
+      "reading": "First rune row begins W W P F IA L X B N, consistent with segment50 indices0..8. Nine alphanumeric rows above the four rune rows are absent from the rune stream. Botanical borders retained in source image.",
+      "mapping_status": "targeted visual support for transition"
+    },
+    {
+      "page": 55,
+      "segment": 54,
+      "crop": "crops/p55-top.jpg",
+      "bbox": [
+        500,
+        550,
+        2300,
+        1200
+      ],
+      "reading": "First rune row begins NG AE M I W S B, matching segment54 indices0..6. AE at page rune1 shows two downward right branches, rather than the one of A. Four rune rows, terminal red dots, central tree drawing and lower insect drawing are visible on the full page.",
+      "suspicious_class_check": {
+        "rune_position": 1,
+        "reading": "AE",
+        "alternatives_considered": [
+          "A",
+          "O"
+        ],
+        "inspection_region": [
+          600,
+          650,
+          1100,
+          870
+        ]
+      },
+      "mapping_status": "targeted visual support"
+    },
+    {
+      "page": 56,
+      "segment": 55,
+      "image": "sources/56.jpg",
+      "crop": "crops/p56-runes.jpg",
+      "bbox": [
+        580,
+        600,
+        1800,
+        1280
+      ],
+      "reading": "Oversized red initial has two descending branches: AE at rune0, not single-branch A or ascending F. Next red glyphs J OE S R agree with indices1..4. First ordinary black glyph M agrees with index5. Separate hexadecimal-looking Latin field, red divider marks and five large lower dots are outside rune-index export.",
+      "suspicious_class_check": {
+        "rune_position": 0,
+        "reading": "AE",
+        "alternatives_considered": [
+          "A",
+          "F"
+        ],
+        "inspection_region": [
+          580,
+          600,
+          780,
+          1210
+        ]
+      },
+      "mapping_status": "targeted solved control; downloaded image matches archived56.jpg SHA1"
+    },
+    {
+      "page": 57,
+      "segment": 56,
+      "image": "sources/57.jpg",
+      "crop": "crops/p57-runes.jpg",
+      "bbox": [
+        580,
+        850,
+        1900,
+        1900
+      ],
+      "reading": "Oversized red P followed by red A R A B L E matches indices0..6. The ordinary A glyphs have one descending right branch, distinguishing them from the two-branch AE control. Red/black heading transition retained in image, not represented by rune indices. Five body rows, red terminal marks and lower stippled tree figure visible.",
+      "suspicious_class_check": {
+        "rune_position": 1,
+        "reading": "A",
+        "alternatives_considered": [
+          "AE",
+          "O"
+        ],
+        "inspection_region": [
+          860,
+          890,
+          1000,
+          1050
+        ]
+      },
+      "mapping_status": "targeted solved control; downloaded image matches archived57.jpg SHA1"
+    }
+  ],
+  "not_done": [
+    "Exhaustive glyph reread",
+    "Independent 450-site O/A/AE test",
+    "Per-rune image segmentation",
+    "Full-page omission search",
+    "Separator position re-attribution",
+    "Quantified vision accuracy",
+    "C-005 confidence bound reproduction"
+  ],
+  "additional_disputed_site": {
+    "page": 57,
+    "segment": 56,
+    "rune_position": 80,
+    "stream_position": 13121,
+    "bbox": [
+      890,
+      1710,
+      1030,
+      1880
+    ],
+    "crop": "crops/p57-site80-detail.jpg",
+    "reading": "Y",
+    "index": 26,
+    "alternative": "E",
+    "finding": "U-shaped sloping outer top with internal upright; Y shape, distinct from paired-stem E with upper valley. Matches canonical; local scream314 E reported by worker B is not supported by this image. Comparison uses glyph geometry, not English."
+  }
+}

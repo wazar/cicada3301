@@ -1,0 +1,21 @@
+test_boundaries (__main__.ParserTests.test_boundaries) ... ok
+test_hand (__main__.ParserTests.test_hand) ... ok
+test_mutation (__main__.ParserTests.test_mutation) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
+{
+  "transcriptions": {
+    "krisyotam": 13136,
+    "relikd": 13136,
+    "rtkd_prefix_runes": 2797,
+    "rtkd_suffix": 13136,
+    "K_equals_R": true,
+    "K_equals_T_suffix": true
+  },
+  "alphabet_entries": 29,
+  "image_sha1_matches": 58,
+  "image_count": 58
+}

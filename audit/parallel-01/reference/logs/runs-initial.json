@@ -1,0 +1,39 @@
+[
+  {
+    "name": "reference",
+    "argv": [
+      ".venv/bin/python",
+      "audit/parallel-01/reference/check.py"
+    ],
+    "timeout_seconds": 300,
+    "started_utc": "2026-09-16T17:37:37.798487+00:00",
+    "exit": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.028789292000510613
+  },
+  {
+    "name": "compare",
+    "argv": [
+      ".venv/bin/python",
+      "audit/parallel-01/reference/compare.py"
+    ],
+    "timeout_seconds": 300,
+    "started_utc": "2026-09-16T17:37:37.827281+00:00",
+    "exit": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.027575667000746762
+  },
+  {
+    "name": "inherited",
+    "argv": [
+      ".venv/bin/python",
+      "analysis/reproduce/run_all.py",
+      "-v"
+    ],
+    "timeout_seconds": 300,
+    "started_utc": "2026-09-16T17:37:37.854859+00:00",
+    "exit": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.4414857910005594
+  }
+]

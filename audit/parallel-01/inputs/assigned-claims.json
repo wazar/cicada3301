@@ -1,0 +1,402 @@
+[
+  {
+    "id": "C-001",
+    "claim": "The pinned unsolved stream contains 12,956 rune indices with SHA-256 023312066df471005264b9cbe7997cb77d2a9a6a2dc9b3316d22674023af1585.",
+    "kind": "data",
+    "source": {
+      "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+      "path": "liber-primus/PROBLEM.json",
+      "lines": "50-53",
+      "excerpt": " \"ciphertext_identity\": {\n  \"n_runes\": 12956,\n  \"sha256_of_comma_joined_indices\": \"023312066df471005264b9cbe7997cb77d2a9a6a2dc9b3316d22674023af1585\",\n  \"first_24_indices\": ["
+    },
+    "additional_sources": [],
+    "depends_on": [],
+    "assumptions": [
+      "29-symbol mapping is appropriate",
+      "Non-rune removal and final-two-segment exclusion select the intended object"
+    ],
+    "tested_scope": {
+      "T1": "Source and existing-record inspection only; no research rerun.",
+      "reported_or_source_scope": "Raw input hashes recorded in T0; normalised stream identity not executed there.",
+      "inherited_ledger_bounds": []
+    },
+    "not_tested": [
+      "Independent parser",
+      "Original-image page scope"
+    ],
+    "reproduce_command": null,
+    "expected_result": "The pinned unsolved stream contains 12,956 rune indices with SHA-256 023312066df471005264b9cbe7997cb77d2a9a6a2dc9b3316d22674023af1585.",
+    "observed_result": "Source states or implements the cited claim. Historical measurements are not independently reproduced in T1.",
+    "evidence_paths": [
+      "liber-primus/PROBLEM.json",
+      "audit/runs/T0/20260916T165851.125236Z/inputs.json",
+      "liber-primus/analysis/run_stats.py",
+      "liber-primus/src/lp/gematria.py"
+    ],
+    "status": "SOURCE_CHECKED",
+    "impact_if_wrong": "All comparisons and coverage denominators depend on this object.",
+    "next_check": "T2: independently parse a preserved input copy, compare index hash and retain page boundaries.",
+    "inherited_ledger_ids": [],
+    "provenance_note": "Generated summaries, ledger rows and results prose are derived records, not independent replications."
+  },
+  {
+    "id": "C-002",
+    "claim": "The apparent 55/56 unsolved-page mismatch is explained in R19 by runeless image p50: image p51\u201355 maps to segments 50\u201354; p56/57 to 55/56.",
+    "kind": "data",
+    "source": {
+      "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+      "path": "liber-primus/analysis/round19/T2/RESULTS.md",
+      "lines": "58-61",
+      "excerpt": "`linemap.py` maps **57/57 pages and 604/604 canon lines**. The relikd\u2194canon page offset is\nconfirmed and pinned: identity for p0\u2013p49, **p50 is the runeless illustration page**, p51\u2013p55\n\u2192 segments 50\u201354, and segments 55/56 (LP2 pages 56/57) come from the scream314 vendor assets\nC3 identified."
+    },
+    "additional_sources": [
+      {
+        "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+        "path": "liber-primus/SOLVERS-DOSSIER.md",
+        "lines": "4-7",
+        "excerpt": "**unsolved Liber Primus pages (LP2, onion7 `0.jpg`\u2013`55.jpg`; `56`=AN END and\n`57`=PARABLE are solved)**. Everything here is backed by code in this repo and\nwritten so others **do not re-run the dead ends**. Run `tests/validate.py` first \u2014\nit confirms the rig reproduces every known solved page, which is the trust anchor"
+      },
+      {
+        "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+        "path": "liber-primus/analysis/run_stats.py",
+        "lines": "29-32",
+        "excerpt": "def load_pages():\n    \"\"\"Split the krisyotam single-file transcription on '%' page breaks.\"\"\"\n    txt = open(KRIS, encoding=\"utf-8\").read()\n    segs = txt.split(\"%\")"
+      },
+      {
+        "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+        "path": "liber-primus/analysis/round19/T1/RESULTS.md",
+        "lines": "116-119",
+        "excerpt": "**no entry for image p50**, which is a near-blank page carrying 2 rune-band components, so\ncanon entry *k* corresponds to image page *k* for *k* \u2264 49 and to image page *k*+1 thereafter.\nAny lane joining canon pages to relikd images past p49 without that shift is off by one.\n"
+      }
+    ],
+    "depends_on": [
+      "C-001"
+    ],
+    "assumptions": [
+      "R19 image labels and source assets are correctly identified",
+      "Discarding empty segments does not discard another useful channel"
+    ],
+    "tested_scope": {
+      "T1": "Source and existing-record inspection only; no research rerun.",
+      "reported_or_source_scope": "R19 reports 57 textual segments / 58 images and 604 canon lines; dossier names image pages 0\u201355.",
+      "inherited_ledger_bounds": []
+    },
+    "not_tested": [
+      "Independent image-to-segment map",
+      "Direct inspection of p50",
+      "All header/ornament content"
+    ],
+    "reproduce_command": null,
+    "expected_result": "The apparent 55/56 unsolved-page mismatch is explained in R19 by runeless image p50: image p51\u201355 maps to segments 50\u201354; p56/57 to 55/56.",
+    "observed_result": "Source states or implements the cited claim. Historical measurements are not independently reproduced in T1.",
+    "evidence_paths": [
+      "liber-primus/analysis/round19/T2/RESULTS.md",
+      "liber-primus/analysis/round19/T2/linemap.py",
+      "liber-primus/analysis/round19/T2/out_linemap.json",
+      "liber-primus/SOLVERS-DOSSIER.md",
+      "liber-primus/analysis/run_stats.py",
+      "liber-primus/analysis/round19/T1/RESULTS.md"
+    ],
+    "status": "SOURCE_CHECKED",
+    "impact_if_wrong": "Off-by-one mapping can misassign crops, solved status and per-page evidence.",
+    "next_check": "T2: verify this existing explanation from filenames, original images and parser output before alleging a missing page.",
+    "inherited_ledger_ids": [],
+    "provenance_note": "Generated summaries, ledger rows and results prose are derived records, not independent replications."
+  },
+  {
+    "id": "C-003",
+    "claim": "Community transcriptions agree rune-for-rune, but the dossier also says they share a 2017 ancestor.",
+    "kind": "data",
+    "source": {
+      "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+      "path": "liber-primus/SOLVERS-DOSSIER.md",
+      "lines": "59-62",
+      "excerpt": "- **Transcription is correct.** Every community lineage \u2014 krisyotam, relikd\n  (different delimiters, independently \"double-checked\"), and the rtkd/iddqd 2017\n  root \u2014 is **rune-for-rune identical (13136/13136, 0 divergences)**;\n  `analysis/transcription/crossdiff.py`. The rtkd baseline was image-error-corrected"
+    },
+    "additional_sources": [],
+    "depends_on": [
+      "C-001",
+      "C-002"
+    ],
+    "assumptions": [
+      "Compared lineages cover the same regions",
+      "Shared-source copying can preserve shared errors"
+    ],
+    "tested_scope": {
+      "T1": "Source and existing-record inspection only; no research rerun.",
+      "reported_or_source_scope": "Dossier reports 13,136/13,136 agreement and spot checks; explicitly not a fresh independent reread.",
+      "inherited_ledger_bounds": []
+    },
+    "not_tested": [
+      "True image transcription accuracy",
+      "Independent ancestry of copies"
+    ],
+    "reproduce_command": null,
+    "expected_result": "Community transcriptions agree rune-for-rune, but the dossier also says they share a 2017 ancestor.",
+    "observed_result": "Source states or implements the cited claim. Historical measurements are not independently reproduced in T1.",
+    "evidence_paths": [
+      "liber-primus/SOLVERS-DOSSIER.md",
+      "liber-primus/analysis/transcription/crossdiff.py"
+    ],
+    "status": "SOURCE_CHECKED",
+    "impact_if_wrong": "Agreement alone cannot certify the data used in every statistical rejection.",
+    "next_check": "T2: source ancestry map and targeted image checks; separate agreement from correctness.",
+    "inherited_ledger_ids": [],
+    "provenance_note": "Generated summaries, ledger rows and results prose are derived records, not independent replications."
+  },
+  {
+    "id": "C-004",
+    "claim": "R19 per-rune controls report 180/180 solved LP2 glyphs correct and 450/450 O/A/AE disputed sites upheld.",
+    "kind": "measurement",
+    "source": {
+      "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+      "path": "liber-primus/analysis/round19/T1/RESULTS.md",
+      "lines": "9-12",
+      "excerpt": "## 0. Headline \u2014 five numbers\n\n| question | answer |\n|---|---|"
+    },
+    "additional_sources": [
+      {
+        "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+        "path": "liber-primus/analysis/round19/T1/RESULTS.md",
+        "lines": "120-123",
+        "excerpt": "### 2.4 Classification, and how circularity is avoided\n\nThe bank is **unsupervised in construction**: it is the set of distinct native-resolution\nbitmaps, with no labels involved. The only label information that ever enters is a"
+      }
+    ],
+    "depends_on": [
+      "C-002",
+      "C-003"
+    ],
+    "assumptions": [
+      "Solved-page glyph identities are externally correct",
+      "Labels transferred from other canon occurrences do not perpetuate class-wide mistakes"
+    ],
+    "tested_scope": {
+      "T1": "Source and existing-record inspection only; no research rerun.",
+      "reported_or_source_scope": "Leave-one-page-out bitmap bank; labelled consensus from other corpus positions; reports 99.6346% corpus agreement, not blind independent ground truth.",
+      "inherited_ledger_bounds": [
+        {
+          "id": "T1-01",
+          "status": "measured",
+          "coverage": "180 canon runes on the two solved LP2-typeface pages; leave-one-page-out (every crop on the page under test removed from the label consensus). Supported by 13,074 leave-one-page-out corpus positions at 99.99235% and 13,039 leave-one-bitmap-out positions at 99.9847%.",
+          "not_covered": "n=180 bounds true accuracy at >=98.34% (95%, rule of three) on the control set ALONE. LP1 typeface NOT covered: 94.60% recall, so the pooled gate G-READ-ALL FAILS at 1879/1976 = 95.09%. Illuminated initials are a weak sub-path (15/17, plus 50 corpus-wide false positives). One image lineage only (relikd masters + the byte-identical vendored set, 2400x3600).",
+          "positive_control": "passed"
+        },
+        {
+          "id": "T1-03",
+          "status": "measured",
+          "coverage": "1,404 O/A/AE crops = 10.77% of the LP2 corpus; whole-book leave-one-bitmap-out is 13,037/13,039 = 99.9847% crop-weighted, with the only two errors a single reciprocal U<->B bitmap pair.",
+          "not_covered": "LP2 typeface only. On LP1 the triple also shows 100% recall but on only 19/69/54 positions. The triple's behaviour on illuminated initials is not measured.",
+          "positive_control": "passed"
+        },
+        {
+          "id": "T1-04",
+          "status": "measured",
+          "coverage": "450/450 of the pre-registered target, all on unsolved pages 0-54, stream positions 27..12,897. Powered: planted substitutions are detected 100% of the time conditional on the position surviving alignment (0 reader-blind misses in 122 plants, P-1 and P-2), and the reader's own error rate on ordinary LP2 glyphs is 1/13,074 = 0.008%, two and a half orders of magnitude below the 3.07% disagreement rate being adjudicated.",
+          "not_covered": "SUBSTITUTION errors only: a canon insertion or deletion would surface among the 113 positions that did not align 1:1 (31 canon runes with no glyph, 82 glyphs with no canon rune, 50 of the latter being false illuminated-initial detections), and those 113 are UNADJUDICATED, not adjudicated in canon's favour. None of them is among the 450. The bitmap->rune assignment is canon-derived (mitigated by consensus over hundreds of occurrences, never the judged position, whole-page hold-out, and check B1 which reproduces 74.jpg from its English plaintext) so a GLOBAL relabel of a whole rune class that also permuted the solved pages' decryption is outside what this instrument can see.",
+          "positive_control": "passed"
+        },
+        {
+          "id": "T1-05",
+          "status": "measured",
+          "coverage": "13,136/13,136 canon positions attempted; 13,091 aligned 1:1 and adjudicated. Accuracy is flat in local page density (99.84% sparsest quartile to 99.51% densest), and the OTP dense block (image pages 45-55) reads at 99.7993% with ZERO 1:1 disagreements -- better than the rest of the book.",
+          "not_covered": "31 canon runes with no segmented glyph and 82 glyphs with no canon rune are unadjudicated. Illuminated initials read at 15/17 and produced 50 false positives corpus-wide. The near-blank image p50 has no canonical_pages.json entry, so canon entry k maps to image page k for k<=49 and k+1 thereafter -- a join any lane using both coordinate systems must apply.",
+          "positive_control": "passed"
+        }
+      ]
+    },
+    "not_tested": [
+      "T1 rerun of vision controls",
+      "Unknown glyph classes and correlated mistakes",
+      "LP1 typeface transfer"
+    ],
+    "reproduce_command": null,
+    "expected_result": "R19 per-rune controls report 180/180 solved LP2 glyphs correct and 450/450 O/A/AE disputed sites upheld.",
+    "observed_result": "Source states or implements the cited claim. Historical measurements are not independently reproduced in T1.",
+    "evidence_paths": [
+      "liber-primus/analysis/round19/T1/RESULTS.md",
+      "analysis/round19/T1/out_gread_lp2.json",
+      "analysis/round19/T1/out_gread_lp1.json",
+      "analysis/round19/T1/RESULTS.md",
+      "analysis/round19/T1/out_loo.json",
+      "analysis/round19/T1/p_loo.py",
+      "analysis/round19/T1/adjudication.json",
+      "analysis/round19/T1/j2_adjudicate.py",
+      "analysis/round19/T1/out_summary.json",
+      "analysis/round19/T1/out_corpus_lp2.json",
+      "analysis/round19/T1/out_density.json",
+      "analysis/round19/T1/out_segcheck.json"
+    ],
+    "status": "SOURCE_CHECKED",
+    "impact_if_wrong": "Newer evidence narrows older vision limitations but cannot be accepted solely from the headline.",
+    "next_check": "T2: inspect bank-label ancestry, held-out controls and unresolved glyphs; distinguish corpus agreement from accuracy.",
+    "inherited_ledger_ids": [
+      "T1-01",
+      "T1-03",
+      "T1-04",
+      "T1-05"
+    ],
+    "provenance_note": "Generated summaries, ledger rows and results prose are derived records, not independent replications."
+  },
+  {
+    "id": "C-005",
+    "claim": "R19 forced-alignment analysis reports at most one insertion and one deletion at 95% confidence.",
+    "kind": "measurement",
+    "source": {
+      "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+      "path": "liber-primus/analysis/round19/T2/RESULTS.md",
+      "lines": "16-19",
+      "excerpt": "| **the indel bound** (T3's stated gap) | Canon can contain **k \u2264 1 insertion and k \u2264 1 deletion at 95 % confidence**, from **zero** surviving candidates over **13,121** tested positions at measured localisation power **0.990 / 0.974**. Charging *every* unadjudicated flag to canon gives the crude ceiling **\u2264 26**, all on the unsolved stream |\n| **A-01 (Round 9 Track TEMPLATE)** | **COMPLETE.** Independent per-slot agreement with canon **0.9973** over 13,121 slots on **604/604 lines** \u2014 up from stage 2's 0.9693 over 5,207 glyphs on 232 lines |\n| **coverage of Round 10's 61.6 % blind spot** | **fully covered.** 604/604 lines, **13,121 / 13,136 rune slots = 99.89 %**. The 15 unadjudicated slots are named: illuminated initials |\n| **frontB** | **SETTLED, and canon is upheld.** Control **1.0000** on the decryption-proven LP2 pages (frontB's forced instrument: 0.129). Pages 45\u201354 read at **1.0000 over 1,992 slots**, with **zero** substitution and **zero** surviving indel candidates |"
+    },
+    "additional_sources": [],
+    "depends_on": [
+      "C-002",
+      "C-003",
+      "C-004"
+    ],
+    "assumptions": [
+      "Injected single errors model actual transcription failures",
+      "Detection/localisation power supports the confidence bound",
+      "Canon-conditioned templates do not hide correlated errors"
+    ],
+    "tested_scope": {
+      "T1": "Source and existing-record inspection only; no research rerun.",
+      "reported_or_source_scope": "13,121 slots, 13,725 gaps, 604 lines; 26 flags adjudicated as segmentation; 15 illuminated slots outside slot coverage.",
+      "inherited_ledger_bounds": [
+        {
+          "id": "T2-INDEL",
+          "status": "negative",
+          "coverage": "Every single-token insertion at all 13,725 gap positions and every single-token deletion at all 13,121 rune slots, over 604/604 lines.",
+          "not_covered": "Multi-indel and correlated length errors; transpositions; whole-line omissions. Raising the band mask to rune bodies only (h >= 95) removes 20 of the 26 flags - confirming the mechanism - but BREAKS the control (1.0000 -> 0.9775), because the same 35-94 px class also contains genuine split strokes of real runes. No single height threshold zeroes both; that is a real limit of component-height stripping at this render, and the operating point chosen is the one whose control is exact.",
+          "positive_control": "passed"
+        }
+      ]
+    },
+    "not_tested": [
+      "Multi-indels",
+      "Whole-line omissions",
+      "Correlated segmentation errors",
+      "Independent statistical derivation of upper bound"
+    ],
+    "reproduce_command": null,
+    "expected_result": "R19 forced-alignment analysis reports at most one insertion and one deletion at 95% confidence.",
+    "observed_result": "Source states or implements the cited claim. Historical measurements are not independently reproduced in T1.",
+    "evidence_paths": [
+      "liber-primus/analysis/round19/T2/RESULTS.md",
+      "liber-primus/analysis/round19/T2/PREREG.md",
+      "liber-primus/analysis/round19/T2/out_indel.json",
+      "liber-primus/analysis/round19/T2/out_indel_score.json",
+      "liber-primus/analysis/round19/T2/out_indel_adj.json",
+      "liber-primus/analysis/round19/T2/out_orphan.json"
+    ],
+    "status": "SOURCE_CHECKED",
+    "impact_if_wrong": "An overstated error ceiling can falsely certify doublet and decode robustness.",
+    "next_check": "T2: reconstruct bound from retained rows and controls; T4/T5: propagate permitted error classes.",
+    "inherited_ledger_ids": [
+      "T2-INDEL"
+    ],
+    "provenance_note": "Generated summaries, ledger rows and results prose are derived records, not independent replications."
+  },
+  {
+    "id": "C-006",
+    "claim": "The 19 shortlisted separator disagreements are reported resolved in favour of canon; whole-book boundary-position disagreements remain.",
+    "kind": "measurement",
+    "source": {
+      "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+      "path": "liber-primus/analysis/round19/T2/RESULTS.md",
+      "lines": "20-23",
+      "excerpt": "| **A-05 / B-23 \u2014 the 19 lines** | **all 19 read and adjudicated. Canon is correct on every one**, in count *and* position. The Round 8 diffs are its own instrument: 10/19 a line-alignment slip, 9/19 a dot-extraction failure |\n\n**One sentence.** Forced alignment \u2014 taking the token *count and order* from canon and\nletting the ink choose the cut points \u2014 passes its positive control at **1.0000** where"
+    },
+    "additional_sources": [],
+    "depends_on": [
+      "C-002"
+    ],
+    "assumptions": [
+      "Dot extraction and line-to-image assignment are valid",
+      "Boundary attribution is distinguished from missing marks"
+    ],
+    "tested_scope": {
+      "T1": "Source and existing-record inspection only; no research rerun.",
+      "reported_or_source_scope": "19 shortlisted lines; 604-line audit, 580/604 position-exact; 24 boundary-attribution disagreements not re-attributed.",
+      "inherited_ledger_bounds": [
+        {
+          "id": "A-05",
+          "status": "negative",
+          "coverage": "All 19 shortlisted lines, and the whole-book audit behind them: 604/604 lines. Canon 2,764 '-' and 183 '.'; image 2,767 '-' and 187 '.'. Lines with exact separator counts 582/604 (96.36%); with exact separator POSITIONS 580/604 (96.03%).",
+          "not_covered": "24 lines carry a positional separator disagreement, of which 15 are at gap 0 and most of the rest within two gaps of the line end - line-boundary attribution, because canon breaks lines semantically and the image breaks them typographically. This lane did not attempt to re-attribute separators across line boundaries.",
+          "positive_control": "passed"
+        },
+        {
+          "id": "B-23",
+          "status": "negative",
+          "coverage": "604/604 lines, positional (per-gap) rather than per-line count comparison.",
+          "not_covered": "Same as A-05: 24 lines with line-boundary attribution disagreements, not re-attributed.",
+          "positive_control": "passed"
+        }
+      ]
+    },
+    "not_tested": [
+      "Independent image review",
+      "Boundary re-attribution",
+      "Ledger threshold completion"
+    ],
+    "reproduce_command": null,
+    "expected_result": "The 19 shortlisted separator disagreements are reported resolved in favour of canon; whole-book boundary-position disagreements remain.",
+    "observed_result": "Source states or implements the cited claim. Historical measurements are not independently reproduced in T1.",
+    "evidence_paths": [
+      "liber-primus/analysis/round19/T2/RESULTS.md",
+      "liber-primus/analysis/round19/T2/PREREG.md",
+      "liber-primus/analysis/round19/T2/out_sep19.json",
+      "liber-primus/analysis/round19/T2/out_separators.json"
+    ],
+    "status": "SOURCE_CHECKED",
+    "impact_if_wrong": "Separator-sensitive algorithms need preserved uncertainty even when rune-only tests pass.",
+    "next_check": "T2: map those 19 cases and 24 residual lines; later metadata task traces thresholds without inventing them.",
+    "inherited_ledger_ids": [
+      "A-05",
+      "B-23"
+    ],
+    "provenance_note": "Generated summaries, ledger rows and results prose are derived records, not independent replications."
+  },
+  {
+    "id": "C-007",
+    "claim": "The images are reported byte-identical to archived onion7 originals: 56/56 SHA-1 matches.",
+    "kind": "data",
+    "source": {
+      "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+      "path": "liber-primus/SOLVERS-DOSSIER.md",
+      "lines": "24-27",
+      "excerpt": "  original onion7 release**: **56/56 SHA1 match** the values published in the\n  Internet Archive item `ky2khlqdf7qdznac.onion` (the archived 7th hidden service\n  Cicada used to dump LP2 in May 2014). Table: `analysis/stego/provenance.json`.\n- Fingerprint of an authentic original: 2400\u00d73600 JPEG, JFIF **400 DPI**, with a"
+    },
+    "additional_sources": [],
+    "depends_on": [
+      "C-002"
+    ],
+    "assumptions": [
+      "Archive manifest represents intended release",
+      "Byte identity is not proof of absence of a payload"
+    ],
+    "tested_scope": {
+      "T1": "Source and existing-record inspection only; no research rerun.",
+      "reported_or_source_scope": "56 original image comparisons claimed; ordinary test_provenance.py checks manifest and only local pages 0,1,2.",
+      "inherited_ledger_bounds": []
+    },
+    "not_tested": [
+      "T1 byte verification",
+      "Independent archive provenance",
+      "Solved-image source chain"
+    ],
+    "reproduce_command": null,
+    "expected_result": "The images are reported byte-identical to archived onion7 originals: 56/56 SHA-1 matches.",
+    "observed_result": "Source states or implements the cited claim. Historical measurements are not independently reproduced in T1.",
+    "evidence_paths": [
+      "liber-primus/SOLVERS-DOSSIER.md",
+      "liber-primus/analysis/stego/provenance.json",
+      "liber-primus/tests/test_provenance.py"
+    ],
+    "status": "SOURCE_CHECKED",
+    "impact_if_wrong": "Incorrect image identity undermines visual audits and forensic comparisons.",
+    "next_check": "T2: separate raw-byte checks, acquisition provenance and image-to-transcription mapping.",
+    "inherited_ledger_ids": [],
+    "provenance_note": "Generated summaries, ledger rows and results prose are derived records, not independent replications."
+  }
+]

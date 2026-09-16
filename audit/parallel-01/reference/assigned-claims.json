@@ -1,0 +1,93 @@
+[
+  {
+    "id": "C-008",
+    "claim": "The inherited validation script passes five selected-word page checks, not complete expected plaintext comparisons.",
+    "kind": "implementation",
+    "source": {
+      "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+      "path": "liber-primus/tests/validate.py",
+      "lines": "52-55",
+      "excerpt": "    SOLVED = [\n        (\"Runes - 01.jpg\", \"simple\",  None,       [\"WARN\", \"BELIEVE\", \"FROMTHIS\", \"TRUE\"]),\n        (\"05.jpg\",         \"simple\",  None,       [\"PRIMES\", \"SACRED\", \"TOTIENT\"]),\n        (\"06.jpg\",         \"simple\",  None,       [\"MANDECIDED\", \"MASTER\", \"STUDY\"]),"
+    },
+    "additional_sources": [
+      {
+        "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+        "path": "README.md",
+        "lines": "10-13",
+        "excerpt": "solved page** from the canonical runes. Everything ruled out below was ruled out by code\nthat first proves it can find the answers we already know.\n\n---"
+      }
+    ],
+    "depends_on": [
+      "C-001"
+    ],
+    "assumptions": [
+      "Keyword presence is useful partial evidence but cannot guarantee complete decoding"
+    ],
+    "tested_scope": {
+      "T1": "Source and existing-record inspection only; no research rerun.",
+      "reported_or_source_scope": "T0: 5/5 checks passed; five LP1 entries, substring label selection and scorer-driven transforms/interrupters.",
+      "inherited_ledger_bounds": []
+    },
+    "not_tested": [
+      "Full expected rune arrays",
+      "Every solved page",
+      "Independent expected plaintext"
+    ],
+    "reproduce_command": null,
+    "expected_result": "The inherited validation script passes five selected-word page checks, not complete expected plaintext comparisons.",
+    "observed_result": "T0 raw logs reproduce the bounded check stated in tested_scope; T1 performed no rerun.",
+    "evidence_paths": [
+      "liber-primus/tests/validate.py",
+      "audit/runs/T0/20260916T165851.125236Z/01-validate.stdout.txt",
+      "README.md"
+    ],
+    "status": "REPRODUCED",
+    "impact_if_wrong": "The advertised trust anchor does not by itself establish all-solved-page correctness.",
+    "next_check": "T3: inventory every known solved page, then full-rune fixtures from separately checked sources.",
+    "inherited_ledger_ids": [],
+    "provenance_note": "Generated summaries, ledger rows and results prose are derived records, not independent replications."
+  },
+  {
+    "id": "C-009",
+    "claim": "The standalone reproduction suite covers seven named pages but also asserts selected words and lengths, using shared generated code and source data.",
+    "kind": "implementation",
+    "source": {
+      "commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+      "path": "analysis/reproduce/README.md",
+      "lines": "13-16",
+      "excerpt": "Last run: **7/7 PASS**, 0.8 s total.\n\n| script | page | title | method | key |\n|---|---|---|---|---|"
+    },
+    "additional_sources": [],
+    "depends_on": [
+      "C-008"
+    ],
+    "assumptions": [
+      "Copied cipher specification and shared data may share errors",
+      "No imports from lp is only one dimension of independence"
+    ],
+    "tested_scope": {
+      "T1": "Source and existing-record inspection only; no research rerun.",
+      "reported_or_source_scope": "Five LP1 plus LP2 56/57; generated from one template; extra totient/interrupter coverage exists outside validate.py.",
+      "inherited_ledger_bounds": []
+    },
+    "not_tested": [
+      "T1 execution",
+      "Complete independent expected outputs",
+      "Exhaustive solved-page inventory"
+    ],
+    "reproduce_command": null,
+    "expected_result": "The standalone reproduction suite covers seven named pages but also asserts selected words and lengths, using shared generated code and source data.",
+    "observed_result": "Source states or implements the cited claim. Historical measurements are not independently reproduced in T1.",
+    "evidence_paths": [
+      "analysis/reproduce/README.md",
+      "analysis/reproduce/build_reproduce_scripts.py",
+      "analysis/reproduce/reproduce_page_56_an_end.py",
+      "liber-primus/tests/test_rig.py"
+    ],
+    "status": "SOURCE_CHECKED",
+    "impact_if_wrong": "Avoid both overclaiming all-page coverage and wrongly claiming the repository has only five-page coverage.",
+    "next_check": "T3: map assertions and fixtures in both suites; retain AN END tail/interrupter distinction.",
+    "inherited_ledger_ids": [],
+    "provenance_note": "Generated summaries, ledger rows and results prose are derived records, not independent replications."
+  }
+]

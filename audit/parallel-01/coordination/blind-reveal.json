@@ -1,0 +1,14 @@
+{
+  "revealed_utc": "2026-09-16T17:37:38.458550+00:00",
+  "ranking_sha256": "7917dc1f6db49ec85f086334291dbec4cb0ad13597f80665096432ee00e30e71",
+  "answer_sha256_verified": true,
+  "correct_candidate": "candidate-6",
+  "command": ".venv/bin/python -B /tmp/lp_parallel01_blind_generator.py",
+  "generator_exit": 0,
+  "handchecks": "PASS",
+  "limits": {
+    "wall_seconds": 300,
+    "workers": 1
+  },
+  "note": "Generator saved after ranking; replay must use revealed seed rather than secrets.randbits for identical challenge."
+}

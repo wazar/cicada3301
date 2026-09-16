@@ -1,0 +1,13 @@
+{
+  "working_input_commit": "95e11e918ace77a51de4b612a48e74c298e67e58",
+  "inherited_baseline": "396001a9ce55e0e85ddef19e405afc6a13954588",
+  "command": "PYTHONDONTWRITEBYTECODE=1 OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 .venv/bin/python audit/parallel-01/statistics/check_statistics.py > audit/parallel-01/statistics/run-output.txt",
+  "routine_budget_seconds": 300,
+  "runs": [
+    {"run":1,"session_id":80722,"exit_code":0,"change":"initial independent parser, formulas, exhaustive sensitivity"},
+    {"run":2,"session_id":36825,"exit_code":0,"change":"add exact filter-transition and key-reset counterexample handtests"}
+  ],
+  "random_seeds": [],
+  "external_sources_fetched": [],
+  "notes": "Only final stdout retained; first-run numerical measurements identical. No inherited code or files modified. No imported parser or statistics implementation. At most one CPU job. No command exceeded budget."
+}

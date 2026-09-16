@@ -1,0 +1,45 @@
+{
+  "recorded_utc": "2026-09-16T17:38:36.310435+00:00",
+  "baseline_commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+  "working_commit": "95e11e918ace77a51de4b612a48e74c298e67e58",
+  "runtime": "existing .venv Python3.12",
+  "limits": {
+    "command_seconds": 300,
+    "numeric_threads": 1,
+    "no_cache": true
+  },
+  "commands": [
+    {
+      "command": "PYTHONDONTWRITEBYTECODE=1 OPENBLAS_NUM_THREADS=1 .venv/bin/python audit/parallel-01/inputs/parse_inputs.py",
+      "exit_code": 0,
+      "timeout": false,
+      "raw_output": "parse-output.txt"
+    },
+    {
+      "command": "PYTHONDONTWRITEBYTECODE=1 OPENBLAS_NUM_THREADS=1 .venv/bin/python audit/parallel-01/inputs/check_inputs.py",
+      "exit_code": 0,
+      "timeout": false,
+      "raw_output": "check-output.txt"
+    },
+    {
+      "command": "PYTHONDONTWRITEBYTECODE=1 OPENBLAS_NUM_THREADS=1 .venv/bin/python audit/parallel-01/inputs/acquire.py",
+      "exit_code": 0,
+      "timeout": false,
+      "raw_output": "acquire-output.txt"
+    }
+  ],
+  "hashes": {
+    "parse_inputs.py": "dd83703b892c4908d361f534785908c27cde9e2d890a89d6d6fbdab700fb9f0d",
+    "check_inputs.py": "9f08d528faaa5a062a01ff000530b214af4043cbfb6a0bfe341696158e2f09e4",
+    "acquire.py": "4b404391486ae0f44b2dcb7388827c418addcb32344433b614a7bfbf35120224",
+    "dataset.json": "e3d8a8b7a81f00e17d54209772eee7bedb5b922e6176ca722be31f952eaea895",
+    "page-map.json": "f59bf8d94c86a06cf620b5368eabb27dfebc62fbf39b38e467636785762f4cba",
+    "visual-records.json": "2e6af39a6a2ae191ee9fbc4bfe1c2e83ef5da3e88c1ea648fb897d820997efce",
+    "REPORT.md": "1e47f3768c9d39dd6dd2b3159169e0d0e70641ba9dcf59b92dfed9749d139a4d"
+  },
+  "notes": [
+    "Read-only shell inventory attempts with unmatched zsh globs failed before reads; no input changes.",
+    "Crops generated via Pillow; saved coordinate definitions in visual-records.json. Initial overlapping montage was corrected before final review.",
+    "Visual comparison was not blind."
+  ]
+}

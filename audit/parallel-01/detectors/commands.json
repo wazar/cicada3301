@@ -1,0 +1,12 @@
+{
+  "environment":{"python":".venv/bin/python3.12","OPENBLAS_NUM_THREADS":"1","OMP_NUM_THREADS":"1","PYTHONDONTWRITEBYTECODE":"1","routine_limit_seconds":300,"heavy_slot":1},
+  "runs":[
+    {"command":".venv/bin/python3.12 audit/parallel-01/detectors/checks.py","phase":"initial handchecks","exit":1,"error":"AssertionError: independent mapper removed spaces before greedy digraph parsing, unlike inherited mapper. Fixed audit mapper to preserve word boundaries. No main outputs existed."},
+    {"command":".venv/bin/python3.12 audit/parallel-01/detectors/checks.py > audit/parallel-01/detectors/pilot.stdout.txt","exit":0,"artifact":"pilot.json"},
+    {"command":".venv/bin/python3.12 audit/parallel-01/detectors/blind.py > audit/parallel-01/detectors/blind.stdout.txt","exit":0,"artifact":"blind-ranking.json","ranking_frozen_sha256":"7917dc1f6db49ec85f086334291dbec4cb0ad13597f80665096432ee00e30e71"},
+    {"command":".venv/bin/python3.12 audit/parallel-01/detectors/main.py > audit/parallel-01/detectors/main.stdout.txt 2> audit/parallel-01/detectors/main.stderr.txt","exit":0,"elapsed_seconds":10.200259040999299,"artifact":"raw-results.json"},
+    {"command":".venv/bin/python3.12 audit/parallel-01/detectors/lightweight.py > audit/parallel-01/detectors/lightweight.stdout.txt 2> audit/parallel-01/detectors/lightweight.stderr.txt","exit":0,"artifact":"lightweight.json"},
+    {"command":".venv/bin/python3.12 audit/parallel-01/detectors/finalize.py > audit/parallel-01/detectors/finalize.stdout.txt","exit":0,"artifact":"manifest.json"}
+  ],
+  "notes":["Environment prefix above used for pilot, blind, main and lightweight runs. No inherited encryptor used for independent plants; inherited oracle.selftest alone invokes its own plant as the explicit C010 reproduction.","All run commands completed below300s; no extended benchmark requested.","Code hashes in manifest identify current final audit code. Initial failing audit-mapper revision was corrected before frozen matrix; its exception is recorded above, not a claim of preserved full initial source."]
+}

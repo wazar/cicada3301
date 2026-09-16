@@ -1,0 +1,550 @@
+{
+  "challenge_sha256": "9409ec44706345ce78fb93f6fbe95d1484984521341559268a30ca6947bc0fd6",
+  "matrix_sha256": "822ccd5068fa47c5b00ff373fcb6e0dcbf493bf8383b494cef02234057bda106",
+  "ranking": [
+    {
+      "candidate_id": "candidate-6",
+      "rows": [
+        {
+          "page": 0,
+          "choices": [
+            {
+              "mode": "rigid",
+              "sign": -1,
+              "score": -6.689207013769679
+            },
+            {
+              "mode": "rigid",
+              "sign": 1,
+              "score": -6.982177089501056
+            },
+            {
+              "mode": "beam",
+              "sign": -1,
+              "score": -4.341236660071718
+            },
+            {
+              "mode": "beam",
+              "sign": 1,
+              "score": -6.982177089501056
+            }
+          ],
+          "best": {
+            "mode": "beam",
+            "sign": -1,
+            "score": -4.341236660071718
+          }
+        },
+        {
+          "page": 1,
+          "choices": [
+            {
+              "mode": "rigid",
+              "sign": -1,
+              "score": -6.487699978124846
+            },
+            {
+              "mode": "rigid",
+              "sign": 1,
+              "score": -7.38193139730701
+            },
+            {
+              "mode": "beam",
+              "sign": -1,
+              "score": -4.261622656713901
+            },
+            {
+              "mode": "beam",
+              "sign": 1,
+              "score": -7.674761809739975
+            }
+          ],
+          "best": {
+            "mode": "beam",
+            "sign": -1,
+            "score": -4.261622656713901
+          }
+        }
+      ],
+      "best": -4.261622656713901,
+      "second": -4.341236660071718,
+      "english_accept": true
+    },
+    {
+      "candidate_id": "candidate-0",
+      "rows": [
+        {
+          "page": 0,
+          "choices": [
+            {
+              "mode": "rigid",
+              "sign": -1,
+              "score": -7.560091538774543
+            },
+            {
+              "mode": "rigid",
+              "sign": 1,
+              "score": -7.431584283571145
+            },
+            {
+              "mode": "beam",
+              "sign": -1,
+              "score": -7.658781791668775
+            },
+            {
+              "mode": "beam",
+              "sign": 1,
+              "score": -7.158552922810301
+            }
+          ],
+          "best": {
+            "mode": "beam",
+            "sign": 1,
+            "score": -7.158552922810301
+          }
+        },
+        {
+          "page": 1,
+          "choices": [
+            {
+              "mode": "rigid",
+              "sign": -1,
+              "score": -7.438290566560389
+            },
+            {
+              "mode": "rigid",
+              "sign": 1,
+              "score": -7.483234107398113
+            },
+            {
+              "mode": "beam",
+              "sign": -1,
+              "score": -7.438290566560389
+            },
+            {
+              "mode": "beam",
+              "sign": 1,
+              "score": -7.139500834509836
+            }
+          ],
+          "best": {
+            "mode": "beam",
+            "sign": 1,
+            "score": -7.139500834509836
+          }
+        }
+      ],
+      "best": -7.139500834509836,
+      "second": -7.158552922810301,
+      "english_accept": false
+    },
+    {
+      "candidate_id": "candidate-5",
+      "rows": [
+        {
+          "page": 0,
+          "choices": [
+            {
+              "mode": "rigid",
+              "sign": -1,
+              "score": -7.312682568044916
+            },
+            {
+              "mode": "rigid",
+              "sign": 1,
+              "score": -7.419307256641372
+            },
+            {
+              "mode": "beam",
+              "sign": -1,
+              "score": -7.273616350286991
+            },
+            {
+              "mode": "beam",
+              "sign": 1,
+              "score": -7.434501908402915
+            }
+          ],
+          "best": {
+            "mode": "beam",
+            "sign": -1,
+            "score": -7.273616350286991
+          }
+        },
+        {
+          "page": 1,
+          "choices": [
+            {
+              "mode": "rigid",
+              "sign": -1,
+              "score": -7.161784086696874
+            },
+            {
+              "mode": "rigid",
+              "sign": 1,
+              "score": -7.334661618610692
+            },
+            {
+              "mode": "beam",
+              "sign": -1,
+              "score": -7.208759791538977
+            },
+            {
+              "mode": "beam",
+              "sign": 1,
+              "score": -7.58816209511808
+            }
+          ],
+          "best": {
+            "mode": "rigid",
+            "sign": -1,
+            "score": -7.161784086696874
+          }
+        }
+      ],
+      "best": -7.161784086696874,
+      "second": -7.273616350286991,
+      "english_accept": false
+    },
+    {
+      "candidate_id": "candidate-4",
+      "rows": [
+        {
+          "page": 0,
+          "choices": [
+            {
+              "mode": "rigid",
+              "sign": -1,
+              "score": -8.052738176502974
+            },
+            {
+              "mode": "rigid",
+              "sign": 1,
+              "score": -7.344054044625754
+            },
+            {
+              "mode": "beam",
+              "sign": -1,
+              "score": -7.591340368039295
+            },
+            {
+              "mode": "beam",
+              "sign": 1,
+              "score": -7.6954458257376155
+            }
+          ],
+          "best": {
+            "mode": "rigid",
+            "sign": 1,
+            "score": -7.344054044625754
+          }
+        },
+        {
+          "page": 1,
+          "choices": [
+            {
+              "mode": "rigid",
+              "sign": -1,
+              "score": -7.240628054469992
+            },
+            {
+              "mode": "rigid",
+              "sign": 1,
+              "score": -7.210269603989445
+            },
+            {
+              "mode": "beam",
+              "sign": -1,
+              "score": -7.240628054469992
+            },
+            {
+              "mode": "beam",
+              "sign": 1,
+              "score": -7.210269603989445
+            }
+          ],
+          "best": {
+            "mode": "rigid",
+            "sign": 1,
+            "score": -7.210269603989445
+          }
+        }
+      ],
+      "best": -7.210269603989445,
+      "second": -7.344054044625754,
+      "english_accept": false
+    },
+    {
+      "candidate_id": "candidate-1",
+      "rows": [
+        {
+          "page": 0,
+          "choices": [
+            {
+              "mode": "rigid",
+              "sign": -1,
+              "score": -7.356861706982083
+            },
+            {
+              "mode": "rigid",
+              "sign": 1,
+              "score": -7.831474019528349
+            },
+            {
+              "mode": "beam",
+              "sign": -1,
+              "score": -7.295125847742307
+            },
+            {
+              "mode": "beam",
+              "sign": 1,
+              "score": -7.597852445105683
+            }
+          ],
+          "best": {
+            "mode": "beam",
+            "sign": -1,
+            "score": -7.295125847742307
+          }
+        },
+        {
+          "page": 1,
+          "choices": [
+            {
+              "mode": "rigid",
+              "sign": -1,
+              "score": -7.675663394690324
+            },
+            {
+              "mode": "rigid",
+              "sign": 1,
+              "score": -7.6842681709104745
+            },
+            {
+              "mode": "beam",
+              "sign": -1,
+              "score": -7.361614929901359
+            },
+            {
+              "mode": "beam",
+              "sign": 1,
+              "score": -7.735900211637703
+            }
+          ],
+          "best": {
+            "mode": "beam",
+            "sign": -1,
+            "score": -7.361614929901359
+          }
+        }
+      ],
+      "best": -7.295125847742307,
+      "second": -7.361614929901359,
+      "english_accept": false
+    },
+    {
+      "candidate_id": "candidate-7",
+      "rows": [
+        {
+          "page": 0,
+          "choices": [
+            {
+              "mode": "rigid",
+              "sign": -1,
+              "score": -7.605065139480946
+            },
+            {
+              "mode": "rigid",
+              "sign": 1,
+              "score": -7.4021263560228086
+            },
+            {
+              "mode": "beam",
+              "sign": -1,
+              "score": -7.375999576546136
+            },
+            {
+              "mode": "beam",
+              "sign": 1,
+              "score": -7.4021263560228086
+            }
+          ],
+          "best": {
+            "mode": "beam",
+            "sign": -1,
+            "score": -7.375999576546136
+          }
+        },
+        {
+          "page": 1,
+          "choices": [
+            {
+              "mode": "rigid",
+              "sign": -1,
+              "score": -7.430712193593032
+            },
+            {
+              "mode": "rigid",
+              "sign": 1,
+              "score": -7.172753153642659
+            },
+            {
+              "mode": "beam",
+              "sign": -1,
+              "score": -6.97905529490572
+            },
+            {
+              "mode": "beam",
+              "sign": 1,
+              "score": -7.07179791579512
+            }
+          ],
+          "best": {
+            "mode": "beam",
+            "sign": -1,
+            "score": -6.97905529490572
+          }
+        }
+      ],
+      "best": -6.97905529490572,
+      "second": -7.375999576546136,
+      "english_accept": false
+    },
+    {
+      "candidate_id": "candidate-3",
+      "rows": [
+        {
+          "page": 0,
+          "choices": [
+            {
+              "mode": "rigid",
+              "sign": -1,
+              "score": -7.423891493166269
+            },
+            {
+              "mode": "rigid",
+              "sign": 1,
+              "score": -7.616351133369029
+            },
+            {
+              "mode": "beam",
+              "sign": -1,
+              "score": -7.423891493166269
+            },
+            {
+              "mode": "beam",
+              "sign": 1,
+              "score": -7.4836842808646615
+            }
+          ],
+          "best": {
+            "mode": "rigid",
+            "sign": -1,
+            "score": -7.423891493166269
+          }
+        },
+        {
+          "page": 1,
+          "choices": [
+            {
+              "mode": "rigid",
+              "sign": -1,
+              "score": -7.470573814656462
+            },
+            {
+              "mode": "rigid",
+              "sign": 1,
+              "score": -7.446799209726426
+            },
+            {
+              "mode": "beam",
+              "sign": -1,
+              "score": -7.234595753325289
+            },
+            {
+              "mode": "beam",
+              "sign": 1,
+              "score": -7.446799209726426
+            }
+          ],
+          "best": {
+            "mode": "beam",
+            "sign": -1,
+            "score": -7.234595753325289
+          }
+        }
+      ],
+      "best": -7.234595753325289,
+      "second": -7.423891493166269,
+      "english_accept": false
+    },
+    {
+      "candidate_id": "candidate-2",
+      "rows": [
+        {
+          "page": 0,
+          "choices": [
+            {
+              "mode": "rigid",
+              "sign": -1,
+              "score": -7.387683415901394
+            },
+            {
+              "mode": "rigid",
+              "sign": 1,
+              "score": -7.575482008380678
+            },
+            {
+              "mode": "beam",
+              "sign": -1,
+              "score": -7.398865285452007
+            },
+            {
+              "mode": "beam",
+              "sign": 1,
+              "score": -7.034210071389334
+            }
+          ],
+          "best": {
+            "mode": "beam",
+            "sign": 1,
+            "score": -7.034210071389334
+          }
+        },
+        {
+          "page": 1,
+          "choices": [
+            {
+              "mode": "rigid",
+              "sign": -1,
+              "score": -7.665122480651641
+            },
+            {
+              "mode": "rigid",
+              "sign": 1,
+              "score": -7.729279851972173
+            },
+            {
+              "mode": "beam",
+              "sign": -1,
+              "score": -7.636548171372638
+            },
+            {
+              "mode": "beam",
+              "sign": 1,
+              "score": -7.426902347532301
+            }
+          ],
+          "best": {
+            "mode": "beam",
+            "sign": 1,
+            "score": -7.426902347532301
+          }
+        }
+      ],
+      "best": -7.034210071389334,
+      "second": -7.426902347532301,
+      "english_accept": false
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "reference",
+    "argv": [
+      ".venv/bin/python",
+      "audit/parallel-01/reference/check.py"
+    ],
+    "timeout_seconds": 300,
+    "started_utc": "2026-09-16T17:39:16.819691+00:00",
+    "exit": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.027948583000579674
+  },
+  {
+    "name": "compare",
+    "argv": [
+      ".venv/bin/python",
+      "audit/parallel-01/reference/compare.py"
+    ],
+    "timeout_seconds": 300,
+    "started_utc": "2026-09-16T17:39:16.847647+00:00",
+    "exit": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.03194383400023071
+  },
+  {
+    "name": "inherited",
+    "argv": [
+      ".venv/bin/python",
+      "analysis/reproduce/run_all.py",
+      "-v"
+    ],
+    "timeout_seconds": 300,
+    "started_utc": "2026-09-16T17:39:16.879654+00:00",
+    "exit": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.43395545899966237
+  },
+  {
+    "name": "inherited-comparison",
+    "argv": [
+      ".venv/bin/python",
+      "audit/parallel-01/reference/inherited_comparison.py"
+    ],
+    "timeout_seconds": 300,
+    "started_utc": "2026-09-16T17:39:17.313549+00:00",
+    "exit": 0,
+    "timed_out": false,
+    "elapsed_seconds": 0.027558916000089084
+  }
+]

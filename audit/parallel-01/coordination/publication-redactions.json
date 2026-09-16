@@ -1,0 +1,24 @@
+{
+  "date_utc": "2026-09-16T17:42:18.491033+00:00",
+  "changes": [
+    {
+      "path": "audit/parallel-01/reference/sources/retrieval.json",
+      "before_sha256": "6c7dbad530495705daf1bf8c5ad9fa295857e2039197649a5ec0be495b4482ac",
+      "after_sha256": "4a6abaa750394844846d8b2019818efe03c5d177d54edc15f5888c4f5ef52aa7",
+      "change": "Replace private checkout prefix only; source data/hashes unchanged"
+    },
+    {
+      "path": "audit/parallel-01/reference/logs/fetch.stdout.txt",
+      "before_sha256": "f61f80fd3e819696fe95452d0b821d469bf738ae201f0da335cc493162327c3a",
+      "after_sha256": "8f3428248cae7d0b308d2f8d531fe555ca113d4d4942a0dd6c52e552e037cc3f",
+      "change": "Replace private checkout prefix only; source data/hashes unchanged"
+    },
+    {
+      "path": "audit/parallel-01/reference/fetch.py",
+      "before_sha256": "e752a45e17d1d7f23374baf071612b7b9cc7d6abc7bcf69d4cfdf2a6e87f5f6a",
+      "after_sha256": "c142b24c79505c7391c65032dbab727447e342c9380a179abb9bcbe76793655d",
+      "change": "Future acquisition metadata emits path relative to reference directory; no download rerun"
+    }
+  ],
+  "note": "Pre-redaction raw acquisition output intentionally not republished because it contains private path. Content hashes, URL provenance, outcomes and source bytes preserved."
+}
