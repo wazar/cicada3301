@@ -1,0 +1,13 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "audit/tools/build_t1_register.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "exit_code": 0,
+  "timed_out": false,
+  "duration_seconds": 0.06379095800002688,
+  "workers": 1,
+  "timeout_seconds": 300
+}

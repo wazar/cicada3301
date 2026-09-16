@@ -1,0 +1,43 @@
+{
+  "recorded_at_utc": "2026-09-16T17:14:26.129506+00:00",
+  "baseline_commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+  "working_commit": "0e187df6ef823994e33616e105dd4b10befa5ee0",
+  "claim_count": 47,
+  "warning_count": 18,
+  "warning_categories": {
+    "missing_artifact": 11,
+    "missing_threshold": 3,
+    "preregistration_flag_not_true": 4
+  },
+  "distinct_missing_paths": 9,
+  "t0_repeated": false,
+  "research_executed": false,
+  "wrapper_failure_injection": false,
+  "source_excerpt_files": [
+    "AGENTS.md",
+    "README.md",
+    "analysis/reproduce/README.md",
+    "audit/tools/run_t0.py",
+    "liber-primus/LEDGER.json",
+    "liber-primus/PROBLEM.json",
+    "liber-primus/SOLVERS-DOSSIER.md",
+    "liber-primus/analysis/STRUCTURE-FINDINGS.md",
+    "liber-primus/analysis/campaign18_skip/skipdecode.py",
+    "liber-primus/analysis/handoff/validate_ledger.py",
+    "liber-primus/analysis/round10b/B4-otp-steelman/b4_identifiability.py",
+    "liber-primus/analysis/round12/D2/RESULTS.md",
+    "liber-primus/analysis/round18/L1-toolchain/RESULTS.md",
+    "liber-primus/analysis/round18/L7-redteam/RESULTS.md",
+    "liber-primus/analysis/round19/I1/RESULTS.md",
+    "liber-primus/analysis/round19/I2/RESULTS.md",
+    "liber-primus/analysis/round19/T1/RESULTS.md",
+    "liber-primus/analysis/round19/T2/RESULTS.md",
+    "liber-primus/analysis/round21/SYNTHESIS.md",
+    "liber-primus/analysis/round25/SYNTHESIS.md",
+    "liber-primus/analysis/round26/SYNTHESIS.md",
+    "liber-primus/analysis/run_stats.py",
+    "liber-primus/benchmark/null.py",
+    "liber-primus/tests/validate.py",
+    "liber-primus/verify_solution.py"
+  ]
+}
