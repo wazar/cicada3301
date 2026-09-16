@@ -1,0 +1,704 @@
+{
+  "status": "PASS",
+  "stream_controls": [
+    {
+      "n": 0,
+      "header": {
+        "status": "COMPLETE_UNVERIFIED",
+        "width": 10,
+        "length": 682,
+        "capacity_bytes": 9373,
+        "bits": 75000,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 682,
+        "remaining_payload_partial_bits": 1
+      },
+      "sink": {
+        "rep_width": 10,
+        "file_size": 682,
+        "fileindex": 682,
+        "header_bits": 15,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "errors": [],
+      "payload_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "eligible_bits": 75000,
+      "source_bits": 0,
+      "exact_coefficient_match": true
+    },
+    {
+      "n": 1,
+      "header": {
+        "status": "COMPLETE_UNVERIFIED",
+        "width": 1,
+        "length": 1,
+        "capacity_bytes": 9374,
+        "bits": 75000,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 1,
+        "remaining_payload_partial_bits": 2
+      },
+      "sink": {
+        "rep_width": 1,
+        "file_size": 1,
+        "fileindex": 1,
+        "header_bits": 6,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "errors": [],
+      "payload_sha256": "6d90fbacc073ee0b4c43f3a3291cecda33764f6d66d14224ad60f471f2c8334b",
+      "eligible_bits": 75000,
+      "source_bits": 14,
+      "exact_coefficient_match": true
+    },
+    {
+      "n": 2,
+      "header": {
+        "status": "COMPLETE_UNVERIFIED",
+        "width": 2,
+        "length": 2,
+        "capacity_bytes": 9374,
+        "bits": 75000,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 2,
+        "remaining_payload_partial_bits": 1
+      },
+      "sink": {
+        "rep_width": 2,
+        "file_size": 2,
+        "fileindex": 2,
+        "header_bits": 7,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "errors": [],
+      "payload_sha256": "ab022da5f53640373b84bd79a31155ca763c5183514d8714bab3a86a4cd36418",
+      "eligible_bits": 75000,
+      "source_bits": 23,
+      "exact_coefficient_match": true
+    },
+    {
+      "n": 3,
+      "header": {
+        "status": "COMPLETE_UNVERIFIED",
+        "width": 2,
+        "length": 3,
+        "capacity_bytes": 9374,
+        "bits": 75000,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 3,
+        "remaining_payload_partial_bits": 1
+      },
+      "sink": {
+        "rep_width": 2,
+        "file_size": 3,
+        "fileindex": 3,
+        "header_bits": 7,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "errors": [],
+      "payload_sha256": "28f07be2031955704dd71de8fffa6aea67794b8cb2a0e2abbf83eff71ac551ec",
+      "eligible_bits": 75000,
+      "source_bits": 31,
+      "exact_coefficient_match": true
+    },
+    {
+      "n": 127,
+      "header": {
+        "status": "COMPLETE_UNVERIFIED",
+        "width": 7,
+        "length": 127,
+        "capacity_bytes": 9373,
+        "bits": 75000,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 127,
+        "remaining_payload_partial_bits": 4
+      },
+      "sink": {
+        "rep_width": 7,
+        "file_size": 127,
+        "fileindex": 127,
+        "header_bits": 12,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "errors": [],
+      "payload_sha256": "9cf226507b354d6fd243b9f9412910503f60dfa6ea10566c7dfc1c4d9a1a26de",
+      "eligible_bits": 75000,
+      "source_bits": 1028,
+      "exact_coefficient_match": true
+    },
+    {
+      "n": 128,
+      "header": {
+        "status": "COMPLETE_UNVERIFIED",
+        "width": 8,
+        "length": 128,
+        "capacity_bytes": 9373,
+        "bits": 75000,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 128,
+        "remaining_payload_partial_bits": 3
+      },
+      "sink": {
+        "rep_width": 8,
+        "file_size": 128,
+        "fileindex": 128,
+        "header_bits": 13,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "errors": [],
+      "payload_sha256": "6dd38c796e5b3f8460e533916154f573146a3f90a52414c8840a033348bb6312",
+      "eligible_bits": 75000,
+      "source_bits": 1037,
+      "exact_coefficient_match": true
+    },
+    {
+      "n": 255,
+      "header": {
+        "status": "COMPLETE_UNVERIFIED",
+        "width": 8,
+        "length": 255,
+        "capacity_bytes": 9373,
+        "bits": 75000,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 255,
+        "remaining_payload_partial_bits": 3
+      },
+      "sink": {
+        "rep_width": 8,
+        "file_size": 255,
+        "fileindex": 255,
+        "header_bits": 13,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "errors": [],
+      "payload_sha256": "cd2e44e52654e3ac3b8a1ec8a75bf9e7544b8af1126d331aee9a9538295fbca9",
+      "eligible_bits": 75000,
+      "source_bits": 2053,
+      "exact_coefficient_match": true
+    },
+    {
+      "n": 256,
+      "header": {
+        "status": "COMPLETE_UNVERIFIED",
+        "width": 9,
+        "length": 256,
+        "capacity_bytes": 9373,
+        "bits": 75000,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 256,
+        "remaining_payload_partial_bits": 2
+      },
+      "sink": {
+        "rep_width": 9,
+        "file_size": 256,
+        "fileindex": 256,
+        "header_bits": 14,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "errors": [],
+      "payload_sha256": "995d67122409409883dddf946e6267b5d199dd6da975cfa3827b645b9499bd3e",
+      "eligible_bits": 75000,
+      "source_bits": 2062,
+      "exact_coefficient_match": true
+    },
+    {
+      "n": 1023,
+      "header": {
+        "status": "COMPLETE_UNVERIFIED",
+        "width": 10,
+        "length": 1023,
+        "capacity_bytes": 9373,
+        "bits": 75000,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 1023,
+        "remaining_payload_partial_bits": 1
+      },
+      "sink": {
+        "rep_width": 10,
+        "file_size": 1023,
+        "fileindex": 1023,
+        "header_bits": 15,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "errors": [],
+      "payload_sha256": "4a756f6634e087be78c0f4647e19a0a1773e98e0f226d40333cbddf95bd44faa",
+      "eligible_bits": 75000,
+      "source_bits": 8199,
+      "exact_coefficient_match": true
+    },
+    {
+      "n": 1024,
+      "header": {
+        "status": "COMPLETE_UNVERIFIED",
+        "width": 11,
+        "length": 1024,
+        "capacity_bytes": 9373,
+        "bits": 75000,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 1024,
+        "remaining_payload_partial_bits": 0
+      },
+      "sink": {
+        "rep_width": 11,
+        "file_size": 1024,
+        "fileindex": 1024,
+        "header_bits": 16,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "errors": [],
+      "payload_sha256": "0272db0f0c60daf52d9d819c40ec87db60b68ae9ebd733c12fd56e35b897285a",
+      "eligible_bits": 75000,
+      "source_bits": 8208,
+      "exact_coefficient_match": true
+    },
+    {
+      "n": 1025,
+      "header": {
+        "status": "COMPLETE_UNVERIFIED",
+        "width": 11,
+        "length": 1025,
+        "capacity_bytes": 9373,
+        "bits": 75000,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 1025,
+        "remaining_payload_partial_bits": 0
+      },
+      "sink": {
+        "rep_width": 11,
+        "file_size": 1025,
+        "fileindex": 1025,
+        "header_bits": 16,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "errors": [],
+      "payload_sha256": "dfd1c454107f484af8a381695efe4ff08d49dc3f0b1c2275465da5952e5c8be7",
+      "eligible_bits": 75000,
+      "source_bits": 8216,
+      "exact_coefficient_match": true
+    }
+  ],
+  "reader_probes": [
+    {
+      "name": "width0",
+      "bits": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "header": {
+        "status": "ZERO_LENGTH_NOT_SOURCE_SUCCESS",
+        "width": 0,
+        "length": 0,
+        "capacity_bytes": 2,
+        "bits": 25,
+        "exact_nonempty_encoder_header": false,
+        "readme_width_compatible": false,
+        "complete_available_bytes": 0,
+        "remaining_payload_partial_bits": 4
+      },
+      "sink": {
+        "rep_width": 0,
+        "file_size": 0,
+        "fileindex": 2,
+        "header_bits": 5,
+        "buffer_bytes": 2,
+        "bitindex": 3,
+        "open": 1
+      },
+      "errors": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "raw_available": ""
+    },
+    {
+      "name": "positivewidth-zero",
+      "bits": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "header": {
+        "status": "ZERO_LENGTH_NOT_SOURCE_SUCCESS",
+        "width": 3,
+        "length": 0,
+        "capacity_bytes": 1,
+        "bits": 18,
+        "exact_nonempty_encoder_header": false,
+        "readme_width_compatible": false,
+        "complete_available_bytes": 0,
+        "remaining_payload_partial_bits": 2
+      },
+      "sink": {
+        "rep_width": 3,
+        "file_size": 0,
+        "fileindex": 1,
+        "header_bits": 8,
+        "buffer_bytes": 1,
+        "bitindex": 5,
+        "open": 1
+      },
+      "errors": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "raw_available": ""
+    },
+    {
+      "name": "truncatedwidth",
+      "bits": [
+        1,
+        0,
+        1
+      ],
+      "header": {
+        "status": "INCOMPLETE_WIDTH",
+        "bits": 3
+      },
+      "sink": {
+        "rep_width": 20,
+        "file_size": 0,
+        "fileindex": 0,
+        "header_bits": 3,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 1
+      },
+      "errors": [],
+      "raw_available": ""
+    },
+    {
+      "name": "truncatedlength",
+      "bits": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "header": {
+        "status": "INCOMPLETE_LENGTH",
+        "width": 8,
+        "bits": 7
+      },
+      "sink": {
+        "rep_width": 8,
+        "file_size": 192,
+        "fileindex": 0,
+        "header_bits": 7,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 1
+      },
+      "errors": [],
+      "raw_available": ""
+    },
+    {
+      "name": "leadingzero",
+      "bits": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "header": {
+        "status": "COMPLETE_UNVERIFIED",
+        "width": 3,
+        "length": 2,
+        "capacity_bytes": 2,
+        "bits": 24,
+        "exact_nonempty_encoder_header": false,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 2,
+        "remaining_payload_partial_bits": 0
+      },
+      "sink": {
+        "rep_width": 3,
+        "file_size": 2,
+        "fileindex": 2,
+        "header_bits": 8,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "errors": [],
+      "raw_available": "4142"
+    },
+    {
+      "name": "truncatedpayload",
+      "bits": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "header": {
+        "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+        "width": 2,
+        "length": 2,
+        "capacity_bytes": 1,
+        "bits": 20,
+        "exact_nonempty_encoder_header": true,
+        "readme_width_compatible": true,
+        "complete_available_bytes": 1,
+        "remaining_payload_partial_bits": 5
+      },
+      "sink": {
+        "rep_width": 2,
+        "file_size": 2,
+        "fileindex": 1,
+        "header_bits": 7,
+        "buffer_bytes": 1,
+        "bitindex": 2,
+        "open": 1
+      },
+      "errors": [],
+      "raw_available": "41"
+    }
+  ],
+  "jpeg": {
+    "input": "<REPO_ROOT>/exploration/persistent-01/worker-p/P10/control-0-clean.jpg",
+    "input_sha256": "a13c4ddb2ac818b42e609c4041ae42f8301c269bb6b6f75fc84319c31b26710e",
+    "output_sha256": "12d24efdc9b2d609bbec1b68ea10195221af0c9b9dd798e9314f9a12099b77cf",
+    "header": {
+      "status": "COMPLETE_UNVERIFIED",
+      "width": 7,
+      "length": 127,
+      "capacity_bytes": 1096,
+      "bits": 8787,
+      "exact_nonempty_encoder_header": true,
+      "readme_width_compatible": true,
+      "complete_available_bytes": 127,
+      "remaining_payload_partial_bits": 7
+    },
+    "sink": {
+      "rep_width": 7,
+      "file_size": 127,
+      "fileindex": 127,
+      "header_bits": 12,
+      "buffer_bytes": 0,
+      "bitindex": 7,
+      "open": 0
+    },
+    "meta": {
+      "frame": {
+        "width": 128,
+        "height": 96,
+        "components": [
+          {
+            "id": 1,
+            "h": 1,
+            "v": 1,
+            "q": 0
+          }
+        ]
+      },
+      "headers": [
+        {
+          "marker": 224,
+          "offset": 2,
+          "length": 16,
+          "fill": 0
+        },
+        {
+          "marker": 219,
+          "offset": 20,
+          "length": 67,
+          "fill": 0
+        },
+        {
+          "marker": 192,
+          "offset": 89,
+          "length": 11,
+          "fill": 0
+        },
+        {
+          "marker": 196,
+          "offset": 102,
+          "length": 31,
+          "fill": 0
+        },
+        {
+          "marker": 196,
+          "offset": 135,
+          "length": 181,
+          "fill": 0
+        },
+        {
+          "marker": 218,
+          "offset": 318,
+          "length": 8,
+          "fill": 0
+        }
+      ],
+      "sos_data_offset": 328,
+      "mcu_grid": [
+        16,
+        12
+      ],
+      "mcus": 192,
+      "blocks": 192,
+      "ac_symbols": 10232,
+      "dummy_blocks": 0,
+      "entropy_bits": 54773,
+      "final_data_byte_offset": 7181,
+      "consumed_bits_in_final_byte": 5,
+      "pad_bits": 3,
+      "pad_value": 7,
+      "padding_all_ones": true,
+      "entropy_byte_end": 7182,
+      "entropy_stuffed_zero_offsets": [
+        687,
+        1196,
+        1509,
+        2555,
+        3122,
+        3253,
+        5920
+      ],
+      "tail_raw_span": [
+        7182,
+        7182
+      ],
+      "tail_raw_bytes": 0,
+      "tail_bytes": 0,
+      "tail_stuffed_zero_offsets": [],
+      "marker_fill_bytes": 0,
+      "eoi_offset": 7182,
+      "after_eoi_span": [
+        7184,
+        7184
+      ],
+      "after_eoi_bytes": 0,
+      "coefficient_sha256": {
+        "1": "ac40551819a376544ce7ad95b0d20ba7c3283abe8096324bb009cdcef02d3ac9"
+      },
+      "coefficient_shapes": {
+        "1": [
+          12,
+          16,
+          64
+        ]
+      }
+    },
+    "payload_sha256": "9cf226507b354d6fd243b9f9412910503f60dfa6ea10566c7dfc1c4d9a1a26de"
+  }
+}

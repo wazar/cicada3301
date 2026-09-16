@@ -1,0 +1,19 @@
+# Checkpoint10 — model correction and source-defined image extraction
+
+One direct coordinator remains active under outside-box-v1. Deadline is unchanged:2026-09-17 03:30:37UTC /05:30:37SAST. Checkpoint9 is pushed as6ae89b9b. No new reserve exposure or solution claim.
+
+N07 corrects the marker-parity model's conditional-likelihood estimator on the same440 saved panels. The initial run preserves85 convergence-gate failures across58 panels. One separately frozen Newton polish changes only those85 fits, all qualifying after one step; no marker selection changes and maximum score perturbation is1.57e−8. Corrected real gain remains negative, with fixed-ensemble descriptive tail.20 versus original.205. Original count-model data/card/seed discrepancy remain intact. This fixes a specific estimation mismatch without revealing the proposed mechanism.
+
+N08 tests whether adjacent pages share plaintext unit-length sequences while rune identities differ. Across33 actual adjacent pairs and both directions, longest match is6units, tails.735/.740 under whole-unit and4-unit-block permutations. Planted10/16-unit copies detect8/8 at each length;6-unit controls are weak. This tests exact contiguous length copies, not all relationships between pages, translations or corrected boundaries.
+
+P10 and independent review15 agree there are zero bytes after the final required JPEG image data and beforeEOI in originals0/1. Sixteen local and three independent payload fixtures exercise complete framed/CRC extraction and unchanged pixels, with explicit supported JPEG modes and dummy-block handling. This is a location-specific bound, not a general absence-of-steganography claim.
+
+A targeted primary-source lookup then found the classic1993 JSteg patch in two archives with identical compressed/unpacked hashes. P11 and review16 use its actual signed-coefficient and length-header rules, explicitly distinguishing source code, README claims and historical integer assumptions. The source-defined reader on0/1 sees714405/687226 eligible bits; both headers demand2,147,483,647 payload bytes, exceeding89296/85898 available bytes. Neither supplies a complete payload. Independent entropy readers agree on every extracted bit; source-derived sink behavior, signed/edge fixtures and a synthetic JPEG roundtrip agree. All available bytes are retained without interpreting snippets as messages.
+
+The classic format has no magic or integrity check: under an explicitly limited fair-bit model, a nonempty capacity-valid header occurs roughly half the time, and minimal-width conformance roughly a quarter. These are not JPEG null probabilities or evidence of hidden content. Host-portability repairs and empty/zero-header behavior are documented rather than silently calling a modern harness an unmodified historical executable.
+
+Full third-party patch archives, extracted original C and the linked local binary remain local. Published source URLs/hashes and independently authored drivers/tests retain reproducibility without republishing the full third-party source. Exact retrieval metadata is in coordinator/jsteg-source. No system library installation or permission/model/authentication change occurred.
+
+Next actual assignments: P12 completes this unchanged image-channel test on43 remaining cached discovery images after an RGB control; Q04 tests unknown homophonic-map search under the corrected joint objective, with fresh review17 of arithmetic and control recovery. This separates optimization from N06's successful fixed-candidate discrimination. No extra key, marker, state or image format is added because an earlier result missed.
+
+Publication check: seven executed snapshots preserve known p06_prepare.py line14 trailing whitespace. Exact p11 build-driver snapshots retain the explicitly documented local libjpeg runtime path; no credentials. Neither scientific outputs nor executed source bytes were rewritten for style.

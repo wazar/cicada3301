@@ -1,0 +1,76 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-16/check_jpeg_control.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "6ae89b9ba7bccad346b905dcc471f98acf07a029",
+  "started_utc": "2026-09-16T23:03:35.687727+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-16/check_c_sink.py",
+      "exists": true,
+      "bytes": 1615,
+      "sha256": "ba1a15eb290e66becf54819aa247792fc48b97bacc93dfb02ecf5d2587dab838"
+    },
+    {
+      "path": "exploration/persistent-01/review-16/check_jpeg_control.py",
+      "exists": true,
+      "bytes": 707,
+      "sha256": "ff0e04d3a43e2752e4b9c45edf1c145d62bc9c464d4c61af4efce419022991b0"
+    },
+    {
+      "path": "exploration/persistent-01/review-16/compare_arrays.py",
+      "exists": true,
+      "bytes": 1224,
+      "sha256": "be8c20fbcfb9be362216f4e7a18716dc9126b2ced8cbc6d69123dffe49790689"
+    },
+    {
+      "path": "exploration/persistent-01/review-16/final_check.py",
+      "exists": true,
+      "bytes": 2536,
+      "sha256": "a11d8a2f0c19b85f12a3f9d07e0f8cbde3def1cbd653f54b957cef3e177a8113"
+    },
+    {
+      "path": "exploration/persistent-01/review-16/header_controls.py",
+      "exists": true,
+      "bytes": 2931,
+      "sha256": "1ee68d373d2f53f9b39fbf6cba66a72045ac199df4e8f5a16342e2ac42f2c8ba"
+    },
+    {
+      "path": "exploration/persistent-01/review-16/independent_jsteg.py",
+      "exists": true,
+      "bytes": 4398,
+      "sha256": "2d12e17b18f62636f213cd4a08ba24aa056bf5bd2f335b331f1412ff13912013"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P11/jpeg-control.jpg",
+      "exists": true,
+      "bytes": 7184,
+      "sha256": "12d24efdc9b2d609bbec1b68ea10195221af0c9b9dd798e9314f9a12099b77cf"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 71222,
+  "finished_utc": "2026-09-16T23:03:35.728888+00:00",
+  "duration_seconds": 0.040933375003078254
+}

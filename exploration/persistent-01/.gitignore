@@ -504,3 +504,10 @@ __pycache__/
 
 # M27 local compiled optimizer, reproducible from pinned C++ and build record.
 /worker-m/M27/fit.dylib
+
+# Exact historical source retained locally; publish retrieval URLs/hashes and independent implementations.
+/coordinator/jsteg-source/mirror-*.diff
+/coordinator/jsteg-source/mirror-*.diff.gz
+# P11 classic source-port originals and linked local executable stay local.
+/worker-p/P11/private-source/
+/worker-p/P11/harness

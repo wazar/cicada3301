@@ -1,0 +1,205 @@
+{
+  "mode": "L",
+  "size": [
+    128,
+    96
+  ],
+  "subsampling": 0,
+  "quality": 75,
+  "clean": {
+    "frame": {
+      "width": 128,
+      "height": 96,
+      "components": [
+        {
+          "id": 1,
+          "h": 1,
+          "v": 1,
+          "q": 0
+        }
+      ]
+    },
+    "headers": [
+      {
+        "marker": 224,
+        "offset": 2,
+        "length": 16,
+        "fill": 0
+      },
+      {
+        "marker": 219,
+        "offset": 20,
+        "length": 67,
+        "fill": 0
+      },
+      {
+        "marker": 192,
+        "offset": 89,
+        "length": 11,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 102,
+        "length": 31,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 135,
+        "length": 181,
+        "fill": 0
+      },
+      {
+        "marker": 218,
+        "offset": 318,
+        "length": 8,
+        "fill": 0
+      }
+    ],
+    "sos_data_offset": 328,
+    "mcu_grid": [
+      16,
+      12
+    ],
+    "mcus": 192,
+    "blocks": 192,
+    "ac_symbols": 10232,
+    "dummy_blocks": 0,
+    "entropy_bits": 54687,
+    "final_data_byte_offset": 7164,
+    "consumed_bits_in_final_byte": 7,
+    "pad_bits": 1,
+    "pad_value": 1,
+    "padding_all_ones": true,
+    "entropy_byte_end": 7165,
+    "entropy_stuffed_zero_offsets": [
+      2541
+    ],
+    "tail_raw_span": [
+      7165,
+      7165
+    ],
+    "tail_raw_bytes": 0,
+    "tail_bytes": 0,
+    "tail_stuffed_zero_offsets": [],
+    "marker_fill_bytes": 0,
+    "eoi_offset": 7165,
+    "after_eoi_span": [
+      7167,
+      7167
+    ],
+    "after_eoi_bytes": 0,
+    "coefficient_sha256": {
+      "1": "449b96ba9d9c1adae0327eec2b7191fad2d1e1cdbe05e3f2095c1ddba0f81b16"
+    },
+    "coefficient_shapes": {
+      "1": [
+        12,
+        16,
+        64
+      ]
+    }
+  },
+  "planted": {
+    "frame": {
+      "width": 128,
+      "height": 96,
+      "components": [
+        {
+          "id": 1,
+          "h": 1,
+          "v": 1,
+          "q": 0
+        }
+      ]
+    },
+    "headers": [
+      {
+        "marker": 224,
+        "offset": 2,
+        "length": 16,
+        "fill": 0
+      },
+      {
+        "marker": 219,
+        "offset": 20,
+        "length": 67,
+        "fill": 0
+      },
+      {
+        "marker": 192,
+        "offset": 89,
+        "length": 11,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 102,
+        "length": 31,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 135,
+        "length": 181,
+        "fill": 0
+      },
+      {
+        "marker": 218,
+        "offset": 318,
+        "length": 8,
+        "fill": 0
+      }
+    ],
+    "sos_data_offset": 328,
+    "mcu_grid": [
+      16,
+      12
+    ],
+    "mcus": 192,
+    "blocks": 192,
+    "ac_symbols": 10232,
+    "dummy_blocks": 0,
+    "entropy_bits": 54687,
+    "final_data_byte_offset": 7164,
+    "consumed_bits_in_final_byte": 7,
+    "pad_bits": 1,
+    "pad_value": 1,
+    "padding_all_ones": true,
+    "entropy_byte_end": 7165,
+    "entropy_stuffed_zero_offsets": [
+      2541
+    ],
+    "tail_raw_span": [
+      7165,
+      7493
+    ],
+    "tail_raw_bytes": 328,
+    "tail_bytes": 327,
+    "tail_stuffed_zero_offsets": [
+      7433
+    ],
+    "marker_fill_bytes": 0,
+    "eoi_offset": 7493,
+    "after_eoi_span": [
+      7495,
+      7495
+    ],
+    "after_eoi_bytes": 0,
+    "coefficient_sha256": {
+      "1": "449b96ba9d9c1adae0327eec2b7191fad2d1e1cdbe05e3f2095c1ddba0f81b16"
+    },
+    "coefficient_shapes": {
+      "1": [
+        12,
+        16,
+        64
+      ]
+    }
+  },
+  "clean_sha256": "a13c4ddb2ac818b42e609c4041ae42f8301c269bb6b6f75fc84319c31b26710e",
+  "planted_sha256": "1d8d53074f85b5d4419f53d6fd8ce6837410b40eb42850a6be99708688dd56b1",
+  "pixel_sha256": "d2768c0f6e143a509ba97d6e81cedc0cfb5157ccd9a4d9133e6212722e444539",
+  "payload_sha256": "f92dc04c4e73ee51460fd1c3441045752e2892bdeb3fcb86268eb3b1347f6ca0"
+}

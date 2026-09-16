@@ -1,0 +1,70 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-n/N07/verify_polished.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "6ae89b9ba7bccad346b905dcc471f98acf07a029",
+  "started_utc": "2026-09-16T22:54:40.902339+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N07/check_gradient.py",
+      "exists": true,
+      "bytes": 1641,
+      "sha256": "38b7f803d9b49c4ace8deb93646618df18655db36e4aea49c609e7dd5a895fc3"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N07/n07.py",
+      "exists": true,
+      "bytes": 6006,
+      "sha256": "bffe2fee417dc8e913669cb463d2634920a95043ba26deef5277f66fcb701a7e"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N07/polish.py",
+      "exists": true,
+      "bytes": 7486,
+      "sha256": "b74fabfe176d5e918811bcf00ec8e65b19fb54247e839efbae0198478383f1db"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N07/polished/fit-patches.json.gz",
+      "exists": true,
+      "bytes": 98255,
+      "sha256": "dc501b1cee519f7f570b83a5dbbc43ee66493a68180897917bf5f3d03455fe2a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N07/verify_polished.py",
+      "exists": true,
+      "bytes": 3116,
+      "sha256": "3cada899e9722efec62747ac677c0d87ac0275bd1938edfd797cce670028c859"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N07/verify_saved.py",
+      "exists": true,
+      "bytes": 2706,
+      "sha256": "cea116109f25016d3575da0341d9b7e07084b9a6ebd10da3bf15f15533e3ede8"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 70400,
+  "finished_utc": "2026-09-16T22:54:41.878153+00:00",
+  "duration_seconds": 0.9755990840021695
+}

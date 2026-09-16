@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/worker-n/N07/n07.py", line 75, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "<REPO_ROOT>/exploration/persistent-01/worker-n/N07/n07.py", line 73, in main
+    print(json.dumps({k:v for k,v in out.items() if k not in ['controls','real']},indent=2));assert not failed;return
+                                                                                                    ^^^^^^^^^^
+AssertionError

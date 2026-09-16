@@ -1,0 +1,26 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/worker-p/p11.py", line 77, in <module>
+    if __name__=='__main__':{'controls':controls,'actual':actual}[sys.argv[1]]()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<REPO_ROOT>/exploration/persistent-01/worker-p/p11.py", line 67, in actual
+    old.gate();md=json.loads((old.R/f'actual-{page}.json').read_text());meta=md['metadata'];ar=np.load(old.R/f'actual-{page}-coefficients.npz');assert all(old.sha(ar[k].tobytes())==meta['coefficient_sha256'][k] for k in ar.files);vals,pos=stream(meta,ar);vals.tofile(R/f'actual-{page}-stream.i16');np.savez_compressed(R/f'actual-{page}-eligible-map.npz',positions=pos);bits=np.array([int(v)&1 for v in vals if eligible(int(v))],dtype=np.uint8);bits.tofile(R/f'actual-{page}-bits.u8');packed=np.packbits(bits).tobytes();(R/f'actual-{page}-bits.packed').write_bytes(packed);h,payload=header(bits);(R/f'actual-{page}-available-payload.bin').write_bytes(payload);st=command('actual-sink-'+str(page),['sink',R/f'actual-{page}-stream.i16',R/f'actual-{page}-historical-sink.bin']);pred,ss,errs=sink_sim(bits);assert st==ss and pred==(R/f'actual-{page}-historical-sink.bin').read_bytes()
+                                                                                                                                                                                                                                               ^^^^^^^^^^^^^^^
+  File "<REPO_ROOT>/exploration/persistent-01/worker-p/p11.py", line 44, in stream
+    block=arrays[str(c['id'])][my*c['v']+y,mx*c['h']+x]
+          ~~~~~~^^^^^^^^^^^^^^
+  File "<REPO_ROOT>/.venv/lib/python3.12/site-packages/numpy/lib/_npyio_impl.py", line 257, in __getitem__
+    return format.read_array(
+           ^^^^^^^^^^^^^^^^^^
+  File "<REPO_ROOT>/.venv/lib/python3.12/site-packages/numpy/lib/_format_impl.py", line 871, in read_array
+    data = _read_bytes(fp, read_size, "array data")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<REPO_ROOT>/.venv/lib/python3.12/site-packages/numpy/lib/_format_impl.py", line 1015, in _read_bytes
+    r = fp.read(size - len(data))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.14/Frameworks/Python.framework/Versions/3.12/lib/python3.12/zipfile/__init__.py", line 1008, in read
+    data = self._read1(n)
+           ^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.14/Frameworks/Python.framework/Versions/3.12/lib/python3.12/zipfile/__init__.py", line 1084, in _read1
+    data = self._decompressor.decompress(data, n)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

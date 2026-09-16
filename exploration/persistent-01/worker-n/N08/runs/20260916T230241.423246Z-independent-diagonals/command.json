@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-n/N08/verify.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "6ae89b9ba7bccad346b905dcc471f98acf07a029",
+  "started_utc": "2026-09-16T23:02:41.432983+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N08/n08.py",
+      "exists": true,
+      "bytes": 6917,
+      "sha256": "a3adc6250c31dd35140e9ec1e6a72ef5e1676f945fdb377b10f0b9e837877b2c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N08/result.json",
+      "exists": true,
+      "bytes": 150178,
+      "sha256": "509291e583351eb76a41019271dc4514191a233735c887bd4c77cb6614f7d308"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N08/verify.py",
+      "exists": true,
+      "bytes": 4082,
+      "sha256": "ce17834558235f6ecc8e0b8634c76928d7bedfbd0ddd057add1a8034f26de166"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 71166,
+  "finished_utc": "2026-09-16T23:02:43.266901+00:00",
+  "duration_seconds": 1.833639625001524
+}

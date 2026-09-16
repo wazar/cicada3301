@@ -1,0 +1,564 @@
+{
+  "fixtures": [
+    {
+      "mode": "RGB",
+      "subsampling": 2,
+      "original": {
+        "path": "<REPO_ROOT>/exploration/persistent-01/review-15/fixtures/RGB-2.jpg",
+        "sha256": "4b5a55c30347eb23f78c5e7c8109f27d4383a537ca0291b3092ce58ff3576c3c",
+        "width": 17,
+        "height": 19,
+        "components": {
+          "1": [
+            2,
+            2
+          ],
+          "2": [
+            1,
+            1
+          ],
+          "3": [
+            1,
+            1
+          ]
+        },
+        "scan": [
+          [
+            1,
+            0,
+            0
+          ],
+          [
+            2,
+            1,
+            1
+          ],
+          [
+            3,
+            1,
+            1
+          ]
+        ],
+        "dri": 0,
+        "mcu_cols": 2,
+        "mcu_rows": 2,
+        "mcus": 4,
+        "blocks_per_mcu": 6,
+        "dc_symbols": 24,
+        "ac_symbols": 556,
+        "amplitude_bits": 1430,
+        "entropy_start": 623,
+        "eoi_offset": 1100,
+        "unstuffed_bytes": 467,
+        "stuffed_ff_count": 10,
+        "consumed_bits": 3735,
+        "final_pad_bits": "1",
+        "tail_unstuffed_hex": "",
+        "tail_bytes": 0,
+        "last_required_rawbyte": 1099,
+        "markers": [
+          [
+            2,
+            224,
+            16
+          ],
+          [
+            20,
+            219,
+            67
+          ],
+          [
+            89,
+            219,
+            67
+          ],
+          [
+            158,
+            192,
+            17
+          ],
+          [
+            177,
+            196,
+            31
+          ],
+          [
+            210,
+            196,
+            181
+          ],
+          [
+            393,
+            196,
+            31
+          ],
+          [
+            426,
+            196,
+            181
+          ],
+          [
+            609,
+            218,
+            12
+          ]
+        ]
+      },
+      "mutated": {
+        "path": "<REPO_ROOT>/exploration/persistent-01/review-15/fixtures/RGB-2-tail.jpg",
+        "sha256": "f18854a388be44ea6955bde98809b237fceb1eb5f42e819ecb16d06742f7ace6",
+        "width": 17,
+        "height": 19,
+        "components": {
+          "1": [
+            2,
+            2
+          ],
+          "2": [
+            1,
+            1
+          ],
+          "3": [
+            1,
+            1
+          ]
+        },
+        "scan": [
+          [
+            1,
+            0,
+            0
+          ],
+          [
+            2,
+            1,
+            1
+          ],
+          [
+            3,
+            1,
+            1
+          ]
+        ],
+        "dri": 0,
+        "mcu_cols": 2,
+        "mcu_rows": 2,
+        "mcus": 4,
+        "blocks_per_mcu": 6,
+        "dc_symbols": 24,
+        "ac_symbols": 556,
+        "amplitude_bits": 1430,
+        "entropy_start": 623,
+        "eoi_offset": 1134,
+        "unstuffed_bytes": 500,
+        "stuffed_ff_count": 11,
+        "consumed_bits": 3735,
+        "final_pad_bits": "1",
+        "tail_unstuffed_hex": "523135540017726576696577313500ff01656e74726f70792d7461696c0d38d67e",
+        "tail_bytes": 33,
+        "last_required_rawbyte": 1099,
+        "markers": [
+          [
+            2,
+            224,
+            16
+          ],
+          [
+            20,
+            219,
+            67
+          ],
+          [
+            89,
+            219,
+            67
+          ],
+          [
+            158,
+            192,
+            17
+          ],
+          [
+            177,
+            196,
+            31
+          ],
+          [
+            210,
+            196,
+            181
+          ],
+          [
+            393,
+            196,
+            31
+          ],
+          [
+            426,
+            196,
+            181
+          ],
+          [
+            609,
+            218,
+            12
+          ]
+        ]
+      },
+      "frame_hex": "523135540017726576696577313500ff01656e74726f70792d7461696c0d38d67e",
+      "pixel_identity": true
+    },
+    {
+      "mode": "RGB",
+      "subsampling": 0,
+      "original": {
+        "path": "<REPO_ROOT>/exploration/persistent-01/review-15/fixtures/RGB-0.jpg",
+        "sha256": "c6daa5a991aed17c28b29acb18c37893b7245d53ef949c76ab27a5f69128684e",
+        "width": 17,
+        "height": 19,
+        "components": {
+          "1": [
+            1,
+            1
+          ],
+          "2": [
+            1,
+            1
+          ],
+          "3": [
+            1,
+            1
+          ]
+        },
+        "scan": [
+          [
+            1,
+            0,
+            0
+          ],
+          [
+            2,
+            1,
+            1
+          ],
+          [
+            3,
+            1,
+            1
+          ]
+        ],
+        "dri": 0,
+        "mcu_cols": 3,
+        "mcu_rows": 3,
+        "mcus": 9,
+        "blocks_per_mcu": 3,
+        "dc_symbols": 27,
+        "ac_symbols": 1015,
+        "amplitude_bits": 2571,
+        "entropy_start": 623,
+        "eoi_offset": 1477,
+        "unstuffed_bytes": 838,
+        "stuffed_ff_count": 16,
+        "consumed_bits": 6702,
+        "final_pad_bits": "11",
+        "tail_unstuffed_hex": "",
+        "tail_bytes": 0,
+        "last_required_rawbyte": 1476,
+        "markers": [
+          [
+            2,
+            224,
+            16
+          ],
+          [
+            20,
+            219,
+            67
+          ],
+          [
+            89,
+            219,
+            67
+          ],
+          [
+            158,
+            192,
+            17
+          ],
+          [
+            177,
+            196,
+            31
+          ],
+          [
+            210,
+            196,
+            181
+          ],
+          [
+            393,
+            196,
+            31
+          ],
+          [
+            426,
+            196,
+            181
+          ],
+          [
+            609,
+            218,
+            12
+          ]
+        ]
+      },
+      "mutated": {
+        "path": "<REPO_ROOT>/exploration/persistent-01/review-15/fixtures/RGB-0-tail.jpg",
+        "sha256": "cfce2aeef8e668b7ea2530af4301cfa2efd41489eefb545980d8476529e23a8c",
+        "width": 17,
+        "height": 19,
+        "components": {
+          "1": [
+            1,
+            1
+          ],
+          "2": [
+            1,
+            1
+          ],
+          "3": [
+            1,
+            1
+          ]
+        },
+        "scan": [
+          [
+            1,
+            0,
+            0
+          ],
+          [
+            2,
+            1,
+            1
+          ],
+          [
+            3,
+            1,
+            1
+          ]
+        ],
+        "dri": 0,
+        "mcu_cols": 3,
+        "mcu_rows": 3,
+        "mcus": 9,
+        "blocks_per_mcu": 3,
+        "dc_symbols": 27,
+        "ac_symbols": 1015,
+        "amplitude_bits": 2571,
+        "entropy_start": 623,
+        "eoi_offset": 1511,
+        "unstuffed_bytes": 871,
+        "stuffed_ff_count": 17,
+        "consumed_bits": 6702,
+        "final_pad_bits": "11",
+        "tail_unstuffed_hex": "523135540017726576696577313500ff01656e74726f70792d7461696c0d38d67e",
+        "tail_bytes": 33,
+        "last_required_rawbyte": 1476,
+        "markers": [
+          [
+            2,
+            224,
+            16
+          ],
+          [
+            20,
+            219,
+            67
+          ],
+          [
+            89,
+            219,
+            67
+          ],
+          [
+            158,
+            192,
+            17
+          ],
+          [
+            177,
+            196,
+            31
+          ],
+          [
+            210,
+            196,
+            181
+          ],
+          [
+            393,
+            196,
+            31
+          ],
+          [
+            426,
+            196,
+            181
+          ],
+          [
+            609,
+            218,
+            12
+          ]
+        ]
+      },
+      "frame_hex": "523135540017726576696577313500ff01656e74726f70792d7461696c0d38d67e",
+      "pixel_identity": true
+    },
+    {
+      "mode": "L",
+      "subsampling": 0,
+      "original": {
+        "path": "<REPO_ROOT>/exploration/persistent-01/review-15/fixtures/L-0.jpg",
+        "sha256": "438acc85a7c080117b6a486ff08ccea6c508a690fe5d27eacd8ca269bd12f5f5",
+        "width": 17,
+        "height": 19,
+        "components": {
+          "1": [
+            1,
+            1
+          ]
+        },
+        "scan": [
+          [
+            1,
+            0,
+            0
+          ]
+        ],
+        "dri": 0,
+        "mcu_cols": 3,
+        "mcu_rows": 3,
+        "mcus": 9,
+        "blocks_per_mcu": 1,
+        "dc_symbols": 9,
+        "ac_symbols": 366,
+        "amplitude_bits": 1228,
+        "entropy_start": 328,
+        "eoi_offset": 675,
+        "unstuffed_bytes": 345,
+        "stuffed_ff_count": 2,
+        "consumed_bits": 2755,
+        "final_pad_bits": "11111",
+        "tail_unstuffed_hex": "",
+        "tail_bytes": 0,
+        "last_required_rawbyte": 674,
+        "markers": [
+          [
+            2,
+            224,
+            16
+          ],
+          [
+            20,
+            219,
+            67
+          ],
+          [
+            89,
+            192,
+            11
+          ],
+          [
+            102,
+            196,
+            31
+          ],
+          [
+            135,
+            196,
+            181
+          ],
+          [
+            318,
+            218,
+            8
+          ]
+        ]
+      },
+      "mutated": {
+        "path": "<REPO_ROOT>/exploration/persistent-01/review-15/fixtures/L-0-tail.jpg",
+        "sha256": "cc5fa06cb33db4f42e20ba238109e866b820cff9ee5cbf34b2656733279997a7",
+        "width": 17,
+        "height": 19,
+        "components": {
+          "1": [
+            1,
+            1
+          ]
+        },
+        "scan": [
+          [
+            1,
+            0,
+            0
+          ]
+        ],
+        "dri": 0,
+        "mcu_cols": 3,
+        "mcu_rows": 3,
+        "mcus": 9,
+        "blocks_per_mcu": 1,
+        "dc_symbols": 9,
+        "ac_symbols": 366,
+        "amplitude_bits": 1228,
+        "entropy_start": 328,
+        "eoi_offset": 709,
+        "unstuffed_bytes": 378,
+        "stuffed_ff_count": 3,
+        "consumed_bits": 2755,
+        "final_pad_bits": "11111",
+        "tail_unstuffed_hex": "523135540017726576696577313500ff01656e74726f70792d7461696c0d38d67e",
+        "tail_bytes": 33,
+        "last_required_rawbyte": 674,
+        "markers": [
+          [
+            2,
+            224,
+            16
+          ],
+          [
+            20,
+            219,
+            67
+          ],
+          [
+            89,
+            192,
+            11
+          ],
+          [
+            102,
+            196,
+            31
+          ],
+          [
+            135,
+            196,
+            181
+          ],
+          [
+            318,
+            218,
+            8
+          ]
+        ]
+      },
+      "frame_hex": "523135540017726576696577313500ff01656e74726f70792d7461696c0d38d67e",
+      "pixel_identity": true
+    }
+  ],
+  "progressive_rejected": true,
+  "restart_declared_rejected": true
+}

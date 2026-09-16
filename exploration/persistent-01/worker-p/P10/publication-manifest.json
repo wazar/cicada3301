@@ -1,0 +1,430 @@
+{
+  "scope": "Completed public evidence/current bytes. Historical third-party originals and linked binaries local-only; source retrieval identities retained. Original scientific snapshots remain separately identifiable.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/worker-p/P10/CARD.md",
+      "bytes": 3831,
+      "sha256": "fff0e87115689f5e78f514968a24d64678883aaefebdb851d395c12749ec5ad6"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/MANIFEST.json",
+      "bytes": 11370,
+      "sha256": "e7a607e1ca4d59676c8b05b8a50c807b805d525233c3bfb13f5c13ece9bfa8c0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/REPORT.md",
+      "bytes": 5902,
+      "sha256": "0fa6999c9a8a0ef4c727a2fd69fd5ea6d56282d5e6ad09be1553db41100d5a51"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/actual-0-coefficients.npz",
+      "bytes": 803715,
+      "sha256": "a93f28505323941b3a76db81360ff0d1c9115fbcb297b83023d0596b32c45e60"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/actual-0-tail-raw.bin",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/actual-0-tail.bin",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/actual-0.json",
+      "bytes": 50262,
+      "sha256": "240af168f2c0559e49ac0c8c7688214a417014e64ccb2c52de58cff432641de1"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/actual-1-coefficients.npz",
+      "bytes": 755665,
+      "sha256": "207c0824533b18cef5f7c2a44068b3c4f9a3ff414901d8e627b60b4abf625353"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/actual-1-tail-raw.bin",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/actual-1-tail.bin",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/actual-1.json",
+      "bytes": 44647,
+      "sha256": "7c652e7e2ca96a5b8da35cacd5c66c74a3fecca9fb1413c6811b036f51889d24"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/actual-summary.json",
+      "bytes": 748,
+      "sha256": "195c5c8b5a22393d6e2040e363ce146a6ea0341bd60bd0058b06ae91234ff49b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-0-clean.jpg",
+      "bytes": 7167,
+      "sha256": "a13c4ddb2ac818b42e609c4041ae42f8301c269bb6b6f75fc84319c31b26710e"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-0-extracted.bin",
+      "bytes": 327,
+      "sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-0-planted.jpg",
+      "bytes": 7495,
+      "sha256": "1d8d53074f85b5d4419f53d6fd8ce6837410b40eb42850a6be99708688dd56b1"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-0.json",
+      "bytes": 3902,
+      "sha256": "8e40d8dd6dbd0c5b958973023fa882abfc5f474c26a41cf0cfa9c84fd1593b0a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-1-clean.jpg",
+      "bytes": 10686,
+      "sha256": "4272a2d5ad1b0f21aab332f0116a610f01c267b19203febe8e46b4e6470bc773"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-1-extracted.bin",
+      "bytes": 327,
+      "sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-1-planted.jpg",
+      "bytes": 11014,
+      "sha256": "4b7b1db3f83190aa0c9407837e766d597071c35a74f086dc07df1d57502b9e1a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-1.json",
+      "bytes": 4517,
+      "sha256": "969dbd72af8d8fa359fb32c24e31bd08cf917d02f855a0efa0e7a9792d0533a7"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-10-clean.jpg",
+      "bytes": 15739,
+      "sha256": "d85fa3aa049a95f51b5530c5886d88c1eef77d5efc9879db56f189486b2e3b06"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-10-extracted.bin",
+      "bytes": 327,
+      "sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-10-planted.jpg",
+      "bytes": 16067,
+      "sha256": "f56561a9075065ae0a465f132795e976b9972edf23e40c2121cdfe8e848f4a76"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-10.json",
+      "bytes": 5713,
+      "sha256": "b7316a55c35ad9564dd7479b2f3969b4d5a0556a6044a3eec1b01f9f3a34ca4b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-11-clean.jpg",
+      "bytes": 25165,
+      "sha256": "ad566562a0fc38a543b0494d8d904535803ff6f96e0218260c2809a2bd853a51"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-11-extracted.bin",
+      "bytes": 327,
+      "sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-11-planted.jpg",
+      "bytes": 25493,
+      "sha256": "cd63823340660040a637f47c4cc1660e0e7b428065d5f97d6e1355b8f84a340a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-11.json",
+      "bytes": 6109,
+      "sha256": "90a6bcdb2b26631eef4634308ecdb7e29ea116aeb787f7c62ab048891765a014"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-12-clean.jpg",
+      "bytes": 10280,
+      "sha256": "199f512353b406746e0919644cf97eb1291089ecb3d697e9e6f3b034f63b8054"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-12-extracted.bin",
+      "bytes": 327,
+      "sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-12-planted.jpg",
+      "bytes": 10608,
+      "sha256": "dc5b349fc8f13c09c033db84acbf0f996ece2d077529e4f06fbbe62da36cbc4b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-12.json",
+      "bytes": 5695,
+      "sha256": "8394acf6392707e9af207d824f45bd5a5de1b6bce38e988f26b7693d2641ba6c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-13-clean.jpg",
+      "bytes": 16402,
+      "sha256": "45f662b9b3a72009e506abc0eced5038fd4ec28ca99739224f1130899caae704"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-13-extracted.bin",
+      "bytes": 327,
+      "sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-13-planted.jpg",
+      "bytes": 16730,
+      "sha256": "2dc76a7a89e734378e9c347ba75559e2b61ab9f7d32b6b0b1dc02a3fbaa743c7"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-13.json",
+      "bytes": 6005,
+      "sha256": "f293f1abc88b0dc7cc20b8296a96c3e6d43d6b03ddeebf9b0a6e045336dd18cf"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-14-clean.jpg",
+      "bytes": 7902,
+      "sha256": "44cd329cc23388906c60942dff56acd0b904223abf1ef69738a37a446314f7e2"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-14-extracted.bin",
+      "bytes": 327,
+      "sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-14-planted.jpg",
+      "bytes": 8230,
+      "sha256": "41beeca26a341505ab155ab9e482a109e7547a8d27bad7281c1c2f3c2b2c9f55"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-14.json",
+      "bytes": 5832,
+      "sha256": "9841a55c9061ebc0997b07767e00df5b6567042201c4e22f99c8b34998f74b1c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-15-clean.jpg",
+      "bytes": 12479,
+      "sha256": "40c1bdbd291bdd7fba1e7559e6ddc58295133e90bc7fd40666c304d0ba612a4d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-15-extracted.bin",
+      "bytes": 327,
+      "sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-15-planted.jpg",
+      "bytes": 12807,
+      "sha256": "64a57a57cb65435ca4a9f070fd7543d5b86bc0972d19b811f466495e49db1ae4"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-15.json",
+      "bytes": 6105,
+      "sha256": "180233ebe1fea2a4da2989e5026d4be1bb46627bb9932d9a89ec051590ed10c7"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-2-clean.jpg",
+      "bytes": 7057,
+      "sha256": "1eafc86b98155077828e0a46454c49f548ba86b307e5372d2aca0e17dc569343"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-2-extracted.bin",
+      "bytes": 327,
+      "sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-2-planted.jpg",
+      "bytes": 7385,
+      "sha256": "014208b24a84535738506ffdd99afa062c169bb6be7f57c31e9d09dc888bbfbf"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-2.json",
+      "bytes": 4070,
+      "sha256": "48a584d7575cb7508100c4286af299cbbaf1957768d621e7184aa6553318743f"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-3-clean.jpg",
+      "bytes": 10539,
+      "sha256": "528159ebef38bed1d336f5a85cdb4a86048cc513904d3085251b4c8b12b6ff9d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-3-extracted.bin",
+      "bytes": 327,
+      "sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-3-planted.jpg",
+      "bytes": 10867,
+      "sha256": "fd105d8f9d694182bd2a5407e818c2952906faa3d78b1b14659baabe4b1ba0cc"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-3.json",
+      "bytes": 4423,
+      "sha256": "6dd9fd00f14d8d15a0297c19e5e850f96bb6356c6e78495a03f096d94992faab"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-4-clean.jpg",
+      "bytes": 16015,
+      "sha256": "f433ebf3b2a0e6513f0a1b86ce8a9f6d4940edf0b41ea22de0fdb61d4d6cc3b3"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-4-extracted.bin",
+      "bytes": 327,
+      "sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-4-planted.jpg",
+      "bytes": 16343,
+      "sha256": "49918b4567502551e40d94f606a300ab579038f1e8a763bad7ba64e0ef1086b4"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-4.json",
+      "bytes": 5781,
+      "sha256": "80c6e99f0eec9357c7cf8fee78eba4f5c106879f1b05541c2134da761eb6d800"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-5-clean.jpg",
+      "bytes": 25504,
+      "sha256": "0fb2d9a4ba499cdd2df2fa818ab4f2941d67d8e0e0fbac6b0c53c08a7d649ad3"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-5-extracted.bin",
+      "bytes": 327,
+      "sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-5-planted.jpg",
+      "bytes": 25832,
+      "sha256": "6fdb8ce7ffa35beed4afd89b8be823b28fbcaffd4f950af6e1c8557b24959b3f"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-5.json",
+      "bytes": 6031,
+      "sha256": "55f5fd5364951f4300ade8ef378cca3d9cf8d92aea2741c7249cef0556fd294c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-6-clean.jpg",
+      "bytes": 10364,
+      "sha256": "95cdbfac1bedeca411b2c8de07e44bff913d405a4a88873b843efc1cc0ddf867"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-6-extracted.bin",
+      "bytes": 327,
+      "sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-6-planted.jpg",
+      "bytes": 10692,
+      "sha256": "104d29c45eedcf8ff2cc4fb39602167f7df42a69d98bc7988a22df60adf536cd"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-6.json",
+      "bytes": 5691,
+      "sha256": "87958c33534bee79e33c0c691fe718d95833792dd69b129c5a132431cd030759"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-7-clean.jpg",
+      "bytes": 16496,
+      "sha256": "61c84d5613e739cbf43fb18a56cbaea33d185afee02c82c4ed587d950d6795af"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-7-extracted.bin",
+      "bytes": 327,
+      "sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-7-planted.jpg",
+      "bytes": 16824,
+      "sha256": "46f4a65d7508ba430ea30e69917f44d1ef9258f9c6761fcea1226e5690522850"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-7.json",
+      "bytes": 5823,
+      "sha256": "c5bc8b6c29e707022c2145ec843869a4274f8b7e7997a7b91368791f51e2ab56"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-8-clean.jpg",
+      "bytes": 8010,
+      "sha256": "99df14c5d24f12f7cd6d29d30f2e7d1768051505eff334eaf96036af42462933"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-8-extracted.bin",
+      "bytes": 327,
+      "sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-8-planted.jpg",
+      "bytes": 8338,
+      "sha256": "3778c10d03ea0153532125f7183ce5ce971c710dfdc90536ab86ccd4be24ca64"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-8.json",
+      "bytes": 5716,
+      "sha256": "8cd895d48bd4c56798eb06a47c5d917c744d256af953e16c6c69c45adcb3d8fa"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-9-clean.jpg",
+      "bytes": 12496,
+      "sha256": "71dae1556f769609e91085dceb2ab33848c79d5fce280853cbc7f990da8ba281"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-9-extracted.bin",
+      "bytes": 327,
+      "sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-9-planted.jpg",
+      "bytes": 12824,
+      "sha256": "ca682fb696d19db1e63d3036501a589b8bc876bcb44c8c957bd6e26e2ac6c669"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-9.json",
+      "bytes": 5737,
+      "sha256": "ed41d52148b442452028011bbf2851778b47e517a70fd549e1e60eac2e25e193"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/control-frame.bin",
+      "bytes": 327,
+      "sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/controls.json",
+      "bytes": 7564,
+      "sha256": "789c415c18e79d9521a51bf01747057c5e4f66f2975682b8be41df53f3c1282d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/invalid-allones-dht.jpg",
+      "bytes": 12469,
+      "sha256": "0cbab598ad0abca91a8ed2fd33a3c5f4082dd1d3e3698b875b2be45f97d1e168"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/invalid-truncated.jpg",
+      "bytes": 11979,
+      "sha256": "b2781f5b07b7c29c09a5ee11ecae6b55d3ecd314d0f2868daf7c9282f9e098e5"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/noncanonical-padding.jpg",
+      "bytes": 7167,
+      "sha256": "2134dfcb33f203abb2e09fa329034b907b0c1bd950e16c56ad9d0edcb8c2ba25"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/payload.bin",
+      "bytes": 311,
+      "sha256": "f92dc04c4e73ee51460fd1c3441045752e2892bdeb3fcb86268eb3b1347f6ca0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/unsupported-multiscan-header.jpg",
+      "bytes": 12477,
+      "sha256": "dee40de8998af09929e9391878099353c0b98d68f3bc10e863019fc120daf794"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/unsupported-progressive.jpg",
+      "bytes": 7321,
+      "sha256": "7f7b9c7379b2f355bbc61184c4519d522a86d94a1d84539a53718d884554ca44"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/unsupported-restart-header.jpg",
+      "bytes": 12485,
+      "sha256": "c9e691c65baa0aeb5864ce9e95c37f0cd795d1301613f0580f785be4a47a72d9"
+    }
+  ]
+}

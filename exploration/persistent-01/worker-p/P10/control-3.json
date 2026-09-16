@@ -1,0 +1,247 @@
+{
+  "mode": "L",
+  "size": [
+    123,
+    91
+  ],
+  "subsampling": 0,
+  "quality": 92,
+  "clean": {
+    "frame": {
+      "width": 123,
+      "height": 91,
+      "components": [
+        {
+          "id": 1,
+          "h": 1,
+          "v": 1,
+          "q": 0
+        }
+      ]
+    },
+    "headers": [
+      {
+        "marker": 224,
+        "offset": 2,
+        "length": 16,
+        "fill": 0
+      },
+      {
+        "marker": 219,
+        "offset": 20,
+        "length": 67,
+        "fill": 0
+      },
+      {
+        "marker": 192,
+        "offset": 89,
+        "length": 11,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 102,
+        "length": 31,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 135,
+        "length": 181,
+        "fill": 0
+      },
+      {
+        "marker": 218,
+        "offset": 318,
+        "length": 8,
+        "fill": 0
+      }
+    ],
+    "sos_data_offset": 328,
+    "mcu_grid": [
+      16,
+      12
+    ],
+    "mcus": 192,
+    "blocks": 192,
+    "ac_symbols": 11482,
+    "dummy_blocks": 0,
+    "entropy_bits": 81494,
+    "final_data_byte_offset": 10536,
+    "consumed_bits_in_final_byte": 6,
+    "pad_bits": 2,
+    "pad_value": 3,
+    "padding_all_ones": true,
+    "entropy_byte_end": 10537,
+    "entropy_stuffed_zero_offsets": [
+      1095,
+      1242,
+      1568,
+      1599,
+      1801,
+      2265,
+      3229,
+      3285,
+      3298,
+      3387,
+      5628,
+      5771,
+      5915,
+      6340,
+      6717,
+      7274,
+      7818,
+      8297,
+      8897,
+      9002,
+      9747,
+      10190
+    ],
+    "tail_raw_span": [
+      10537,
+      10537
+    ],
+    "tail_raw_bytes": 0,
+    "tail_bytes": 0,
+    "tail_stuffed_zero_offsets": [],
+    "marker_fill_bytes": 0,
+    "eoi_offset": 10537,
+    "after_eoi_span": [
+      10539,
+      10539
+    ],
+    "after_eoi_bytes": 0,
+    "coefficient_sha256": {
+      "1": "33e91c72d037602da0bc18e9df59dfef166d10a82b910d27bad4b933bb85ccda"
+    },
+    "coefficient_shapes": {
+      "1": [
+        12,
+        16,
+        64
+      ]
+    }
+  },
+  "planted": {
+    "frame": {
+      "width": 123,
+      "height": 91,
+      "components": [
+        {
+          "id": 1,
+          "h": 1,
+          "v": 1,
+          "q": 0
+        }
+      ]
+    },
+    "headers": [
+      {
+        "marker": 224,
+        "offset": 2,
+        "length": 16,
+        "fill": 0
+      },
+      {
+        "marker": 219,
+        "offset": 20,
+        "length": 67,
+        "fill": 0
+      },
+      {
+        "marker": 192,
+        "offset": 89,
+        "length": 11,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 102,
+        "length": 31,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 135,
+        "length": 181,
+        "fill": 0
+      },
+      {
+        "marker": 218,
+        "offset": 318,
+        "length": 8,
+        "fill": 0
+      }
+    ],
+    "sos_data_offset": 328,
+    "mcu_grid": [
+      16,
+      12
+    ],
+    "mcus": 192,
+    "blocks": 192,
+    "ac_symbols": 11482,
+    "dummy_blocks": 0,
+    "entropy_bits": 81494,
+    "final_data_byte_offset": 10536,
+    "consumed_bits_in_final_byte": 6,
+    "pad_bits": 2,
+    "pad_value": 3,
+    "padding_all_ones": true,
+    "entropy_byte_end": 10537,
+    "entropy_stuffed_zero_offsets": [
+      1095,
+      1242,
+      1568,
+      1599,
+      1801,
+      2265,
+      3229,
+      3285,
+      3298,
+      3387,
+      5628,
+      5771,
+      5915,
+      6340,
+      6717,
+      7274,
+      7818,
+      8297,
+      8897,
+      9002,
+      9747,
+      10190
+    ],
+    "tail_raw_span": [
+      10537,
+      10865
+    ],
+    "tail_raw_bytes": 328,
+    "tail_bytes": 327,
+    "tail_stuffed_zero_offsets": [
+      10805
+    ],
+    "marker_fill_bytes": 0,
+    "eoi_offset": 10865,
+    "after_eoi_span": [
+      10867,
+      10867
+    ],
+    "after_eoi_bytes": 0,
+    "coefficient_sha256": {
+      "1": "33e91c72d037602da0bc18e9df59dfef166d10a82b910d27bad4b933bb85ccda"
+    },
+    "coefficient_shapes": {
+      "1": [
+        12,
+        16,
+        64
+      ]
+    }
+  },
+  "clean_sha256": "528159ebef38bed1d336f5a85cdb4a86048cc513904d3085251b4c8b12b6ff9d",
+  "planted_sha256": "fd105d8f9d694182bd2a5407e818c2952906faa3d78b1b14659baabe4b1ba0cc",
+  "pixel_sha256": "8f5fdbe99716e9fa09ba56fe71d9b9ab950a67830bb98334fc9dc1edfa04cd1a",
+  "payload_sha256": "f92dc04c4e73ee51460fd1c3441045752e2892bdeb3fcb86268eb3b1347f6ca0"
+}

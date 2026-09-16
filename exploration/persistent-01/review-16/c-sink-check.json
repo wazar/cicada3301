@@ -1,0 +1,379 @@
+{
+  "harness_sha256": "b37d6093051bf4a48b0b9620e6552dc79c840b298647f9f9201fa2ecb660a43f",
+  "adapted_sink_sha256": "2ebae86ead8709c561fa88d0b3ff7c96a9b6e7f0f95990b136e0b7d10f4f92fa",
+  "controls": [
+    {
+      "index": 0,
+      "state": {
+        "rep_width": 1,
+        "file_size": 1,
+        "fileindex": 1,
+        "header_bits": 6,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "payload_sha256": "4bf5122f344554c53bde2ebb8cd2b7e3d1600ad631c385a5d7cce23c7785459a",
+      "match": true
+    },
+    {
+      "index": 1,
+      "state": {
+        "rep_width": 2,
+        "file_size": 1,
+        "fileindex": 1,
+        "header_bits": 7,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "payload_sha256": "4bf5122f344554c53bde2ebb8cd2b7e3d1600ad631c385a5d7cce23c7785459a",
+      "match": true
+    },
+    {
+      "index": 2,
+      "state": {
+        "rep_width": 2,
+        "file_size": 2,
+        "fileindex": 2,
+        "header_bits": 7,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "payload_sha256": "973f548d52a4ac0fd213356a224c045718aafe934f0dc1ec269732a28f48f405",
+      "match": true
+    },
+    {
+      "index": 3,
+      "state": {
+        "rep_width": 3,
+        "file_size": 2,
+        "fileindex": 2,
+        "header_bits": 8,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "payload_sha256": "973f548d52a4ac0fd213356a224c045718aafe934f0dc1ec269732a28f48f405",
+      "match": true
+    },
+    {
+      "index": 4,
+      "state": {
+        "rep_width": 3,
+        "file_size": 7,
+        "fileindex": 7,
+        "header_bits": 8,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "payload_sha256": "42cb101fae210b6c7616d0373e76009bf2332683c3233d0521fc408bca9b1947",
+      "match": true
+    },
+    {
+      "index": 5,
+      "state": {
+        "rep_width": 4,
+        "file_size": 7,
+        "fileindex": 7,
+        "header_bits": 9,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "payload_sha256": "42cb101fae210b6c7616d0373e76009bf2332683c3233d0521fc408bca9b1947",
+      "match": true
+    },
+    {
+      "index": 6,
+      "state": {
+        "rep_width": 4,
+        "file_size": 8,
+        "fileindex": 8,
+        "header_bits": 9,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "payload_sha256": "89e402ee8921aa9d279389d7f8ae7192e978970be80f1e208c17f7e828debaa5",
+      "match": true
+    },
+    {
+      "index": 7,
+      "state": {
+        "rep_width": 5,
+        "file_size": 8,
+        "fileindex": 8,
+        "header_bits": 10,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "payload_sha256": "89e402ee8921aa9d279389d7f8ae7192e978970be80f1e208c17f7e828debaa5",
+      "match": true
+    },
+    {
+      "index": 8,
+      "state": {
+        "rep_width": 8,
+        "file_size": 255,
+        "fileindex": 255,
+        "header_bits": 13,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "payload_sha256": "39f9f53554f454d48b300989816975dc6efa45b9e09f331835d430ee37e153b5",
+      "match": true
+    },
+    {
+      "index": 9,
+      "state": {
+        "rep_width": 9,
+        "file_size": 255,
+        "fileindex": 255,
+        "header_bits": 14,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "payload_sha256": "39f9f53554f454d48b300989816975dc6efa45b9e09f331835d430ee37e153b5",
+      "match": true
+    },
+    {
+      "index": 10,
+      "state": {
+        "rep_width": 9,
+        "file_size": 256,
+        "fileindex": 256,
+        "header_bits": 14,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "payload_sha256": "570d37dda493b4f0f78ec3968612b0c195d6930942a7fdb8349bfe83a13a3ae7",
+      "match": true
+    },
+    {
+      "index": 11,
+      "state": {
+        "rep_width": 10,
+        "file_size": 256,
+        "fileindex": 256,
+        "header_bits": 15,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "payload_sha256": "570d37dda493b4f0f78ec3968612b0c195d6930942a7fdb8349bfe83a13a3ae7",
+      "match": true
+    },
+    {
+      "index": 12,
+      "state": {
+        "rep_width": 10,
+        "file_size": 1023,
+        "fileindex": 1023,
+        "header_bits": 15,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "payload_sha256": "64f64a98edaf37cdc6d02e497545708a5822fce01e9759b4f00580cbad4e5ce3",
+      "match": true
+    },
+    {
+      "index": 13,
+      "state": {
+        "rep_width": 11,
+        "file_size": 1023,
+        "fileindex": 1023,
+        "header_bits": 16,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "payload_sha256": "64f64a98edaf37cdc6d02e497545708a5822fce01e9759b4f00580cbad4e5ce3",
+      "match": true
+    },
+    {
+      "index": 14,
+      "state": {
+        "rep_width": 11,
+        "file_size": 1024,
+        "fileindex": 1024,
+        "header_bits": 16,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "payload_sha256": "cfdaf09ad4120f86f3ba0ed925c3d0778e80da6c19360e6a9e948eefd77725a4",
+      "match": true
+    },
+    {
+      "index": 15,
+      "state": {
+        "rep_width": 12,
+        "file_size": 1024,
+        "fileindex": 1024,
+        "header_bits": 17,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "payload_sha256": "cfdaf09ad4120f86f3ba0ed925c3d0778e80da6c19360e6a9e948eefd77725a4",
+      "match": true
+    },
+    {
+      "index": 16,
+      "state": {
+        "rep_width": 11,
+        "file_size": 1025,
+        "fileindex": 1025,
+        "header_bits": 16,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "payload_sha256": "77f9f77d1d6f58fc51cf36f1910f42e7a6cf53cb7295151875744118b0336c05",
+      "match": true
+    },
+    {
+      "index": 17,
+      "state": {
+        "rep_width": 12,
+        "file_size": 1025,
+        "fileindex": 1025,
+        "header_bits": 17,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "payload_sha256": "77f9f77d1d6f58fc51cf36f1910f42e7a6cf53cb7295151875744118b0336c05",
+      "match": true
+    },
+    {
+      "index": 18,
+      "state": {
+        "rep_width": 13,
+        "file_size": 4096,
+        "fileindex": 4096,
+        "header_bits": 18,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "payload_sha256": "270912ae65b6bb1f92a1b6c914cb5b09d6c518418db843e1eb29515620607d52",
+      "match": true
+    },
+    {
+      "index": 19,
+      "state": {
+        "rep_width": 14,
+        "file_size": 4096,
+        "fileindex": 4096,
+        "header_bits": 19,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 0
+      },
+      "payload_sha256": "270912ae65b6bb1f92a1b6c914cb5b09d6c518418db843e1eb29515620607d52",
+      "match": true
+    }
+  ],
+  "zero_edge": [
+    {
+      "bodybits": 0,
+      "state": {
+        "rep_width": 0,
+        "file_size": 0,
+        "fileindex": 0,
+        "header_bits": 5,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 1
+      },
+      "flushed_bytes": 0
+    },
+    {
+      "bodybits": 1,
+      "state": {
+        "rep_width": 0,
+        "file_size": 0,
+        "fileindex": 0,
+        "header_bits": 5,
+        "buffer_bytes": 0,
+        "bitindex": 6,
+        "open": 1
+      },
+      "flushed_bytes": 0
+    },
+    {
+      "bodybits": 7,
+      "state": {
+        "rep_width": 0,
+        "file_size": 0,
+        "fileindex": 0,
+        "header_bits": 5,
+        "buffer_bytes": 0,
+        "bitindex": 0,
+        "open": 1
+      },
+      "flushed_bytes": 0
+    },
+    {
+      "bodybits": 8,
+      "state": {
+        "rep_width": 0,
+        "file_size": 0,
+        "fileindex": 1,
+        "header_bits": 5,
+        "buffer_bytes": 1,
+        "bitindex": 7,
+        "open": 1
+      },
+      "flushed_bytes": 0
+    },
+    {
+      "bodybits": 16,
+      "state": {
+        "rep_width": 0,
+        "file_size": 0,
+        "fileindex": 2,
+        "header_bits": 5,
+        "buffer_bytes": 2,
+        "bitindex": 7,
+        "open": 1
+      },
+      "flushed_bytes": 0
+    },
+    {
+      "bodybits": 8192,
+      "state": {
+        "rep_width": 0,
+        "file_size": 0,
+        "fileindex": 1024,
+        "header_bits": 5,
+        "buffer_bytes": 0,
+        "bitindex": 7,
+        "open": 1
+      },
+      "flushed_bytes": 1024
+    },
+    {
+      "bodybits": 8200,
+      "state": {
+        "rep_width": 0,
+        "file_size": 0,
+        "fileindex": 1025,
+        "header_bits": 5,
+        "buffer_bytes": 1,
+        "bitindex": 7,
+        "open": 1
+      },
+      "flushed_bytes": 1024
+    }
+  ]
+}

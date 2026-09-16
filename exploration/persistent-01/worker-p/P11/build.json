@@ -1,0 +1,22 @@
+{
+  "command": [
+    "clang",
+    "-O2",
+    "-std=c11",
+    "-D_DARWIN_C_SOURCE",
+    "-DSTEG_SUPPORTED",
+    "-I/Users/mikewazar/.cache/codex-runtimes/codex-primary-runtime/dependencies/native/poppler/poppler/include",
+    "-I<REPO_ROOT>/exploration/persistent-01/worker-p/P11/private-source",
+    "<REPO_ROOT>/exploration/persistent-01/worker-p/P11/harness.c",
+    "<REPO_ROOT>/exploration/persistent-01/worker-p/P11/private-source/bitsource.c",
+    "<REPO_ROOT>/exploration/persistent-01/worker-p/P11/private-source/bitsink.c",
+    "/Users/mikewazar/.cache/codex-runtimes/codex-primary-runtime/dependencies/native/poppler/poppler/lib/libjpeg.a",
+    "-lm",
+    "-o",
+    "<REPO_ROOT>/exploration/persistent-01/worker-p/P11/harness"
+  ],
+  "exit_code": 0,
+  "compiler": "Apple clang version 21.0.0 (clang-2100.3.34.2)\nTarget: arm64-apple-darwin27.0.0\nThread model: posix\nInstalledDir: /Library/Developer/CommandLineTools/usr/bin\n",
+  "lib_sha256": "dfee3c454a04cdc8f8ca2619146a1b53187e9ec2b2755ef15e3639105231b63f",
+  "thirdparty_sources_local_only": true
+}

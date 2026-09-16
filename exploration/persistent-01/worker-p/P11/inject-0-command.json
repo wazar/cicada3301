@@ -1,0 +1,10 @@
+{
+  "command": [
+    "<REPO_ROOT>/exploration/persistent-01/worker-p/P11/harness",
+    "inject",
+    "<REPO_ROOT>/exploration/persistent-01/worker-p/P11/stream-carrier.i16",
+    "<REPO_ROOT>/exploration/persistent-01/worker-p/P11/embedded-0.i16",
+    "<REPO_ROOT>/exploration/persistent-01/worker-p/P11/payload-0.bin"
+  ],
+  "exit_code": 0
+}

@@ -1,0 +1,7028 @@
+{
+  "page": 0,
+  "image_sha256": "197e1e153958b9a2736b09c10eea7d8bb00e0632fd22a8d9606840becc79942e",
+  "eligible_bits": 714405,
+  "packed_sha256": "bbc4ca689518c291257d786562a7ec27b03ed0e7785341e713e872dbc7f6ddb6",
+  "header": {
+    "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+    "width": 31,
+    "length": 2147483647,
+    "capacity_bytes": 89296,
+    "bits": 714405,
+    "exact_nonempty_encoder_header": true,
+    "readme_width_compatible": true,
+    "complete_available_bytes": 89296,
+    "remaining_payload_partial_bits": 1
+  },
+  "sink": {
+    "rep_width": 31,
+    "file_size": 2147483647,
+    "fileindex": 89296,
+    "header_bits": 36,
+    "buffer_bytes": 208,
+    "bitindex": 6,
+    "open": 1
+  },
+  "available_payload_sha256": "deb59d702a8d364a6aa9486048405e61b6e4748641cbd794c0c5d9d458b8a53c",
+  "historical_output_bytes": 89088,
+  "historical_output_sha256": "11b0af02fff2d5284d563a9033a6428c5c29f879a5580e8f77fc414ecde59a36",
+  "faircoin_probability_positive_capacity": 0.5113293032627553,
+  "faircoin_probability_minimal_capacity": 0.25566530227661133,
+  "faircoin_999_positive_capacity": 517,
+  "faircoin_999_minimal_capacity": 243,
+  "null": [
+    {
+      "width": 20,
+      "length": 240836,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 247458506,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 17,
+      "length": 121614,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 4,
+      "length": 6,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 14,
+      "length": 3427,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 25,
+      "length": 14842304,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 1,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 16,
+      "length": 9345,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 5,
+      "length": 23,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 22,
+      "length": 547356,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 227673174,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 23,
+      "length": 10937,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 9,
+      "length": 441,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 10,
+      "length": 357,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 17,
+      "length": 92249,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 31,
+      "length": 462062961,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 30,
+      "length": 848504221,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 24,
+      "length": 3927272,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 24,
+      "length": 9943145,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 17,
+      "length": 41001,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 16,
+      "length": 48885,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 19,
+      "length": 277950,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 27,
+      "length": 86022888,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 4,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 27,
+      "length": 5029368,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 6,
+      "length": 56,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 25,
+      "length": 16441788,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 14,
+      "length": 11516,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 22,
+      "length": 629304,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 27,
+      "length": 125863884,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 23,
+      "length": 1484499,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 22,
+      "length": 3359470,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 30,
+      "length": 238100096,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 29,
+      "length": 374797944,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 4,
+      "length": 13,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 2,
+      "length": 2,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 10,
+      "length": 929,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 6,
+      "length": 23,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 9845263,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 17,
+      "length": 6576,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 21,
+      "length": 680216,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 1684,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 25,
+      "length": 14210384,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 29,
+      "length": 174208868,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 1506,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 273380,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 2,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 16,
+      "length": 13221,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 252757234,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 14,
+      "length": 8794,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 16,
+      "length": 64138,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 19,
+      "length": 255479,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 449325,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 4,
+      "length": 6,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 20,
+      "length": 1030398,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 26,
+      "length": 13707363,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 20,
+      "length": 1012285,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 7,
+      "length": 80,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 17,
+      "length": 19924,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 29,
+      "length": 237287338,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 22,
+      "length": 336725,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 27,
+      "length": 123170557,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 4,
+      "length": 11,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 20,
+      "length": 927397,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 4,
+      "length": 13,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 10,
+      "length": 110,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 233899,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 11,
+      "length": 329,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 16,
+      "length": 29027,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 10,
+      "length": 136,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 7,
+      "length": 84,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 30,
+      "length": 551149114,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 10,
+      "length": 560,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 8,
+      "length": 75,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 14,
+      "length": 14311,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 12,
+      "length": 1545,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 24,
+      "length": 2333602,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 37100,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 13,
+      "length": 613,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 146858835,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 30,
+      "length": 302651151,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 26,
+      "length": 29762271,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 30,
+      "length": 997656839,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 5,
+      "length": 4,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 217322454,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 27,
+      "length": 132573954,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 8,
+      "length": 204,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 8,
+      "length": 115,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 8,
+      "length": 2,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 20,
+      "length": 79080,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 16,
+      "length": 21038,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 1515638,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 3,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 31,
+      "length": 454220608,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 24,
+      "length": 4074219,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 2,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 14,
+      "length": 13278,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 20,
+      "length": 704110,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 18,
+      "length": 28406,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 18,
+      "length": 237676,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 31,
+      "length": 1780323547,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 21,
+      "length": 1556792,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 23,
+      "length": 2071931,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 7,
+      "length": 8,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 23,
+      "length": 4319778,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 23,
+      "length": 7237816,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 21,
+      "length": 1997437,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 12,
+      "length": 3016,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 14,
+      "length": 4480,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 20,
+      "length": 671532,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 11,
+      "length": 1894,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 7,
+      "length": 98,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 13,
+      "length": 306,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 2,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 16,
+      "length": 58515,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 11,
+      "length": 182,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 17,
+      "length": 36245,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 15268,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 26,
+      "length": 24710205,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 30562,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 19,
+      "length": 205452,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 17,
+      "length": 60194,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 27,
+      "length": 123137674,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 5,
+      "length": 8,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 3593,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 16,
+      "length": 2867,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 26,
+      "length": 26528382,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 23,
+      "length": 946774,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 1061,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 8,
+      "length": 32,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 26,
+      "length": 50169834,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 20,
+      "length": 621174,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 19,
+      "length": 390739,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 21,
+      "length": 565126,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 17,
+      "length": 55734,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 4,
+      "length": 3,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 20,
+      "length": 423418,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 7,
+      "length": 113,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 19,
+      "length": 109805,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 2,
+      "length": 3,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 4,
+      "length": 15,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 4,
+      "length": 10,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 24,
+      "length": 4198267,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 14,
+      "length": 513,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 8,
+      "length": 155,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 23,
+      "length": 8380167,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 16,
+      "length": 24662,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 14,
+      "length": 8254,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 18,
+      "length": 239866,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 11,
+      "length": 5,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 17,
+      "length": 11218,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 17,
+      "length": 45385,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 22,
+      "length": 3089187,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 16,
+      "length": 38144,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 22,
+      "length": 4038733,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 30,
+      "length": 767624571,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 14,
+      "length": 9628,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 30,
+      "length": 92447992,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 26,
+      "length": 30027208,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 16,
+      "length": 38861,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 5,
+      "length": 14,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 16,
+      "length": 15992,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 7,
+      "length": 64,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 10,
+      "length": 430,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 4,
+      "length": 12,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 31,
+      "length": 1399635707,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 4,
+      "length": 2,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 13,
+      "length": 1791,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 5,
+      "length": 14,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 20,
+      "length": 21534,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 330233,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 22,
+      "length": 1165313,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 29,
+      "length": 236883108,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 7836,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 26,
+      "length": 37133646,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 31,
+      "length": 460400045,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 17,
+      "length": 61612,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 10,
+      "length": 861,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 22,
+      "length": 1882329,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 25,
+      "length": 18792970,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 11,
+      "length": 110,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 4,
+      "length": 14,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 12,
+      "length": 3281,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 2,
+      "length": 2,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 17,
+      "length": 128515,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 9,
+      "length": 202,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 6,
+      "length": 3,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 27,
+      "length": 24206375,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 6,
+      "length": 13,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 150027,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 13,
+      "length": 6189,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 26,
+      "length": 18754138,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 1720,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 20390948,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 18,
+      "length": 153173,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 29,
+      "length": 295913294,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 1,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 4,
+      "length": 8,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 19,
+      "length": 347501,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 12,
+      "length": 2946,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 17,
+      "length": 66115,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 14,
+      "length": 3949,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 6,
+      "length": 15,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 150480,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 13,
+      "length": 38,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 23,
+      "length": 362413,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 17,
+      "length": 84506,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 5,
+      "length": 15,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 185204569,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 8,
+      "length": 250,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 19,
+      "length": 133303,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 16,
+      "length": 51826,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 26,
+      "length": 58314757,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 31,
+      "length": 170877773,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 11,
+      "length": 1881,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 12,
+      "length": 3222,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 9,
+      "length": 188,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 11,
+      "length": 1593,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 21,
+      "length": 2011900,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 17,
+      "length": 31995,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 9,
+      "length": 28,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 2,
+      "length": 2,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 30,
+      "length": 17773488,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 13,
+      "length": 4124,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 27,
+      "length": 90109176,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 14,
+      "length": 14533,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 9,
+      "length": 92,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 6,
+      "length": 32,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 26,
+      "length": 60924938,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 9,
+      "length": 413,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 28,
+      "length": 125901626,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 3,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 115766615,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 1,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 14,
+      "length": 11040,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 9,
+      "length": 380,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 19,
+      "length": 172374,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 2,
+      "length": 3,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 7,
+      "length": 91,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 6,
+      "length": 30,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 3301,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 13,
+      "length": 5000,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 11,
+      "length": 1366,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 23,
+      "length": 4046954,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 470523,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 28,
+      "length": 65350068,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 2894,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 12,
+      "length": 661,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 18069,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 10,
+      "length": 141,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 5,
+      "length": 22,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 28,
+      "length": 34620349,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 31,
+      "length": 265436740,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 22,
+      "length": 2976569,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 28,
+      "length": 48747085,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 8,
+      "length": 217,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 27,
+      "length": 85109348,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 3,
+      "length": 5,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 11,
+      "length": 1247,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 20,
+      "length": 49384,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 9,
+      "length": 126,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 13223,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 27,
+      "length": 7344009,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 10,
+      "length": 17,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 16,
+      "length": 8302,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 394976,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 22,
+      "length": 1874008,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 808,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 6,
+      "length": 28,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 87793622,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 17850,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 10,
+      "length": 896,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 19,
+      "length": 186761,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 177497451,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 12,
+      "length": 3516,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 25,
+      "length": 21146236,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 26,
+      "length": 51532316,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 5,
+      "length": 20,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 31,
+      "length": 1388494763,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 18,
+      "length": 126119,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 14,
+      "length": 3462,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 226798170,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 28,
+      "length": 185066602,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 11,
+      "length": 601,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 4,
+      "length": 2,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 20,
+      "length": 373768,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 16,
+      "length": 60283,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 14,
+      "length": 12312,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 28,
+      "length": 71694566,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 3613,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 6,
+      "length": 56,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 21,
+      "length": 554132,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 3,
+      "length": 3,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 26,
+      "length": 51139130,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 5,
+      "length": 30,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 1,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 15,
+      "length": 32087,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 22,
+      "length": 2927820,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 2,
+      "length": 2,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 3,
+      "length": 5,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 16,
+      "length": 43101,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 7,
+      "length": 39,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 29,
+      "length": 380569928,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 14,
+      "length": 5223,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 757,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 3,
+      "length": 3,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 17,
+      "length": 14631,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 5,
+      "length": 15,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 28556,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 6,
+      "length": 25,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 31,
+      "length": 689426010,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 14,
+      "length": 12875,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 26,
+      "length": 4412940,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 13,
+      "length": 2088,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 23,
+      "length": 3649738,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 25,
+      "length": 31852014,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 16,
+      "length": 54989,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 20,
+      "length": 1030987,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 13,
+      "length": 992,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 382254,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 31,
+      "length": 1853777939,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 26,
+      "length": 14022499,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 30,
+      "length": 22718810,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 11,
+      "length": 904,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 2200,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 6,
+      "length": 48,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 1,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 17,
+      "length": 78851,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 27,
+      "length": 4501119,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 57350123,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 24,
+      "length": 14595543,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 9,
+      "length": 226,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 13,
+      "length": 249,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 31,
+      "length": 1339757248,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 27,
+      "length": 17401739,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 22,
+      "length": 998787,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 20,
+      "length": 402946,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 31,
+      "length": 1043143013,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 1,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 20,
+      "length": 290038,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 24,
+      "length": 7800529,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 17,
+      "length": 108914,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 1,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 18,
+      "length": 237413,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 26,
+      "length": 12332933,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 57434880,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 3,
+      "length": 7,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 2,
+      "length": 3,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 22,
+      "length": 2581587,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 7,
+      "length": 88,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 4,
+      "length": 2,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 13,
+      "length": 2124,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 8,
+      "length": 151,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 8,
+      "length": 149,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 7,
+      "length": 110,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 1,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 179529,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 3536,
+      "capacity": 89296,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 23,
+      "length": 6860576,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 30,
+      "length": 117463679,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 24,
+      "length": 14552043,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 2,
+      "length": 2,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 17,
+      "length": 6531,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 26,
+      "length": 59003328,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 28,
+      "length": 168477350,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 18,
+      "length": 37479,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 1,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 29,
+      "length": 398956799,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 25,
+      "length": 6206485,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 9,
+      "length": 196,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 31,
+      "length": 1383908218,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 16,
+      "length": 37650,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 29,
+      "length": 401268662,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 17,
+      "length": 116668,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 21,
+      "length": 292280,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 10,
+      "length": 140,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 10,
+      "length": 373,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 16,
+      "length": 40880,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 5,
+      "length": 26,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 31,
+      "length": 1749562330,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 13,
+      "length": 1362,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 24,
+      "length": 16469743,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 27,
+      "length": 57722127,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 22,
+      "length": 1638620,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 23,
+      "length": 4742344,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 11,
+      "length": 827,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 3,
+      "length": 2,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 4,
+      "length": 3,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 1,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 5,
+      "length": 10,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 16,
+      "length": 7272,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 2,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 10,
+      "length": 185,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 26758,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 5,
+      "length": 5,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 1,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 10,
+      "length": 79,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 1418,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 6,
+      "length": 48,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 19,
+      "length": 355548,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 19,
+      "length": 381504,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 7,
+      "length": 117,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 13,
+      "length": 5224,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 11,
+      "length": 21,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 11,
+      "length": 491,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 29,
+      "length": 76151023,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 18,
+      "length": 78733,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 8,
+      "length": 60,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 29,
+      "length": 272093014,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 21,
+      "length": 811052,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 4,
+      "length": 4,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 22,
+      "length": 256146,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 22,
+      "length": 1527318,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 14,
+      "length": 8789,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 7,
+      "length": 2,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 67695,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 3608,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 7,
+      "length": 79,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 6,
+      "length": 40,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 25,
+      "length": 27931801,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 18,
+      "length": 87479,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 18,
+      "length": 163973,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 3,
+      "length": 2,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 26,
+      "length": 26832506,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 31024,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 10,
+      "length": 948,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 17,
+      "length": 4465,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 31,
+      "length": 7849412,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 8,
+      "length": 153,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 27,
+      "length": 123322957,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 21,
+      "length": 718388,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 6,
+      "length": 25,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 5,
+      "length": 30,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 17,
+      "length": 36148,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 10,
+      "length": 228,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 4,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 8,
+      "length": 33,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 3,
+      "length": 3,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 4,
+      "length": 12,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 27,
+      "length": 116288565,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 20,
+      "length": 134189,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 22,
+      "length": 3779792,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 12,
+      "length": 1243,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 3,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 22,
+      "length": 2037152,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 3962,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 6,
+      "length": 63,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 12,
+      "length": 24,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 19051,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 20,
+      "length": 662358,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 12,
+      "length": 1724,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 2,
+      "length": 3,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 11,
+      "length": 206,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 29,
+      "length": 297152600,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 20,
+      "length": 298802,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 6,
+      "length": 10,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 26,
+      "length": 48345066,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 23,
+      "length": 1950585,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 29,
+      "length": 213511266,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 8,
+      "length": 194,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 29,
+      "length": 197057276,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 18,
+      "length": 214683,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 20,
+      "length": 367790,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 30,
+      "length": 519227334,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 27,
+      "length": 36219657,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 20,
+      "length": 504259,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 1,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 1171,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 6,
+      "length": 22,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 24,
+      "length": 16361740,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 12,
+      "length": 1337,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 16,
+      "length": 63552,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 1,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 11,
+      "length": 1406,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 16,
+      "length": 45331,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 13,
+      "length": 6216,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 18,
+      "length": 30749,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 13,
+      "length": 5206,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 24,
+      "length": 12008819,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 12,
+      "length": 817,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 17,
+      "length": 69807,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 20,
+      "length": 887503,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 8,
+      "length": 120,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 18,
+      "length": 122635,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 380616,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 6,
+      "length": 54,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 8,
+      "length": 36,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 18,
+      "length": 259856,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 18,
+      "length": 98123,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 10,
+      "length": 383,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 5,
+      "length": 22,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 14,
+      "length": 6576,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 24,
+      "length": 7967920,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 518839,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 9,
+      "length": 24,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 203999917,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 8,
+      "length": 232,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 5,
+      "length": 12,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 11,
+      "length": 1490,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 8,
+      "length": 21,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 8,
+      "length": 115,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 10,
+      "length": 313,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 26,
+      "length": 25804354,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 25,
+      "length": 9786935,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 26,
+      "length": 45899968,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 6,
+      "length": 53,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 11,
+      "length": 89,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 1,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 27,
+      "length": 20061811,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 21,
+      "length": 1287262,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 13,
+      "length": 127,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 29,
+      "length": 531070871,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 3,
+      "length": 4,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 8,
+      "length": 254,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 9,
+      "length": 299,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 28,
+      "length": 31888455,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 3,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 10,
+      "length": 806,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 20,
+      "length": 380001,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 22,
+      "length": 3401917,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 17,
+      "length": 12515,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 24,
+      "length": 4345129,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 20,
+      "length": 805299,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 7,
+      "length": 20,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 2732,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 9,
+      "length": 428,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 2,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 13,
+      "length": 2118,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 30,
+      "length": 71345789,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 27,
+      "length": 27735063,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 29,
+      "length": 407264416,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 6,
+      "length": 40,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 19,
+      "length": 73611,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 29,
+      "length": 209094063,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 17,
+      "length": 121137,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 17,
+      "length": 117394,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 23,
+      "length": 3194346,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 17,
+      "length": 11996,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 18,
+      "length": 240457,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 7,
+      "length": 51,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 1,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 18,
+      "length": 199352,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 21,
+      "length": 1117803,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 26,
+      "length": 48235416,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 10,
+      "length": 54,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 186045176,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 29,
+      "length": 348289381,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 5,
+      "length": 14,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 31,
+      "length": 226566741,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 2,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 21,
+      "length": 1804654,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 19,
+      "length": 218837,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 11,
+      "length": 1732,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 7,
+      "length": 16,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 10,
+      "length": 971,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 13,
+      "length": 3345,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 16,
+      "length": 27198,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 22,
+      "length": 2932176,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 20,
+      "length": 745146,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 11,
+      "length": 723,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 25639,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 8,
+      "length": 56,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 9,
+      "length": 198,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 8,
+      "length": 207,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 21,
+      "length": 419839,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 3,
+      "length": 3,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 24,
+      "length": 10752255,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 17,
+      "length": 29598,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 3,
+      "length": 7,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 26,
+      "length": 9261466,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 25,
+      "length": 22351019,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 22,
+      "length": 1080520,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 20,
+      "length": 352128,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 20,
+      "length": 511453,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 9,
+      "length": 173,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 16,
+      "length": 30812,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 10,
+      "length": 205,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 18,
+      "length": 225351,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 31,
+      "length": 60041607,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 20,
+      "length": 54135,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 31,
+      "length": 2135352886,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 27,
+      "length": 62053543,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 18,
+      "length": 7633,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 2,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 6,
+      "length": 32,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 17,
+      "length": 35230,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 28432,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 28,
+      "length": 233574811,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 1,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 8,
+      "length": 91,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 7,
+      "length": 113,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 11,
+      "length": 828,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 13,
+      "length": 2237,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 145191951,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 4,
+      "length": 12,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 23,
+      "length": 3323531,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 10,
+      "length": 142,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 21,
+      "length": 561955,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 24,
+      "length": 1653420,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 22,
+      "length": 2179036,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 7,
+      "length": 71,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 14,
+      "length": 787,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 7,
+      "length": 30,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 23,
+      "length": 4123726,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 8,
+      "length": 53,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 14,
+      "length": 9686,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 29,
+      "length": 235678759,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 1047,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 27,
+      "length": 17836457,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 1,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 15,
+      "length": 26024,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 30,
+      "length": 768198671,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 365752,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 24,
+      "length": 1263777,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 399880,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 12,
+      "length": 3484,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 23,
+      "length": 451475,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 29,
+      "length": 446524304,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 19,
+      "length": 488403,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 12,
+      "length": 3093,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 6,
+      "length": 50,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 7,
+      "length": 2,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 588,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 2,
+      "length": 3,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 12,
+      "length": 152,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 31,
+      "length": 958688359,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 7,
+      "length": 99,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 19,
+      "length": 391232,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 3,
+      "length": 4,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 27,
+      "length": 15442420,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 8,
+      "length": 120,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 2,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 11,
+      "length": 1698,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 30,
+      "length": 421316686,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 10,
+      "length": 483,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 103014,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 9,
+      "length": 169,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 7,
+      "length": 112,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 22,
+      "length": 3564967,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 28,
+      "length": 155519497,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 30,
+      "length": 378806886,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 17614,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 30,
+      "length": 537391027,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 27,
+      "length": 130799865,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 2,
+      "length": 2,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 15,
+      "length": 20400,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 13,
+      "length": 3354,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 14,
+      "length": 8633,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 16,
+      "length": 40096,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 28,
+      "length": 98317002,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 2538,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 5,
+      "length": 16,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 28,
+      "length": 131585008,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 13,
+      "length": 103,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 9,
+      "length": 49,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 7,
+      "length": 32,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 13,
+      "length": 6933,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 21,
+      "length": 1314425,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 11,
+      "length": 443,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 24,
+      "length": 6343481,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 197601067,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 10,
+      "length": 523,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 2,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 29,
+      "length": 507444206,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 10,
+      "length": 495,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 3,
+      "length": 4,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 28,
+      "length": 180803012,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 17,
+      "length": 70074,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 27,
+      "length": 94159611,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 1,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 23,
+      "length": 481420,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 3940,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 15,
+      "length": 3784,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 8,
+      "length": 24,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 26,
+      "length": 56864846,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 11,
+      "length": 98,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 21,
+      "length": 1703639,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 25,
+      "length": 33401535,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 19,
+      "length": 169964,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 31,
+      "length": 1260460905,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 19,
+      "length": 29177,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 27,
+      "length": 95684601,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 17,
+      "length": 47191,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 419886,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 26,
+      "length": 19806976,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 31,
+      "length": 58458216,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 21,
+      "length": 2017803,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 1,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 3,
+      "length": 3,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 26,
+      "length": 36113219,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 22,
+      "length": 3976939,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 21,
+      "length": 481617,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 22,
+      "length": 3810643,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 28,
+      "length": 323629,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 21,
+      "length": 1795389,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 31,
+      "length": 1046023187,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 1904,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 22,
+      "length": 1850512,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 22,
+      "length": 1943056,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 127268,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 32853,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 3,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 27108,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 16,
+      "length": 62985,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 1,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 17,
+      "length": 65570,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 29,
+      "length": 128490439,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 11,
+      "length": 1530,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 8,
+      "length": 136,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 14,
+      "length": 1985,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 27,
+      "length": 40131374,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 16,
+      "length": 15720,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 21,
+      "length": 1840341,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 10,
+      "length": 732,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 2,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 1,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 13,
+      "length": 5693,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 22,
+      "length": 3721708,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 28,
+      "length": 64646831,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 20,
+      "length": 376868,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 25085,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 1,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 498735,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 10,
+      "length": 500,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 26,
+      "length": 19023962,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 30,
+      "length": 432571577,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 12169,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 155663240,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 3,
+      "length": 6,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 8,
+      "length": 163,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 2,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 9,
+      "length": 320,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 16,
+      "length": 4777,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 252109917,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 25,
+      "length": 1831800,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 26,
+      "length": 17115446,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 15750,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 30,
+      "length": 769621679,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 11,
+      "length": 1013,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 25,
+      "length": 5213229,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 9,
+      "length": 296,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 11,
+      "length": 2001,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 13,
+      "length": 3814,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 1,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 2,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 5,
+      "length": 17,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 1,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 6,
+      "length": 25,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 26,
+      "length": 51023341,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 29,
+      "length": 326788170,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 23,
+      "length": 5485122,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 14,
+      "length": 10314,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 25,
+      "length": 1473449,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 14,
+      "length": 14197,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 13,
+      "length": 341,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 9,
+      "length": 172,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 25,
+      "length": 11542393,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 4,
+      "length": 13,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 19,
+      "length": 223080,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 23,
+      "length": 5421173,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 17,
+      "length": 9785,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 33802686,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 1,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 5,
+      "length": 11,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 25,
+      "length": 3824344,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 6,
+      "length": 47,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 24,
+      "length": 8810038,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 26,
+      "length": 55390217,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 21,
+      "length": 628827,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 30,
+      "length": 566426190,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 25,
+      "length": 16118117,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 10,
+      "length": 372,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 5,
+      "length": 17,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 8,
+      "length": 111,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 1,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 10,
+      "length": 771,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 21,
+      "length": 474881,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 5,
+      "length": 21,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 26,
+      "length": 29316682,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 3031,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 11,
+      "length": 1095,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 27,
+      "length": 131932896,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 11,
+      "length": 707,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 31,
+      "length": 1203727991,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 9,
+      "length": 388,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 3,
+      "length": 7,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 13,
+      "length": 3454,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 16,
+      "length": 50147,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 12,
+      "length": 1366,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 17,
+      "length": 20402,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 3772,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 2,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 17,
+      "length": 20696,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 30,
+      "length": 266121128,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 30,
+      "length": 1019040877,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 3,
+      "length": 6,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 8,
+      "length": 33,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 26,
+      "length": 27259287,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 5,
+      "length": 3,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 7,
+      "length": 50,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 18,
+      "length": 41248,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 3,
+      "length": 5,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 13,
+      "length": 6529,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 23,
+      "length": 8046831,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 18,
+      "length": 28667,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 22,
+      "length": 1003084,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 23,
+      "length": 7899171,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 20,
+      "length": 881503,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 29,
+      "length": 328104463,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 31,
+      "length": 671114139,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 492,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 8,
+      "length": 108,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 27,
+      "length": 3895550,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 7,
+      "length": 24,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 3,
+      "length": 4,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 26,
+      "length": 61741301,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 11,
+      "length": 1796,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 10,
+      "length": 251,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 22,
+      "length": 2171131,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 20,
+      "length": 253592,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 22229,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 8,
+      "length": 104,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 101032342,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 5,
+      "length": 24,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 26,
+      "length": 53421094,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 10,
+      "length": 996,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 30,
+      "length": 29446290,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 25,
+      "length": 1842686,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 9736,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 27,
+      "length": 71736529,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 24,
+      "length": 14138444,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 5,
+      "length": 28,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 3,
+      "length": 7,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 21,
+      "length": 278292,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 16,
+      "length": 62036,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 21,
+      "length": 1467022,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 18,
+      "length": 250487,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 6,
+      "length": 13,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 2,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 24,
+      "length": 5999059,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 29,
+      "length": 341128622,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 31,
+      "length": 750660257,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 23862,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 10,
+      "length": 542,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 6,
+      "length": 46,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 4,
+      "length": 14,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 30,
+      "length": 130751641,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 21,
+      "length": 369772,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 28,
+      "length": 220048801,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 25,
+      "length": 5684118,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 23,
+      "length": 4531156,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 29,
+      "length": 221282850,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 9,
+      "length": 321,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 17,
+      "length": 116043,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 4,
+      "length": 8,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 21,
+      "length": 771844,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 31,
+      "length": 1134690635,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 10,
+      "length": 355,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 13,
+      "length": 5399,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 18,
+      "length": 229992,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 19,
+      "length": 152656,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 11,
+      "length": 1032,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 1,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 25,
+      "length": 29892435,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 25,
+      "length": 9296191,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 31,
+      "length": 1392209923,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 25,
+      "length": 13984256,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 5,
+      "length": 12,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 24,
+      "length": 12178311,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 15,
+      "length": 16332,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 23,
+      "length": 778276,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 29,
+      "length": 30830013,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 9,
+      "length": 150,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 26,
+      "length": 46080215,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 16,
+      "length": 36191,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 12,
+      "length": 2034,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 30,
+      "length": 881650665,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 29,
+      "length": 14789099,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 22,
+      "length": 1827095,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 10,
+      "length": 1009,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 29,
+      "length": 245483561,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 5,
+      "length": 23,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 25,
+      "length": 19087932,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 16,
+      "length": 40532,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 20,
+      "length": 562631,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 27,
+      "length": 18912289,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 9,
+      "length": 24,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 10,
+      "length": 654,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 26,
+      "length": 54252576,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 6,
+      "length": 53,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 11,
+      "length": 863,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 21,
+      "length": 1231718,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 8,
+      "length": 25,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 19,
+      "length": 325360,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 21,
+      "length": 1569700,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 15,
+      "length": 5204,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 16,
+      "length": 18092,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 29,
+      "length": 21833494,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 18,
+      "length": 231726,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 6,
+      "length": 42,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 15,
+      "length": 851,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 1,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 9,
+      "length": 132,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 4,
+      "length": 15,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 28,
+      "length": 145213401,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 18,
+      "length": 37177,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 16,
+      "length": 36269,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 28,
+      "length": 64596959,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 23,
+      "length": 4198354,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 26,
+      "length": 28796915,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 13,
+      "length": 2632,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 3,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 6,
+      "length": 41,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 20,
+      "length": 32466,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 29,
+      "length": 202228277,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 10,
+      "length": 115,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 11,
+      "length": 1749,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 16,
+      "length": 55046,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 18,
+      "length": 164424,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 25,
+      "length": 5992613,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 4,
+      "length": 0,
+      "capacity": 89299,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 13,
+      "length": 4232,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 2,
+      "length": 1,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 4264,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 13,
+      "length": 4907,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 9,
+      "length": 322,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 27,
+      "length": 113612193,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 29,
+      "length": 179312301,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 22,
+      "length": 2764639,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 7,
+      "length": 45,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 29,
+      "length": 95300572,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 20,
+      "length": 896508,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 14,
+      "length": 6281,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 25,
+      "length": 8130466,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 29,
+      "length": 116623675,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 14,
+      "length": 5988,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 6,
+      "length": 48,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 15,
+      "length": 13228,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 31,
+      "length": 1528739479,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 4,
+      "length": 10,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 30,
+      "length": 522822801,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 17,
+      "length": 51142,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 5,
+      "length": 24,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 18,
+      "length": 176861,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 8,
+      "length": 8,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 15,
+      "length": 834,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 23,
+      "length": 91242,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 25,
+      "length": 21350359,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 10,
+      "length": 177,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 18,
+      "length": 2291,
+      "capacity": 89297,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 21,
+      "length": 1756862,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 14,
+      "length": 6986,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 13,
+      "length": 2959,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 12,
+      "length": 435,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 26,
+      "length": 20812405,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 27,
+      "length": 102642210,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 30,
+      "length": 1063614524,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 30,
+      "length": 64038496,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 10,
+      "length": 140,
+      "capacity": 89298,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 0,
+      "length": 0,
+      "capacity": 89300,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 24,
+      "length": 3069785,
+      "capacity": 89297,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 31,
+      "length": 824247302,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    },
+    {
+      "width": 8,
+      "length": 22,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": false
+    },
+    {
+      "width": 7,
+      "length": 115,
+      "capacity": 89299,
+      "positive_capacity": true,
+      "minimal": true
+    },
+    {
+      "width": 26,
+      "length": 62510815,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": true
+    },
+    {
+      "width": 25,
+      "length": 4841684,
+      "capacity": 89296,
+      "positive_capacity": false,
+      "minimal": false
+    }
+  ]
+}

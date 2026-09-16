@@ -1,0 +1,289 @@
+{
+  "status": "PASS",
+  "real_span_records": 179,
+  "independent_real_pair_orientation_maxima": 66,
+  "full_controls_independently_scanned": 8,
+  "raw_null_streams": [
+    {
+      "name": "real",
+      "family": 0,
+      "records_replayed": 999
+    },
+    {
+      "name": "real",
+      "family": 1,
+      "records_replayed": 999
+    },
+    {
+      "name": "control-0",
+      "family": 0,
+      "records_replayed": 99
+    },
+    {
+      "name": "control-0",
+      "family": 1,
+      "records_replayed": 99
+    },
+    {
+      "name": "control-8",
+      "family": 0,
+      "records_replayed": 99
+    },
+    {
+      "name": "control-8",
+      "family": 1,
+      "records_replayed": 99
+    },
+    {
+      "name": "control-16",
+      "family": 0,
+      "records_replayed": 99
+    },
+    {
+      "name": "control-16",
+      "family": 1,
+      "records_replayed": 99
+    },
+    {
+      "name": "control-24",
+      "family": 0,
+      "records_replayed": 99
+    },
+    {
+      "name": "control-24",
+      "family": 1,
+      "records_replayed": 99
+    }
+  ],
+  "controls": [
+    {
+      "index": 0,
+      "max_units": 6,
+      "tails": [
+        0.79,
+        0.8
+      ]
+    },
+    {
+      "index": 1,
+      "max_units": 6,
+      "tails": [
+        0.71,
+        0.68
+      ]
+    },
+    {
+      "index": 2,
+      "max_units": 9,
+      "tails": [
+        0.02,
+        0.01
+      ]
+    },
+    {
+      "index": 3,
+      "max_units": 7,
+      "tails": [
+        0.26,
+        0.22
+      ]
+    },
+    {
+      "index": 4,
+      "max_units": 7,
+      "tails": [
+        0.16,
+        0.22
+      ]
+    },
+    {
+      "index": 5,
+      "max_units": 6,
+      "tails": [
+        0.76,
+        0.78
+      ]
+    },
+    {
+      "index": 6,
+      "max_units": 6,
+      "tails": [
+        0.7,
+        0.71
+      ]
+    },
+    {
+      "index": 7,
+      "max_units": 6,
+      "tails": [
+        0.69,
+        0.74
+      ]
+    },
+    {
+      "index": 8,
+      "max_units": 10,
+      "tails": [
+        0.01,
+        0.01
+      ]
+    },
+    {
+      "index": 9,
+      "max_units": 11,
+      "tails": [
+        0.01,
+        0.01
+      ]
+    },
+    {
+      "index": 10,
+      "max_units": 10,
+      "tails": [
+        0.01,
+        0.01
+      ]
+    },
+    {
+      "index": 11,
+      "max_units": 10,
+      "tails": [
+        0.01,
+        0.01
+      ]
+    },
+    {
+      "index": 12,
+      "max_units": 10,
+      "tails": [
+        0.01,
+        0.01
+      ]
+    },
+    {
+      "index": 13,
+      "max_units": 10,
+      "tails": [
+        0.01,
+        0.01
+      ]
+    },
+    {
+      "index": 14,
+      "max_units": 11,
+      "tails": [
+        0.01,
+        0.01
+      ]
+    },
+    {
+      "index": 15,
+      "max_units": 10,
+      "tails": [
+        0.01,
+        0.01
+      ]
+    },
+    {
+      "index": 16,
+      "max_units": 16,
+      "tails": [
+        0.01,
+        0.01
+      ]
+    },
+    {
+      "index": 17,
+      "max_units": 16,
+      "tails": [
+        0.01,
+        0.01
+      ]
+    },
+    {
+      "index": 18,
+      "max_units": 16,
+      "tails": [
+        0.01,
+        0.01
+      ]
+    },
+    {
+      "index": 19,
+      "max_units": 16,
+      "tails": [
+        0.01,
+        0.01
+      ]
+    },
+    {
+      "index": 20,
+      "max_units": 16,
+      "tails": [
+        0.01,
+        0.01
+      ]
+    },
+    {
+      "index": 21,
+      "max_units": 17,
+      "tails": [
+        0.01,
+        0.01
+      ]
+    },
+    {
+      "index": 22,
+      "max_units": 16,
+      "tails": [
+        0.01,
+        0.01
+      ]
+    },
+    {
+      "index": 23,
+      "max_units": 16,
+      "tails": [
+        0.01,
+        0.01
+      ]
+    },
+    {
+      "index": 24,
+      "max_units": 7,
+      "tails": [
+        0.18,
+        0.22
+      ]
+    },
+    {
+      "index": 25,
+      "max_units": 6,
+      "tails": [
+        0.7,
+        0.75
+      ]
+    },
+    {
+      "index": 26,
+      "max_units": 7,
+      "tails": [
+        0.22,
+        0.21
+      ]
+    },
+    {
+      "index": 27,
+      "max_units": 5,
+      "tails": [
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "real_tails": [
+    0.735,
+    0.74
+  ],
+  "actual_panel_count": 7571
+}

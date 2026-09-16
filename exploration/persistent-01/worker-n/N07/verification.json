@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "panels": [
+    {
+      "name": "real",
+      "checked_fits": 59,
+      "max_gradient": 2.7242942493479333e-08,
+      "minimum_penalized_objective_improvement": 2.5363514870591075e-06,
+      "marker": 13,
+      "score": -0.0033797726208639792
+    },
+    {
+      "name": "control-0",
+      "checked_fits": 59,
+      "max_gradient": 8.021727408984592e-08,
+      "minimum_penalized_objective_improvement": 0.0,
+      "marker": 0,
+      "score": 0.12775233506460176
+    },
+    {
+      "name": "control-6",
+      "checked_fits": 59,
+      "max_gradient": 7.643791567722171e-08,
+      "minimum_penalized_objective_improvement": 0.0001775368828118573,
+      "marker": 20,
+      "score": 0.0637267707559425
+    }
+  ]
+}

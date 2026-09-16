@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-16/check_c_sink.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "6ae89b9ba7bccad346b905dcc471f98acf07a029",
+  "started_utc": "2026-09-16T22:59:58.312914+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-16/check_c_sink.py",
+      "exists": true,
+      "bytes": 1615,
+      "sha256": "ba1a15eb290e66becf54819aa247792fc48b97bacc93dfb02ecf5d2587dab838"
+    },
+    {
+      "path": "exploration/persistent-01/review-16/header_controls.py",
+      "exists": true,
+      "bytes": 2931,
+      "sha256": "1ee68d373d2f53f9b39fbf6cba66a72045ac199df4e8f5a16342e2ac42f2c8ba"
+    },
+    {
+      "path": "exploration/persistent-01/review-16/independent_jsteg.py",
+      "exists": true,
+      "bytes": 4398,
+      "sha256": "2d12e17b18f62636f213cd4a08ba24aa056bf5bd2f335b331f1412ff13912013"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P11/harness.c",
+      "exists": true,
+      "bytes": 2418,
+      "sha256": "699d77f7431837ff0e68aaf5a0118c2634782206efb6ddce53893f869841d519"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 70711,
+  "finished_utc": "2026-09-16T22:59:58.853641+00:00",
+  "duration_seconds": 0.54048579099981
+}

@@ -1,0 +1,70 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-15/check_p_fixtures.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "1ad9522582003d77aaa6ee02fcb9af2f326d087b",
+  "started_utc": "2026-09-16T22:52:33.956377+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-15/check_p_fixtures.py",
+      "exists": true,
+      "bytes": 1651,
+      "sha256": "a0a22c801ff34bad3de1182fdb61763e500b4fbdf21f9cafd63b94af6dd4c51e"
+    },
+    {
+      "path": "exploration/persistent-01/review-15/compare.py",
+      "exists": true,
+      "bytes": 1193,
+      "sha256": "d97aa28c88eb32e856710f56fd56f41ea0bad0575667369aabc7cf81e7b26d30"
+    },
+    {
+      "path": "exploration/persistent-01/review-15/fixtures.py",
+      "exists": true,
+      "bytes": 2017,
+      "sha256": "2809438bd382552dafc54a7684350b22f790840cab028b72902b857ec30c7d61"
+    },
+    {
+      "path": "exploration/persistent-01/review-15/independent.py",
+      "exists": true,
+      "bytes": 3543,
+      "sha256": "d82e97d7eda60e59e83f68d9e58958076106819987558bc16803e0f5de7e3329"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/controls.json",
+      "exists": true,
+      "bytes": 7564,
+      "sha256": "789c415c18e79d9521a51bf01747057c5e4f66f2975682b8be41df53f3c1282d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p10.py",
+      "exists": true,
+      "bytes": 6710,
+      "sha256": "4dabd0416d47098753fb62200d507582ecff05bcda249daa3121e382b5a03924"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 70229,
+  "finished_utc": "2026-09-16T22:52:34.212793+00:00",
+  "duration_seconds": 0.2562169580014597
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "page": 0,
+    "image_sha256": "197e1e153958b9a2736b09c10eea7d8bb00e0632fd22a8d9606840becc79942e",
+    "eligible_bits": 714405,
+    "packed_sha256": "bbc4ca689518c291257d786562a7ec27b03ed0e7785341e713e872dbc7f6ddb6",
+    "header": {
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "width": 31,
+      "length": 2147483647,
+      "capacity_bytes": 89296,
+      "bits": 714405,
+      "exact_nonempty_encoder_header": true,
+      "readme_width_compatible": true,
+      "complete_available_bytes": 89296,
+      "remaining_payload_partial_bits": 1
+    },
+    "sink": {
+      "rep_width": 31,
+      "file_size": 2147483647,
+      "fileindex": 89296,
+      "header_bits": 36,
+      "buffer_bytes": 208,
+      "bitindex": 6,
+      "open": 1
+    },
+    "available_payload_sha256": "deb59d702a8d364a6aa9486048405e61b6e4748641cbd794c0c5d9d458b8a53c",
+    "historical_output_bytes": 89088,
+    "historical_output_sha256": "11b0af02fff2d5284d563a9033a6428c5c29f879a5580e8f77fc414ecde59a36",
+    "faircoin_probability_positive_capacity": 0.5113293032627553,
+    "faircoin_probability_minimal_capacity": 0.25566530227661133,
+    "faircoin_999_positive_capacity": 517,
+    "faircoin_999_minimal_capacity": 243
+  },
+  {
+    "page": 1,
+    "image_sha256": "f804fae06a68315eb6206158a2b34f55fe157c7d663fa961639fbe8dfc52a39f",
+    "eligible_bits": 687226,
+    "packed_sha256": "8f7c2d3d11968de7145d1b5a752654bebf53579258972181ea121dc8e3ca04ed",
+    "header": {
+      "status": "DECLARED_LENGTH_EXCEEDS_CAPACITY",
+      "width": 31,
+      "length": 2147483647,
+      "capacity_bytes": 85898,
+      "bits": 687226,
+      "exact_nonempty_encoder_header": true,
+      "readme_width_compatible": true,
+      "complete_available_bytes": 85898,
+      "remaining_payload_partial_bits": 6
+    },
+    "sink": {
+      "rep_width": 31,
+      "file_size": 2147483647,
+      "fileindex": 85898,
+      "header_bits": 36,
+      "buffer_bytes": 906,
+      "bitindex": 1,
+      "open": 1
+    },
+    "available_payload_sha256": "c6621a1b7c706dd9d24f700f16cdd553f31c535f19ac5dd1ba4c08ebee620d4e",
+    "historical_output_bytes": 84992,
+    "historical_output_sha256": "051d2222b501d446dfa32665918b3ce8c8f292594cfd6a895d38255aea4ba3bd",
+    "faircoin_probability_positive_capacity": 0.5097095237870235,
+    "faircoin_probability_minimal_capacity": 0.2548553943634033,
+    "faircoin_999_positive_capacity": 532,
+    "faircoin_999_minimal_capacity": 265
+  }
+]

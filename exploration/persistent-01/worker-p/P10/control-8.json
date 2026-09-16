@@ -1,0 +1,313 @@
+{
+  "mode": "RGB",
+  "size": [
+    128,
+    96
+  ],
+  "subsampling": 2,
+  "quality": 75,
+  "clean": {
+    "frame": {
+      "width": 128,
+      "height": 96,
+      "components": [
+        {
+          "id": 1,
+          "h": 2,
+          "v": 2,
+          "q": 0
+        },
+        {
+          "id": 2,
+          "h": 1,
+          "v": 1,
+          "q": 1
+        },
+        {
+          "id": 3,
+          "h": 1,
+          "v": 1,
+          "q": 1
+        }
+      ]
+    },
+    "headers": [
+      {
+        "marker": 224,
+        "offset": 2,
+        "length": 16,
+        "fill": 0
+      },
+      {
+        "marker": 219,
+        "offset": 20,
+        "length": 67,
+        "fill": 0
+      },
+      {
+        "marker": 219,
+        "offset": 89,
+        "length": 67,
+        "fill": 0
+      },
+      {
+        "marker": 192,
+        "offset": 158,
+        "length": 17,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 177,
+        "length": 31,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 210,
+        "length": 181,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 393,
+        "length": 31,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 426,
+        "length": 181,
+        "fill": 0
+      },
+      {
+        "marker": 218,
+        "offset": 609,
+        "length": 12,
+        "fill": 0
+      }
+    ],
+    "sos_data_offset": 623,
+    "mcu_grid": [
+      8,
+      6
+    ],
+    "mcus": 48,
+    "blocks": 288,
+    "ac_symbols": 11824,
+    "dummy_blocks": 0,
+    "entropy_bits": 58970,
+    "final_data_byte_offset": 8007,
+    "consumed_bits_in_final_byte": 2,
+    "pad_bits": 6,
+    "pad_value": 63,
+    "padding_all_ones": true,
+    "entropy_byte_end": 8008,
+    "entropy_stuffed_zero_offsets": [
+      916,
+      1570,
+      1752,
+      1814,
+      2598,
+      4094,
+      4468,
+      5127,
+      6611,
+      6677,
+      7295,
+      7874,
+      7963
+    ],
+    "tail_raw_span": [
+      8008,
+      8008
+    ],
+    "tail_raw_bytes": 0,
+    "tail_bytes": 0,
+    "tail_stuffed_zero_offsets": [],
+    "marker_fill_bytes": 0,
+    "eoi_offset": 8008,
+    "after_eoi_span": [
+      8010,
+      8010
+    ],
+    "after_eoi_bytes": 0,
+    "coefficient_sha256": {
+      "1": "f491244056f23bca281e4d0eaa6b777e364964ea48728188067ef5e481c1ceba",
+      "2": "3e0071cbee4b01b034871f012b40b84eaccb220c03fb919f74d0ee9a76165540",
+      "3": "3fb989d56c51fb6b9a6b636f350ba3159bd784f44dd1e046b14382f6e27c8aef"
+    },
+    "coefficient_shapes": {
+      "1": [
+        12,
+        16,
+        64
+      ],
+      "2": [
+        6,
+        8,
+        64
+      ],
+      "3": [
+        6,
+        8,
+        64
+      ]
+    }
+  },
+  "planted": {
+    "frame": {
+      "width": 128,
+      "height": 96,
+      "components": [
+        {
+          "id": 1,
+          "h": 2,
+          "v": 2,
+          "q": 0
+        },
+        {
+          "id": 2,
+          "h": 1,
+          "v": 1,
+          "q": 1
+        },
+        {
+          "id": 3,
+          "h": 1,
+          "v": 1,
+          "q": 1
+        }
+      ]
+    },
+    "headers": [
+      {
+        "marker": 224,
+        "offset": 2,
+        "length": 16,
+        "fill": 0
+      },
+      {
+        "marker": 219,
+        "offset": 20,
+        "length": 67,
+        "fill": 0
+      },
+      {
+        "marker": 219,
+        "offset": 89,
+        "length": 67,
+        "fill": 0
+      },
+      {
+        "marker": 192,
+        "offset": 158,
+        "length": 17,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 177,
+        "length": 31,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 210,
+        "length": 181,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 393,
+        "length": 31,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 426,
+        "length": 181,
+        "fill": 0
+      },
+      {
+        "marker": 218,
+        "offset": 609,
+        "length": 12,
+        "fill": 0
+      }
+    ],
+    "sos_data_offset": 623,
+    "mcu_grid": [
+      8,
+      6
+    ],
+    "mcus": 48,
+    "blocks": 288,
+    "ac_symbols": 11824,
+    "dummy_blocks": 0,
+    "entropy_bits": 58970,
+    "final_data_byte_offset": 8007,
+    "consumed_bits_in_final_byte": 2,
+    "pad_bits": 6,
+    "pad_value": 63,
+    "padding_all_ones": true,
+    "entropy_byte_end": 8008,
+    "entropy_stuffed_zero_offsets": [
+      916,
+      1570,
+      1752,
+      1814,
+      2598,
+      4094,
+      4468,
+      5127,
+      6611,
+      6677,
+      7295,
+      7874,
+      7963
+    ],
+    "tail_raw_span": [
+      8008,
+      8336
+    ],
+    "tail_raw_bytes": 328,
+    "tail_bytes": 327,
+    "tail_stuffed_zero_offsets": [
+      8276
+    ],
+    "marker_fill_bytes": 0,
+    "eoi_offset": 8336,
+    "after_eoi_span": [
+      8338,
+      8338
+    ],
+    "after_eoi_bytes": 0,
+    "coefficient_sha256": {
+      "1": "f491244056f23bca281e4d0eaa6b777e364964ea48728188067ef5e481c1ceba",
+      "2": "3e0071cbee4b01b034871f012b40b84eaccb220c03fb919f74d0ee9a76165540",
+      "3": "3fb989d56c51fb6b9a6b636f350ba3159bd784f44dd1e046b14382f6e27c8aef"
+    },
+    "coefficient_shapes": {
+      "1": [
+        12,
+        16,
+        64
+      ],
+      "2": [
+        6,
+        8,
+        64
+      ],
+      "3": [
+        6,
+        8,
+        64
+      ]
+    }
+  },
+  "clean_sha256": "99df14c5d24f12f7cd6d29d30f2e7d1768051505eff334eaf96036af42462933",
+  "planted_sha256": "3778c10d03ea0153532125f7183ce5ce971c710dfdc90536ab86ccd4be24ca64",
+  "pixel_sha256": "99f18ffcd2289ece3882c93cfce56fb118c359891a43d0eb06b29b65a5ad998d",
+  "payload_sha256": "f92dc04c4e73ee51460fd1c3441045752e2892bdeb3fcb86268eb3b1347f6ca0"
+}

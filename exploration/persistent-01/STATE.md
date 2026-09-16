@@ -1,17 +1,17 @@
 # PERSISTENT-01 — active direct research
 
-Strategy **outside-box-v1**, received from safe fast-forward ef2e807 and acknowledged in active workers. Reviewed checkpoint8 1ad9522 is on origin/master, covering M25/M26/M27, P05/P06, independent reviews10/12 and frozen visual reads. Earlier checkpoints remain unchanged.
+Strategy **outside-box-v1**, received from safe fast-forward ef2e807 and acknowledged in active workers. Reviewed checkpoint9 6ae89b9 is on origin/master, covering M25/M26/M27, P05/P06, independent reviews10/12 and frozen visual reads. Earlier checkpoints remain unchanged.
 
 Start16 September2026,21:30:37 SAST. Fixed deadline **17 September2026,05:30:37 SAST /03:30:37UTC**. No extension. Honor exploration/persistent-01/STOP. Native goal active. One interactive coordinator; no external controller, no competing supervisor. All research processes stay with logged bounded worker sessions. Git writes only by coordinator; unrelated macOS setup remains untouched.
 
 ## Current actual assignments
 
-Allocation recorded at 2026-09-16T22:52:43.915281+00:00, same fixed deadline and sole coordinator:
+Allocation recorded at 2026-09-16T23:16:14.091091+00:00, same fixed deadline and sole coordinator:
 
-- persistent_p: P10 exact JPEG entropy-tail payload channel on discovery0/1; controlled framed/CRC/pixelidentity extraction, no improvised JSteg. P08/P09 frozen.
-- persistent_q: Review15 independent JPEG MCU/bit/Huffman/padding parser and syntheticfixtures for P10; Q01/Q02checksum andQ03LZ78 grammar complete.
-- persistent_n: N07 same-panel conditional-likelihood estimation; initial85/25960fits failed convergence gate. One separately frozen Newton polish on those85 only, originalfailure preserved; no model expansion.
-- coordinator: Sole controller/Git writer, checkpoint9; rootQ01miss reviewed14 with seeddeviation and estimator caveat. No external controller.
+- persistent_p: P13 JPEG Huffman optimizer/table-channel test; distinguish deterministic frequency optimization from extra table-order freedom, controls first. P12 frozen43-image exactJSteg miss.
+- persistent_n: N09 alternative finite-state/deck encoder with scorer-free second prediction beyond repeated-rune deficit; check overlap then freeze and execute.
+- persistent_q: Q05 structured-number or nonadditive fractionation explanation, complete-format controls and discovery prediction; Q04 unknown-map controls failed, no real search.
+- coordinator: Sole direct controller/Git writer; publish reviewed checkpoint10 and independently check P12; original deadline unchanged.
 
 M22 exact periods1–3 recovered12/12 controlkeys versus11/12 for inheritedheuristic, with three correct-key wrongprefix path winners. Its real0/17 pilot had nulltails.57/.49; no automatic expansion. N03/N04 crosspage equality/one-corruption tests found no usefulrelation;16-runecontrols remain underpowered. O01 opcode-arity model missed; O02 exactcountpartitions eliminate the finite J03 five-page conjunction on pages0/3/17. Those are finite construction/register bounds, not wholecipher exclusions.
 
@@ -40,3 +40,7 @@ Frozen config/dataset hashes unchanged. Discovery excludes originals4,9,14,19,24
 Raw commands/output/exits/source snapshots and alternatives retained perworker. Reports are claims with explicit bounds. Freshreviews01/02 cover selectedmethod/output evidence, not independenttranscription or everyhistoricalclaim. Large outputs have losslessgzip manifests; originalbytes remainlocal. Localcheckout prefixes alone normalized in completedtracebacks, originals privatelyretained withhashes.
 
 Next two executable actions: validate and run P10 entropy-tail extraction with fresh independent parser review; complete only the flagged N07 likelihood fits under a frozen numerical polish. P09 found no segmentation recovery gap and therefore ran no realsearch. Checkpoint9 records M28, N06, P07/P08/P09, rootQ01 and fresh numbered-record/dictionary tests with their exact limits. No candidate warrants a reserve reveal. A negative, completed queue, report or push does not end the mission.
+
+Checkpoint10: N07 converged after explicitly recorded one-step polish of85failedfits; N08 boundary-copy max6/nulltails.735/.740; P10 no entropy-tail bytes in0/1; P11 exactclassicJSteg headers exceed capacity. Reviews15/16 independently reproduce parsers/source behavior. Q04 later controls recover0/8 observedmaps; review17 distinguishes optimizer failure and finite-sample ambiguity. No reserve reveal.
+
+Next executable tests are P13 Huffman-table channel controls and N09 scorer-free generative prediction. Q05 challenges the output representation. Outside-box-v1 continues; no success or optimality claim.

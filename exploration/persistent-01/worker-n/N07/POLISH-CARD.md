@@ -1,0 +1,9 @@
+# Single numerical remediation, frozen before new held-score computation
+
+Only the85 flagged fits in the preserved initial440-panel run may change. Qualified fits remain referenced from their original immutable panel files. Same augmented transition counts, .5/28 offdiagonal pseudo-count, fixed theta28=0, data and source family. No new initializer, model, sample, parameter strength or rank criterion.
+
+Use at most10 Newton steps per flagged fit. Analytic Hessian of normalized negative augmented likelihood: [diag(sum_x R_x P_x)−sum_x R_x P_x P_x^T]/sum A, restricted to28 free coordinates. Solve H*d=g without ridge/jitter; any nonfinite or singular solve is a retained failure. Gradient target1e−9; original qualification remains finite objective/parameters, optimizer-success and max absolute free-gradient<=1e−7. Newton success requires attaining the stronger1e−9 stopping target within cap.
+
+Line search starts alpha1 and halves at most32 times, Armijo constant1e−4. Evaluate the exact objective change stably as [sum_x R_x log1p(sum_j P[x,j]*expm1(delta[j]))−sum_j D[j]*delta[j]]/sum A. Accept only Armijo decrease. No permissive objective slack. This avoids subtracting two nearly equal total objectives. Preserve every alpha, stable difference, gradient and parameter change. If no step accepts, or cap fails, stop and report the remaining failures; no other fallback.
+
+Before use, compare Hessian-vector products with centered gradient finite differences and check symmetry/positive eigenvalues on finite synthetic count cases. Then process the frozen85 list without consulting new held outcomes. Save replacement fits and numeric traces separately; only after all polishing finishes recompute affected-panel predictions and training-only choices into a separate directory. Original results, NONZERO logs and parameters stay unchanged. Final tails remain comparisons against the same originalQ01 null ensemble, not a newly fitted-null calibration.

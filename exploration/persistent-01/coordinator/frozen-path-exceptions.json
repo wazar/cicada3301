@@ -1,10 +1,40 @@
 {
-  "scope": "Preserve pre-reveal immutable prediction bytes rather than rewrite their frozen hashes.",
+  "scope": "Preserve frozen prediction and executed source bytes; explicitly listed local runtime paths contain no credentials.",
   "files": [
     {
       "path": "exploration/persistent-01/review-11/predictions-frozen.json",
       "sha256": "fb505e5d7e29fe83f53e0ee65fbab6f4ee6a68c55d23676ff4cefa9922a8dd96",
       "content": "Absolute local contact-sheet paths under this repository. No credentials or unrelated filesystem contents. Retained intentionally as part of authorized publication of exact evidence."
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P11/build.json",
+      "sha256": "81ad2645aeca058970f0b82baa9fc6a6f34eb0636873c6e8b768bb8ec6cdfbfe",
+      "content": "Exact executed compiler driver or build metadata includes local bundled libjpeg runtime path. No credentials; retained for provenance, runtime dependency path must be adapted on another machine."
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p11_build.py",
+      "sha256": "452c3072aaefc45759e85ffdd06977141b69edcdee8a6e188f151b4c5415ac07",
+      "content": "Exact executed compiler driver or build metadata includes local bundled libjpeg runtime path. No credentials; retained for provenance, runtime dependency path must be adapted on another machine."
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/runs/20260916T225842.774978Z-p11-source-derived-harness-build/code/exploration/persistent-01/worker-p/p11_build.py",
+      "sha256": "452c3072aaefc45759e85ffdd06977141b69edcdee8a6e188f151b4c5415ac07",
+      "content": "Exact executed compiler driver or build metadata includes local bundled libjpeg runtime path. No credentials; retained for provenance, runtime dependency path must be adapted on another machine."
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/runs/20260916T230039.828886Z-p11-source-port-stream-jpeg-controls/code/exploration/persistent-01/worker-p/p11_build.py",
+      "sha256": "452c3072aaefc45759e85ffdd06977141b69edcdee8a6e188f151b4c5415ac07",
+      "content": "Exact executed compiler driver or build metadata includes local bundled libjpeg runtime path. No credentials; retained for provenance, runtime dependency path must be adapted on another machine."
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/runs/20260916T230100.244232Z-p11-exact-v4-original0-1-extraction/code/exploration/persistent-01/worker-p/p11_build.py",
+      "sha256": "452c3072aaefc45759e85ffdd06977141b69edcdee8a6e188f151b4c5415ac07",
+      "content": "Exact executed compiler driver or build metadata includes local bundled libjpeg runtime path. No credentials; retained for provenance, runtime dependency path must be adapted on another machine."
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/runs/20260916T230216.992698Z-p11-exact-v4-array-cache-retry/code/exploration/persistent-01/worker-p/p11_build.py",
+      "sha256": "452c3072aaefc45759e85ffdd06977141b69edcdee8a6e188f151b4c5415ac07",
+      "content": "Exact executed compiler driver or build metadata includes local bundled libjpeg runtime path. No credentials; retained for provenance, runtime dependency path must be adapted on another machine."
     }
   ]
 }

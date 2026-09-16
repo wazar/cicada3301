@@ -1,0 +1,408 @@
+{
+  "status": "PASS",
+  "controls": [
+    {
+      "index": 0,
+      "mode": "L",
+      "size": [
+        128,
+        96
+      ],
+      "subsampling": 0,
+      "quality": 75,
+      "mcus": 192,
+      "blocks": 192,
+      "dummy": 0,
+      "stuffed": 1,
+      "padding": 1,
+      "payload_bytes": 311,
+      "pixel_identical": true
+    },
+    {
+      "index": 1,
+      "mode": "L",
+      "size": [
+        128,
+        96
+      ],
+      "subsampling": 0,
+      "quality": 92,
+      "mcus": 192,
+      "blocks": 192,
+      "dummy": 0,
+      "stuffed": 26,
+      "padding": 4,
+      "payload_bytes": 311,
+      "pixel_identical": true
+    },
+    {
+      "index": 2,
+      "mode": "L",
+      "size": [
+        123,
+        91
+      ],
+      "subsampling": 0,
+      "quality": 75,
+      "mcus": 192,
+      "blocks": 192,
+      "dummy": 0,
+      "stuffed": 8,
+      "padding": 5,
+      "payload_bytes": 311,
+      "pixel_identical": true
+    },
+    {
+      "index": 3,
+      "mode": "L",
+      "size": [
+        123,
+        91
+      ],
+      "subsampling": 0,
+      "quality": 92,
+      "mcus": 192,
+      "blocks": 192,
+      "dummy": 0,
+      "stuffed": 22,
+      "padding": 2,
+      "payload_bytes": 311,
+      "pixel_identical": true
+    },
+    {
+      "index": 4,
+      "mode": "RGB",
+      "size": [
+        128,
+        96
+      ],
+      "subsampling": 0,
+      "quality": 75,
+      "mcus": 192,
+      "blocks": 576,
+      "dummy": 0,
+      "stuffed": 14,
+      "padding": 4,
+      "payload_bytes": 311,
+      "pixel_identical": true
+    },
+    {
+      "index": 5,
+      "mode": "RGB",
+      "size": [
+        128,
+        96
+      ],
+      "subsampling": 0,
+      "quality": 92,
+      "mcus": 192,
+      "blocks": 576,
+      "dummy": 0,
+      "stuffed": 24,
+      "padding": 4,
+      "payload_bytes": 311,
+      "pixel_identical": true
+    },
+    {
+      "index": 6,
+      "mode": "RGB",
+      "size": [
+        128,
+        96
+      ],
+      "subsampling": 1,
+      "quality": 75,
+      "mcus": 96,
+      "blocks": 384,
+      "dummy": 0,
+      "stuffed": 11,
+      "padding": 4,
+      "payload_bytes": 311,
+      "pixel_identical": true
+    },
+    {
+      "index": 7,
+      "mode": "RGB",
+      "size": [
+        128,
+        96
+      ],
+      "subsampling": 1,
+      "quality": 92,
+      "mcus": 96,
+      "blocks": 384,
+      "dummy": 0,
+      "stuffed": 16,
+      "padding": 7,
+      "payload_bytes": 311,
+      "pixel_identical": true
+    },
+    {
+      "index": 8,
+      "mode": "RGB",
+      "size": [
+        128,
+        96
+      ],
+      "subsampling": 2,
+      "quality": 75,
+      "mcus": 48,
+      "blocks": 288,
+      "dummy": 0,
+      "stuffed": 13,
+      "padding": 6,
+      "payload_bytes": 311,
+      "pixel_identical": true
+    },
+    {
+      "index": 9,
+      "mode": "RGB",
+      "size": [
+        128,
+        96
+      ],
+      "subsampling": 2,
+      "quality": 92,
+      "mcus": 48,
+      "blocks": 288,
+      "dummy": 0,
+      "stuffed": 13,
+      "padding": 1,
+      "payload_bytes": 311,
+      "pixel_identical": true
+    },
+    {
+      "index": 10,
+      "mode": "RGB",
+      "size": [
+        123,
+        91
+      ],
+      "subsampling": 0,
+      "quality": 75,
+      "mcus": 192,
+      "blocks": 576,
+      "dummy": 0,
+      "stuffed": 11,
+      "padding": 1,
+      "payload_bytes": 311,
+      "pixel_identical": true
+    },
+    {
+      "index": 11,
+      "mode": "RGB",
+      "size": [
+        123,
+        91
+      ],
+      "subsampling": 0,
+      "quality": 92,
+      "mcus": 192,
+      "blocks": 576,
+      "dummy": 0,
+      "stuffed": 27,
+      "padding": 5,
+      "payload_bytes": 311,
+      "pixel_identical": true
+    },
+    {
+      "index": 12,
+      "mode": "RGB",
+      "size": [
+        123,
+        91
+      ],
+      "subsampling": 1,
+      "quality": 75,
+      "mcus": 96,
+      "blocks": 384,
+      "dummy": 0,
+      "stuffed": 11,
+      "padding": 5,
+      "payload_bytes": 311,
+      "pixel_identical": true
+    },
+    {
+      "index": 13,
+      "mode": "RGB",
+      "size": [
+        123,
+        91
+      ],
+      "subsampling": 1,
+      "quality": 92,
+      "mcus": 96,
+      "blocks": 384,
+      "dummy": 0,
+      "stuffed": 23,
+      "padding": 6,
+      "payload_bytes": 311,
+      "pixel_identical": true
+    },
+    {
+      "index": 14,
+      "mode": "RGB",
+      "size": [
+        123,
+        91
+      ],
+      "subsampling": 2,
+      "quality": 75,
+      "mcus": 48,
+      "blocks": 288,
+      "dummy": 0,
+      "stuffed": 18,
+      "padding": 2,
+      "payload_bytes": 311,
+      "pixel_identical": true
+    },
+    {
+      "index": 15,
+      "mode": "RGB",
+      "size": [
+        123,
+        91
+      ],
+      "subsampling": 2,
+      "quality": 92,
+      "mcus": 48,
+      "blocks": 288,
+      "dummy": 0,
+      "stuffed": 28,
+      "padding": 4,
+      "payload_bytes": 311,
+      "pixel_identical": true
+    }
+  ],
+  "malformed": [
+    {
+      "case": "bad-crc",
+      "result": "frame CRC"
+    },
+    {
+      "case": "bad-length",
+      "result": "frame length"
+    },
+    {
+      "case": "progressive",
+      "result": "non-baseline frame"
+    },
+    {
+      "case": "restart-header",
+      "result": "nonzero restart interval"
+    },
+    {
+      "case": "multiscan-header",
+      "result": "multiscan/non-sequential SOS"
+    },
+    {
+      "case": "allones-huffman",
+      "result": "oversubscribed/all-ones Huffman"
+    },
+    {
+      "case": "truncated",
+      "result": "marker before expected MCU end"
+    }
+  ],
+  "padprobe": {
+    "index": 0,
+    "meta": {
+      "frame": {
+        "width": 128,
+        "height": 96,
+        "components": [
+          {
+            "id": 1,
+            "h": 1,
+            "v": 1,
+            "q": 0
+          }
+        ]
+      },
+      "headers": [
+        {
+          "marker": 224,
+          "offset": 2,
+          "length": 16,
+          "fill": 0
+        },
+        {
+          "marker": 219,
+          "offset": 20,
+          "length": 67,
+          "fill": 0
+        },
+        {
+          "marker": 192,
+          "offset": 89,
+          "length": 11,
+          "fill": 0
+        },
+        {
+          "marker": 196,
+          "offset": 102,
+          "length": 31,
+          "fill": 0
+        },
+        {
+          "marker": 196,
+          "offset": 135,
+          "length": 181,
+          "fill": 0
+        },
+        {
+          "marker": 218,
+          "offset": 318,
+          "length": 8,
+          "fill": 0
+        }
+      ],
+      "sos_data_offset": 328,
+      "mcu_grid": [
+        16,
+        12
+      ],
+      "mcus": 192,
+      "blocks": 192,
+      "ac_symbols": 10232,
+      "dummy_blocks": 0,
+      "entropy_bits": 54687,
+      "final_data_byte_offset": 7164,
+      "consumed_bits_in_final_byte": 7,
+      "pad_bits": 1,
+      "pad_value": 0,
+      "padding_all_ones": false,
+      "entropy_byte_end": 7165,
+      "entropy_stuffed_zero_offsets": [
+        2541
+      ],
+      "tail_raw_span": [
+        7165,
+        7165
+      ],
+      "tail_raw_bytes": 0,
+      "tail_bytes": 0,
+      "tail_stuffed_zero_offsets": [],
+      "marker_fill_bytes": 0,
+      "eoi_offset": 7165,
+      "after_eoi_span": [
+        7167,
+        7167
+      ],
+      "after_eoi_bytes": 0,
+      "coefficient_sha256": {
+        "1": "449b96ba9d9c1adae0327eec2b7191fad2d1e1cdbe05e3f2095c1ddba0f81b16"
+      },
+      "coefficient_shapes": {
+        "1": [
+          12,
+          16,
+          64
+        ]
+      }
+    },
+    "pixel_identical": true
+  },
+  "payload_sha256": "f92dc04c4e73ee51460fd1c3441045752e2892bdeb3fcb86268eb3b1347f6ca0",
+  "specs": 16
+}

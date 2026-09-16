@@ -1,0 +1,219 @@
+{
+  "mode": "L",
+  "size": [
+    123,
+    91
+  ],
+  "subsampling": 0,
+  "quality": 75,
+  "clean": {
+    "frame": {
+      "width": 123,
+      "height": 91,
+      "components": [
+        {
+          "id": 1,
+          "h": 1,
+          "v": 1,
+          "q": 0
+        }
+      ]
+    },
+    "headers": [
+      {
+        "marker": 224,
+        "offset": 2,
+        "length": 16,
+        "fill": 0
+      },
+      {
+        "marker": 219,
+        "offset": 20,
+        "length": 67,
+        "fill": 0
+      },
+      {
+        "marker": 192,
+        "offset": 89,
+        "length": 11,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 102,
+        "length": 31,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 135,
+        "length": 181,
+        "fill": 0
+      },
+      {
+        "marker": 218,
+        "offset": 318,
+        "length": 8,
+        "fill": 0
+      }
+    ],
+    "sos_data_offset": 328,
+    "mcu_grid": [
+      16,
+      12
+    ],
+    "mcus": 192,
+    "blocks": 192,
+    "ac_symbols": 10071,
+    "dummy_blocks": 0,
+    "entropy_bits": 53747,
+    "final_data_byte_offset": 7054,
+    "consumed_bits_in_final_byte": 3,
+    "pad_bits": 5,
+    "pad_value": 31,
+    "padding_all_ones": true,
+    "entropy_byte_end": 7055,
+    "entropy_stuffed_zero_offsets": [
+      470,
+      1037,
+      1465,
+      4153,
+      5044,
+      6285,
+      6338,
+      6593
+    ],
+    "tail_raw_span": [
+      7055,
+      7055
+    ],
+    "tail_raw_bytes": 0,
+    "tail_bytes": 0,
+    "tail_stuffed_zero_offsets": [],
+    "marker_fill_bytes": 0,
+    "eoi_offset": 7055,
+    "after_eoi_span": [
+      7057,
+      7057
+    ],
+    "after_eoi_bytes": 0,
+    "coefficient_sha256": {
+      "1": "f5630c6aa65dd28992039e7e9cc3b3f769369b63a6b5c3f46dbba9ff0a96a5a0"
+    },
+    "coefficient_shapes": {
+      "1": [
+        12,
+        16,
+        64
+      ]
+    }
+  },
+  "planted": {
+    "frame": {
+      "width": 123,
+      "height": 91,
+      "components": [
+        {
+          "id": 1,
+          "h": 1,
+          "v": 1,
+          "q": 0
+        }
+      ]
+    },
+    "headers": [
+      {
+        "marker": 224,
+        "offset": 2,
+        "length": 16,
+        "fill": 0
+      },
+      {
+        "marker": 219,
+        "offset": 20,
+        "length": 67,
+        "fill": 0
+      },
+      {
+        "marker": 192,
+        "offset": 89,
+        "length": 11,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 102,
+        "length": 31,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 135,
+        "length": 181,
+        "fill": 0
+      },
+      {
+        "marker": 218,
+        "offset": 318,
+        "length": 8,
+        "fill": 0
+      }
+    ],
+    "sos_data_offset": 328,
+    "mcu_grid": [
+      16,
+      12
+    ],
+    "mcus": 192,
+    "blocks": 192,
+    "ac_symbols": 10071,
+    "dummy_blocks": 0,
+    "entropy_bits": 53747,
+    "final_data_byte_offset": 7054,
+    "consumed_bits_in_final_byte": 3,
+    "pad_bits": 5,
+    "pad_value": 31,
+    "padding_all_ones": true,
+    "entropy_byte_end": 7055,
+    "entropy_stuffed_zero_offsets": [
+      470,
+      1037,
+      1465,
+      4153,
+      5044,
+      6285,
+      6338,
+      6593
+    ],
+    "tail_raw_span": [
+      7055,
+      7383
+    ],
+    "tail_raw_bytes": 328,
+    "tail_bytes": 327,
+    "tail_stuffed_zero_offsets": [
+      7323
+    ],
+    "marker_fill_bytes": 0,
+    "eoi_offset": 7383,
+    "after_eoi_span": [
+      7385,
+      7385
+    ],
+    "after_eoi_bytes": 0,
+    "coefficient_sha256": {
+      "1": "f5630c6aa65dd28992039e7e9cc3b3f769369b63a6b5c3f46dbba9ff0a96a5a0"
+    },
+    "coefficient_shapes": {
+      "1": [
+        12,
+        16,
+        64
+      ]
+    }
+  },
+  "clean_sha256": "1eafc86b98155077828e0a46454c49f548ba86b307e5372d2aca0e17dc569343",
+  "planted_sha256": "014208b24a84535738506ffdd99afa062c169bb6be7f57c31e9d09dc888bbfbf",
+  "pixel_sha256": "7bdc1af6228d326bd30aa338ff125082fe7b71b794ac482c80ed6171343abd45",
+  "payload_sha256": "f92dc04c4e73ee51460fd1c3441045752e2892bdeb3fcb86268eb3b1347f6ca0"
+}

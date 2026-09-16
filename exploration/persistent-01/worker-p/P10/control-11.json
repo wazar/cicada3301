@@ -1,0 +1,341 @@
+{
+  "mode": "RGB",
+  "size": [
+    123,
+    91
+  ],
+  "subsampling": 0,
+  "quality": 92,
+  "clean": {
+    "frame": {
+      "width": 123,
+      "height": 91,
+      "components": [
+        {
+          "id": 1,
+          "h": 1,
+          "v": 1,
+          "q": 0
+        },
+        {
+          "id": 2,
+          "h": 1,
+          "v": 1,
+          "q": 1
+        },
+        {
+          "id": 3,
+          "h": 1,
+          "v": 1,
+          "q": 1
+        }
+      ]
+    },
+    "headers": [
+      {
+        "marker": 224,
+        "offset": 2,
+        "length": 16,
+        "fill": 0
+      },
+      {
+        "marker": 219,
+        "offset": 20,
+        "length": 67,
+        "fill": 0
+      },
+      {
+        "marker": 219,
+        "offset": 89,
+        "length": 67,
+        "fill": 0
+      },
+      {
+        "marker": 192,
+        "offset": 158,
+        "length": 17,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 177,
+        "length": 31,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 210,
+        "length": 181,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 393,
+        "length": 31,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 426,
+        "length": 181,
+        "fill": 0
+      },
+      {
+        "marker": 218,
+        "offset": 609,
+        "length": 12,
+        "fill": 0
+      }
+    ],
+    "sos_data_offset": 623,
+    "mcu_grid": [
+      16,
+      12
+    ],
+    "mcus": 192,
+    "blocks": 576,
+    "ac_symbols": 32231,
+    "dummy_blocks": 0,
+    "entropy_bits": 196099,
+    "final_data_byte_offset": 25162,
+    "consumed_bits_in_final_byte": 3,
+    "pad_bits": 5,
+    "pad_value": 31,
+    "padding_all_ones": true,
+    "entropy_byte_end": 25163,
+    "entropy_stuffed_zero_offsets": [
+      828,
+      1562,
+      1587,
+      2321,
+      2499,
+      3527,
+      4715,
+      4868,
+      5389,
+      6331,
+      6967,
+      9156,
+      9177,
+      9528,
+      10778,
+      11106,
+      11422,
+      13014,
+      13526,
+      15253,
+      15406,
+      15548,
+      16200,
+      18602,
+      20251,
+      20948,
+      22066
+    ],
+    "tail_raw_span": [
+      25163,
+      25163
+    ],
+    "tail_raw_bytes": 0,
+    "tail_bytes": 0,
+    "tail_stuffed_zero_offsets": [],
+    "marker_fill_bytes": 0,
+    "eoi_offset": 25163,
+    "after_eoi_span": [
+      25165,
+      25165
+    ],
+    "after_eoi_bytes": 0,
+    "coefficient_sha256": {
+      "1": "ad2496d0c23084caa99f2346894fee1933282ca6cdfdde00558cf7e4211c6cc9",
+      "2": "ac89c22ad5e91a60a2d844db782eb2b107c7be30d532cdb0df045e01eafab8a6",
+      "3": "c5f24f11ec5fd61c6c9d34555deca56d7fabdd0c9960e95d28aca438d9f19829"
+    },
+    "coefficient_shapes": {
+      "1": [
+        12,
+        16,
+        64
+      ],
+      "2": [
+        12,
+        16,
+        64
+      ],
+      "3": [
+        12,
+        16,
+        64
+      ]
+    }
+  },
+  "planted": {
+    "frame": {
+      "width": 123,
+      "height": 91,
+      "components": [
+        {
+          "id": 1,
+          "h": 1,
+          "v": 1,
+          "q": 0
+        },
+        {
+          "id": 2,
+          "h": 1,
+          "v": 1,
+          "q": 1
+        },
+        {
+          "id": 3,
+          "h": 1,
+          "v": 1,
+          "q": 1
+        }
+      ]
+    },
+    "headers": [
+      {
+        "marker": 224,
+        "offset": 2,
+        "length": 16,
+        "fill": 0
+      },
+      {
+        "marker": 219,
+        "offset": 20,
+        "length": 67,
+        "fill": 0
+      },
+      {
+        "marker": 219,
+        "offset": 89,
+        "length": 67,
+        "fill": 0
+      },
+      {
+        "marker": 192,
+        "offset": 158,
+        "length": 17,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 177,
+        "length": 31,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 210,
+        "length": 181,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 393,
+        "length": 31,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 426,
+        "length": 181,
+        "fill": 0
+      },
+      {
+        "marker": 218,
+        "offset": 609,
+        "length": 12,
+        "fill": 0
+      }
+    ],
+    "sos_data_offset": 623,
+    "mcu_grid": [
+      16,
+      12
+    ],
+    "mcus": 192,
+    "blocks": 576,
+    "ac_symbols": 32231,
+    "dummy_blocks": 0,
+    "entropy_bits": 196099,
+    "final_data_byte_offset": 25162,
+    "consumed_bits_in_final_byte": 3,
+    "pad_bits": 5,
+    "pad_value": 31,
+    "padding_all_ones": true,
+    "entropy_byte_end": 25163,
+    "entropy_stuffed_zero_offsets": [
+      828,
+      1562,
+      1587,
+      2321,
+      2499,
+      3527,
+      4715,
+      4868,
+      5389,
+      6331,
+      6967,
+      9156,
+      9177,
+      9528,
+      10778,
+      11106,
+      11422,
+      13014,
+      13526,
+      15253,
+      15406,
+      15548,
+      16200,
+      18602,
+      20251,
+      20948,
+      22066
+    ],
+    "tail_raw_span": [
+      25163,
+      25491
+    ],
+    "tail_raw_bytes": 328,
+    "tail_bytes": 327,
+    "tail_stuffed_zero_offsets": [
+      25431
+    ],
+    "marker_fill_bytes": 0,
+    "eoi_offset": 25491,
+    "after_eoi_span": [
+      25493,
+      25493
+    ],
+    "after_eoi_bytes": 0,
+    "coefficient_sha256": {
+      "1": "ad2496d0c23084caa99f2346894fee1933282ca6cdfdde00558cf7e4211c6cc9",
+      "2": "ac89c22ad5e91a60a2d844db782eb2b107c7be30d532cdb0df045e01eafab8a6",
+      "3": "c5f24f11ec5fd61c6c9d34555deca56d7fabdd0c9960e95d28aca438d9f19829"
+    },
+    "coefficient_shapes": {
+      "1": [
+        12,
+        16,
+        64
+      ],
+      "2": [
+        12,
+        16,
+        64
+      ],
+      "3": [
+        12,
+        16,
+        64
+      ]
+    }
+  },
+  "clean_sha256": "ad566562a0fc38a543b0494d8d904535803ff6f96e0218260c2809a2bd853a51",
+  "planted_sha256": "cd63823340660040a637f47c4cc1660e0e7b428065d5f97d6e1355b8f84a340a",
+  "pixel_sha256": "f625ddf800e80743ba57a10cbd39c7b412f9f672a6d72e1a8c7eae0a6228d47c",
+  "payload_sha256": "f92dc04c4e73ee51460fd1c3441045752e2892bdeb3fcb86268eb3b1347f6ca0"
+}

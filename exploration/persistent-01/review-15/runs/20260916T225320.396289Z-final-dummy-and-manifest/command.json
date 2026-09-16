@@ -1,0 +1,76 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-15/final_check.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "1ad9522582003d77aaa6ee02fcb9af2f326d087b",
+  "started_utc": "2026-09-16T22:53:20.406460+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-15/check_p_fixtures.py",
+      "exists": true,
+      "bytes": 1651,
+      "sha256": "a0a22c801ff34bad3de1182fdb61763e500b4fbdf21f9cafd63b94af6dd4c51e"
+    },
+    {
+      "path": "exploration/persistent-01/review-15/compare.py",
+      "exists": true,
+      "bytes": 1233,
+      "sha256": "a1e40067b08b52dd91ad0a2e3f72f04740bd01484dccb0a78ef1722870a3d9cb"
+    },
+    {
+      "path": "exploration/persistent-01/review-15/final_check.py",
+      "exists": true,
+      "bytes": 766,
+      "sha256": "7ba1b6979b370fe39d3bd7aca2ba150cc00a98f7a924d93f6853bcfd53c8c19f"
+    },
+    {
+      "path": "exploration/persistent-01/review-15/fixtures.py",
+      "exists": true,
+      "bytes": 2017,
+      "sha256": "2809438bd382552dafc54a7684350b22f790840cab028b72902b857ec30c7d61"
+    },
+    {
+      "path": "exploration/persistent-01/review-15/independent.py",
+      "exists": true,
+      "bytes": 3543,
+      "sha256": "d82e97d7eda60e59e83f68d9e58958076106819987558bc16803e0f5de7e3329"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P10/actual-summary.json",
+      "exists": true,
+      "bytes": 748,
+      "sha256": "195c5c8b5a22393d6e2040e363ce146a6ea0341bd60bd0058b06ae91234ff49b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p10.py",
+      "exists": true,
+      "bytes": 6710,
+      "sha256": "4dabd0416d47098753fb62200d507582ecff05bcda249daa3121e382b5a03924"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 70280,
+  "finished_utc": "2026-09-16T22:53:20.498427+00:00",
+  "duration_seconds": 0.0917497500013269
+}

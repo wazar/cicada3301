@@ -1,0 +1,176 @@
+{
+  "controls": [
+    {
+      "index": 0,
+      "bits": 54687,
+      "blocks": 192,
+      "pad": "1",
+      "frame_sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0",
+      "payload_crc32": 4021883227,
+      "pixel_identity": true
+    },
+    {
+      "index": 1,
+      "bits": 82636,
+      "blocks": 192,
+      "pad": "1111",
+      "frame_sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0",
+      "payload_crc32": 4021883227,
+      "pixel_identity": true
+    },
+    {
+      "index": 2,
+      "bits": 53747,
+      "blocks": 192,
+      "pad": "11111",
+      "frame_sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0",
+      "payload_crc32": 4021883227,
+      "pixel_identity": true
+    },
+    {
+      "index": 3,
+      "bits": 81494,
+      "blocks": 192,
+      "pad": "11",
+      "frame_sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0",
+      "payload_crc32": 4021883227,
+      "pixel_identity": true
+    },
+    {
+      "index": 4,
+      "bits": 123004,
+      "blocks": 576,
+      "pad": "1111",
+      "frame_sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0",
+      "payload_crc32": 4021883227,
+      "pixel_identity": true
+    },
+    {
+      "index": 5,
+      "bits": 198836,
+      "blocks": 576,
+      "pad": "1111",
+      "frame_sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0",
+      "payload_crc32": 4021883227,
+      "pixel_identity": true
+    },
+    {
+      "index": 6,
+      "bits": 77820,
+      "blocks": 384,
+      "pad": "1111",
+      "frame_sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0",
+      "payload_crc32": 4021883227,
+      "pixel_identity": true
+    },
+    {
+      "index": 7,
+      "bits": 126833,
+      "blocks": 384,
+      "pad": "1111111",
+      "frame_sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0",
+      "payload_crc32": 4021883227,
+      "pixel_identity": true
+    },
+    {
+      "index": 8,
+      "bits": 58970,
+      "blocks": 288,
+      "pad": "111111",
+      "frame_sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0",
+      "payload_crc32": 4021883227,
+      "pixel_identity": true
+    },
+    {
+      "index": 9,
+      "bits": 94863,
+      "blocks": 288,
+      "pad": "1",
+      "frame_sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0",
+      "payload_crc32": 4021883227,
+      "pixel_identity": true
+    },
+    {
+      "index": 10,
+      "bits": 120823,
+      "blocks": 576,
+      "pad": "1",
+      "frame_sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0",
+      "payload_crc32": 4021883227,
+      "pixel_identity": true
+    },
+    {
+      "index": 11,
+      "bits": 196099,
+      "blocks": 576,
+      "pad": "11111",
+      "frame_sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0",
+      "payload_crc32": 4021883227,
+      "pixel_identity": true
+    },
+    {
+      "index": 12,
+      "bits": 77147,
+      "blocks": 384,
+      "pad": "11111",
+      "frame_sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0",
+      "payload_crc32": 4021883227,
+      "pixel_identity": true
+    },
+    {
+      "index": 13,
+      "bits": 126026,
+      "blocks": 384,
+      "pad": "111111",
+      "frame_sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0",
+      "payload_crc32": 4021883227,
+      "pixel_identity": true
+    },
+    {
+      "index": 14,
+      "bits": 58070,
+      "blocks": 288,
+      "pad": "11",
+      "frame_sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0",
+      "payload_crc32": 4021883227,
+      "pixel_identity": true
+    },
+    {
+      "index": 15,
+      "bits": 94604,
+      "blocks": 288,
+      "pad": "1111",
+      "frame_sha256": "0e4347c5a987b1d7981003d58b18e19c499cff57a0ecb1b80387416c944d89e0",
+      "payload_crc32": 4021883227,
+      "pixel_identity": true
+    }
+  ],
+  "rejections": {
+    "invalid-allones-dht.jpg": {
+      "rejected": true,
+      "error_type": "AssertionError",
+      "message": ""
+    },
+    "invalid-truncated.jpg": {
+      "rejected": true,
+      "error_type": "IndexError",
+      "message": "string index out of range"
+    },
+    "unsupported-multiscan-header.jpg": {
+      "rejected": true,
+      "error_type": "AssertionError",
+      "message": ""
+    },
+    "unsupported-progressive.jpg": {
+      "rejected": true,
+      "error_type": "ValueError",
+      "message": "unsupported nonbaseline frame"
+    },
+    "unsupported-restart-header.jpg": {
+      "rejected": true,
+      "error_type": "AssertionError",
+      "message": "restart unsupported in this independent implementation"
+    }
+  },
+  "noncanonical_pad": "0"
+}

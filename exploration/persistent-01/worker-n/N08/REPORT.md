@@ -1,0 +1,24 @@
+# N08: adjacent-page length-only copy test
+
+No excess boundary-only copy relationship appears across the33 legitimate adjacent discovery-page pairs. The longest exact contiguous match is6 explicit units, with full-procedure upper tails .735 under whole-unit permutations and .740 under4-unit-block permutations. Both statistics include all offsets and both forward/reversed unit orders; no selected-pair p-value is reported.
+
+This is distinct from N03's rune-equality-pattern copies and F02's page-role profiles. F08 used the same useful length-signature idea against a public solved-source dictionary; that instrument overlap is acknowledged. N08 instead compares adjacent unsolved pages directly, allowing entirely unrelated rune identities such as independently masked copies. It uses the2,355 corrected F06 explicit delimiter units, including row-spanning units, not physical fragments or inherited labels.
+
+Scope was frozen before the pilot:33 actual adjacent original-page pairs among45 discovery pages, no crossing reserves/missing pages, two orientations and188,484 offset pairs. The real maximum6 occurs in four comparisons:12→13 reversed,25→26 reversed,30→31 forward and40→41 reversed. Complete length vectors, unit indexes, rune ranges, source character coordinates and row maps are retained; these short matches are not plaintext candidates. The forward30→31 match is lengths[4,3,3,2,3,3], left units16–21/right units43–48, zero-based. All179 tied per-pair/orientation maximum spans are retained, not just these four global maxima.
+
+Whole-unit null counts across999 full panels are: maximum4(1),5(264),6(565),7(145),8(19),9(4),10(1). The4-unit-block sensitivity gives5(260),6(594),7(115),8(24),9(4),11(2). Block permutations preserve order inside fixed nonoverlapping four-unit blocks, with the final shorter block retained; they do not preserve arbitrary higher-order prose correlations. No choice between these two assumptions was made after outcomes.
+
+| Planted or ordinary controls | Whole-unit null | Four-unit-block null |
+|---|---:|---:|
+|6-unit copy,8 panels |0/8 detected |1/8 detected |
+|10-unit copy,8 panels |8/8 detected |8/8 detected |
+|16-unit copy,8 panels |8/8 detected |8/8 detected |
+|Different solved sources,4 panels |0/4 false alarms |0/4 false alarms |
+
+Each control is compared against99 complete-procedure null panels per family; detection is the frozen tail<=.01. The weak6-unit block detection has an incidental9-unit maximum and tails.02/.01; it is not evidence for dependable6-unit sensitivity. The10/16 controls test four forward/four reversed copies each, with independent rune payloads on every page. All45 actual page UNIT COUNTS are preserved. Rune totals can change when length blocks are copied: copied controls have page-level changes between−24 and+22; the disjoint-source controls range−58 to+1. These changes were predeclared and recorded, not represented as rune-count-matched controls. Independent payload runes have no immediate repeats; the tested statistic uses only unit lengths.
+
+Four disjoint-source panels substitute page0/page1 length sequences of59/63 units from different admitted solved groups, with other pages permuted backgrounds. Their maxima are7,6,7,5; tails(.18,.22),(.70,.75),(.22,.21),(1,1). Four examples are a limited ordinary-prose sensitivity check, not a precise false-positive estimate or corpus-independent calibration. Likewise8/8 planted detections do not establish universal power for other length distributions or corrupted boundaries.
+
+The full frozen run contains7,571 panels and499,686 pair/orientation scans. Every null unit/block permutation and statistic is saved as compressed JSONL; every control retains full lengths, rune payloads, copied/replaced windows, changed totals and source metadata. Real scan matches retain corrected source maps. Pilot100 tiny cases agree with an exhaustive matcher; independent diagonal-run code verifies all66 real pair/orientation maxima, every retained span and eight complete controls. It also regenerates2,790 null panels' permutation orders from recorded seeds across10 streams, checks exact marginal preservation, and independently rescans first/last panels in each stream. All reported tails/accounting reproduce.
+
+Logged pilot/full/independent-check runs pass in.194/55.615/1.834s. No new sources, markers, keys, approximate lengths, tolerance or broader page order was added after this miss. The bounds exclude neither short/shared common phrases nor edits, inserted/deleted units, changed segmentation, length-changing encryption or nonadjacent-page copies. Under the tested preserved-unit-copy assumptions, the actual panel has no long match of the kind the10/16-unit controls detect. Freeze and rotate; no decoder, English scorer, candidate plaintext or reserve reveal follows.

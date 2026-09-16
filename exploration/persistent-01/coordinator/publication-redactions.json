@@ -201,5 +201,285 @@
     "original_sha256": "fda6c0aa08a3aa66fc723ce0a60fa384295460e98d290ad256d3f1b2b897a010",
     "published_sha256": "608b8ae2577ee7baa01e9fe8c5b228c718643b6710b3b586185782c62ab98df8",
     "change": "Only local checkout prefix normalized in completed log; exact original retained locally."
+  },
+  {
+    "path": "exploration/persistent-01/worker-n/N07/runs/20260916T224851.573748Z-frozen440/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-n/N07/runs/20260916T224851.573748Z-frozen440/stderr.txt",
+    "original_sha256": "33c4f9d5cc69c889d62fb95586c831400dd1276f669a558cc16867bda0ab620a",
+    "published_sha256": "cdaac9bba3d8cc4823140b4441dfa13e0a51e83744171ea575e67d5d5407dcb6",
+    "change": "Only local checkout prefix normalized in completed metadata/output; exact original retained locally."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/build.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/build.json",
+    "original_sha256": "0d1f185c089611f131845b97766ddb3297edd72b3c9e187485f6b416291cc191",
+    "published_sha256": "81ad2645aeca058970f0b82baa9fc6a6f34eb0636873c6e8b768bb8ec6cdfbfe",
+    "change": "Only local checkout prefix normalized in completed metadata/output; exact original retained locally."
+  },
+  {
+    "path": "exploration/persistent-01/review-15/runs/20260916T225320.396289Z-final-dummy-and-manifest/stdout.txt",
+    "private_original": "exploration/persistent-01/private-originals/review-15/runs/20260916T225320.396289Z-final-dummy-and-manifest/stdout.txt",
+    "original_sha256": "dde559b078a885bafb249c4732aa01659c500cc1ec9c2ed505d62db947875fe0",
+    "published_sha256": "981e158516a471e1e20d39fe20b07e7004c364b3706e81dc85c85aa37abe058e",
+    "change": "Only local checkout prefix normalized in completed metadata/output; exact original retained locally."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/runs/20260916T230100.244232Z-p11-exact-v4-original0-1-extraction/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/runs/20260916T230100.244232Z-p11-exact-v4-original0-1-extraction/stderr.txt",
+    "original_sha256": "07fc882df94f1f0c092d28c641f2832be7613df9a9464e7b8a8e39243e3bfa7a",
+    "published_sha256": "a2af1f56ba73a9e9b9a44a1870d0de263f7747d4c8174d904b628f40fde5641a",
+    "change": "Only local checkout prefix normalized in completed metadata/output; exact original retained locally."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/sink-256-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/sink-256-command.json",
+    "original_sha256": "90ad7a928fe8ef74fe79f2c6fb39e5a70f01fa018550e8379a97ae2d92522ac7",
+    "published_sha256": "2142517d4eaebf5e8c158884b6614a128ef7558d5fe2fe5bb3f1800fb45b1cb4",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/jpeg-sink-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/jpeg-sink-command.json",
+    "original_sha256": "7b831457bdb929caf184755435d4cbf99c7aab16155695f25f9d70f899a8b1bf",
+    "published_sha256": "504aed947e965efb2302466d680f5a2967e7ecf26eb6aa147367faf9364a3a6f",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/actual-sink-1-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/actual-sink-1-command.json",
+    "original_sha256": "72eaf5b8fda4d2e52415a6648c95862e4258c44fef09a56a4fb5fe189ae51dc9",
+    "published_sha256": "90a807bdc850e554dbf3ce3cdda879c676ecd69dbec7fe7c3ac052112136fd14",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/probe-positivewidth-zero-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/probe-positivewidth-zero-command.json",
+    "original_sha256": "8003a2b764c0c61c899416e99365b06d48e51dda0b35c843c8fc4fd458c2fc29",
+    "published_sha256": "6e95551509a41fe8cd1d9bdfe511d16ce7ef79a99d3d1dcc5173631a8713d974",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/probe-truncatedlength-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/probe-truncatedlength-command.json",
+    "original_sha256": "728e6b31d4a0a6e97be26a2648c85cc03f0b5a65e3f16a2e0c34463b5a83afeb",
+    "published_sha256": "92444ab43f18a949c371474f0f61027ca9c6a57279059622e5856d0541139e64",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/sink-0-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/sink-0-command.json",
+    "original_sha256": "1f62e5c1d1c93083a1318ae93830a4b05ffe25ac3eee5147e543e0510fb779bb",
+    "published_sha256": "514fc51382e7352f300f6131783b974facdf0b81c28dc1e3a73f3a420c1152bf",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/jpeg-inject-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/jpeg-inject-command.json",
+    "original_sha256": "0903b7118a7dee127758113ef0090417173a3a14795d5dfe2a9870a872a37091",
+    "published_sha256": "061769c2fa9be668c583ac9e2ecdf06de10d16c7d725d11768fa44a4d36777c3",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/probe-leadingzero-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/probe-leadingzero-command.json",
+    "original_sha256": "e44702e62cb8c2b789a492e8cef44f077c71fc48dd5a2f68a03176309792aa9c",
+    "published_sha256": "d11eb0796faefb570960bbd8a7052248a7b1d508a006c3e051880625ecad79b6",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/inject-3-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/inject-3-command.json",
+    "original_sha256": "1d987b11a80c176d19130faa35eb034de23e236c8824d428cd08d532ab5316b2",
+    "published_sha256": "e8eb2234667343f477c726352d56f3b6e12eae6ec6deb3a20cf88f37409504a3",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/inject-255-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/inject-255-command.json",
+    "original_sha256": "2b9ee9a7175e23a9f96b6bd085c9a555b34ddf0b36369199559c2884ce5d18ad",
+    "published_sha256": "69be67f79632bfad5b5eb8adc386df55a7048b12d031373ea10867808f5065ed",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/inject-128-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/inject-128-command.json",
+    "original_sha256": "6ee60a1920537ace54561172a8bd64fac17d1f149a3cf5f29e7e715671db3cc6",
+    "published_sha256": "a50c7f39f3d89be14b30e9aaa6a0531dad83be1866e4ee2ee976d87c073cabfa",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/sink-127-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/sink-127-command.json",
+    "original_sha256": "6031b6289080fac5fc82516bd446260ec23bc622b98c808545ea8840c9c4d10a",
+    "published_sha256": "095370ec02a240e0b1b292c49ecd8fe848293c9f34959780599dea1085efdea1",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/sink-1-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/sink-1-command.json",
+    "original_sha256": "a8b8de4f7955e1d502a6b5e519d2697d828a483ff120d348cf3c7564ab97ab9b",
+    "published_sha256": "78dcc1bfe69060fa556c8fdd4faf8aa631ca8f41e31a3cfe34496e73597305de",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/actual-sink-0-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/actual-sink-0-command.json",
+    "original_sha256": "0a97a4ebed953f6b7d550181fa27f3868fe7745bcfcffda1e59575aeede809a0",
+    "published_sha256": "7a575db19bcb8babbadf88e39c62557db6cfb05cf30c3c1e6272244b41157c06",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/inject-2-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/inject-2-command.json",
+    "original_sha256": "bc219e919a35165346f4a2520beaa2b0f650df68424cb2b89ed3e99fcbaf8fb4",
+    "published_sha256": "c4e5224ca4fbf80fd29ca4538e4ae4eb13f9de6c7fb1bdffb8f3b3fe3ae9637e",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/sink-3-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/sink-3-command.json",
+    "original_sha256": "08af73e14209bdad08e20f11a475728e8ad091c31142c72498729a176c24dc33",
+    "published_sha256": "9d3d59443ba2fe9b4b94fef83d2d9f599bc772583fa840acbe2ed37b4a184ca4",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/inject-1025-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/inject-1025-command.json",
+    "original_sha256": "06773d7442c3d28877a1a119a05df11b2eacaea4db15d259314464ae4a176c7e",
+    "published_sha256": "c52d9084af3dea74685f37b5400f26ddb8509704cdb2df77ef4cfb9bf1f58ba1",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/probe-width0-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/probe-width0-command.json",
+    "original_sha256": "9c6b3a42167029c4e505f3c2f561294942537e39aa723b61cd301d6a98b2ffed",
+    "published_sha256": "a51048d5b863752d14fdb4b0ff2533d346228f09e78a715507302e5cb9531f52",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/inject-0-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/inject-0-command.json",
+    "original_sha256": "8df6d9c41c3c9d6a3c20487e4ebce3256d6ac813ff73a5aded837ac3259b39f0",
+    "published_sha256": "e9db0513c9a7da532d2b24f99fd7f8a0c753128e6339fe67d2d9da916c46fdf1",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/inject-256-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/inject-256-command.json",
+    "original_sha256": "0df4f2a34f1346a6abbc318e7ea2b75567340ac9864fa01088ca86ac7e3bcb5f",
+    "published_sha256": "8c69736735d4e000865c65f332e8ec1471c53e76d81b4eccb0a9c1c4c9313d80",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/sink-2-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/sink-2-command.json",
+    "original_sha256": "d9aae6ac181a8ab621e3ded154233c765aba7196d2ae3209ec51e9f17378b4db",
+    "published_sha256": "8469579b057b70851d0188019d7f42a96269dc24d698b3dfc64817254ff3e665",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/inject-1024-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/inject-1024-command.json",
+    "original_sha256": "36b870520bd2ee41cc129bca48a7340c462b666b6d710b7f9f435b1f5f8b158b",
+    "published_sha256": "d1e64c7e037083fdf46cf974821d23476585f55c9d5f1663e7ea3d25d5a591e4",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/probe-truncatedwidth-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/probe-truncatedwidth-command.json",
+    "original_sha256": "7c91df8e4b6ebff769a83346dc6a1093d26a27b2c8a1e4add161f8b86086c1f7",
+    "published_sha256": "b364c6b242b227b84d64132975f10da153667c37bdbfbb3038b2ecda43d91a67",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/inject-1023-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/inject-1023-command.json",
+    "original_sha256": "bd794cf5eb4efd1ad9595141d855ce5e3c4004e4bb0c32778bd0af1fbfc16fd5",
+    "published_sha256": "089707ee6f4b69d5787e45e65ce3c0080b0441427a1ec4cc2356beb8a1545262",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/inject-1-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/inject-1-command.json",
+    "original_sha256": "46c05a055f6e73119cda66b5136c2b53230d4b56e2972c64e9afbd07857f6c17",
+    "published_sha256": "5e6c3ba5d28d4f024c4b790eaac61ebc8d6f19ed6ed5ca5c2671e498921d6368",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/sink-128-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/sink-128-command.json",
+    "original_sha256": "ab31b90b094e878596c3fb7a3b7de639492c06cd9d4af162eb2e8a061edf1a7b",
+    "published_sha256": "5e4b7a5ca3b151a3ff43f9edde6ef0ee1eb2aedb481573e25b83f3f0501817f6",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/inject-127-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/inject-127-command.json",
+    "original_sha256": "f74e9ed6d070df131a3568a6814b2f64f0649e10c502ab4071e1101eb90ab7eb",
+    "published_sha256": "e910d93bf82e7d8f8d4381e7a74376ee197b0147036b950318a1417a48a2f254",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/sink-255-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/sink-255-command.json",
+    "original_sha256": "7be4c59d7244e9b8e5b49f723280ec697e261e6fe2a824584fa86670f972f42a",
+    "published_sha256": "bf239166f81fcf0e99b1856495ef7e20cfe94990127facc796add4891b56f94c",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/sink-1025-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/sink-1025-command.json",
+    "original_sha256": "71b91baa29d1f968ffb38968e854f929bb991006699502666672a49b1601ff74",
+    "published_sha256": "6aca992997431618abb1a6272a428e972284885bf5d2268f24927754939fd54f",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/probe-truncatedpayload-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/probe-truncatedpayload-command.json",
+    "original_sha256": "0b14d5e291ad812ca2fa1e9f441188ed480ad2e8cc856a634df507dca8aa0a41",
+    "published_sha256": "1543d39306f010c239a8eec71fc47ba2b67642388889015744b0f3962452343a",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/sink-1023-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/sink-1023-command.json",
+    "original_sha256": "0af26bd56de9a22ed66cc931cf74d68894cd0b4fc4b2ab98ec99874c3823169e",
+    "published_sha256": "be3486cad715358b7641cb29bb2adadd5db19153b32886d08288da3132c3ce61",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/sink-1024-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/sink-1024-command.json",
+    "original_sha256": "355d79c56b4be75c4c99edd9d4cd9c34dfcd8f555d6e80bfe53fa723795379e5",
+    "published_sha256": "023d9d9e763b5736dfa64e207e880c5b49720c6d2c0b3eb3943adc5b683099dc",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P11/controls.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P11/controls.json",
+    "original_sha256": "1b05106614eededc24f4eedea5c27f097ebd18d1d426ef09bc56a9520101d7c3",
+    "published_sha256": "44bcef3deadbc2a026d3e257f2bdf5dab575a950610cf06ce47e01dfb02f06af",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/review-15/fixture-results.json",
+    "private_original": "exploration/persistent-01/private-originals/review-15/fixture-results.json",
+    "original_sha256": "640e7d5d04b8ec4aa0a125254f27dadee23b0cf64ff170bbda071524fb07308a",
+    "published_sha256": "901274f4bcc2223ec7f44905141381206ac5925c69dee98e7a1a23dd77916188",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/review-15/FINAL-CHECK.json",
+    "private_original": "exploration/persistent-01/private-originals/review-15/FINAL-CHECK.json",
+    "original_sha256": "4b5f2ae1b6a491ca05ddb52275f19bca45d4007daf4ddcb70fa0e304530a6d69",
+    "published_sha256": "c11736e5ac99d7f0a6954bc07f359177b9962c8bb8a1ed7e19cad6776e42b404",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/review-15/comparison.json",
+    "private_original": "exploration/persistent-01/private-originals/review-15/comparison.json",
+    "original_sha256": "c7134ca5cca192d13bb2942a92ea98525210bd7032c1b64f955ad9aa7e58bf10",
+    "published_sha256": "6f34349003df61c9c848c90149eed21d8bdf0ecdc00d8806ad683a2437fc1cf2",
+    "change": "Only local checkout prefix normalized in completed command/fixture metadata; numeric and binary scientific data unchanged."
   }
 ]

@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "actual": [
+    {
+      "page": 0,
+      "all_bits_and_available_payload_and_sink_flush_match": true,
+      "exact_faircoin_probability": "2196142635/4294967296",
+      "exact_minimal_probability": "536169/2097152",
+      "header": {
+        "width": 31,
+        "size": 2147483647,
+        "available": 89296,
+        "minimal_width": 31,
+        "minimal_encoder_compatible": true,
+        "readme_width_compatible": true,
+        "status": "insufficient_capacity"
+      }
+    },
+    {
+      "page": 1,
+      "all_bits_and_available_payload_and_sink_flush_match": true,
+      "exact_faircoin_probability": "17513485881/34359738368",
+      "exact_minimal_probability": "1068941/4194304",
+      "header": {
+        "width": 31,
+        "size": 2147483647,
+        "available": 85898,
+        "minimal_width": 31,
+        "minimal_encoder_compatible": true,
+        "readme_width_compatible": true,
+        "status": "insufficient_capacity"
+      }
+    }
+  ],
+  "source_control_counts": {
+    "stream": 11,
+    "reader": 6,
+    "jpeg": 1
+  },
+  "python_source_sha256": "0779adba3159f3ed5f455cf55010d4c4f54c9fc382aa61c298b8abb63a817a61",
+  "actual_summary_sha256": "e7e0402d2c5443243295a2554bcab34227f670542fc835b388ae8acfeb356d51"
+}

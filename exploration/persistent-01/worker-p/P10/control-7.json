@@ -1,0 +1,319 @@
+{
+  "mode": "RGB",
+  "size": [
+    128,
+    96
+  ],
+  "subsampling": 1,
+  "quality": 92,
+  "clean": {
+    "frame": {
+      "width": 128,
+      "height": 96,
+      "components": [
+        {
+          "id": 1,
+          "h": 2,
+          "v": 1,
+          "q": 0
+        },
+        {
+          "id": 2,
+          "h": 1,
+          "v": 1,
+          "q": 1
+        },
+        {
+          "id": 3,
+          "h": 1,
+          "v": 1,
+          "q": 1
+        }
+      ]
+    },
+    "headers": [
+      {
+        "marker": 224,
+        "offset": 2,
+        "length": 16,
+        "fill": 0
+      },
+      {
+        "marker": 219,
+        "offset": 20,
+        "length": 67,
+        "fill": 0
+      },
+      {
+        "marker": 219,
+        "offset": 89,
+        "length": 67,
+        "fill": 0
+      },
+      {
+        "marker": 192,
+        "offset": 158,
+        "length": 17,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 177,
+        "length": 31,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 210,
+        "length": 181,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 393,
+        "length": 31,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 426,
+        "length": 181,
+        "fill": 0
+      },
+      {
+        "marker": 218,
+        "offset": 609,
+        "length": 12,
+        "fill": 0
+      }
+    ],
+    "sos_data_offset": 623,
+    "mcu_grid": [
+      8,
+      12
+    ],
+    "mcus": 96,
+    "blocks": 384,
+    "ac_symbols": 21381,
+    "dummy_blocks": 0,
+    "entropy_bits": 126833,
+    "final_data_byte_offset": 16493,
+    "consumed_bits_in_final_byte": 1,
+    "pad_bits": 7,
+    "pad_value": 127,
+    "padding_all_ones": true,
+    "entropy_byte_end": 16494,
+    "entropy_stuffed_zero_offsets": [
+      821,
+      1454,
+      3815,
+      4100,
+      4739,
+      5227,
+      5733,
+      6270,
+      6744,
+      8087,
+      9870,
+      10878,
+      13977,
+      14290,
+      14374,
+      14675
+    ],
+    "tail_raw_span": [
+      16494,
+      16494
+    ],
+    "tail_raw_bytes": 0,
+    "tail_bytes": 0,
+    "tail_stuffed_zero_offsets": [],
+    "marker_fill_bytes": 0,
+    "eoi_offset": 16494,
+    "after_eoi_span": [
+      16496,
+      16496
+    ],
+    "after_eoi_bytes": 0,
+    "coefficient_sha256": {
+      "1": "78b39eb8ba6cf2de433e54c3042903381c65764e049cab5a0bab175b7d162c09",
+      "2": "2f0843e25e4c817e5aa2f01cb084552eeb9daf82f19b132dfc801f862fbc24de",
+      "3": "dda20b52ad9f21de67861f86d67a9a78adce46fbbfb8fa2c60a0dd5329d85353"
+    },
+    "coefficient_shapes": {
+      "1": [
+        12,
+        16,
+        64
+      ],
+      "2": [
+        12,
+        8,
+        64
+      ],
+      "3": [
+        12,
+        8,
+        64
+      ]
+    }
+  },
+  "planted": {
+    "frame": {
+      "width": 128,
+      "height": 96,
+      "components": [
+        {
+          "id": 1,
+          "h": 2,
+          "v": 1,
+          "q": 0
+        },
+        {
+          "id": 2,
+          "h": 1,
+          "v": 1,
+          "q": 1
+        },
+        {
+          "id": 3,
+          "h": 1,
+          "v": 1,
+          "q": 1
+        }
+      ]
+    },
+    "headers": [
+      {
+        "marker": 224,
+        "offset": 2,
+        "length": 16,
+        "fill": 0
+      },
+      {
+        "marker": 219,
+        "offset": 20,
+        "length": 67,
+        "fill": 0
+      },
+      {
+        "marker": 219,
+        "offset": 89,
+        "length": 67,
+        "fill": 0
+      },
+      {
+        "marker": 192,
+        "offset": 158,
+        "length": 17,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 177,
+        "length": 31,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 210,
+        "length": 181,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 393,
+        "length": 31,
+        "fill": 0
+      },
+      {
+        "marker": 196,
+        "offset": 426,
+        "length": 181,
+        "fill": 0
+      },
+      {
+        "marker": 218,
+        "offset": 609,
+        "length": 12,
+        "fill": 0
+      }
+    ],
+    "sos_data_offset": 623,
+    "mcu_grid": [
+      8,
+      12
+    ],
+    "mcus": 96,
+    "blocks": 384,
+    "ac_symbols": 21381,
+    "dummy_blocks": 0,
+    "entropy_bits": 126833,
+    "final_data_byte_offset": 16493,
+    "consumed_bits_in_final_byte": 1,
+    "pad_bits": 7,
+    "pad_value": 127,
+    "padding_all_ones": true,
+    "entropy_byte_end": 16494,
+    "entropy_stuffed_zero_offsets": [
+      821,
+      1454,
+      3815,
+      4100,
+      4739,
+      5227,
+      5733,
+      6270,
+      6744,
+      8087,
+      9870,
+      10878,
+      13977,
+      14290,
+      14374,
+      14675
+    ],
+    "tail_raw_span": [
+      16494,
+      16822
+    ],
+    "tail_raw_bytes": 328,
+    "tail_bytes": 327,
+    "tail_stuffed_zero_offsets": [
+      16762
+    ],
+    "marker_fill_bytes": 0,
+    "eoi_offset": 16822,
+    "after_eoi_span": [
+      16824,
+      16824
+    ],
+    "after_eoi_bytes": 0,
+    "coefficient_sha256": {
+      "1": "78b39eb8ba6cf2de433e54c3042903381c65764e049cab5a0bab175b7d162c09",
+      "2": "2f0843e25e4c817e5aa2f01cb084552eeb9daf82f19b132dfc801f862fbc24de",
+      "3": "dda20b52ad9f21de67861f86d67a9a78adce46fbbfb8fa2c60a0dd5329d85353"
+    },
+    "coefficient_shapes": {
+      "1": [
+        12,
+        16,
+        64
+      ],
+      "2": [
+        12,
+        8,
+        64
+      ],
+      "3": [
+        12,
+        8,
+        64
+      ]
+    }
+  },
+  "clean_sha256": "61c84d5613e739cbf43fb18a56cbaea33d185afee02c82c4ed587d950d6795af",
+  "planted_sha256": "46f4a65d7508ba430ea30e69917f44d1ef9258f9c6761fcea1226e5690522850",
+  "pixel_sha256": "8c8f121d21696ff87227231a8b7c9b3554d074a0496aad98a76c5d67220afd60",
+  "payload_sha256": "f92dc04c4e73ee51460fd1c3441045752e2892bdeb3fcb86268eb3b1347f6ca0"
+}

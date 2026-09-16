@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-16/header_controls.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "6ae89b9ba7bccad346b905dcc471f98acf07a029",
+  "started_utc": "2026-09-16T22:58:31.561647+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/jsteg-source/mirror-0.diff",
+      "exists": true,
+      "bytes": 42751,
+      "sha256": "c1f02db0e00b4a9861d1d8830b48112f1d569cb00392740fc72c4e8b35bbfb8b"
+    },
+    {
+      "path": "exploration/persistent-01/review-16/header_controls.py",
+      "exists": true,
+      "bytes": 2931,
+      "sha256": "1ee68d373d2f53f9b39fbf6cba66a72045ac199df4e8f5a16342e2ac42f2c8ba"
+    },
+    {
+      "path": "exploration/persistent-01/review-16/independent_jsteg.py",
+      "exists": true,
+      "bytes": 4398,
+      "sha256": "2d12e17b18f62636f213cd4a08ba24aa056bf5bd2f335b331f1412ff13912013"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 70634,
+  "finished_utc": "2026-09-16T22:58:31.705106+00:00",
+  "duration_seconds": 0.14316566600246006
+}

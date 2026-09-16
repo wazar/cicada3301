@@ -1,0 +1,8 @@
+import pathlib,json,subprocess,struct,hashlib
+R=pathlib.Path(__file__).parent;P=R.parent/'worker-p/P11';h=P/'harness';F=R/'fixtures';F.mkdir(exist_ok=True);d=json.loads((R/'header-results.json').read_text());checks=[]
+for idx,c in enumerate(d['controls']):
+ path=F/f'coeff-{idx}.bin';out=F/f'payload-{idx}.bin';path.write_bytes(struct.pack('<'+'h'*len(c['coefficients']),*c['coefficients']));run=subprocess.run([str(h),'sink',str(path),str(out)],capture_output=True,text=True,check=True);state=json.loads(run.stderr);assert out.read_bytes().hex()==c['result']['payload_hex'];assert state['open']==0 and state['fileindex']==c['size'];checks.append({'index':idx,'state':state,'payload_sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'match':True})
+zero=[]
+for bodybits in [0,1,7,8,16,8192,8200]:
+ vals=[2]*(5+bodybits);path=F/f'zero-{bodybits}.bin';out=F/f'zero-{bodybits}-out.bin';path.write_bytes(struct.pack('<'+'h'*len(vals),*vals));run=subprocess.run([str(h),'sink',str(path),str(out)],capture_output=True,text=True,check=True);state=json.loads(run.stderr);assert state['open']==1 and state['fileindex']==bodybits//8;assert len(out.read_bytes())==(bodybits//8192)*1024;zero.append({'bodybits':bodybits,'state':state,'flushed_bytes':len(out.read_bytes())})
+res={'harness_sha256':hashlib.sha256(h.read_bytes()).hexdigest(),'adapted_sink_sha256':hashlib.sha256((P/'private-source/bitsink.c').read_bytes()).hexdigest(),'controls':checks,'zero_edge':zero};(R/'c-sink-check.json').write_text(json.dumps(res,indent=2));print(json.dumps({'known_payloads':len(checks),'zero_edge_probes':len(zero),'all_pass':True}))

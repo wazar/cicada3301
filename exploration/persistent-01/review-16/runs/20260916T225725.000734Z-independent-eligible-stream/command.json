@@ -1,0 +1,60 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-16/independent_jsteg.py",
+    "liber-primus/data/relikd/p0.jpg",
+    "liber-primus/data/relikd/p1.jpg"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "6ae89b9ba7bccad346b905dcc471f98acf07a029",
+  "started_utc": "2026-09-16T22:57:25.010202+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/jsteg-source/mirror-0.diff",
+      "exists": true,
+      "bytes": 42751,
+      "sha256": "c1f02db0e00b4a9861d1d8830b48112f1d569cb00392740fc72c4e8b35bbfb8b"
+    },
+    {
+      "path": "exploration/persistent-01/review-16/independent_jsteg.py",
+      "exists": true,
+      "bytes": 4398,
+      "sha256": "2d12e17b18f62636f213cd4a08ba24aa056bf5bd2f335b331f1412ff13912013"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "liber-primus/data/relikd/p0.jpg",
+      "exists": true,
+      "bytes": 695525,
+      "sha256": "197e1e153958b9a2736b09c10eea7d8bb00e0632fd22a8d9606840becc79942e"
+    },
+    {
+      "path": "liber-primus/data/relikd/p1.jpg",
+      "exists": true,
+      "bytes": 667228,
+      "sha256": "f804fae06a68315eb6206158a2b34f55fe157c7d663fa961639fbe8dfc52a39f"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 70581,
+  "finished_utc": "2026-09-16T22:57:25.845265+00:00",
+  "duration_seconds": 0.8348192919984285
+}
