@@ -13,3 +13,5 @@ Fresh review reproduced the retained leaders. The shared registry keeps608 sourc
 - [Publication record](../../exploration/overnight-01/PUBLICATION.md)
 
 The session started2026-09-16 20:28:27 SAST; worker execution finished by20:40:00. The finite queue finished well inside the eight-hour ceiling. No background search remains. Failed commands, raw outputs, exit codes, input/source hashes, alternatives and completed checkpoints are retained. The next useful coverage gaps are F-only clue tests independent of rigid ranking and finite block-key F offsets on other discovery pages; this result supports no cipher-family exclusion.
+
+Reviewed evidence published: [`30cfd8b`](https://github.com/wazar/cicada3301/commit/30cfd8b93669c9d9fe3d7caab845147ac7efed62) on `origin/master`.
