@@ -1,0 +1,15 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "audit/parallel-01/runner/test_import.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "exit_code": 0,
+  "recorded_utc": "2026-09-16T17:38:24.443037+00:00",
+  "source_sha256": "9a3e4b05d22ceea9fa361b6340881cfdcd72b362c276346420879c6d5752e05f",
+  "stdout": "import.stdout.txt",
+  "stderr": "import.stderr.txt",
+  "timeout_seconds": 300,
+  "timed_out": false
+}

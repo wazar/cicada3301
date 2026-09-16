@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01-fixture",
+    "command": [
+      "<REPO_ROOT>/.venv/bin/python",
+      "-c",
+      "print(\"child failure 1\"); raise SystemExit(1)"
+    ],
+    "cwd": "<FIXTURE_ROOT>",
+    "source_commit": "d482298cbd412ba52a826ba2089c1601b5287bd9",
+    "started_at_utc": "2026-09-16T17:36:12.963913+00:00",
+    "timeout_seconds": 0.2,
+    "timed_out": false,
+    "environment": "environment.json",
+    "input_manifest": "inputs.json",
+    "source_manifest": "sources.json",
+    "local_changes": "git-status-before.txt",
+    "stdout": "01-fixture.stdout.txt",
+    "stderr": "01-fixture.stderr.txt",
+    "seeds": "Inherited unchanged; see inspection.md in audit/ and hashed sources.",
+    "exit_code": 1,
+    "outcome": "NONZERO_REQUIRES_REVIEW",
+    "duration_seconds": 0.021,
+    "finished_at_utc": "2026-09-16T17:36:12.984589+00:00"
+  },
+  {
+    "id": "02-after",
+    "command": [
+      "<REPO_ROOT>/.venv/bin/python",
+      "-c",
+      "print(\"continued after first child\")"
+    ],
+    "cwd": "<FIXTURE_ROOT>",
+    "source_commit": "d482298cbd412ba52a826ba2089c1601b5287bd9",
+    "started_at_utc": "2026-09-16T17:36:12.984926+00:00",
+    "timeout_seconds": 0.2,
+    "timed_out": false,
+    "environment": "environment.json",
+    "input_manifest": "inputs.json",
+    "source_manifest": "sources.json",
+    "local_changes": "git-status-before.txt",
+    "stdout": "02-after.stdout.txt",
+    "stderr": "02-after.stderr.txt",
+    "seeds": "Inherited unchanged; see inspection.md in audit/ and hashed sources.",
+    "exit_code": 0,
+    "outcome": "PASS",
+    "duration_seconds": 0.02,
+    "finished_at_utc": "2026-09-16T17:36:13.005133+00:00"
+  }
+]

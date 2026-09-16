@@ -1,0 +1,49 @@
+[
+  {
+    "id": "01-fixture",
+    "command": [
+      "<FIXTURE_ROOT>/missing-executable"
+    ],
+    "cwd": "<FIXTURE_ROOT>",
+    "source_commit": "83a52ee6ce4e6ed748c05ecc1201701f079e9f0a",
+    "started_at_utc": "2026-09-16T17:36:13.915777+00:00",
+    "timeout_seconds": 0.2,
+    "timed_out": false,
+    "environment": "environment.json",
+    "input_manifest": "inputs.json",
+    "source_manifest": "sources.json",
+    "local_changes": "git-status-before.txt",
+    "stdout": "01-fixture.stdout.txt",
+    "stderr": "01-fixture.stderr.txt",
+    "seeds": "Inherited unchanged; see inspection.md in audit/ and hashed sources.",
+    "exit_code": null,
+    "outcome": "ERROR",
+    "launch_error": "[Errno 2] No such file or directory: '<FIXTURE_ROOT>/missing-executable'",
+    "duration_seconds": 0.002,
+    "finished_at_utc": "2026-09-16T17:36:13.917348+00:00"
+  },
+  {
+    "id": "02-after",
+    "command": [
+      "<REPO_ROOT>/.venv/bin/python",
+      "-c",
+      "print(\"continued after first child\")"
+    ],
+    "cwd": "<FIXTURE_ROOT>",
+    "source_commit": "83a52ee6ce4e6ed748c05ecc1201701f079e9f0a",
+    "started_at_utc": "2026-09-16T17:36:13.917634+00:00",
+    "timeout_seconds": 0.2,
+    "timed_out": false,
+    "environment": "environment.json",
+    "input_manifest": "inputs.json",
+    "source_manifest": "sources.json",
+    "local_changes": "git-status-before.txt",
+    "stdout": "02-after.stdout.txt",
+    "stderr": "02-after.stderr.txt",
+    "seeds": "Inherited unchanged; see inspection.md in audit/ and hashed sources.",
+    "exit_code": 0,
+    "outcome": "PASS",
+    "duration_seconds": 0.019,
+    "finished_at_utc": "2026-09-16T17:36:13.936905+00:00"
+  }
+]

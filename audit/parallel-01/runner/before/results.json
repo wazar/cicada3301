@@ -1,0 +1,67 @@
+{
+  "source_sha256": "3a0e7cc8a0e8eb4ba8cd6e684e4dd3a888ebf616c71df08fe61aad9a63c82e47",
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "audit/parallel-01/runner/test_runner.py",
+    "--source",
+    "audit/tools/run_t0.py",
+    "--label",
+    "before"
+  ],
+  "started_utc": "2026-09-16T17:35:59.721594+00:00",
+  "fixture_timeout_seconds": 0.2,
+  "parent_timeout_seconds": 30,
+  "cases": [
+    {
+      "case": "all_success",
+      "parent_exit": 0,
+      "child_exit": 0,
+      "child_outcome": "PASS",
+      "continued": true,
+      "seconds": 0.21
+    },
+    {
+      "case": "exit_1",
+      "parent_exit": 0,
+      "child_exit": 1,
+      "child_outcome": "NONZERO_REQUIRES_REVIEW",
+      "continued": true,
+      "seconds": 0.176
+    },
+    {
+      "case": "exit_2",
+      "parent_exit": 0,
+      "child_exit": 2,
+      "child_outcome": "NONZERO_REQUIRES_REVIEW",
+      "continued": true,
+      "seconds": 0.152
+    },
+    {
+      "case": "signal",
+      "parent_exit": 0,
+      "child_exit": -15,
+      "child_outcome": "NONZERO_REQUIRES_REVIEW",
+      "continued": true,
+      "seconds": 0.149
+    },
+    {
+      "case": "timeout",
+      "parent_exit": 0,
+      "child_exit": -9,
+      "child_outcome": "TIMEOUT",
+      "continued": true,
+      "seconds": 0.334
+    },
+    {
+      "case": "launch_error",
+      "parent_exit": 0,
+      "child_exit": null,
+      "child_outcome": "ERROR",
+      "continued": true,
+      "seconds": 0.13
+    }
+  ],
+  "missing_inputs": [],
+  "skipped_tests": []
+}
