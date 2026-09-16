@@ -1,0 +1,79 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "exploration/overnight-01/worker-c/search.py",
+    "rigid",
+    "--page55"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "cf3e07b68570a2b04d83252276d8c1bec62308f0",
+  "started_utc": "2026-09-16T18:33:36.736142+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/alphanumeric-01/v1/transcription.json",
+      "exists": true,
+      "bytes": 109966,
+      "sha256": "d2a8cd1bf7cb20b0802c5262d752908d6036bd27a25730dd6a60fe2b8bfdfd7f"
+    },
+    {
+      "path": "audit/parallel-01/inputs/dataset.json",
+      "exists": true,
+      "bytes": 1378156,
+      "sha256": "e3d8a8b7a81f00e17d54209772eee7bedb5b922e6176ca722be31f952eaea895"
+    },
+    {
+      "path": "exploration/overnight-01/config.json",
+      "exists": true,
+      "bytes": 1229,
+      "sha256": "44a20b48ecc01932a9ca826a354dd711c8907b5f2a6b5eb6aa00fe846c7966a4"
+    },
+    {
+      "path": "exploration/overnight-01/run_logged.py",
+      "exists": true,
+      "bytes": 3042,
+      "sha256": "7dbff4813492f5d372849d44964a781bc558c433f985eb2c695b5b7a72ada128"
+    },
+    {
+      "path": "exploration/overnight-01/worker-c/binary.py",
+      "exists": true,
+      "bytes": 5131,
+      "sha256": "da0ba916b9a8dba4aacdadc0da7e972e4353d17904bacb460fb653f5ddbfe781"
+    },
+    {
+      "path": "exploration/overnight-01/worker-c/prepare_f.py",
+      "exists": true,
+      "bytes": 1626,
+      "sha256": "44f907d67b56700ac82ad86ccff80213bb99d1b160a3e5c47061cc46e5d5f099"
+    },
+    {
+      "path": "exploration/overnight-01/worker-c/search.py",
+      "exists": true,
+      "bytes": 6560,
+      "sha256": "71d8abd6edd0c08f4b1f682e1ddfe55325273b275398f545225e9d28c74aa12b"
+    },
+    {
+      "path": "liber-primus/data/english_quadgrams.txt",
+      "exists": true,
+      "bytes": 608938,
+      "sha256": "fb82963d1fc4a64b9fc6121f8ca88139fd5b15083dddc9a59f8b14bdb8fe4062"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 17760,
+  "finished_utc": "2026-09-16T18:33:37.307687+00:00",
+  "duration_seconds": 0.5712260000000242
+}

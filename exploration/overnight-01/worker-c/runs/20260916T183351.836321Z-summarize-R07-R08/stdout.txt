@@ -1,0 +1,111 @@
+{
+  "runs": [
+    {
+      "file": "f-0-32-page55-results.json",
+      "completed": 32,
+      "jobs": 32,
+      "seconds": 0.007112666000466561
+    },
+    {
+      "file": "rigid-0-13184-page55-results.json",
+      "completed": 13184,
+      "jobs": 13184,
+      "seconds": 0.4795167090014729
+    },
+    {
+      "file": "f-11000-12842-results.json",
+      "completed": 1835,
+      "jobs": 12842,
+      "seconds": 16.12289008300104
+    },
+    {
+      "file": "pilot-0-8-results.json",
+      "completed": 8,
+      "jobs": 8,
+      "seconds": 0.0016392920006182976
+    },
+    {
+      "file": "rigid-0-375024-results.json",
+      "completed": 375024,
+      "jobs": 375024,
+      "seconds": 31.3629075000008
+    },
+    {
+      "file": "f-0-11000-results.json",
+      "completed": 10993,
+      "jobs": 12842,
+      "seconds": 4.155738458000997
+    }
+  ],
+  "R07_top": [
+    {
+      "page": 49,
+      "score": -6.380424423422088,
+      "text": "THIMOEJMOLNLOEAFEOTTHEOEAHJEATSIAYPTHMAONGIANAEEODBOXIAEEOMRALDROMFANEADCJBIGTHEOATTHT",
+      "method": "ordinary-compatible",
+      "path": []
+    },
+    {
+      "page": 49,
+      "score": -6.382876332309788,
+      "text": "MENGFCAEOREAIEPNNCALOCTHEYIATHSSIAMIATHFOYFMTADDAMHAEHDUNYIDLEOHOHTHONGEANGEYRAEOM",
+      "method": "F",
+      "path": [
+        3,
+        33
+      ]
+    },
+    {
+      "page": 49,
+      "score": -6.407595224669364,
+      "text": "NIJICAEOREAIEPNNCALOCTHEYIATHSSIAMIATHFOYFMTADDAMHAEHDUNYIDLEOHOHTHONGEANGEYRAEOM",
+      "method": "F",
+      "path": [
+        33
+      ]
+    },
+    {
+      "page": 51,
+      "score": -6.409988676461326,
+      "text": "JEAHREAAENGEONGEODEAINGNPFOPTHEAEAMXHRAEEONYBOTHJIAIATTHANLRDNEARWOEEONGFOHTANGOFPAEFIASAFOETHSNOTHNGLTHIIIALAETIARDSIAYGXNGMOEX",
+      "method": "F",
+      "path": [
+        57,
+        60
+      ]
+    },
+    {
+      "page": 51,
+      "score": -6.410099232024384,
+      "text": "EREOFEANUNTHPEOEASLIABEYPTNGGPXEDJUSTHUTHAEHIAHNGMNGOELTMXTDEAEYEELAEEAINGONGIFIDIAODOFPNGEATTHYPGUSIATHAETITEAJJTSLGB",
+      "method": "F",
+      "path": [
+        3,
+        60
+      ]
+    }
+  ],
+  "R08": {
+    "completed": 599,
+    "keys": 46,
+    "structures": 0,
+    "best_printable": 0.4765625
+  },
+  "controls": [
+    {
+      "name": "prose_0",
+      "truth_rank": 1,
+      "errors": 0
+    },
+    {
+      "name": "prose_1",
+      "truth_rank": 1,
+      "errors": 0
+    },
+    {
+      "name": "prose_2",
+      "truth_rank": 1,
+      "errors": 0
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/overnight-01/review/check.py", line 98, in <module>
+    use=z['key_use'];p=[(v+m['sign']*key[j])%29 for v,j in zip(c,use)]
+        ~^^^^^^^^^^^
+KeyError: 'key_use'

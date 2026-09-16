@@ -1,0 +1,675 @@
+{
+  "periods": [
+    33,
+    64
+  ],
+  "min_training_observations_per_phase": 2,
+  "skipped": [
+    {
+      "page": 15,
+      "period": 60,
+      "train_length": 119
+    },
+    {
+      "page": 15,
+      "period": 61,
+      "train_length": 119
+    },
+    {
+      "page": 15,
+      "period": 62,
+      "train_length": 119
+    },
+    {
+      "page": 15,
+      "period": 63,
+      "train_length": 119
+    },
+    {
+      "page": 15,
+      "period": 64,
+      "train_length": 119
+    },
+    {
+      "page": 22,
+      "period": 50,
+      "train_length": 98
+    },
+    {
+      "page": 22,
+      "period": 51,
+      "train_length": 98
+    },
+    {
+      "page": 22,
+      "period": 52,
+      "train_length": 98
+    },
+    {
+      "page": 22,
+      "period": 53,
+      "train_length": 98
+    },
+    {
+      "page": 22,
+      "period": 54,
+      "train_length": 98
+    },
+    {
+      "page": 22,
+      "period": 55,
+      "train_length": 98
+    },
+    {
+      "page": 22,
+      "period": 56,
+      "train_length": 98
+    },
+    {
+      "page": 22,
+      "period": 57,
+      "train_length": 98
+    },
+    {
+      "page": 22,
+      "period": 58,
+      "train_length": 98
+    },
+    {
+      "page": 22,
+      "period": 59,
+      "train_length": 98
+    },
+    {
+      "page": 22,
+      "period": 60,
+      "train_length": 98
+    },
+    {
+      "page": 22,
+      "period": 61,
+      "train_length": 98
+    },
+    {
+      "page": 22,
+      "period": 62,
+      "train_length": 98
+    },
+    {
+      "page": 22,
+      "period": 63,
+      "train_length": 98
+    },
+    {
+      "page": 22,
+      "period": 64,
+      "train_length": 98
+    },
+    {
+      "page": 32,
+      "period": 46,
+      "train_length": 90
+    },
+    {
+      "page": 32,
+      "period": 47,
+      "train_length": 90
+    },
+    {
+      "page": 32,
+      "period": 48,
+      "train_length": 90
+    },
+    {
+      "page": 32,
+      "period": 49,
+      "train_length": 90
+    },
+    {
+      "page": 32,
+      "period": 50,
+      "train_length": 90
+    },
+    {
+      "page": 32,
+      "period": 51,
+      "train_length": 90
+    },
+    {
+      "page": 32,
+      "period": 52,
+      "train_length": 90
+    },
+    {
+      "page": 32,
+      "period": 53,
+      "train_length": 90
+    },
+    {
+      "page": 32,
+      "period": 54,
+      "train_length": 90
+    },
+    {
+      "page": 32,
+      "period": 55,
+      "train_length": 90
+    },
+    {
+      "page": 32,
+      "period": 56,
+      "train_length": 90
+    },
+    {
+      "page": 32,
+      "period": 57,
+      "train_length": 90
+    },
+    {
+      "page": 32,
+      "period": 58,
+      "train_length": 90
+    },
+    {
+      "page": 32,
+      "period": 59,
+      "train_length": 90
+    },
+    {
+      "page": 32,
+      "period": 60,
+      "train_length": 90
+    },
+    {
+      "page": 32,
+      "period": 61,
+      "train_length": 90
+    },
+    {
+      "page": 32,
+      "period": 62,
+      "train_length": 90
+    },
+    {
+      "page": 32,
+      "period": 63,
+      "train_length": 90
+    },
+    {
+      "page": 32,
+      "period": 64,
+      "train_length": 90
+    },
+    {
+      "page": 49,
+      "period": 33,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 34,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 35,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 36,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 37,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 38,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 39,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 40,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 41,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 42,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 43,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 44,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 45,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 46,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 47,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 48,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 49,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 50,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 51,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 52,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 53,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 54,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 55,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 56,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 57,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 58,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 59,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 60,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 61,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 62,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 63,
+      "train_length": 49
+    },
+    {
+      "page": 49,
+      "period": 64,
+      "train_length": 49
+    },
+    {
+      "page": 51,
+      "period": 35,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 36,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 37,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 38,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 39,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 40,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 41,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 42,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 43,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 44,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 45,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 46,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 47,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 48,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 49,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 50,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 51,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 52,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 53,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 54,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 55,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 56,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 57,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 58,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 59,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 60,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 61,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 62,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 63,
+      "train_length": 69
+    },
+    {
+      "page": 51,
+      "period": 64,
+      "train_length": 69
+    },
+    {
+      "page": 55,
+      "period": 33,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 34,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 35,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 36,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 37,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 38,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 39,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 40,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 41,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 42,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 43,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 44,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 45,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 46,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 47,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 48,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 49,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 50,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 51,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 52,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 53,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 54,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 55,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 56,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 57,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 58,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 59,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 60,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 61,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 62,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 63,
+      "train_length": 57
+    },
+    {
+      "page": 55,
+      "period": 64,
+      "train_length": 57
+    }
+  ],
+  "authorization": "Coordinator explicit extension before execution; four restarts, five sweeps, matched shuffle, no holdout refit"
+}

@@ -1,0 +1,363 @@
+{
+  "stages": [
+    {
+      "lane": "R01",
+      "stage": "r01rejection",
+      "cursor": 360,
+      "total": 360,
+      "best": -6.7331374406314906
+    },
+    {
+      "lane": "R01",
+      "stage": "r01zero-p55",
+      "cursor": 16,
+      "total": 16,
+      "best": -7.036223043338412
+    },
+    {
+      "lane": "R01",
+      "stage": "r01rigid-p55",
+      "cursor": 1366,
+      "total": 1366,
+      "best": -6.542537234332667
+    },
+    {
+      "lane": "R01",
+      "stage": "r01f-p55",
+      "cursor": 546,
+      "total": 546,
+      "best": -6.5522811937859
+    },
+    {
+      "lane": "R01",
+      "stage": "r01rigid",
+      "cursor": 60104,
+      "total": 60104,
+      "best": -6.360734436764509
+    },
+    {
+      "lane": "R01",
+      "stage": "r01widen",
+      "cursor": 10,
+      "total": 10,
+      "best": -6.360734436764511
+    },
+    {
+      "lane": "R01",
+      "stage": "r01zero",
+      "cursor": 704,
+      "total": 704,
+      "best": -6.601527934053721
+    },
+    {
+      "lane": "R01",
+      "stage": "r01f",
+      "cursor": 24024,
+      "total": 24024,
+      "best": -6.360734436764511
+    },
+    {
+      "lane": "R02",
+      "stage": "r02/widen",
+      "cursor": 10,
+      "total": 10,
+      "best": -6.318302778754598
+    },
+    {
+      "lane": "R02",
+      "stage": "r02/ordinary",
+      "cursor": 186056,
+      "total": 186056,
+      "best": -6.395755023725262
+    },
+    {
+      "lane": "R02",
+      "stage": "r02/literal_f",
+      "cursor": 512,
+      "total": 512,
+      "best": -6.318302778754598
+    }
+  ],
+  "total_logged_seconds": 285.8080182920021,
+  "runs": [
+    {
+      "label": "wordview_patch.py",
+      "seconds": 0.021850125000128173,
+      "outcome": "PASS"
+    },
+    {
+      "label": "780",
+      "seconds": 195.20612283300034,
+      "outcome": "PASS"
+    },
+    {
+      "label": "literal_f",
+      "seconds": 2.1402116250010295,
+      "outcome": "PASS"
+    },
+    {
+      "label": "controls",
+      "seconds": 0.5119950419993984,
+      "outcome": "PASS"
+    },
+    {
+      "label": "replay.py",
+      "seconds": 0.07829624999976659,
+      "outcome": "PASS"
+    },
+    {
+      "label": "780",
+      "seconds": 3.4214997079998284,
+      "outcome": "PASS"
+    },
+    {
+      "label": "r02_controls.py",
+      "seconds": 0.34397408299992094,
+      "outcome": "PASS"
+    },
+    {
+      "label": "--page55",
+      "seconds": 0.29399862500031304,
+      "outcome": "PASS"
+    },
+    {
+      "label": "--page55",
+      "seconds": 0.07845708300010301,
+      "outcome": "PASS"
+    },
+    {
+      "label": "--page55",
+      "seconds": 0.18905533399993146,
+      "outcome": "PASS"
+    },
+    {
+      "label": "780",
+      "seconds": 13.514443457999732,
+      "outcome": "PASS"
+    },
+    {
+      "label": "publish.py",
+      "seconds": 0.12426891699942644,
+      "outcome": "PASS"
+    },
+    {
+      "label": "report.py",
+      "seconds": null,
+      "outcome": "RUNNING"
+    },
+    {
+      "label": "followup.py",
+      "seconds": 0.13436437500058673,
+      "outcome": "PASS"
+    },
+    {
+      "label": "ordinary",
+      "seconds": 33.316860459000964,
+      "outcome": "PASS"
+    },
+    {
+      "label": "rejection.py",
+      "seconds": 36.41090783300024,
+      "outcome": "PASS"
+    },
+    {
+      "label": "patch.py",
+      "seconds": 0.021712542000386748,
+      "outcome": "PASS"
+    }
+  ],
+  "R01_F_control": {
+    "rank": 1,
+    "plant": {
+      "recipe": "DIVINITY",
+      "sign": -1,
+      "score": -4.343278841144379,
+      "errors": 0,
+      "truth_in_top16": true
+    },
+    "corrupt": {
+      "score": -4.344659058491044,
+      "errors": 1
+    }
+  },
+  "R01_more_controls": [
+    {
+      "mode": "ordinary",
+      "truth_rank": 1,
+      "planted_errors": 0,
+      "best_errors": 0,
+      "rejected_keys": 0,
+      "corrupted_first_key_errors": 1
+    },
+    {
+      "mode": "rejection",
+      "truth_rank": 1,
+      "planted_errors": 0,
+      "best_errors": 0,
+      "rejected_keys": 4,
+      "corrupted_first_key_errors": 1
+    }
+  ],
+  "affine": {
+    "trials": 812,
+    "truth_rank": 1,
+    "planted_errors": 0,
+    "top": [
+      {
+        "a": 17,
+        "b": 9,
+        "score": -4.420633417052124,
+        "errors": 0
+      },
+      {
+        "a": 15,
+        "b": 28,
+        "score": -6.316375300214696,
+        "errors": 95
+      },
+      {
+        "a": 25,
+        "b": 21,
+        "score": -6.319827778162725,
+        "errors": 95
+      },
+      {
+        "a": 5,
+        "b": 3,
+        "score": -6.444207361839174,
+        "errors": 90
+      },
+      {
+        "a": 19,
+        "b": 2,
+        "score": -6.4726111371461545,
+        "errors": 95
+      },
+      {
+        "a": 15,
+        "b": 3,
+        "score": -6.507689125588536,
+        "errors": 90
+      },
+      {
+        "a": 15,
+        "b": 25,
+        "score": -6.525702863370619,
+        "errors": 92
+      },
+      {
+        "a": 11,
+        "b": 3,
+        "score": -6.535359749987821,
+        "errors": 94
+      },
+      {
+        "a": 23,
+        "b": 9,
+        "score": -6.536977129320798,
+        "errors": 86
+      },
+      {
+        "a": 7,
+        "b": 2,
+        "score": -6.546455142957132,
+        "errors": 92
+      },
+      {
+        "a": 4,
+        "b": 12,
+        "score": -6.589453707051118,
+        "errors": 88
+      },
+      {
+        "a": 13,
+        "b": 19,
+        "score": -6.5904094605798145,
+        "errors": 94
+      },
+      {
+        "a": 18,
+        "b": 9,
+        "score": -6.593424463781441,
+        "errors": 86
+      },
+      {
+        "a": 25,
+        "b": 0,
+        "score": -6.61416202770236,
+        "errors": 86
+      },
+      {
+        "a": 26,
+        "b": 3,
+        "score": -6.617894476868547,
+        "errors": 89
+      },
+      {
+        "a": 28,
+        "b": 10,
+        "score": -6.623458480590727,
+        "errors": 80
+      },
+      {
+        "a": 11,
+        "b": 0,
+        "score": -6.64626840603017,
+        "errors": 95
+      },
+      {
+        "a": 4,
+        "b": 7,
+        "score": -6.667323152126586,
+        "errors": 95
+      },
+      {
+        "a": 13,
+        "b": 16,
+        "score": -6.670822962225838,
+        "errors": 94
+      },
+      {
+        "a": 24,
+        "b": 17,
+        "score": -6.671106817106539,
+        "errors": 91
+      }
+    ]
+  },
+  "R02_controls": [
+    {
+      "mode": "ordinary",
+      "ordinary_trials": 4182,
+      "F_trials": 0,
+      "planted_rigid_rank": 1,
+      "planted_survived": true,
+      "truth_hypothesis_rank": 1,
+      "best_errors": 0,
+      "planted_errors": 0,
+      "truth_in_planted_top16": true,
+      "corrupted_key_errors": 1
+    },
+    {
+      "mode": "literal_f",
+      "ordinary_trials": 4182,
+      "F_trials": 499,
+      "planted_rigid_rank": 2,
+      "planted_survived": true,
+      "truth_hypothesis_rank": 1,
+      "best_errors": 0,
+      "planted_errors": 0,
+      "truth_in_planted_top16": true,
+      "corrupted_key_errors": 1
+    }
+  ],
+  "keys": 256,
+  "running_texts": 8,
+  "phase_sum": 2024,
+  "F_shortlist": 256,
+  "F_independent": 256,
+  "F_union": 512,
+  "widened": 20,
+  "widened_changed": 0,
+  "replays": 388
+}

@@ -1,0 +1,8 @@
+import gzip,json
+import numpy as np
+from search import OWNER,ROOT,dump
+r03=json.loads((OWNER/'r03/checkpoint.json').read_text());r04=json.loads((OWNER/'r04/checkpoint.json').read_text());f=json.loads((OWNER/'r03-f/checkpoint.json').read_text());cells=r04['cells'];top=json.loads((OWNER/'r04/top_candidates.json').read_text());checks=json.loads((OWNER/'r04/top_continuation_candidates.json').read_text());controls=json.loads((OWNER/'r04/controls.json').read_text());real=np.array([x['real_check'] for x in cells]);rand=np.array([x['random_check'] for x in cells]);out={'r03_trials':r03['trials'],'r03_best':r03['top'][0],'r03_f_trials':f['trials'],'r03_f_best':f['top'][0],'r04_cells':r04['cursor'],'r04_fitted_keys':r04['trials'],'r04_variant_evaluations':r04['evaluations'],'r04_actual_objective_evaluations':r04['evaluations']+r04['evaluations']//29+4*r04['trials'],'r04_check_real_mean':float(real.mean()),'r04_check_random_mean':float(rand.mean()),'r04_check_real_max':float(real.max()),'r04_check_random_max':float(rand.max()),'r04_train_top':top[0],'r04_check_top':checks[0],'controls_summary':[{k:r[k] for k in ['period','corrupted','key_errors','train_rune_errors','check_rune_errors','truth_found_in_top4_restarts']} for r in controls]};dump(OWNER/'summary.json',out)
+dump(OWNER/'r03-f/top_candidates.json',f['top'])
+for key in ['r03_best','r03_f_best','r04_train_top','r04_check_top']:
+ v=out[key];print(key,json.dumps({k:v[k] for k in ['page','id','score','train_score','continuation_score','transliteration'] if k in v}))
+print(json.dumps({k:v for k,v in out.items() if k not in ['r03_best','r03_f_best','r04_train_top','r04_check_top','controls_summary']}))

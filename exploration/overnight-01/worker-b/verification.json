@@ -1,0 +1,21 @@
+{
+  "fixed_path_reencryption_counts": {
+    "numeric": 20,
+    "periodic": 2880,
+    "literal_f": 8040
+  },
+  "passed": true,
+  "reserved_pages_untouched": [
+    4,
+    9,
+    14,
+    19,
+    24,
+    29,
+    34,
+    39,
+    44,
+    54
+  ],
+  "note": "Independent scalar inverse loops in this module, shared deterministic sequence generator; no claim this makes plaintext meaningful."
+}

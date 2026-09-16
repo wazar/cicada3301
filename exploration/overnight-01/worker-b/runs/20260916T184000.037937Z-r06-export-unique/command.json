@@ -1,0 +1,96 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "exploration/overnight-01/worker-b/structural_summary.py",
+    "r06"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "cf3e07b68570a2b04d83252276d8c1bec62308f0",
+  "started_utc": "2026-09-16T18:40:00.049342+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/parallel-01/inputs/dataset.json",
+      "exists": true,
+      "bytes": 1378156,
+      "sha256": "e3d8a8b7a81f00e17d54209772eee7bedb5b922e6176ca722be31f952eaea895"
+    },
+    {
+      "path": "exploration/overnight-01/config.json",
+      "exists": true,
+      "bytes": 1229,
+      "sha256": "44a20b48ecc01932a9ca826a354dd711c8907b5f2a6b5eb6aa00fe846c7966a4"
+    },
+    {
+      "path": "exploration/overnight-01/run_logged.py",
+      "exists": true,
+      "bytes": 3042,
+      "sha256": "7dbff4813492f5d372849d44964a781bc558c433f985eb2c695b5b7a72ada128"
+    },
+    {
+      "path": "exploration/overnight-01/worker-b/extras.py",
+      "exists": true,
+      "bytes": 6110,
+      "sha256": "ec59f2f1361b9be36e5a17e01ae6894779077ada82b20c749f2482704c58d536"
+    },
+    {
+      "path": "exploration/overnight-01/worker-b/r06/checkpoint.json",
+      "exists": true,
+      "bytes": 135723,
+      "sha256": "c540581d6bb28e32c9542cc6bf450ea933de7bae1827d87e31735971a7c18e73"
+    },
+    {
+      "path": "exploration/overnight-01/worker-b/search.py",
+      "exists": true,
+      "bytes": 9551,
+      "sha256": "622291fe395ca4b750ae5c2790c5c61a783309d7974132a3d87b7785b3cdb253"
+    },
+    {
+      "path": "exploration/overnight-01/worker-b/structural.py",
+      "exists": true,
+      "bytes": 8651,
+      "sha256": "512f8c2a3784f657478bc68f0f2be4cd6847ef7b7b134d51b572ad6cae97a701"
+    },
+    {
+      "path": "exploration/overnight-01/worker-b/structural_summary.py",
+      "exists": true,
+      "bytes": 4192,
+      "sha256": "f15a5883b651ba1c2aeaa8f5f4bac0a52c061b5ce56a000e11f44da8059cff54"
+    },
+    {
+      "path": "exploration/overnight-01/worker-b/summarize.py",
+      "exists": true,
+      "bytes": 1671,
+      "sha256": "2c4613fd7b5913b5c736214fe0bf92c2dd55a75c5b780d36bfc17751ee102044"
+    },
+    {
+      "path": "exploration/overnight-01/worker-b/verify.py",
+      "exists": true,
+      "bytes": 2172,
+      "sha256": "d4a5b8ad184c35f4a7f26812108982b23f98f355b8623d70bbd91a0133c30252"
+    },
+    {
+      "path": "exploration/overnight-01/worker-b/wide_summary.py",
+      "exists": true,
+      "bytes": 1398,
+      "sha256": "6f941fcac6b507f8406a7393bfe3445e1e4e91efd409f5b6ede582857187aca2"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 19675,
+  "finished_utc": "2026-09-16T18:40:00.367987+00:00",
+  "duration_seconds": 0.3183642920012062
+}

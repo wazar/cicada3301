@@ -1,0 +1,140 @@
+{
+  "primes": {
+    "definition": "p[n], p[0]=2",
+    "first16": [
+      2,
+      3,
+      5,
+      7,
+      11,
+      13,
+      17,
+      19,
+      23,
+      0,
+      2,
+      8,
+      12,
+      14,
+      18,
+      24
+    ],
+    "sha256": "46205188b6129a1e836df55e41d4b766e9ce52a42b9aba1900c9a9dd5c2163e7",
+    "source": "Explicit OVERNIGHT-01 R03 six-family authorization; no compositions"
+  },
+  "prime_minus_one": {
+    "definition": "p[n]-1",
+    "first16": [
+      1,
+      2,
+      4,
+      6,
+      10,
+      12,
+      16,
+      18,
+      22,
+      28,
+      1,
+      7,
+      11,
+      13,
+      17,
+      23
+    ],
+    "sha256": "21efb0fbea158b2af8640ef2fe68b331414d36b975aa904c83ec2c396d2fc428",
+    "source": "Explicit OVERNIGHT-01 R03 six-family authorization; no compositions"
+  },
+  "integer_phi": {
+    "definition": "phi(n+1)",
+    "first16": [
+      1,
+      1,
+      2,
+      2,
+      4,
+      2,
+      6,
+      4,
+      6,
+      4,
+      10,
+      4,
+      12,
+      6,
+      8,
+      8
+    ],
+    "sha256": "5c0500307edda997fbb8a553aede8b720396b2f1f76127ee7b7fbbb5e08328ea",
+    "source": "Explicit OVERNIGHT-01 R03 six-family authorization; no compositions"
+  },
+  "integers": {
+    "definition": "n+1",
+    "first16": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "sha256": "7f707fba8e6ba2fdb8181de5cb6924e7020b6c12d2083231c412e41049a85b4c",
+    "source": "Explicit OVERNIGHT-01 R03 six-family authorization; no compositions"
+  },
+  "fibonacci": {
+    "definition": "F[n], F[0]=0,F[1]=1; recurrence mod29 exact",
+    "first16": [
+      0,
+      1,
+      1,
+      2,
+      3,
+      5,
+      8,
+      13,
+      21,
+      5,
+      26,
+      2,
+      28,
+      1,
+      0,
+      1
+    ],
+    "sha256": "9aa146e778fed35725174c5c5cdfced3c70877dcc046fd8f778c9b316518c7eb",
+    "source": "Explicit OVERNIGHT-01 R03 six-family authorization; no compositions"
+  },
+  "prime_gaps": {
+    "definition": "p[n+1]-p[n]",
+    "first16": [
+      1,
+      2,
+      2,
+      4,
+      2,
+      4,
+      2,
+      4,
+      6,
+      2,
+      6,
+      4,
+      2,
+      4,
+      6,
+      6
+    ],
+    "sha256": "80ee539ed2cd1332ccbf65a088b547d21926a8405585cb2df5d3e0f3df74be0b",
+    "source": "Explicit OVERNIGHT-01 R03 six-family authorization; no compositions"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/overnight-01/review/check.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "cf3e07b68570a2b04d83252276d8c1bec62308f0",
+  "started_utc": "2026-09-16T18:37:57.004676+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/overnight-01/review/binary_check.py",
+      "exists": true,
+      "bytes": 2206,
+      "sha256": "63a1e5e56766ad400b46eb7f4c2b8c03c330fde0b80276699553f083718ae7dc"
+    },
+    {
+      "path": "exploration/overnight-01/review/check.py",
+      "exists": true,
+      "bytes": 7857,
+      "sha256": "e0624576e43bcbadd7355a7698c289fe822cb569ad0e7af550ff6e749aed6639"
+    },
+    {
+      "path": "exploration/overnight-01/review/coverage.py",
+      "exists": true,
+      "bytes": 1690,
+      "sha256": "b63eed3b985fe4f7872959a53c48abadba6a9c246f53c2aa5a6daf7ef7f31f85"
+    },
+    {
+      "path": "exploration/overnight-01/run_logged.py",
+      "exists": true,
+      "bytes": 3042,
+      "sha256": "7dbff4813492f5d372849d44964a781bc558c433f985eb2c695b5b7a72ada128"
+    },
+    {
+      "path": "exploration/overnight-01/worker-a/R01/top_candidates.json",
+      "exists": true,
+      "bytes": 1895519,
+      "sha256": "698a60f36ff0db0eb7a18a597102a510318841b66c758179787e3c223b64a99d"
+    },
+    {
+      "path": "exploration/overnight-01/worker-a/R02/top_candidates.json",
+      "exists": true,
+      "bytes": 780244,
+      "sha256": "c96ed3e85b2f374db131151373d3752396b8d9c581dbec2b4add3fde269a8095"
+    },
+    {
+      "path": "exploration/overnight-01/worker-a/r02/keys.json",
+      "exists": true,
+      "bytes": 204818,
+      "sha256": "5a454fe2409ec0c7c612f39b9269d2c8a6fd85ef3f9dee96b243dcb03a19750c"
+    }
+  ],
+  "outcome": "NONZERO",
+  "exit_code": 1,
+  "pid": 19372,
+  "finished_utc": "2026-09-16T18:37:58.823878+00:00",
+  "duration_seconds": 1.8189107079997484
+}

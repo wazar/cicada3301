@@ -1,0 +1,19 @@
+{
+  "retained_source_rows_by_lane": {
+    "R01": 126,
+    "R02": 262,
+    "R03": 40,
+    "R04": 80,
+    "R05": 40,
+    "R06": 20,
+    "R07": 20,
+    "R08": 20
+  },
+  "unique_outputs_or_relationships": 584,
+  "status_counts": {
+    "REPRODUCIBLE_CANDIDATE": 584
+  },
+  "no_validation_or_solution_promotions": true,
+  "checked_evidence": "review/checked.json and binary_checked.json; exact source-file/local-id matches only",
+  "note": "Unchanged complete worker payloads preserve keys, rune/byte outputs, alternatives, scores and transformation parameters. Code at actual execution is pinned in origin execution_manifests snapshots; current hashes are additional references. Duplicate outputs retain all origins; lane counts are not independent trials."
+}

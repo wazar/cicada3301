@@ -1,0 +1,1152 @@
+[
+  {
+    "period": 1,
+    "corrupted": false,
+    "evaluations": 203,
+    "planted_key": [
+      8
+    ],
+    "selected_key": [
+      8
+    ],
+    "truth_objective": -4.32354030014206,
+    "truth_rank_among_final_restarts_plus_truth": 1,
+    "truth_found_in_top4_restarts": true,
+    "key_errors": 0,
+    "train_rune_errors": 0,
+    "check_rune_errors": 0,
+    "selected_train": -4.32354030014206,
+    "selected_check": -4.402600838862002,
+    "restarts": [
+      {
+        "restart": 0,
+        "fit_score": -4.32354030014206,
+        "key": [
+          8
+        ]
+      },
+      {
+        "restart": 1,
+        "fit_score": -4.32354030014206,
+        "key": [
+          8
+        ]
+      },
+      {
+        "restart": 2,
+        "fit_score": -4.32354030014206,
+        "key": [
+          8
+        ]
+      },
+      {
+        "restart": 3,
+        "fit_score": -4.32354030014206,
+        "key": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "period": 1,
+    "corrupted": true,
+    "evaluations": 232,
+    "planted_key": [
+      8
+    ],
+    "selected_key": [
+      27
+    ],
+    "truth_objective": -4.32354030014206,
+    "truth_rank_among_final_restarts_plus_truth": 1,
+    "truth_found_in_top4_restarts": false,
+    "key_errors": 1,
+    "train_rune_errors": 368,
+    "check_rune_errors": 125,
+    "selected_train": -7.218078139051714,
+    "selected_check": -7.518027343089612,
+    "restarts": [
+      {
+        "restart": 0,
+        "fit_score": -7.21468996426894,
+        "key": [
+          27
+        ]
+      },
+      {
+        "restart": 1,
+        "fit_score": -7.21468996426894,
+        "key": [
+          27
+        ]
+      },
+      {
+        "restart": 2,
+        "fit_score": -7.21468996426894,
+        "key": [
+          27
+        ]
+      },
+      {
+        "restart": 3,
+        "fit_score": -7.21468996426894,
+        "key": [
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "period": 3,
+    "corrupted": false,
+    "evaluations": 783,
+    "planted_key": [
+      8,
+      16,
+      16
+    ],
+    "selected_key": [
+      8,
+      16,
+      16
+    ],
+    "truth_objective": -4.32354030014206,
+    "truth_rank_among_final_restarts_plus_truth": 1,
+    "truth_found_in_top4_restarts": true,
+    "key_errors": 0,
+    "train_rune_errors": 0,
+    "check_rune_errors": 0,
+    "selected_train": -4.32354030014206,
+    "selected_check": -4.402600838862002,
+    "restarts": [
+      {
+        "restart": 0,
+        "fit_score": -4.32354030014206,
+        "key": [
+          8,
+          16,
+          16
+        ]
+      },
+      {
+        "restart": 1,
+        "fit_score": -4.32354030014206,
+        "key": [
+          8,
+          16,
+          16
+        ]
+      },
+      {
+        "restart": 2,
+        "fit_score": -6.8195777459643345,
+        "key": [
+          19,
+          8,
+          3
+        ]
+      },
+      {
+        "restart": 3,
+        "fit_score": -4.32354030014206,
+        "key": [
+          8,
+          16,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "period": 3,
+    "corrupted": true,
+    "evaluations": 870,
+    "planted_key": [
+      8,
+      16,
+      16
+    ],
+    "selected_key": [
+      18,
+      12,
+      16
+    ],
+    "truth_objective": -4.32354030014206,
+    "truth_rank_among_final_restarts_plus_truth": 1,
+    "truth_found_in_top4_restarts": false,
+    "key_errors": 2,
+    "train_rune_errors": 382,
+    "check_rune_errors": 124,
+    "selected_train": -7.044700362689935,
+    "selected_check": -7.736534474104367,
+    "restarts": [
+      {
+        "restart": 0,
+        "fit_score": -7.104349190469596,
+        "key": [
+          14,
+          3,
+          18
+        ]
+      },
+      {
+        "restart": 1,
+        "fit_score": -7.198990674528806,
+        "key": [
+          8,
+          8,
+          5
+        ]
+      },
+      {
+        "restart": 2,
+        "fit_score": -7.047879550529463,
+        "key": [
+          18,
+          12,
+          16
+        ]
+      },
+      {
+        "restart": 3,
+        "fit_score": -7.104349190469596,
+        "key": [
+          14,
+          3,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "period": 8,
+    "corrupted": false,
+    "evaluations": 3480,
+    "planted_key": [
+      17,
+      10,
+      20,
+      12,
+      4,
+      21,
+      10,
+      8
+    ],
+    "selected_key": [
+      17,
+      10,
+      20,
+      12,
+      4,
+      21,
+      10,
+      8
+    ],
+    "truth_objective": -4.32354030014206,
+    "truth_rank_among_final_restarts_plus_truth": 1,
+    "truth_found_in_top4_restarts": true,
+    "key_errors": 0,
+    "train_rune_errors": 0,
+    "check_rune_errors": 0,
+    "selected_train": -4.32354030014206,
+    "selected_check": -4.402600838862002,
+    "restarts": [
+      {
+        "restart": 0,
+        "fit_score": -4.32354030014206,
+        "key": [
+          17,
+          10,
+          20,
+          12,
+          4,
+          21,
+          10,
+          8
+        ]
+      },
+      {
+        "restart": 1,
+        "fit_score": -4.32354030014206,
+        "key": [
+          17,
+          10,
+          20,
+          12,
+          4,
+          21,
+          10,
+          8
+        ]
+      },
+      {
+        "restart": 2,
+        "fit_score": -5.248049895060875,
+        "key": [
+          17,
+          10,
+          20,
+          12,
+          4,
+          27,
+          10,
+          8
+        ]
+      },
+      {
+        "restart": 3,
+        "fit_score": -4.32354030014206,
+        "key": [
+          17,
+          10,
+          20,
+          12,
+          4,
+          21,
+          10,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "period": 8,
+    "corrupted": true,
+    "evaluations": 3944,
+    "planted_key": [
+      17,
+      10,
+      20,
+      12,
+      4,
+      21,
+      10,
+      8
+    ],
+    "selected_key": [
+      11,
+      25,
+      9,
+      24,
+      25,
+      27,
+      23,
+      19
+    ],
+    "truth_objective": -4.32354030014206,
+    "truth_rank_among_final_restarts_plus_truth": 1,
+    "truth_found_in_top4_restarts": false,
+    "key_errors": 8,
+    "train_rune_errors": 366,
+    "check_rune_errors": 126,
+    "selected_train": -6.795580419415566,
+    "selected_check": -7.448502273900226,
+    "restarts": [
+      {
+        "restart": 0,
+        "fit_score": -6.795580419415566,
+        "key": [
+          11,
+          25,
+          9,
+          24,
+          25,
+          27,
+          23,
+          19
+        ]
+      },
+      {
+        "restart": 1,
+        "fit_score": -6.816344399500187,
+        "key": [
+          19,
+          8,
+          27,
+          19,
+          12,
+          17,
+          0,
+          15
+        ]
+      },
+      {
+        "restart": 2,
+        "fit_score": -6.800507133184523,
+        "key": [
+          0,
+          25,
+          21,
+          27,
+          16,
+          4,
+          8,
+          7
+        ]
+      },
+      {
+        "restart": 3,
+        "fit_score": -6.846189497504375,
+        "key": [
+          19,
+          14,
+          26,
+          19,
+          14,
+          7,
+          9,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "period": 16,
+    "corrupted": false,
+    "evaluations": 7424,
+    "planted_key": [
+      13,
+      14,
+      9,
+      24,
+      1,
+      26,
+      0,
+      18,
+      16,
+      12,
+      20,
+      17,
+      2,
+      12,
+      25,
+      4
+    ],
+    "selected_key": [
+      13,
+      14,
+      9,
+      24,
+      1,
+      26,
+      0,
+      18,
+      16,
+      12,
+      20,
+      17,
+      2,
+      12,
+      25,
+      4
+    ],
+    "truth_objective": -4.32354030014206,
+    "truth_rank_among_final_restarts_plus_truth": 1,
+    "truth_found_in_top4_restarts": true,
+    "key_errors": 0,
+    "train_rune_errors": 0,
+    "check_rune_errors": 0,
+    "selected_train": -4.32354030014206,
+    "selected_check": -4.402600838862002,
+    "restarts": [
+      {
+        "restart": 0,
+        "fit_score": -4.32354030014206,
+        "key": [
+          13,
+          14,
+          9,
+          24,
+          1,
+          26,
+          0,
+          18,
+          16,
+          12,
+          20,
+          17,
+          2,
+          12,
+          25,
+          4
+        ]
+      },
+      {
+        "restart": 1,
+        "fit_score": -5.444766006334014,
+        "key": [
+          13,
+          14,
+          9,
+          24,
+          1,
+          26,
+          0,
+          18,
+          27,
+          20,
+          28,
+          18,
+          23,
+          12,
+          25,
+          4
+        ]
+      },
+      {
+        "restart": 2,
+        "fit_score": -4.32354030014206,
+        "key": [
+          13,
+          14,
+          9,
+          24,
+          1,
+          26,
+          0,
+          18,
+          16,
+          12,
+          20,
+          17,
+          2,
+          12,
+          25,
+          4
+        ]
+      },
+      {
+        "restart": 3,
+        "fit_score": -4.878303105560731,
+        "key": [
+          16,
+          14,
+          9,
+          24,
+          1,
+          26,
+          0,
+          18,
+          16,
+          12,
+          20,
+          17,
+          2,
+          12,
+          25,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "period": 16,
+    "corrupted": true,
+    "evaluations": 6496,
+    "planted_key": [
+      13,
+      14,
+      9,
+      24,
+      1,
+      26,
+      0,
+      18,
+      16,
+      12,
+      20,
+      17,
+      2,
+      12,
+      25,
+      4
+    ],
+    "selected_key": [
+      1,
+      6,
+      22,
+      12,
+      15,
+      23,
+      10,
+      24,
+      20,
+      22,
+      22,
+      10,
+      25,
+      9,
+      10,
+      6
+    ],
+    "truth_objective": -4.32354030014206,
+    "truth_rank_among_final_restarts_plus_truth": 1,
+    "truth_found_in_top4_restarts": false,
+    "key_errors": 16,
+    "train_rune_errors": 372,
+    "check_rune_errors": 121,
+    "selected_train": -6.321326289041976,
+    "selected_check": -7.310480272844752,
+    "restarts": [
+      {
+        "restart": 0,
+        "fit_score": -6.406226448883255,
+        "key": [
+          27,
+          4,
+          23,
+          12,
+          0,
+          10,
+          12,
+          28,
+          7,
+          1,
+          22,
+          8,
+          12,
+          0,
+          18,
+          25
+        ]
+      },
+      {
+        "restart": 1,
+        "fit_score": -6.3984014433418,
+        "key": [
+          19,
+          6,
+          17,
+          15,
+          14,
+          23,
+          10,
+          5,
+          2,
+          23,
+          10,
+          10,
+          25,
+          9,
+          10,
+          6
+        ]
+      },
+      {
+        "restart": 2,
+        "fit_score": -6.3174876963398505,
+        "key": [
+          1,
+          6,
+          22,
+          12,
+          15,
+          23,
+          10,
+          24,
+          20,
+          22,
+          22,
+          10,
+          25,
+          9,
+          10,
+          6
+        ]
+      },
+      {
+        "restart": 3,
+        "fit_score": -6.587452355880317,
+        "key": [
+          27,
+          16,
+          13,
+          20,
+          8,
+          23,
+          12,
+          28,
+          7,
+          14,
+          23,
+          28,
+          22,
+          15,
+          25,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "period": 32,
+    "corrupted": false,
+    "evaluations": 17632,
+    "planted_key": [
+      27,
+      21,
+      24,
+      13,
+      13,
+      20,
+      18,
+      7,
+      8,
+      22,
+      19,
+      15,
+      12,
+      23,
+      19,
+      12,
+      12,
+      10,
+      1,
+      17,
+      11,
+      7,
+      12,
+      20,
+      13,
+      10,
+      3,
+      2,
+      1,
+      1,
+      25,
+      7
+    ],
+    "selected_key": [
+      27,
+      21,
+      24,
+      13,
+      13,
+      20,
+      18,
+      7,
+      8,
+      22,
+      19,
+      15,
+      12,
+      23,
+      19,
+      12,
+      12,
+      10,
+      1,
+      17,
+      11,
+      7,
+      12,
+      20,
+      13,
+      10,
+      3,
+      2,
+      1,
+      1,
+      25,
+      7
+    ],
+    "truth_objective": -4.32354030014206,
+    "truth_rank_among_final_restarts_plus_truth": 1,
+    "truth_found_in_top4_restarts": true,
+    "key_errors": 0,
+    "train_rune_errors": 0,
+    "check_rune_errors": 0,
+    "selected_train": -4.32354030014206,
+    "selected_check": -4.402600838862002,
+    "restarts": [
+      {
+        "restart": 0,
+        "fit_score": -4.32354030014206,
+        "key": [
+          27,
+          21,
+          24,
+          13,
+          13,
+          20,
+          18,
+          7,
+          8,
+          22,
+          19,
+          15,
+          12,
+          23,
+          19,
+          12,
+          12,
+          10,
+          1,
+          17,
+          11,
+          7,
+          12,
+          20,
+          13,
+          10,
+          3,
+          2,
+          1,
+          1,
+          25,
+          7
+        ]
+      },
+      {
+        "restart": 1,
+        "fit_score": -5.440399002846105,
+        "key": [
+          27,
+          21,
+          24,
+          13,
+          27,
+          28,
+          4,
+          28,
+          14,
+          0,
+          25,
+          17,
+          17,
+          16,
+          20,
+          1,
+          14,
+          12,
+          27,
+          19,
+          2,
+          28,
+          12,
+          20,
+          13,
+          10,
+          3,
+          2,
+          1,
+          1,
+          25,
+          7
+        ]
+      },
+      {
+        "restart": 2,
+        "fit_score": -5.531882006894681,
+        "key": [
+          3,
+          15,
+          26,
+          27,
+          18,
+          20,
+          0,
+          21,
+          22,
+          1,
+          22,
+          0,
+          28,
+          8,
+          5,
+          12,
+          12,
+          10,
+          1,
+          17,
+          11,
+          7,
+          12,
+          20,
+          13,
+          10,
+          14,
+          18,
+          9,
+          25,
+          0,
+          17
+        ]
+      },
+      {
+        "restart": 3,
+        "fit_score": -5.605621066692115,
+        "key": [
+          0,
+          2,
+          23,
+          2,
+          1,
+          21,
+          28,
+          21,
+          22,
+          1,
+          22,
+          0,
+          28,
+          21,
+          20,
+          12,
+          12,
+          10,
+          1,
+          17,
+          11,
+          24,
+          6,
+          12,
+          5,
+          26,
+          11,
+          22,
+          9,
+          23,
+          2,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "period": 32,
+    "corrupted": true,
+    "evaluations": 17632,
+    "planted_key": [
+      27,
+      21,
+      24,
+      13,
+      13,
+      20,
+      18,
+      7,
+      8,
+      22,
+      19,
+      15,
+      12,
+      23,
+      19,
+      12,
+      12,
+      10,
+      1,
+      17,
+      11,
+      7,
+      12,
+      20,
+      13,
+      10,
+      3,
+      2,
+      1,
+      1,
+      25,
+      7
+    ],
+    "selected_key": [
+      13,
+      20,
+      9,
+      18,
+      14,
+      27,
+      14,
+      13,
+      18,
+      21,
+      24,
+      26,
+      11,
+      7,
+      27,
+      15,
+      24,
+      23,
+      14,
+      3,
+      19,
+      10,
+      21,
+      7,
+      24,
+      25,
+      20,
+      11,
+      0,
+      20,
+      24,
+      14
+    ],
+    "truth_objective": -4.32354030014206,
+    "truth_rank_among_final_restarts_plus_truth": 1,
+    "truth_found_in_top4_restarts": false,
+    "key_errors": 32,
+    "train_rune_errors": 373,
+    "check_rune_errors": 123,
+    "selected_train": -5.918905594453947,
+    "selected_check": -7.4808960935550095,
+    "restarts": [
+      {
+        "restart": 0,
+        "fit_score": -5.950962068066661,
+        "key": [
+          12,
+          20,
+          27,
+          18,
+          14,
+          27,
+          27,
+          3,
+          21,
+          18,
+          11,
+          19,
+          20,
+          12,
+          19,
+          5,
+          27,
+          1,
+          28,
+          13,
+          21,
+          13,
+          20,
+          7,
+          1,
+          9,
+          20,
+          11,
+          7,
+          26,
+          11,
+          11
+        ]
+      },
+      {
+        "restart": 1,
+        "fit_score": -5.918905594453948,
+        "key": [
+          13,
+          20,
+          9,
+          18,
+          14,
+          27,
+          14,
+          13,
+          18,
+          21,
+          24,
+          26,
+          11,
+          7,
+          27,
+          15,
+          24,
+          23,
+          14,
+          3,
+          19,
+          10,
+          21,
+          7,
+          24,
+          25,
+          20,
+          11,
+          0,
+          20,
+          24,
+          14
+        ]
+      },
+      {
+        "restart": 2,
+        "fit_score": -5.990939802582241,
+        "key": [
+          2,
+          27,
+          6,
+          17,
+          28,
+          8,
+          19,
+          14,
+          18,
+          28,
+          8,
+          27,
+          20,
+          8,
+          15,
+          28,
+          24,
+          23,
+          21,
+          10,
+          6,
+          10,
+          21,
+          18,
+          0,
+          20,
+          4,
+          20,
+          5,
+          12,
+          16,
+          28
+        ]
+      },
+      {
+        "restart": 3,
+        "fit_score": -5.963911475071643,
+        "key": [
+          13,
+          10,
+          25,
+          5,
+          28,
+          8,
+          27,
+          2,
+          0,
+          0,
+          8,
+          19,
+          11,
+          7,
+          27,
+          15,
+          24,
+          23,
+          28,
+          13,
+          8,
+          10,
+          21,
+          5,
+          24,
+          12,
+          5,
+          11,
+          0,
+          11,
+          9,
+          20
+        ]
+      }
+    ]
+  }
+]

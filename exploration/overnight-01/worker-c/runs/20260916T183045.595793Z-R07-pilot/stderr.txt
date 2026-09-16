@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/overnight-01/worker-c/search.py", line 92, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "<REPO_ROOT>/exploration/overnight-01/worker-c/search.py", line 70, in main
+    ap=argparse.ArgumentParser();ap.add_argument('mode',choices=['pilot','rigid','f']);ap.add_argument('--start',type=int,default=0);ap.add_argument('--stop',type=int);a=ap.parse_args();sc=Score();rs=routes();pages=load('audit/parallel-01/inputs/dataset.json')['pages'];hold=set(load('exploration/overnight-01/config.json')['reserved_original_pages']);pages=[p for p in pages if p['original_page'] not in hold and p['original_page']<=54];pages.sort(key=lambda p:(p['original_page'] not in (49,51),p['original_page']));pd={p['original_page']:p for p in pages}
+                                                                                                                                                                                                        ^^^^^^^^
+  File "<REPO_ROOT>/exploration/overnight-01/worker-c/search.py", line 41, in routes
+    b=payload();out={}
+      ^^^^^^^^^
+  File "<REPO_ROOT>/exploration/overnight-01/worker-c/search.py", line 7, in payload
+    t=load('audit/alphanumeric-01/v1/transcription.json')['tokens']; a='0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwx'; b=bytes(60*a.index(x['token'][0])+a.index(x['token'][1]) for x in t)
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+KeyError: 'tokens'

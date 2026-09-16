@@ -1,0 +1,173 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "exploration/overnight-01/worker-a/r02_controls.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "cf3e07b68570a2b04d83252276d8c1bec62308f0",
+  "started_utc": "2026-09-16T18:35:53.113931+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/experiment-01/control.py",
+      "exists": true,
+      "bytes": 8444,
+      "sha256": "359848fc5cb0b3af368ebed781aed761de7b8c3fc7662accdb8196a7ef187086"
+    },
+    {
+      "path": "audit/experiment-01/keys.json",
+      "exists": true,
+      "bytes": 62450,
+      "sha256": "460c95de26dc71f1a40f015c1663e23343a88baaadf54d04a44e5738f74446c3"
+    },
+    {
+      "path": "audit/f-interruption-01/check.py",
+      "exists": true,
+      "bytes": 9736,
+      "sha256": "11056e5f354e9eef83ec633f5bc18d188c5798870dddb08cf902a2fbb3733ca9"
+    },
+    {
+      "path": "audit/parallel-01/inputs/dataset.json",
+      "exists": true,
+      "bytes": 1378156,
+      "sha256": "e3d8a8b7a81f00e17d54209772eee7bedb5b922e6176ca722be31f952eaea895"
+    },
+    {
+      "path": "audit/parallel-01/inputs/page-map.json",
+      "exists": true,
+      "bytes": 44677,
+      "sha256": "f59bf8d94c86a06cf620b5368eabb27dfebc62fbf39b38e467636785762f4cba"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_koan_1.txt",
+      "exists": true,
+      "bytes": 3001,
+      "sha256": "5aaae7ee19dfb46a41d5e10f975b5a252b82b6e18b49116a9f99b31a2fbee06c"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_loss_of_divinity.txt",
+      "exists": true,
+      "bytes": 2861,
+      "sha256": "10954c8d61744ceb453e9b553e52cd3e01289d12b727c521e21bc0594f0e0c91"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_warning.txt",
+      "exists": true,
+      "bytes": 696,
+      "sha256": "c6ca9c1952307bd55866e22b9f868163bca493893162baefdba71cb9e1a206d9"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_welcome.txt",
+      "exists": true,
+      "bytes": 1934,
+      "sha256": "95caaffb0ae764801bb023ba8eda15b49366cb3258aab9e26922e89e884c7b73"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_wisdom.txt",
+      "exists": true,
+      "bytes": 688,
+      "sha256": "4363dc279d01ac8866011988d0422a31bf608940abccaa37368c689099f52efe"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_jpg107-167.txt",
+      "exists": true,
+      "bytes": 1236,
+      "sha256": "2dd885e1785ffee22692901167edb1a37a0fae87c7d765bf53f799b108663b6c"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_p56_an_end.txt",
+      "exists": true,
+      "bytes": 467,
+      "sha256": "3b82bf89e740dde1d1f8261ddf17e028f7d4bbc8933a1e972a564822f4e4d511"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_p57_parable.txt",
+      "exists": true,
+      "bytes": 348,
+      "sha256": "63c685205fcc753364d12ea72f7e120c6eba4031ab658cdf6fbf3da1d8749f25"
+    },
+    {
+      "path": "exploration/overnight-01/config.json",
+      "exists": true,
+      "bytes": 1229,
+      "sha256": "44a20b48ecc01932a9ca826a354dd711c8907b5f2a6b5eb6aa00fe846c7966a4"
+    },
+    {
+      "path": "exploration/overnight-01/run_logged.py",
+      "exists": true,
+      "bytes": 3042,
+      "sha256": "7dbff4813492f5d372849d44964a781bc558c433f985eb2c695b5b7a72ada128"
+    },
+    {
+      "path": "exploration/overnight-01/worker-a/clues.py",
+      "exists": true,
+      "bytes": 5140,
+      "sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3"
+    },
+    {
+      "path": "exploration/overnight-01/worker-a/patch.py",
+      "exists": true,
+      "bytes": 665,
+      "sha256": "a8c383efffc2945a445df4897051b703ceda65565d363e1a2bd921ce68b23726"
+    },
+    {
+      "path": "exploration/overnight-01/worker-a/publish.py",
+      "exists": true,
+      "bytes": 2699,
+      "sha256": "8284c7fb30b64a086773c671624ccf702d8c5f21c7b425e6b94db0c91018e374"
+    },
+    {
+      "path": "exploration/overnight-01/worker-a/r02_controls.py",
+      "exists": true,
+      "bytes": 3027,
+      "sha256": "37729fae7a67af8fe233eb752c10ba6f1e0f0726712df211c2df20126bc7cbbf"
+    },
+    {
+      "path": "exploration/overnight-01/worker-a/rejection.py",
+      "exists": true,
+      "bytes": 2171,
+      "sha256": "bc2d62b90cb9485a6d79cb06495d4299f5240f0c70368462e2a61c2b9701d8bc"
+    },
+    {
+      "path": "exploration/overnight-01/worker-a/search.py",
+      "exists": true,
+      "bytes": 8361,
+      "sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2"
+    },
+    {
+      "path": "exploration/overnight-01/worker-a/wordview_patch.py",
+      "exists": true,
+      "bytes": 1403,
+      "sha256": "b30b3218c3e96fe55a921de176322e2e394711a3ec24de8bdf5891ba70c2e50a"
+    },
+    {
+      "path": "liber-primus/analysis/campaign18_skip/skipdecode.py",
+      "exists": true,
+      "bytes": 9124,
+      "sha256": "74c47d170a9cb1966ff78d7448f6081dfab3bcc928f032603add3f76dae2e1ff"
+    },
+    {
+      "path": "liber-primus/data/english_quadgrams.txt",
+      "exists": true,
+      "bytes": 608938,
+      "sha256": "fb82963d1fc4a64b9fc6121f8ca88139fd5b15083dddc9a59f8b14bdb8fe4062"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 18779,
+  "finished_utc": "2026-09-16T18:35:53.458234+00:00",
+  "duration_seconds": 0.34397408299992094
+}

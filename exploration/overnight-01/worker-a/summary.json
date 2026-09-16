@@ -1,0 +1,86 @@
+{
+  "interim": false,
+  "stages": [
+    {
+      "lane": "R01",
+      "stage": "r01rejection",
+      "cursor": 360,
+      "total": 360,
+      "best": -6.7331374406314906
+    },
+    {
+      "lane": "R01",
+      "stage": "r01zero-p55",
+      "cursor": 16,
+      "total": 16,
+      "best": -7.036223043338412
+    },
+    {
+      "lane": "R01",
+      "stage": "r01rigid-p55",
+      "cursor": 1366,
+      "total": 1366,
+      "best": -6.542537234332667
+    },
+    {
+      "lane": "R01",
+      "stage": "r01f-p55",
+      "cursor": 546,
+      "total": 546,
+      "best": -6.5522811937859
+    },
+    {
+      "lane": "R01",
+      "stage": "r01rigid",
+      "cursor": 60104,
+      "total": 60104,
+      "best": -6.360734436764509
+    },
+    {
+      "lane": "R01",
+      "stage": "r01widen",
+      "cursor": 10,
+      "total": 10,
+      "best": -6.360734436764511
+    },
+    {
+      "lane": "R01",
+      "stage": "r01zero",
+      "cursor": 704,
+      "total": 704,
+      "best": -6.601527934053721
+    },
+    {
+      "lane": "R01",
+      "stage": "r01f",
+      "cursor": 24024,
+      "total": 24024,
+      "best": -6.360734436764511
+    },
+    {
+      "lane": "R02",
+      "stage": "r02/widen",
+      "cursor": 10,
+      "total": 10,
+      "best": -6.318302778754598
+    },
+    {
+      "lane": "R02",
+      "stage": "r02/ordinary",
+      "cursor": 186056,
+      "total": 186056,
+      "best": -6.395755023725262
+    },
+    {
+      "lane": "R02",
+      "stage": "r02/literal_f",
+      "cursor": 512,
+      "total": 512,
+      "best": -6.318302778754598
+    }
+  ],
+  "candidates": {
+    "R01": 146,
+    "R02": 286
+  }
+}

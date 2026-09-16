@@ -1,0 +1,23 @@
+{
+  "reviewer": "/root/overnight_review",
+  "reviewed_utc": "2026-09-16T18:42:14.415975+00:00",
+  "coordinator_report_material_mismatch": false,
+  "registry_unique_records": 584,
+  "registry_origins": 608,
+  "lane_origin_counts": {
+    "R01": 126,
+    "R03": 40,
+    "R06": 20,
+    "R02": 262,
+    "R04": 80,
+    "R05": 40,
+    "R07": 20,
+    "R08": 20
+  },
+  "registry_payloads_unchanged": true,
+  "registry_statuses_match_independent_checks": true,
+  "reserved_pages_revealed": [],
+  "scientific_search_rerun": false,
+  "signoff": "No material mismatch in final report/registry. Counts, bounds, controls, no-credible-text conclusion and no-validation promotion match review. Publication prefix-only redaction with original/both-hash retention does not change scientific signoff.",
+  "minor_editorial_note": "Report says reviewer schema/import assumptions; reviewer failures were schema field assumptions only, not imports. Optional correction to schema assumptions."
+}

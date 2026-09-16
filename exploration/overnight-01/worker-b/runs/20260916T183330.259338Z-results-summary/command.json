@@ -1,0 +1,77 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "exploration/overnight-01/worker-b/summarize.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "cf3e07b68570a2b04d83252276d8c1bec62308f0",
+  "started_utc": "2026-09-16T18:33:30.270309+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/overnight-01/config.json",
+      "exists": true,
+      "bytes": 1229,
+      "sha256": "44a20b48ecc01932a9ca826a354dd711c8907b5f2a6b5eb6aa00fe846c7966a4"
+    },
+    {
+      "path": "exploration/overnight-01/run_logged.py",
+      "exists": true,
+      "bytes": 3042,
+      "sha256": "7dbff4813492f5d372849d44964a781bc558c433f985eb2c695b5b7a72ada128"
+    },
+    {
+      "path": "exploration/overnight-01/worker-b/extras.py",
+      "exists": true,
+      "bytes": 6110,
+      "sha256": "ec59f2f1361b9be36e5a17e01ae6894779077ada82b20c749f2482704c58d536"
+    },
+    {
+      "path": "exploration/overnight-01/worker-b/r03-f/checkpoint.json",
+      "exists": true,
+      "bytes": 1278184,
+      "sha256": "104af485b056b6ac1f4bd3512183295333d85d3a70a8401521c87336673d3d4c"
+    },
+    {
+      "path": "exploration/overnight-01/worker-b/r03/checkpoint.json",
+      "exists": true,
+      "bytes": 27750,
+      "sha256": "aea9c898582e0602f56df22c2f625f9846cf99c61786faf928e5ddf31a3472a7"
+    },
+    {
+      "path": "exploration/overnight-01/worker-b/r04/checkpoint.json",
+      "exists": true,
+      "bytes": 448769,
+      "sha256": "968ed5b25c71a59a901cc94175ef9008fbb0e512dc7531e1a4e80773ace890e4"
+    },
+    {
+      "path": "exploration/overnight-01/worker-b/search.py",
+      "exists": true,
+      "bytes": 8809,
+      "sha256": "0c3243df96fb9f90f8d07041bb06c05eaa109996a4ada5bc4da895d7b6e1309f"
+    },
+    {
+      "path": "exploration/overnight-01/worker-b/summarize.py",
+      "exists": true,
+      "bytes": 1671,
+      "sha256": "2c4613fd7b5913b5c736214fe0bf92c2dd55a75c5b780d36bfc17751ee102044"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 17714,
+  "finished_utc": "2026-09-16T18:33:30.349388+00:00",
+  "duration_seconds": 0.07876937499895575
+}

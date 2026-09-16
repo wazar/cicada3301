@@ -1,0 +1,6 @@
+# Local originals of public logs with personal checkout prefixes; hashes published.
+private-originals/
+# Rebuildable scorer caches and bytecode, not experimental evidence.
+*.npy
+__pycache__/
+*.pyc

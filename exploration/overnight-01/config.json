@@ -1,0 +1,43 @@
+{
+  "session": "OVERNIGHT-01",
+  "start_local": "2026-09-16T20:28:27+02:00",
+  "host_timezone": "Africa/Johannesburg (SAST, UTC+02:00)",
+  "hard_deadline_local": "2026-09-17T04:28:27+02:00",
+  "stop_new_searches_local": "2026-09-17T03:58:27+02:00",
+  "entry_commit": "cf3e07b68570a2b04d83252276d8c1bec62308f0",
+  "logical_cores": 18,
+  "memory_bytes": 137438953472,
+  "global_cpu_budget": 9,
+  "initial_jobs": 3,
+  "threads_per_job": 1,
+  "normal_batch_seconds": 900,
+  "max_named_batch_seconds": 3600,
+  "reserved_original_pages": [
+    4,
+    9,
+    14,
+    19,
+    24,
+    29,
+    34,
+    39,
+    44,
+    54
+  ],
+  "input_version": "parallel-01-inputs-v1",
+  "dataset_sha256": "e3d8a8b7a81f00e17d54209772eee7bedb5b922e6176ca722be31f952eaea895",
+  "map_sha256": "f59bf8d94c86a06cf620b5368eabb27dfebc62fbf39b38e467636785762f4cba",
+  "logger_sha256": "7dbff4813492f5d372849d44964a781bc558c433f985eb2c695b5b7a72ada128",
+  "queue": [
+    "R01",
+    "R03",
+    "R07",
+    "R02",
+    "R04",
+    "R08",
+    "R05",
+    "R06"
+  ],
+  "historical_experiment01": "BLOCKED_BY_POSITIVE_CONTROL unchanged; distinct exploratory standards now authorised",
+  "power": "process-scoped caffeinate -i -w on each logged child; no global settings"
+}

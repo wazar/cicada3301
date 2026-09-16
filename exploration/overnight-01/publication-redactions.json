@@ -1,0 +1,41 @@
+{
+  "at": "2026-09-16T20:42:40.056269+02:00",
+  "records": [
+    {
+      "published_path": "exploration/overnight-01/review/runs/20260916T183629.150877Z-initial-independent-c-b-a/stderr.txt",
+      "original_sha256": "67720d9864a3057f1e986d656a8d5e7b291617ca7fa1ba3e814c084054fc811a",
+      "published_sha256": "8a93d6066071ab842d308af467f6373c7947ec4f8e06a53583aaf4bc282b822f",
+      "local_original": "exploration/overnight-01/private-originals/review/runs/20260916T183629.150877Z-initial-independent-c-b-a/stderr.txt",
+      "replacement": "personal checkout root replaced by <REPO_ROOT>; no other bytes changed"
+    },
+    {
+      "published_path": "exploration/overnight-01/review/runs/20260916T183756.993583Z-final-a-forward/stderr.txt",
+      "original_sha256": "c37986364b80aa110c279a59416cc1e8597b1751a5fb203c684bd737fa0ac339",
+      "published_sha256": "ea26a8d527bda38041d29833d7aff1527608be28487f32f622217bf6a74834b3",
+      "local_original": "exploration/overnight-01/private-originals/review/runs/20260916T183756.993583Z-final-a-forward/stderr.txt",
+      "replacement": "personal checkout root replaced by <REPO_ROOT>; no other bytes changed"
+    },
+    {
+      "published_path": "exploration/overnight-01/review/runs/20260916T183814.654086Z-final-a-forward-v2/stderr.txt",
+      "original_sha256": "6f5db6e26739fdbfa8ec8a3b6ee9a48f23d874f37583f0d80c493ba275034ee5",
+      "published_sha256": "2981fc80f2eedd2d0eec28216f858ed10f1136b16a84238f5586cd2cfaae6cb3",
+      "local_original": "exploration/overnight-01/private-originals/review/runs/20260916T183814.654086Z-final-a-forward-v2/stderr.txt",
+      "replacement": "personal checkout root replaced by <REPO_ROOT>; no other bytes changed"
+    },
+    {
+      "published_path": "exploration/overnight-01/worker-b/runs/20260916T183229.112282Z-search-controls/stderr.txt",
+      "original_sha256": "d9eef23b6579f12a51cdbb7201689a0af144c0e19ed67134d19f93fbdbcd9ce2",
+      "published_sha256": "af688bcf2df05b0cf56288f35c4a5d0e2f7ac53c646f3d4fddd4e65b02b33c03",
+      "local_original": "exploration/overnight-01/private-originals/worker-b/runs/20260916T183229.112282Z-search-controls/stderr.txt",
+      "replacement": "personal checkout root replaced by <REPO_ROOT>; no other bytes changed"
+    },
+    {
+      "published_path": "exploration/overnight-01/worker-c/runs/20260916T183045.595793Z-R07-pilot/stderr.txt",
+      "original_sha256": "f7067774f92bef0467936f3557c572e6b1440e8b7d4afa240754f6f88d85a885",
+      "published_sha256": "8d5f93a194e0a86ec98223da291583f86f6b42cea0cce2ab7f570b33a9a28a48",
+      "local_original": "exploration/overnight-01/private-originals/worker-c/runs/20260916T183045.595793Z-R07-pilot/stderr.txt",
+      "replacement": "personal checkout root replaced by <REPO_ROOT>; no other bytes changed"
+    }
+  ],
+  "policy": "Raw original bytes preserved locally, intentionally excluded from Git; failure content and exit codes retained publicly."
+}

@@ -1,0 +1,41 @@
+{
+  "reviewer": "/root/overnight_review",
+  "reviewed_utc": "2026-09-16T18:42:14.415975+00:00",
+  "coordinator_report_material_mismatch": false,
+  "registry_unique_records": 584,
+  "registry_origins": 608,
+  "lane_origin_counts": {
+    "R01": 126,
+    "R03": 40,
+    "R06": 20,
+    "R02": 262,
+    "R04": 80,
+    "R05": 40,
+    "R07": 20,
+    "R08": 20
+  },
+  "registry_payloads_unchanged": true,
+  "registry_statuses_match_independent_checks": true,
+  "reserved_pages_revealed": [],
+  "scientific_search_rerun": false,
+  "signoff": "No material mismatch in final report/registry. Counts, bounds, controls, no-credible-text conclusion and no-validation promotion match review. Publication prefix-only redaction with original/both-hash retention does not change scientific signoff.",
+  "minor_editorial_note": "Report says reviewer schema/import assumptions; reviewer failures were schema field assumptions only, not imports. Optional correction to schema assumptions.",
+  "source_hashes": {
+    "exploration/overnight-01/review/checked.json": "0f80b401ba90a21854094ba8eae10bbe928f39b69d8ce5e7fde390e264e8d9c2",
+    "exploration/overnight-01/review/binary_checked.json": "18547d0bc046d2562397cf59d21c9808a3b5a423868cad666e9d9637c64f1316",
+    "exploration/overnight-01/candidate-registry.jsonl": "ca9cad90859dcc3cd77bcda6bca1b1f9dc58b196e2d834b4d5a154d44f0da24c",
+    "exploration/overnight-01/worker-a/R01/top_candidates.json": "698a60f36ff0db0eb7a18a597102a510318841b66c758179787e3c223b64a99d",
+    "exploration/overnight-01/worker-b/r03/top_candidates.json": "78b5c2abdfcbc5f42c78bc884b19a70ffc89b66ef14e6ecc0452460020533d9c",
+    "exploration/overnight-01/worker-b/r06/top_candidates.json": "a6a5de644697c99f1bedf6c91a92c1b2e068184fd42087edc5db08cde885c432",
+    "exploration/overnight-01/worker-b/r03-f/top_candidates.json": "3953376e53355de93c3929fad8879c8338423afc77b623666f82710db2eaeb98",
+    "exploration/overnight-01/worker-a/r02/top_candidates.json": "c96ed3e85b2f374db131151373d3752396b8d9c581dbec2b4add3fde269a8095",
+    "exploration/overnight-01/worker-b/r04/top_candidates.json": "e84657a14c088cbac94bf6fecfff66655337426557b5cc1f260103eecd68bc03",
+    "exploration/overnight-01/worker-b/r04/top_continuation_candidates.json": "aaedcf84c4dcd47b3a7fd8de210e2222e87c05965f84111bad702cc211f8aca2",
+    "exploration/overnight-01/worker-b/r04-wide/top_candidates.json": "097b78d800f6a3d0e15fb16800869d1bb8510ba1130bcc2bcc0b90a2847b2e9e",
+    "exploration/overnight-01/worker-b/r04-wide/top_continuation_candidates.json": "88e501f2cd47d46f07d488709a4c6cd21ffac2e68665a75eb54ae973dc6d57da",
+    "exploration/overnight-01/worker-b/r05/top_candidates.json": "d7c19112d1e43bdb20e62c9081dd2911e9aa14f5c3f67bfb4a372904655c9823",
+    "exploration/overnight-01/worker-b/r05/top_crib_implications.json": "a4a301f79acb797f6df9508828c3445ea71518b490bcaa6926a498ff6cb1f3ee",
+    "exploration/overnight-01/worker-c/top_candidates.json": "291e6939c058e9d829833a8f50ce75d1175feba2eb39fc05d270596164834cb8",
+    "exploration/overnight-01/REPORT.md": "a20355d69964253f77c55980f8d1cd2c98e12adce3de7652f8ea3ee241c5a5f0"
+  }
+}

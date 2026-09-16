@@ -1,0 +1,46 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/overnight-01/review/coverage.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "cf3e07b68570a2b04d83252276d8c1bec62308f0",
+  "started_utc": "2026-09-16T18:37:13.398818+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/overnight-01/review/check.py",
+      "exists": true,
+      "bytes": 6164,
+      "sha256": "0605ba33a75b94a1b4bdaaaddcfe5e524d2421c19ad4b1dd81285e212e3448d7"
+    },
+    {
+      "path": "exploration/overnight-01/review/coverage.py",
+      "exists": true,
+      "bytes": 1690,
+      "sha256": "b63eed3b985fe4f7872959a53c48abadba6a9c246f53c2aa5a6daf7ef7f31f85"
+    },
+    {
+      "path": "exploration/overnight-01/run_logged.py",
+      "exists": true,
+      "bytes": 3042,
+      "sha256": "7dbff4813492f5d372849d44964a781bc558c433f985eb2c695b5b7a72ada128"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 19202,
+  "finished_utc": "2026-09-16T18:37:14.827964+00:00",
+  "duration_seconds": 1.428795125000761
+}

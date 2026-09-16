@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/overnight-01/review/check.py", line 77, in <module>
+    key=keys[z['recipe']][z['offset']:];assert key[:len(c)]==z['key'];alt=z['alternatives'][0] if z['alternatives'] else {};p,n=dec(c,key,z['sign'],alt.get('literal_positions',()));
+                                                             ~^^^^^^^
+KeyError: 'key'

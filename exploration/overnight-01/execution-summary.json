@@ -1,0 +1,987 @@
+{
+  "review": {
+    "invocations": 12,
+    "seconds": 20.446564500999777,
+    "outcomes": {
+      "NONZERO": 3,
+      "PASS": 9
+    },
+    "runs": [
+      {
+        "manifest": "exploration/overnight-01/review/runs/20260916T183629.150877Z-initial-independent-c-b-a/command.json",
+        "label": "20260916T183629.150877Z-initial-independent-c-b-a",
+        "command": [
+          "python3",
+          "exploration/overnight-01/review/check.py"
+        ],
+        "outcome": "NONZERO",
+        "exit_code": 1,
+        "seconds": 2.1538825,
+        "started": "2026-09-16T18:36:29.161019+00:00",
+        "finished": "2026-09-16T18:36:31.315147+00:00",
+        "pid": 19011
+      },
+      {
+        "manifest": "exploration/overnight-01/review/runs/20260916T183658.729158Z-independent-c-b-a-v2/command.json",
+        "label": "20260916T183658.729158Z-independent-c-b-a-v2",
+        "command": [
+          ".venv/bin/python",
+          "exploration/overnight-01/review/check.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 1.82432583300033,
+        "started": "2026-09-16T18:36:58.740871+00:00",
+        "finished": "2026-09-16T18:37:00.565447+00:00",
+        "pid": 19127
+      },
+      {
+        "manifest": "exploration/overnight-01/review/runs/20260916T183713.387997Z-coverage-in-progress/command.json",
+        "label": "20260916T183713.387997Z-coverage-in-progress",
+        "command": [
+          ".venv/bin/python",
+          "exploration/overnight-01/review/coverage.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 1.428795125000761,
+        "started": "2026-09-16T18:37:13.398818+00:00",
+        "finished": "2026-09-16T18:37:14.827964+00:00",
+        "pid": 19202
+      },
+      {
+        "manifest": "exploration/overnight-01/review/runs/20260916T183736.051590Z-binary-independent/command.json",
+        "label": "20260916T183736.051590Z-binary-independent",
+        "command": [
+          ".venv/bin/python",
+          "exploration/overnight-01/review/binary_check.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.041279375000158325,
+        "started": "2026-09-16T18:37:36.062457+00:00",
+        "finished": "2026-09-16T18:37:36.104070+00:00",
+        "pid": 19287
+      },
+      {
+        "manifest": "exploration/overnight-01/review/runs/20260916T183756.993583Z-final-a-forward/command.json",
+        "label": "20260916T183756.993583Z-final-a-forward",
+        "command": [
+          ".venv/bin/python",
+          "exploration/overnight-01/review/check.py"
+        ],
+        "outcome": "NONZERO",
+        "exit_code": 1,
+        "seconds": 1.8189107079997484,
+        "started": "2026-09-16T18:37:57.004676+00:00",
+        "finished": "2026-09-16T18:37:58.823878+00:00",
+        "pid": 19372
+      },
+      {
+        "manifest": "exploration/overnight-01/review/runs/20260916T183814.654086Z-final-a-forward-v2/command.json",
+        "label": "20260916T183814.654086Z-final-a-forward-v2",
+        "command": [
+          ".venv/bin/python",
+          "exploration/overnight-01/review/check.py"
+        ],
+        "outcome": "NONZERO",
+        "exit_code": 1,
+        "seconds": 1.9062223750006524,
+        "started": "2026-09-16T18:38:14.667211+00:00",
+        "finished": "2026-09-16T18:38:16.573711+00:00",
+        "pid": 19416
+      },
+      {
+        "manifest": "exploration/overnight-01/review/runs/20260916T183855.862669Z-final-all-forward/command.json",
+        "label": "20260916T183855.862669Z-final-all-forward",
+        "command": [
+          ".venv/bin/python",
+          "exploration/overnight-01/review/check.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 1.8952193749992148,
+        "started": "2026-09-16T18:38:55.873881+00:00",
+        "finished": "2026-09-16T18:38:57.769325+00:00",
+        "pid": 19528
+      },
+      {
+        "manifest": "exploration/overnight-01/review/runs/20260916T183922.844209Z-final-canonical-exports/command.json",
+        "label": "20260916T183922.844209Z-final-canonical-exports",
+        "command": [
+          ".venv/bin/python",
+          "exploration/overnight-01/review/check.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 1.8952502090014605,
+        "started": "2026-09-16T18:39:22.855674+00:00",
+        "finished": "2026-09-16T18:39:24.751167+00:00",
+        "pid": 19583
+      },
+      {
+        "manifest": "exploration/overnight-01/review/runs/20260916T183924.781801Z-final-coverage/command.json",
+        "label": "20260916T183924.781801Z-final-coverage",
+        "command": [
+          ".venv/bin/python",
+          "exploration/overnight-01/review/coverage.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 2.2009781249998923,
+        "started": "2026-09-16T18:39:24.791535+00:00",
+        "finished": "2026-09-16T18:39:26.992745+00:00",
+        "pid": 19594
+      },
+      {
+        "manifest": "exploration/overnight-01/review/runs/20260916T183949.305459Z-final-with-cribs/command.json",
+        "label": "20260916T183949.305459Z-final-with-cribs",
+        "command": [
+          ".venv/bin/python",
+          "exploration/overnight-01/review/check.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 1.8708860419992561,
+        "started": "2026-09-16T18:39:49.314983+00:00",
+        "finished": "2026-09-16T18:39:51.186118+00:00",
+        "pid": 19647
+      },
+      {
+        "manifest": "exploration/overnight-01/review/runs/20260916T183959.177889Z-final-source-manifest/command.json",
+        "label": "20260916T183959.177889Z-final-source-manifest",
+        "command": [
+          ".venv/bin/python",
+          "exploration/overnight-01/review/coverage.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 2.3879552919988782,
+        "started": "2026-09-16T18:39:59.187811+00:00",
+        "finished": "2026-09-16T18:40:01.575991+00:00",
+        "pid": 19671
+      },
+      {
+        "manifest": "exploration/overnight-01/review/runs/20260916T184027.351283Z-matched-search-aggregation/command.json",
+        "label": "20260916T184027.351283Z-matched-search-aggregation",
+        "command": [
+          ".venv/bin/python",
+          "exploration/overnight-01/review/matched.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 1.0228595419994235,
+        "started": "2026-09-16T18:40:27.361808+00:00",
+        "finished": "2026-09-16T18:40:28.384915+00:00",
+        "pid": 19732
+      }
+    ]
+  },
+  "worker-a": {
+    "invocations": 18,
+    "seconds": 285.878760167001,
+    "outcomes": {
+      "PASS": 18
+    },
+    "runs": [
+      {
+        "manifest": "exploration/overnight-01/worker-a/runs/20260916T183052.714513Z-r01-zero/command.json",
+        "label": "20260916T183052.714513Z-r01-zero",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-a/search.py",
+          "r01zero",
+          "--seconds",
+          "780"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 3.4214997079998284,
+        "started": "2026-09-16T18:30:52.725658+00:00",
+        "finished": "2026-09-16T18:30:56.147484+00:00",
+        "pid": 16669
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-a/runs/20260916T183104.850724Z-r01-rigid/command.json",
+        "label": "20260916T183104.850724Z-r01-rigid",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-a/search.py",
+          "r01rigid",
+          "--seconds",
+          "780"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 13.514443457999732,
+        "started": "2026-09-16T18:31:04.862317+00:00",
+        "finished": "2026-09-16T18:31:18.377085+00:00",
+        "pid": 16759
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-a/runs/20260916T183145.857433Z-r01-f-phases/command.json",
+        "label": "20260916T183145.857433Z-r01-f-phases",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-a/search.py",
+          "r01f",
+          "--seconds",
+          "780"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 195.20612283300034,
+        "started": "2026-09-16T18:31:45.869396+00:00",
+        "finished": "2026-09-16T18:35:01.076387+00:00",
+        "pid": 17036
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-a/runs/20260916T183208.196004Z-fix-map-cutoff/command.json",
+        "label": "20260916T183208.196004Z-fix-map-cutoff",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-a/patch.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.021712542000386748,
+        "started": "2026-09-16T18:32:08.206145+00:00",
+        "finished": "2026-09-16T18:32:08.228171+00:00",
+        "pid": 17184
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-a/runs/20260916T183516.247869Z-wordview-update/command.json",
+        "label": "20260916T183516.247869Z-wordview-update",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-a/wordview_patch.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.021850125000128173,
+        "started": "2026-09-16T18:35:16.260743+00:00",
+        "finished": "2026-09-16T18:35:16.282957+00:00",
+        "pid": 18482
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-a/runs/20260916T183516.311441Z-r01-controls/command.json",
+        "label": "20260916T183516.311441Z-r01-controls",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-a/search.py",
+          "controls"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.5119950419993984,
+        "started": "2026-09-16T18:35:16.326045+00:00",
+        "finished": "2026-09-16T18:35:16.838379+00:00",
+        "pid": 18492
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-a/runs/20260916T183516.867024Z-r01-p55-zero/command.json",
+        "label": "20260916T183516.867024Z-r01-p55-zero",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-a/search.py",
+          "r01zero",
+          "--page55"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.07845708300010301,
+        "started": "2026-09-16T18:35:16.879972+00:00",
+        "finished": "2026-09-16T18:35:16.958796+00:00",
+        "pid": 18509
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-a/runs/20260916T183516.988249Z-r01-p55-rigid/command.json",
+        "label": "20260916T183516.988249Z-r01-p55-rigid",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-a/search.py",
+          "r01rigid",
+          "--page55"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.18905533399993146,
+        "started": "2026-09-16T18:35:17.000522+00:00",
+        "finished": "2026-09-16T18:35:17.189911+00:00",
+        "pid": 18513
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-a/runs/20260916T183517.219353Z-r01-p55-f/command.json",
+        "label": "20260916T183517.219353Z-r01-p55-f",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-a/search.py",
+          "r01f",
+          "--page55"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.29399862500031304,
+        "started": "2026-09-16T18:35:17.232136+00:00",
+        "finished": "2026-09-16T18:35:17.526433+00:00",
+        "pid": 18517
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-a/runs/20260916T183517.556647Z-r02-ordinary/command.json",
+        "label": "20260916T183517.556647Z-r02-ordinary",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-a/clues.py",
+          "ordinary"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 33.316860459000964,
+        "started": "2026-09-16T18:35:17.569189+00:00",
+        "finished": "2026-09-16T18:35:50.886526+00:00",
+        "pid": 18522
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-a/runs/20260916T183550.917763Z-r02-f/command.json",
+        "label": "20260916T183550.917763Z-r02-f",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-a/clues.py",
+          "literal_f"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 2.1402116250010295,
+        "started": "2026-09-16T18:35:50.931065+00:00",
+        "finished": "2026-09-16T18:35:53.071637+00:00",
+        "pid": 18759
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-a/runs/20260916T183553.100712Z-r02-controls/command.json",
+        "label": "20260916T183553.100712Z-r02-controls",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-a/r02_controls.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.34397408299992094,
+        "started": "2026-09-16T18:35:53.113931+00:00",
+        "finished": "2026-09-16T18:35:53.458234+00:00",
+        "pid": 18779
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-a/runs/20260916T183553.487512Z-r01-rejection/command.json",
+        "label": "20260916T183553.487512Z-r01-rejection",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-a/rejection.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 36.41090783300024,
+        "started": "2026-09-16T18:35:53.500228+00:00",
+        "finished": "2026-09-16T18:36:29.911578+00:00",
+        "pid": 18790
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-a/runs/20260916T183713.480395Z-width1024-controls/command.json",
+        "label": "20260916T183713.480395Z-width1024-controls",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-a/followup.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.13436437500058673,
+        "started": "2026-09-16T18:37:13.493157+00:00",
+        "finished": "2026-09-16T18:37:13.627863+00:00",
+        "pid": 19206
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-a/runs/20260916T183725.375317Z-export-candidates/command.json",
+        "label": "20260916T183725.375317Z-export-candidates",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-a/publish.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.12426891699942644,
+        "started": "2026-09-16T18:37:25.387623+00:00",
+        "finished": "2026-09-16T18:37:25.512179+00:00",
+        "pid": 19227
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-a/runs/20260916T183725.563303Z-fixed-rule-replay/command.json",
+        "label": "20260916T183725.563303Z-fixed-rule-replay",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-a/replay.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.07829624999976659,
+        "started": "2026-09-16T18:37:25.582498+00:00",
+        "finished": "2026-09-16T18:37:25.661235+00:00",
+        "pid": 19234
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-a/runs/20260916T183831.117333Z-write-report/command.json",
+        "label": "20260916T183831.117333Z-write-report",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-a/report.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.046541708999939146,
+        "started": "2026-09-16T18:38:31.128860+00:00",
+        "finished": "2026-09-16T18:38:31.175698+00:00",
+        "pid": 19480
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-a/runs/20260916T183914.996659Z-portable-path-report-fix/command.json",
+        "label": "20260916T183914.996659Z-portable-path-report-fix",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-a/portable_patch.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.024200165998990997,
+        "started": "2026-09-16T18:39:15.008381+00:00",
+        "finished": "2026-09-16T18:39:15.033018+00:00",
+        "pid": 19561
+      }
+    ]
+  },
+  "worker-b": {
+    "invocations": 18,
+    "seconds": 223.23840441799985,
+    "outcomes": {
+      "PASS": 17,
+      "NONZERO": 1
+    },
+    "runs": [
+      {
+        "manifest": "exploration/overnight-01/worker-b/runs/20260916T183049.775616Z-r03-numeric/command.json",
+        "label": "20260916T183049.775616Z-r03-numeric",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-b/search.py",
+          "r03",
+          "--seconds",
+          "820"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 6.530683083999975,
+        "started": "2026-09-16T18:30:49.787672+00:00",
+        "finished": "2026-09-16T18:30:56.318683+00:00",
+        "pid": 16643
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-b/runs/20260916T183102.959001Z-r04-periodic-pilot/command.json",
+        "label": "20260916T183102.959001Z-r04-periodic-pilot",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-b/search.py",
+          "r04",
+          "--pages",
+          "1408",
+          "--seconds",
+          "820"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 47.401261667000654,
+        "started": "2026-09-16T18:31:02.972845+00:00",
+        "finished": "2026-09-16T18:31:50.374539+00:00",
+        "pid": 16746
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-b/runs/20260916T183214.092310Z-r03-page55-catchup/command.json",
+        "label": "20260916T183214.092310Z-r03-page55-catchup",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-b/search.py",
+          "r03",
+          "--seconds",
+          "820"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.2298538750001171,
+        "started": "2026-09-16T18:32:14.102976+00:00",
+        "finished": "2026-09-16T18:32:14.333124+00:00",
+        "pid": 17221
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-b/runs/20260916T183220.023641Z-r04-page55-catchup/command.json",
+        "label": "20260916T183220.023641Z-r04-page55-catchup",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-b/search.py",
+          "r04",
+          "--pages",
+          "1440",
+          "--seconds",
+          "820"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.7328078329992422,
+        "started": "2026-09-16T18:32:20.034311+00:00",
+        "finished": "2026-09-16T18:32:20.767370+00:00",
+        "pid": 17259
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-b/runs/20260916T183229.112282Z-search-controls/command.json",
+        "label": "20260916T183229.112282Z-search-controls",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-b/extras.py",
+          "controls"
+        ],
+        "outcome": "NONZERO",
+        "exit_code": 1,
+        "seconds": 0.40430449999985285,
+        "started": "2026-09-16T18:32:29.122783+00:00",
+        "finished": "2026-09-16T18:32:29.527369+00:00",
+        "pid": 17315
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-b/runs/20260916T183244.386335Z-search-controls-serialization-repair/command.json",
+        "label": "20260916T183244.386335Z-search-controls-serialization-repair",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-b/extras.py",
+          "controls"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.40138645799925143,
+        "started": "2026-09-16T18:32:44.397439+00:00",
+        "finished": "2026-09-16T18:32:44.799107+00:00",
+        "pid": 17412
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-b/runs/20260916T183249.200552Z-r03-literal-f-selected/command.json",
+        "label": "20260916T183249.200552Z-r03-literal-f-selected",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-b/extras.py",
+          "f",
+          "--seconds",
+          "820"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 15.108394958000645,
+        "started": "2026-09-16T18:32:49.212177+00:00",
+        "finished": "2026-09-16T18:33:04.320931+00:00",
+        "pid": 17445
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-b/runs/20260916T183313.099176Z-candidates-export/command.json",
+        "label": "20260916T183313.099176Z-candidates-export",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-b/extras.py",
+          "export"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.24368499999945925,
+        "started": "2026-09-16T18:33:13.109858+00:00",
+        "finished": "2026-09-16T18:33:13.353999+00:00",
+        "pid": 17608
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-b/runs/20260916T183330.259338Z-results-summary/command.json",
+        "label": "20260916T183330.259338Z-results-summary",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-b/summarize.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.07876937499895575,
+        "started": "2026-09-16T18:33:30.270309+00:00",
+        "finished": "2026-09-16T18:33:30.349388+00:00",
+        "pid": 17714
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-b/runs/20260916T183348.141724Z-arithmetic-verification/command.json",
+        "label": "20260916T183348.141724Z-arithmetic-verification",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-b/verify.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.7827036250000674,
+        "started": "2026-09-16T18:33:48.152531+00:00",
+        "finished": "2026-09-16T18:33:48.935575+00:00",
+        "pid": 17835
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-b/runs/20260916T183401.591324Z-r04-wide33-64/command.json",
+        "label": "20260916T183401.591324Z-r04-wide33-64",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-b/search.py",
+          "r04",
+          "--wide",
+          "--pages",
+          "1440",
+          "--seconds",
+          "820"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 115.38340362499912,
+        "started": "2026-09-16T18:34:01.602468+00:00",
+        "finished": "2026-09-16T18:35:56.986528+00:00",
+        "pid": 17922
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-b/runs/20260916T183636.236617Z-r04-wide-summary/command.json",
+        "label": "20260916T183636.236617Z-r04-wide-summary",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-b/wide_summary.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.18454633300098067,
+        "started": "2026-09-16T18:36:36.248419+00:00",
+        "finished": "2026-09-16T18:36:36.433297+00:00",
+        "pid": 19037
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-b/runs/20260916T183652.438089Z-r05-relations/command.json",
+        "label": "20260916T183652.438089Z-r05-relations",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-b/structural.py",
+          "r05",
+          "--seconds",
+          "820"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 16.183925792000082,
+        "started": "2026-09-16T18:36:52.450050+00:00",
+        "finished": "2026-09-16T18:37:08.634336+00:00",
+        "pid": 19080
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-b/runs/20260916T183729.081759Z-r06-layout/command.json",
+        "label": "20260916T183729.081759Z-r06-layout",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-b/structural.py",
+          "r06",
+          "--seconds",
+          "820"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 17.640679416999774,
+        "started": "2026-09-16T18:37:29.094371+00:00",
+        "finished": "2026-09-16T18:37:46.735472+00:00",
+        "pid": 19244
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-b/runs/20260916T183812.522901Z-r05-summary-controls/command.json",
+        "label": "20260916T183812.522901Z-r05-summary-controls",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-b/structural_summary.py",
+          "r05"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 1.1013092920002236,
+        "started": "2026-09-16T18:38:12.535419+00:00",
+        "finished": "2026-09-16T18:38:13.637059+00:00",
+        "pid": 19401
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-b/runs/20260916T183829.193723Z-r06-summary/command.json",
+        "label": "20260916T183829.193723Z-r06-summary",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-b/structural_summary.py",
+          "r06"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.2458658329996979,
+        "started": "2026-09-16T18:38:29.204610+00:00",
+        "finished": "2026-09-16T18:38:29.450703+00:00",
+        "pid": 19457
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-b/runs/20260916T183850.304423Z-r06-export-page-identifiers/command.json",
+        "label": "20260916T183850.304423Z-r06-export-page-identifiers",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-b/structural_summary.py",
+          "r06"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.2664594590005436,
+        "started": "2026-09-16T18:38:50.315309+00:00",
+        "finished": "2026-09-16T18:38:50.581991+00:00",
+        "pid": 19515
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-b/runs/20260916T184000.037937Z-r06-export-unique/command.json",
+        "label": "20260916T184000.037937Z-r06-export-unique",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-b/structural_summary.py",
+          "r06"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.3183642920012062,
+        "started": "2026-09-16T18:40:00.049342+00:00",
+        "finished": "2026-09-16T18:40:00.367987+00:00",
+        "pid": 19675
+      }
+    ]
+  },
+  "worker-c": {
+    "invocations": 11,
+    "seconds": 53.24389795699608,
+    "outcomes": {
+      "NONZERO": 1,
+      "PASS": 10
+    },
+    "runs": [
+      {
+        "manifest": "exploration/overnight-01/worker-c/runs/20260916T183045.595793Z-R07-pilot/command.json",
+        "label": "20260916T183045.595793Z-R07-pilot",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-c/search.py",
+          "pilot"
+        ],
+        "outcome": "NONZERO",
+        "exit_code": 1,
+        "seconds": 0.07748454099964874,
+        "started": "2026-09-16T18:30:45.607516+00:00",
+        "finished": "2026-09-16T18:30:45.685302+00:00",
+        "pid": 16619
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-c/runs/20260916T183058.222416Z-R07-pilot-fixed/command.json",
+        "label": "20260916T183058.222416Z-R07-pilot-fixed",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-c/search.py",
+          "pilot"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.07825579199925414,
+        "started": "2026-09-16T18:30:58.234471+00:00",
+        "finished": "2026-09-16T18:30:58.313022+00:00",
+        "pid": 16730
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-c/runs/20260916T183107.183969Z-R07-rigid/command.json",
+        "label": "20260916T183107.183969Z-R07-rigid",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-c/search.py",
+          "rigid"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 31.502028165999945,
+        "started": "2026-09-16T18:31:07.197348+00:00",
+        "finished": "2026-09-16T18:31:38.699750+00:00",
+        "pid": 16789
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-c/runs/20260916T183125.452508Z-R07-prepare-F/command.json",
+        "label": "20260916T183125.452508Z-R07-prepare-F",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-c/prepare_f.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.07786404199941899,
+        "started": "2026-09-16T18:31:25.464307+00:00",
+        "finished": "2026-09-16T18:31:25.542426+00:00",
+        "pid": 16906
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-c/runs/20260916T183157.937649Z-R07-prepare-F-complete/command.json",
+        "label": "20260916T183157.937649Z-R07-prepare-F-complete",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-c/prepare_f.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.07534595799916133,
+        "started": "2026-09-16T18:31:57.951284+00:00",
+        "finished": "2026-09-16T18:31:58.026902+00:00",
+        "pid": 17113
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-c/runs/20260916T183158.055343Z-R07-F-surrounding/command.json",
+        "label": "20260916T183158.055343Z-R07-F-surrounding",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-c/search.py",
+          "f",
+          "--start",
+          "0",
+          "--stop",
+          "11000"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 4.243437832999916,
+        "started": "2026-09-16T18:31:58.066806+00:00",
+        "finished": "2026-09-16T18:32:02.310570+00:00",
+        "pid": 17118
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-c/runs/20260916T183310.511097Z-R07-F-discovery/command.json",
+        "label": "20260916T183310.511097Z-R07-F-discovery",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-c/search.py",
+          "f",
+          "--start",
+          "11000",
+          "--stop",
+          "12842"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 16.20082574999833,
+        "started": "2026-09-16T18:33:10.523114+00:00",
+        "finished": "2026-09-16T18:33:26.724292+00:00",
+        "pid": 17591
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-c/runs/20260916T183336.387396Z-R08-corrected-matrix/command.json",
+        "label": "20260916T183336.387396Z-R08-corrected-matrix",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-c/binary.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.29723412499879487,
+        "started": "2026-09-16T18:33:36.397612+00:00",
+        "finished": "2026-09-16T18:33:36.695137+00:00",
+        "pid": 17752
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-c/runs/20260916T183336.725011Z-R07-rigid-page55/command.json",
+        "label": "20260916T183336.725011Z-R07-rigid-page55",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-c/search.py",
+          "rigid",
+          "--page55"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.5712260000000242,
+        "started": "2026-09-16T18:33:36.736142+00:00",
+        "finished": "2026-09-16T18:33:37.307687+00:00",
+        "pid": 17760
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-c/runs/20260916T183337.336314Z-R07-F-page55/command.json",
+        "label": "20260916T183337.336314Z-R07-F-page55",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-c/search.py",
+          "f",
+          "--page55"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.07861800000137009,
+        "started": "2026-09-16T18:33:37.347407+00:00",
+        "finished": "2026-09-16T18:33:37.426318+00:00",
+        "pid": 17767
+      },
+      {
+        "manifest": "exploration/overnight-01/worker-c/runs/20260916T183351.836321Z-summarize-R07-R08/command.json",
+        "label": "20260916T183351.836321Z-summarize-R07-R08",
+        "command": [
+          ".venv/bin/python",
+          "-B",
+          "exploration/overnight-01/worker-c/summarize.py"
+        ],
+        "outcome": "PASS",
+        "exit_code": 0,
+        "seconds": 0.04157775000021502,
+        "started": "2026-09-16T18:33:51.846914+00:00",
+        "finished": "2026-09-16T18:33:51.888757+00:00",
+        "pid": 17862
+      }
+    ]
+  }
+}
