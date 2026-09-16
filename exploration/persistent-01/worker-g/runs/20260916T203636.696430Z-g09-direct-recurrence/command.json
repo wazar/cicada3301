@@ -1,0 +1,112 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-g/g09.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e4135f67d63be8b96f785ee59510dbce2f4f6207",
+  "started_utc": "2026-09-16T20:36:36.707449+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/parallel-01/inputs/dataset.json",
+      "exists": true,
+      "bytes": 1378156,
+      "sha256": "e3d8a8b7a81f00e17d54209772eee7bedb5b922e6176ca722be31f952eaea895"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/G09-CARD.md",
+      "exists": true,
+      "bytes": 2034,
+      "sha256": "54afcd863f1f9d8ab562b97280c032167ce4a61ed8bbf377ac00b478685ee0f0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/g01.py",
+      "exists": true,
+      "bytes": 2612,
+      "sha256": "2c8a9691e6251f257df135d551fe2612a59936863832cf216837b8105837c725"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/g02.py",
+      "exists": true,
+      "bytes": 1488,
+      "sha256": "57fba170344438828e3952c16089f2c206ec4c41ea3eca7024f2e13971552487"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/g03.py",
+      "exists": true,
+      "bytes": 1592,
+      "sha256": "ba810cbbcc5c20e993d4cbc2c9b289550d066d54b66bf629dec3734cbd3a9a5a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/g04.py",
+      "exists": true,
+      "bytes": 2536,
+      "sha256": "0511f9818ec12f13f2be7cc08beb914347edc41a1772c83d40d7fcfad465c5a9"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/g05.py",
+      "exists": true,
+      "bytes": 1814,
+      "sha256": "1e17114ace26fbf7d953d489981b943d91e49015897defefbd348f15cea15a0f"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/g06-source-gap-map.json",
+      "exists": true,
+      "bytes": 28121,
+      "sha256": "d9532e234811d2b99a03ef07ad692c8438f934fbedc70749b3be3f8147340443"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/g06.py",
+      "exists": true,
+      "bytes": 2598,
+      "sha256": "b8857a5a8b6792356aa7b1f5cbe6d0edd33f0d062539a44574606301b0ff4030"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/g06_map.py",
+      "exists": true,
+      "bytes": 1704,
+      "sha256": "f8331ecdc5388c602d0da786d13fa118ea9deda4e798c388819d4ec0c387ee7b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/g07.py",
+      "exists": true,
+      "bytes": 1297,
+      "sha256": "66925f5abee4829d005d6e5ba0395f69556efc5d600b35b7369b5fdf73a229ee"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/g08.py",
+      "exists": true,
+      "bytes": 1914,
+      "sha256": "2d7f9f2857f60ed38cc9fdf016e090b878e26f71beb68886964d853e4a0edccf"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/g09.py",
+      "exists": true,
+      "bytes": 3034,
+      "sha256": "04523da45dd5279313dc8f0e001b7943d06771ac54f4abae113276f2d0d00f3c"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 44062,
+  "finished_utc": "2026-09-16T20:36:37.794849+00:00",
+  "duration_seconds": 1.0871795419989212
+}

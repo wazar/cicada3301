@@ -1,0 +1,3 @@
+# Bounded G06/G10 review
+
+Verify the fourteen G06 multi-dot signs against actual images 3, 7, 17 and independently count rune gaps from the pinned source rows. Render analysis crops only; no reserved pages, broad annotations, new hypothesis sweep, or Git writes. Preserve duplicate gap 194 roles. Check G09/G10 arithmetic on saved controls with independent modular linear fitting and exact forecasts, and deduplicate source windows. Existing source/transcription ancestry remains shared. One-thread logged run, at most 900 seconds, deadline 2026-09-17T03:30:37Z and STOP honored. This is a bounded review, not an independent rune retranscription.

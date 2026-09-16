@@ -1,0 +1,65 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "exploration/persistent-01/worker-h/h01.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e4135f67d63be8b96f785ee59510dbce2f4f6207",
+  "started_utc": "2026-09-16T20:37:16.452353+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h01.py",
+      "exists": true,
+      "bytes": 4159,
+      "sha256": "4916e8f341e95a2b61d9e6ef02c2f6c7d49db1aa4107b030567f1864eeb6db35"
+    },
+    {
+      "path": "liber-primus/data/keys/armada18/mabinogion_vol1_guest_edwards_ed.txt",
+      "exists": true,
+      "bytes": 183694,
+      "sha256": "31bb2124f65422a6fa7e4c7910fc7e2be4c453307a6faf841b77152d07dc1d07"
+    },
+    {
+      "path": "liber-primus/data/keys/armada18/mabinogion_vol2_guest_edwards_ed.txt",
+      "exists": true,
+      "bytes": 199971,
+      "sha256": "0d126a64878ad992ae104f339b3894b8d11b719ef921f43cbdd042f0a4f4ebcb"
+    },
+    {
+      "path": "liber-primus/src/lp/gematria.py",
+      "exists": true,
+      "bytes": 4283,
+      "sha256": "7b4f5c30137741ab3c33638fb91076c4b1f228229dc3634ba2e6ef232cd47f04"
+    }
+  ],
+  "outcome": "NONZERO",
+  "exit_code": 1,
+  "pid": 44095,
+  "finished_utc": "2026-09-16T20:37:17.020820+00:00",
+  "duration_seconds": 0.568227959000069
+}

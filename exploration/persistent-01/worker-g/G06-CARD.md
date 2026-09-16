@@ -1,0 +1,9 @@
+# G06 — period glyphs collapse different dot-cluster units
+
+Actual high zoom inspection of four local crops establishes that red paragraph signs in p3/p7 are thirteen small squares (three staggered columns), not a single printed dot. This could be a second delimiter alphabet lost under a generic period. Test one exact carrier hypothesis: textual period occurrences contain both four-dot and thirteen-dot classes, and this difference is omitted by current transcription. This is a representation observation, not a plaintext claim.
+
+Extract small dark connected components in text rectangles only: p3 x580..1800,y640..3010; p7 x580..1800,y640..2600; p17 x580..1800,y640..2900. Exclude illustration dots and side flourishes. Small components bbox width/height4..22 pixels, area>=16; cluster centers within26 pixels. Keep actual coordinate maps. Verify robustness at darkness thresholds90,130,170 and a JPEG90 re-render; quantify singleton/four/thirteen/other groups rather than silently correcting noise. Rune strokes are excluded by size, but fragments and punctuation near glyphs can fail; source order is checked only on manually bounded periods, not automatic OCR.
+
+Frozen manual source/image gap correspondences to verify: p3 heading period after rune offset15 (native roi1550..1610,680..800), p3 line5 final after118 (roi1340..1410,1600..1760), p7 footer leading sign (roi700..770,2430..2600), p7 footer trailing after207 (roi1620..1700,2430..2600). After measurement enumerate other dot clusters for targeted source-row mapping, without a payload search. If class distinctions are explained by paragraph/sentence typography, retain that narrow evidence and move to a different role.
+
+Controls: synthetic13-square staggered mark must recover13 components across thresholds and JPEG; synthetic4-square diamond must recover4; representative rune-like connected stroke must not be classified as small isolated component. No additive pad or language ranking.

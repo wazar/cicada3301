@@ -1,0 +1,100 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-g/g07.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e4135f67d63be8b96f785ee59510dbce2f4f6207",
+  "started_utc": "2026-09-16T20:33:24.102879+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/G07-CARD.md",
+      "exists": true,
+      "bytes": 1519,
+      "sha256": "5f4732e693985051fa4a9dd8e491a07577b9e8314cf3e971df1bcd15e33718f2"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/g01.py",
+      "exists": true,
+      "bytes": 2612,
+      "sha256": "2c8a9691e6251f257df135d551fe2612a59936863832cf216837b8105837c725"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/g02.py",
+      "exists": true,
+      "bytes": 1488,
+      "sha256": "57fba170344438828e3952c16089f2c206ec4c41ea3eca7024f2e13971552487"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/g03.py",
+      "exists": true,
+      "bytes": 1592,
+      "sha256": "ba810cbbcc5c20e993d4cbc2c9b289550d066d54b66bf629dec3734cbd3a9a5a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/g04.py",
+      "exists": true,
+      "bytes": 2536,
+      "sha256": "0511f9818ec12f13f2be7cc08beb914347edc41a1772c83d40d7fcfad465c5a9"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/g05.py",
+      "exists": true,
+      "bytes": 1814,
+      "sha256": "1e17114ace26fbf7d953d489981b943d91e49015897defefbd348f15cea15a0f"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/g06.py",
+      "exists": true,
+      "bytes": 2598,
+      "sha256": "b8857a5a8b6792356aa7b1f5cbe6d0edd33f0d062539a44574606301b0ff4030"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/g06_map.py",
+      "exists": true,
+      "bytes": 1704,
+      "sha256": "f8331ecdc5388c602d0da786d13fa118ea9deda4e798c388819d4ec0c387ee7b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/g07.py",
+      "exists": true,
+      "bytes": 1297,
+      "sha256": "66925f5abee4829d005d6e5ba0395f69556efc5d600b35b7369b5fdf73a229ee"
+    },
+    {
+      "path": "liber-primus/data/relikd/p3.jpg",
+      "exists": true,
+      "bytes": 599916,
+      "sha256": "1453ef27ea607c6ea378d6472c908e77c2881caba33c72d1893caddee8dc1117"
+    },
+    {
+      "path": "liber-primus/data/relikd/p7.jpg",
+      "exists": true,
+      "bytes": 580968,
+      "sha256": "91a726a7dd59c6caa4d736b9ce72ceba0a2fa827d6b69a2d4057562b9303636c"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 43722,
+  "finished_utc": "2026-09-16T20:33:24.424199+00:00",
+  "duration_seconds": 0.3210909580011503
+}

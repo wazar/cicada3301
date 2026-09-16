@@ -1,0 +1,73 @@
+{
+  "total_comparisons": 24,
+  "controls": 12,
+  "pairs": [
+    {
+      "page": 3,
+      "header_range": [
+        0,
+        16
+      ],
+      "body_range": [
+        16,
+        119
+      ],
+      "values": [
+        175983131925916239031588,
+        190306888968323362576892
+      ],
+      "targets": {
+        "length": 103,
+        "index_sum": 1592,
+        "prime_sum": 5843,
+        "distinct_count": 27
+      },
+      "matches": []
+    },
+    {
+      "page": 3,
+      "header_range": [
+        119,
+        122
+      ],
+      "body_range": [
+        122,
+        217
+      ],
+      "values": [
+        11602,
+        2362
+      ],
+      "targets": {
+        "length": 95,
+        "index_sum": 1309,
+        "prime_sum": 4740,
+        "distinct_count": 28
+      },
+      "matches": []
+    },
+    {
+      "page": 7,
+      "header_range": [
+        194,
+        208
+      ],
+      "body_range": [
+        0,
+        194
+      ],
+      "values": [
+        237331088889344222821,
+        204943951064085272969
+      ],
+      "targets": {
+        "length": 194,
+        "index_sum": 2881,
+        "prime_sum": 10485,
+        "distinct_count": 29
+      },
+      "matches": []
+    }
+  ],
+  "null_total_hits": 0
+}

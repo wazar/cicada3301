@@ -1,0 +1,22 @@
+{
+  "controls": 10,
+  "null_searches": 990,
+  "tails": [
+    0.01,
+    0.01,
+    0.01,
+    0.01,
+    0.01,
+    0.01,
+    0.01,
+    0.01,
+    0.01,
+    0.01
+  ],
+  "counts": {
+    "nominal": 1260280,
+    "overflow": 958650,
+    "too_short": 76000,
+    "unique_parser_calls": 225630
+  }
+}

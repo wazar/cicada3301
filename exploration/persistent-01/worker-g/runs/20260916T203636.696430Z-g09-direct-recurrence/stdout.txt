@@ -1,0 +1,88 @@
+{
+  "units": [
+    {
+      "page": 3,
+      "range": [
+        16,
+        119
+      ],
+      "cut": 68,
+      "degree": 34,
+      "matches": 0,
+      "n_predictions": 35,
+      "z": -1.118033988749895,
+      "exact_low_order": false
+    },
+    {
+      "page": 3,
+      "range": [
+        122,
+        217
+      ],
+      "cut": 63,
+      "degree": 32,
+      "matches": 0,
+      "n_predictions": 32,
+      "z": -1.0690449676496976,
+      "exact_low_order": false
+    },
+    {
+      "page": 7,
+      "range": [
+        0,
+        194
+      ],
+      "cut": 129,
+      "degree": 65,
+      "matches": 0,
+      "n_predictions": 65,
+      "z": -1.5236235005501102,
+      "exact_low_order": false
+    },
+    {
+      "page": 17,
+      "range": [
+        0,
+        273
+      ],
+      "cut": 182,
+      "degree": 91,
+      "matches": 1,
+      "n_predictions": 91,
+      "z": -1.2282647202130073,
+      "exact_low_order": false
+    },
+    {
+      "page": 3,
+      "range": [
+        0,
+        217
+      ],
+      "cut": 144,
+      "degree": 72,
+      "matches": 1,
+      "n_predictions": 73,
+      "z": -0.9732227014483793,
+      "exact_low_order": false
+    },
+    {
+      "page": 7,
+      "range": [
+        0,
+        208
+      ],
+      "cut": 138,
+      "degree": 69,
+      "matches": 3,
+      "n_predictions": 70,
+      "z": 0.3839908587347318,
+      "exact_low_order": false
+    }
+  ],
+  "exact_controls": 12,
+  "noisy_exact": 0,
+  "null_tails": {
+    "permutation": 0.8905472636815921,
+    "no_adjacent_repeat": 0.9054726368159204
+  }
+}

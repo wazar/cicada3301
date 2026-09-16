@@ -1,0 +1,70 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-g/g02.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e4135f67d63be8b96f785ee59510dbce2f4f6207",
+  "started_utc": "2026-09-16T20:25:26.232977+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/G02-CARD.md",
+      "exists": true,
+      "bytes": 1415,
+      "sha256": "1d50d536099cd29c03ab3865bb004be87f4960078005e30395536500754e3e34"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/g01.py",
+      "exists": true,
+      "bytes": 2612,
+      "sha256": "2c8a9691e6251f257df135d551fe2612a59936863832cf216837b8105837c725"
+    },
+    {
+      "path": "exploration/persistent-01/worker-g/g02.py",
+      "exists": true,
+      "bytes": 1473,
+      "sha256": "15416b8bc92c4eddb35a2a74cb8f6bd3d1af26c166a45ce8fbe994b100fbd366"
+    },
+    {
+      "path": "liber-primus/data/relikd/p17.jpg",
+      "exists": true,
+      "bytes": 541530,
+      "sha256": "f123b66eefa1b4409750c5ea3879bfe64728c6aa1e1398cb8fbd0fa8b1cf1f50"
+    },
+    {
+      "path": "liber-primus/data/relikd/p3.jpg",
+      "exists": true,
+      "bytes": 599916,
+      "sha256": "1453ef27ea607c6ea378d6472c908e77c2881caba33c72d1893caddee8dc1117"
+    },
+    {
+      "path": "liber-primus/data/relikd/p7.jpg",
+      "exists": true,
+      "bytes": 580968,
+      "sha256": "91a726a7dd59c6caa4d736b9ce72ceba0a2fa827d6b69a2d4057562b9303636c"
+    }
+  ],
+  "outcome": "NONZERO",
+  "exit_code": 1,
+  "pid": 43286,
+  "finished_utc": "2026-09-16T20:25:26.618663+00:00",
+  "duration_seconds": 0.3854605000014999
+}

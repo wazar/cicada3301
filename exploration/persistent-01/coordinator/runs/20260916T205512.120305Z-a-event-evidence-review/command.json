@@ -1,0 +1,112 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/coordinator/review_a_event.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "f38c050f905397e0d7115014c81e1aa88f84abde",
+  "started_utc": "2026-09-16T20:55:12.164095+00:00",
+  "timeout_seconds": 120,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/check_finite_guard.py",
+      "exists": true,
+      "bytes": 1880,
+      "sha256": "c22ea15006eefbc4b1801516f5aba2edae033468c7829b50ba69f9b533b3f483"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/layout_color.py",
+      "exists": true,
+      "bytes": 1607,
+      "sha256": "c68b094a4fccb856cbba538cd3700392fd4f46108df8c43c626253c90beb0859"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/review_a_event.py",
+      "exists": true,
+      "bytes": 4315,
+      "sha256": "d4718c9698d30376c8e7e9d69e45c0c8ac604c0bf9ced077f6a2e451b4954d9e"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/review_a_tables.py",
+      "exists": true,
+      "bytes": 1713,
+      "sha256": "202354cd77a1e946dd52544f84c3b89c8016d1631501bbef148da1c9ea5e5c9b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/review_c5.py",
+      "exists": true,
+      "bytes": 2727,
+      "sha256": "ad6e2226b07af50e8cfc27e5a83c82557ef765543ab5736e47ee595bc987a447"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/review_c6_parsers.py",
+      "exists": true,
+      "bytes": 2806,
+      "sha256": "775c56119dec03eea67f8eacf664180f6e3fe9cafab0145d6a94abb232719763"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/running_scope.py",
+      "exists": true,
+      "bytes": 1795,
+      "sha256": "7f543c4591bde7a926991c45da4250d8d05f2dce2b60747b3d8e5e6c08b93694"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-a/event-clock/controls-results.json",
+      "exists": true,
+      "bytes": 26773149,
+      "sha256": "503495bfcb043f4909dfac5a52652764b63db653810e261ae4d6144bc627f3e3"
+    },
+    {
+      "path": "exploration/persistent-01/worker-a/event-clock/pilot-results.json",
+      "exists": true,
+      "bytes": 16118386,
+      "sha256": "41608d7060aa988753505aeb019e9aa7a4c142dc3f43094d3a0e17b1c52912f3"
+    },
+    {
+      "path": "exploration/persistent-01/worker-a/event-clock/representability.json",
+      "exists": true,
+      "bytes": 52693,
+      "sha256": "cd38fef93705102f084cf71d7c17db1329bb3dcea0b9626fc22c8182f9f7c896"
+    },
+    {
+      "path": "exploration/persistent-01/worker-a/field-reset/controls-results.json",
+      "exists": true,
+      "bytes": 23452167,
+      "sha256": "6c1c70afc5637f2f757e679e2cc06a876259d00a76a215ce13c5987ae5358ba8"
+    },
+    {
+      "path": "exploration/persistent-01/worker-a/field-reset/pilot-results.json",
+      "exists": true,
+      "bytes": 23455357,
+      "sha256": "6f7a53cc80e1abbf1bf41dbaa8a8bee35294d29e8fcc7ebecf81af771ab4cb51"
+    },
+    {
+      "path": "exploration/persistent-01/worker-a/publication/cycle2/manifest.json",
+      "exists": true,
+      "bytes": 70401,
+      "sha256": "9d3ca423c9a445d69a448c844c1c73bd078da63667015e927f9145a5fd06411f"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 46451,
+  "finished_utc": "2026-09-16T20:55:12.839444+00:00",
+  "duration_seconds": 0.6750714160007192
+}

@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/worker-h/h01.py", line 43, in <module>
+    gate();j=1000;pi=next(i for i,z in enumerate(seqs) if len(z)>=70);planted=[z[:] for z in seqs];planted[pi][5:65]=x[j:j+60];best,hits=scan(planted,True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+StopIteration

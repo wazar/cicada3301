@@ -1,0 +1,5 @@
+# A event-clock evidence review
+
+A narrow review of the completed alternative feedback experiment, not a new search or general audit. Independently reconstruct every retained full, selected-prefix and frozen-continuation path from saved primer, plaintext, skip counts and field resets. Check exact ciphertext, final queue and draw counts without importing A's decoder. Recompute accepted-output pointer reachability using one-draw rejection/acceptance transitions for four planted truths under causal and known-future semantics. Compare all saved position sets and first incompatible witnesses. The soft rejection model permits accepting a repeat; only rejected draws require equality with previous output.
+
+Validate the immutable cycle2 archive byte hashes and lossless decompression. This establishes evidence consistency and a bounded transition mismatch, not actual cipher identity or statistical significance. It does not rerun key search or infer another negative. Input files and reviewer code are pinned by run_logged.py; raw original results remain unchanged.

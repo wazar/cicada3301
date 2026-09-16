@@ -171,14 +171,14 @@
   },
   {
     "id": "P11",
-    "status": "deferred_strategy_change",
+    "status": "assigned",
     "title": "Integer totient literal-F gap under two adjudicators",
-    "owner": "worker-a",
+    "owner": "persistent_i",
     "input": "Discovery pages; phi(1),phi(2),...; explicit solved SOME WISDOM says totient function is sacred",
     "first_step": "Reuse pinned integer-totient array from R03; freeze offsets0..127/signs and remove any prior F cells; planted search recovery then real sweep with English and frozen rune model",
     "expected_cost": "Pilot then <=900-second batches",
     "decision": "Does literal-F handling expose a source-justified numeric key missed by rigid R03? Limits: English and small solved-rune register only.",
-    "reason": "outside-box-v1 reserves two lanes for materially different explanations; do not auto-execute old additive queue"
+    "reason": "Image family checkpointed. Return one lane to a documented arithmetic coverage gap while two alternative-operation lanes continue."
   },
   {
     "id": "P02c",
@@ -380,32 +380,55 @@
   },
   {
     "id": "OB-GLYPH",
-    "status": "assigned",
+    "status": "completed_cycle",
     "owner": "persistent_i",
     "title": "Omitted glyph geometric substates",
     "input": "Actual discovery images0/1 only",
     "first_step": "Freeze geometric/baseline mechanisms, extract count-matched glyphs with exactcoordinates and raster controls; predict within-glyph held instances",
     "expected_cost": "Bounded <=900s logged batch",
-    "decision": "Does an extra discrete glyph state survive ordinary typography/raster explanations?"
+    "decision": "Does an extra discrete glyph state survive ordinary typography/raster explanations?",
+    "result": "No >=4px binary geometry state in measured components. Pixel-column rule8/138repeats; only18% suppression-control detection, no route exclusion."
   },
   {
     "id": "OB-LENGTH-BINARY",
-    "status": "assigned",
+    "status": "completed",
     "owner": "persistent_h",
     "title": "Explicit unit length as structured binary carrier",
     "input": "Frozen F06 discovery units, only physical contiguous fields",
     "first_step": "Freeze parity/mod5 packing and complete checksummed formats; injected payload controls and actual matchednull tests",
     "expected_cost": "Bounded <=900s logged batch",
-    "decision": "Does another carrier yield complete valid structured objects, not printable fragments?"
+    "decision": "Does another carrier yield complete valid structured objects, not printable fragments?",
+    "result": "1260realcells/216uniqueeligiblebytes, zeroobjects;999nullszero;10plantsrecover. No longerfieldfollowup because actual numberedfields are shorter."
   },
   {
     "id": "OB-STATE-SUB",
-    "status": "assigned",
+    "status": "completed",
     "owner": "persistent_j",
     "title": "Ciphertext-conditioned finite-state substitution",
     "input": "Discovery0/1/3/7/17 or config discovery only",
     "first_step": "Freeze small invertible recipe and second structural prediction; test source controls and held-continuation predictions",
     "expected_cost": "Bounded <=900s logged batch",
-    "decision": "Can nonadditive state substitution account for both repeat deficit and another observed dependency?"
+    "decision": "Can nonadditive state substitution account for both repeat deficit and another observed dependency?",
+    "result": "Swap-to-anchor prefix-frequency forecast negative, wholeproceduretail.751;18controlsdetected,26034quotientchecks."
+  },
+  {
+    "id": "H14",
+    "status": "assigned",
+    "owner": "persistent_h",
+    "title": "Closed-cycle unit construction",
+    "input": "F06 units >=3runes",
+    "first_step": "Compare last-first closure equality with wholepage cyclic schedule null and open/closed construction controls",
+    "expected_cost": "<=900s",
+    "decision": "Does suppressed closure provide a second prediction beyond linearrepeatdeficit?"
+  },
+  {
+    "id": "J03",
+    "status": "assigned",
+    "owner": "persistent_j",
+    "title": "Latin-source homophone capacity sensitivity",
+    "input": "Frozen solved sources, canonical Gematria Latin expansion",
+    "first_step": "Map Latin characters to source rune indices; rerun exact29slot integer capacity bound, named-source model controls",
+    "expected_cost": "<=900s",
+    "decision": "Is rune-register capacity obstruction an artifact of source units?"
   }
 ]

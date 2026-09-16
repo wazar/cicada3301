@@ -1,0 +1,99 @@
+{
+  "controls": {
+    "left_columns": true,
+    "left_snake": true,
+    "right_columns": true,
+    "right_snake": true,
+    "boustrophedon": true,
+    "mirror_row_pairs": true
+  },
+  "pages": {
+    "3": {
+      "ordinary": 3,
+      "routes": {
+        "left_columns": {
+          "repeats": 7,
+          "lower_tail": 0.679160419790105
+        },
+        "left_snake": {
+          "repeats": 8,
+          "lower_tail": 0.8205897051474262
+        },
+        "right_columns": {
+          "repeats": 6,
+          "lower_tail": 0.5337331334332833
+        },
+        "right_snake": {
+          "repeats": 7,
+          "lower_tail": 0.7011494252873564
+        },
+        "boustrophedon": {
+          "repeats": 3,
+          "lower_tail": 0.7596201899050474
+        },
+        "mirror_row_pairs": {
+          "repeats": 3,
+          "lower_tail": 0.7521239380309845
+        }
+      }
+    },
+    "7": {
+      "ordinary": 0,
+      "routes": {
+        "left_columns": {
+          "repeats": 9,
+          "lower_tail": 0.8010994502748626
+        },
+        "left_snake": {
+          "repeats": 9,
+          "lower_tail": 0.8710644677661169
+        },
+        "right_columns": {
+          "repeats": 8,
+          "lower_tail": 0.7016491754122939
+        },
+        "right_snake": {
+          "repeats": 7,
+          "lower_tail": 0.671664167916042
+        },
+        "boustrophedon": {
+          "repeats": 0,
+          "lower_tail": 0.7261369315342329
+        },
+        "mirror_row_pairs": {
+          "repeats": 1,
+          "lower_tail": 0.9635182408795602
+        }
+      }
+    },
+    "17": {
+      "ordinary": 0,
+      "routes": {
+        "left_columns": {
+          "repeats": 7,
+          "lower_tail": 0.28785607196401797
+        },
+        "left_snake": {
+          "repeats": 7,
+          "lower_tail": 0.37881059470264866
+        },
+        "right_columns": {
+          "repeats": 8,
+          "lower_tail": 0.43728135932033985
+        },
+        "right_snake": {
+          "repeats": 7,
+          "lower_tail": 0.39730134932533734
+        },
+        "boustrophedon": {
+          "repeats": 1,
+          "lower_tail": 0.9575212393803099
+        },
+        "mirror_row_pairs": {
+          "repeats": 1,
+          "lower_tail": 0.9315342328835582
+        }
+      }
+    }
+  }
+}

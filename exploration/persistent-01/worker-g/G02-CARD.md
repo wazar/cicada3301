@@ -1,0 +1,7 @@
+# G02 — red ink as a secondary intensity carrier
+
+Assumption challenged: visible red roles exhaust the chromatic channel. Alternative: red glyph ink contains a second binary intensity alphabet discarded by rune transcription. Motive: actual red glyphs on p3 and p7 versus all-black p17. This is a cheap explicit extension of the second mechanism, not a claim of a clue requiring two shades.
+
+Exact operation: on only pinned images3/7/17, select saturated red pixels R>100, R>G+80, R>B+80, G<90, B<90, then require their complete 5x5 neighborhood also red to suppress JPEG/boundary pixels. Partition image into fixed32x32 native pixel tiles, retain tiles with >=40 interior red pixels. Persist coordinates, counts and RGB medians. Detector: difference between90th and10th percentile of tile-median R exceeds20/255. Control plants alternating tile red intensities160/220 with zero G/B in selected interiors; negative constant190/0/0. This tests a strong intensity alphabet, not steganography in general, hue-only encodings, subpixel signals, or artwork/position channels. Constant threshold and tiles fixed before run; no text score, key, additive pad, reserved data or guessed glyph.
+
+Next two jobs: G03 check physically aligned rune columns using source text widths against actual row boundaries; G04 test exact red-stream unit extraction once pixel ranges establish mapping (do not duplicate F separator tests).

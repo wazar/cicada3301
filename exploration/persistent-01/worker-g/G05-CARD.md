@@ -1,0 +1,7 @@
+# G05 — five-dot artwork as an ordering/geometry cue
+
+Different source component after no useful red result: actual viewed p7 lower margin contains five large black dots, native image approximate rectangle x650..1700,y2750..3250. Hypothesis: an explicit regular five-position cycle could specify cyclic order for a five-way operation; it predicts approximate cocircularity and equal angular spacing. Extract only dark connected components>=200 pixels in that frozen rectangle. Coordinates and masks remain image-derived; no named constellation, rune assignment, invented connection or additional page imagery.
+
+Test: fit unconstrained circle by linear least squares and fit regular pentagon to angle-sorted dot centers by centered complex least squares (both orientations). Require normalized RMS<=0.05, fixed before run. Positive control five ideal regular vertices; negative one displaced vertex. These geometry tests do not identify intention; circles need not represent cycles and an irregular five-point cue could still matter. No random-search p-value claimed. Exact native pixel component bounds/centers preserved. If regular geometry fails, do not force a named astronomical or numerological identification.
+
+Next two actions: map exact ornamental mirror shape via reflected mask correlation to determine whether same asset is reused (source-level control for reading-direction proposal); rotate to a different problem representation after coordinator comparison of G01–G05, with no additional arbitrary red/geometry transforms.

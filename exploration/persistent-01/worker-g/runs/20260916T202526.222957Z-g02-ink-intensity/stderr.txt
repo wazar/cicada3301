@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/worker-g/g02.py", line 14, in <module>
+    f=ROOT/f'liber-primus/data/relikd/p{p}.jpg';a=np.asarray(Image.open(f)).astype('int16');r,g,b=a.transpose(2,0,1)
+                                                                                                  ^^^^^^^^^^^^^^^^^^
+ValueError: axes don't match array

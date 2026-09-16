@@ -19,5 +19,19 @@
     "original_sha256": "2ed76be269df012a8c0f1d221f5907fd3072b47de63c6e6194d7d83a6b6014f7",
     "published_sha256": "53bfdf3fb8d90bb98d944b685c4fb7796b5c2e5c883755191668502d69306542",
     "change": "Only local checkout prefix normalized; original retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-g/runs/20260916T202526.222957Z-g02-ink-intensity/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-g/runs/20260916T202526.222957Z-g02-ink-intensity/stderr.txt",
+    "original_sha256": "12b469aec2ac0a1648e272f27f234aa68c95a8dacd62b59ccf4d1f2196eeab38",
+    "published_sha256": "e0c3dff4a3a1086a9bcb5b469c718d493ba66cfa9fd87556e1537295b7faf621",
+    "change": "Only local checkout prefix normalized; raw original retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T203716.441733Z-h01-mabinogion-signatures/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-h/runs/20260916T203716.441733Z-h01-mabinogion-signatures/stderr.txt",
+    "original_sha256": "4d5b84894ed515749b3a1c867e4b1f85fc77cce2963c081383d4144f6d7ada69",
+    "published_sha256": "85b8828015efe5bfa5ac5ed1736a401a2a831bbbee3592b620964665953d1883",
+    "change": "Only local checkout prefix normalized in a new public archive; original source and earlier immutable archive retained."
   }
 ]

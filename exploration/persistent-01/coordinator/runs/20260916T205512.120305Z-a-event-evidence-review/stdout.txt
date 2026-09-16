@@ -1,0 +1,106 @@
+{
+  "retained_paths_reencrypted": 9734,
+  "rune_visits": 2216272,
+  "search_rows": 30,
+  "full_hypotheses_represented": 960,
+  "search_not_rerun": true,
+  "controls": [
+    {
+      "source": "audit/parallel-01/reference/sources/solved_0_welcome.txt",
+      "page": null,
+      "model": "event-clock",
+      "exact_search_recovery": true
+    },
+    {
+      "source": "audit/parallel-01/reference/sources/solved_jpg107-167.txt",
+      "page": null,
+      "model": "event-clock",
+      "exact_search_recovery": true
+    },
+    {
+      "source": "audit/parallel-01/reference/sources/solved_p56_an_end.txt",
+      "page": null,
+      "model": "event-clock",
+      "exact_search_recovery": true
+    },
+    {
+      "source": "audit/parallel-01/reference/sources/solved_p57_parable.txt",
+      "page": null,
+      "model": "event-clock",
+      "exact_search_recovery": true
+    },
+    {
+      "source": null,
+      "page": 3,
+      "model": "source13_reset",
+      "exact_search_recovery": true
+    },
+    {
+      "source": null,
+      "page": 7,
+      "model": "source13_reset",
+      "exact_search_recovery": true
+    }
+  ],
+  "pointer_witnesses": [
+    {
+      "source": "audit/parallel-01/reference/sources/solved_0_welcome.txt",
+      "accepted_output_causal": {
+        "first_impossible": 14,
+        "previous_pointer_set": [
+          14
+        ]
+      },
+      "accepted_output_known_future": {
+        "first_impossible": 14,
+        "previous_pointer_set": [
+          14
+        ]
+      }
+    },
+    {
+      "source": "audit/parallel-01/reference/sources/solved_jpg107-167.txt",
+      "accepted_output_causal": {
+        "first_impossible": 9,
+        "previous_pointer_set": [
+          9
+        ]
+      },
+      "accepted_output_known_future": {
+        "first_impossible": 9,
+        "previous_pointer_set": [
+          9
+        ]
+      }
+    },
+    {
+      "source": "audit/parallel-01/reference/sources/solved_p56_an_end.txt",
+      "accepted_output_causal": {
+        "first_impossible": 17,
+        "previous_pointer_set": [
+          17
+        ]
+      },
+      "accepted_output_known_future": {
+        "first_impossible": 17,
+        "previous_pointer_set": [
+          17
+        ]
+      }
+    },
+    {
+      "source": "audit/parallel-01/reference/sources/solved_p57_parable.txt",
+      "accepted_output_causal": {
+        "first_impossible": null,
+        "previous_pointer_set": null
+      },
+      "accepted_output_known_future": {
+        "first_impossible": null,
+        "previous_pointer_set": null
+      }
+    }
+  ],
+  "archive_files": 116,
+  "archive_bytes": 2640168,
+  "scope": "Independent arithmetic replay only. Search rank comes from saved ordered outputs; no statistical or real-solution claim."
+}

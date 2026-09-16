@@ -1,0 +1,9 @@
+# G03 — red glyphs form a distinct alphabetic role
+
+Actual image and transcription correspondence: p3 native top heading plus enlarged initial (x600–1560,y665–1170) corresponds offsets0..15 inclusive; its lower enlarged initial and two red runes (x600–923,y2090–2600) correspond119..121. In p7 the entirely red footer (x715–1680,y2435–2580) corresponds194..207. These exact source rune selections are manual image-backed observations; red paragraph artwork is not counted as a rune. Black and red body contents are never inferred from pixel OCR.
+
+Hypothesis: red is a secondary control alphabet with a different marginal rune distribution from black text, rather than merely a colored part of one alphabet stream. Test source-index distributions with likelihood-ratio independence statistic across pages3 and7, conditioning on page and red counts. Null circularly rotates the complete fixed red-role mask independently per page (10000 replicates), preserving red cluster lengths and each page stream. Explicit typography caveat: any positive association could be heading/text role or enlarged initials, not a cryptographic instruction. No width/line-start causal claim.
+
+Positive control replaces selected red positions with a single rune, leaving black unchanged; its matched circular-mask statistic must give tail<=.01. Negative controls are the actual complete masks shifts; real result exploratory only, not a solve. Preserves full red/black rune arrays, source character coordinates and null scores. No additive key or language score. Changed assumption from G02: categorical ink role, not ink shade.
+
+Next two executable actions: exact red/body adjacent-transition comparison under same mask shifts if categorical role is positive; otherwise shift to an explicitly specified non-language checksum/intermediate-output representation on discovery input, after checking existing C/E scope.

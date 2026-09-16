@@ -1,0 +1,35 @@
+H01 null element 10
+{
+  "H01": {
+    "tail": 0.186,
+    "nulls": 999
+  },
+  "H03": {
+    "tail": 0.3773,
+    "nulls": 9999
+  },
+  "H05": {
+    "tail": 0.513,
+    "nulls": 1999
+  },
+  "H06": {
+    "tail": 0.0005,
+    "nulls": 1999
+  },
+  "H07": {
+    "tail": 0.056,
+    "nulls": 999
+  },
+  "H10": {
+    "counts": {
+      "nominal": 1260,
+      "overflow": 968,
+      "too_short": 76
+    },
+    "unique_bytes": 216,
+    "hits": [],
+    "record_sha256": "755e193c48b821d6bca707454e761f4966bf480a65cbcc86a0db21ab614f6443"
+  },
+  "archive_files": 104,
+  "limits": "Saved-tail recount, independent packing/CRC and same standard-library parser APIs. No null regeneration, no complete source authenticity/transcription audit; not strong independence from common library behavior."
+}

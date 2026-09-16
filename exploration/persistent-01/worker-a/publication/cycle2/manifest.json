@@ -1,0 +1,1056 @@
+{
+  "frozen_utc": "2026-09-16T20:48:55.601775+00:00",
+  "strategy": "outside-box-v1",
+  "experiments": [
+    "EVENT-CLOCK-01",
+    "FIELD-RESET-01",
+    "CLOCK-REPRESENTABILITY-01"
+  ],
+  "note": "Immutable publication copies; source files preserved. Existing gzip score files copied verbatim, not recompressed. No larger feedback keyspace executed; structural replay is labeled postpilot.",
+  "files": [
+    {
+      "source": "exploration/persistent-01/worker-a/CARD-CLOCK-REPRESENTABILITY-01.md",
+      "source_sha256": "7f9cf55b97634c686b609103c41c94412d08906b3630ba0e97e8f0561652f7a1",
+      "source_bytes": 1394,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/CARD-CLOCK-REPRESENTABILITY-01.md",
+      "publication_sha256": "7f9cf55b97634c686b609103c41c94412d08906b3630ba0e97e8f0561652f7a1",
+      "publication_bytes": 1394,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/CARD-EVENT-CLOCK-01.md",
+      "source_sha256": "f7272f43d41e37c0d7a7b46db2590264b66496b5cc99cbc874faeba8f4aceafb",
+      "source_bytes": 3829,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/CARD-EVENT-CLOCK-01.md",
+      "publication_sha256": "f7272f43d41e37c0d7a7b46db2590264b66496b5cc99cbc874faeba8f4aceafb",
+      "publication_bytes": 3829,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/CARD-FIELD-RESET-01.md",
+      "source_sha256": "980863e441c7d94c05e858a4ee3488c473a60587ccd41ee183fcef3d586578a4",
+      "source_bytes": 2632,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/CARD-FIELD-RESET-01.md",
+      "publication_sha256": "980863e441c7d94c05e858a4ee3488c473a60587ccd41ee183fcef3d586578a4",
+      "publication_bytes": 2632,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/EVENT-CLOCK-RESULTS.md",
+      "source_sha256": "1d1b61c3cfeafb48535744fb7560c61344f0e2ed67091009f300314b33e4f0a2",
+      "source_bytes": 4762,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/EVENT-CLOCK-RESULTS.md",
+      "publication_sha256": "1d1b61c3cfeafb48535744fb7560c61344f0e2ed67091009f300314b33e4f0a2",
+      "publication_bytes": 4762,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/clock_representability.py",
+      "source_sha256": "85f0b76f319b720b24aa3136f0cdc11b28f3df88dee62c94b9ad0dca2739fabb",
+      "source_bytes": 2099,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/clock_representability.py",
+      "publication_sha256": "85f0b76f319b720b24aa3136f0cdc11b28f3df88dee62c94b9ad0dca2739fabb",
+      "publication_bytes": 2099,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/event-clock/checks-and-replay-stats.json",
+      "source_sha256": "da0c5bced9a73d8fabac33adb77f37eb3564b70d59529f47eb2b78decf24ba59",
+      "source_bytes": 249938,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/event-clock/checks-and-replay-stats.json.gz",
+      "publication_sha256": "e7312457dc56e48836bb76210d89ed95903abd1f3f500382aab4858234ad0c6b",
+      "publication_bytes": 11330,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/event-clock/controls-results.json",
+      "source_sha256": "503495bfcb043f4909dfac5a52652764b63db653810e261ae4d6144bc627f3e3",
+      "source_bytes": 26773149,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/event-clock/controls-results.json.gz",
+      "publication_sha256": "078e8f8ccc29895dbadd2252e680efd01cdefe4a438922576f529613506fcab8",
+      "publication_bytes": 599974,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/event-clock/first-incompatible-witnesses.json",
+      "source_sha256": "9101299608b7ee8efaefe6cd962ba564bbc00d8b66fdd26da55a760abfbab001",
+      "source_bytes": 11362,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/event-clock/first-incompatible-witnesses.json",
+      "publication_sha256": "9101299608b7ee8efaefe6cd962ba564bbc00d8b66fdd26da55a760abfbab001",
+      "publication_bytes": 11362,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/event-clock/pilot-results.json",
+      "source_sha256": "41608d7060aa988753505aeb019e9aa7a4c142dc3f43094d3a0e17b1c52912f3",
+      "source_bytes": 16118386,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/event-clock/pilot-results.json.gz",
+      "publication_sha256": "9c89fd10cc474ff27a5abab7a3e84841078af410b5429f963f1007dcac6f73d5",
+      "publication_bytes": 370614,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/event-clock/representability.json",
+      "source_sha256": "cd38fef93705102f084cf71d7c17db1329bb3dcea0b9626fc22c8182f9f7c896",
+      "source_bytes": 52693,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/event-clock/representability.json.gz",
+      "publication_sha256": "3c4b499707168c926f81c347fdade1988db274079286e2a0c875b3338f51af08",
+      "publication_bytes": 2449,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/event-clock/seed-bound.json",
+      "source_sha256": "f010e90abd5afb54ba557d466ff30ce08db6806a9ad35f1a914f99f73a8a9d07",
+      "source_bytes": 4569,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/event-clock/seed-bound.json",
+      "publication_sha256": "f010e90abd5afb54ba557d466ff30ce08db6806a9ad35f1a914f99f73a8a9d07",
+      "publication_bytes": 4569,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/event_checks.py",
+      "source_sha256": "7a8c53a8bd612d59fd0a84f2d90ecd0870098cec890209b804ad844b93a82d25",
+      "source_bytes": 2576,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/event_checks.py",
+      "publication_sha256": "7a8c53a8bd612d59fd0a84f2d90ecd0870098cec890209b804ad844b93a82d25",
+      "publication_bytes": 2576,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/event_clock.py",
+      "source_sha256": "518bb77dad0f436e32c4b0679ec84c1014312ca91b069c6732b17ac323d426ab",
+      "source_bytes": 7132,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/event_clock.py",
+      "publication_sha256": "518bb77dad0f436e32c4b0679ec84c1014312ca91b069c6732b17ac323d426ab",
+      "publication_bytes": 7132,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/field-reset/controls-results.json",
+      "source_sha256": "6c1c70afc5637f2f757e679e2cc06a876259d00a76a215ce13c5987ae5358ba8",
+      "source_bytes": 23452167,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/field-reset/controls-results.json.gz",
+      "publication_sha256": "52a3e0515b80b2d81962152164f0670d5e1c2d89f4dfeb43bcafb301db99a4d3",
+      "publication_bytes": 526168,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/field-reset/page17-reused.json",
+      "source_sha256": "2c543e32732a072e4b4d491d1f5024389436cac5254fa77d9c1290f92fdf4eb9",
+      "source_bytes": 7527228,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/field-reset/page17-reused.json.gz",
+      "publication_sha256": "4e3c0470eef3312d7d71430cfa6436f5d1527963588ee36717c9eeb4539b6070",
+      "publication_bytes": 171557,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/field-reset/pilot-results.json",
+      "source_sha256": "6f7a53cc80e1abbf1bf41dbaa8a8bee35294d29e8fcc7ebecf81af771ab4cb51",
+      "source_bytes": 23455357,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/field-reset/pilot-results.json.gz",
+      "publication_sha256": "f002cb45e07c3ff27aa8cccb48e5764ab8e6c44ec7261f0ad5ecb02c20033b31",
+      "publication_bytes": 533345,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/field_reset.py",
+      "source_sha256": "3e39b6c372e2fa48df878451d86401eb5f3df2c7ee0d409356cf6e2b04ddd337",
+      "source_bytes": 7267,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/field_reset.py",
+      "publication_sha256": "3e39b6c372e2fa48df878451d86401eb5f3df2c7ee0d409356cf6e2b04ddd337",
+      "publication_bytes": 7267,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/overnight-01/worker-a/clues.py",
+      "source_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "source_bytes": 5140,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/overnight-01/worker-a/clues.py",
+      "publication_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "publication_bytes": 5140,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/overnight-01/worker-a/search.py",
+      "source_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "source_bytes": 8361,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/overnight-01/worker-a/search.py",
+      "publication_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "publication_bytes": 8361,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/persistent-01/run_logged.py",
+      "source_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "source_bytes": 3045,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/persistent-01/run_logged.py",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_bytes": 3045,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "source_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "source_bytes": 2719,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "publication_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "publication_bytes": 2719,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/persistent-01/worker-a/event_clock.py",
+      "source_sha256": "9270017eb4306c0ca940693b7542a2dfa7f35f1bc7c46f7d8817d08b88f5721a",
+      "source_bytes": 7068,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/persistent-01/worker-a/event_clock.py",
+      "publication_sha256": "9270017eb4306c0ca940693b7542a2dfa7f35f1bc7c46f7d8817d08b88f5721a",
+      "publication_bytes": 7068,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/persistent-01/worker-a/p01.py",
+      "source_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "source_bytes": 3812,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/persistent-01/worker-a/p01.py",
+      "publication_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "publication_bytes": 3812,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/persistent-01/worker-a/p04.py",
+      "source_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "source_bytes": 2439,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/persistent-01/worker-a/p04.py",
+      "publication_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "publication_bytes": 2439,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/persistent-01/worker-a/p07.py",
+      "source_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "source_bytes": 3702,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/persistent-01/worker-a/p07.py",
+      "publication_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "publication_bytes": 3702,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/persistent-01/worker-a/p10.py",
+      "source_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "source_bytes": 3957,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/persistent-01/worker-a/p10.py",
+      "publication_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "publication_bytes": 3957,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/persistent-01/worker-a/p12.py",
+      "source_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "source_bytes": 4001,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/persistent-01/worker-a/p12.py",
+      "publication_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "publication_bytes": 4001,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/persistent-01/worker-a/publish_cycle1.py",
+      "source_sha256": "2476dda45add09d39373de5702ab4f146a0a2af59895ac546cb005cbe03f3a9c",
+      "source_bytes": 2409,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/persistent-01/worker-a/publish_cycle1.py",
+      "publication_sha256": "2476dda45add09d39373de5702ab4f146a0a2af59895ac546cb005cbe03f3a9c",
+      "publication_bytes": 2409,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/persistent-01/worker-a/replay.py",
+      "source_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "source_bytes": 1253,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203509.338020Z-event-clock-controls/code/exploration/persistent-01/worker-a/replay.py",
+      "publication_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "publication_bytes": 1253,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203509.338020Z-event-clock-controls/code/liber-primus/analysis/campaign18_skip/armada2/autokey_skip.py",
+      "source_sha256": "c13f1f4c1edda97a15c8be33f8ceb41cd633a7bb6cf0cc623c08134fe04fc737",
+      "source_bytes": 14957,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203509.338020Z-event-clock-controls/code/liber-primus/analysis/campaign18_skip/armada2/autokey_skip.py",
+      "publication_sha256": "c13f1f4c1edda97a15c8be33f8ceb41cd633a7bb6cf0cc623c08134fe04fc737",
+      "publication_bytes": 14957,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203509.338020Z-event-clock-controls/code/liber-primus/analysis/campaign18_skip/skipdecode.py",
+      "source_sha256": "74c47d170a9cb1966ff78d7448f6081dfab3bcc928f032603add3f76dae2e1ff",
+      "source_bytes": 9124,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203509.338020Z-event-clock-controls/code/liber-primus/analysis/campaign18_skip/skipdecode.py",
+      "publication_sha256": "74c47d170a9cb1966ff78d7448f6081dfab3bcc928f032603add3f76dae2e1ff",
+      "publication_bytes": 9124,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203509.338020Z-event-clock-controls/command.json",
+      "source_sha256": "f05f6c423ab569d484ea7f588de5a7e801c9af6946e9c8c7edeedfd5b01335b8",
+      "source_bytes": 5262,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203509.338020Z-event-clock-controls/command.json",
+      "publication_sha256": "f05f6c423ab569d484ea7f588de5a7e801c9af6946e9c8c7edeedfd5b01335b8",
+      "publication_bytes": 5262,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203509.338020Z-event-clock-controls/stderr.txt",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_bytes": 0,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203509.338020Z-event-clock-controls/stderr.txt",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_bytes": 0,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203509.338020Z-event-clock-controls/stdout.txt",
+      "source_sha256": "7edb71e97d2680cdf1779daa682cd33786872eebdbff4a47172d1a6dbc9902c4",
+      "source_bytes": 1257,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203509.338020Z-event-clock-controls/stdout.txt",
+      "publication_sha256": "7edb71e97d2680cdf1779daa682cd33786872eebdbff4a47172d1a6dbc9902c4",
+      "publication_bytes": 1257,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/overnight-01/worker-a/clues.py",
+      "source_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "source_bytes": 5140,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/overnight-01/worker-a/clues.py",
+      "publication_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "publication_bytes": 5140,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/overnight-01/worker-a/search.py",
+      "source_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "source_bytes": 8361,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/overnight-01/worker-a/search.py",
+      "publication_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "publication_bytes": 8361,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/persistent-01/run_logged.py",
+      "source_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "source_bytes": 3045,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/persistent-01/run_logged.py",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_bytes": 3045,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "source_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "source_bytes": 2719,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "publication_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "publication_bytes": 2719,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/persistent-01/worker-a/event_clock.py",
+      "source_sha256": "9270017eb4306c0ca940693b7542a2dfa7f35f1bc7c46f7d8817d08b88f5721a",
+      "source_bytes": 7068,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/persistent-01/worker-a/event_clock.py",
+      "publication_sha256": "9270017eb4306c0ca940693b7542a2dfa7f35f1bc7c46f7d8817d08b88f5721a",
+      "publication_bytes": 7068,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/persistent-01/worker-a/p01.py",
+      "source_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "source_bytes": 3812,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/persistent-01/worker-a/p01.py",
+      "publication_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "publication_bytes": 3812,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/persistent-01/worker-a/p04.py",
+      "source_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "source_bytes": 2439,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/persistent-01/worker-a/p04.py",
+      "publication_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "publication_bytes": 2439,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/persistent-01/worker-a/p07.py",
+      "source_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "source_bytes": 3702,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/persistent-01/worker-a/p07.py",
+      "publication_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "publication_bytes": 3702,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/persistent-01/worker-a/p10.py",
+      "source_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "source_bytes": 3957,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/persistent-01/worker-a/p10.py",
+      "publication_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "publication_bytes": 3957,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/persistent-01/worker-a/p12.py",
+      "source_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "source_bytes": 4001,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/persistent-01/worker-a/p12.py",
+      "publication_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "publication_bytes": 4001,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/persistent-01/worker-a/publish_cycle1.py",
+      "source_sha256": "2476dda45add09d39373de5702ab4f146a0a2af59895ac546cb005cbe03f3a9c",
+      "source_bytes": 2409,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/persistent-01/worker-a/publish_cycle1.py",
+      "publication_sha256": "2476dda45add09d39373de5702ab4f146a0a2af59895ac546cb005cbe03f3a9c",
+      "publication_bytes": 2409,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/persistent-01/worker-a/replay.py",
+      "source_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "source_bytes": 1253,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203609.039917Z-event-clock-real-pilot/code/exploration/persistent-01/worker-a/replay.py",
+      "publication_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "publication_bytes": 1253,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203609.039917Z-event-clock-real-pilot/command.json",
+      "source_sha256": "f7b42f326c2faabcaf2a7a3a6020ffd892abed06e294da2788c48cc815f50dfb",
+      "source_bytes": 4171,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203609.039917Z-event-clock-real-pilot/command.json",
+      "publication_sha256": "f7b42f326c2faabcaf2a7a3a6020ffd892abed06e294da2788c48cc815f50dfb",
+      "publication_bytes": 4171,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203609.039917Z-event-clock-real-pilot/stderr.txt",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_bytes": 0,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203609.039917Z-event-clock-real-pilot/stderr.txt",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_bytes": 0,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203609.039917Z-event-clock-real-pilot/stdout.txt",
+      "source_sha256": "e90bda84e56874cfeb7898009fad3db92025ab032709fb187fee1f3f08a12e73",
+      "source_bytes": 310,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203609.039917Z-event-clock-real-pilot/stdout.txt",
+      "publication_sha256": "e90bda84e56874cfeb7898009fad3db92025ab032709fb187fee1f3f08a12e73",
+      "publication_bytes": 310,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/overnight-01/worker-a/clues.py",
+      "source_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "source_bytes": 5140,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/overnight-01/worker-a/clues.py",
+      "publication_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "publication_bytes": 5140,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/overnight-01/worker-a/search.py",
+      "source_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "source_bytes": 8361,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/overnight-01/worker-a/search.py",
+      "publication_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "publication_bytes": 8361,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/run_logged.py",
+      "source_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "source_bytes": 3045,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/run_logged.py",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_bytes": 3045,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "source_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "source_bytes": 2719,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "publication_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "publication_bytes": 2719,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/worker-a/event_checks.py",
+      "source_sha256": "7a8c53a8bd612d59fd0a84f2d90ecd0870098cec890209b804ad844b93a82d25",
+      "source_bytes": 2576,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/worker-a/event_checks.py",
+      "publication_sha256": "7a8c53a8bd612d59fd0a84f2d90ecd0870098cec890209b804ad844b93a82d25",
+      "publication_bytes": 2576,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/worker-a/event_clock.py",
+      "source_sha256": "518bb77dad0f436e32c4b0679ec84c1014312ca91b069c6732b17ac323d426ab",
+      "source_bytes": 7132,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/worker-a/event_clock.py",
+      "publication_sha256": "518bb77dad0f436e32c4b0679ec84c1014312ca91b069c6732b17ac323d426ab",
+      "publication_bytes": 7132,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/worker-a/p01.py",
+      "source_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "source_bytes": 3812,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/worker-a/p01.py",
+      "publication_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "publication_bytes": 3812,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/worker-a/p04.py",
+      "source_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "source_bytes": 2439,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/worker-a/p04.py",
+      "publication_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "publication_bytes": 2439,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/worker-a/p07.py",
+      "source_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "source_bytes": 3702,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/worker-a/p07.py",
+      "publication_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "publication_bytes": 3702,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/worker-a/p10.py",
+      "source_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "source_bytes": 3957,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/worker-a/p10.py",
+      "publication_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "publication_bytes": 3957,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/worker-a/p12.py",
+      "source_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "source_bytes": 4001,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/worker-a/p12.py",
+      "publication_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "publication_bytes": 4001,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/worker-a/publish_cycle1.py",
+      "source_sha256": "2476dda45add09d39373de5702ab4f146a0a2af59895ac546cb005cbe03f3a9c",
+      "source_bytes": 2409,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/worker-a/publish_cycle1.py",
+      "publication_sha256": "2476dda45add09d39373de5702ab4f146a0a2af59895ac546cb005cbe03f3a9c",
+      "publication_bytes": 2409,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/worker-a/replay.py",
+      "source_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "source_bytes": 1253,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/code/exploration/persistent-01/worker-a/replay.py",
+      "publication_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "publication_bytes": 1253,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/command.json",
+      "source_sha256": "9af56ec9de1d10ffa3e146071fb7016574aa3eb17d084b6029c7309177b056d3",
+      "source_bytes": 3976,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/command.json",
+      "publication_sha256": "9af56ec9de1d10ffa3e146071fb7016574aa3eb17d084b6029c7309177b056d3",
+      "publication_bytes": 3976,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/stderr.txt",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_bytes": 0,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/stderr.txt",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_bytes": 0,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/stdout.txt",
+      "source_sha256": "c7fb6de40e86429e2eb34982369618efbfc143023536e6492751e7458c24e453",
+      "source_bytes": 26,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T203912.511461Z-event-clock-edge-controls-and-replay/stdout.txt",
+      "publication_sha256": "c7fb6de40e86429e2eb34982369618efbfc143023536e6492751e7458c24e453",
+      "publication_bytes": 26,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/overnight-01/worker-a/clues.py",
+      "source_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "source_bytes": 5140,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/overnight-01/worker-a/clues.py",
+      "publication_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "publication_bytes": 5140,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/overnight-01/worker-a/search.py",
+      "source_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "source_bytes": 8361,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/overnight-01/worker-a/search.py",
+      "publication_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "publication_bytes": 8361,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/run_logged.py",
+      "source_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "source_bytes": 3045,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/run_logged.py",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_bytes": 3045,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "source_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "source_bytes": 2719,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "publication_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "publication_bytes": 2719,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/event_checks.py",
+      "source_sha256": "7a8c53a8bd612d59fd0a84f2d90ecd0870098cec890209b804ad844b93a82d25",
+      "source_bytes": 2576,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/event_checks.py",
+      "publication_sha256": "7a8c53a8bd612d59fd0a84f2d90ecd0870098cec890209b804ad844b93a82d25",
+      "publication_bytes": 2576,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/event_clock.py",
+      "source_sha256": "518bb77dad0f436e32c4b0679ec84c1014312ca91b069c6732b17ac323d426ab",
+      "source_bytes": 7132,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/event_clock.py",
+      "publication_sha256": "518bb77dad0f436e32c4b0679ec84c1014312ca91b069c6732b17ac323d426ab",
+      "publication_bytes": 7132,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/field_reset.py",
+      "source_sha256": "3e39b6c372e2fa48df878451d86401eb5f3df2c7ee0d409356cf6e2b04ddd337",
+      "source_bytes": 7267,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/field_reset.py",
+      "publication_sha256": "3e39b6c372e2fa48df878451d86401eb5f3df2c7ee0d409356cf6e2b04ddd337",
+      "publication_bytes": 7267,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/p01.py",
+      "source_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "source_bytes": 3812,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/p01.py",
+      "publication_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "publication_bytes": 3812,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/p04.py",
+      "source_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "source_bytes": 2439,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/p04.py",
+      "publication_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "publication_bytes": 2439,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/p07.py",
+      "source_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "source_bytes": 3702,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/p07.py",
+      "publication_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "publication_bytes": 3702,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/p10.py",
+      "source_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "source_bytes": 3957,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/p10.py",
+      "publication_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "publication_bytes": 3957,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/p12.py",
+      "source_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "source_bytes": 4001,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/p12.py",
+      "publication_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "publication_bytes": 4001,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/publish_cycle1.py",
+      "source_sha256": "2476dda45add09d39373de5702ab4f146a0a2af59895ac546cb005cbe03f3a9c",
+      "source_bytes": 2409,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/publish_cycle1.py",
+      "publication_sha256": "2476dda45add09d39373de5702ab4f146a0a2af59895ac546cb005cbe03f3a9c",
+      "publication_bytes": 2409,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/replay.py",
+      "source_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "source_bytes": 1253,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204241.797795Z-field-reset-controls/code/exploration/persistent-01/worker-a/replay.py",
+      "publication_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "publication_bytes": 1253,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204241.797795Z-field-reset-controls/command.json",
+      "source_sha256": "de794602250b4a17e48d65017e338eeaf90df20fc52a284a3169175e8e3180d7",
+      "source_bytes": 4822,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204241.797795Z-field-reset-controls/command.json",
+      "publication_sha256": "de794602250b4a17e48d65017e338eeaf90df20fc52a284a3169175e8e3180d7",
+      "publication_bytes": 4822,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204241.797795Z-field-reset-controls/stderr.txt",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_bytes": 0,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204241.797795Z-field-reset-controls/stderr.txt",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_bytes": 0,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204241.797795Z-field-reset-controls/stdout.txt",
+      "source_sha256": "d67fcdcb1a3b48b6e9e24613d28a72333a7b90605a4047116dcad38a0a71aeab",
+      "source_bytes": 432,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204241.797795Z-field-reset-controls/stdout.txt",
+      "publication_sha256": "d67fcdcb1a3b48b6e9e24613d28a72333a7b90605a4047116dcad38a0a71aeab",
+      "publication_bytes": 432,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/overnight-01/worker-a/clues.py",
+      "source_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "source_bytes": 5140,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/overnight-01/worker-a/clues.py",
+      "publication_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "publication_bytes": 5140,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/overnight-01/worker-a/search.py",
+      "source_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "source_bytes": 8361,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/overnight-01/worker-a/search.py",
+      "publication_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "publication_bytes": 8361,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/run_logged.py",
+      "source_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "source_bytes": 3045,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/run_logged.py",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_bytes": 3045,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "source_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "source_bytes": 2719,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "publication_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "publication_bytes": 2719,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/event_checks.py",
+      "source_sha256": "7a8c53a8bd612d59fd0a84f2d90ecd0870098cec890209b804ad844b93a82d25",
+      "source_bytes": 2576,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/event_checks.py",
+      "publication_sha256": "7a8c53a8bd612d59fd0a84f2d90ecd0870098cec890209b804ad844b93a82d25",
+      "publication_bytes": 2576,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/event_clock.py",
+      "source_sha256": "518bb77dad0f436e32c4b0679ec84c1014312ca91b069c6732b17ac323d426ab",
+      "source_bytes": 7132,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/event_clock.py",
+      "publication_sha256": "518bb77dad0f436e32c4b0679ec84c1014312ca91b069c6732b17ac323d426ab",
+      "publication_bytes": 7132,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/field_reset.py",
+      "source_sha256": "3e39b6c372e2fa48df878451d86401eb5f3df2c7ee0d409356cf6e2b04ddd337",
+      "source_bytes": 7267,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/field_reset.py",
+      "publication_sha256": "3e39b6c372e2fa48df878451d86401eb5f3df2c7ee0d409356cf6e2b04ddd337",
+      "publication_bytes": 7267,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/p01.py",
+      "source_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "source_bytes": 3812,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/p01.py",
+      "publication_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "publication_bytes": 3812,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/p04.py",
+      "source_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "source_bytes": 2439,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/p04.py",
+      "publication_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "publication_bytes": 2439,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/p07.py",
+      "source_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "source_bytes": 3702,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/p07.py",
+      "publication_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "publication_bytes": 3702,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/p10.py",
+      "source_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "source_bytes": 3957,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/p10.py",
+      "publication_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "publication_bytes": 3957,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/p12.py",
+      "source_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "source_bytes": 4001,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/p12.py",
+      "publication_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "publication_bytes": 4001,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/publish_cycle1.py",
+      "source_sha256": "2476dda45add09d39373de5702ab4f146a0a2af59895ac546cb005cbe03f3a9c",
+      "source_bytes": 2409,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/publish_cycle1.py",
+      "publication_sha256": "2476dda45add09d39373de5702ab4f146a0a2af59895ac546cb005cbe03f3a9c",
+      "publication_bytes": 2409,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/replay.py",
+      "source_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "source_bytes": 1253,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204603.788656Z-field-reset-real-pilot/code/exploration/persistent-01/worker-a/replay.py",
+      "publication_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "publication_bytes": 1253,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204603.788656Z-field-reset-real-pilot/command.json",
+      "source_sha256": "bf44774b5dfa2d4cd43fd2bb108e37e97cb9a7ee35489a92fa8d84fe5c34d7e3",
+      "source_bytes": 4819,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204603.788656Z-field-reset-real-pilot/command.json",
+      "publication_sha256": "bf44774b5dfa2d4cd43fd2bb108e37e97cb9a7ee35489a92fa8d84fe5c34d7e3",
+      "publication_bytes": 4819,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204603.788656Z-field-reset-real-pilot/stderr.txt",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_bytes": 0,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204603.788656Z-field-reset-real-pilot/stderr.txt",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_bytes": 0,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204603.788656Z-field-reset-real-pilot/stdout.txt",
+      "source_sha256": "3d61108e564d60e5b22b0aa2f751d47aa2b720d8a39e309f2e7e9498cc7f5707",
+      "source_bytes": 447,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204603.788656Z-field-reset-real-pilot/stdout.txt",
+      "publication_sha256": "3d61108e564d60e5b22b0aa2f751d47aa2b720d8a39e309f2e7e9498cc7f5707",
+      "publication_bytes": 447,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/run_logged.py",
+      "source_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "source_bytes": 3045,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/run_logged.py",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_bytes": 3045,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/clock_representability.py",
+      "source_sha256": "85f0b76f319b720b24aa3136f0cdc11b28f3df88dee62c94b9ad0dca2739fabb",
+      "source_bytes": 2099,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/clock_representability.py",
+      "publication_sha256": "85f0b76f319b720b24aa3136f0cdc11b28f3df88dee62c94b9ad0dca2739fabb",
+      "publication_bytes": 2099,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "source_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "source_bytes": 2719,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "publication_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "publication_bytes": 2719,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/event_checks.py",
+      "source_sha256": "7a8c53a8bd612d59fd0a84f2d90ecd0870098cec890209b804ad844b93a82d25",
+      "source_bytes": 2576,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/event_checks.py",
+      "publication_sha256": "7a8c53a8bd612d59fd0a84f2d90ecd0870098cec890209b804ad844b93a82d25",
+      "publication_bytes": 2576,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/event_clock.py",
+      "source_sha256": "518bb77dad0f436e32c4b0679ec84c1014312ca91b069c6732b17ac323d426ab",
+      "source_bytes": 7132,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/event_clock.py",
+      "publication_sha256": "518bb77dad0f436e32c4b0679ec84c1014312ca91b069c6732b17ac323d426ab",
+      "publication_bytes": 7132,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/field_reset.py",
+      "source_sha256": "3e39b6c372e2fa48df878451d86401eb5f3df2c7ee0d409356cf6e2b04ddd337",
+      "source_bytes": 7267,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/field_reset.py",
+      "publication_sha256": "3e39b6c372e2fa48df878451d86401eb5f3df2c7ee0d409356cf6e2b04ddd337",
+      "publication_bytes": 7267,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/p01.py",
+      "source_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "source_bytes": 3812,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/p01.py",
+      "publication_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "publication_bytes": 3812,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/p04.py",
+      "source_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "source_bytes": 2439,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/p04.py",
+      "publication_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "publication_bytes": 2439,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/p07.py",
+      "source_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "source_bytes": 3702,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/p07.py",
+      "publication_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "publication_bytes": 3702,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/p10.py",
+      "source_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "source_bytes": 3957,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/p10.py",
+      "publication_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "publication_bytes": 3957,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/p12.py",
+      "source_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "source_bytes": 4001,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/p12.py",
+      "publication_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "publication_bytes": 4001,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/publish_cycle1.py",
+      "source_sha256": "2476dda45add09d39373de5702ab4f146a0a2af59895ac546cb005cbe03f3a9c",
+      "source_bytes": 2409,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/publish_cycle1.py",
+      "publication_sha256": "2476dda45add09d39373de5702ab4f146a0a2af59895ac546cb005cbe03f3a9c",
+      "publication_bytes": 2409,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/replay.py",
+      "source_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "source_bytes": 1253,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204741.487641Z-event-clock-representability/code/exploration/persistent-01/worker-a/replay.py",
+      "publication_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "publication_bytes": 1253,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204741.487641Z-event-clock-representability/code/liber-primus/analysis/campaign18_skip/armada2/autokey_skip.py",
+      "source_sha256": "c13f1f4c1edda97a15c8be33f8ceb41cd633a7bb6cf0cc623c08134fe04fc737",
+      "source_bytes": 14957,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204741.487641Z-event-clock-representability/code/liber-primus/analysis/campaign18_skip/armada2/autokey_skip.py",
+      "publication_sha256": "c13f1f4c1edda97a15c8be33f8ceb41cd633a7bb6cf0cc623c08134fe04fc737",
+      "publication_bytes": 14957,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204741.487641Z-event-clock-representability/command.json",
+      "source_sha256": "aadc443ca6b2e3cc21fec9f6204b8ec3efa1818ec0e17cbc658f2f42e5c55b10",
+      "source_bytes": 3861,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204741.487641Z-event-clock-representability/command.json",
+      "publication_sha256": "aadc443ca6b2e3cc21fec9f6204b8ec3efa1818ec0e17cbc658f2f42e5c55b10",
+      "publication_bytes": 3861,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204741.487641Z-event-clock-representability/stderr.txt",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_bytes": 0,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204741.487641Z-event-clock-representability/stderr.txt",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_bytes": 0,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T204741.487641Z-event-clock-representability/stdout.txt",
+      "source_sha256": "1d25196aeab16bdf2195ff34ceee7650e6e2a0100b3ac9e81df9841a3bb9cc4a",
+      "source_bytes": 293,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle2/runs/20260916T204741.487641Z-event-clock-representability/stdout.txt",
+      "publication_sha256": "1d25196aeab16bdf2195ff34ceee7650e6e2a0100b3ac9e81df9841a3bb9cc4a",
+      "publication_bytes": 293,
+      "encoding": "verbatim-copy"
+    }
+  ]
+}

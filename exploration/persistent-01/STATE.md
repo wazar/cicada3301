@@ -1,20 +1,20 @@
 # PERSISTENT-01 — active direct research
 
-Strategy **outside-box-v1**, received from safe fast-forward ef2e807 and acknowledged in active workers. Initial publication e4135f67d63be8b96f785ee59510dbce2f4f6207 is on origin/master; second reviewed checkpoint is being prepared.
+Strategy **outside-box-v1**, received from safe fast-forward ef2e807 and acknowledged in active workers. Reviewed checkpoint2 f38c050f905397e0d7115014c81e1aa88f84abde is on origin/master; checkpoint3 covers completed A/G/H evidence and fresh review03.
 
 Start16 September2026,21:30:37 SAST. Fixed deadline **17 September2026,05:30:37 SAST /03:30:37UTC**. No extension. Honor exploration/persistent-01/STOP. Native goal active. One interactive coordinator; no external controller, no competing supervisor. All research processes stay with logged bounded worker sessions. Git writes only by coordinator; unrelated macOS setup remains untouched.
 
 ## Current actual assignments
 
-Rotation at 2026-09-16 20:53 UTC, same fixed deadline and sole coordinator:
+Rotation at 2026-09-16 21:05 UTC, same fixed deadline and sole coordinator:
 
-- I: actual discovery images0/1; glyph geometry or baseline sub-states as an omitted carrier, with within-glyph validation and raster/position controls. No English scorer or additive key model.
-- H: explicit unit lengths as a binary/quinary structured-data carrier; fixed small packing family, complete checksummed formats, exact injection controls and matched nulls. No arbitrary readable fragments.
-- J: ciphertext-conditioned finite-state substitution; inverse construction plus a second structural prediction beyond repeat deficit. No legacy English ranking, no additive candidate pad.
+- I: completed actual-image geometric-state and pixel-column tests on0/1. Geometry controls recovered injected changes; measured column rule had only18% control power. Now ONE existing-method lane: establish and test the P11 literal-F totient coverage gap with frozen offsets0..127/signs, actual search controls and matched null.
+- H: completed page unit-length binary/quinary and prime-unit ordering tests without a candidate. Tests cyclic-unit closure as a second structural prediction, then a bounded nonadditive multiplicative-feedback operation if justified by narrow prior coverage.
+- J: completed swap-to-anchor substitution test (no prediction), then exact disjoint-homophone capacity bounds under explicitly named source registers. Current follow-up changes source units to canonical Latin expansion; a five-pair single-page obstruction already fails after one source substitution, so no broad language exclusion.
 
 A completed the event-clock and source13-reset pilots without useful real continuation, then proved three control truths mathematically unrepresentable under the inherited accepted-output clock. That is a decoder-coverage finding, not evidence the puzzle uses event-clock feedback. G completed visual field and direct sequence tests; H completed source-signature and schedule/grammar tests. Their reports await a focused later publication; review03 independently checked G's physical signs and recurrence arithmetic. No worker process from those completed batches remains.
 
-New workers receive strategy directly; ACK hashes and actual executed cards verify delivery. No approach is assumed best. All three current lanes materially change the representation or operation, and at least two avoid any language scoring.
+New workers receive strategy directly; ACK hashes and actual executed cards verify delivery. No approach is assumed best. Two current lanes change representation or operation and avoid legacy language scoring. I returns to one justified existing-method extension; it is not counted as alternative novelty.
 
 ## Findings carried forward
 
@@ -36,4 +36,4 @@ Frozen config/dataset hashes unchanged. Discovery excludes originals4,9,14,19,24
 
 Raw commands/output/exits/source snapshots and alternatives retained perworker. Reports are claims with explicit bounds. Freshreviews01/02 cover selectedmethod/output evidence, not independenttranscription or everyhistoricalclaim. Large outputs have losslessgzip manifests; originalbytes remainlocal. Localcheckout prefixes alone normalized in completedtracebacks, originals privatelyretained withhashes.
 
-Next two executable actions: I controlled glyph-substate measurement and H complete structured-data parsing from explicit-unit lengths. J implements an independent finite-state construction in parallel. Publish CHECKPOINT-02 with reviewedcompleted A/C/F evidence, then continue research. A negative, completedqueue, report or push does not end this mission.
+Next two executable actions: I totient-F searched-control/cost pilot and J Latin-source homophone-capacity sensitivity. H executes cyclic closure and a separately specified operation test in parallel. Publish CHECKPOINT-03 with reviewed completed A/G/H evidence, then continue research. A negative, completedqueue, report or push does not end this mission.

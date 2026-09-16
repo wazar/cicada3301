@@ -1,0 +1,7 @@
+# G07 — cross-page ornament-template prediction
+
+Material change: rather than treat mirror artwork as a text route, test whether the actual ornament is a reused page-layout template. Actual inspected3/7 display the same paired curls at apparently matching locations. Prediction: translation fitted only to top-left ornament of p3→p7 should align lower-left, upper-right and lower-right independently without refitting. No new image/holdout exposure: these are previously viewed regions, thus this is within-source predictive partitioning, not untouched validation.
+
+Threshold dark=min RGB<130. Frozen rectangles: top-left(150,650,580,1550), bottom-left(150,1550,580,2960), top-right(1820,650,2250,1550), bottom-right(1820,1550,2250,2960). Fit translation dx/dy[-8,8] (289 fits) solely on top-left mask IoU. Predict others with same translation. Recompression control p3 JPEG90 should fit and predict high overlap, demonstrating JPEG robustness. The measured extent of reuse bounds page-varying geometry/intensity interpretations; a fixed template could still be a general instruction. No conclusion that artwork is irrelevant or that it specifies a cipher.
+
+Next two explicit alternatives: exploit G06 exact13-versus4 units to test a nested segmentation/reset model separately from generic-period model (coordinate with F before running); or test a constrained non-language encoder whose latent states are clause/paragraph units rather than rune-rank histories. Neither is automatically admitted by template reuse.

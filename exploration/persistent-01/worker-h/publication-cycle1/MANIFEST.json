@@ -1,0 +1,848 @@
+{
+  "created_utc": "2026-09-16T20:56:36.793306+00:00",
+  "scope": [
+    "H01",
+    "H03",
+    "H05",
+    "H06",
+    "H07",
+    "H10"
+  ],
+  "originals_unchanged": true,
+  "entries": [
+    {
+      "original": "exploration/persistent-01/worker-h/H01-card.md",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/H01-card.md",
+      "bytes": 3098,
+      "original_sha256": "38df0810ff99a8b018d8f675a36bb9b7b128d2b9a815d4b2b4a66cc53bc498f6",
+      "publication_sha256": "38df0810ff99a8b018d8f675a36bb9b7b128d2b9a815d4b2b4a66cc53bc498f6",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/H01-result.json",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/H01-result.json",
+      "bytes": 34147,
+      "original_sha256": "46bf1771ad1b16e79f283e3c26c5c575522862e72ac7c684f499b53977aa7b33",
+      "publication_sha256": "46bf1771ad1b16e79f283e3c26c5c575522862e72ac7c684f499b53977aa7b33",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/H01-evidence.json.gz",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/H01-evidence.json.gz",
+      "bytes": 3718800,
+      "original_sha256": "cb22b8422f4b945e3813c928bd6c621e0d95b9c3ed7e820db52ffd5cc168dced",
+      "publication_sha256": "cb22b8422f4b945e3813c928bd6c621e0d95b9c3ed7e820db52ffd5cc168dced",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/h01.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/h01.py",
+      "bytes": 4159,
+      "original_sha256": "633ee04941491ce2c37fccee57852b15a1db25ab22bdb09c096d34708ace2b4a",
+      "publication_sha256": "633ee04941491ce2c37fccee57852b15a1db25ab22bdb09c096d34708ace2b4a",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/H03-card.md",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/H03-card.md",
+      "bytes": 1961,
+      "original_sha256": "c052e2385382776914ad4cef9425d611f78ddcf27b754c0ed2b6f8930a4b0e55",
+      "publication_sha256": "c052e2385382776914ad4cef9425d611f78ddcf27b754c0ed2b6f8930a4b0e55",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/H03-result.json",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/H03-result.json",
+      "bytes": 13531,
+      "original_sha256": "50952ddc7e5a9cba0d12bd817634c0b0b100c65d6cdfce964991a387f7fa94ad",
+      "publication_sha256": "50952ddc7e5a9cba0d12bd817634c0b0b100c65d6cdfce964991a387f7fa94ad",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/H03-evidence.json.gz",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/H03-evidence.json.gz",
+      "bytes": 38822367,
+      "original_sha256": "84881ad8d962d27664810847d19e808324ead62012c51f033b3eb1b1b339affc",
+      "publication_sha256": "84881ad8d962d27664810847d19e808324ead62012c51f033b3eb1b1b339affc",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/h03.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/h03.py",
+      "bytes": 2248,
+      "original_sha256": "ab074145fa7baec34e66a24acf71988bc21cf93b5d40b14608237110f09435d4",
+      "publication_sha256": "ab074145fa7baec34e66a24acf71988bc21cf93b5d40b14608237110f09435d4",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/H05-card.md",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/H05-card.md",
+      "bytes": 1418,
+      "original_sha256": "20e4fa9e7b17e40f9b29c845ea8c1edd9b3222b436c0793a151a0b9b612e3606",
+      "publication_sha256": "20e4fa9e7b17e40f9b29c845ea8c1edd9b3222b436c0793a151a0b9b612e3606",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/H05-result.json",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/H05-result.json",
+      "bytes": 57671,
+      "original_sha256": "1643fb80b443cafe0729e79798230aec45b7e17166fd8790a6330c3c6e904dc7",
+      "publication_sha256": "1643fb80b443cafe0729e79798230aec45b7e17166fd8790a6330c3c6e904dc7",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/h05.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/h05.py",
+      "bytes": 1592,
+      "original_sha256": "3c551624ced74e259d4673165b6971c60c387bf08188bf7272f4d34caf3a9ac1",
+      "publication_sha256": "3c551624ced74e259d4673165b6971c60c387bf08188bf7272f4d34caf3a9ac1",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/H06-card.md",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/H06-card.md",
+      "bytes": 1688,
+      "original_sha256": "0e368f4746237fb655dad197dc1a093ee13125319b6db8a064d0f6c07cc9955d",
+      "publication_sha256": "0e368f4746237fb655dad197dc1a093ee13125319b6db8a064d0f6c07cc9955d",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/H06-result.json",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/H06-result.json",
+      "bytes": 60495,
+      "original_sha256": "68213d555285f6f4923fed46361b6b98fbfa9dd052f1ceb9d8284f755a7eb8ae",
+      "publication_sha256": "68213d555285f6f4923fed46361b6b98fbfa9dd052f1ceb9d8284f755a7eb8ae",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/H06-description.json",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/H06-description.json",
+      "bytes": 9774,
+      "original_sha256": "8e272c64526f7e8d27790075c486dd638d29250504b9073c1f320415f7ed8940",
+      "publication_sha256": "8e272c64526f7e8d27790075c486dd638d29250504b9073c1f320415f7ed8940",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/h06.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/h06.py",
+      "bytes": 1669,
+      "original_sha256": "33e45c0b82973d1922851c9e7d31c89d46bc9d6dd8761d9f28c6397e487123f3",
+      "publication_sha256": "33e45c0b82973d1922851c9e7d31c89d46bc9d6dd8761d9f28c6397e487123f3",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/h06_describe.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/h06_describe.py",
+      "bytes": 1053,
+      "original_sha256": "fdbbbc6fcd8c223a29a9799c8c981204cabca39327350d1179c10dcacaa7dc91",
+      "publication_sha256": "fdbbbc6fcd8c223a29a9799c8c981204cabca39327350d1179c10dcacaa7dc91",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/H07-card.md",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/H07-card.md",
+      "bytes": 1608,
+      "original_sha256": "c282cf1a209fe0d9181bcbc33e107ecf1986dab157aad4f3b7bb962920e24438",
+      "publication_sha256": "c282cf1a209fe0d9181bcbc33e107ecf1986dab157aad4f3b7bb962920e24438",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/H07-result.json",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/H07-result.json",
+      "bytes": 36977,
+      "original_sha256": "f577d3126acebec35ed56bfba4569062845e45c1106c842bac1b8a61b9bc6002",
+      "publication_sha256": "f577d3126acebec35ed56bfba4569062845e45c1106c842bac1b8a61b9bc6002",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/h07.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/h07.py",
+      "bytes": 1719,
+      "original_sha256": "7061b463db207d6cae2e1ebac3a96d40e1598b142f36089049ade55aadfbc999",
+      "publication_sha256": "7061b463db207d6cae2e1ebac3a96d40e1598b142f36089049ade55aadfbc999",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/H10-card.md",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/H10-card.md",
+      "bytes": 3408,
+      "original_sha256": "c7482c7398a339b498799370fec93ae317a11e3587234d9f548b4e4b2acc37dd",
+      "publication_sha256": "c7482c7398a339b498799370fec93ae317a11e3587234d9f548b4e4b2acc37dd",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/H10-result.json",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/H10-result.json",
+      "bytes": 25391,
+      "original_sha256": "93ae40ba278e554a71e90b7ee10bbcb63e3676114de15adfcc36da8a472ca045",
+      "publication_sha256": "93ae40ba278e554a71e90b7ee10bbcb63e3676114de15adfcc36da8a472ca045",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/H10-full-controls.json",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/H10-full-controls.json",
+      "bytes": 17205,
+      "original_sha256": "859eb917033f3bcc767d974fe2c50c7255815f44454bc5ac2a651c3739408b40",
+      "publication_sha256": "859eb917033f3bcc767d974fe2c50c7255815f44454bc5ac2a651c3739408b40",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/h10.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/h10.py",
+      "bytes": 4929,
+      "original_sha256": "4db1d3e1ce11ce6245bf947fd59ed420bc4deb3b4dfda8be411cb88c559deff0",
+      "publication_sha256": "4db1d3e1ce11ce6245bf947fd59ed420bc4deb3b4dfda8be411cb88c559deff0",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/h10_control_full.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/h10_control_full.py",
+      "bytes": 1253,
+      "original_sha256": "fd6006967940cfdfab1e18f2954f51f1fe5e1dfd3f23ac25952c98c258544d94",
+      "publication_sha256": "fd6006967940cfdfab1e18f2954f51f1fe5e1dfd3f23ac25952c98c258544d94",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/strategy-ack.json",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/strategy-ack.json",
+      "bytes": 530,
+      "original_sha256": "262daaed163f0e83470fa32797c411dd2d6e8c41a92004b208e91a96f3ac4551",
+      "publication_sha256": "262daaed163f0e83470fa32797c411dd2d6e8c41a92004b208e91a96f3ac4551",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/REPORT.md",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/REPORT.md",
+      "bytes": 7129,
+      "original_sha256": "da59c4d5e3721827be28f6f13c5b6010400cc6bb758aea7bd7e0fda5e11386b6",
+      "publication_sha256": "da59c4d5e3721827be28f6f13c5b6010400cc6bb758aea7bd7e0fda5e11386b6",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/RESUME.md",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/RESUME.md",
+      "bytes": 1070,
+      "original_sha256": "e5529cdfe94c03a2bea7ffc752c02012e63114f74acb340cb5544f255ef70179",
+      "publication_sha256": "e5529cdfe94c03a2bea7ffc752c02012e63114f74acb340cb5544f255ef70179",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/sources/mabinogion_vol1_guest_edwards_ed.txt",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/sources/mabinogion_vol1_guest_edwards_ed.txt",
+      "bytes": 183694,
+      "original_sha256": "31bb2124f65422a6fa7e4c7910fc7e2be4c453307a6faf841b77152d07dc1d07",
+      "publication_sha256": "31bb2124f65422a6fa7e4c7910fc7e2be4c453307a6faf841b77152d07dc1d07",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/sources/mabinogion_vol2_guest_edwards_ed.txt",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/sources/mabinogion_vol2_guest_edwards_ed.txt",
+      "bytes": 199971,
+      "original_sha256": "0d126a64878ad992ae104f339b3894b8d11b719ef921f43cbdd042f0a4f4ebcb",
+      "publication_sha256": "0d126a64878ad992ae104f339b3894b8d11b719ef921f43cbdd042f0a4f4ebcb",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T203744.043069Z-h01-mabinogion-signatures-corrected/stdout.txt",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T203744.043069Z-h01-mabinogion-signatures-corrected/stdout.txt",
+      "bytes": 34148,
+      "original_sha256": "2070dacc00ae1d7630510210630ddb5811187402a5cd387170ba9f3bf0a8e52d",
+      "publication_sha256": "2070dacc00ae1d7630510210630ddb5811187402a5cd387170ba9f3bf0a8e52d",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T203744.043069Z-h01-mabinogion-signatures-corrected/stderr.txt",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T203744.043069Z-h01-mabinogion-signatures-corrected/stderr.txt",
+      "bytes": 0,
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T203744.043069Z-h01-mabinogion-signatures-corrected/command.json",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T203744.043069Z-h01-mabinogion-signatures-corrected/command.json",
+      "bytes": 1997,
+      "original_sha256": "7a3835d6d81a06966dc354e0bd3a9dbcebbcc339f3ab1a261df7bd62d2be4591",
+      "publication_sha256": "7a3835d6d81a06966dc354e0bd3a9dbcebbcc339f3ab1a261df7bd62d2be4591",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205401.951636Z-h10-length-byte-carrier/stdout.txt",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205401.951636Z-h10-length-byte-carrier/stdout.txt",
+      "bytes": 468,
+      "original_sha256": "1a12c7ff0a69a4c97a04f85732ca9160fe8a7b08e665501ed476abda69ccc9e1",
+      "publication_sha256": "1a12c7ff0a69a4c97a04f85732ca9160fe8a7b08e665501ed476abda69ccc9e1",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205401.951636Z-h10-length-byte-carrier/stderr.txt",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205401.951636Z-h10-length-byte-carrier/stderr.txt",
+      "bytes": 0,
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205401.951636Z-h10-length-byte-carrier/command.json",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205401.951636Z-h10-length-byte-carrier/command.json",
+      "bytes": 2553,
+      "original_sha256": "44ade884d3e771bfc65bf366b6a49de290a0767a2496fa3a326b670acdeb149f",
+      "publication_sha256": "44ade884d3e771bfc65bf366b6a49de290a0767a2496fa3a326b670acdeb149f",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204122.580328Z-h06-delimiter-grammar/stdout.txt",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204122.580328Z-h06-delimiter-grammar/stdout.txt",
+      "bytes": 192,
+      "original_sha256": "45643fdc536429e51f0e72e24d460d4ea6c1af05257519e37715e51b5e21249c",
+      "publication_sha256": "45643fdc536429e51f0e72e24d460d4ea6c1af05257519e37715e51b5e21249c",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204122.580328Z-h06-delimiter-grammar/stderr.txt",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204122.580328Z-h06-delimiter-grammar/stderr.txt",
+      "bytes": 0,
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204122.580328Z-h06-delimiter-grammar/command.json",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204122.580328Z-h06-delimiter-grammar/command.json",
+      "bytes": 1951,
+      "original_sha256": "30c748f660a04f53368fa9eec25e8346ae856be808e114b3c376d9398e63a247",
+      "publication_sha256": "30c748f660a04f53368fa9eec25e8346ae856be808e114b3c376d9398e63a247",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T203904.665137Z-h03-length-schedule/stdout.txt",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T203904.665137Z-h03-length-schedule/stdout.txt",
+      "bytes": 412,
+      "original_sha256": "f54ebcb39cb16892852ce1343d86961cc3775b5123d1d9c8bb33ae57d99ddfab",
+      "publication_sha256": "f54ebcb39cb16892852ce1343d86961cc3775b5123d1d9c8bb33ae57d99ddfab",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T203904.665137Z-h03-length-schedule/stderr.txt",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T203904.665137Z-h03-length-schedule/stderr.txt",
+      "bytes": 0,
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T203904.665137Z-h03-length-schedule/command.json",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T203904.665137Z-h03-length-schedule/command.json",
+      "bytes": 1553,
+      "original_sha256": "f3f49ab196e8235b0399e811b2716240c9474663440e418405a3b29d68b1b478",
+      "publication_sha256": "f3f49ab196e8235b0399e811b2716240c9474663440e418405a3b29d68b1b478",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T203716.441733Z-h01-mabinogion-signatures/stdout.txt",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T203716.441733Z-h01-mabinogion-signatures/stdout.txt",
+      "bytes": 0,
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T203716.441733Z-h01-mabinogion-signatures/stderr.txt",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T203716.441733Z-h01-mabinogion-signatures/stderr.txt",
+      "bytes": 388,
+      "original_sha256": "4d5b84894ed515749b3a1c867e4b1f85fc77cce2963c081383d4144f6d7ada69",
+      "publication_sha256": "85b8828015efe5bfa5ac5ed1736a401a2a831bbbee3592b620964665953d1883",
+      "transform": "local-checkout-prefix-only normalization; raw source and frozen original archive retained",
+      "publication_bytes": 360
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T203716.441733Z-h01-mabinogion-signatures/command.json",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T203716.441733Z-h01-mabinogion-signatures/command.json",
+      "bytes": 2000,
+      "original_sha256": "58f8c425db04e262514960c09fe5deaac17b205622c3c0412d770148ab62b8e9",
+      "publication_sha256": "58f8c425db04e262514960c09fe5deaac17b205622c3c0412d770148ab62b8e9",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204029.111963Z-h05-length-transition/stdout.txt",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204029.111963Z-h05-length-transition/stdout.txt",
+      "bytes": 278,
+      "original_sha256": "6ada9bc39b0dfbeba5c175d0dcc694d359a2674bf91d37531dc32b08ad1359a4",
+      "publication_sha256": "6ada9bc39b0dfbeba5c175d0dcc694d359a2674bf91d37531dc32b08ad1359a4",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204029.111963Z-h05-length-transition/stderr.txt",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204029.111963Z-h05-length-transition/stderr.txt",
+      "bytes": 0,
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204029.111963Z-h05-length-transition/command.json",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204029.111963Z-h05-length-transition/command.json",
+      "bytes": 1752,
+      "original_sha256": "ccd09d1f41fd9ac2578e10b86386dde8c800eb2c4d1d13a0f0261f8f304c7b31",
+      "publication_sha256": "ccd09d1f41fd9ac2578e10b86386dde8c800eb2c4d1d13a0f0261f8f304c7b31",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205440.038603Z-h10-full-family-controls/stdout.txt",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205440.038603Z-h10-full-family-controls/stdout.txt",
+      "bytes": 287,
+      "original_sha256": "f8906ad1d23b8bb322af6a98c3d2112448d905e58502e91ca9f6b990fdf129c9",
+      "publication_sha256": "f8906ad1d23b8bb322af6a98c3d2112448d905e58502e91ca9f6b990fdf129c9",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205440.038603Z-h10-full-family-controls/stderr.txt",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205440.038603Z-h10-full-family-controls/stderr.txt",
+      "bytes": 0,
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205440.038603Z-h10-full-family-controls/command.json",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205440.038603Z-h10-full-family-controls/command.json",
+      "bytes": 2776,
+      "original_sha256": "29b5b3ca2e0bcb18820d59962177062e9d04a96f6b40baee2883f0f1c1192f72",
+      "publication_sha256": "29b5b3ca2e0bcb18820d59962177062e9d04a96f6b40baee2883f0f1c1192f72",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204306.115633Z-h07-conditional-period-spacing/stdout.txt",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204306.115633Z-h07-conditional-period-spacing/stdout.txt",
+      "bytes": 204,
+      "original_sha256": "c5bc2a353bd6e1ec1f07414025c0febcfa19334e0e2eb14d72289ecb09ceefea",
+      "publication_sha256": "c5bc2a353bd6e1ec1f07414025c0febcfa19334e0e2eb14d72289ecb09ceefea",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204306.115633Z-h07-conditional-period-spacing/stderr.txt",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204306.115633Z-h07-conditional-period-spacing/stderr.txt",
+      "bytes": 0,
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204306.115633Z-h07-conditional-period-spacing/command.json",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204306.115633Z-h07-conditional-period-spacing/command.json",
+      "bytes": 2355,
+      "original_sha256": "030734ab8f2a7714bea0a0e793ec5c9d303547193dfe7a97459aa098342679af",
+      "publication_sha256": "030734ab8f2a7714bea0a0e793ec5c9d303547193dfe7a97459aa098342679af",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204219.737811Z-h06-describe-collapsed-classes/stdout.txt",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204219.737811Z-h06-describe-collapsed-classes/stdout.txt",
+      "bytes": 1311,
+      "original_sha256": "2d9035dbd18f012440278c57306b3d707c4d30ab4e1d06676c49094e5642a6fd",
+      "publication_sha256": "2d9035dbd18f012440278c57306b3d707c4d30ab4e1d06676c49094e5642a6fd",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204219.737811Z-h06-describe-collapsed-classes/stderr.txt",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204219.737811Z-h06-describe-collapsed-classes/stderr.txt",
+      "bytes": 0,
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204219.737811Z-h06-describe-collapsed-classes/command.json",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204219.737811Z-h06-describe-collapsed-classes/command.json",
+      "bytes": 2168,
+      "original_sha256": "51b0cef329a489528ee6cef8308b8403bafe804db8a9d56211371014637ab91e",
+      "publication_sha256": "51b0cef329a489528ee6cef8308b8403bafe804db8a9d56211371014637ab91e",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T203744.043069Z-h01-mabinogion-signatures-corrected/code/exploration/persistent-01/run_logged.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T203744.043069Z-h01-mabinogion-signatures-corrected/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "original_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T203744.043069Z-h01-mabinogion-signatures-corrected/code/exploration/persistent-01/worker-h/h01.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T203744.043069Z-h01-mabinogion-signatures-corrected/code/exploration/persistent-01/worker-h/h01.py",
+      "bytes": 4159,
+      "original_sha256": "633ee04941491ce2c37fccee57852b15a1db25ab22bdb09c096d34708ace2b4a",
+      "publication_sha256": "633ee04941491ce2c37fccee57852b15a1db25ab22bdb09c096d34708ace2b4a",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T203744.043069Z-h01-mabinogion-signatures-corrected/code/liber-primus/src/lp/gematria.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T203744.043069Z-h01-mabinogion-signatures-corrected/code/liber-primus/src/lp/gematria.py",
+      "bytes": 4283,
+      "original_sha256": "7b4f5c30137741ab3c33638fb91076c4b1f228229dc3634ba2e6ef232cd47f04",
+      "publication_sha256": "7b4f5c30137741ab3c33638fb91076c4b1f228229dc3634ba2e6ef232cd47f04",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205401.951636Z-h10-length-byte-carrier/code/exploration/persistent-01/run_logged.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205401.951636Z-h10-length-byte-carrier/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "original_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205401.951636Z-h10-length-byte-carrier/code/exploration/persistent-01/worker-h/h05.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205401.951636Z-h10-length-byte-carrier/code/exploration/persistent-01/worker-h/h05.py",
+      "bytes": 1592,
+      "original_sha256": "3c551624ced74e259d4673165b6971c60c387bf08188bf7272f4d34caf3a9ac1",
+      "publication_sha256": "3c551624ced74e259d4673165b6971c60c387bf08188bf7272f4d34caf3a9ac1",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205401.951636Z-h10-length-byte-carrier/code/exploration/persistent-01/worker-h/h01.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205401.951636Z-h10-length-byte-carrier/code/exploration/persistent-01/worker-h/h01.py",
+      "bytes": 4159,
+      "original_sha256": "633ee04941491ce2c37fccee57852b15a1db25ab22bdb09c096d34708ace2b4a",
+      "publication_sha256": "633ee04941491ce2c37fccee57852b15a1db25ab22bdb09c096d34708ace2b4a",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205401.951636Z-h10-length-byte-carrier/code/exploration/persistent-01/worker-h/h10.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205401.951636Z-h10-length-byte-carrier/code/exploration/persistent-01/worker-h/h10.py",
+      "bytes": 4929,
+      "original_sha256": "4db1d3e1ce11ce6245bf947fd59ed420bc4deb3b4dfda8be411cb88c559deff0",
+      "publication_sha256": "4db1d3e1ce11ce6245bf947fd59ed420bc4deb3b4dfda8be411cb88c559deff0",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205401.951636Z-h10-length-byte-carrier/code/exploration/persistent-01/worker-h/h03.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205401.951636Z-h10-length-byte-carrier/code/exploration/persistent-01/worker-h/h03.py",
+      "bytes": 2248,
+      "original_sha256": "ab074145fa7baec34e66a24acf71988bc21cf93b5d40b14608237110f09435d4",
+      "publication_sha256": "ab074145fa7baec34e66a24acf71988bc21cf93b5d40b14608237110f09435d4",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205401.951636Z-h10-length-byte-carrier/code/exploration/persistent-01/worker-h/h07.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205401.951636Z-h10-length-byte-carrier/code/exploration/persistent-01/worker-h/h07.py",
+      "bytes": 1719,
+      "original_sha256": "7061b463db207d6cae2e1ebac3a96d40e1598b142f36089049ade55aadfbc999",
+      "publication_sha256": "7061b463db207d6cae2e1ebac3a96d40e1598b142f36089049ade55aadfbc999",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205401.951636Z-h10-length-byte-carrier/code/exploration/persistent-01/worker-h/h06_describe.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205401.951636Z-h10-length-byte-carrier/code/exploration/persistent-01/worker-h/h06_describe.py",
+      "bytes": 1053,
+      "original_sha256": "fdbbbc6fcd8c223a29a9799c8c981204cabca39327350d1179c10dcacaa7dc91",
+      "publication_sha256": "fdbbbc6fcd8c223a29a9799c8c981204cabca39327350d1179c10dcacaa7dc91",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205401.951636Z-h10-length-byte-carrier/code/exploration/persistent-01/worker-h/h06.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205401.951636Z-h10-length-byte-carrier/code/exploration/persistent-01/worker-h/h06.py",
+      "bytes": 1669,
+      "original_sha256": "33e45c0b82973d1922851c9e7d31c89d46bc9d6dd8761d9f28c6397e487123f3",
+      "publication_sha256": "33e45c0b82973d1922851c9e7d31c89d46bc9d6dd8761d9f28c6397e487123f3",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204122.580328Z-h06-delimiter-grammar/code/exploration/persistent-01/run_logged.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204122.580328Z-h06-delimiter-grammar/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "original_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204122.580328Z-h06-delimiter-grammar/code/exploration/persistent-01/worker-h/h05.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204122.580328Z-h06-delimiter-grammar/code/exploration/persistent-01/worker-h/h05.py",
+      "bytes": 1592,
+      "original_sha256": "3c551624ced74e259d4673165b6971c60c387bf08188bf7272f4d34caf3a9ac1",
+      "publication_sha256": "3c551624ced74e259d4673165b6971c60c387bf08188bf7272f4d34caf3a9ac1",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204122.580328Z-h06-delimiter-grammar/code/exploration/persistent-01/worker-h/h01.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204122.580328Z-h06-delimiter-grammar/code/exploration/persistent-01/worker-h/h01.py",
+      "bytes": 4159,
+      "original_sha256": "633ee04941491ce2c37fccee57852b15a1db25ab22bdb09c096d34708ace2b4a",
+      "publication_sha256": "633ee04941491ce2c37fccee57852b15a1db25ab22bdb09c096d34708ace2b4a",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204122.580328Z-h06-delimiter-grammar/code/exploration/persistent-01/worker-h/h03.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204122.580328Z-h06-delimiter-grammar/code/exploration/persistent-01/worker-h/h03.py",
+      "bytes": 2248,
+      "original_sha256": "ab074145fa7baec34e66a24acf71988bc21cf93b5d40b14608237110f09435d4",
+      "publication_sha256": "ab074145fa7baec34e66a24acf71988bc21cf93b5d40b14608237110f09435d4",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204122.580328Z-h06-delimiter-grammar/code/exploration/persistent-01/worker-h/h06.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204122.580328Z-h06-delimiter-grammar/code/exploration/persistent-01/worker-h/h06.py",
+      "bytes": 1669,
+      "original_sha256": "33e45c0b82973d1922851c9e7d31c89d46bc9d6dd8761d9f28c6397e487123f3",
+      "publication_sha256": "33e45c0b82973d1922851c9e7d31c89d46bc9d6dd8761d9f28c6397e487123f3",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T203904.665137Z-h03-length-schedule/code/exploration/persistent-01/run_logged.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T203904.665137Z-h03-length-schedule/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "original_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T203904.665137Z-h03-length-schedule/code/exploration/persistent-01/worker-h/h01.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T203904.665137Z-h03-length-schedule/code/exploration/persistent-01/worker-h/h01.py",
+      "bytes": 4159,
+      "original_sha256": "633ee04941491ce2c37fccee57852b15a1db25ab22bdb09c096d34708ace2b4a",
+      "publication_sha256": "633ee04941491ce2c37fccee57852b15a1db25ab22bdb09c096d34708ace2b4a",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T203904.665137Z-h03-length-schedule/code/exploration/persistent-01/worker-h/h03.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T203904.665137Z-h03-length-schedule/code/exploration/persistent-01/worker-h/h03.py",
+      "bytes": 2248,
+      "original_sha256": "ab074145fa7baec34e66a24acf71988bc21cf93b5d40b14608237110f09435d4",
+      "publication_sha256": "ab074145fa7baec34e66a24acf71988bc21cf93b5d40b14608237110f09435d4",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T203716.441733Z-h01-mabinogion-signatures/code/exploration/persistent-01/run_logged.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T203716.441733Z-h01-mabinogion-signatures/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "original_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T203716.441733Z-h01-mabinogion-signatures/code/exploration/persistent-01/worker-h/h01.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T203716.441733Z-h01-mabinogion-signatures/code/exploration/persistent-01/worker-h/h01.py",
+      "bytes": 4159,
+      "original_sha256": "4916e8f341e95a2b61d9e6ef02c2f6c7d49db1aa4107b030567f1864eeb6db35",
+      "publication_sha256": "4916e8f341e95a2b61d9e6ef02c2f6c7d49db1aa4107b030567f1864eeb6db35",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T203716.441733Z-h01-mabinogion-signatures/code/liber-primus/src/lp/gematria.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T203716.441733Z-h01-mabinogion-signatures/code/liber-primus/src/lp/gematria.py",
+      "bytes": 4283,
+      "original_sha256": "7b4f5c30137741ab3c33638fb91076c4b1f228229dc3634ba2e6ef232cd47f04",
+      "publication_sha256": "7b4f5c30137741ab3c33638fb91076c4b1f228229dc3634ba2e6ef232cd47f04",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204029.111963Z-h05-length-transition/code/exploration/persistent-01/run_logged.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204029.111963Z-h05-length-transition/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "original_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204029.111963Z-h05-length-transition/code/exploration/persistent-01/worker-h/h05.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204029.111963Z-h05-length-transition/code/exploration/persistent-01/worker-h/h05.py",
+      "bytes": 1592,
+      "original_sha256": "3c551624ced74e259d4673165b6971c60c387bf08188bf7272f4d34caf3a9ac1",
+      "publication_sha256": "3c551624ced74e259d4673165b6971c60c387bf08188bf7272f4d34caf3a9ac1",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204029.111963Z-h05-length-transition/code/exploration/persistent-01/worker-h/h01.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204029.111963Z-h05-length-transition/code/exploration/persistent-01/worker-h/h01.py",
+      "bytes": 4159,
+      "original_sha256": "633ee04941491ce2c37fccee57852b15a1db25ab22bdb09c096d34708ace2b4a",
+      "publication_sha256": "633ee04941491ce2c37fccee57852b15a1db25ab22bdb09c096d34708ace2b4a",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204029.111963Z-h05-length-transition/code/exploration/persistent-01/worker-h/h03.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204029.111963Z-h05-length-transition/code/exploration/persistent-01/worker-h/h03.py",
+      "bytes": 2248,
+      "original_sha256": "ab074145fa7baec34e66a24acf71988bc21cf93b5d40b14608237110f09435d4",
+      "publication_sha256": "ab074145fa7baec34e66a24acf71988bc21cf93b5d40b14608237110f09435d4",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205440.038603Z-h10-full-family-controls/code/exploration/persistent-01/run_logged.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205440.038603Z-h10-full-family-controls/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "original_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205440.038603Z-h10-full-family-controls/code/exploration/persistent-01/worker-h/h05.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205440.038603Z-h10-full-family-controls/code/exploration/persistent-01/worker-h/h05.py",
+      "bytes": 1592,
+      "original_sha256": "3c551624ced74e259d4673165b6971c60c387bf08188bf7272f4d34caf3a9ac1",
+      "publication_sha256": "3c551624ced74e259d4673165b6971c60c387bf08188bf7272f4d34caf3a9ac1",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205440.038603Z-h10-full-family-controls/code/exploration/persistent-01/worker-h/h01.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205440.038603Z-h10-full-family-controls/code/exploration/persistent-01/worker-h/h01.py",
+      "bytes": 4159,
+      "original_sha256": "633ee04941491ce2c37fccee57852b15a1db25ab22bdb09c096d34708ace2b4a",
+      "publication_sha256": "633ee04941491ce2c37fccee57852b15a1db25ab22bdb09c096d34708ace2b4a",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205440.038603Z-h10-full-family-controls/code/exploration/persistent-01/worker-h/h10.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205440.038603Z-h10-full-family-controls/code/exploration/persistent-01/worker-h/h10.py",
+      "bytes": 4929,
+      "original_sha256": "4db1d3e1ce11ce6245bf947fd59ed420bc4deb3b4dfda8be411cb88c559deff0",
+      "publication_sha256": "4db1d3e1ce11ce6245bf947fd59ed420bc4deb3b4dfda8be411cb88c559deff0",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205440.038603Z-h10-full-family-controls/code/exploration/persistent-01/worker-h/h10_control_full.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205440.038603Z-h10-full-family-controls/code/exploration/persistent-01/worker-h/h10_control_full.py",
+      "bytes": 1253,
+      "original_sha256": "fd6006967940cfdfab1e18f2954f51f1fe5e1dfd3f23ac25952c98c258544d94",
+      "publication_sha256": "fd6006967940cfdfab1e18f2954f51f1fe5e1dfd3f23ac25952c98c258544d94",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205440.038603Z-h10-full-family-controls/code/exploration/persistent-01/worker-h/h03.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205440.038603Z-h10-full-family-controls/code/exploration/persistent-01/worker-h/h03.py",
+      "bytes": 2248,
+      "original_sha256": "ab074145fa7baec34e66a24acf71988bc21cf93b5d40b14608237110f09435d4",
+      "publication_sha256": "ab074145fa7baec34e66a24acf71988bc21cf93b5d40b14608237110f09435d4",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205440.038603Z-h10-full-family-controls/code/exploration/persistent-01/worker-h/h07.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205440.038603Z-h10-full-family-controls/code/exploration/persistent-01/worker-h/h07.py",
+      "bytes": 1719,
+      "original_sha256": "7061b463db207d6cae2e1ebac3a96d40e1598b142f36089049ade55aadfbc999",
+      "publication_sha256": "7061b463db207d6cae2e1ebac3a96d40e1598b142f36089049ade55aadfbc999",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205440.038603Z-h10-full-family-controls/code/exploration/persistent-01/worker-h/h06_describe.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205440.038603Z-h10-full-family-controls/code/exploration/persistent-01/worker-h/h06_describe.py",
+      "bytes": 1053,
+      "original_sha256": "fdbbbc6fcd8c223a29a9799c8c981204cabca39327350d1179c10dcacaa7dc91",
+      "publication_sha256": "fdbbbc6fcd8c223a29a9799c8c981204cabca39327350d1179c10dcacaa7dc91",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T205440.038603Z-h10-full-family-controls/code/exploration/persistent-01/worker-h/h06.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T205440.038603Z-h10-full-family-controls/code/exploration/persistent-01/worker-h/h06.py",
+      "bytes": 1669,
+      "original_sha256": "33e45c0b82973d1922851c9e7d31c89d46bc9d6dd8761d9f28c6397e487123f3",
+      "publication_sha256": "33e45c0b82973d1922851c9e7d31c89d46bc9d6dd8761d9f28c6397e487123f3",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204306.115633Z-h07-conditional-period-spacing/code/exploration/persistent-01/run_logged.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204306.115633Z-h07-conditional-period-spacing/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "original_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204306.115633Z-h07-conditional-period-spacing/code/exploration/persistent-01/worker-h/h05.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204306.115633Z-h07-conditional-period-spacing/code/exploration/persistent-01/worker-h/h05.py",
+      "bytes": 1592,
+      "original_sha256": "3c551624ced74e259d4673165b6971c60c387bf08188bf7272f4d34caf3a9ac1",
+      "publication_sha256": "3c551624ced74e259d4673165b6971c60c387bf08188bf7272f4d34caf3a9ac1",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204306.115633Z-h07-conditional-period-spacing/code/exploration/persistent-01/worker-h/h01.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204306.115633Z-h07-conditional-period-spacing/code/exploration/persistent-01/worker-h/h01.py",
+      "bytes": 4159,
+      "original_sha256": "633ee04941491ce2c37fccee57852b15a1db25ab22bdb09c096d34708ace2b4a",
+      "publication_sha256": "633ee04941491ce2c37fccee57852b15a1db25ab22bdb09c096d34708ace2b4a",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204306.115633Z-h07-conditional-period-spacing/code/exploration/persistent-01/worker-h/h03.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204306.115633Z-h07-conditional-period-spacing/code/exploration/persistent-01/worker-h/h03.py",
+      "bytes": 2248,
+      "original_sha256": "ab074145fa7baec34e66a24acf71988bc21cf93b5d40b14608237110f09435d4",
+      "publication_sha256": "ab074145fa7baec34e66a24acf71988bc21cf93b5d40b14608237110f09435d4",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204306.115633Z-h07-conditional-period-spacing/code/exploration/persistent-01/worker-h/h07.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204306.115633Z-h07-conditional-period-spacing/code/exploration/persistent-01/worker-h/h07.py",
+      "bytes": 1719,
+      "original_sha256": "7061b463db207d6cae2e1ebac3a96d40e1598b142f36089049ade55aadfbc999",
+      "publication_sha256": "7061b463db207d6cae2e1ebac3a96d40e1598b142f36089049ade55aadfbc999",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204306.115633Z-h07-conditional-period-spacing/code/exploration/persistent-01/worker-h/h06_describe.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204306.115633Z-h07-conditional-period-spacing/code/exploration/persistent-01/worker-h/h06_describe.py",
+      "bytes": 1053,
+      "original_sha256": "fdbbbc6fcd8c223a29a9799c8c981204cabca39327350d1179c10dcacaa7dc91",
+      "publication_sha256": "fdbbbc6fcd8c223a29a9799c8c981204cabca39327350d1179c10dcacaa7dc91",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204306.115633Z-h07-conditional-period-spacing/code/exploration/persistent-01/worker-h/h06.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204306.115633Z-h07-conditional-period-spacing/code/exploration/persistent-01/worker-h/h06.py",
+      "bytes": 1669,
+      "original_sha256": "33e45c0b82973d1922851c9e7d31c89d46bc9d6dd8761d9f28c6397e487123f3",
+      "publication_sha256": "33e45c0b82973d1922851c9e7d31c89d46bc9d6dd8761d9f28c6397e487123f3",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204219.737811Z-h06-describe-collapsed-classes/code/exploration/persistent-01/run_logged.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204219.737811Z-h06-describe-collapsed-classes/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "original_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204219.737811Z-h06-describe-collapsed-classes/code/exploration/persistent-01/worker-h/h05.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204219.737811Z-h06-describe-collapsed-classes/code/exploration/persistent-01/worker-h/h05.py",
+      "bytes": 1592,
+      "original_sha256": "3c551624ced74e259d4673165b6971c60c387bf08188bf7272f4d34caf3a9ac1",
+      "publication_sha256": "3c551624ced74e259d4673165b6971c60c387bf08188bf7272f4d34caf3a9ac1",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204219.737811Z-h06-describe-collapsed-classes/code/exploration/persistent-01/worker-h/h01.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204219.737811Z-h06-describe-collapsed-classes/code/exploration/persistent-01/worker-h/h01.py",
+      "bytes": 4159,
+      "original_sha256": "633ee04941491ce2c37fccee57852b15a1db25ab22bdb09c096d34708ace2b4a",
+      "publication_sha256": "633ee04941491ce2c37fccee57852b15a1db25ab22bdb09c096d34708ace2b4a",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204219.737811Z-h06-describe-collapsed-classes/code/exploration/persistent-01/worker-h/h03.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204219.737811Z-h06-describe-collapsed-classes/code/exploration/persistent-01/worker-h/h03.py",
+      "bytes": 2248,
+      "original_sha256": "ab074145fa7baec34e66a24acf71988bc21cf93b5d40b14608237110f09435d4",
+      "publication_sha256": "ab074145fa7baec34e66a24acf71988bc21cf93b5d40b14608237110f09435d4",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204219.737811Z-h06-describe-collapsed-classes/code/exploration/persistent-01/worker-h/h06_describe.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204219.737811Z-h06-describe-collapsed-classes/code/exploration/persistent-01/worker-h/h06_describe.py",
+      "bytes": 1053,
+      "original_sha256": "fdbbbc6fcd8c223a29a9799c8c981204cabca39327350d1179c10dcacaa7dc91",
+      "publication_sha256": "fdbbbc6fcd8c223a29a9799c8c981204cabca39327350d1179c10dcacaa7dc91",
+      "transform": "verbatim-lossless-copy"
+    },
+    {
+      "original": "exploration/persistent-01/worker-h/runs/20260916T204219.737811Z-h06-describe-collapsed-classes/code/exploration/persistent-01/worker-h/h06.py",
+      "publication": "exploration/persistent-01/worker-h/publication-cycle1/runs/20260916T204219.737811Z-h06-describe-collapsed-classes/code/exploration/persistent-01/worker-h/h06.py",
+      "bytes": 1669,
+      "original_sha256": "33e45c0b82973d1922851c9e7d31c89d46bc9d6dd8761d9f28c6397e487123f3",
+      "publication_sha256": "33e45c0b82973d1922851c9e7d31c89d46bc9d6dd8761d9f28c6397e487123f3",
+      "transform": "verbatim-lossless-copy"
+    }
+  ],
+  "note": "Public copy of frozen archive publication-20260916T2057Z. Exactly one failed stderr has only the local checkout prefix normalized; original retained locally, both hashes below. Original scientific evidence and prior archive unchanged."
+}

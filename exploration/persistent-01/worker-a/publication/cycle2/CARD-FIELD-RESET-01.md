@@ -1,0 +1,13 @@
+# FIELD-RESET-01: event feedback at image-backed 13-dot edges
+
+Assumption changed: page continuity. Test whether the event-clock queue and preceding-cipher state reset together to the same sourced primer at each 13-dot boundary measured by G06. The language-score context remains continuous, identically for both models. The rejection RNG is not reset in controls. Repeated marks at one rune gap are idempotent; terminal gaps do not create empty fields. Four-dot marks do not reset anything.
+
+Frozen map: worker-g/g06-source-gap-map.json, SHA256 d9532e234811d2b99a03ef07ad692c8438f934fbedc70749b3be3f8147340443. Internal gaps: original3 [16,119,122], original7 [194], original17 none. These are typography-based hypotheses, not demonstrated cryptographic boundaries. No additional images or reserves are opened.
+
+Same 16 complete source primers × two signs as EVENT-CLOCK-01, beam128, reject cap3, probability.83 in encoders, English quadgrams. No seed expansion. Compare page-continuous and 13-edge reset on originals3/7; original17 is an unchanged no-reset baseline and reuses its prior results. Matched null shuffles within the frozen fields, preserving each field's rune counts. Both models receive the same null.
+
+Controls: WELCOME prefixes of217 and208 runes matching the two page shapes, with supplied physical gap positions and planted keys at seed-list indices1 and5/signs−,+. Synthetic gap placement is explicitly an arithmetic/search control, not natural reference typography. Run the complete32-key procedure under both models and matching within-field shuffles; independently re-encrypt all retained paths. Additional no-reset identity control must reproduce the existing event decoder.
+
+Continuation: select key and leading path/state using only runes before gap119 on page3 and gap194 on page7, then freeze them and decode the remaining fields. Page7 has only14 remaining runes, so its continuation has little power. Page17 retains its prior half-page cut136. Report full-search key rank, true-path survival, best plaintext recovery, and frozen-prefix continuation separately. Do not call previously examined discovery content globally untouched.
+
+Prediction: a reset model present in this bounded family should recover planted reset controls, outperform continuous decoding where state discontinuities matter, and give a coherent subsequent-field continuation on real data beyond matched noise. Otherwise no larger reset/key sweep follows automatically. Stop on arithmetic/map mismatch. This is the second event-family test; absent a predictive real signal, change another material assumption or shift role next.

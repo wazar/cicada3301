@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "page": 3,
+      "offsets": [
+        0,
+        15
+      ],
+      "counts": {
+        "nominal": 232,
+        "overflow": 228,
+        "eligible": 4,
+        "checks": 24
+      },
+      "hits": [],
+      "null_total_hits": 0
+    },
+    {
+      "page": 3,
+      "offsets": [
+        119,
+        121
+      ],
+      "counts": {
+        "nominal": 232,
+        "overflow": 230,
+        "eligible": 2,
+        "checks": 0
+      },
+      "hits": [],
+      "null_total_hits": 0
+    },
+    {
+      "page": 7,
+      "offsets": [
+        194,
+        207
+      ],
+      "counts": {
+        "nominal": 232,
+        "overflow": 216,
+        "eligible": 16,
+        "checks": 96
+      },
+      "hits": [],
+      "null_total_hits": 1
+    }
+  ],
+  "positive_controls": 2
+}
