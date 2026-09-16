@@ -544,5 +544,75 @@
     "original_sha256": "f4a38e51246e449837324bfde1a67fd4391632a764c0ba1407f933ff528f5e21",
     "published_sha256": "76424c006a3dfd422c0199a8db7d83cd67b08ca17dd2807d05d89441e8c3f008",
     "change": "Only local checkout prefix normalized in completed metadata/output; original bytes retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P13/control-8-opt-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P13/control-8-opt-command.json",
+    "original_sha256": "8cfed06b9a29fdbd00232f26641bdee3061b89a0a3181a0dcfebca844976411a",
+    "published_sha256": "34cb8fc456878093165a0a9c265f60953be8c4ecfcc7dcfc8c9020bfba05e998",
+    "change": "Only checkoutprefix normalized in completed output/metadata; exact originals retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P13/control-8-perm-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P13/control-8-perm-command.json",
+    "original_sha256": "f22f212f79deff7e1c58c90ecb05226047a17d68690738738a58876a513b540a",
+    "published_sha256": "3e24b09fbf69b9fd47cb4d161c00c23dbec4399dbe42b008b3efe3455277031e",
+    "change": "Only checkoutprefix normalized in completed output/metadata; exact originals retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P13/control-0-perm-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P13/control-0-perm-command.json",
+    "original_sha256": "548f29ded0651e34ec9d1d16c931b7f4aa6f0fd87f436e3c13adc0cca48e3056",
+    "published_sha256": "667a892e120e105c07eab0ef678db6ea8a5b4e82e9478bf98faea5e3a428eaf4",
+    "change": "Only checkoutprefix normalized in completed output/metadata; exact originals retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P13/control-0-opt-command.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P13/control-0-opt-command.json",
+    "original_sha256": "6e28e714eb45662e3df3cb8b785c2616037a6e32504faf4dc2f4d6b458eeccc2",
+    "published_sha256": "fbfea568c704d80043cf9d4cdce9a5a343d62b7c489409edcbfe887dc013246d",
+    "change": "Only checkoutprefix normalized in completed output/metadata; exact originals retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P13/build.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/P13/build.json",
+    "original_sha256": "8d6ae9129feaf02696bc62c1ee6eddde7590f22c7e73130ce23f4931c870125d",
+    "published_sha256": "9c8b0c7a4aebd7cfd6107e51cf55e6909aab0af93c917186b277713c1eecc594",
+    "change": "Only checkoutprefix normalized in completed output/metadata; exact originals retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-n/N09/input.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-n/N09/input.json",
+    "original_sha256": "90401e781c1905f94b466125727d968fa271e7e37359eaf469e3fdaba0fd2ed1",
+    "published_sha256": "5d865b1b1ad410cbdd2451e1cdf1027416a147516c955590cf4e6de59ec11e45",
+    "change": "Only checkoutprefix normalized in completed output/metadata; exact originals retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-q/Q06/inputs.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-q/Q06/inputs.json",
+    "original_sha256": "b78214bf8eec72d143d217634e8393172fe3057dfd887d0d111b12e2672ce7d1",
+    "published_sha256": "f594ef7dab612e90fd86379024704e1586ce336d4e8bb5921093d8f1413799d6",
+    "change": "Only checkoutprefix normalized in completed output/metadata; exact originals retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/review-18/inputs.json",
+    "private_original": "exploration/persistent-01/private-originals/review-18/inputs.json",
+    "original_sha256": "92d42e26fbc49573f662209fda28d4e8567d39d1a640eabb81a6cc69fb2540b0",
+    "published_sha256": "09da2b8088906d12615612cd60ba1667693ba328d6bb3bd500bb80a92300b0b3",
+    "change": "Only checkoutprefix normalized in completed output/metadata; exact originals retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/runs/20260916T231914.976910Z-p13-optimizer-and-table-permutation-controls/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/runs/20260916T231914.976910Z-p13-optimizer-and-table-permutation-controls/stderr.txt",
+    "original_sha256": "1fc1b72ea576079254c856444181f5ef86c6a14eda8073355500b11ce77ad645",
+    "published_sha256": "435918bea2b2af990dccce8f55ff6b6658ffa3067203e565a49f800881d6ee8a",
+    "change": "Only checkoutprefix normalized in completed output/metadata; exact originals retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/runs/20260916T231945.576197Z-p13-lengthlimit-fixture-corrected-controls/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/runs/20260916T231945.576197Z-p13-lengthlimit-fixture-corrected-controls/stderr.txt",
+    "original_sha256": "78ec5bd031b44895b9de0d12df9abaf8ad97db5d8e2c625a67b0d9813b44a657",
+    "published_sha256": "c0ef0261035ed0f8dd354da7742ba23ef0758c3ddea6fb8583063a07d50a6b8e",
+    "change": "Only checkoutprefix normalized in completed output/metadata; exact originals retained privately."
   }
 ]

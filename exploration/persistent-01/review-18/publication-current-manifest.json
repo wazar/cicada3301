@@ -1,0 +1,245 @@
+{
+  "scope": "Currentpublicbytes; prior manifests describe originalsnapshot identities; metadata-only redactions mappedseparately.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/review-18/MANIFEST.json",
+      "bytes": 7908,
+      "sha256": "8f5c864587ff92f524d994ceaf4877c30538b75399f1153db7a0798decee3e96"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/REPORT.md",
+      "bytes": 3726,
+      "sha256": "edcad0c913cc5d179c5f091d80a1ecbdf88e1e468ed5b0ca71611c5f8a229b66"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/check.py",
+      "bytes": 4279,
+      "sha256": "2d6ee43947f6f391b0ab581056cf94cae540122fd9e6f8b9d8636d1b44ba77bd"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/control-0-0-proposals.json.gz",
+      "bytes": 19521,
+      "sha256": "c44236400dbb2e1c1b13c1f9a7439174bd21a0c885d36d924e517da246b349b8"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/control-0-1-proposals.json.gz",
+      "bytes": 19530,
+      "sha256": "110584a396020c7f994376ccee5d2e93080e3293990358f118782c7d4494cd54"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/control-0-2-proposals.json.gz",
+      "bytes": 19521,
+      "sha256": "de0fc423bffa7282264b6117a77abb61a82eec1a5b3776349e3463d786632ac1"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/control-0-3-proposals.json.gz",
+      "bytes": 19468,
+      "sha256": "35ac0dfc0732f49eb2047a6c63b1414e5f5fdc965439efb58a55de233369cf76"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/control-1-0-proposals.json.gz",
+      "bytes": 201074,
+      "sha256": "c35e1cd282d0df3e73cdadab08341e5d4dca2a9d0fa2e30f44c1b04436819424"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/control-1-1-proposals.json.gz",
+      "bytes": 202943,
+      "sha256": "3657147e58ba9c8cfe765602daabc54e753bf070825a178f4bfd46e90962ee88"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/control-1-2-proposals.json.gz",
+      "bytes": 197468,
+      "sha256": "a818063a0c0571ef4871b3a3c49258397816582bb9875bc9183aeeb414d3a11a"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/control-1-3-proposals.json.gz",
+      "bytes": 196087,
+      "sha256": "9938ff7ae6599a989e91817d8ab53bf6621d17999a67ca4375f473d824b66ac1"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/inputs.json",
+      "bytes": 2183,
+      "sha256": "09da2b8088906d12615612cd60ba1667693ba328d6bb3bd500bb80a92300b0b3"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/real-composite-witnesses.json",
+      "bytes": 127914,
+      "sha256": "51a685e3fa71cd8b17a767a6560c208af4904732915f4ee1b1fe20577f4cf22d"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/real-phases.json",
+      "bytes": 36830,
+      "sha256": "afcdd11d9e7e6e3f97dd4f987f6101c2e49969f613c53974d8b2194b4f95017d"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/real_phases.py",
+      "bytes": 1475,
+      "sha256": "52c0c4373242c4f89eff19c027a9e05be9eca839b70a98975149f10bb0df5c2c"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/result.json",
+      "bytes": 76050,
+      "sha256": "0c64539f518be175e858e0a683f3c5d6a53a4229f27b3bf7573119acfbbc21e0"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/runs/20260916T232604.423719Z-independent/code/exploration/persistent-01/coordinator/Q02/test.py",
+      "bytes": 3889,
+      "sha256": "0acd9afc1605f02076cb1d5e6abb6b03f04dc447f4402e69634803cf70dec019"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/runs/20260916T232604.423719Z-independent/code/exploration/persistent-01/review-18/check.py",
+      "bytes": 4279,
+      "sha256": "2d6ee43947f6f391b0ab581056cf94cae540122fd9e6f8b9d8636d1b44ba77bd"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/runs/20260916T232604.423719Z-independent/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/runs/20260916T232604.423719Z-independent/command.json",
+      "bytes": 1763,
+      "sha256": "c63f25274a10182123159e3b6c187926523e702fdb16f0478ff460033e6a066b"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/runs/20260916T232604.423719Z-independent/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/runs/20260916T232604.423719Z-independent/stdout.txt",
+      "bytes": 777,
+      "sha256": "0839565210c6cf3610338b5c7047e365b2fbcd34738e905cd86deb27dd28b835"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/runs/20260916T232634.873711Z-real-all-phases/code/exploration/persistent-01/review-18/check.py",
+      "bytes": 4279,
+      "sha256": "2d6ee43947f6f391b0ab581056cf94cae540122fd9e6f8b9d8636d1b44ba77bd"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/runs/20260916T232634.873711Z-real-all-phases/code/exploration/persistent-01/review-18/real_phases.py",
+      "bytes": 1475,
+      "sha256": "52c0c4373242c4f89eff19c027a9e05be9eca839b70a98975149f10bb0df5c2c"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/runs/20260916T232634.873711Z-real-all-phases/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/runs/20260916T232634.873711Z-real-all-phases/command.json",
+      "bytes": 1572,
+      "sha256": "ac9ca841ad2a1d5c440e52ef6756295b28cc8730e2b24dec4227971bad2ce4aa"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/runs/20260916T232634.873711Z-real-all-phases/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/runs/20260916T232634.873711Z-real-all-phases/stdout.txt",
+      "bytes": 112,
+      "sha256": "2c58a484e0a5986e680ec99153335d9f220cf7557905ddd705260c958734a04a"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/runs/20260916T232714.171924Z-witnesses/code/exploration/persistent-01/review-18/check.py",
+      "bytes": 4279,
+      "sha256": "2d6ee43947f6f391b0ab581056cf94cae540122fd9e6f8b9d8636d1b44ba77bd"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/runs/20260916T232714.171924Z-witnesses/code/exploration/persistent-01/review-18/real_phases.py",
+      "bytes": 1475,
+      "sha256": "52c0c4373242c4f89eff19c027a9e05be9eca839b70a98975149f10bb0df5c2c"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/runs/20260916T232714.171924Z-witnesses/code/exploration/persistent-01/review-18/witnesses.py",
+      "bytes": 1102,
+      "sha256": "9c655f63c77db3fd30802b9896277bb78025700df0aa27537dbd1c11d65349b7"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/runs/20260916T232714.171924Z-witnesses/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/runs/20260916T232714.171924Z-witnesses/command.json",
+      "bytes": 1777,
+      "sha256": "ff3957c190311f1f7ccbcb7e7dff7a6d7cf27c628645c7f7721192d7278514b2"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/runs/20260916T232714.171924Z-witnesses/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/runs/20260916T232714.171924Z-witnesses/stdout.txt",
+      "bytes": 15,
+      "sha256": "4bdee4543b94950d39b8a058362daa35846296c05203302d466bc9eb496045cb"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/snapshots/CARD.md",
+      "bytes": 2621,
+      "sha256": "210eb7dc79df69dfd758ce6d9b3c7f6cd475eda2e968cba64f60388acf80aba6"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/snapshots/F06-maps.json",
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/snapshots/control-0-0.json",
+      "bytes": 327121,
+      "sha256": "b6927abd4c745f083b3ee2787f9a284eb8c40bf53d45a29dbed6caaff6b71772"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/snapshots/control-0-1.json",
+      "bytes": 327318,
+      "sha256": "8a00d83fb4910b3dc8e2b16ab5ff64eed1f52c4298c44d3f45fef48b18171ce3"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/snapshots/control-0-2.json",
+      "bytes": 327213,
+      "sha256": "6316d27d2e0915326da212d6c534eb038d200c0c7471f4e925f73d9784519ea0"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/snapshots/control-0-3.json",
+      "bytes": 327210,
+      "sha256": "1d8430708f68e6bbb862c86fa83cbe59994c82066445ce33010c95eba5c8b594"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/snapshots/control-1-0.json",
+      "bytes": 326356,
+      "sha256": "b3e61c9b27eae327e53d9f665389cee5d494d35b7184493212932b5cf07e322c"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/snapshots/control-1-1.json",
+      "bytes": 326329,
+      "sha256": "d82c778d300de819bc0161bf5f69c031eb2ea0689624ba810f102e9e77eac22e"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/snapshots/control-1-2.json",
+      "bytes": 326274,
+      "sha256": "798e2b48e5f88604a5aa79802720f016812b49807e269d20ba6c04f8c10bc470"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/snapshots/control-1-3.json",
+      "bytes": 326422,
+      "sha256": "1d28e9182718c61ecf996a3b87873f5ad2f560396b4fc11df7ba53f347e96f88"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/snapshots/real.json",
+      "bytes": 515352,
+      "sha256": "17f1fbe0b0e7d61f35340cdbb8131362d95e124ecc197e386b420de7216f6024"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/snapshots/test.py",
+      "bytes": 3889,
+      "sha256": "0acd9afc1605f02076cb1d5e6abb6b03f04dc447f4402e69634803cf70dec019"
+    },
+    {
+      "path": "exploration/persistent-01/review-18/witnesses.py",
+      "bytes": 1102,
+      "sha256": "9c655f63c77db3fd30802b9896277bb78025700df0aa27537dbd1c11d65349b7"
+    }
+  ]
+}

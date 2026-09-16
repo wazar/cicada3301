@@ -1,0 +1,47 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/coordinator/Q02/test.py",
+    "controls"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "4a1ecfb66c367c6a1abb195992af89fb6ea2459a",
+  "started_utc": "2026-09-16T23:22:54.590390+00:00",
+  "timeout_seconds": 120,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q02/test.py",
+      "exists": true,
+      "bytes": 3889,
+      "sha256": "0acd9afc1605f02076cb1d5e6abb6b03f04dc447f4402e69634803cf70dec019"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 75749,
+  "finished_utc": "2026-09-16T23:22:55.553252+00:00",
+  "duration_seconds": 0.9626445409994631
+}

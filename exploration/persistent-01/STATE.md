@@ -1,17 +1,17 @@
 # PERSISTENT-01 — active direct research
 
-Strategy **outside-box-v1**, received from safe fast-forward ef2e807 and acknowledged in active workers. Reviewed checkpoint9 6ae89b9 is on origin/master, covering M25/M26/M27, P05/P06, independent reviews10/12 and frozen visual reads. Earlier checkpoints remain unchanged.
+Strategy **outside-box-v1**, received from safe fast-forward ef2e807 and acknowledged in active workers. Reviewed checkpoint11 ed08304d is on origin/master, covering M25/M26/M27, P05/P06, independent reviews10/12 and frozen visual reads. Earlier checkpoints remain unchanged.
 
 Start16 September2026,21:30:37 SAST. Fixed deadline **17 September2026,05:30:37 SAST /03:30:37UTC**. No extension. Honor exploration/persistent-01/STOP. Native goal active. One interactive coordinator; no external controller, no competing supervisor. All research processes stay with logged bounded worker sessions. Git writes only by coordinator; unrelated macOS setup remains untouched.
 
 ## Current actual assignments
 
-Allocation recorded at 2026-09-16T23:16:14.091091+00:00, same fixed deadline and sole coordinator:
+Allocation recorded at 2026-09-16T23:31:28.725837+00:00, same fixed deadline and sole coordinator:
 
-- persistent_p: P13 JPEG Huffman optimizer/table-channel test; distinguish deterministic frequency optimization from extra table-order freedom, controls first. P12 frozen43-image exactJSteg miss.
-- persistent_n: N09 alternative finite-state/deck encoder with scorer-free second prediction beyond repeated-rune deficit; check overlap then freeze and execute.
-- persistent_q: Q05 structured-number or nonadditive fractionation explanation, complete-format controls and discovery prediction; Q04 unknown-map controls failed, no real search.
-- coordinator: Sole direct controller/Git writer; publish reviewed checkpoint10 and independently check P12; original deadline unchanged.
+- persistent_p: P14 continuous four-page numeric-clock real packet/matchednull after4controlkeys recovered; one controlpath has1runeerror. Samefourformulas/cap2048, no newkeys.
+- persistent_r: Fresh neutral worker R01 fixed unknown-zero canonicalnumeric representation: index27 selected only on0/1 unitstarts, frozen remainingdiscovery prediction/fullselection null. Priorcontextlimited, notstronglyblinded.
+- persistent_n: Review19 independent P14 exactstate/boundary/LMreset/finitekey andcontrols; review18 rootprime-number test complete.
+- coordinator: Checkpoint12 publication; Q06 failedrotationcontrols preserved with noactualglyphstatistic. RootQ02 reviewed miss181/tail.809. Sole direct controller, unchanged03:30:37UTC deadline.
 
 M22 exact periods1–3 recovered12/12 controlkeys versus11/12 for inheritedheuristic, with three correct-key wrongprefix path winners. Its real0/17 pilot had nulltails.57/.49; no automatic expansion. N03/N04 crosspage equality/one-corruption tests found no usefulrelation;16-runecontrols remain underpowered. O01 opcode-arity model missed; O02 exactcountpartitions eliminate the finite J03 five-page conjunction on pages0/3/17. Those are finite construction/register bounds, not wholecipher exclusions.
 
@@ -44,3 +44,7 @@ Next two executable actions: validate and run P10 entropy-tail extraction with f
 Checkpoint10: N07 converged after explicitly recorded one-step polish of85failedfits; N08 boundary-copy max6/nulltails.735/.740; P10 no entropy-tail bytes in0/1; P11 exactclassicJSteg headers exceed capacity. Reviews15/16 independently reproduce parsers/source behavior. Q04 later controls recover0/8 observedmaps; review17 distinguishes optimizer failure and finite-sample ambiguity. No reserve reveal.
 
 Next executable tests are P13 Huffman-table channel controls and N09 scorer-free generative prediction. Q05 challenges the output representation. Outside-box-v1 continues; no success or optimality claim.
+
+Latest evidence: P13 all8 completeDHT tables exactly match frozenoptimizer on0/1, including actualties/lengthlimits; coefficienthistogram replay passes. N09 heldpredictiongain−3.07401e−6/tail.687 despite100/100 controls at eachstrength. Q05 totientsequence0/4 relations. Next actual steps: Q06 planted-stroke controls and P14 four-page continuous-clock controls. No realcandidate, no deadlineextension.
+
+Checkpoint12 records P13 deterministicHuffman compatibility, N09 second-order exclusion miss, Q05 exacttotient miss, Q06 failedglyphrotationcontrols, rootQ02 prime-unit miss with independentreview18. Next executable tests: finish P14 continuous-clock comparison under review19; run R01 fixedzero heldprediction. No successclaim, noreserve reveal or deadlineextension.

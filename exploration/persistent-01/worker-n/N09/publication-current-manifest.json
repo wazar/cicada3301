@@ -1,0 +1,150 @@
+{
+  "scope": "Currentpublicbytes; prior manifests describe originalsnapshot identities; metadata-only redactions mappedseparately.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/worker-n/N09/MANIFEST.json",
+      "bytes": 4463,
+      "sha256": "212d6394a9305701abdc859556887646e2ad990ab41f6f9826efb17fef56d375"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/REPORT.md",
+      "bytes": 4418,
+      "sha256": "3a5f19fef452782d497a60d26f784aa9044a5899269901a31bb627b3f11f56a8"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/card.md",
+      "bytes": 3692,
+      "sha256": "16dcbe3337f162bd3344ea24f04657af48325fd7530cdb2ba0ef6cb8bba52723"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/exact-zero-witnesses.json",
+      "bytes": 98267,
+      "sha256": "69a6fb98f34fa254362d6383d5a946a162980b9036b378fd36b41829f23e6e58"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/generated.npz",
+      "bytes": 24279993,
+      "sha256": "2e3318c2c4f9b65a0490d2b8741b9bf8f2634e4e448e7ef10e884a78691ff680"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/input.json",
+      "bytes": 1055488,
+      "sha256": "5d865b1b1ad410cbdd2451e1cdf1027416a147516c955590cf4e6de59ec11e45"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/n09.py",
+      "bytes": 5790,
+      "sha256": "529c46f5e9a1ce8fd8219ad89a7d5d480a5d576bfd751e302a280d6c7fe52d56"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/pilot.json",
+      "bytes": 72906,
+      "sha256": "0ca23bd4611c0716f2975da16a14e8261da9aa6887d7900e4cb4e5027cc6097b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/real.json",
+      "bytes": 3546626,
+      "sha256": "2af2ff1e55661cc20b9d6dbb8eb881f78299ae17f4095bdf2ba885f1ec1fdd3e"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/replicates.json.gz",
+      "bytes": 458551,
+      "sha256": "f0fb84054237fa3a41b1fd7334c95bd6cb463e06324b2a013bddacfd5ab42fb3"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/result.json",
+      "bytes": 618,
+      "sha256": "2884b1a84fbd28ff2817e3d6c6bb658a32b6a3ac8a03352bb3cdd97be0d04953"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/runs/20260916T231935.615680Z-finite-pilot/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/runs/20260916T231935.615680Z-finite-pilot/code/exploration/persistent-01/worker-n/N09/n09.py",
+      "bytes": 5790,
+      "sha256": "529c46f5e9a1ce8fd8219ad89a7d5d480a5d576bfd751e302a280d6c7fe52d56"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/runs/20260916T231935.615680Z-finite-pilot/command.json",
+      "bytes": 1570,
+      "sha256": "7d99b214da51b8eef32e172991aa8873ff38291ff2be53a7eeee0fa800c4acae"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/runs/20260916T231935.615680Z-finite-pilot/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/runs/20260916T231935.615680Z-finite-pilot/stdout.txt",
+      "bytes": 192,
+      "sha256": "53af7fd5753c6e8e96afa4e1922b69e4135c245bdec756ff2978d8463b411303"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/runs/20260916T232009.215646Z-frozen1199/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/runs/20260916T232009.215646Z-frozen1199/code/exploration/persistent-01/worker-n/N09/n09.py",
+      "bytes": 5790,
+      "sha256": "529c46f5e9a1ce8fd8219ad89a7d5d480a5d576bfd751e302a280d6c7fe52d56"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/runs/20260916T232009.215646Z-frozen1199/command.json",
+      "bytes": 1568,
+      "sha256": "d4f378fed3a1f15e420774e344fd052531251f4f8185747cfb471d3a5394fb5b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/runs/20260916T232009.215646Z-frozen1199/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/runs/20260916T232009.215646Z-frozen1199/stdout.txt",
+      "bytes": 619,
+      "sha256": "4adf946ea392923f07c5f4f60029e8b5e99463ffe971d6b58ac8de887caf1d33"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/runs/20260916T232126.521541Z-independent-increments/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/runs/20260916T232126.521541Z-independent-increments/code/exploration/persistent-01/worker-n/N09/n09.py",
+      "bytes": 5790,
+      "sha256": "529c46f5e9a1ce8fd8219ad89a7d5d480a5d576bfd751e302a280d6c7fe52d56"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/runs/20260916T232126.521541Z-independent-increments/code/exploration/persistent-01/worker-n/N09/verify.py",
+      "bytes": 4199,
+      "sha256": "b4aed7e007fcae429d9595470b6b8123c76e9640ec0bca058003df0f8e1f7554"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/runs/20260916T232126.521541Z-independent-increments/command.json",
+      "bytes": 1562,
+      "sha256": "3b8fb82a764bd19499fa1d3d50a50df8d5333b046f14812eaa6101f993594eba"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/runs/20260916T232126.521541Z-independent-increments/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/runs/20260916T232126.521541Z-independent-increments/stdout.txt",
+      "bytes": 321,
+      "sha256": "e9c70b1cfa7d31039c99c3917fef47022bf2fc60f92ff9baee142f73732f7b26"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/verification.json",
+      "bytes": 320,
+      "sha256": "33356e7e2ff31a88fc32bd3c3e0eaa29d414d28999debd2cc80d061e3f5a25a1"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N09/verify.py",
+      "bytes": 4199,
+      "sha256": "b4aed7e007fcae429d9595470b6b8123c76e9640ec0bca058003df0f8e1f7554"
+    }
+  ]
+}

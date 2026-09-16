@@ -55,6 +55,76 @@
       "path": "exploration/persistent-01/worker-p/runs/20260916T230941.517988Z-p12-independent-header-original-C-sink-replay/code/exploration/persistent-01/worker-p/p11_build.py",
       "sha256": "452c3072aaefc45759e85ffdd06977141b69edcdee8a6e188f151b4c5415ac07",
       "content": "Exact executed source snapshot includes local bundled libjpeg runtime path; no credentials, same previously documented build-driver provenance."
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P13/build.json",
+      "sha256": "9c8b0c7a4aebd7cfd6107e51cf55e6909aab0af93c917186b277713c1eecc594",
+      "content": "Exact executed build source/metadata retains bundled libjpeg runtime path. No credentials; must adapt dependency path on other machines."
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p13_build.py",
+      "sha256": "d4ef757af8da93415859d3cadd7826c608886cecf387f7c6739b7f5313e2f531",
+      "content": "Exact executed build source/metadata retains bundled libjpeg runtime path. No credentials; must adapt dependency path on other machines."
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/runs/20260916T231740.430214Z-p13-reference-optimizer-helper-build/code/exploration/persistent-01/worker-p/p11_build.py",
+      "sha256": "452c3072aaefc45759e85ffdd06977141b69edcdee8a6e188f151b4c5415ac07",
+      "content": "Exact executed build source/metadata retains bundled libjpeg runtime path. No credentials; must adapt dependency path on other machines."
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/runs/20260916T231740.430214Z-p13-reference-optimizer-helper-build/code/exploration/persistent-01/worker-p/p13_build.py",
+      "sha256": "d4ef757af8da93415859d3cadd7826c608886cecf387f7c6739b7f5313e2f531",
+      "content": "Exact executed build source/metadata retains bundled libjpeg runtime path. No credentials; must adapt dependency path on other machines."
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/runs/20260916T231914.976910Z-p13-optimizer-and-table-permutation-controls/code/exploration/persistent-01/worker-p/p11_build.py",
+      "sha256": "452c3072aaefc45759e85ffdd06977141b69edcdee8a6e188f151b4c5415ac07",
+      "content": "Exact executed build source/metadata retains bundled libjpeg runtime path. No credentials; must adapt dependency path on other machines."
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/runs/20260916T231914.976910Z-p13-optimizer-and-table-permutation-controls/code/exploration/persistent-01/worker-p/p13_build.py",
+      "sha256": "d4ef757af8da93415859d3cadd7826c608886cecf387f7c6739b7f5313e2f531",
+      "content": "Exact executed build source/metadata retains bundled libjpeg runtime path. No credentials; must adapt dependency path on other machines."
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/runs/20260916T231945.576197Z-p13-lengthlimit-fixture-corrected-controls/code/exploration/persistent-01/worker-p/p11_build.py",
+      "sha256": "452c3072aaefc45759e85ffdd06977141b69edcdee8a6e188f151b4c5415ac07",
+      "content": "Exact executed build source/metadata retains bundled libjpeg runtime path. No credentials; must adapt dependency path on other machines."
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/runs/20260916T231945.576197Z-p13-lengthlimit-fixture-corrected-controls/code/exploration/persistent-01/worker-p/p13_build.py",
+      "sha256": "d4ef757af8da93415859d3cadd7826c608886cecf387f7c6739b7f5313e2f531",
+      "content": "Exact executed build source/metadata retains bundled libjpeg runtime path. No credentials; must adapt dependency path on other machines."
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/runs/20260916T232003.694282Z-p13-symbol-histogram-instrumentation-fixed-controls/code/exploration/persistent-01/worker-p/p11_build.py",
+      "sha256": "452c3072aaefc45759e85ffdd06977141b69edcdee8a6e188f151b4c5415ac07",
+      "content": "Exact executed build source/metadata retains bundled libjpeg runtime path. No credentials; must adapt dependency path on other machines."
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/runs/20260916T232003.694282Z-p13-symbol-histogram-instrumentation-fixed-controls/code/exploration/persistent-01/worker-p/p13_build.py",
+      "sha256": "d4ef757af8da93415859d3cadd7826c608886cecf387f7c6739b7f5313e2f531",
+      "content": "Exact executed build source/metadata retains bundled libjpeg runtime path. No credentials; must adapt dependency path on other machines."
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/runs/20260916T232026.714176Z-p13-actual0-1-complete-huffman-table-comparison/code/exploration/persistent-01/worker-p/p11_build.py",
+      "sha256": "452c3072aaefc45759e85ffdd06977141b69edcdee8a6e188f151b4c5415ac07",
+      "content": "Exact executed build source/metadata retains bundled libjpeg runtime path. No credentials; must adapt dependency path on other machines."
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/runs/20260916T232026.714176Z-p13-actual0-1-complete-huffman-table-comparison/code/exploration/persistent-01/worker-p/p13_build.py",
+      "sha256": "d4ef757af8da93415859d3cadd7826c608886cecf387f7c6739b7f5313e2f531",
+      "content": "Exact executed build source/metadata retains bundled libjpeg runtime path. No credentials; must adapt dependency path on other machines."
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/runs/20260916T232124.726972Z-p13-independent-coefficient-histogram-replay/code/exploration/persistent-01/worker-p/p11_build.py",
+      "sha256": "452c3072aaefc45759e85ffdd06977141b69edcdee8a6e188f151b4c5415ac07",
+      "content": "Exact executed build source/metadata retains bundled libjpeg runtime path. No credentials; must adapt dependency path on other machines."
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/runs/20260916T232124.726972Z-p13-independent-coefficient-histogram-replay/code/exploration/persistent-01/worker-p/p13_build.py",
+      "sha256": "d4ef757af8da93415859d3cadd7826c608886cecf387f7c6739b7f5313e2f531",
+      "content": "Exact executed build source/metadata retains bundled libjpeg runtime path. No credentials; must adapt dependency path on other machines."
     }
   ]
 }

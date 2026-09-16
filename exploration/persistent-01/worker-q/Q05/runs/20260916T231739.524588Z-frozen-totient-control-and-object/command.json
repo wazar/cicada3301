@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-q/Q05/q05.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "4a1ecfb66c367c6a1abb195992af89fb6ea2459a",
+  "started_utc": "2026-09-16T23:17:39.534155+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F10-evidence.json.gz",
+      "exists": true,
+      "bytes": 310205,
+      "sha256": "086b938f66638f712b8b978548443868776a132d94798707042732aa6b91da87"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q05/CARD.md",
+      "exists": true,
+      "bytes": 2839,
+      "sha256": "0f08a94999009dbcc2f60553b64281f4dd40e3a6924c483c7515c9066ec8a522"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q05/q05.py",
+      "exists": true,
+      "bytes": 4492,
+      "sha256": "602b7231fcad45b4e10fb7f86faad3163ba9dc5afb245f7b5bbab33eb8b6ec02"
+    },
+    {
+      "path": "liber-primus/SOLVED-PAGES.json",
+      "exists": true,
+      "bytes": 4430,
+      "sha256": "cd3c6d55800375dea4d5d95f87f758ba5e832396e63fb2130f1079eb63bafc85"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 73998,
+  "finished_utc": "2026-09-16T23:17:39.625060+00:00",
+  "duration_seconds": 0.09070799999972223
+}

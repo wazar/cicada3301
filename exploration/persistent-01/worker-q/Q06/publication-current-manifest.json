@@ -1,0 +1,225 @@
+{
+  "scope": "Currentpublicbytes; prior manifests describe originalsnapshot identities; metadata-only redactions mappedseparately.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/CARD.md",
+      "bytes": 3401,
+      "sha256": "0713e191a205520c645107371a17e33b6b5852ff6d11f3014a3cec2537f097c4"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/REPORT.md",
+      "bytes": 5738,
+      "sha256": "17354774e5937d4f28ba0dfb3c76844ef70f6ed9c11f675228a3d7986029acab"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/check.json",
+      "bytes": 1106,
+      "sha256": "1ab5a1940db9e9713d4ba989a8488c926588ce93663443d9e1a1c93b5bf77db5"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/check.py",
+      "bytes": 2191,
+      "sha256": "778e55bc3f8d604246b351567bbdd0ca61427b530793098fbe3900548a204b03"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/controls-summary.json",
+      "bytes": 2096,
+      "sha256": "07fe3e4198fdb434d38583fe09bc9201aa64ded9598791331b5edb3a2f92edd5"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/diagnose.py",
+      "bytes": 675,
+      "sha256": "b684a13d920508c87a108015059640b4f6573d9415eaad9dd9698e035e5cc70e"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/identity-rejection-diagnosis.json",
+      "bytes": 1024,
+      "sha256": "c9d10bf9065a26f7bbbfee75745149854740cbd262a8c76985fc878392e7c1c1"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/inputs.json",
+      "bytes": 1175,
+      "sha256": "f594ef7dab612e90fd86379024704e1586ce336d4e8bb5921093d8f1413799d6"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/inputs.npz",
+      "bytes": 631713,
+      "sha256": "920a9e8a05fe6a8f9213e8042dfc592811aa48e1467c706f69bf4fea56157929"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/maps.json",
+      "bytes": 199519,
+      "sha256": "57cafee92085e7cc4644d773e255ccfbe4fd5ee73e2b4602cc21458da715b0f2"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/positive-0.json",
+      "bytes": 476,
+      "sha256": "46d7bb8f8c2e9c2687e2fe19684fcbc3109dc3d23fea0a4fc8a013e7236a17c5"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/positive-0.npz",
+      "bytes": 1279460,
+      "sha256": "ae753521fc8ee630a939fe595fbaad393ec74fb8cf349f2b297b9e8d9f12070d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/positive-1.json",
+      "bytes": 490,
+      "sha256": "c32e8b542685a55d92c5a1ba53799768aee01b2c047419694ec97247898b59dd"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/positive-1.npz",
+      "bytes": 1281768,
+      "sha256": "8c43a53057f6ed6706dde6084bc412b033e3402fbc82f0a8ed274b4c1d211907"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/publication-manifest.json",
+      "bytes": 3575,
+      "sha256": "bcba7dc7943947ee82d82a2351ee22bcc9d3ee74337aa9eb281e6ed9d0141202"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/q06.py",
+      "bytes": 8790,
+      "sha256": "19ffa513dafae6800bc9744869baa64276db4067f632c0d3f6e8afafba21f3f6"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/raster-null-0.json",
+      "bytes": 327,
+      "sha256": "f57367be884781b3396eaca6c4b4021bf7c46e599875fdc15af929827b7aed36"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/raster-null-0.npz",
+      "bytes": 1274516,
+      "sha256": "04d586af9dda81aca3c6f14b488b06e4b91180c6c164165b46cf6b17ffbb299b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/raster-null-1.json",
+      "bytes": 312,
+      "sha256": "8be3fe9000b2a7552bc1d47cf294367b157571c783e1a6838e2835d5387fe493"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/raster-null-1.npz",
+      "bytes": 1274915,
+      "sha256": "743095f0e66dac06b21de1277bdd6b836f8585dc2e21361c935b4a87114c5b51"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232332.476361Z-prepare-fixed-mapped-crops/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232332.476361Z-prepare-fixed-mapped-crops/code/exploration/persistent-01/worker-q/Q06/q06.py",
+      "bytes": 8790,
+      "sha256": "19ffa513dafae6800bc9744869baa64276db4067f632c0d3f6e8afafba21f3f6"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232332.476361Z-prepare-fixed-mapped-crops/command.json",
+      "bytes": 2168,
+      "sha256": "cd7a9291f117761ef4abb7651b80bc0f1ac614b12a935d041cb4c0d9d5489896"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232332.476361Z-prepare-fixed-mapped-crops/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232332.476361Z-prepare-fixed-mapped-crops/stdout.txt",
+      "bytes": 39,
+      "sha256": "9531e2190304ce598cd7f7c5728879f7466c3eaa52a3dc54bcf852d6dfe7717d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232408.253096Z-frozen-rotation-raster-controls/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232408.253096Z-frozen-rotation-raster-controls/code/exploration/persistent-01/worker-q/Q06/q06.py",
+      "bytes": 8790,
+      "sha256": "19ffa513dafae6800bc9744869baa64276db4067f632c0d3f6e8afafba21f3f6"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232408.253096Z-frozen-rotation-raster-controls/command.json",
+      "bytes": 1573,
+      "sha256": "0ef52b6462a9db2e7938514ea5a09da0938f6ebb1f76d9905897138406e044b8"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232408.253096Z-frozen-rotation-raster-controls/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232408.253096Z-frozen-rotation-raster-controls/stdout.txt",
+      "bytes": 1615,
+      "sha256": "d3440d6aff6124deac8b9131c40039cd73bf6bb24ea3e4edd89aeb87a27e2067"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232546.895604Z-independent-pixel-and-control-accounting/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232546.895604Z-independent-pixel-and-control-accounting/code/exploration/persistent-01/worker-q/Q06/check.py",
+      "bytes": 2191,
+      "sha256": "778e55bc3f8d604246b351567bbdd0ca61427b530793098fbe3900548a204b03"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232546.895604Z-independent-pixel-and-control-accounting/code/exploration/persistent-01/worker-q/Q06/q06.py",
+      "bytes": 8790,
+      "sha256": "19ffa513dafae6800bc9744869baa64276db4067f632c0d3f6e8afafba21f3f6"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232546.895604Z-independent-pixel-and-control-accounting/command.json",
+      "bytes": 1778,
+      "sha256": "96da87c7396182af3ffc72160d43d14afa175e0cbd0afdfa8a36de3e9417d3f8"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232546.895604Z-independent-pixel-and-control-accounting/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232546.895604Z-independent-pixel-and-control-accounting/stdout.txt",
+      "bytes": 853,
+      "sha256": "f68333b74756e6cd4517b4a203d61ab211bf3b614c132d7b843421d73718fd40"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232711.258184Z-frozen-control-rejection-diagnosis/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232711.258184Z-frozen-control-rejection-diagnosis/code/exploration/persistent-01/worker-q/Q06/check.py",
+      "bytes": 2191,
+      "sha256": "778e55bc3f8d604246b351567bbdd0ca61427b530793098fbe3900548a204b03"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232711.258184Z-frozen-control-rejection-diagnosis/code/exploration/persistent-01/worker-q/Q06/diagnose.py",
+      "bytes": 675,
+      "sha256": "b684a13d920508c87a108015059640b4f6573d9415eaad9dd9698e035e5cc70e"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232711.258184Z-frozen-control-rejection-diagnosis/code/exploration/persistent-01/worker-q/Q06/q06.py",
+      "bytes": 8790,
+      "sha256": "19ffa513dafae6800bc9744869baa64276db4067f632c0d3f6e8afafba21f3f6"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232711.258184Z-frozen-control-rejection-diagnosis/command.json",
+      "bytes": 1563,
+      "sha256": "0579271e692d4685b8fe7940cd95a354d7936212446af6a54fdb672eb89d8f60"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232711.258184Z-frozen-control-rejection-diagnosis/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/runs/20260916T232711.258184Z-frozen-control-rejection-diagnosis/stdout.txt",
+      "bytes": 735,
+      "sha256": "7f7ef8d822547ffbbd416edc3500755dafb7165f05c03fdd128d0cfebe116d3d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/source-montage.png",
+      "bytes": 42795,
+      "sha256": "5b4eb694118d13b0cd9a06594dcbd453f5813250f5715a37dc91c8bd84eec406"
+    }
+  ]
+}

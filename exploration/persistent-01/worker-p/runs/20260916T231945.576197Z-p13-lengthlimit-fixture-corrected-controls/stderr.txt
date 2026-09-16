@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/worker-p/p13.py", line 70, in <module>
+    if __name__=='__main__':{'controls':controls,'actual':actual}[sys.argv[1]]()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<REPO_ROOT>/exploration/persistent-01/worker-p/p13.py", line 63, in controls
+    source=p.R/f'control-{ix}-clean.jpg';ordinary=R/f'control-{ix}-optimized.jpg';modified=R/f'control-{ix}-permuted.jpg';trans('opt',source,ordinary,f'control-{ix}-opt');m,_,_,a=parse13(ordinary.read_bytes());baseline=compare(m,f'control-{ix}-base');assert all(x['exact_match'] for x in baseline);change=json.loads(trans('perm',ordinary,modified,f'control-{ix}-perm'));mm,_,_,aa=parse13(modified.read_bytes());covert=compare(mm,f'control-{ix}-changed');assert sum(not x['exact_match'] for x in covert)==1;assert all(x['count_bytes_match'] for x in covert);assert all(x['actual_weighted_bits']==x['predicted_weighted_bits'] for x in covert);assert m['symbol_histograms']==mm['symbol_histograms'];assert all(np.array_equal(a[k],aa[k]) for k in a);assert pixels(ordinary.read_bytes())==pixels(modified.read_bytes());images.append(dict(index=ix,change=change,baseline=baseline,permuted=covert,ordinary_sha256=p.sha(ordinary.read_bytes()),modified_sha256=p.sha(modified.read_bytes()),pixel_sha256=p.sha(pixels(ordinary.read_bytes())[2]),coefficient_hashes=m['coefficient_sha256']))
+                                                                                                                                                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<instrumented-p10-parser>", line 38, in parse13
+  File "<instrumented-p10-parser>", line 4, in rec
+AttributeError: 'list' object has no attribute 'setdefault'

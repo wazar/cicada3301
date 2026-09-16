@@ -1,0 +1,44 @@
+[
+  {
+    "rep": 0,
+    "by_state": [
+      {
+        "planted_rotation_deg": 0,
+        "held_n": 105,
+        "classified": 104,
+        "median_nearest_identity_RMSE": 0.05793688798030018,
+        "min": 0.02285803865360147,
+        "max": 0.2032223439623489
+      },
+      {
+        "planted_rotation_deg": 2,
+        "held_n": 91,
+        "classified": 10,
+        "median_nearest_identity_RMSE": 0.23972452825398094,
+        "min": 0.1226325202319886,
+        "max": 0.5091595941439883
+      }
+    ]
+  },
+  {
+    "rep": 1,
+    "by_state": [
+      {
+        "planted_rotation_deg": 0,
+        "held_n": 105,
+        "classified": 105,
+        "median_nearest_identity_RMSE": 0.05589440216304383,
+        "min": 0.0026319788184728885,
+        "max": 0.11054456322444829
+      },
+      {
+        "planted_rotation_deg": 2,
+        "held_n": 91,
+        "classified": 10,
+        "median_nearest_identity_RMSE": 0.23964427162594046,
+        "min": 0.12882482169456466,
+        "max": 0.5136336817501586
+      }
+    ]
+  }
+]

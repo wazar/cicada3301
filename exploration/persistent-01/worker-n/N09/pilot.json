@@ -1,0 +1,3382 @@
+{
+  "finite_inverse_cases": 22736,
+  "pilot_panels": 12,
+  "seconds": 0.04040854100094293,
+  "projected1199seconds": 4.037486721677548,
+  "collapsed_total": 10409,
+  "original_total": 10466,
+  "records": [
+    {
+      "train_eligible": 5057,
+      "train_events": 0,
+      "held_eligible": 5262,
+      "held_events": 0,
+      "epsilon": 9.885330170027679e-05,
+      "score": 0.03626878598286488,
+      "perpage": [
+        {
+          "page": 0,
+          "eligible": 258,
+          "events": 0,
+          "gain": 9.357346783579139
+        },
+        {
+          "page": 1,
+          "eligible": 263,
+          "events": 0,
+          "gain": 9.538690713493462
+        },
+        {
+          "page": 2,
+          "eligible": 198,
+          "events": 0,
+          "gain": 7.1812196246072455
+        },
+        {
+          "page": 3,
+          "eligible": 212,
+          "events": 0,
+          "gain": 7.688982628367354
+        },
+        {
+          "page": 5,
+          "eligible": 261,
+          "events": 0,
+          "gain": 9.466153141527734
+        },
+        {
+          "page": 6,
+          "eligible": 193,
+          "events": 0,
+          "gain": 6.999875694692921
+        },
+        {
+          "page": 7,
+          "eligible": 206,
+          "events": 0,
+          "gain": 7.4713699124701645
+        },
+        {
+          "page": 8,
+          "eligible": 250,
+          "events": 0,
+          "gain": 9.06719649571622
+        },
+        {
+          "page": 10,
+          "eligible": 260,
+          "events": 0,
+          "gain": 9.429884355544868
+        },
+        {
+          "page": 11,
+          "eligible": 270,
+          "events": 0,
+          "gain": 9.792572215373516
+        },
+        {
+          "page": 12,
+          "eligible": 258,
+          "events": 0,
+          "gain": 9.357346783579139
+        },
+        {
+          "page": 13,
+          "eligible": 270,
+          "events": 0,
+          "gain": 9.792572215373516
+        },
+        {
+          "page": 15,
+          "eligible": 157,
+          "events": 0,
+          "gain": 5.6941993993097855
+        },
+        {
+          "page": 16,
+          "eligible": 264,
+          "events": 0,
+          "gain": 9.574959499476329
+        },
+        {
+          "page": 17,
+          "eligible": 271,
+          "events": 0,
+          "gain": 9.828841001356382
+        },
+        {
+          "page": 18,
+          "eligible": 257,
+          "events": 0,
+          "gain": 9.321077997596273
+        },
+        {
+          "page": 20,
+          "eligible": 266,
+          "events": 0,
+          "gain": 9.647497071442057
+        },
+        {
+          "page": 21,
+          "eligible": 270,
+          "events": 0,
+          "gain": 9.792572215373516
+        },
+        {
+          "page": 22,
+          "eligible": 128,
+          "events": 0,
+          "gain": 4.642404605806704
+        },
+        {
+          "page": 23,
+          "eligible": 210,
+          "events": 0,
+          "gain": 7.616445056401624
+        },
+        {
+          "page": 25,
+          "eligible": 268,
+          "events": 0,
+          "gain": 9.720034643407788
+        },
+        {
+          "page": 26,
+          "eligible": 261,
+          "events": 0,
+          "gain": 9.466153141527734
+        },
+        {
+          "page": 27,
+          "eligible": 227,
+          "events": 0,
+          "gain": 8.233014418110328
+        },
+        {
+          "page": 28,
+          "eligible": 267,
+          "events": 0,
+          "gain": 9.683765857424921
+        },
+        {
+          "page": 30,
+          "eligible": 259,
+          "events": 0,
+          "gain": 9.393615569562003
+        },
+        {
+          "page": 31,
+          "eligible": 267,
+          "events": 0,
+          "gain": 9.683765857424921
+        },
+        {
+          "page": 32,
+          "eligible": 117,
+          "events": 0,
+          "gain": 4.243447959995191
+        },
+        {
+          "page": 33,
+          "eligible": 210,
+          "events": 0,
+          "gain": 7.616445056401624
+        },
+        {
+          "page": 35,
+          "eligible": 266,
+          "events": 0,
+          "gain": 9.647497071442057
+        },
+        {
+          "page": 36,
+          "eligible": 233,
+          "events": 0,
+          "gain": 8.450627134007517
+        },
+        {
+          "page": 37,
+          "eligible": 226,
+          "events": 0,
+          "gain": 8.196745632127463
+        },
+        {
+          "page": 38,
+          "eligible": 226,
+          "events": 0,
+          "gain": 8.196745632127463
+        },
+        {
+          "page": 40,
+          "eligible": 229,
+          "events": 0,
+          "gain": 8.305551990076056
+        },
+        {
+          "page": 41,
+          "eligible": 269,
+          "events": 0,
+          "gain": 9.756303429390652
+        },
+        {
+          "page": 42,
+          "eligible": 269,
+          "events": 0,
+          "gain": 9.756303429390652
+        },
+        {
+          "page": 43,
+          "eligible": 269,
+          "events": 0,
+          "gain": 9.756303429390652
+        },
+        {
+          "page": 45,
+          "eligible": 266,
+          "events": 0,
+          "gain": 9.647497071442057
+        },
+        {
+          "page": 46,
+          "eligible": 267,
+          "events": 0,
+          "gain": 9.683765857424921
+        },
+        {
+          "page": 47,
+          "eligible": 270,
+          "events": 0,
+          "gain": 9.792572215373516
+        },
+        {
+          "page": 48,
+          "eligible": 268,
+          "events": 0,
+          "gain": 9.720034643407788
+        },
+        {
+          "page": 49,
+          "eligible": 64,
+          "events": 0,
+          "gain": 2.321202302903352
+        },
+        {
+          "page": 51,
+          "eligible": 89,
+          "events": 0,
+          "gain": 3.2279219524749743
+        },
+        {
+          "page": 52,
+          "eligible": 260,
+          "events": 0,
+          "gain": 9.429884355544868
+        },
+        {
+          "page": 53,
+          "eligible": 177,
+          "events": 0,
+          "gain": 6.419575118967083
+        },
+        {
+          "page": 55,
+          "eligible": 73,
+          "events": 0,
+          "gain": 2.647621376749136
+        }
+      ],
+      "exact_zero_escape_violations": 0
+    },
+    {
+      "train_eligible": 5057,
+      "train_events": 91,
+      "held_eligible": 5262,
+      "held_events": 105,
+      "epsilon": 0.018090154211150653,
+      "score": 0.004177815699033924,
+      "perpage": [
+        {
+          "page": 0,
+          "eligible": 258,
+          "events": 3,
+          "gain": 2.5779761277559254
+        },
+        {
+          "page": 1,
+          "eligible": 263,
+          "events": 7,
+          "gain": -0.12464378874062287
+        },
+        {
+          "page": 2,
+          "eligible": 198,
+          "events": 8,
+          "gain": -2.0002096648746015
+        },
+        {
+          "page": 3,
+          "eligible": 212,
+          "events": 11,
+          "gain": -3.84152801063417
+        },
+        {
+          "page": 5,
+          "eligible": 261,
+          "events": 3,
+          "gain": 2.6323117155450504
+        },
+        {
+          "page": 6,
+          "eligible": 193,
+          "events": 5,
+          "gain": 0.004115444252341227
+        },
+        {
+          "page": 7,
+          "eligible": 206,
+          "events": 4,
+          "gain": 0.9378644653748212
+        },
+        {
+          "page": 8,
+          "eligible": 250,
+          "events": 5,
+          "gain": 1.0364916122457144
+        },
+        {
+          "page": 10,
+          "eligible": 260,
+          "events": 8,
+          "gain": -0.8772741838993534
+        },
+        {
+          "page": 11,
+          "eligible": 270,
+          "events": 6,
+          "gain": 0.7004340568036076
+        },
+        {
+          "page": 12,
+          "eligible": 258,
+          "events": 3,
+          "gain": 2.5779761277559254
+        },
+        {
+          "page": 13,
+          "eligible": 270,
+          "events": 4,
+          "gain": 2.0970236715428197
+        },
+        {
+          "page": 15,
+          "eligible": 157,
+          "events": 6,
+          "gain": -1.3462064165867647
+        },
+        {
+          "page": 16,
+          "eligible": 264,
+          "events": 5,
+          "gain": 1.2900576885949642
+        },
+        {
+          "page": 17,
+          "eligible": 271,
+          "events": 6,
+          "gain": 0.7185459193999826
+        },
+        {
+          "page": 18,
+          "eligible": 257,
+          "events": 4,
+          "gain": 1.8615694577899449
+        },
+        {
+          "page": 20,
+          "eligible": 266,
+          "events": 8,
+          "gain": -0.7686030083211035
+        },
+        {
+          "page": 21,
+          "eligible": 270,
+          "events": 4,
+          "gain": 2.0970236715428197
+        },
+        {
+          "page": 22,
+          "eligible": 128,
+          "events": 2,
+          "gain": 0.9217287975967849
+        },
+        {
+          "page": 23,
+          "eligible": 210,
+          "events": 3,
+          "gain": 1.7086067231299267
+        },
+        {
+          "page": 25,
+          "eligible": 268,
+          "events": 4,
+          "gain": 2.0607999463500697
+        },
+        {
+          "page": 26,
+          "eligible": 261,
+          "events": 6,
+          "gain": 0.5374272934362327
+        },
+        {
+          "page": 27,
+          "eligible": 227,
+          "events": 5,
+          "gain": 0.6199187725290898
+        },
+        {
+          "page": 28,
+          "eligible": 267,
+          "events": 10,
+          "gain": -2.1470807604639397
+        },
+        {
+          "page": 30,
+          "eligible": 259,
+          "events": 4,
+          "gain": 1.8977931829826948
+        },
+        {
+          "page": 31,
+          "eligible": 267,
+          "events": 4,
+          "gain": 2.0426880837536947
+        },
+        {
+          "page": 32,
+          "eligible": 117,
+          "events": 2,
+          "gain": 0.7224983090366601
+        },
+        {
+          "page": 33,
+          "eligible": 210,
+          "events": 4,
+          "gain": 1.010311915760321
+        },
+        {
+          "page": 35,
+          "eligible": 266,
+          "events": 2,
+          "gain": 3.4211658358965313
+        },
+        {
+          "page": 36,
+          "eligible": 233,
+          "events": 3,
+          "gain": 2.125179562846551
+        },
+        {
+          "page": 37,
+          "eligible": 226,
+          "events": 3,
+          "gain": 1.998396524671926
+        },
+        {
+          "page": 38,
+          "eligible": 226,
+          "events": 1,
+          "gain": 3.394986139411138
+        },
+        {
+          "page": 40,
+          "eligible": 229,
+          "events": 4,
+          "gain": 1.3544373050914453
+        },
+        {
+          "page": 41,
+          "eligible": 269,
+          "events": 6,
+          "gain": 0.6823221942072326
+        },
+        {
+          "page": 42,
+          "eligible": 269,
+          "events": 3,
+          "gain": 2.7772066163160503
+        },
+        {
+          "page": 43,
+          "eligible": 269,
+          "events": 3,
+          "gain": 2.7772066163160503
+        },
+        {
+          "page": 45,
+          "eligible": 266,
+          "events": 2,
+          "gain": 3.4211658358965313
+        },
+        {
+          "page": 46,
+          "eligible": 267,
+          "events": 3,
+          "gain": 2.7409828911233003
+        },
+        {
+          "page": 47,
+          "eligible": 270,
+          "events": 3,
+          "gain": 2.7953184789124252
+        },
+        {
+          "page": 48,
+          "eligible": 268,
+          "events": 6,
+          "gain": 0.6642103316108576
+        },
+        {
+          "page": 49,
+          "eligible": 64,
+          "events": 2,
+          "gain": -0.23743040857121334
+        },
+        {
+          "page": 51,
+          "eligible": 89,
+          "events": 4,
+          "gain": -1.1812234584010506
+        },
+        {
+          "page": 52,
+          "eligible": 260,
+          "events": 6,
+          "gain": 0.5193154308398578
+        },
+        {
+          "page": 53,
+          "eligible": 177,
+          "events": 1,
+          "gain": 2.5075048721887647
+        },
+        {
+          "page": 55,
+          "eligible": 73,
+          "events": 0,
+          "gain": 1.3221659695353731
+        }
+      ],
+      "exact_zero_escape_violations": 196
+    },
+    {
+      "train_eligible": 5057,
+      "train_events": 198,
+      "held_eligible": 5262,
+      "held_events": 198,
+      "epsilon": 0.03571428571428571,
+      "score": 0.0,
+      "perpage": [
+        {
+          "page": 0,
+          "eligible": 258,
+          "events": 6,
+          "gain": 0.0
+        },
+        {
+          "page": 1,
+          "eligible": 263,
+          "events": 9,
+          "gain": 0.0
+        },
+        {
+          "page": 2,
+          "eligible": 198,
+          "events": 9,
+          "gain": 0.0
+        },
+        {
+          "page": 3,
+          "eligible": 212,
+          "events": 9,
+          "gain": 0.0
+        },
+        {
+          "page": 5,
+          "eligible": 261,
+          "events": 16,
+          "gain": 0.0
+        },
+        {
+          "page": 6,
+          "eligible": 193,
+          "events": 8,
+          "gain": 0.0
+        },
+        {
+          "page": 7,
+          "eligible": 206,
+          "events": 9,
+          "gain": 0.0
+        },
+        {
+          "page": 8,
+          "eligible": 250,
+          "events": 5,
+          "gain": 0.0
+        },
+        {
+          "page": 10,
+          "eligible": 260,
+          "events": 13,
+          "gain": 0.0
+        },
+        {
+          "page": 11,
+          "eligible": 270,
+          "events": 9,
+          "gain": 0.0
+        },
+        {
+          "page": 12,
+          "eligible": 258,
+          "events": 11,
+          "gain": 0.0
+        },
+        {
+          "page": 13,
+          "eligible": 270,
+          "events": 12,
+          "gain": 0.0
+        },
+        {
+          "page": 15,
+          "eligible": 157,
+          "events": 4,
+          "gain": 0.0
+        },
+        {
+          "page": 16,
+          "eligible": 264,
+          "events": 8,
+          "gain": 0.0
+        },
+        {
+          "page": 17,
+          "eligible": 271,
+          "events": 8,
+          "gain": 0.0
+        },
+        {
+          "page": 18,
+          "eligible": 257,
+          "events": 10,
+          "gain": 0.0
+        },
+        {
+          "page": 20,
+          "eligible": 266,
+          "events": 10,
+          "gain": 0.0
+        },
+        {
+          "page": 21,
+          "eligible": 270,
+          "events": 14,
+          "gain": 0.0
+        },
+        {
+          "page": 22,
+          "eligible": 128,
+          "events": 5,
+          "gain": 0.0
+        },
+        {
+          "page": 23,
+          "eligible": 210,
+          "events": 6,
+          "gain": 0.0
+        },
+        {
+          "page": 25,
+          "eligible": 268,
+          "events": 14,
+          "gain": 0.0
+        },
+        {
+          "page": 26,
+          "eligible": 261,
+          "events": 10,
+          "gain": 0.0
+        },
+        {
+          "page": 27,
+          "eligible": 227,
+          "events": 12,
+          "gain": 0.0
+        },
+        {
+          "page": 28,
+          "eligible": 267,
+          "events": 8,
+          "gain": 0.0
+        },
+        {
+          "page": 30,
+          "eligible": 259,
+          "events": 16,
+          "gain": 0.0
+        },
+        {
+          "page": 31,
+          "eligible": 267,
+          "events": 14,
+          "gain": 0.0
+        },
+        {
+          "page": 32,
+          "eligible": 117,
+          "events": 3,
+          "gain": 0.0
+        },
+        {
+          "page": 33,
+          "eligible": 210,
+          "events": 11,
+          "gain": 0.0
+        },
+        {
+          "page": 35,
+          "eligible": 266,
+          "events": 12,
+          "gain": 0.0
+        },
+        {
+          "page": 36,
+          "eligible": 233,
+          "events": 6,
+          "gain": 0.0
+        },
+        {
+          "page": 37,
+          "eligible": 226,
+          "events": 8,
+          "gain": 0.0
+        },
+        {
+          "page": 38,
+          "eligible": 226,
+          "events": 9,
+          "gain": 0.0
+        },
+        {
+          "page": 40,
+          "eligible": 229,
+          "events": 3,
+          "gain": 0.0
+        },
+        {
+          "page": 41,
+          "eligible": 269,
+          "events": 12,
+          "gain": 0.0
+        },
+        {
+          "page": 42,
+          "eligible": 269,
+          "events": 15,
+          "gain": 0.0
+        },
+        {
+          "page": 43,
+          "eligible": 269,
+          "events": 15,
+          "gain": 0.0
+        },
+        {
+          "page": 45,
+          "eligible": 266,
+          "events": 9,
+          "gain": 0.0
+        },
+        {
+          "page": 46,
+          "eligible": 267,
+          "events": 3,
+          "gain": 0.0
+        },
+        {
+          "page": 47,
+          "eligible": 270,
+          "events": 8,
+          "gain": 0.0
+        },
+        {
+          "page": 48,
+          "eligible": 268,
+          "events": 10,
+          "gain": 0.0
+        },
+        {
+          "page": 49,
+          "eligible": 64,
+          "events": 0,
+          "gain": 0.0
+        },
+        {
+          "page": 51,
+          "eligible": 89,
+          "events": 5,
+          "gain": 0.0
+        },
+        {
+          "page": 52,
+          "eligible": 260,
+          "events": 3,
+          "gain": 0.0
+        },
+        {
+          "page": 53,
+          "eligible": 177,
+          "events": 5,
+          "gain": 0.0
+        },
+        {
+          "page": 55,
+          "eligible": 73,
+          "events": 4,
+          "gain": 0.0
+        }
+      ],
+      "exact_zero_escape_violations": 396
+    },
+    {
+      "train_eligible": 5057,
+      "train_events": 0,
+      "held_eligible": 5262,
+      "held_events": 0,
+      "epsilon": 9.885330170027679e-05,
+      "score": 0.03626878598286488,
+      "perpage": [
+        {
+          "page": 0,
+          "eligible": 258,
+          "events": 0,
+          "gain": 9.357346783579139
+        },
+        {
+          "page": 1,
+          "eligible": 263,
+          "events": 0,
+          "gain": 9.538690713493462
+        },
+        {
+          "page": 2,
+          "eligible": 198,
+          "events": 0,
+          "gain": 7.1812196246072455
+        },
+        {
+          "page": 3,
+          "eligible": 212,
+          "events": 0,
+          "gain": 7.688982628367354
+        },
+        {
+          "page": 5,
+          "eligible": 261,
+          "events": 0,
+          "gain": 9.466153141527734
+        },
+        {
+          "page": 6,
+          "eligible": 193,
+          "events": 0,
+          "gain": 6.999875694692921
+        },
+        {
+          "page": 7,
+          "eligible": 206,
+          "events": 0,
+          "gain": 7.4713699124701645
+        },
+        {
+          "page": 8,
+          "eligible": 250,
+          "events": 0,
+          "gain": 9.06719649571622
+        },
+        {
+          "page": 10,
+          "eligible": 260,
+          "events": 0,
+          "gain": 9.429884355544868
+        },
+        {
+          "page": 11,
+          "eligible": 270,
+          "events": 0,
+          "gain": 9.792572215373516
+        },
+        {
+          "page": 12,
+          "eligible": 258,
+          "events": 0,
+          "gain": 9.357346783579139
+        },
+        {
+          "page": 13,
+          "eligible": 270,
+          "events": 0,
+          "gain": 9.792572215373516
+        },
+        {
+          "page": 15,
+          "eligible": 157,
+          "events": 0,
+          "gain": 5.6941993993097855
+        },
+        {
+          "page": 16,
+          "eligible": 264,
+          "events": 0,
+          "gain": 9.574959499476329
+        },
+        {
+          "page": 17,
+          "eligible": 271,
+          "events": 0,
+          "gain": 9.828841001356382
+        },
+        {
+          "page": 18,
+          "eligible": 257,
+          "events": 0,
+          "gain": 9.321077997596273
+        },
+        {
+          "page": 20,
+          "eligible": 266,
+          "events": 0,
+          "gain": 9.647497071442057
+        },
+        {
+          "page": 21,
+          "eligible": 270,
+          "events": 0,
+          "gain": 9.792572215373516
+        },
+        {
+          "page": 22,
+          "eligible": 128,
+          "events": 0,
+          "gain": 4.642404605806704
+        },
+        {
+          "page": 23,
+          "eligible": 210,
+          "events": 0,
+          "gain": 7.616445056401624
+        },
+        {
+          "page": 25,
+          "eligible": 268,
+          "events": 0,
+          "gain": 9.720034643407788
+        },
+        {
+          "page": 26,
+          "eligible": 261,
+          "events": 0,
+          "gain": 9.466153141527734
+        },
+        {
+          "page": 27,
+          "eligible": 227,
+          "events": 0,
+          "gain": 8.233014418110328
+        },
+        {
+          "page": 28,
+          "eligible": 267,
+          "events": 0,
+          "gain": 9.683765857424921
+        },
+        {
+          "page": 30,
+          "eligible": 259,
+          "events": 0,
+          "gain": 9.393615569562003
+        },
+        {
+          "page": 31,
+          "eligible": 267,
+          "events": 0,
+          "gain": 9.683765857424921
+        },
+        {
+          "page": 32,
+          "eligible": 117,
+          "events": 0,
+          "gain": 4.243447959995191
+        },
+        {
+          "page": 33,
+          "eligible": 210,
+          "events": 0,
+          "gain": 7.616445056401624
+        },
+        {
+          "page": 35,
+          "eligible": 266,
+          "events": 0,
+          "gain": 9.647497071442057
+        },
+        {
+          "page": 36,
+          "eligible": 233,
+          "events": 0,
+          "gain": 8.450627134007517
+        },
+        {
+          "page": 37,
+          "eligible": 226,
+          "events": 0,
+          "gain": 8.196745632127463
+        },
+        {
+          "page": 38,
+          "eligible": 226,
+          "events": 0,
+          "gain": 8.196745632127463
+        },
+        {
+          "page": 40,
+          "eligible": 229,
+          "events": 0,
+          "gain": 8.305551990076056
+        },
+        {
+          "page": 41,
+          "eligible": 269,
+          "events": 0,
+          "gain": 9.756303429390652
+        },
+        {
+          "page": 42,
+          "eligible": 269,
+          "events": 0,
+          "gain": 9.756303429390652
+        },
+        {
+          "page": 43,
+          "eligible": 269,
+          "events": 0,
+          "gain": 9.756303429390652
+        },
+        {
+          "page": 45,
+          "eligible": 266,
+          "events": 0,
+          "gain": 9.647497071442057
+        },
+        {
+          "page": 46,
+          "eligible": 267,
+          "events": 0,
+          "gain": 9.683765857424921
+        },
+        {
+          "page": 47,
+          "eligible": 270,
+          "events": 0,
+          "gain": 9.792572215373516
+        },
+        {
+          "page": 48,
+          "eligible": 268,
+          "events": 0,
+          "gain": 9.720034643407788
+        },
+        {
+          "page": 49,
+          "eligible": 64,
+          "events": 0,
+          "gain": 2.321202302903352
+        },
+        {
+          "page": 51,
+          "eligible": 89,
+          "events": 0,
+          "gain": 3.2279219524749743
+        },
+        {
+          "page": 52,
+          "eligible": 260,
+          "events": 0,
+          "gain": 9.429884355544868
+        },
+        {
+          "page": 53,
+          "eligible": 177,
+          "events": 0,
+          "gain": 6.419575118967083
+        },
+        {
+          "page": 55,
+          "eligible": 73,
+          "events": 0,
+          "gain": 2.647621376749136
+        }
+      ],
+      "exact_zero_escape_violations": 0
+    },
+    {
+      "train_eligible": 5057,
+      "train_events": 85,
+      "held_eligible": 5262,
+      "held_events": 91,
+      "epsilon": 0.016903914590747332,
+      "score": 0.006049263024645002,
+      "perpage": [
+        {
+          "page": 0,
+          "eligible": 258,
+          "events": 5,
+          "gain": 1.1477368947202455
+        },
+        {
+          "page": 1,
+          "eligible": 263,
+          "events": 6,
+          "gain": 0.4770082642846196
+        },
+        {
+          "page": 2,
+          "eligible": 198,
+          "events": 2,
+          "gain": 2.290557540917993
+        },
+        {
+          "page": 3,
+          "eligible": 212,
+          "events": 6,
+          "gain": -0.5082723468390582
+        },
+        {
+          "page": 5,
+          "eligible": 261,
+          "events": 2,
+          "gain": 3.5076688840707706
+        },
+        {
+          "page": 6,
+          "eligible": 193,
+          "events": 1,
+          "gain": 2.961286171353618
+        },
+        {
+          "page": 7,
+          "eligible": 206,
+          "events": 3,
+          "gain": 1.6777865934896425
+        },
+        {
+          "page": 8,
+          "eligible": 250,
+          "events": 6,
+          "gain": 0.22585830458642686
+        },
+        {
+          "page": 10,
+          "eligible": 260,
+          "events": 6,
+          "gain": 0.41905058127734396
+        },
+        {
+          "page": 11,
+          "eligible": 270,
+          "events": 5,
+          "gain": 1.3795676267493455
+        },
+        {
+          "page": 12,
+          "eligible": 258,
+          "events": 9,
+          "gain": -1.9215621804040897
+        },
+        {
+          "page": 13,
+          "eligible": 270,
+          "events": 3,
+          "gain": 2.9142171643115127
+        },
+        {
+          "page": 15,
+          "eligible": 157,
+          "events": 1,
+          "gain": 2.265793975266316
+        },
+        {
+          "page": 16,
+          "eligible": 264,
+          "events": 5,
+          "gain": 1.263652260734795
+        },
+        {
+          "page": 17,
+          "eligible": 271,
+          "events": 5,
+          "gain": 1.3988868544184374
+        },
+        {
+          "page": 18,
+          "eligible": 257,
+          "events": 5,
+          "gain": 1.1284176670511536
+        },
+        {
+          "page": 20,
+          "eligible": 266,
+          "events": 4,
+          "gain": 2.0696154848540624
+        },
+        {
+          "page": 21,
+          "eligible": 270,
+          "events": 6,
+          "gain": 0.6122428579682611
+        },
+        {
+          "page": 22,
+          "eligible": 128,
+          "events": 3,
+          "gain": 0.17088683530048865
+        },
+        {
+          "page": 23,
+          "eligible": 210,
+          "events": 4,
+          "gain": 0.9877387353849261
+        },
+        {
+          "page": 25,
+          "eligible": 268,
+          "events": 2,
+          "gain": 3.642903477754413
+        },
+        {
+          "page": 26,
+          "eligible": 261,
+          "events": 8,
+          "gain": -1.0962797286157304
+        },
+        {
+          "page": 27,
+          "eligible": 227,
+          "events": 4,
+          "gain": 1.316165605759485
+        },
+        {
+          "page": 28,
+          "eligible": 267,
+          "events": 7,
+          "gain": -0.2130395938200973
+        },
+        {
+          "page": 30,
+          "eligible": 259,
+          "events": 4,
+          "gain": 1.9343808911704201
+        },
+        {
+          "page": 31,
+          "eligible": 267,
+          "events": 2,
+          "gain": 3.623584250085321
+        },
+        {
+          "page": 32,
+          "eligible": 117,
+          "events": 0,
+          "gain": 2.260349637283731
+        },
+        {
+          "page": 33,
+          "eligible": 210,
+          "events": 2,
+          "gain": 2.5223882729470932
+        },
+        {
+          "page": 35,
+          "eligible": 266,
+          "events": 3,
+          "gain": 2.836940253635146
+        },
+        {
+          "page": 36,
+          "eligible": 233,
+          "events": 2,
+          "gain": 2.966730509336203
+        },
+        {
+          "page": 37,
+          "eligible": 226,
+          "events": 3,
+          "gain": 2.0641711468714767
+        },
+        {
+          "page": 38,
+          "eligible": 226,
+          "events": 2,
+          "gain": 2.8314959156525608
+        },
+        {
+          "page": 40,
+          "eligible": 229,
+          "events": 7,
+          "gain": -0.9471702452455819
+        },
+        {
+          "page": 41,
+          "eligible": 269,
+          "events": 4,
+          "gain": 2.127573167861337
+        },
+        {
+          "page": 42,
+          "eligible": 269,
+          "events": 1,
+          "gain": 4.429547474204589
+        },
+        {
+          "page": 43,
+          "eligible": 269,
+          "events": 2,
+          "gain": 3.662222705423505
+        },
+        {
+          "page": 45,
+          "eligible": 266,
+          "events": 3,
+          "gain": 2.836940253635146
+        },
+        {
+          "page": 46,
+          "eligible": 267,
+          "events": 5,
+          "gain": 1.3216099437420707
+        },
+        {
+          "page": 47,
+          "eligible": 270,
+          "events": 6,
+          "gain": 0.6122428579682611
+        },
+        {
+          "page": 48,
+          "eligible": 268,
+          "events": 7,
+          "gain": -0.1937203661510054
+        },
+        {
+          "page": 49,
+          "eligible": 64,
+          "events": 1,
+          "gain": 0.46910580204078633
+        },
+        {
+          "page": 51,
+          "eligible": 89,
+          "events": 1,
+          "gain": 0.9520864937680793
+        },
+        {
+          "page": 52,
+          "eligible": 260,
+          "events": 9,
+          "gain": -1.8829237250659059
+        },
+        {
+          "page": 53,
+          "eligible": 177,
+          "events": 2,
+          "gain": 1.8848537598670667
+        },
+        {
+          "page": 55,
+          "eligible": 73,
+          "events": 2,
+          "gain": -0.12434591771847181
+        }
+      ],
+      "exact_zero_escape_violations": 176
+    },
+    {
+      "train_eligible": 5057,
+      "train_events": 170,
+      "held_eligible": 5262,
+      "held_events": 179,
+      "epsilon": 0.033708975879794385,
+      "score": 4.0997167640668194e-05,
+      "perpage": [
+        {
+          "page": 0,
+          "eligible": 258,
+          "events": 11,
+          "gain": -0.12252977869985371
+        },
+        {
+          "page": 1,
+          "eligible": 263,
+          "events": 18,
+          "gain": -0.5311909634869699
+        },
+        {
+          "page": 2,
+          "eligible": 198,
+          "events": 10,
+          "gain": -0.1873110112092663
+        },
+        {
+          "page": 3,
+          "eligible": 212,
+          "events": 5,
+          "gain": 0.1410930939035343
+        },
+        {
+          "page": 5,
+          "eligible": 261,
+          "events": 8,
+          "gain": 0.06329460970106471
+        },
+        {
+          "page": 6,
+          "eligible": 193,
+          "events": 6,
+          "gain": 0.04175804888068824
+        },
+        {
+          "page": 7,
+          "eligible": 206,
+          "events": 7,
+          "gain": 0.008900483364579825
+        },
+        {
+          "page": 8,
+          "eligible": 250,
+          "events": 5,
+          "gain": 0.22003510081778532
+        },
+        {
+          "page": 10,
+          "eligible": 260,
+          "events": 12,
+          "gain": -0.1782389777964032
+        },
+        {
+          "page": 11,
+          "eligible": 270,
+          "events": 11,
+          "gain": -0.0976007238848271
+        },
+        {
+          "page": 12,
+          "eligible": 258,
+          "events": 6,
+          "gain": 0.1767904291287492
+        },
+        {
+          "page": 13,
+          "eligible": 270,
+          "events": 7,
+          "gain": 0.14185544237805525
+        },
+        {
+          "page": 15,
+          "eligible": 157,
+          "events": 3,
+          "gain": 0.14656300913277004
+        },
+        {
+          "page": 16,
+          "eligible": 264,
+          "events": 13,
+          "gain": -0.22979333442378158
+        },
+        {
+          "page": 17,
+          "eligible": 271,
+          "events": 9,
+          "gain": 0.024204780481199673
+        },
+        {
+          "page": 18,
+          "eligible": 257,
+          "events": 6,
+          "gain": 0.17471300789416355
+        },
+        {
+          "page": 20,
+          "eligible": 266,
+          "events": 10,
+          "gain": -0.046046367257448706
+        },
+        {
+          "page": 21,
+          "eligible": 270,
+          "events": 2,
+          "gain": 0.44117565020665805
+        },
+        {
+          "page": 22,
+          "eligible": 128,
+          "events": 2,
+          "gain": 0.14618183489550962
+        },
+        {
+          "page": 23,
+          "eligible": 210,
+          "events": 4,
+          "gain": 0.19680229300008378
+        },
+        {
+          "page": 25,
+          "eligible": 268,
+          "events": 11,
+          "gain": -0.10175556635399818
+        },
+        {
+          "page": 26,
+          "eligible": 261,
+          "events": 14,
+          "gain": -0.29588963969325877
+        },
+        {
+          "page": 27,
+          "eligible": 227,
+          "events": 13,
+          "gain": -0.306657920103447
+        },
+        {
+          "page": 28,
+          "eligible": 267,
+          "events": 11,
+          "gain": -0.10383298758858373
+        },
+        {
+          "page": 30,
+          "eligible": 259,
+          "events": 7,
+          "gain": 0.11900380879761419
+        },
+        {
+          "page": 31,
+          "eligible": 267,
+          "events": 12,
+          "gain": -0.16369702915430429
+        },
+        {
+          "page": 32,
+          "eligible": 117,
+          "events": 1,
+          "gain": 0.1831942428807891
+        },
+        {
+          "page": 33,
+          "eligible": 210,
+          "events": 8,
+          "gain": -0.042653873262798514
+        },
+        {
+          "page": 35,
+          "eligible": 266,
+          "events": 8,
+          "gain": 0.07368171587399241
+        },
+        {
+          "page": 36,
+          "eligible": 233,
+          "events": 8,
+          "gain": 0.005126815132669216
+        },
+        {
+          "page": 37,
+          "eligible": 226,
+          "events": 6,
+          "gain": 0.11031294962201149
+        },
+        {
+          "page": 38,
+          "eligible": 226,
+          "events": 4,
+          "gain": 0.2300410327534526
+        },
+        {
+          "page": 40,
+          "eligible": 229,
+          "events": 8,
+          "gain": -0.0031828698056730054
+        },
+        {
+          "page": 41,
+          "eligible": 269,
+          "events": 13,
+          "gain": -0.21940622825085376
+        },
+        {
+          "page": 42,
+          "eligible": 269,
+          "events": 8,
+          "gain": 0.07991397957774915
+        },
+        {
+          "page": 43,
+          "eligible": 269,
+          "events": 10,
+          "gain": -0.03981410355369208
+        },
+        {
+          "page": 45,
+          "eligible": 266,
+          "events": 8,
+          "gain": 0.07368171587399241
+        },
+        {
+          "page": 46,
+          "eligible": 267,
+          "events": 6,
+          "gain": 0.1954872202400192
+        },
+        {
+          "page": 47,
+          "eligible": 270,
+          "events": 9,
+          "gain": 0.02212735924661413
+        },
+        {
+          "page": 48,
+          "eligible": 268,
+          "events": 7,
+          "gain": 0.13770059990888417
+        },
+        {
+          "page": 49,
+          "eligible": 64,
+          "events": 3,
+          "gain": -0.04663716568368634
+        },
+        {
+          "page": 51,
+          "eligible": 89,
+          "events": 3,
+          "gain": 0.0052983651809524746
+        },
+        {
+          "page": 52,
+          "eligible": 260,
+          "events": 8,
+          "gain": 0.06121718846647917
+        },
+        {
+          "page": 53,
+          "eligible": 177,
+          "events": 6,
+          "gain": 0.008519309127319408
+        },
+        {
+          "page": 55,
+          "eligible": 73,
+          "events": 2,
+          "gain": 0.031923666993304206
+        }
+      ],
+      "exact_zero_escape_violations": 349
+    },
+    {
+      "train_eligible": 5057,
+      "train_events": 0,
+      "held_eligible": 5262,
+      "held_events": 0,
+      "epsilon": 9.885330170027679e-05,
+      "score": 0.03626878598286488,
+      "perpage": [
+        {
+          "page": 0,
+          "eligible": 258,
+          "events": 0,
+          "gain": 9.357346783579139
+        },
+        {
+          "page": 1,
+          "eligible": 263,
+          "events": 0,
+          "gain": 9.538690713493462
+        },
+        {
+          "page": 2,
+          "eligible": 198,
+          "events": 0,
+          "gain": 7.1812196246072455
+        },
+        {
+          "page": 3,
+          "eligible": 212,
+          "events": 0,
+          "gain": 7.688982628367354
+        },
+        {
+          "page": 5,
+          "eligible": 261,
+          "events": 0,
+          "gain": 9.466153141527734
+        },
+        {
+          "page": 6,
+          "eligible": 193,
+          "events": 0,
+          "gain": 6.999875694692921
+        },
+        {
+          "page": 7,
+          "eligible": 206,
+          "events": 0,
+          "gain": 7.4713699124701645
+        },
+        {
+          "page": 8,
+          "eligible": 250,
+          "events": 0,
+          "gain": 9.06719649571622
+        },
+        {
+          "page": 10,
+          "eligible": 260,
+          "events": 0,
+          "gain": 9.429884355544868
+        },
+        {
+          "page": 11,
+          "eligible": 270,
+          "events": 0,
+          "gain": 9.792572215373516
+        },
+        {
+          "page": 12,
+          "eligible": 258,
+          "events": 0,
+          "gain": 9.357346783579139
+        },
+        {
+          "page": 13,
+          "eligible": 270,
+          "events": 0,
+          "gain": 9.792572215373516
+        },
+        {
+          "page": 15,
+          "eligible": 157,
+          "events": 0,
+          "gain": 5.6941993993097855
+        },
+        {
+          "page": 16,
+          "eligible": 264,
+          "events": 0,
+          "gain": 9.574959499476329
+        },
+        {
+          "page": 17,
+          "eligible": 271,
+          "events": 0,
+          "gain": 9.828841001356382
+        },
+        {
+          "page": 18,
+          "eligible": 257,
+          "events": 0,
+          "gain": 9.321077997596273
+        },
+        {
+          "page": 20,
+          "eligible": 266,
+          "events": 0,
+          "gain": 9.647497071442057
+        },
+        {
+          "page": 21,
+          "eligible": 270,
+          "events": 0,
+          "gain": 9.792572215373516
+        },
+        {
+          "page": 22,
+          "eligible": 128,
+          "events": 0,
+          "gain": 4.642404605806704
+        },
+        {
+          "page": 23,
+          "eligible": 210,
+          "events": 0,
+          "gain": 7.616445056401624
+        },
+        {
+          "page": 25,
+          "eligible": 268,
+          "events": 0,
+          "gain": 9.720034643407788
+        },
+        {
+          "page": 26,
+          "eligible": 261,
+          "events": 0,
+          "gain": 9.466153141527734
+        },
+        {
+          "page": 27,
+          "eligible": 227,
+          "events": 0,
+          "gain": 8.233014418110328
+        },
+        {
+          "page": 28,
+          "eligible": 267,
+          "events": 0,
+          "gain": 9.683765857424921
+        },
+        {
+          "page": 30,
+          "eligible": 259,
+          "events": 0,
+          "gain": 9.393615569562003
+        },
+        {
+          "page": 31,
+          "eligible": 267,
+          "events": 0,
+          "gain": 9.683765857424921
+        },
+        {
+          "page": 32,
+          "eligible": 117,
+          "events": 0,
+          "gain": 4.243447959995191
+        },
+        {
+          "page": 33,
+          "eligible": 210,
+          "events": 0,
+          "gain": 7.616445056401624
+        },
+        {
+          "page": 35,
+          "eligible": 266,
+          "events": 0,
+          "gain": 9.647497071442057
+        },
+        {
+          "page": 36,
+          "eligible": 233,
+          "events": 0,
+          "gain": 8.450627134007517
+        },
+        {
+          "page": 37,
+          "eligible": 226,
+          "events": 0,
+          "gain": 8.196745632127463
+        },
+        {
+          "page": 38,
+          "eligible": 226,
+          "events": 0,
+          "gain": 8.196745632127463
+        },
+        {
+          "page": 40,
+          "eligible": 229,
+          "events": 0,
+          "gain": 8.305551990076056
+        },
+        {
+          "page": 41,
+          "eligible": 269,
+          "events": 0,
+          "gain": 9.756303429390652
+        },
+        {
+          "page": 42,
+          "eligible": 269,
+          "events": 0,
+          "gain": 9.756303429390652
+        },
+        {
+          "page": 43,
+          "eligible": 269,
+          "events": 0,
+          "gain": 9.756303429390652
+        },
+        {
+          "page": 45,
+          "eligible": 266,
+          "events": 0,
+          "gain": 9.647497071442057
+        },
+        {
+          "page": 46,
+          "eligible": 267,
+          "events": 0,
+          "gain": 9.683765857424921
+        },
+        {
+          "page": 47,
+          "eligible": 270,
+          "events": 0,
+          "gain": 9.792572215373516
+        },
+        {
+          "page": 48,
+          "eligible": 268,
+          "events": 0,
+          "gain": 9.720034643407788
+        },
+        {
+          "page": 49,
+          "eligible": 64,
+          "events": 0,
+          "gain": 2.321202302903352
+        },
+        {
+          "page": 51,
+          "eligible": 89,
+          "events": 0,
+          "gain": 3.2279219524749743
+        },
+        {
+          "page": 52,
+          "eligible": 260,
+          "events": 0,
+          "gain": 9.429884355544868
+        },
+        {
+          "page": 53,
+          "eligible": 177,
+          "events": 0,
+          "gain": 6.419575118967083
+        },
+        {
+          "page": 55,
+          "eligible": 73,
+          "events": 0,
+          "gain": 2.647621376749136
+        }
+      ],
+      "exact_zero_escape_violations": 0
+    },
+    {
+      "train_eligible": 5057,
+      "train_events": 107,
+      "held_eligible": 5262,
+      "held_events": 89,
+      "epsilon": 0.02125345986555951,
+      "score": 0.005854568745997272,
+      "perpage": [
+        {
+          "page": 0,
+          "eligible": 258,
+          "events": 5,
+          "gain": 1.1707692609590725
+        },
+        {
+          "page": 1,
+          "eligible": 263,
+          "events": 4,
+          "gain": 1.7791107954672638
+        },
+        {
+          "page": 2,
+          "eligible": 198,
+          "events": 5,
+          "gain": 0.2776646107470526
+        },
+        {
+          "page": 3,
+          "eligible": 212,
+          "events": 3,
+          "gain": 1.5538879897775693
+        },
+        {
+          "page": 5,
+          "eligible": 261,
+          "events": 4,
+          "gain": 1.7493406404601965
+        },
+        {
+          "page": 6,
+          "eligible": 193,
+          "events": 3,
+          "gain": 1.2710715172104297
+        },
+        {
+          "page": 7,
+          "eligible": 206,
+          "events": 4,
+          "gain": 0.9306613777658446
+        },
+        {
+          "page": 8,
+          "eligible": 250,
+          "events": 6,
+          "gain": 0.5177724939402801
+        },
+        {
+          "page": 10,
+          "eligible": 260,
+          "events": 4,
+          "gain": 1.7344555629566627
+        },
+        {
+          "page": 11,
+          "eligible": 270,
+          "events": 5,
+          "gain": 1.3493901910014765
+        },
+        {
+          "page": 12,
+          "eligible": 258,
+          "events": 5,
+          "gain": 1.1707692609590725
+        },
+        {
+          "page": 13,
+          "eligible": 270,
+          "events": 6,
+          "gain": 0.8154740440109536
+        },
+        {
+          "page": 15,
+          "eligible": 157,
+          "events": 2,
+          "gain": 1.2691248740737404
+        },
+        {
+          "page": 16,
+          "eligible": 264,
+          "events": 4,
+          "gain": 1.7939958729707972
+        },
+        {
+          "page": 17,
+          "eligible": 271,
+          "events": 7,
+          "gain": 0.2964429745239645
+        },
+        {
+          "page": 18,
+          "eligible": 257,
+          "events": 3,
+          "gain": 2.2237164774365845
+        },
+        {
+          "page": 20,
+          "eligible": 266,
+          "events": 6,
+          "gain": 0.7559337339968186
+        },
+        {
+          "page": 21,
+          "eligible": 270,
+          "events": 8,
+          "gain": -0.2523582499700918
+        },
+        {
+          "page": 22,
+          "eligible": 128,
+          "events": 5,
+          "gain": -0.7642908145003044
+        },
+        {
+          "page": 23,
+          "eligible": 210,
+          "events": 2,
+          "gain": 2.0580339817610254
+        },
+        {
+          "page": 25,
+          "eligible": 268,
+          "events": 9,
+          "gain": -0.8160445519676824
+        },
+        {
+          "page": 26,
+          "eligible": 261,
+          "events": 7,
+          "gain": 0.14759219948862778
+        },
+        {
+          "page": 27,
+          "eligible": 227,
+          "events": 2,
+          "gain": 2.3110802993210973
+        },
+        {
+          "page": 28,
+          "eligible": 267,
+          "events": 3,
+          "gain": 2.3725672524719212
+        },
+        {
+          "page": 30,
+          "eligible": 259,
+          "events": 4,
+          "gain": 1.7195704854531288
+        },
+        {
+          "page": 31,
+          "eligible": 267,
+          "events": 1,
+          "gain": 3.440399546452967
+        },
+        {
+          "page": 32,
+          "eligible": 117,
+          "events": 2,
+          "gain": 0.6737217739323937
+        },
+        {
+          "page": 33,
+          "eligible": 210,
+          "events": 1,
+          "gain": 2.591950128751548
+        },
+        {
+          "page": 35,
+          "eligible": 266,
+          "events": 3,
+          "gain": 2.3576821749683874
+        },
+        {
+          "page": 36,
+          "eligible": 233,
+          "events": 3,
+          "gain": 1.8664746173517766
+        },
+        {
+          "page": 37,
+          "eligible": 226,
+          "events": 5,
+          "gain": 0.6944467808459951
+        },
+        {
+          "page": 38,
+          "eligible": 226,
+          "events": 1,
+          "gain": 2.830111368808087
+        },
+        {
+          "page": 40,
+          "eligible": 229,
+          "events": 6,
+          "gain": 0.20518586636607283
+        },
+        {
+          "page": 41,
+          "eligible": 269,
+          "events": 7,
+          "gain": 0.26667281951689725
+        },
+        {
+          "page": 42,
+          "eligible": 269,
+          "events": 7,
+          "gain": 0.26667281951689725
+        },
+        {
+          "page": 43,
+          "eligible": 269,
+          "events": 7,
+          "gain": 0.26667281951689725
+        },
+        {
+          "page": 45,
+          "eligible": 266,
+          "events": 7,
+          "gain": 0.22201758700629615
+        },
+        {
+          "page": 46,
+          "eligible": 267,
+          "events": 4,
+          "gain": 1.8386511054813983
+        },
+        {
+          "page": 47,
+          "eligible": 270,
+          "events": 6,
+          "gain": 0.8154740440109536
+        },
+        {
+          "page": 48,
+          "eligible": 268,
+          "events": 8,
+          "gain": -0.2821284049771595
+        },
+        {
+          "page": 49,
+          "eligible": 64,
+          "events": 0,
+          "gain": 0.9526449602261549
+        },
+        {
+          "page": 51,
+          "eligible": 89,
+          "events": 0,
+          "gain": 1.3247718978144967
+        },
+        {
+          "page": 52,
+          "eligible": 260,
+          "events": 5,
+          "gain": 1.2005394159661398
+        },
+        {
+          "page": 53,
+          "eligible": 177,
+          "events": 3,
+          "gain": 1.0329102771538907
+        },
+        {
+          "page": 55,
+          "eligible": 73,
+          "events": 4,
+          "gain": -1.0490539302041335
+        }
+      ],
+      "exact_zero_escape_violations": 196
+    },
+    {
+      "train_eligible": 5057,
+      "train_events": 176,
+      "held_eligible": 5262,
+      "held_events": 199,
+      "epsilon": 0.03489521550019771,
+      "score": -6.048825330960227e-05,
+      "perpage": [
+        {
+          "page": 0,
+          "eligible": 258,
+          "events": 4,
+          "gain": 0.12285342137399244
+        },
+        {
+          "page": 1,
+          "eligible": 263,
+          "events": 13,
+          "gain": -0.08935212718496427
+        },
+        {
+          "page": 2,
+          "eligible": 198,
+          "events": 3,
+          "gain": 0.09596077126060201
+        },
+        {
+          "page": 3,
+          "eligible": 212,
+          "events": 6,
+          "gain": 0.03569715089013384
+        },
+        {
+          "page": 5,
+          "eligible": 261,
+          "events": 12,
+          "gain": -0.06700013211029995
+        },
+        {
+          "page": 6,
+          "eligible": 193,
+          "events": 7,
+          "gain": -0.004484801925033061
+        },
+        {
+          "page": 7,
+          "eligible": 206,
+          "events": 5,
+          "gain": 0.054652963538035754
+        },
+        {
+          "page": 8,
+          "eligible": 250,
+          "events": 5,
+          "gain": 0.0920109702324221
+        },
+        {
+          "page": 10,
+          "eligible": 260,
+          "events": 11,
+          "gain": -0.04379909142894503
+        },
+        {
+          "page": 11,
+          "eligible": 270,
+          "events": 10,
+          "gain": -0.011258549073993512
+        },
+        {
+          "page": 12,
+          "eligible": 258,
+          "events": 7,
+          "gain": 0.05070316250985585
+        },
+        {
+          "page": 13,
+          "eligible": 270,
+          "events": 15,
+          "gain": -0.13150898051422114
+        },
+        {
+          "page": 15,
+          "eligible": 157,
+          "events": 11,
+          "gain": -0.13125078891807673
+        },
+        {
+          "page": 16,
+          "eligible": 264,
+          "events": 10,
+          "gain": -0.0163528227141371
+        },
+        {
+          "page": 17,
+          "eligible": 271,
+          "events": 9,
+          "gain": 0.013640582820742597
+        },
+        {
+          "page": 18,
+          "eligible": 257,
+          "events": 9,
+          "gain": 0.0017539443270742083
+        },
+        {
+          "page": 20,
+          "eligible": 266,
+          "events": 12,
+          "gain": -0.06275490407684695
+        },
+        {
+          "page": 21,
+          "eligible": 270,
+          "events": 13,
+          "gain": -0.08340880793813008
+        },
+        {
+          "page": 22,
+          "eligible": 128,
+          "events": 7,
+          "gain": -0.059672766359922
+        },
+        {
+          "page": 23,
+          "eligible": 210,
+          "events": 7,
+          "gain": 0.009948973388707122
+        },
+        {
+          "page": 25,
+          "eligible": 268,
+          "events": 3,
+          "gain": 0.15539396372894393
+        },
+        {
+          "page": 26,
+          "eligible": 261,
+          "events": 10,
+          "gain": -0.01889995953420892
+        },
+        {
+          "page": 27,
+          "eligible": 227,
+          "events": 7,
+          "gain": 0.024382748702447304
+        },
+        {
+          "page": 28,
+          "eligible": 267,
+          "events": 16,
+          "gain": -0.15810620362233846
+        },
+        {
+          "page": 30,
+          "eligible": 259,
+          "events": 8,
+          "gain": 0.027502121828500925
+        },
+        {
+          "page": 31,
+          "eligible": 267,
+          "events": 10,
+          "gain": -0.013805685894065306
+        },
+        {
+          "page": 32,
+          "eligible": 117,
+          "events": 6,
+          "gain": -0.04496218174547306
+        },
+        {
+          "page": 33,
+          "eligible": 210,
+          "events": 13,
+          "gain": -0.134351544339566
+        },
+        {
+          "page": 35,
+          "eligible": 266,
+          "events": 9,
+          "gain": 0.009395354787289617
+        },
+        {
+          "page": 36,
+          "eligible": 233,
+          "events": 7,
+          "gain": 0.02947702234259089
+        },
+        {
+          "page": 37,
+          "eligible": 226,
+          "events": 13,
+          "gain": -0.12076681463251643
+        },
+        {
+          "page": 38,
+          "eligible": 226,
+          "events": 5,
+          "gain": 0.07163387567184773
+        },
+        {
+          "page": 40,
+          "eligible": 229,
+          "events": 8,
+          "gain": 0.0020307536277829608
+        },
+        {
+          "page": 41,
+          "eligible": 269,
+          "events": 6,
+          "gain": 0.08409275047149797
+        },
+        {
+          "page": 42,
+          "eligible": 269,
+          "events": 12,
+          "gain": -0.06020776725677515
+        },
+        {
+          "page": 43,
+          "eligible": 269,
+          "events": 9,
+          "gain": 0.01194249160736141
+        },
+        {
+          "page": 45,
+          "eligible": 266,
+          "events": 7,
+          "gain": 0.05749552736338065
+        },
+        {
+          "page": 46,
+          "eligible": 267,
+          "events": 9,
+          "gain": 0.010244400393980196
+        },
+        {
+          "page": 47,
+          "eligible": 270,
+          "events": 10,
+          "gain": -0.011258549073993512
+        },
+        {
+          "page": 48,
+          "eligible": 268,
+          "events": 8,
+          "gain": 0.035143532288716334
+        },
+        {
+          "page": 49,
+          "eligible": 64,
+          "events": 2,
+          "gain": 0.006238746252107283
+        },
+        {
+          "page": 51,
+          "eligible": 89,
+          "events": 5,
+          "gain": -0.04468537244476431
+        },
+        {
+          "page": 52,
+          "eligible": 260,
+          "events": 9,
+          "gain": 0.004301081147146002
+        },
+        {
+          "page": 53,
+          "eligible": 177,
+          "events": 6,
+          "gain": 0.005980554655962866
+        },
+        {
+          "page": 55,
+          "eligible": 73,
+          "events": 1,
+          "gain": 0.037930243000368194
+        }
+      ],
+      "exact_zero_escape_violations": 375
+    },
+    {
+      "train_eligible": 5057,
+      "train_events": 0,
+      "held_eligible": 5262,
+      "held_events": 0,
+      "epsilon": 9.885330170027679e-05,
+      "score": 0.03626878598286488,
+      "perpage": [
+        {
+          "page": 0,
+          "eligible": 258,
+          "events": 0,
+          "gain": 9.357346783579139
+        },
+        {
+          "page": 1,
+          "eligible": 263,
+          "events": 0,
+          "gain": 9.538690713493462
+        },
+        {
+          "page": 2,
+          "eligible": 198,
+          "events": 0,
+          "gain": 7.1812196246072455
+        },
+        {
+          "page": 3,
+          "eligible": 212,
+          "events": 0,
+          "gain": 7.688982628367354
+        },
+        {
+          "page": 5,
+          "eligible": 261,
+          "events": 0,
+          "gain": 9.466153141527734
+        },
+        {
+          "page": 6,
+          "eligible": 193,
+          "events": 0,
+          "gain": 6.999875694692921
+        },
+        {
+          "page": 7,
+          "eligible": 206,
+          "events": 0,
+          "gain": 7.4713699124701645
+        },
+        {
+          "page": 8,
+          "eligible": 250,
+          "events": 0,
+          "gain": 9.06719649571622
+        },
+        {
+          "page": 10,
+          "eligible": 260,
+          "events": 0,
+          "gain": 9.429884355544868
+        },
+        {
+          "page": 11,
+          "eligible": 270,
+          "events": 0,
+          "gain": 9.792572215373516
+        },
+        {
+          "page": 12,
+          "eligible": 258,
+          "events": 0,
+          "gain": 9.357346783579139
+        },
+        {
+          "page": 13,
+          "eligible": 270,
+          "events": 0,
+          "gain": 9.792572215373516
+        },
+        {
+          "page": 15,
+          "eligible": 157,
+          "events": 0,
+          "gain": 5.6941993993097855
+        },
+        {
+          "page": 16,
+          "eligible": 264,
+          "events": 0,
+          "gain": 9.574959499476329
+        },
+        {
+          "page": 17,
+          "eligible": 271,
+          "events": 0,
+          "gain": 9.828841001356382
+        },
+        {
+          "page": 18,
+          "eligible": 257,
+          "events": 0,
+          "gain": 9.321077997596273
+        },
+        {
+          "page": 20,
+          "eligible": 266,
+          "events": 0,
+          "gain": 9.647497071442057
+        },
+        {
+          "page": 21,
+          "eligible": 270,
+          "events": 0,
+          "gain": 9.792572215373516
+        },
+        {
+          "page": 22,
+          "eligible": 128,
+          "events": 0,
+          "gain": 4.642404605806704
+        },
+        {
+          "page": 23,
+          "eligible": 210,
+          "events": 0,
+          "gain": 7.616445056401624
+        },
+        {
+          "page": 25,
+          "eligible": 268,
+          "events": 0,
+          "gain": 9.720034643407788
+        },
+        {
+          "page": 26,
+          "eligible": 261,
+          "events": 0,
+          "gain": 9.466153141527734
+        },
+        {
+          "page": 27,
+          "eligible": 227,
+          "events": 0,
+          "gain": 8.233014418110328
+        },
+        {
+          "page": 28,
+          "eligible": 267,
+          "events": 0,
+          "gain": 9.683765857424921
+        },
+        {
+          "page": 30,
+          "eligible": 259,
+          "events": 0,
+          "gain": 9.393615569562003
+        },
+        {
+          "page": 31,
+          "eligible": 267,
+          "events": 0,
+          "gain": 9.683765857424921
+        },
+        {
+          "page": 32,
+          "eligible": 117,
+          "events": 0,
+          "gain": 4.243447959995191
+        },
+        {
+          "page": 33,
+          "eligible": 210,
+          "events": 0,
+          "gain": 7.616445056401624
+        },
+        {
+          "page": 35,
+          "eligible": 266,
+          "events": 0,
+          "gain": 9.647497071442057
+        },
+        {
+          "page": 36,
+          "eligible": 233,
+          "events": 0,
+          "gain": 8.450627134007517
+        },
+        {
+          "page": 37,
+          "eligible": 226,
+          "events": 0,
+          "gain": 8.196745632127463
+        },
+        {
+          "page": 38,
+          "eligible": 226,
+          "events": 0,
+          "gain": 8.196745632127463
+        },
+        {
+          "page": 40,
+          "eligible": 229,
+          "events": 0,
+          "gain": 8.305551990076056
+        },
+        {
+          "page": 41,
+          "eligible": 269,
+          "events": 0,
+          "gain": 9.756303429390652
+        },
+        {
+          "page": 42,
+          "eligible": 269,
+          "events": 0,
+          "gain": 9.756303429390652
+        },
+        {
+          "page": 43,
+          "eligible": 269,
+          "events": 0,
+          "gain": 9.756303429390652
+        },
+        {
+          "page": 45,
+          "eligible": 266,
+          "events": 0,
+          "gain": 9.647497071442057
+        },
+        {
+          "page": 46,
+          "eligible": 267,
+          "events": 0,
+          "gain": 9.683765857424921
+        },
+        {
+          "page": 47,
+          "eligible": 270,
+          "events": 0,
+          "gain": 9.792572215373516
+        },
+        {
+          "page": 48,
+          "eligible": 268,
+          "events": 0,
+          "gain": 9.720034643407788
+        },
+        {
+          "page": 49,
+          "eligible": 64,
+          "events": 0,
+          "gain": 2.321202302903352
+        },
+        {
+          "page": 51,
+          "eligible": 89,
+          "events": 0,
+          "gain": 3.2279219524749743
+        },
+        {
+          "page": 52,
+          "eligible": 260,
+          "events": 0,
+          "gain": 9.429884355544868
+        },
+        {
+          "page": 53,
+          "eligible": 177,
+          "events": 0,
+          "gain": 6.419575118967083
+        },
+        {
+          "page": 55,
+          "eligible": 73,
+          "events": 0,
+          "gain": 2.647621376749136
+        }
+      ],
+      "exact_zero_escape_violations": 0
+    },
+    {
+      "train_eligible": 5057,
+      "train_events": 82,
+      "held_eligible": 5262,
+      "held_events": 89,
+      "epsilon": 0.01631079478054567,
+      "score": 0.00632971996231339,
+      "perpage": [
+        {
+          "page": 0,
+          "eligible": 258,
+          "events": 10,
+          "gain": -2.8964899660877723
+        },
+        {
+          "page": 1,
+          "eligible": 263,
+          "events": 2,
+          "gain": 3.6322897555751537
+        },
+        {
+          "page": 2,
+          "eligible": 198,
+          "events": 4,
+          "gain": 0.7300441204028698
+        },
+        {
+          "page": 3,
+          "eligible": 212,
+          "events": 2,
+          "gain": 2.6162491917699118
+        },
+        {
+          "page": 5,
+          "eligible": 261,
+          "events": 5,
+          "gain": 1.1815070644520338
+        },
+        {
+          "page": 6,
+          "eligible": 193,
+          "events": 2,
+          "gain": 2.237724275842469
+        },
+        {
+          "page": 7,
+          "eligible": 206,
+          "events": 3,
+          "gain": 1.6930690200825724
+        },
+        {
+          "page": 8,
+          "eligible": 250,
+          "events": 3,
+          "gain": 2.5696530359145457
+        },
+        {
+          "page": 10,
+          "eligible": 260,
+          "events": 1,
+          "gain": 4.3761686512968625
+        },
+        {
+          "page": 11,
+          "eligible": 270,
+          "events": 7,
+          "gain": -0.2464836350028401
+        },
+        {
+          "page": 12,
+          "eligible": 258,
+          "events": 5,
+          "gain": 1.12173997246349
+        },
+        {
+          "page": 13,
+          "eligible": 270,
+          "events": 9,
+          "gain": -1.8537756104233463
+        },
+        {
+          "page": 15,
+          "eligible": 157,
+          "events": 2,
+          "gain": 1.5205191719799453
+        },
+        {
+          "page": 16,
+          "eligible": 264,
+          "events": 4,
+          "gain": 2.04492014415083
+        },
+        {
+          "page": 17,
+          "eligible": 271,
+          "events": 7,
+          "gain": -0.22656127100665913
+        },
+        {
+          "page": 18,
+          "eligible": 257,
+          "events": 5,
+          "gain": 1.101817608467309
+        },
+        {
+          "page": 20,
+          "eligible": 266,
+          "events": 4,
+          "gain": 2.0847648721431926
+        },
+        {
+          "page": 21,
+          "eligible": 270,
+          "events": 9,
+          "gain": -1.8537756104233463
+        },
+        {
+          "page": 22,
+          "eligible": 128,
+          "events": 1,
+          "gain": 1.7464166038009425
+        },
+        {
+          "page": 23,
+          "eligible": 210,
+          "events": 5,
+          "gain": 0.16546650064679191
+        },
+        {
+          "page": 25,
+          "eligible": 268,
+          "events": 5,
+          "gain": 1.3209636124253024
+        },
+        {
+          "page": 26,
+          "eligible": 261,
+          "events": 6,
+          "gain": 0.37786107674178115
+        },
+        {
+          "page": 27,
+          "eligible": 227,
+          "events": 3,
+          "gain": 2.1114386640023772
+        },
+        {
+          "page": 28,
+          "eligible": 267,
+          "events": 4,
+          "gain": 2.1046872361393736
+        },
+        {
+          "page": 30,
+          "eligible": 259,
+          "events": 3,
+          "gain": 2.7489543118801762
+        },
+        {
+          "page": 31,
+          "eligible": 267,
+          "events": 2,
+          "gain": 3.7119792115598784
+        },
+        {
+          "page": 32,
+          "eligible": 117,
+          "events": 3,
+          "gain": -0.08002137557755606
+        },
+        {
+          "page": 33,
+          "eligible": 210,
+          "events": 2,
+          "gain": 2.57640446377755
+        },
+        {
+          "page": 35,
+          "eligible": 266,
+          "events": 3,
+          "gain": 2.888410859853445
+        },
+        {
+          "page": 36,
+          "eligible": 233,
+          "events": 5,
+          "gain": 0.6236808725589595
+        },
+        {
+          "page": 37,
+          "eligible": 226,
+          "events": 4,
+          "gain": 1.287870312295944
+        },
+        {
+          "page": 38,
+          "eligible": 226,
+          "events": 6,
+          "gain": -0.31942166312456166
+        },
+        {
+          "page": 40,
+          "eligible": 229,
+          "events": 4,
+          "gain": 1.3476374042844879
+        },
+        {
+          "page": 41,
+          "eligible": 269,
+          "events": 2,
+          "gain": 3.7518239395522412
+        },
+        {
+          "page": 42,
+          "eligible": 269,
+          "events": 3,
+          "gain": 2.9481779518419886
+        },
+        {
+          "page": 43,
+          "eligible": 269,
+          "events": 2,
+          "gain": 3.7518239395522412
+        },
+        {
+          "page": 45,
+          "eligible": 266,
+          "events": 3,
+          "gain": 2.888410859853445
+        },
+        {
+          "page": 46,
+          "eligible": 267,
+          "events": 5,
+          "gain": 1.3010412484291214
+        },
+        {
+          "page": 47,
+          "eligible": 270,
+          "events": 4,
+          "gain": 2.1644543281279174
+        },
+        {
+          "page": 48,
+          "eligible": 268,
+          "events": 3,
+          "gain": 2.9282555878458068
+        },
+        {
+          "page": 49,
+          "eligible": 64,
+          "events": 1,
+          "gain": 0.47138530804534506
+        },
+        {
+          "page": 51,
+          "eligible": 89,
+          "events": 1,
+          "gain": 0.9694444079498753
+        },
+        {
+          "page": 52,
+          "eligible": 260,
+          "events": 4,
+          "gain": 1.965230688166105
+        },
+        {
+          "page": 53,
+          "eligible": 177,
+          "events": 3,
+          "gain": 1.1153204641933168
+        },
+        {
+          "page": 55,
+          "eligible": 73,
+          "events": 0,
+          "gain": 1.4543325717212285
+        }
+      ],
+      "exact_zero_escape_violations": 171
+    },
+    {
+      "train_eligible": 5057,
+      "train_events": 168,
+      "held_eligible": 5262,
+      "held_events": 188,
+      "epsilon": 0.03331356267299328,
+      "score": -8.845907858894716e-05,
+      "perpage": [
+        {
+          "page": 0,
+          "eligible": 258,
+          "events": 10,
+          "gain": -0.0791985886859039
+        },
+        {
+          "page": 1,
+          "eligible": 263,
+          "events": 6,
+          "gain": 0.2215249826029061
+        },
+        {
+          "page": 2,
+          "eligible": 198,
+          "events": 5,
+          "gain": 0.13197228949435802
+        },
+        {
+          "page": 3,
+          "eligible": 212,
+          "events": 1,
+          "gain": 0.4550747630228171
+        },
+        {
+          "page": 5,
+          "eligible": 261,
+          "events": 12,
+          "gain": -0.2158843785171899
+        },
+        {
+          "page": 6,
+          "eligible": 193,
+          "events": 9,
+          "gain": -0.16875128179445187
+        },
+        {
+          "page": 7,
+          "eligible": 206,
+          "events": 6,
+          "gain": 0.07979193508512827
+        },
+        {
+          "page": 8,
+          "eligible": 250,
+          "events": 11,
+          "gain": -0.17116365818784318
+        },
+        {
+          "page": 10,
+          "eligible": 260,
+          "events": 9,
+          "gain": -0.002152787343730589
+        },
+        {
+          "page": 11,
+          "eligible": 270,
+          "events": 11,
+          "gain": -0.12143276432195627
+        },
+        {
+          "page": 12,
+          "eligible": 258,
+          "events": 12,
+          "gain": -0.22334401259707293
+        },
+        {
+          "page": 13,
+          "eligible": 270,
+          "events": 7,
+          "gain": 0.16685808350038195
+        },
+        {
+          "page": 15,
+          "eligible": 157,
+          "events": 2,
+          "gain": 0.24624209293604346
+        },
+        {
+          "page": 16,
+          "eligible": 264,
+          "events": 14,
+          "gain": -0.352570168348476
+        },
+        {
+          "page": 17,
+          "eligible": 271,
+          "events": 14,
+          "gain": -0.33516435549541557
+        },
+        {
+          "page": 18,
+          "eligible": 257,
+          "events": 14,
+          "gain": -0.3699759812015364
+        },
+        {
+          "page": 20,
+          "eligible": 266,
+          "events": 8,
+          "gain": 0.08483919277162
+        },
+        {
+          "page": 21,
+          "eligible": 270,
+          "events": 15,
+          "gain": -0.40972361214429454
+        },
+        {
+          "page": 22,
+          "eligible": 128,
+          "events": 7,
+          "gain": -0.18623126294741538
+        },
+        {
+          "page": 23,
+          "eligible": 210,
+          "events": 6,
+          "gain": 0.08973811385830566
+        },
+        {
+          "page": 25,
+          "eligible": 268,
+          "events": 8,
+          "gain": 0.08981228215820869
+        },
+        {
+          "page": 26,
+          "eligible": 261,
+          "events": 2,
+          "gain": 0.5048427410386556
+        },
+        {
+          "page": 27,
+          "eligible": 227,
+          "events": 4,
+          "gain": 0.2761547975554786
+        },
+        {
+          "page": 28,
+          "eligible": 267,
+          "events": 9,
+          "gain": 0.015253025509329832
+        },
+        {
+          "page": 30,
+          "eligible": 259,
+          "events": 9,
+          "gain": -0.004639332037024935
+        },
+        {
+          "page": 31,
+          "eligible": 267,
+          "events": 5,
+          "gain": 0.303543873331668
+        },
+        {
+          "page": 32,
+          "eligible": 117,
+          "events": 4,
+          "gain": 0.002634881293100466
+        },
+        {
+          "page": 33,
+          "eligible": 210,
+          "events": 4,
+          "gain": 0.23388353776947474
+        },
+        {
+          "page": 35,
+          "eligible": 266,
+          "events": 9,
+          "gain": 0.012766480816035486
+        },
+        {
+          "page": 36,
+          "eligible": 233,
+          "events": 9,
+          "gain": -0.06928949406267793
+        },
+        {
+          "page": 37,
+          "eligible": 226,
+          "events": 8,
+          "gain": -0.014622594960153945
+        },
+        {
+          "page": 38,
+          "eligible": 226,
+          "events": 8,
+          "gain": -0.014622594960153945
+        },
+        {
+          "page": 40,
+          "eligible": 229,
+          "events": 5,
+          "gain": 0.20905517498648285
+        },
+        {
+          "page": 41,
+          "eligible": 269,
+          "events": 10,
+          "gain": -0.0518465970596661
+        },
+        {
+          "page": 42,
+          "eligible": 269,
+          "events": 5,
+          "gain": 0.3085169627182567
+        },
+        {
+          "page": 43,
+          "eligible": 269,
+          "events": 6,
+          "gain": 0.23644425076267217
+        },
+        {
+          "page": 45,
+          "eligible": 266,
+          "events": 11,
+          "gain": -0.13137894309513365
+        },
+        {
+          "page": 46,
+          "eligible": 267,
+          "events": 12,
+          "gain": -0.20096511035742382
+        },
+        {
+          "page": 47,
+          "eligible": 270,
+          "events": 6,
+          "gain": 0.23893079545596652
+        },
+        {
+          "page": 48,
+          "eligible": 268,
+          "events": 20,
+          "gain": -0.775060261308806
+        },
+        {
+          "page": 49,
+          "eligible": 64,
+          "events": 3,
+          "gain": -0.057079275495915405
+        },
+        {
+          "page": 51,
+          "eligible": 89,
+          "events": 2,
+          "gain": 0.07715705379202781
+        },
+        {
+          "page": 52,
+          "eligible": 260,
+          "events": 10,
+          "gain": -0.07422549929931521
+        },
+        {
+          "page": 53,
+          "eligible": 177,
+          "events": 7,
+          "gain": -0.06439057297599238
+        },
+        {
+          "page": 55,
+          "eligible": 73,
+          "events": 1,
+          "gain": 0.1094450506549028
+        }
+      ],
+      "exact_zero_escape_violations": 356
+    }
+  ]
+}

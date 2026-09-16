@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "method": "independent coefficient-to-DCdifference/ACrun histogram, separate vectorized component ordering",
+  "results": [
+    {
+      "page": 0,
+      "status": "PASS",
+      "totals": {
+        "0:0": 135000,
+        "1:0": 766150,
+        "0:1": 67500,
+        "1:1": 79426
+      }
+    },
+    {
+      "page": 1,
+      "status": "PASS",
+      "totals": {
+        "0:0": 135000,
+        "1:0": 746223,
+        "0:1": 67500,
+        "1:1": 67500
+      }
+    }
+  ]
+}

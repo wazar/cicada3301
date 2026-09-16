@@ -1,0 +1,28 @@
+{
+  "real": {
+    "train_eligible": 5057,
+    "train_events": 172,
+    "held_eligible": 5262,
+    "held_events": 184,
+    "epsilon": 0.034104389086595494,
+    "score": -3.0740089578607976e-06,
+    "exact_zero_escape_violations": 356,
+    "tail": 0.687
+  },
+  "null_count": 999,
+  "control_results": {
+    "hard": {
+      "count": 100,
+      "detected": 100,
+      "score_min": 0.03626878598286488,
+      "score_max": 0.03626878598286488
+    },
+    "half": {
+      "count": 100,
+      "detected": 100,
+      "score_min": 0.0004917446125630511,
+      "score_max": 0.008696547065469244
+    }
+  },
+  "total_panels": 1200
+}

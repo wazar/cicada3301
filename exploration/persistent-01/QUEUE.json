@@ -204,7 +204,7 @@
   },
   {
     "id": "P13",
-    "status": "completed",
+    "status": "completed_deterministic_compatibility",
     "owner": "worker-c",
     "title": "Exact state-merged rune-LM F decoding",
     "input": "Frozen P03 model, known keys, source word ends and discovery pages",
@@ -725,7 +725,7 @@
   },
   {
     "id": "N09",
-    "status": "running",
+    "status": "completed_no_candidate",
     "owner": "persistent_n",
     "title": "Nonadditive second-order exclusion",
     "input": "45discoverypages existing23/22split",
@@ -736,7 +736,7 @@
   },
   {
     "id": "Q-Q05",
-    "status": "running",
+    "status": "completed_scoped_rejection",
     "owner": "persistent_q",
     "title": "Prime-product totient recordsequence",
     "input": "Numbereditems1\u20135 originals36\u201338",
@@ -747,13 +747,42 @@
   },
   {
     "id": "Q-Q06",
-    "status": "ready",
+    "status": "running",
     "owner": "persistent_q",
     "title": "Internalstroke glyphvariants",
     "input": "I original0/1 frozenclasses/crops",
     "first_step": "Freeze detector and planted2degree/5px controls versus rasterization",
     "decision": "Recoveredplantedstates and reproducibleheldshape separation",
     "expected_cost": "Pilot then <=900s logged batches",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "P14",
+    "status": "running",
+    "owner": "persistent_p",
+    "title": "Continuous0\u20133 numeric-key clock",
+    "input": "originals0\u20133 only; fourM25formulas",
+    "first_step": "Controlled exactcross-boundary statecarry before one realpacket",
+    "decision": "Does continuousclock change coherentheld output under matchednull?",
+    "expected_cost": "Pilot then<=900s",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "ROOT-Q02",
+    "status": "controls_pass_review_pending",
+    "owner": "coordinator",
+    "title": "Delimiter units as canonical prime numerals",
+    "input": "F06discoveryunits lengths2..13",
+    "first_step": "Independentreview18 then999fullboundaryphase nulls",
+    "decision": "Excessprimecounts underconditionalrotationnull?",
+    "expected_cost": "Measuredcontrols<2s;boundedreal",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "REVIEW18",
+    "status": "running",
+    "owner": "persistent_n",
+    "title": "Independent prime-numeral arithmetic/null replay",
     "strategy": "outside-box-v1"
   }
 ]
