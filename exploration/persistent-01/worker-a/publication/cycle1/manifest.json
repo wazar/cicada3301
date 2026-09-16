@@ -1,0 +1,1443 @@
+{
+  "frozen_utc": "2026-09-16T20:28:14.600804+00:00",
+  "strategy": "outside-box-v1",
+  "experiments": [
+    "P01",
+    "P04",
+    "P10"
+  ],
+  "note": "Immutable publication copies; source files preserved. Existing gzip score files copied verbatim, not recompressed. Planned P07/P12 are not executed evidence.",
+  "files": [
+    {
+      "source": "exploration/persistent-01/worker-a/CARD-P01.md",
+      "source_sha256": "b646ebda22b297c8dd3ba441613b6543ab50c16e172544b132fb06e7ecd00815",
+      "source_bytes": 2117,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/CARD-P01.md",
+      "publication_sha256": "b646ebda22b297c8dd3ba441613b6543ab50c16e172544b132fb06e7ecd00815",
+      "publication_bytes": 2117,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/CARD-P04.md",
+      "source_sha256": "89792711ea91db095444b9dcc8ecf1a3461c077b0395b931b82975c9022a0416",
+      "source_bytes": 1300,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/CARD-P04.md",
+      "publication_sha256": "89792711ea91db095444b9dcc8ecf1a3461c077b0395b931b82975c9022a0416",
+      "publication_bytes": 1300,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/CARD-P10.md",
+      "source_sha256": "8cc6c5f92206f93376abc01aac16f9e6558ff8eb66bbb6ecf62cb79219010f44",
+      "source_bytes": 2047,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/CARD-P10.md",
+      "publication_sha256": "8cc6c5f92206f93376abc01aac16f9e6558ff8eb66bbb6ecf62cb79219010f44",
+      "publication_bytes": 2047,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/P01-RESULTS.md",
+      "source_sha256": "83a2e5511855bfd2e35e9e75360e214a38cacfba846db5a14f28dae59e3da4ae",
+      "source_bytes": 844,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/P01-RESULTS.md",
+      "publication_sha256": "83a2e5511855bfd2e35e9e75360e214a38cacfba846db5a14f28dae59e3da4ae",
+      "publication_bytes": 844,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/P04-RESULTS.md",
+      "source_sha256": "9b0658fe2ff639be2de4404e5cf0c01d0d4570f016a769783f11c1b6aaa12e76",
+      "source_bytes": 1406,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/P04-RESULTS.md",
+      "publication_sha256": "9b0658fe2ff639be2de4404e5cf0c01d0d4570f016a769783f11c1b6aaa12e76",
+      "publication_bytes": 1406,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/P10-RESULTS.md",
+      "source_sha256": "b0954c4d7d1d2e342254aae2710a6fb4d8aa69f682509ada1ab28a6bc223ea37",
+      "source_bytes": 989,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/P10-RESULTS.md",
+      "publication_sha256": "b0954c4d7d1d2e342254aae2710a6fb4d8aa69f682509ada1ab28a6bc223ea37",
+      "publication_bytes": 989,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/REPORT.md",
+      "source_sha256": "465a5a5c7be694b9f3cf7051735d49b0946dc651378f6f2c793cad783e163772",
+      "source_bytes": 5414,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/REPORT.md",
+      "publication_sha256": "465a5a5c7be694b9f3cf7051735d49b0946dc651378f6f2c793cad783e163772",
+      "publication_bytes": 5414,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/compare_p01.py",
+      "source_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "source_bytes": 2719,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/compare_p01.py",
+      "publication_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "publication_bytes": 2719,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/null/checkpoint.json",
+      "source_sha256": "fa01b37ee41572b44fd565926fbebc247f82dd6ffaa0f7788ea98033749556f4",
+      "source_bytes": 313298,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/null/checkpoint.json.gz",
+      "publication_sha256": "6a1a806648569ea704e76d70f450c5a26e601255c4052581a7acf4f62dc7aebf",
+      "publication_bytes": 16213,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/null/scores-0000000.jsonl.gz",
+      "source_sha256": "85cb4460a72cc90d786ed6a0c947b3f14a414a2c046e635e0e2550bdf73de88d",
+      "source_bytes": 11399,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/null/scores-0000000.jsonl.gz",
+      "publication_sha256": "85cb4460a72cc90d786ed6a0c947b3f14a414a2c046e635e0e2550bdf73de88d",
+      "publication_bytes": 11399,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/null/scores-0000256.jsonl.gz",
+      "source_sha256": "26c919ef37841e179855e787bf4c976cf9a001b26a902af775ab0496a729b15a",
+      "source_bytes": 4158614,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/null/scores-0000256.jsonl.gz",
+      "publication_sha256": "26c919ef37841e179855e787bf4c976cf9a001b26a902af775ab0496a729b15a",
+      "publication_bytes": 4158614,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/null/scores-0099688.jsonl.gz",
+      "source_sha256": "9cebb19521a5ce720f7b37b442d868235c9044908700d38129bfbdd4cc5913d1",
+      "source_bytes": 3428796,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/null/scores-0099688.jsonl.gz",
+      "publication_sha256": "9cebb19521a5ce720f7b37b442d868235c9044908700d38129bfbdd4cc5913d1",
+      "publication_bytes": 3428796,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/null/top20.json",
+      "source_sha256": "cf604176595ae5fffeb20503e60e0c9db853798618ae2e8e0cf8c1f9d5cfe712",
+      "source_bytes": 273999,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/null/top20.json.gz",
+      "publication_sha256": "ac368dd2cb010ea2576c92d4ca1fb0348dd72274e071fbcf48032b86521b6677",
+      "publication_bytes": 15694,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/p01-comparison.json",
+      "source_sha256": "05e17a0da98991637a366b581de3db98a42907c1299faf492ade90bcedca0278",
+      "source_bytes": 8721,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/p01-comparison.json",
+      "publication_sha256": "05e17a0da98991637a366b581de3db98a42907c1299faf492ade90bcedca0278",
+      "publication_bytes": 8721,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/p01-page-leaders.json",
+      "source_sha256": "75f887e6514e90f3926d0479744496356e81e7d8d3c24c8ad808e26ce69d048f",
+      "source_bytes": 4721057,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/p01-page-leaders.json.gz",
+      "publication_sha256": "b8d636da587f4f88a97ae15114379784fc225b1fb2a8a7b804eb54c2bf1e648c",
+      "publication_bytes": 158517,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/p01-structure-comparison.json",
+      "source_sha256": "e2419ffe01d1eabcfbdf7208b9bf1e8c3d7805799cb5a02f4930c0ab1ed21714",
+      "source_bytes": 25562,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/p01-structure-comparison.json",
+      "publication_sha256": "e2419ffe01d1eabcfbdf7208b9bf1e8c3d7805799cb5a02f4930c0ab1ed21714",
+      "publication_bytes": 25562,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/p01.py",
+      "source_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "source_bytes": 3812,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/p01.py",
+      "publication_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "publication_bytes": 3812,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/p04-results.json",
+      "source_sha256": "531956e7bdee555ed24374ba3f9f261720d54d5f3c06558566cfb57d842b25a9",
+      "source_bytes": 21004130,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/p04-results.json.gz",
+      "publication_sha256": "885c55092480185bcd5d949b1b52c2a56fdf4c90ad26c241eef1ec61a4b93bf2",
+      "publication_bytes": 498691,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/p04.py",
+      "source_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "source_bytes": 2439,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/p04.py",
+      "publication_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "publication_bytes": 2439,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/p10/controls.json",
+      "source_sha256": "fc6f22a5299cf1bffc332c0a1af22e8abf1a6926972b80dfe1dd7205ca3331b3",
+      "source_bytes": 100819,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/p10/controls.json.gz",
+      "publication_sha256": "17c6198f3b72f5ed8e6e7575abe26ff0fa8f038cc0ed9aa49807322ff4005813",
+      "publication_bytes": 6377,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/p10/null-results.json",
+      "source_sha256": "b9748273feb17bc05252d81284498069aff01c97345958ae1076d694702aa4fd",
+      "source_bytes": 547677,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/p10/null-results.json.gz",
+      "publication_sha256": "0a017994ad9eab1cc91061c8064efce57b3934d06ea9fc399af33dbefdb9f753",
+      "publication_bytes": 24827,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/p10/null-scores.jsonl.gz",
+      "source_sha256": "52fd52f50613cdbb6c83573d080757e87c898544f806cee072a56b50cbdbda59",
+      "source_bytes": 128066,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/p10/null-scores.jsonl.gz",
+      "publication_sha256": "52fd52f50613cdbb6c83573d080757e87c898544f806cee072a56b50cbdbda59",
+      "publication_bytes": 128066,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/p10/real-results.json",
+      "source_sha256": "73d9161b500509e84cd80b2396439166fb2f32520b41dbb04756fd6c69af17e3",
+      "source_bytes": 520508,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/p10/real-results.json.gz",
+      "publication_sha256": "1a13b8d059d31a738c6fcb72890fa17f4a7fea774df01938ee9a8735d05a649d",
+      "publication_bytes": 23070,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/p10/real-scores.jsonl.gz",
+      "source_sha256": "77b8669838a2632f95fbda0686d5ddf7c3713ca37b95df75feb7c9c84897fbfa",
+      "source_bytes": 127367,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/p10/real-scores.jsonl.gz",
+      "publication_sha256": "77b8669838a2632f95fbda0686d5ddf7c3713ca37b95df75feb7c9c84897fbfa",
+      "publication_bytes": 127367,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/p10.py",
+      "source_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "source_bytes": 3957,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/p10.py",
+      "publication_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "publication_bytes": 3957,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/periodic-aliases.json",
+      "source_sha256": "7146b19155957fd11cd726b82f2f88fe90dd6652653281cf5b220c7d2292b89e",
+      "source_bytes": 9575,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/periodic-aliases.json",
+      "publication_sha256": "7146b19155957fd11cd726b82f2f88fe90dd6652653281cf5b220c7d2292b89e",
+      "publication_bytes": 9575,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/plant/checkpoint.json",
+      "source_sha256": "6282ad073b794136889974e403817c753c5d377d5df255634c82877e71c681bc",
+      "source_bytes": 1266445,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/plant/checkpoint.json.gz",
+      "publication_sha256": "29f24bf4848a96d4fdf328c2d8d652135b2090cb6f6ad62361781faf88dda4e2",
+      "publication_bytes": 37456,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/plant/scores-0000000.jsonl.gz",
+      "source_sha256": "548e9b148fd2101639d947fa3d2a5758bce91bb0b54fdf03e31142b5aedeb013",
+      "source_bytes": 12516,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/plant/scores-0000000.jsonl.gz",
+      "publication_sha256": "548e9b148fd2101639d947fa3d2a5758bce91bb0b54fdf03e31142b5aedeb013",
+      "publication_bytes": 12516,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/plant/top20.json",
+      "source_sha256": "38ded51bffe0e917af87976cee1483daa02858f835730ea7100de7d8aafe2626",
+      "source_bytes": 1104482,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/plant/top20.json.gz",
+      "publication_sha256": "2e8707e58bafcf4a287ad6f6f898fb69e5086ab105881eb9429858b18e866fc2",
+      "publication_bytes": 34270,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/plant/truth.json",
+      "source_sha256": "eba6e6cd5a674de2b230c5b186b2df1bb8b7442e3ca9e0b8b0dcd034a22475ab",
+      "source_bytes": 109129,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/plant/truth.json.gz",
+      "publication_sha256": "c58884ed8b6220924fb3ae120271df82658123f49c4c015588e0d0b8ad17da3d",
+      "publication_bytes": 2086,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/real/checkpoint.json",
+      "source_sha256": "03075d862fb892cb167dee8d5d9960a92d0c0a5a65d6b33b02c0df304c5ed23a",
+      "source_bytes": 274100,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/real/checkpoint.json.gz",
+      "publication_sha256": "3e5a78e5112fd59564b5161740ed38fce818067ff1113554cc2f17001ee3ad56",
+      "publication_bytes": 15448,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/real/scores-0000000.jsonl.gz",
+      "source_sha256": "1326283f8a8fdbbc29c83e23382e7fe424c972b31c5215dffd3eaf93c908dff2",
+      "source_bytes": 11323,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/real/scores-0000000.jsonl.gz",
+      "publication_sha256": "1326283f8a8fdbbc29c83e23382e7fe424c972b31c5215dffd3eaf93c908dff2",
+      "publication_bytes": 11323,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/real/scores-0000256.jsonl.gz",
+      "source_sha256": "42f2c96eaec008f1f69a3b2b0bba0806e7d8ebe3d374424b954741224970e042",
+      "source_bytes": 4064018,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/real/scores-0000256.jsonl.gz",
+      "publication_sha256": "42f2c96eaec008f1f69a3b2b0bba0806e7d8ebe3d374424b954741224970e042",
+      "publication_bytes": 4064018,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/real/scores-0097469.jsonl.gz",
+      "source_sha256": "470029461a0e406f24fe179e49a19eccf93038cdc84bb43c8f18f86498f19b60",
+      "source_bytes": 3518172,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/real/scores-0097469.jsonl.gz",
+      "publication_sha256": "470029461a0e406f24fe179e49a19eccf93038cdc84bb43c8f18f86498f19b60",
+      "publication_bytes": 3518172,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/real/top20.json",
+      "source_sha256": "c1acd1d77da54b7bf08a9bfbd44baa063695d967933c36a414059d94b8dee4e8",
+      "source_bytes": 239683,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/real/top20.json.gz",
+      "publication_sha256": "ebf7e18493346fa86d41f6d8f3beafb435fa67fa9d3aff867b0983985ebb615f",
+      "publication_bytes": 14652,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/replay-results.json",
+      "source_sha256": "befcc6ebdc5a5e15dc6619ee6c7ad36f5a758bdbd079282267156208dbcbeca0",
+      "source_bytes": 163,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/replay-results.json",
+      "publication_sha256": "befcc6ebdc5a5e15dc6619ee6c7ad36f5a758bdbd079282267156208dbcbeca0",
+      "publication_bytes": 163,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/replay.py",
+      "source_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "source_bytes": 1253,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/replay.py",
+      "publication_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "publication_bytes": 1253,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193334.085091Z-p01-real-pilot/code/exploration/overnight-01/worker-a/clues.py",
+      "source_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "source_bytes": 5140,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193334.085091Z-p01-real-pilot/code/exploration/overnight-01/worker-a/clues.py",
+      "publication_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "publication_bytes": 5140,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193334.085091Z-p01-real-pilot/code/exploration/overnight-01/worker-a/search.py",
+      "source_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "source_bytes": 8361,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193334.085091Z-p01-real-pilot/code/exploration/overnight-01/worker-a/search.py",
+      "publication_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "publication_bytes": 8361,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193334.085091Z-p01-real-pilot/code/exploration/persistent-01/run_logged.py",
+      "source_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "source_bytes": 3045,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193334.085091Z-p01-real-pilot/code/exploration/persistent-01/run_logged.py",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_bytes": 3045,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193334.085091Z-p01-real-pilot/code/exploration/persistent-01/worker-a/p01.py",
+      "source_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "source_bytes": 3812,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193334.085091Z-p01-real-pilot/code/exploration/persistent-01/worker-a/p01.py",
+      "publication_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "publication_bytes": 3812,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193334.085091Z-p01-real-pilot/command.json",
+      "source_sha256": "8bcdd7583fc3f3fb6b24a4d943fc0bc059e30c42272283aa854ec3f12d131364",
+      "source_bytes": 2403,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193334.085091Z-p01-real-pilot/command.json",
+      "publication_sha256": "8bcdd7583fc3f3fb6b24a4d943fc0bc059e30c42272283aa854ec3f12d131364",
+      "publication_bytes": 2403,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193334.085091Z-p01-real-pilot/stderr.txt",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_bytes": 0,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193334.085091Z-p01-real-pilot/stderr.txt",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_bytes": 0,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193334.085091Z-p01-real-pilot/stdout.txt",
+      "source_sha256": "f969d3596b57004b76b27a808968de8d89b60ee3551645dcd068975c32e5758d",
+      "source_bytes": 2050,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193334.085091Z-p01-real-pilot/stdout.txt",
+      "publication_sha256": "f969d3596b57004b76b27a808968de8d89b60ee3551645dcd068975c32e5758d",
+      "publication_bytes": 2050,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193357.252562Z-p01-plant-pilot/code/exploration/overnight-01/worker-a/clues.py",
+      "source_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "source_bytes": 5140,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193357.252562Z-p01-plant-pilot/code/exploration/overnight-01/worker-a/clues.py",
+      "publication_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "publication_bytes": 5140,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193357.252562Z-p01-plant-pilot/code/exploration/overnight-01/worker-a/search.py",
+      "source_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "source_bytes": 8361,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193357.252562Z-p01-plant-pilot/code/exploration/overnight-01/worker-a/search.py",
+      "publication_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "publication_bytes": 8361,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193357.252562Z-p01-plant-pilot/code/exploration/persistent-01/run_logged.py",
+      "source_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "source_bytes": 3045,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193357.252562Z-p01-plant-pilot/code/exploration/persistent-01/run_logged.py",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_bytes": 3045,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193357.252562Z-p01-plant-pilot/code/exploration/persistent-01/worker-a/p01.py",
+      "source_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "source_bytes": 3812,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193357.252562Z-p01-plant-pilot/code/exploration/persistent-01/worker-a/p01.py",
+      "publication_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "publication_bytes": 3812,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193357.252562Z-p01-plant-pilot/command.json",
+      "source_sha256": "d7afcf8ef3c3a00ce2c740a09d19f43c3b0626a483f6f828e456e596f5a0b04c",
+      "source_bytes": 2403,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193357.252562Z-p01-plant-pilot/command.json",
+      "publication_sha256": "d7afcf8ef3c3a00ce2c740a09d19f43c3b0626a483f6f828e456e596f5a0b04c",
+      "publication_bytes": 2403,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193357.252562Z-p01-plant-pilot/stderr.txt",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_bytes": 0,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193357.252562Z-p01-plant-pilot/stderr.txt",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_bytes": 0,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193357.252562Z-p01-plant-pilot/stdout.txt",
+      "source_sha256": "68de41b39b0edc5b0c0123d681a1d7f86d18edf2d484836460d653b957fa4e72",
+      "source_bytes": 2055,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193357.252562Z-p01-plant-pilot/stdout.txt",
+      "publication_sha256": "68de41b39b0edc5b0c0123d681a1d7f86d18edf2d484836460d653b957fa4e72",
+      "publication_bytes": 2055,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193420.858581Z-p01-null-pilot/code/exploration/overnight-01/worker-a/clues.py",
+      "source_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "source_bytes": 5140,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193420.858581Z-p01-null-pilot/code/exploration/overnight-01/worker-a/clues.py",
+      "publication_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "publication_bytes": 5140,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193420.858581Z-p01-null-pilot/code/exploration/overnight-01/worker-a/search.py",
+      "source_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "source_bytes": 8361,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193420.858581Z-p01-null-pilot/code/exploration/overnight-01/worker-a/search.py",
+      "publication_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "publication_bytes": 8361,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193420.858581Z-p01-null-pilot/code/exploration/persistent-01/run_logged.py",
+      "source_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "source_bytes": 3045,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193420.858581Z-p01-null-pilot/code/exploration/persistent-01/run_logged.py",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_bytes": 3045,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193420.858581Z-p01-null-pilot/code/exploration/persistent-01/worker-a/p01.py",
+      "source_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "source_bytes": 3812,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193420.858581Z-p01-null-pilot/code/exploration/persistent-01/worker-a/p01.py",
+      "publication_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "publication_bytes": 3812,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193420.858581Z-p01-null-pilot/command.json",
+      "source_sha256": "6512bbe28240da222ca7648ef9f50efea4decb1755045dfcaa7a610bacc5d82c",
+      "source_bytes": 2403,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193420.858581Z-p01-null-pilot/command.json",
+      "publication_sha256": "6512bbe28240da222ca7648ef9f50efea4decb1755045dfcaa7a610bacc5d82c",
+      "publication_bytes": 2403,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193420.858581Z-p01-null-pilot/stderr.txt",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_bytes": 0,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193420.858581Z-p01-null-pilot/stderr.txt",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_bytes": 0,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193420.858581Z-p01-null-pilot/stdout.txt",
+      "source_sha256": "62eb076dca88493c8b01019fb9b80c6bbdc57701b28d5445734a499c537a0c03",
+      "source_bytes": 2052,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193420.858581Z-p01-null-pilot/stdout.txt",
+      "publication_sha256": "62eb076dca88493c8b01019fb9b80c6bbdc57701b28d5445734a499c537a0c03",
+      "publication_bytes": 2052,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193440.280967Z-p01-real-tranche1/code/exploration/overnight-01/worker-a/clues.py",
+      "source_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "source_bytes": 5140,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193440.280967Z-p01-real-tranche1/code/exploration/overnight-01/worker-a/clues.py",
+      "publication_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "publication_bytes": 5140,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193440.280967Z-p01-real-tranche1/code/exploration/overnight-01/worker-a/search.py",
+      "source_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "source_bytes": 8361,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193440.280967Z-p01-real-tranche1/code/exploration/overnight-01/worker-a/search.py",
+      "publication_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "publication_bytes": 8361,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193440.280967Z-p01-real-tranche1/code/exploration/persistent-01/run_logged.py",
+      "source_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "source_bytes": 3045,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193440.280967Z-p01-real-tranche1/code/exploration/persistent-01/run_logged.py",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_bytes": 3045,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193440.280967Z-p01-real-tranche1/code/exploration/persistent-01/worker-a/p01.py",
+      "source_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "source_bytes": 3812,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193440.280967Z-p01-real-tranche1/code/exploration/persistent-01/worker-a/p01.py",
+      "publication_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "publication_bytes": 3812,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193440.280967Z-p01-real-tranche1/command.json",
+      "source_sha256": "2f9df9cfb1426c511cfab1bc81fd5f0887dff296081f92871ab513fbd4ebc809",
+      "source_bytes": 2434,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193440.280967Z-p01-real-tranche1/command.json",
+      "publication_sha256": "2f9df9cfb1426c511cfab1bc81fd5f0887dff296081f92871ab513fbd4ebc809",
+      "publication_bytes": 2434,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193440.280967Z-p01-real-tranche1/stderr.txt",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_bytes": 0,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193440.280967Z-p01-real-tranche1/stderr.txt",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_bytes": 0,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T193440.280967Z-p01-real-tranche1/stdout.txt",
+      "source_sha256": "cd90d4edca7407db0984d16504c1a864b3d8782f37fce3a0903c7d1c35a1248a",
+      "source_bytes": 741343,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T193440.280967Z-p01-real-tranche1/stdout.txt.gz",
+      "publication_sha256": "1fdcc49d11a6d750f1e0a32412ccf5542611520c296fc7be9c36ab403395d65a",
+      "publication_bytes": 73454,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194751.097512Z-p04-exact-path-controls/code/exploration/overnight-01/worker-a/clues.py",
+      "source_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "source_bytes": 5140,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194751.097512Z-p04-exact-path-controls/code/exploration/overnight-01/worker-a/clues.py",
+      "publication_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "publication_bytes": 5140,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194751.097512Z-p04-exact-path-controls/code/exploration/overnight-01/worker-a/search.py",
+      "source_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "source_bytes": 8361,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194751.097512Z-p04-exact-path-controls/code/exploration/overnight-01/worker-a/search.py",
+      "publication_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "publication_bytes": 8361,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194751.097512Z-p04-exact-path-controls/code/exploration/persistent-01/run_logged.py",
+      "source_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "source_bytes": 3045,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194751.097512Z-p04-exact-path-controls/code/exploration/persistent-01/run_logged.py",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_bytes": 3045,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194751.097512Z-p04-exact-path-controls/code/exploration/persistent-01/worker-a/p01.py",
+      "source_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "source_bytes": 3812,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194751.097512Z-p04-exact-path-controls/code/exploration/persistent-01/worker-a/p01.py",
+      "publication_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "publication_bytes": 3812,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194751.097512Z-p04-exact-path-controls/code/exploration/persistent-01/worker-a/p04.py",
+      "source_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "source_bytes": 2439,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194751.097512Z-p04-exact-path-controls/code/exploration/persistent-01/worker-a/p04.py",
+      "publication_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "publication_bytes": 2439,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194751.097512Z-p04-exact-path-controls/code/exploration/persistent-01/worker-a/p07.py",
+      "source_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "source_bytes": 3702,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194751.097512Z-p04-exact-path-controls/code/exploration/persistent-01/worker-a/p07.py",
+      "publication_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "publication_bytes": 3702,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194751.097512Z-p04-exact-path-controls/code/exploration/persistent-01/worker-a/p10.py",
+      "source_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "source_bytes": 3957,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194751.097512Z-p04-exact-path-controls/code/exploration/persistent-01/worker-a/p10.py",
+      "publication_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "publication_bytes": 3957,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194751.097512Z-p04-exact-path-controls/code/exploration/persistent-01/worker-a/p12.py",
+      "source_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "source_bytes": 4001,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194751.097512Z-p04-exact-path-controls/code/exploration/persistent-01/worker-a/p12.py",
+      "publication_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "publication_bytes": 4001,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194751.097512Z-p04-exact-path-controls/code/exploration/persistent-01/worker-a/replay.py",
+      "source_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "source_bytes": 1253,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194751.097512Z-p04-exact-path-controls/code/exploration/persistent-01/worker-a/replay.py",
+      "publication_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "publication_bytes": 1253,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194751.097512Z-p04-exact-path-controls/command.json",
+      "source_sha256": "15088153abd2a1e52c77a73839ea7dfd63c62fa54b718074ec2286eb3b5ae626",
+      "source_bytes": 3755,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194751.097512Z-p04-exact-path-controls/command.json",
+      "publication_sha256": "15088153abd2a1e52c77a73839ea7dfd63c62fa54b718074ec2286eb3b5ae626",
+      "publication_bytes": 3755,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194751.097512Z-p04-exact-path-controls/stderr.txt",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_bytes": 0,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194751.097512Z-p04-exact-path-controls/stderr.txt",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_bytes": 0,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194751.097512Z-p04-exact-path-controls/stdout.txt",
+      "source_sha256": "df20b772c5452158d4759d13d7114c509cb52c67c79133c9103646b49fb5cf1d",
+      "source_bytes": 234,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194751.097512Z-p04-exact-path-controls/stdout.txt",
+      "publication_sha256": "df20b772c5452158d4759d13d7114c509cb52c67c79133c9103646b49fb5cf1d",
+      "publication_bytes": 234,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194839.178400Z-p01-real-tranche2/code/exploration/overnight-01/worker-a/clues.py",
+      "source_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "source_bytes": 5140,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194839.178400Z-p01-real-tranche2/code/exploration/overnight-01/worker-a/clues.py",
+      "publication_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "publication_bytes": 5140,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194839.178400Z-p01-real-tranche2/code/exploration/overnight-01/worker-a/search.py",
+      "source_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "source_bytes": 8361,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194839.178400Z-p01-real-tranche2/code/exploration/overnight-01/worker-a/search.py",
+      "publication_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "publication_bytes": 8361,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194839.178400Z-p01-real-tranche2/code/exploration/persistent-01/run_logged.py",
+      "source_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "source_bytes": 3045,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194839.178400Z-p01-real-tranche2/code/exploration/persistent-01/run_logged.py",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_bytes": 3045,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194839.178400Z-p01-real-tranche2/code/exploration/persistent-01/worker-a/p01.py",
+      "source_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "source_bytes": 3812,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194839.178400Z-p01-real-tranche2/code/exploration/persistent-01/worker-a/p01.py",
+      "publication_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "publication_bytes": 3812,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194839.178400Z-p01-real-tranche2/code/exploration/persistent-01/worker-a/p04.py",
+      "source_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "source_bytes": 2439,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194839.178400Z-p01-real-tranche2/code/exploration/persistent-01/worker-a/p04.py",
+      "publication_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "publication_bytes": 2439,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194839.178400Z-p01-real-tranche2/code/exploration/persistent-01/worker-a/p07.py",
+      "source_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "source_bytes": 3702,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194839.178400Z-p01-real-tranche2/code/exploration/persistent-01/worker-a/p07.py",
+      "publication_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "publication_bytes": 3702,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194839.178400Z-p01-real-tranche2/code/exploration/persistent-01/worker-a/p10.py",
+      "source_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "source_bytes": 3957,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194839.178400Z-p01-real-tranche2/code/exploration/persistent-01/worker-a/p10.py",
+      "publication_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "publication_bytes": 3957,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194839.178400Z-p01-real-tranche2/code/exploration/persistent-01/worker-a/p12.py",
+      "source_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "source_bytes": 4001,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194839.178400Z-p01-real-tranche2/code/exploration/persistent-01/worker-a/p12.py",
+      "publication_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "publication_bytes": 4001,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194839.178400Z-p01-real-tranche2/code/exploration/persistent-01/worker-a/replay.py",
+      "source_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "source_bytes": 1253,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194839.178400Z-p01-real-tranche2/code/exploration/persistent-01/worker-a/replay.py",
+      "publication_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "publication_bytes": 1253,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194839.178400Z-p01-real-tranche2/command.json",
+      "source_sha256": "bbe0df4188c510223c028f9b602daddb0a3d337ae55105bc68889e560821a3a4",
+      "source_bytes": 3625,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194839.178400Z-p01-real-tranche2/command.json",
+      "publication_sha256": "bbe0df4188c510223c028f9b602daddb0a3d337ae55105bc68889e560821a3a4",
+      "publication_bytes": 3625,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194839.178400Z-p01-real-tranche2/stderr.txt",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_bytes": 0,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194839.178400Z-p01-real-tranche2/stderr.txt",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_bytes": 0,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T194839.178400Z-p01-real-tranche2/stdout.txt",
+      "source_sha256": "9972a8a12b3c056b0e14b68601e39cae233f5aeba0f2d6c1f55b6b7b582430d6",
+      "source_bytes": 648298,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T194839.178400Z-p01-real-tranche2/stdout.txt.gz",
+      "publication_sha256": "366904d4e3ea861d28f5b13fe257b84e871109cdd77b6ccd323a37ab1bc79afa",
+      "publication_bytes": 64394,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T195947.767821Z-p01-null-tranche1/code/exploration/overnight-01/worker-a/clues.py",
+      "source_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "source_bytes": 5140,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T195947.767821Z-p01-null-tranche1/code/exploration/overnight-01/worker-a/clues.py",
+      "publication_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "publication_bytes": 5140,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T195947.767821Z-p01-null-tranche1/code/exploration/overnight-01/worker-a/search.py",
+      "source_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "source_bytes": 8361,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T195947.767821Z-p01-null-tranche1/code/exploration/overnight-01/worker-a/search.py",
+      "publication_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "publication_bytes": 8361,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T195947.767821Z-p01-null-tranche1/code/exploration/persistent-01/run_logged.py",
+      "source_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "source_bytes": 3045,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T195947.767821Z-p01-null-tranche1/code/exploration/persistent-01/run_logged.py",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_bytes": 3045,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T195947.767821Z-p01-null-tranche1/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "source_sha256": "914a57806878b114ba9e6b145acff7b09701815b3379edf600ce1a7a92f43927",
+      "source_bytes": 1916,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T195947.767821Z-p01-null-tranche1/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "publication_sha256": "914a57806878b114ba9e6b145acff7b09701815b3379edf600ce1a7a92f43927",
+      "publication_bytes": 1916,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T195947.767821Z-p01-null-tranche1/code/exploration/persistent-01/worker-a/p01.py",
+      "source_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "source_bytes": 3812,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T195947.767821Z-p01-null-tranche1/code/exploration/persistent-01/worker-a/p01.py",
+      "publication_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "publication_bytes": 3812,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T195947.767821Z-p01-null-tranche1/code/exploration/persistent-01/worker-a/p04.py",
+      "source_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "source_bytes": 2439,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T195947.767821Z-p01-null-tranche1/code/exploration/persistent-01/worker-a/p04.py",
+      "publication_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "publication_bytes": 2439,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T195947.767821Z-p01-null-tranche1/code/exploration/persistent-01/worker-a/p07.py",
+      "source_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "source_bytes": 3702,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T195947.767821Z-p01-null-tranche1/code/exploration/persistent-01/worker-a/p07.py",
+      "publication_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "publication_bytes": 3702,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T195947.767821Z-p01-null-tranche1/code/exploration/persistent-01/worker-a/p10.py",
+      "source_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "source_bytes": 3957,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T195947.767821Z-p01-null-tranche1/code/exploration/persistent-01/worker-a/p10.py",
+      "publication_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "publication_bytes": 3957,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T195947.767821Z-p01-null-tranche1/code/exploration/persistent-01/worker-a/p12.py",
+      "source_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "source_bytes": 4001,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T195947.767821Z-p01-null-tranche1/code/exploration/persistent-01/worker-a/p12.py",
+      "publication_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "publication_bytes": 4001,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T195947.767821Z-p01-null-tranche1/code/exploration/persistent-01/worker-a/replay.py",
+      "source_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "source_bytes": 1253,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T195947.767821Z-p01-null-tranche1/code/exploration/persistent-01/worker-a/replay.py",
+      "publication_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "publication_bytes": 1253,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T195947.767821Z-p01-null-tranche1/command.json",
+      "source_sha256": "63f31fdcbd88c94e4d618a654ab7abc6188d533ee873c9db5660e21f144c6450",
+      "source_bytes": 4020,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T195947.767821Z-p01-null-tranche1/command.json",
+      "publication_sha256": "63f31fdcbd88c94e4d618a654ab7abc6188d533ee873c9db5660e21f144c6450",
+      "publication_bytes": 4020,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T195947.767821Z-p01-null-tranche1/stderr.txt",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_bytes": 0,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T195947.767821Z-p01-null-tranche1/stderr.txt",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_bytes": 0,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T195947.767821Z-p01-null-tranche1/stdout.txt",
+      "source_sha256": "edca3353ffd35540316e5d21b5c982c43a2a923d8ace9bcd9bebd7abbadd143b",
+      "source_bytes": 758500,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T195947.767821Z-p01-null-tranche1/stdout.txt.gz",
+      "publication_sha256": "751571a7f1d6602f50809fcdd8b6d588881420d09d2bbfd1290bf734bd072264",
+      "publication_bytes": 75258,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T201257.122407Z-p01-null-tranche2/code/exploration/overnight-01/worker-a/clues.py",
+      "source_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "source_bytes": 5140,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T201257.122407Z-p01-null-tranche2/code/exploration/overnight-01/worker-a/clues.py",
+      "publication_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "publication_bytes": 5140,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T201257.122407Z-p01-null-tranche2/code/exploration/overnight-01/worker-a/search.py",
+      "source_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "source_bytes": 8361,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T201257.122407Z-p01-null-tranche2/code/exploration/overnight-01/worker-a/search.py",
+      "publication_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "publication_bytes": 8361,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T201257.122407Z-p01-null-tranche2/code/exploration/persistent-01/run_logged.py",
+      "source_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "source_bytes": 3045,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T201257.122407Z-p01-null-tranche2/code/exploration/persistent-01/run_logged.py",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_bytes": 3045,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T201257.122407Z-p01-null-tranche2/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "source_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "source_bytes": 2719,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T201257.122407Z-p01-null-tranche2/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "publication_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "publication_bytes": 2719,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T201257.122407Z-p01-null-tranche2/code/exploration/persistent-01/worker-a/p01.py",
+      "source_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "source_bytes": 3812,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T201257.122407Z-p01-null-tranche2/code/exploration/persistent-01/worker-a/p01.py",
+      "publication_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "publication_bytes": 3812,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T201257.122407Z-p01-null-tranche2/code/exploration/persistent-01/worker-a/p04.py",
+      "source_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "source_bytes": 2439,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T201257.122407Z-p01-null-tranche2/code/exploration/persistent-01/worker-a/p04.py",
+      "publication_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "publication_bytes": 2439,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T201257.122407Z-p01-null-tranche2/code/exploration/persistent-01/worker-a/p07.py",
+      "source_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "source_bytes": 3702,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T201257.122407Z-p01-null-tranche2/code/exploration/persistent-01/worker-a/p07.py",
+      "publication_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "publication_bytes": 3702,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T201257.122407Z-p01-null-tranche2/code/exploration/persistent-01/worker-a/p10.py",
+      "source_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "source_bytes": 3957,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T201257.122407Z-p01-null-tranche2/code/exploration/persistent-01/worker-a/p10.py",
+      "publication_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "publication_bytes": 3957,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T201257.122407Z-p01-null-tranche2/code/exploration/persistent-01/worker-a/p12.py",
+      "source_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "source_bytes": 4001,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T201257.122407Z-p01-null-tranche2/code/exploration/persistent-01/worker-a/p12.py",
+      "publication_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "publication_bytes": 4001,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T201257.122407Z-p01-null-tranche2/code/exploration/persistent-01/worker-a/replay.py",
+      "source_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "source_bytes": 1253,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T201257.122407Z-p01-null-tranche2/code/exploration/persistent-01/worker-a/replay.py",
+      "publication_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "publication_bytes": 1253,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T201257.122407Z-p01-null-tranche2/command.json",
+      "source_sha256": "7d3b91554d67600dd197c68e69e638c1a385f24cb00d56c99f896c956e54e9f3",
+      "source_bytes": 4024,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T201257.122407Z-p01-null-tranche2/command.json",
+      "publication_sha256": "7d3b91554d67600dd197c68e69e638c1a385f24cb00d56c99f896c956e54e9f3",
+      "publication_bytes": 4024,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T201257.122407Z-p01-null-tranche2/stderr.txt",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_bytes": 0,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T201257.122407Z-p01-null-tranche2/stderr.txt",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_bytes": 0,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T201257.122407Z-p01-null-tranche2/stdout.txt",
+      "source_sha256": "b2929c01de443199c6d16875554966fea8823127c78bdf9cba96b87f904f5e26",
+      "source_bytes": 631662,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T201257.122407Z-p01-null-tranche2/stdout.txt.gz",
+      "publication_sha256": "d68bda8ecde5729bef1eaa35ccbfd1615e65d617e15dd563e46f0c87f1d8457e",
+      "publication_bytes": 63249,
+      "encoding": "gzip-of-source"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202341.162261Z-p01-full-comparison/code/exploration/overnight-01/worker-a/clues.py",
+      "source_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "source_bytes": 5140,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202341.162261Z-p01-full-comparison/code/exploration/overnight-01/worker-a/clues.py",
+      "publication_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "publication_bytes": 5140,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202341.162261Z-p01-full-comparison/code/exploration/overnight-01/worker-a/search.py",
+      "source_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "source_bytes": 8361,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202341.162261Z-p01-full-comparison/code/exploration/overnight-01/worker-a/search.py",
+      "publication_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "publication_bytes": 8361,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202341.162261Z-p01-full-comparison/code/exploration/persistent-01/run_logged.py",
+      "source_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "source_bytes": 3045,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202341.162261Z-p01-full-comparison/code/exploration/persistent-01/run_logged.py",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_bytes": 3045,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202341.162261Z-p01-full-comparison/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "source_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "source_bytes": 2719,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202341.162261Z-p01-full-comparison/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "publication_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "publication_bytes": 2719,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202341.162261Z-p01-full-comparison/code/exploration/persistent-01/worker-a/p01.py",
+      "source_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "source_bytes": 3812,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202341.162261Z-p01-full-comparison/code/exploration/persistent-01/worker-a/p01.py",
+      "publication_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "publication_bytes": 3812,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202341.162261Z-p01-full-comparison/code/exploration/persistent-01/worker-a/p04.py",
+      "source_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "source_bytes": 2439,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202341.162261Z-p01-full-comparison/code/exploration/persistent-01/worker-a/p04.py",
+      "publication_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "publication_bytes": 2439,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202341.162261Z-p01-full-comparison/code/exploration/persistent-01/worker-a/p07.py",
+      "source_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "source_bytes": 3702,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202341.162261Z-p01-full-comparison/code/exploration/persistent-01/worker-a/p07.py",
+      "publication_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "publication_bytes": 3702,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202341.162261Z-p01-full-comparison/code/exploration/persistent-01/worker-a/p10.py",
+      "source_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "source_bytes": 3957,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202341.162261Z-p01-full-comparison/code/exploration/persistent-01/worker-a/p10.py",
+      "publication_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "publication_bytes": 3957,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202341.162261Z-p01-full-comparison/code/exploration/persistent-01/worker-a/p12.py",
+      "source_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "source_bytes": 4001,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202341.162261Z-p01-full-comparison/code/exploration/persistent-01/worker-a/p12.py",
+      "publication_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "publication_bytes": 4001,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202341.162261Z-p01-full-comparison/code/exploration/persistent-01/worker-a/replay.py",
+      "source_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "source_bytes": 1253,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202341.162261Z-p01-full-comparison/code/exploration/persistent-01/worker-a/replay.py",
+      "publication_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "publication_bytes": 1253,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202341.162261Z-p01-full-comparison/command.json",
+      "source_sha256": "309fab5acce8b903c06adf62d0f3cbcf4367b0885a52b71353bcf96e6f193a25",
+      "source_bytes": 3950,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202341.162261Z-p01-full-comparison/command.json",
+      "publication_sha256": "309fab5acce8b903c06adf62d0f3cbcf4367b0885a52b71353bcf96e6f193a25",
+      "publication_bytes": 3950,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202341.162261Z-p01-full-comparison/stderr.txt",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_bytes": 0,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202341.162261Z-p01-full-comparison/stderr.txt",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_bytes": 0,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202341.162261Z-p01-full-comparison/stdout.txt",
+      "source_sha256": "406ee090c0ce06cd7a06ae3d96fa9805b2218e70633bc37666ad5738772cefaf",
+      "source_bytes": 6321,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202341.162261Z-p01-full-comparison/stdout.txt",
+      "publication_sha256": "406ee090c0ce06cd7a06ae3d96fa9805b2218e70633bc37666ad5738772cefaf",
+      "publication_bytes": 6321,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202408.661897Z-p01-fixed-leader-replay/code/exploration/overnight-01/worker-a/clues.py",
+      "source_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "source_bytes": 5140,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202408.661897Z-p01-fixed-leader-replay/code/exploration/overnight-01/worker-a/clues.py",
+      "publication_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "publication_bytes": 5140,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202408.661897Z-p01-fixed-leader-replay/code/exploration/overnight-01/worker-a/search.py",
+      "source_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "source_bytes": 8361,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202408.661897Z-p01-fixed-leader-replay/code/exploration/overnight-01/worker-a/search.py",
+      "publication_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "publication_bytes": 8361,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202408.661897Z-p01-fixed-leader-replay/code/exploration/persistent-01/run_logged.py",
+      "source_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "source_bytes": 3045,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202408.661897Z-p01-fixed-leader-replay/code/exploration/persistent-01/run_logged.py",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_bytes": 3045,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202408.661897Z-p01-fixed-leader-replay/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "source_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "source_bytes": 2719,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202408.661897Z-p01-fixed-leader-replay/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "publication_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "publication_bytes": 2719,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202408.661897Z-p01-fixed-leader-replay/code/exploration/persistent-01/worker-a/p01.py",
+      "source_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "source_bytes": 3812,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202408.661897Z-p01-fixed-leader-replay/code/exploration/persistent-01/worker-a/p01.py",
+      "publication_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "publication_bytes": 3812,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202408.661897Z-p01-fixed-leader-replay/code/exploration/persistent-01/worker-a/p04.py",
+      "source_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "source_bytes": 2439,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202408.661897Z-p01-fixed-leader-replay/code/exploration/persistent-01/worker-a/p04.py",
+      "publication_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "publication_bytes": 2439,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202408.661897Z-p01-fixed-leader-replay/code/exploration/persistent-01/worker-a/p07.py",
+      "source_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "source_bytes": 3702,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202408.661897Z-p01-fixed-leader-replay/code/exploration/persistent-01/worker-a/p07.py",
+      "publication_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "publication_bytes": 3702,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202408.661897Z-p01-fixed-leader-replay/code/exploration/persistent-01/worker-a/p10.py",
+      "source_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "source_bytes": 3957,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202408.661897Z-p01-fixed-leader-replay/code/exploration/persistent-01/worker-a/p10.py",
+      "publication_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "publication_bytes": 3957,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202408.661897Z-p01-fixed-leader-replay/code/exploration/persistent-01/worker-a/p12.py",
+      "source_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "source_bytes": 4001,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202408.661897Z-p01-fixed-leader-replay/code/exploration/persistent-01/worker-a/p12.py",
+      "publication_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "publication_bytes": 4001,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202408.661897Z-p01-fixed-leader-replay/code/exploration/persistent-01/worker-a/replay.py",
+      "source_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "source_bytes": 1253,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202408.661897Z-p01-fixed-leader-replay/code/exploration/persistent-01/worker-a/replay.py",
+      "publication_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "publication_bytes": 1253,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202408.661897Z-p01-fixed-leader-replay/command.json",
+      "source_sha256": "68a02ee2dec5f55af09ba6420ebfd0aab92bf12bc479f16ccfef6cc774c6d1f5",
+      "source_bytes": 3753,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202408.661897Z-p01-fixed-leader-replay/command.json",
+      "publication_sha256": "68a02ee2dec5f55af09ba6420ebfd0aab92bf12bc479f16ccfef6cc774c6d1f5",
+      "publication_bytes": 3753,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202408.661897Z-p01-fixed-leader-replay/stderr.txt",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_bytes": 0,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202408.661897Z-p01-fixed-leader-replay/stderr.txt",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_bytes": 0,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202408.661897Z-p01-fixed-leader-replay/stdout.txt",
+      "source_sha256": "d801b605a6866a4845ae1f4f6ec0ae55871a5333368babc929ae07573375e9ad",
+      "source_bytes": 125,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202408.661897Z-p01-fixed-leader-replay/stdout.txt",
+      "publication_sha256": "d801b605a6866a4845ae1f4f6ec0ae55871a5333368babc929ae07573375e9ad",
+      "publication_bytes": 125,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/overnight-01/worker-a/clues.py",
+      "source_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "source_bytes": 5140,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/overnight-01/worker-a/clues.py",
+      "publication_sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3",
+      "publication_bytes": 5140,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/overnight-01/worker-a/search.py",
+      "source_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "source_bytes": 8361,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/overnight-01/worker-a/search.py",
+      "publication_sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2",
+      "publication_bytes": 8361,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/overnight-01/worker-c/search.py",
+      "source_sha256": "71d8abd6edd0c08f4b1f682e1ddfe55325273b275398f545225e9d28c74aa12b",
+      "source_bytes": 6560,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/overnight-01/worker-c/search.py",
+      "publication_sha256": "71d8abd6edd0c08f4b1f682e1ddfe55325273b275398f545225e9d28c74aa12b",
+      "publication_bytes": 6560,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/persistent-01/run_logged.py",
+      "source_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "source_bytes": 3045,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/persistent-01/run_logged.py",
+      "publication_sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+      "publication_bytes": 3045,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "source_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "source_bytes": 2719,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/persistent-01/worker-a/compare_p01.py",
+      "publication_sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b",
+      "publication_bytes": 2719,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/persistent-01/worker-a/p01.py",
+      "source_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "source_bytes": 3812,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/persistent-01/worker-a/p01.py",
+      "publication_sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76",
+      "publication_bytes": 3812,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/persistent-01/worker-a/p04.py",
+      "source_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "source_bytes": 2439,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/persistent-01/worker-a/p04.py",
+      "publication_sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee",
+      "publication_bytes": 2439,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/persistent-01/worker-a/p07.py",
+      "source_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "source_bytes": 3702,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/persistent-01/worker-a/p07.py",
+      "publication_sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4",
+      "publication_bytes": 3702,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/persistent-01/worker-a/p10.py",
+      "source_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "source_bytes": 3957,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/persistent-01/worker-a/p10.py",
+      "publication_sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257",
+      "publication_bytes": 3957,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/persistent-01/worker-a/p12.py",
+      "source_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "source_bytes": 4001,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/persistent-01/worker-a/p12.py",
+      "publication_sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9",
+      "publication_bytes": 4001,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/persistent-01/worker-a/replay.py",
+      "source_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "source_bytes": 1253,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/persistent-01/worker-a/replay.py",
+      "publication_sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d",
+      "publication_bytes": 1253,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/persistent-01/worker-b/feasible.py",
+      "source_sha256": "e5c9cc1444716ca2a3ab4f71e7c58cf041db2809fe0e3788d27e3beacc2af17b",
+      "source_bytes": 3632,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/persistent-01/worker-b/feasible.py",
+      "publication_sha256": "e5c9cc1444716ca2a3ab4f71e7c58cf041db2809fe0e3788d27e3beacc2af17b",
+      "publication_bytes": 3632,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/persistent-01/worker-b/search.py",
+      "source_sha256": "19a40fafc7991e4e94e30648c12901cd6b9f299785e852c86adf6cff8d1ab26c",
+      "source_bytes": 5542,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202425.274185Z-p10-finite-running-text/code/exploration/persistent-01/worker-b/search.py",
+      "publication_sha256": "19a40fafc7991e4e94e30648c12901cd6b9f299785e852c86adf6cff8d1ab26c",
+      "publication_bytes": 5542,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202425.274185Z-p10-finite-running-text/command.json",
+      "source_sha256": "29589aaf327cad02d6cfad3e708ae5fadb2a0e7a6f9cd76ef9dad4b17865b6a6",
+      "source_bytes": 4758,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202425.274185Z-p10-finite-running-text/command.json",
+      "publication_sha256": "29589aaf327cad02d6cfad3e708ae5fadb2a0e7a6f9cd76ef9dad4b17865b6a6",
+      "publication_bytes": 4758,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202425.274185Z-p10-finite-running-text/stderr.txt",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_bytes": 0,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202425.274185Z-p10-finite-running-text/stderr.txt",
+      "publication_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "publication_bytes": 0,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/runs/20260916T202425.274185Z-p10-finite-running-text/stdout.txt",
+      "source_sha256": "3ef68ca95b7dc6fb816ba533beb01931620fd3a74d125dd134affdcf7eb1ab2e",
+      "source_bytes": 2187,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/runs/20260916T202425.274185Z-p10-finite-running-text/stdout.txt",
+      "publication_sha256": "3ef68ca95b7dc6fb816ba533beb01931620fd3a74d125dd134affdcf7eb1ab2e",
+      "publication_bytes": 2187,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/strategy-ack.json",
+      "source_sha256": "36b001b6a2bd533b40cca00dcac0ca276392446f987fa21fcd54c443919c64c3",
+      "source_bytes": 747,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/strategy-ack.json",
+      "publication_sha256": "36b001b6a2bd533b40cca00dcac0ca276392446f987fa21fcd54c443919c64c3",
+      "publication_bytes": 747,
+      "encoding": "verbatim-copy"
+    },
+    {
+      "source": "exploration/persistent-01/worker-a/supplemental-input-manifest.json",
+      "source_sha256": "d46f7bb8d6541645dbc5a47a5d4322f2738ff37684e17fce27c3d84e4b281953",
+      "source_bytes": 1175,
+      "publication": "exploration/persistent-01/worker-a/publication/cycle1/supplemental-input-manifest.json",
+      "publication_sha256": "d46f7bb8d6541645dbc5a47a5d4322f2738ff37684e17fce27c3d84e4b281953",
+      "publication_bytes": 1175,
+      "encoding": "verbatim-copy"
+    }
+  ]
+}

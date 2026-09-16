@@ -712,6 +712,22 @@
     "compressed_bytes": 32330
   },
   {
+    "original": "exploration/persistent-01/worker-c/ob-c5/controls.json",
+    "original_sha256": "c2cb422fdfa3f0542ac7ddca126bacf38c6f689a8842a9899db156dd92cc0f2b",
+    "original_bytes": 179385,
+    "compressed": "exploration/persistent-01/worker-c/ob-c5/controls.json.gz",
+    "compressed_sha256": "c8f65e82e2c264b0b85a8a18e1a40fa224b80ee304b6af2e247757fe71f1bb9e",
+    "compressed_bytes": 16139
+  },
+  {
+    "original": "exploration/persistent-01/worker-c/ob-c5/nulls.json",
+    "original_sha256": "1463f9f36007e1131c60385c2585458e34c48ee647fef497a527d3cce319c85b",
+    "original_bytes": 2511917,
+    "compressed": "exploration/persistent-01/worker-c/ob-c5/nulls.json.gz",
+    "compressed_sha256": "4e389ba3d37a91188978683ffe4051a5a61da99b6232b64d13a10eb46a0be3cb",
+    "compressed_bytes": 61251
+  },
+  {
     "original": "exploration/persistent-01/worker-c/c15/controls.json",
     "original_sha256": "92a55a090d6e04e3b7790a8d12f5397415ac0de51afd9099e43f78309c3b8d2d",
     "original_bytes": 373181,
@@ -756,6 +772,14 @@
     "original_sha256": "48935cf9d73652736c33a3505e078c08fee43305bae25be4f147740f401ab7d1",
     "original_bytes": 494734,
     "compressed": "exploration/persistent-01/worker-c/ob-c3/nulls.json.gz",
+    "compressed_sha256": "003182f97252878e0132e60b15823742c455f66e85faaf61aeab41865684d9ff",
+    "compressed_bytes": 57132
+  },
+  {
+    "original": "exploration/persistent-01/worker-c/ob-c3-recovery/nulls.json",
+    "original_sha256": "48935cf9d73652736c33a3505e078c08fee43305bae25be4f147740f401ab7d1",
+    "original_bytes": 494734,
+    "compressed": "exploration/persistent-01/worker-c/ob-c3-recovery/nulls.json.gz",
     "compressed_sha256": "003182f97252878e0132e60b15823742c455f66e85faaf61aeab41865684d9ff",
     "compressed_bytes": 57132
   },
@@ -910,6 +934,22 @@
     "compressed": "exploration/persistent-01/worker-c/c16/results.json.gz",
     "compressed_sha256": "6e519f5ffc17eab195ca26e18f8fc635a0a426372605f9a0c7fa0eae25183505",
     "compressed_bytes": 23271
+  },
+  {
+    "original": "exploration/persistent-01/worker-c/ob-c5-recovery/controls.json",
+    "original_sha256": "c2cb422fdfa3f0542ac7ddca126bacf38c6f689a8842a9899db156dd92cc0f2b",
+    "original_bytes": 179385,
+    "compressed": "exploration/persistent-01/worker-c/ob-c5-recovery/controls.json.gz",
+    "compressed_sha256": "c8f65e82e2c264b0b85a8a18e1a40fa224b80ee304b6af2e247757fe71f1bb9e",
+    "compressed_bytes": 16139
+  },
+  {
+    "original": "exploration/persistent-01/worker-c/ob-c5-recovery/nulls.json",
+    "original_sha256": "1463f9f36007e1131c60385c2585458e34c48ee647fef497a527d3cce319c85b",
+    "original_bytes": 2511917,
+    "compressed": "exploration/persistent-01/worker-c/ob-c5-recovery/nulls.json.gz",
+    "compressed_sha256": "4e389ba3d37a91188978683ffe4051a5a61da99b6232b64d13a10eb46a0be3cb",
+    "compressed_bytes": 61251
   },
   {
     "original": "exploration/persistent-01/worker-c/allpages/real-null-43.json",

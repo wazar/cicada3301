@@ -1,0 +1,125 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "exploration/persistent-01/worker-a/compare_p01.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e4135f67d63be8b96f785ee59510dbce2f4f6207",
+  "started_utc": "2026-09-16T20:23:41.174776+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/parallel-01/inputs/dataset.json",
+      "exists": true,
+      "bytes": 1378156,
+      "sha256": "e3d8a8b7a81f00e17d54209772eee7bedb5b922e6176ca722be31f952eaea895"
+    },
+    {
+      "path": "exploration/overnight-01/config.json",
+      "exists": true,
+      "bytes": 1229,
+      "sha256": "44a20b48ecc01932a9ca826a354dd711c8907b5f2a6b5eb6aa00fe846c7966a4"
+    },
+    {
+      "path": "exploration/overnight-01/worker-a/clues.py",
+      "exists": true,
+      "bytes": 5140,
+      "sha256": "6af7b8e168d0aeb9f0e6e071c4b386175e3c1819d409919a4767b00703272bf3"
+    },
+    {
+      "path": "exploration/overnight-01/worker-a/r02/f-plan.json",
+      "exists": true,
+      "bytes": 11774,
+      "sha256": "d6ee35d1f8bf6b08b880aeb25a6a79ffb1b1be6d4dc0ad592be4b9822478c7d5"
+    },
+    {
+      "path": "exploration/overnight-01/worker-a/r02/keys.json",
+      "exists": true,
+      "bytes": 204818,
+      "sha256": "5a454fe2409ec0c7c612f39b9269d2c8a6fd85ef3f9dee96b243dcb03a19750c"
+    },
+    {
+      "path": "exploration/overnight-01/worker-a/search.py",
+      "exists": true,
+      "bytes": 8361,
+      "sha256": "a6b943b4c9c5dbaabe842808469ae22ae09ea90c62373bb04b738f1827f871c2"
+    },
+    {
+      "path": "exploration/persistent-01/config.json",
+      "exists": true,
+      "bytes": 1129,
+      "sha256": "dff37392fb4b0ec97c52fa5fa40f47fbfdb27837fb4d7c258b8a886624cfe031"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-a/compare_p01.py",
+      "exists": true,
+      "bytes": 2719,
+      "sha256": "c85288c1b86436c8c00a9d349c891837cfc58c1b4ecd35465033939dbc33538b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-a/p01.py",
+      "exists": true,
+      "bytes": 3812,
+      "sha256": "698f01e79f280c8c45644393d9c5082a957cfa8119880db5c89f946ef1948b76"
+    },
+    {
+      "path": "exploration/persistent-01/worker-a/p04.py",
+      "exists": true,
+      "bytes": 2439,
+      "sha256": "4e6112ea4a1a5cf45eb9d8531fd1f06edf28ebf788f99362885d6b2b009501ee"
+    },
+    {
+      "path": "exploration/persistent-01/worker-a/p07.py",
+      "exists": true,
+      "bytes": 3702,
+      "sha256": "c8061724514f669d2eef253e20291b2b2ce240bbaa1e8ff2a98e413aa2e48ee4"
+    },
+    {
+      "path": "exploration/persistent-01/worker-a/p10.py",
+      "exists": true,
+      "bytes": 3957,
+      "sha256": "32805816c0b79746e0cc7893db3b3d50e8ee9519afc2c70cd65dacba4fa0b257"
+    },
+    {
+      "path": "exploration/persistent-01/worker-a/p12.py",
+      "exists": true,
+      "bytes": 4001,
+      "sha256": "91acecf38c5a60618cfde5c1c664596f5bf34e2f76f807982efc6905ca222bd9"
+    },
+    {
+      "path": "exploration/persistent-01/worker-a/replay.py",
+      "exists": true,
+      "bytes": 1253,
+      "sha256": "e8a1dbf0408ee11da7974db58e47edf5ec712cdfa37b145029f10dbe4bc6a33d"
+    },
+    {
+      "path": "liber-primus/data/english_quadgrams.txt",
+      "exists": true,
+      "bytes": 608938,
+      "sha256": "fb82963d1fc4a64b9fc6121f8ca88139fd5b15083dddc9a59f8b14bdb8fe4062"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 43159,
+  "finished_utc": "2026-09-16T20:23:43.081890+00:00",
+  "duration_seconds": 1.9068263750014012
+}

@@ -1,0 +1,143 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "exploration/persistent-01/worker-f/f10.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e4135f67d63be8b96f785ee59510dbce2f4f6207",
+  "started_utc": "2026-09-16T20:31:31.707728+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/parallel-01/inputs/dataset.json",
+      "exists": true,
+      "bytes": 1378156,
+      "sha256": "e3d8a8b7a81f00e17d54209772eee7bedb5b922e6176ca722be31f952eaea895"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F10-card.md",
+      "exists": true,
+      "bytes": 2211,
+      "sha256": "a759fa8499fb334fe8d195d0b5991309fd806df0a22a26846d2f1339efd63cc5"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/f01.py",
+      "exists": true,
+      "bytes": 4122,
+      "sha256": "730c1df8464f0125386436393a489845692248db2961f104be842bc7ebc882de"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/f02.py",
+      "exists": true,
+      "bytes": 2691,
+      "sha256": "e142282902a327184e805feddd0ea3fd7600e3a483c00015d034cab71815b2ae"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/f03.py",
+      "exists": true,
+      "bytes": 2492,
+      "sha256": "79fe686c88e4ecddfbb41f2c54b9abf4a76fdf8c9a7736a7a37775a94315a550"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/f04.py",
+      "exists": true,
+      "bytes": 3513,
+      "sha256": "6d48b83e518ccecfc28534c701f373503751b3ae9f9acc1e59edd6d81c69453c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/f05.py",
+      "exists": true,
+      "bytes": 2943,
+      "sha256": "7ffa41ff1562763e99ed3e0f87176c85a9d7fa741bd564f6df6e8bfaee91df7b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/f05b.py",
+      "exists": true,
+      "bytes": 2945,
+      "sha256": "c2ef72bf2e92c777156473948b633f7ac485c5d22ce23c421cd688f418a699f8"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/f06.py",
+      "exists": true,
+      "bytes": 2374,
+      "sha256": "23bb6cbbeeead90b7c0e7106a1e4e3d43f9b17d5558eb99420a854016e8a3408"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/f07.py",
+      "exists": true,
+      "bytes": 3093,
+      "sha256": "b9dfad69733db42d56e86ed8d682ed219fcdae96a44f9b6f44b4811496fbbef1"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/f07b.py",
+      "exists": true,
+      "bytes": 3296,
+      "sha256": "25845e3096f395b793c2fa40641ebbb3d12cd2ce2417f83605bd77bd8fa4276c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/f08.py",
+      "exists": true,
+      "bytes": 4361,
+      "sha256": "13ee590fc24a9373e25b543dc00c4c061aaff5dd9d2ac833c4fa9041a900b02d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/f09.py",
+      "exists": true,
+      "bytes": 3942,
+      "sha256": "4d82f5364a5fec2c1a4927e50f532884e11c793fecf4156c322150840b6b947e"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/f10.py",
+      "exists": true,
+      "bytes": 4195,
+      "sha256": "d67504c3c0d5d48c890608cc1d03e7c31ae17cc5a6858024e993750f31cd7ebc"
+    },
+    {
+      "path": "liber-primus/data/relikd/p10.jpg",
+      "exists": true,
+      "bytes": 618194,
+      "sha256": "1716e282c1d5e8a9ff911c01621e9b195d4728c7fa55ac857176a473eaba3239"
+    },
+    {
+      "path": "liber-primus/data/relikd/p36.jpg",
+      "exists": true,
+      "bytes": 511099,
+      "sha256": "3b54a31a9e796e2c01b4e80d46e1092dee2e1142a7c61873e282078e2c776cb9"
+    },
+    {
+      "path": "liber-primus/data/relikd/p37.jpg",
+      "exists": true,
+      "bytes": 503830,
+      "sha256": "cee96d7e71b7de4d4e57237faacefad791229c153202e8224e4bedda45fb8f43"
+    },
+    {
+      "path": "liber-primus/data/relikd/p38.jpg",
+      "exists": true,
+      "bytes": 519224,
+      "sha256": "aec1898f599f57265d6422f3082a481db94a27f62230affbadee595d05077f8c"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 43604,
+  "finished_utc": "2026-09-16T20:31:32.678133+00:00",
+  "duration_seconds": 0.9701420409983257
+}

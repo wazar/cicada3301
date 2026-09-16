@@ -1,0 +1,14 @@
+{
+  "controls": 18,
+  "discovery_maps": 180,
+  "pages": 45,
+  "entropy_minimum": 4.824335292341973,
+  "null_tails": {
+    "generative": 0.5174129353233831,
+    "permutation": 0.004975124378109453
+  },
+  "held_tail": 0.004975124378109453,
+  "unavoidable_cross_pair_repeats": 9,
+  "pages_with_both_repeat_parities": 8,
+  "limits": "Independent replay of saved outputs and null summaries, not independent source transcription or rerun of generative null. Strict pair-carrier model only; no plaintext conclusion."
+}

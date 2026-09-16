@@ -1,0 +1,299 @@
+{
+  "regions": [
+    {
+      "label": 1,
+      "rune_count": 139,
+      "unit_count": 30,
+      "unit_lengths": [
+        4,
+        3,
+        8,
+        2,
+        5,
+        3,
+        3,
+        7,
+        3,
+        5,
+        4,
+        2,
+        5,
+        8,
+        5,
+        3,
+        5,
+        6,
+        6,
+        3,
+        2,
+        11,
+        8,
+        3,
+        8,
+        3,
+        2,
+        3,
+        4,
+        5
+      ],
+      "label_coordinate": {
+        "page": 36,
+        "raw_joined_char": 125,
+        "rune_index": null
+      }
+    },
+    {
+      "label": 2,
+      "rune_count": 91,
+      "unit_count": 20,
+      "unit_lengths": [
+        4,
+        4,
+        6,
+        4,
+        10,
+        4,
+        7,
+        6,
+        5,
+        2,
+        4,
+        3,
+        3,
+        5,
+        4,
+        4,
+        2,
+        9,
+        3,
+        2
+      ],
+      "label_coordinate": {
+        "page": 37,
+        "raw_joined_char": 1,
+        "rune_index": null
+      }
+    },
+    {
+      "label": 3,
+      "rune_count": 98,
+      "unit_count": 25,
+      "unit_lengths": [
+        3,
+        4,
+        4,
+        2,
+        5,
+        3,
+        6,
+        2,
+        3,
+        2,
+        3,
+        1,
+        2,
+        3,
+        3,
+        6,
+        3,
+        4,
+        9,
+        4,
+        8,
+        3,
+        8,
+        4,
+        3
+      ],
+      "label_coordinate": {
+        "page": 37,
+        "raw_joined_char": 118,
+        "rune_index": null
+      }
+    },
+    {
+      "label": 4,
+      "rune_count": 96,
+      "unit_count": 19,
+      "unit_lengths": [
+        7,
+        9,
+        7,
+        2,
+        3,
+        2,
+        5,
+        4,
+        6,
+        6,
+        2,
+        4,
+        10,
+        3,
+        4,
+        3,
+        11,
+        5,
+        3
+      ],
+      "label_coordinate": {
+        "page": 37,
+        "raw_joined_char": 248,
+        "rune_index": null
+      }
+    },
+    {
+      "label": 5,
+      "rune_count": 129,
+      "unit_count": 28,
+      "unit_lengths": [
+        6,
+        4,
+        7,
+        1,
+        6,
+        3,
+        5,
+        3,
+        9,
+        2,
+        3,
+        3,
+        2,
+        5,
+        4,
+        9,
+        4,
+        3,
+        7,
+        12,
+        8,
+        3,
+        3,
+        2,
+        5,
+        3,
+        5,
+        2
+      ],
+      "label_coordinate": {
+        "page": 38,
+        "raw_joined_char": 72,
+        "rune_index": null
+      }
+    }
+  ],
+  "same_rune_counts": false,
+  "same_complete_length_signature": false,
+  "template": {
+    "real": -74,
+    "prefix_suffix_distances": [
+      74,
+      82
+    ],
+    "tail": 0.194
+  },
+  "positive_control": {
+    "real": 0,
+    "prefix_suffix_distances": [
+      0,
+      120
+    ],
+    "tail": 0.005
+  },
+  "baseline_tails": [
+    0.11,
+    0.625,
+    0.26,
+    0.95,
+    0.615,
+    0.02,
+    0.31,
+    0.06
+  ],
+  "inline7": {
+    "raw_position": 221,
+    "runes_before": 169,
+    "raw_context": "-\u16cb\u16d2-\u16a0\u16de\u16c7-\u16a9\u16a6\u16cf-7-\u16b7-\u16da\u16c4\u16d6\u16ab\n.\u16a3\u16c1\u16ab"
+  },
+  "image_observations": [
+    {
+      "page": 10,
+      "image": "liber-primus/data/relikd/p10.jpg",
+      "sha256": "1716e282c1d5e8a9ff911c01621e9b195d4728c7fa55ac857176a473eaba3239",
+      "red_boxes": []
+    },
+    {
+      "page": 36,
+      "image": "liber-primus/data/relikd/p36.jpg",
+      "sha256": "3b54a31a9e796e2c01b4e80d46e1092dee2e1142a7c61873e282078e2c776cb9",
+      "red_boxes": [
+        [
+          974,
+          1452,
+          1013,
+          1513
+        ],
+        [
+          620,
+          1693,
+          645,
+          1785
+        ]
+      ]
+    },
+    {
+      "page": 37,
+      "image": "liber-primus/data/relikd/p37.jpg",
+      "sha256": "cee96d7e71b7de4d4e57237faacefad791229c153202e8224e4bedda45fb8f43",
+      "red_boxes": [
+        [
+          606,
+          694,
+          665,
+          788
+        ],
+        [
+          607,
+          1538,
+          663,
+          1634
+        ],
+        [
+          601,
+          2573,
+          670,
+          2665
+        ]
+      ]
+    },
+    {
+      "page": 38,
+      "image": "liber-primus/data/relikd/p38.jpg",
+      "sha256": "aec1898f599f57265d6422f3082a481db94a27f62230affbadee595d05077f8c",
+      "red_boxes": [
+        [
+          603,
+          1316,
+          665,
+          1410
+        ],
+        [
+          601,
+          2541,
+          639,
+          2601
+        ]
+      ]
+    }
+  ],
+  "counts": {
+    "real": 1,
+    "real_null": 999,
+    "positive_control": 1,
+    "positive_null": 199,
+    "baseline": 8,
+    "baseline_null": 1592
+  },
+  "seed": 2026091720
+}

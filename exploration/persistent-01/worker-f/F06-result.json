@@ -1,0 +1,305 @@
+{
+  "old_fragment_count": 2662,
+  "new_unit_count": 2355,
+  "multiline_units": 307,
+  "max_length": 14,
+  "controls": [
+    {
+      "raw": "\u16a0\u16a2\n\u16a6\u16a9",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "raw": "\u16a0\u16a2\n-\u16a6\u16a9",
+      "lengths": [
+        2,
+        2
+      ]
+    },
+    {
+      "raw": "\u16a0\u16a2.\n\u16a6\u16a9",
+      "lengths": [
+        2,
+        2
+      ]
+    },
+    {
+      "raw": "\u16a0\u16a27\u16a6\u16a9",
+      "lengths": [
+        2,
+        2
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "page": 0,
+      "word": {
+        "start": 83,
+        "end": 90,
+        "source_lines": [
+          3,
+          4
+        ],
+        "raw_positions": [
+          104,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111
+        ],
+        "source_char_positions": [
+          107,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115
+        ]
+      },
+      "indices": [
+        10,
+        25,
+        8,
+        14,
+        2,
+        13,
+        6
+      ]
+    },
+    {
+      "page": 0,
+      "word": {
+        "start": 105,
+        "end": 109,
+        "source_lines": [
+          4,
+          5
+        ],
+        "raw_positions": [
+          131,
+          132,
+          133,
+          135
+        ],
+        "source_char_positions": [
+          135,
+          136,
+          137,
+          140
+        ]
+      },
+      "indices": [
+        16,
+        8,
+        25,
+        27
+      ]
+    },
+    {
+      "page": 0,
+      "word": {
+        "start": 127,
+        "end": 131,
+        "source_lines": [
+          5,
+          6
+        ],
+        "raw_positions": [
+          161,
+          162,
+          164,
+          165
+        ],
+        "source_char_positions": [
+          166,
+          167,
+          170,
+          171
+        ]
+      },
+      "indices": [
+        26,
+        9,
+        18,
+        26
+      ]
+    },
+    {
+      "page": 0,
+      "word": {
+        "start": 145,
+        "end": 151,
+        "source_lines": [
+          6,
+          7
+        ],
+        "raw_positions": [
+          184,
+          185,
+          186,
+          187,
+          188,
+          190
+        ],
+        "source_char_positions": [
+          190,
+          191,
+          192,
+          193,
+          194,
+          197
+        ]
+      },
+      "indices": [
+        28,
+        11,
+        9,
+        20,
+        6,
+        17
+      ]
+    },
+    {
+      "page": 0,
+      "word": {
+        "start": 215,
+        "end": 218,
+        "source_lines": [
+          9,
+          10
+        ],
+        "raw_positions": [
+          272,
+          274,
+          275
+        ],
+        "source_char_positions": [
+          281,
+          284,
+          285
+        ]
+      },
+      "indices": [
+        28,
+        12,
+        8
+      ]
+    },
+    {
+      "page": 0,
+      "word": {
+        "start": 237,
+        "end": 244,
+        "source_lines": [
+          10,
+          11
+        ],
+        "raw_positions": [
+          300,
+          301,
+          303,
+          304,
+          305,
+          306,
+          307
+        ],
+        "source_char_positions": [
+          310,
+          311,
+          314,
+          315,
+          316,
+          317,
+          318
+        ]
+      },
+      "indices": [
+        15,
+        22,
+        16,
+        22,
+        21,
+        1,
+        4
+      ]
+    },
+    {
+      "page": 1,
+      "word": {
+        "start": 21,
+        "end": 25,
+        "source_lines": [
+          0,
+          1
+        ],
+        "raw_positions": [
+          25,
+          26,
+          27,
+          29
+        ],
+        "source_char_positions": [
+          370,
+          371,
+          372,
+          375
+        ]
+      },
+      "indices": [
+        5,
+        4,
+        2,
+        27
+      ]
+    },
+    {
+      "page": 1,
+      "word": {
+        "start": 42,
+        "end": 51,
+        "source_lines": [
+          1,
+          2
+        ],
+        "raw_positions": [
+          53,
+          54,
+          55,
+          56,
+          57,
+          59,
+          60,
+          61,
+          62
+        ],
+        "source_char_positions": [
+          399,
+          400,
+          401,
+          402,
+          403,
+          406,
+          407,
+          408,
+          409
+        ]
+      },
+      "indices": [
+        4,
+        3,
+        22,
+        19,
+        8,
+        19,
+        6,
+        13,
+        8
+      ]
+    }
+  ]
+}

@@ -1,15 +1,16 @@
 [
   {
     "id": "P01",
-    "status": "running",
+    "status": "completed",
     "title": "F-only clue-key coverage",
     "owner": "worker-a",
     "input": "Frozen256rune keys/allphases,45discoverypages,signs; omit previous512Fcells",
     "first_step": "Implement independentF enumerator from existing frozenkeys; pilot256cells",
     "expected_cost": "5\u201320min",
     "decision": "Does planted truth survive and any result exceed matched full-procedure controls?",
-    "progress": "Real181659 nominal cells complete; matched null running.178161 distinct tested page-keystreams,178153 novel after historical aliases; retain alias accounting.",
-    "compute_authorization": "65min across<=900s batches including fullmatchednull, after2.248s/256cellpilot"
+    "progress": "Real and matched null complete; immutable reviewed cycle1 archive.",
+    "compute_authorization": "65min across<=900s batches including fullmatchednull, after2.248s/256cellpilot",
+    "result": "181659 real+matchednull nominal cells; realmax-6.31711 below null-6.24569;13/45 pairedpagewins.178153 new distinctpagestreams; reviewed immutablecycle1archive."
   },
   {
     "id": "P02",
@@ -104,7 +105,7 @@
   },
   {
     "id": "P10",
-    "status": "deferred_strategy_change",
+    "status": "completed",
     "title": "Finite running-key F search without ordinary-length prefilter",
     "owner": "worker-a",
     "input": "Eight frozen solved running texts, source-defined offsets, discovery pages only",
@@ -154,7 +155,8 @@
         "exploration/overnight-01/worker-a/r02/keys.json": "5a454fe2409ec0c7c612f39b9269d2c8a6fd85ef3f9dee96b243dcb03a19750c"
       }
     },
-    "reason": "outside-box-v1 reserves two lanes for materially different explanations; do not auto-execute old additive queue"
+    "reason": "outside-box-v1 reserves two lanes for materially different explanations; do not auto-execute old additive queue",
+    "result": "3961 newreal+matchednull cells incl76oldlengthgaps; realmax-6.62587 below null-6.55886; finitepressure16hypothesiscontrol exactrank1."
   },
   {
     "id": "P02b",
@@ -235,14 +237,14 @@
   },
   {
     "id": "OB-C",
-    "status": "running",
+    "status": "completed_cycle",
     "owner": "persistent_c",
     "title": "Nonadditive finite-state mechanism test",
     "input": "Discovery rune sequences and held solved controls",
     "first_step": "Define bounded invertible stateful alternatives and a second prediction beyond doublet deficit; execute controls and discovery tests",
     "expected_cost": "Pilot within900s batches",
     "decision": "Do nonadditive encoders predict an independent real dependency without an additive candidate keystream or English-score admission?",
-    "result": "C1..C5 completed; C1..C4 independently reviewed. C6 now changes output target to complete structured binary frame constraints."
+    "result": "C1..C6 boundedtests complete; C1..C4 freshreview01, C5/C6 coordinatorreview; no candidate. WorkerC stopped forrotation."
   },
   {
     "id": "OB-E",
@@ -269,7 +271,7 @@
   },
   {
     "id": "OB-BOUNDARY",
-    "status": "running",
+    "status": "completed_cycle",
     "owner": "persistent_f",
     "title": "Separator-conditioned finite-state mechanism",
     "input": "Discovery word and source-line boundaries",
@@ -277,7 +279,7 @@
     "expected_cost": "Cheap measured pilot; <=900s logged batch",
     "decision": "Does source typography mark a change of operation beyond its fixed word-length schedule?",
     "strategy": "outside-box-v1",
-    "result": "Frozen F01 card; exactstream plus circularboundaryshifts; actual loggedrun started."
+    "result": "F01/F03 line-startassociation reproduced; F04 glyphwidthwrap counterexample and independentreview02 remove rationale for cipher-reset inference."
   },
   {
     "id": "OB-PAIR",
@@ -303,35 +305,107 @@
   },
   {
     "id": "OB-LAYOUT",
-    "status": "source_observation_complete",
-    "owner": "coordinator",
+    "status": "completed_cycle",
+    "owner": "persistent_g",
     "title": "Omitted visible channel",
     "input": "Only originals0/1 images and known solved source image controls",
     "first_step": "Inspect actual discovery images, record defined text/artwork regions and colors; choose <=2 image-grounded extraction rules before rune output; no reserved images",
     "expected_cost": "Cheap measured pilot; <=900s logged batch",
     "decision": "Does a visible feature imply an independently reproducible grouping absent from flat transcription?",
     "strategy": "outside-box-v1",
-    "result": "Actually viewed discovery0/1; original0 red oversizedinitial+heading distinct fromblackbody, original1 allblack. Flatindices omitcolor/size; provisional first13rune mapping requirescoordinatecheck. No decodingclaim."
+    "result": "G01..G10 complete;14physical4/13dot signs independently checked by review03. No cryptographic prediction."
   },
   {
     "id": "OB-ROLES",
-    "status": "ready",
-    "owner": "alternative-lane",
+    "status": "completed_cycle",
+    "owner": "persistent_f",
     "title": "Region-specific boundary structure",
     "input": "Discovery page word lengths and delimiters with page identity",
     "first_step": "Freeze adjacent-page comparisons only across contiguous observed originals; permutation-calibrate maximum change in word-length/end-symbol joint distribution; source-group controls",
     "expected_cost": "Cheap measured pilot; <=900s logged batch",
     "decision": "Do documented page boundaries justify distinct mechanisms beyond chance maxima?",
-    "strategy": "outside-box-v1"
+    "strategy": "outside-box-v1",
+    "result": "F02/F05/F06/F08/F09/F10 scopedrole/unit/source/numeric tests complete; report/ranges preserved, no candidate."
   },
   {
     "id": "OB-BINARY",
-    "status": "assigned",
+    "status": "completed",
     "owner": "persistent_c",
     "title": "Repeated-rune framed base28 structured binary target",
     "input": "Discovery rune rank streams, repeatedrunes as frame delimiters",
     "first_step": "Freeze completeinternalframes, fixedbase28 widths and completechecksummed object parsers; encode/decode controls then real andmatchedframe-permutation nulls",
     "expected_cost": "Measured <=900s batch",
-    "decision": "Does surviving highentropy rank-source interpretation yield complete valid structured objects rather than plausible text?"
+    "decision": "Does surviving highentropy rank-source interpretation yield complete valid structured objects rather than plausible text?",
+    "result": "C6 5568real/556800null trials:0objects,4controlrecords recovered. Coordinator found XZ parseroveracceptance; noactualhits underbroaderset, originalresultsunchanged."
+  },
+  {
+    "id": "EVENT-CLOCK-01",
+    "status": "completed_cycle",
+    "owner": "persistent_a",
+    "title": "Feedback state advances on every attempted draw",
+    "input": "32frozenprimer/sign hypotheses and discoverypages0/17/55; G06 fields3/7/17 separately",
+    "first_step": "Complete source13-reset controlledcomparison after full4source keysearchcontrols and first3page pairedpilot",
+    "decision": "Does sourceboundary reset yield predicted continuation after measuredfeedbackclockgap?",
+    "expected_cost": "Measured32hypothesis pilot, <=900s",
+    "result": "4 full-source controls exact; two real/null pilots no useful continuation. Exact pointer DP proves3 control truths incompatible with inherited accepted-output clock; no further feedback expansion."
+  },
+  {
+    "id": "H01",
+    "status": "completed",
+    "owner": "persistent_h",
+    "title": "External clue-backed prose unitlength signatures",
+    "result": "2localMabinogion volumes\u00d72mappings;71840words; longest11, matched999null tail.186;0admissions;4planted40unitspans recovered"
+  },
+  {
+    "id": "H03",
+    "status": "completed",
+    "owner": "persistent_h",
+    "title": "Explicit unit lengths as cyclic numeric schedule",
+    "input": "FrozenF06discovery explicitunits",
+    "first_step": "Freeze lags1..8, maxstatistic/wholepageorder null and schedule controls; execute comparison",
+    "decision": "Does lengthorder expose generatedschedule absentfromrunelevel models?",
+    "expected_cost": "Cheaploggedbatch",
+    "result": "maxabs lag1..8 corr.0540,9999nulltail.3773; subsequent eightbin adjacencytail.513, controls pass."
+  },
+  {
+    "id": "G09-local",
+    "status": "completed",
+    "owner": "persistent_g",
+    "title": "Local recurrence prediction under sparse rejection",
+    "input": "Frozen13-dot sourcefields,degree<=8",
+    "first_step": "16train+8forecast windows,raw andfiltered plantedgenerators, matchednull; no largeorderinterpolation",
+    "decision": "Can localvalidstretches yield exactunfittedcontinuation despitewholefield detectorfailure?",
+    "expected_cost": "Measured<=900s",
+    "result": "952 nominal /629 unique real windows yield0 forecasts;240 repeat-filtered controls all detected,min12. Freshreview03 independently verifies arithmetic and corrects human1052overcount."
+  },
+  {
+    "id": "OB-GLYPH",
+    "status": "assigned",
+    "owner": "persistent_i",
+    "title": "Omitted glyph geometric substates",
+    "input": "Actual discovery images0/1 only",
+    "first_step": "Freeze geometric/baseline mechanisms, extract count-matched glyphs with exactcoordinates and raster controls; predict within-glyph held instances",
+    "expected_cost": "Bounded <=900s logged batch",
+    "decision": "Does an extra discrete glyph state survive ordinary typography/raster explanations?"
+  },
+  {
+    "id": "OB-LENGTH-BINARY",
+    "status": "assigned",
+    "owner": "persistent_h",
+    "title": "Explicit unit length as structured binary carrier",
+    "input": "Frozen F06 discovery units, only physical contiguous fields",
+    "first_step": "Freeze parity/mod5 packing and complete checksummed formats; injected payload controls and actual matchednull tests",
+    "expected_cost": "Bounded <=900s logged batch",
+    "decision": "Does another carrier yield complete valid structured objects, not printable fragments?"
+  },
+  {
+    "id": "OB-STATE-SUB",
+    "status": "assigned",
+    "owner": "persistent_j",
+    "title": "Ciphertext-conditioned finite-state substitution",
+    "input": "Discovery0/1/3/7/17 or config discovery only",
+    "first_step": "Freeze small invertible recipe and second structural prediction; test source controls and held-continuation predictions",
+    "expected_cost": "Bounded <=900s logged batch",
+    "decision": "Can nonadditive state substitution account for both repeat deficit and another observed dependency?"
   }
 ]

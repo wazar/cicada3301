@@ -1,0 +1,71 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "exploration/persistent-01/coordinator/review_c6_parsers.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e4135f67d63be8b96f785ee59510dbce2f4f6207",
+  "started_utc": "2026-09-16T20:19:00.124652+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/check_finite_guard.py",
+      "exists": true,
+      "bytes": 1880,
+      "sha256": "c22ea15006eefbc4b1801516f5aba2edae033468c7829b50ba69f9b533b3f483"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/layout_color.py",
+      "exists": true,
+      "bytes": 1607,
+      "sha256": "c68b094a4fccb856cbba538cd3700392fd4f46108df8c43c626253c90beb0859"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/review_c6_parsers.py",
+      "exists": true,
+      "bytes": 2806,
+      "sha256": "775c56119dec03eea67f8eacf664180f6e3fe9cafab0145d6a94abb232719763"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/running_scope.py",
+      "exists": true,
+      "bytes": 1795,
+      "sha256": "7f543c4591bde7a926991c45da4250d8d05f2dce2b60747b3d8e5e6c08b93694"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/ob-c6/real-cells.jsonl.gz",
+      "exists": true,
+      "bytes": 134571,
+      "sha256": "d5af94c645aa6dad8a5c2e011b548886060e44e5c6244c169dd1c5aab625801a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/ob_c6.py",
+      "exists": true,
+      "bytes": 5299,
+      "sha256": "1fa2f8607a0513bd989c314f82b77a822585b7a7223e94f9744fbdaf27a3e786"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 41402,
+  "finished_utc": "2026-09-16T20:19:00.172710+00:00",
+  "duration_seconds": 0.04784954199931235
+}

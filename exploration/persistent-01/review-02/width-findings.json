@@ -1,0 +1,93 @@
+{
+  "source_image": "liber-primus/data/relikd/p1.jpg",
+  "image_shape": [
+    3600,
+    2400
+  ],
+  "rows": [
+    {
+      "row": 0,
+      "runes": 24,
+      "tall_components": 23,
+      "accepted": false
+    },
+    {
+      "row": 1,
+      "runes": 23,
+      "tall_components": 23,
+      "accepted": true
+    },
+    {
+      "row": 2,
+      "runes": 23,
+      "tall_components": 22,
+      "accepted": false
+    },
+    {
+      "row": 3,
+      "runes": 21,
+      "tall_components": 21,
+      "accepted": true
+    },
+    {
+      "row": 4,
+      "runes": 23,
+      "tall_components": 23,
+      "accepted": true
+    },
+    {
+      "row": 5,
+      "runes": 23,
+      "tall_components": 23,
+      "accepted": true
+    },
+    {
+      "row": 6,
+      "runes": 22,
+      "tall_components": 21,
+      "accepted": false
+    },
+    {
+      "row": 7,
+      "runes": 21,
+      "tall_components": 21,
+      "accepted": true
+    },
+    {
+      "row": 8,
+      "runes": 21,
+      "tall_components": 21,
+      "accepted": true
+    },
+    {
+      "row": 9,
+      "runes": 21,
+      "tall_components": 19,
+      "accepted": false
+    },
+    {
+      "row": 10,
+      "runes": 21,
+      "tall_components": 21,
+      "accepted": true
+    },
+    {
+      "row": 11,
+      "runes": 23,
+      "tall_components": 23,
+      "accepted": true
+    }
+  ],
+  "widths_reproduced": true,
+  "all_1200_simulations_reproduced": true,
+  "all_1000_start_maps_reproduced": true,
+  "raw_tail": 0.3956043956043956,
+  "corrected_tail": 0.3106893106893107,
+  "caveats": [
+    "component-count matching does not certify every glyph identity",
+    "ink width plus5 is approximate advance",
+    "fixed1180 and separator14 not calibrated to all pages",
+    "simulation start count466..484 differs from435 actual",
+    "G here is multinomial against full-stream frequencies; F03 uses2x29 contingency after first-rune removals"
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "status": "checked_exploratory_association_not_cipher_finding",
+  "pages": 45,
+  "runes": 10466,
+  "line_count": 480,
+  "f01": {
+    "full_saved_real_rotations_checked": 1998,
+    "max_abs_error": 4.496403249731884e-12,
+    "line_start_G": 79.44467504410831,
+    "tail": 0.001,
+    "trim_G": 65.80902364774909,
+    "trim_tail": 0.001,
+    "control_real_checked": 32,
+    "control_null_rotations_checked": 64,
+    "all_control_tails_checked": true,
+    "control_detection": {
+      "baseline": 0,
+      "alphabet": 8,
+      "successor": 8,
+      "repeat": 8
+    }
+  },
+  "f03": {
+    "real": [
+      65.92939066833065,
+      13.537924215630326
+    ],
+    "fold_scores": [
+      -0.7887762563387737,
+      3.3156395186217864,
+      11.011060953347314
+    ],
+    "max_abs_error": 9.166001291305292e-13,
+    "saved_draws_checked": 1999,
+    "tail": [
+      0.0005,
+      0.0005
+    ],
+    "stratum_count_invariants_checked": true,
+    "removed_top3_pages": [
+      17,
+      23,
+      41
+    ],
+    "G_without_top3": 51.154625394980535
+  },
+  "falsifier": {
+    "seed": 1609202602,
+    "null_count": 999,
+    "null_max": 64.97007322568632,
+    "G": 65.92939066833065,
+    "tail": 0.001,
+    "movable_starts": 356
+  },
+  "semantics": [
+    {
+      "page": 0,
+      "source_lines": 12,
+      "runes": 262
+    },
+    {
+      "page": 1,
+      "source_lines": 12,
+      "runes": 266
+    },
+    {
+      "page": 2,
+      "source_lines": 9,
+      "runes": 201
+    },
+    {
+      "page": 3,
+      "source_lines": 11,
+      "runes": 217
+    },
+    {
+      "page": 5,
+      "source_lines": 12,
+      "runes": 263
+    },
+    {
+      "page": 6,
+      "source_lines": 10,
+      "runes": 196
+    },
+    {
+      "page": 7,
+      "source_lines": 10,
+      "runes": 208
+    },
+    {
+      "page": 8,
+      "source_lines": 12,
+      "runes": 255
+    },
+    {
+      "page": 10,
+      "source_lines": 12,
+      "runes": 263
+    },
+    {
+      "page": 11,
+      "source_lines": 12,
+      "runes": 273
+    },
+    {
+      "page": 12,
+      "source_lines": 12,
+      "runes": 261
+    },
+    {
+      "page": 13,
+      "source_lines": 12,
+      "runes": 272
+    },
+    {
+      "page": 15,
+      "source_lines": 8,
+      "runes": 159
+    },
+    {
+      "page": 16,
+      "source_lines": 12,
+      "runes": 267
+    },
+    {
+      "page": 17,
+      "source_lines": 12,
+      "runes": 273
+    },
+    {
+      "page": 18,
+      "source_lines": 12,
+      "runes": 260
+    },
+    {
+      "page": 20,
+      "source_lines": 12,
+      "runes": 269
+    },
+    {
+      "page": 21,
+      "source_lines": 12,
+      "runes": 273
+    },
+    {
+      "page": 22,
+      "source_lines": 6,
+      "runes": 131
+    },
+    {
+      "page": 23,
+      "source_lines": 10,
+      "runes": 213
+    },
+    {
+      "page": 25,
+      "source_lines": 12,
+      "runes": 273
+    },
+    {
+      "page": 26,
+      "source_lines": 12,
+      "runes": 265
+    },
+    {
+      "page": 27,
+      "source_lines": 11,
+      "runes": 234
+    },
+    {
+      "page": 28,
+      "source_lines": 12,
+      "runes": 269
+    },
+    {
+      "page": 30,
+      "source_lines": 12,
+      "runes": 263
+    },
+    {
+      "page": 31,
+      "source_lines": 12,
+      "runes": 269
+    },
+    {
+      "page": 32,
+      "source_lines": 6,
+      "runes": 121
+    },
+    {
+      "page": 33,
+      "source_lines": 11,
+      "runes": 214
+    },
+    {
+      "page": 35,
+      "source_lines": 12,
+      "runes": 271
+    },
+    {
+      "page": 36,
+      "source_lines": 11,
+      "runes": 238
+    },
+    {
+      "page": 37,
+      "source_lines": 11,
+      "runes": 228
+    },
+    {
+      "page": 38,
+      "source_lines": 11,
+      "runes": 228
+    },
+    {
+      "page": 40,
+      "source_lines": 11,
+      "runes": 231
+    },
+    {
+      "page": 41,
+      "source_lines": 12,
+      "runes": 273
+    },
+    {
+      "page": 42,
+      "source_lines": 12,
+      "runes": 272
+    },
+    {
+      "page": 43,
+      "source_lines": 12,
+      "runes": 274
+    },
+    {
+      "page": 45,
+      "source_lines": 12,
+      "runes": 270
+    },
+    {
+      "page": 46,
+      "source_lines": 12,
+      "runes": 270
+    },
+    {
+      "page": 47,
+      "source_lines": 12,
+      "runes": 274
+    },
+    {
+      "page": 48,
+      "source_lines": 12,
+      "runes": 271
+    },
+    {
+      "page": 49,
+      "source_lines": 3,
+      "runes": 66
+    },
+    {
+      "page": 51,
+      "source_lines": 4,
+      "runes": 92
+    },
+    {
+      "page": 52,
+      "source_lines": 12,
+      "runes": 263
+    },
+    {
+      "page": 53,
+      "source_lines": 9,
+      "runes": 179
+    },
+    {
+      "page": 55,
+      "source_lines": 4,
+      "runes": 76
+    }
+  ]
+}

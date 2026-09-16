@@ -1,0 +1,468 @@
+{
+  "controls": [
+    {
+      "real": [
+        801.8624203821657,
+        0.17952382488419905,
+        21.017409766454353,
+        0.18200643881883705
+      ],
+      "tails": [
+        0.005,
+        0.855,
+        0.85,
+        0.735
+      ],
+      "bonferroni4": [
+        0.02,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "map": 0,
+      "type": "biased",
+      "attempts": 2355,
+      "forced_target_resets": 0
+    },
+    {
+      "real": [
+        8.826326963906583,
+        2.010392970867274,
+        28.87388535031847,
+        0.1999501334801006
+      ],
+      "tails": [
+        1.0,
+        0.005,
+        0.53,
+        0.095
+      ],
+      "bonferroni4": [
+        1.0,
+        0.02,
+        1.0,
+        0.38
+      ],
+      "map": 0,
+      "type": "markov",
+      "attempts": 2355,
+      "forced_target_resets": 0
+    },
+    {
+      "real": [
+        44.31592356687897,
+        0.17910244433011754,
+        781.2730360934183,
+        0.17080507537967698
+      ],
+      "tails": [
+        0.025,
+        0.825,
+        0.005,
+        0.97
+      ],
+      "bonferroni4": [
+        0.1,
+        1.0,
+        0.02,
+        1.0
+      ],
+      "map": 1,
+      "type": "biased",
+      "attempts": 2817,
+      "forced_target_resets": 7
+    },
+    {
+      "real": [
+        18.65307855626327,
+        0.18129368317977973,
+        20.795753715498932,
+        1.92307044015278
+      ],
+      "tails": [
+        0.93,
+        0.805,
+        0.835,
+        0.005
+      ],
+      "bonferroni4": [
+        1.0,
+        1.0,
+        1.0,
+        0.02
+      ],
+      "map": 1,
+      "type": "markov",
+      "attempts": 2841,
+      "forced_target_resets": 13
+    }
+  ],
+  "symmetry": [
+    {
+      "page": 0,
+      "runes": 262,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 262
+    },
+    {
+      "page": 1,
+      "runes": 266,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 266
+    },
+    {
+      "page": 2,
+      "runes": 201,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 201
+    },
+    {
+      "page": 3,
+      "runes": 217,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 217
+    },
+    {
+      "page": 5,
+      "runes": 263,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 263
+    },
+    {
+      "page": 6,
+      "runes": 196,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 196
+    },
+    {
+      "page": 7,
+      "runes": 208,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 208
+    },
+    {
+      "page": 8,
+      "runes": 255,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 255
+    },
+    {
+      "page": 10,
+      "runes": 263,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 263
+    },
+    {
+      "page": 11,
+      "runes": 273,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 273
+    },
+    {
+      "page": 12,
+      "runes": 261,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 261
+    },
+    {
+      "page": 13,
+      "runes": 272,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 272
+    },
+    {
+      "page": 15,
+      "runes": 159,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 159
+    },
+    {
+      "page": 16,
+      "runes": 267,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 267
+    },
+    {
+      "page": 17,
+      "runes": 273,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 273
+    },
+    {
+      "page": 18,
+      "runes": 260,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 260
+    },
+    {
+      "page": 20,
+      "runes": 269,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 269
+    },
+    {
+      "page": 21,
+      "runes": 273,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 273
+    },
+    {
+      "page": 22,
+      "runes": 131,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 131
+    },
+    {
+      "page": 23,
+      "runes": 213,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 213
+    },
+    {
+      "page": 25,
+      "runes": 273,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 273
+    },
+    {
+      "page": 26,
+      "runes": 265,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 265
+    },
+    {
+      "page": 27,
+      "runes": 234,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 234
+    },
+    {
+      "page": 28,
+      "runes": 269,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 269
+    },
+    {
+      "page": 30,
+      "runes": 263,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 263
+    },
+    {
+      "page": 31,
+      "runes": 269,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 269
+    },
+    {
+      "page": 32,
+      "runes": 121,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 121
+    },
+    {
+      "page": 33,
+      "runes": 214,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 214
+    },
+    {
+      "page": 35,
+      "runes": 271,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 271
+    },
+    {
+      "page": 36,
+      "runes": 238,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 238
+    },
+    {
+      "page": 37,
+      "runes": 228,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 228
+    },
+    {
+      "page": 38,
+      "runes": 228,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 228
+    },
+    {
+      "page": 40,
+      "runes": 231,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 231
+    },
+    {
+      "page": 41,
+      "runes": 273,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 273
+    },
+    {
+      "page": 42,
+      "runes": 272,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 272
+    },
+    {
+      "page": 43,
+      "runes": 274,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 274
+    },
+    {
+      "page": 45,
+      "runes": 270,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 270
+    },
+    {
+      "page": 46,
+      "runes": 270,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 270
+    },
+    {
+      "page": 47,
+      "runes": 274,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 274
+    },
+    {
+      "page": 48,
+      "runes": 271,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 271
+    },
+    {
+      "page": 49,
+      "runes": 66,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 66
+    },
+    {
+      "page": 51,
+      "runes": 92,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 92
+    },
+    {
+      "page": 52,
+      "runes": 263,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 263
+    },
+    {
+      "page": 53,
+      "runes": 179,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 179
+    },
+    {
+      "page": 55,
+      "runes": 76,
+      "stabilizer_offsets": [
+        0
+      ],
+      "distinct_phases": 76
+    }
+  ],
+  "constant4_fixture_distinct_phases": 4,
+  "counts": {
+    "controls": 4,
+    "control_null": 796,
+    "real": 0
+  }
+}

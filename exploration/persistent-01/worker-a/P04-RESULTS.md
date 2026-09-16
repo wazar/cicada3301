@@ -1,0 +1,7 @@
+# P04 exact path comparison
+
+The two-error winner in the original55-length planted fixture is a scoring preference, not beam pruning. The supplied true key ranks first among32 hypotheses, but the exact true plaintext ranks second among its16 compatible paths. Width4,16,64,256 all select the same two-error alternative. No editorial repair was made.
+
+Complete enumeration covered68,740 paths over196 hypotheses (98 planted,98 matched shuffled), on66/92/76-rune synthetic solved-text controls. The49- and51-length controls recover the exact truth with truekeyrank1. Width64 and256 preserve an exact winning plaintext for every196 hypothesis; width16 loses it in4 cases andwidth4 in47. These are short controls, not a long-page completeness claim. Runtime1.635s core; logger1.999s exit0.
+
+Full path alternatives, beams, cipher, truth and hypothesis rankings are in p04-results.json. Keyspace first16 frozen sourcekeys phase0 signs± plus plantedkey when absent; literal-F nonconsumption relation; English transliteration quadgrams. Exact top16 outputs retained perhypothesis. Controls are repeated/truncated WELCOME, not independent naturalpage samples. One matchedshuffle each does not calibrate significance. Nextdecision: preserve imperfect rankings; continue authorisedP01 coverage and change to the frozen delimiter-rune scorer P12, rather than trying to force the correct plaintext to win this scorer.

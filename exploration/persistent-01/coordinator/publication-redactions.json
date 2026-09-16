@@ -12,5 +12,12 @@
     "original_sha256": "82a1113e45fe290aa1faad2da7706c19783a0b351dd16be62a9a1e982448d2f8",
     "published_sha256": "2a38524f4e3764d4ef6f6bb6ec59b4972b084e1296a7647f00e5206fe47c1afb",
     "change": "Replace only local checkout prefix with <REPO_ROOT>; raw original retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/coordinator/runs/20260916T201757.297155Z-c6-parser-review/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/coordinator/runs/20260916T201757.297155Z-c6-parser-review/stderr.txt",
+    "original_sha256": "2ed76be269df012a8c0f1d221f5907fd3072b47de63c6e6194d7d83a6b6014f7",
+    "published_sha256": "53bfdf3fb8d90bb98d944b685c4fb7796b5c2e5c883755191668502d69306542",
+    "change": "Only local checkout prefix normalized; original retained privately."
   }
 ]

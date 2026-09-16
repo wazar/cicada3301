@@ -1,0 +1,227 @@
+{
+  "real": {
+    "real": [
+      92,
+      3
+    ],
+    "tails": [
+      0.512,
+      1.0
+    ],
+    "bonferroni2": [
+      1.0,
+      1.0
+    ]
+  },
+  "controls": [
+    {
+      "rep": 0,
+      "real": [
+        25961,
+        96
+      ],
+      "bonferroni2": [
+        0.019801980198019802,
+        0.019801980198019802
+      ],
+      "absent_length_units": 0
+    },
+    {
+      "rep": 1,
+      "real": [
+        25031,
+        80
+      ],
+      "bonferroni2": [
+        0.019801980198019802,
+        0.019801980198019802
+      ],
+      "absent_length_units": 0
+    },
+    {
+      "rep": 2,
+      "real": [
+        26400,
+        95
+      ],
+      "bonferroni2": [
+        0.019801980198019802,
+        0.019801980198019802
+      ],
+      "absent_length_units": 0
+    },
+    {
+      "rep": 3,
+      "real": [
+        27823,
+        113
+      ],
+      "bonferroni2": [
+        0.019801980198019802,
+        0.019801980198019802
+      ],
+      "absent_length_units": 0
+    },
+    {
+      "rep": 4,
+      "real": [
+        27260,
+        94
+      ],
+      "bonferroni2": null,
+      "absent_length_units": 0
+    },
+    {
+      "rep": 5,
+      "real": [
+        27847,
+        100
+      ],
+      "bonferroni2": null,
+      "absent_length_units": 0
+    },
+    {
+      "rep": 6,
+      "real": [
+        26912,
+        101
+      ],
+      "bonferroni2": null,
+      "absent_length_units": 0
+    },
+    {
+      "rep": 7,
+      "real": [
+        25305,
+        88
+      ],
+      "bonferroni2": null,
+      "absent_length_units": 0
+    },
+    {
+      "rep": 8,
+      "real": [
+        25883,
+        94
+      ],
+      "bonferroni2": null,
+      "absent_length_units": 0
+    },
+    {
+      "rep": 9,
+      "real": [
+        26226,
+        94
+      ],
+      "bonferroni2": null,
+      "absent_length_units": 0
+    },
+    {
+      "rep": 10,
+      "real": [
+        26639,
+        94
+      ],
+      "bonferroni2": null,
+      "absent_length_units": 0
+    },
+    {
+      "rep": 11,
+      "real": [
+        25782,
+        92
+      ],
+      "bonferroni2": null,
+      "absent_length_units": 0
+    },
+    {
+      "rep": 12,
+      "real": [
+        25951,
+        94
+      ],
+      "bonferroni2": null,
+      "absent_length_units": 0
+    },
+    {
+      "rep": 13,
+      "real": [
+        27246,
+        103
+      ],
+      "bonferroni2": null,
+      "absent_length_units": 0
+    },
+    {
+      "rep": 14,
+      "real": [
+        26329,
+        98
+      ],
+      "bonferroni2": null,
+      "absent_length_units": 0
+    },
+    {
+      "rep": 15,
+      "real": [
+        25649,
+        102
+      ],
+      "bonferroni2": null,
+      "absent_length_units": 0
+    },
+    {
+      "rep": 16,
+      "real": [
+        26862,
+        95
+      ],
+      "bonferroni2": null,
+      "absent_length_units": 0
+    },
+    {
+      "rep": 17,
+      "real": [
+        27396,
+        91
+      ],
+      "bonferroni2": null,
+      "absent_length_units": 0
+    },
+    {
+      "rep": 18,
+      "real": [
+        27275,
+        90
+      ],
+      "bonferroni2": null,
+      "absent_length_units": 0
+    },
+    {
+      "rep": 19,
+      "real": [
+        26490,
+        91
+      ],
+      "bonferroni2": null,
+      "absent_length_units": 0
+    }
+  ],
+  "control_ranges": [
+    [
+      25031,
+      27847
+    ],
+    [
+      80,
+      113
+    ]
+  ],
+  "counts": {
+    "real": 1,
+    "real_null": 999,
+    "source_model_controls": 20,
+    "control_null": 400
+  },
+  "seed": 2026091719
+}

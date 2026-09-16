@@ -1,0 +1,37 @@
+{
+  "strategy": "outside-box-v1",
+  "model": "repeat-delimited minimalbase28 binaryframes,58alphabetorders x2digitorders x2byteorders;CRC32suffix orcompletecompressionchecks",
+  "real": {
+    "frames": 24,
+    "canonical_frames": 18,
+    "trials": 5568,
+    "byte_admissible": 1308,
+    "hits": []
+  },
+  "controls": [
+    {
+      "name": "0_welcome",
+      "hits": 1,
+      "truth_bytes_recovered": true
+    },
+    {
+      "name": "jpg107-167",
+      "hits": 1,
+      "truth_bytes_recovered": true
+    },
+    {
+      "name": "p56_an_end",
+      "hits": 1,
+      "truth_bytes_recovered": true
+    },
+    {
+      "name": "p57_parable",
+      "hits": 1,
+      "truth_bytes_recovered": true
+    }
+  ],
+  "null_trials": 556800,
+  "null_hits": 0,
+  "seconds": 4.5470259159992565,
+  "limits": "Internalrepeat-delimitedframes only,unknownedgefragments excluded;bytewidth minimalcapacity convention,otherpadding/transportformats untested. Null shufflesrankdigitswithinframes undercanonicalorder thenreencodes, preservinglengths/markerpositions. Formatschosenbeforetest;no permissiveprintability criterion."
+}

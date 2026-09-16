@@ -1,0 +1,39 @@
+{
+  "review": "C6 declared parser scope",
+  "source_sha256": "1fa2f8607a0513bd989c314f82b77a822585b7a7223e94f9744fbdaf27a3e786",
+  "controls": [
+    {
+      "format": "zlib",
+      "valid_recovers": true,
+      "invalid_modes_reject": true,
+      "encoded_hex": "789c6360646266616563e7e0e4e2e6e1e5e3171014121611151397909492966118951c95242c090064051fb9"
+    },
+    {
+      "format": "gzip",
+      "valid_recovers": true,
+      "invalid_modes_reject": true,
+      "encoded_hex": "1f8b08000000000002136360646266616563e7e0e4e2e6e1e5e3171014121611151397909492966118951c95242c09001656495c44020000"
+    },
+    {
+      "format": "bz2",
+      "valid_recovers": true,
+      "invalid_modes_reject": true,
+      "encoded_hex": "425a6839314159265359a6e65eb1000009e0007ffffffc200070500034000014aa8000d0006624cc4ce4d04d24d44d64d84da4dc4de4e04e24e44e64c09d09d49d89dc9e09e49e89ec9f09f49f89fc98932177245385090a6e65eb10"
+    },
+    {
+      "format": "xz",
+      "valid_recovers": true,
+      "invalid_modes_reject": true,
+      "encoded_hex": "fd377a585a000004e6d6b4460200210116000000742fe5a3e0024300255d00000052500a84f99bb28021a969d627e03e065a5f048d53d404ba39579c893f34b2da3da800000000008690fcab7229cf4c000141c40400000058d4a694b1c467fb020000000004595a"
+    }
+  ],
+  "overacceptance": {
+    "lzma_alone_mislabeled_xz": true,
+    "xz_without_checksum_accepted": true
+  },
+  "real_records": 5568,
+  "real_admissible": 1308,
+  "all_real_hits_empty": true,
+  "conclusion": "All four declared complete parser families recover the fixtures and reject four malformed/cap cases each. XZ acceptance is broader than card: auto-format admits legacy LZMA and no-check XZ. Original real accepted set is empty, so checksummed-XZ subset also empty. Future method must enforce FORMAT_XZ and check not CHECK_NONE; original output not silently revised.",
+  "scope": "One fixture per family; control parser checks only, no new candidate coverage. Retained real bytes revalidated, not puzzle search. First review incorrectly expected a final bz2 padding-bit flip to fail; corrected corruption targets the explicit block CRC at byte10. Original failed run retained."
+}

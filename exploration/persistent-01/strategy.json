@@ -5,7 +5,7 @@
   "mode": "DIRECT",
   "deadline_utc": "2026-09-17T03:30:37Z",
   "external_controller": false,
-  "verification": "Coordinator read updated files in active session; worker acknowledgements and actual executed cards will verify delivery.",
+  "verification": "Coordinator and workers read exact strategy and contract hashes; ACKs and executed nonadditive/structured/visual tests verify receipt in the direct-session process.",
   "files": {
     "RESEARCH-STRATEGY.md": "eac5f90b963597464862cadbd2f8245375c844d2d0b6f9e52f418bcad617517c",
     "CICADA-CONTINUOUS-RESEARCH.md": "638c4ed1f85cad5cd55887df7cefeb1896cb73eb0afaf8b8e7d7a6b9f3e2a240"
@@ -48,13 +48,23 @@
     "OB-E": "Source-grid representation and algebraic gate,1598 discovery windows plus1000shuffles; completed1.15s; operator experiment next"
   },
   "current_assignments": {
-    "persistent_a": "Existing periodic F real completed; matched null running.",
-    "persistent_c": "Alternative structured binary output from framed rank streams, OB-C6.",
-    "persistent_f": "Alternative separator-conditioned operation, rotation null keeps cipher/repeats exactly; then page roles."
+    "persistent_i": "Glyph geometry/baseline substates on actual discovery images0/1, raster controls and within-glyph prediction.",
+    "persistent_h": "Explicit unit lengths as binary/quinary complete structured-data carrier, fixed parsing family.",
+    "persistent_j": "Nonadditive ciphertext-conditioned finite-state substitution; second structural prediction without legacy scorer."
   },
   "completed_alternative_cycle": [
     "OB-C1..C4 reviewed; C5 completed pending next checkpoint",
     "OB-E1..E6 reviewed"
   ],
-  "fresh_review": "exploration/persistent-01/review-01/REPORT.md"
+  "fresh_review": "exploration/persistent-01/review-01/REPORT.md",
+  "active_workers": [
+    "persistent_i",
+    "persistent_h",
+    "persistent_j"
+  ],
+  "fresh_reviews": [
+    "review-01/REPORT.md",
+    "review-02/REPORT.md",
+    "review-03/REPORT.md"
+  ]
 }

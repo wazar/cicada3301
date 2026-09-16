@@ -1,0 +1,30 @@
+{
+  "recorded_utc": "2026-09-16T19:44:27.869852+00:00",
+  "note": "Supplemental current hashes; earlier pilot logs retain their own exact input list. No claim this manifest existed during pilot.",
+  "files": [
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_welcome.txt",
+      "sha256": "95caaffb0ae764801bb023ba8eda15b49366cb3258aab9e26922e89e884c7b73"
+    },
+    {
+      "path": "liber-primus/data/english_quadgrams.txt",
+      "sha256": "fb82963d1fc4a64b9fc6121f8ca88139fd5b15083dddc9a59f8b14bdb8fe4062"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p03_frozen.py",
+      "sha256": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05"
+    },
+    {
+      "path": "exploration/persistent-01/worker-b/feasible.py",
+      "sha256": "e5c9cc1444716ca2a3ab4f71e7c58cf041db2809fe0e3788d27e3beacc2af17b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-b/search.py",
+      "sha256": "19a40fafc7991e4e94e30648c12901cd6b9f299785e852c86adf6cff8d1ab26c"
+    },
+    {
+      "path": "exploration/overnight-01/worker-c/search.py",
+      "sha256": "71d8abd6edd0c08f4b1f682e1ddfe55325273b275398f545225e9d28c74aa12b"
+    }
+  ]
+}
