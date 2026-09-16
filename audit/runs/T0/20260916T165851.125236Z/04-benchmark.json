@@ -1,0 +1,26 @@
+{
+  "id": "04-benchmark",
+  "command": [
+    "python3",
+    "-m",
+    "pytest",
+    "liber-primus/benchmark/",
+    "-q"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "source_commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+  "started_at_utc": "2026-09-16T16:58:52.527948+00:00",
+  "timeout_seconds": 300,
+  "timed_out": false,
+  "environment": "environment.json",
+  "input_manifest": "inputs.json",
+  "source_manifest": "sources.json",
+  "local_changes": "git-status-before.txt",
+  "stdout": "04-benchmark.stdout.txt",
+  "stderr": "04-benchmark.stderr.txt",
+  "seeds": "Inherited unchanged; see inspection.md in audit/ and hashed sources.",
+  "exit_code": 0,
+  "outcome": "PASS",
+  "duration_seconds": 0.934,
+  "finished_at_utc": "2026-09-16T16:58:53.462350+00:00"
+}

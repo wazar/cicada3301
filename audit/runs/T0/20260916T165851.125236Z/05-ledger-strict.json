@@ -1,0 +1,24 @@
+{
+  "id": "05-ledger-strict",
+  "command": [
+    "python3",
+    "liber-primus/analysis/handoff/validate_ledger.py",
+    "--strict"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "source_commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+  "started_at_utc": "2026-09-16T16:58:53.462853+00:00",
+  "timeout_seconds": 300,
+  "timed_out": false,
+  "environment": "environment.json",
+  "input_manifest": "inputs.json",
+  "source_manifest": "sources.json",
+  "local_changes": "git-status-before.txt",
+  "stdout": "05-ledger-strict.stdout.txt",
+  "stderr": "05-ledger-strict.stderr.txt",
+  "seeds": "Inherited unchanged; see inspection.md in audit/ and hashed sources.",
+  "exit_code": 0,
+  "outcome": "PASS",
+  "duration_seconds": 0.041,
+  "finished_at_utc": "2026-09-16T16:58:53.503853+00:00"
+}

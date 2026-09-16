@@ -1,0 +1,152 @@
+[
+  {
+    "path": ".gitignore",
+    "exists": true,
+    "bytes": 16257,
+    "sha256": "3d4bebc7b9cebf99eccabb6feb857ca6e03dc55bf33645a34e0a9b487ee17e50"
+  },
+  {
+    "path": "AGENTS.md",
+    "exists": true,
+    "bytes": 12185,
+    "sha256": "e7d0ab7d7abac94b09bccf0407da0bd41d3fdaee32003472e3bfa8b3a2c0eb6e"
+  },
+  {
+    "path": "CLAUDE.md",
+    "exists": true,
+    "bytes": 5943,
+    "sha256": "4a5a07dcd36b2d5b382e9b1ef941cb38f981232f9a64a908e89b09fa04443e3e"
+  },
+  {
+    "path": "MACOS-SETUP.md",
+    "exists": true,
+    "bytes": 19113,
+    "sha256": "b5f143d3c4ba51b25970fd4a70fa555ae8cd65fbf69b62fc7e0135dd25db3783"
+  },
+  {
+    "path": "audit/reference/AUDIT-PLAN.md",
+    "exists": true,
+    "bytes": 24539,
+    "sha256": "93774557ae096a5917bc5aa4450879bf2bd508713fb150c4e21437ba8b703bf8"
+  },
+  {
+    "path": "audit/tools/run_t0.py",
+    "exists": true,
+    "bytes": 7342,
+    "sha256": "3a0e7cc8a0e8eb4ba8cd6e684e4dd3a888ebf616c71df08fe61aad9a63c82e47"
+  },
+  {
+    "path": "liber-primus/analysis/campaign18_skip/skipdecode.py",
+    "exists": true,
+    "bytes": 9124,
+    "sha256": "74c47d170a9cb1966ff78d7448f6081dfab3bcc928f032603add3f76dae2e1ff"
+  },
+  {
+    "path": "liber-primus/analysis/handoff/validate_ledger.py",
+    "exists": true,
+    "bytes": 6486,
+    "sha256": "3e363be869b53e879bd7aebe95c4aa921d0d069099fecf3d719e5e11f49a4a29"
+  },
+  {
+    "path": "liber-primus/analysis/round11/lib_numchannel.py",
+    "exists": true,
+    "bytes": 4156,
+    "sha256": "6d1821ab27dd0093bc10f070df1a8040473b27e71b5a72e2bea9796ec0faeab5"
+  },
+  {
+    "path": "liber-primus/analysis/round12/C1/feedback.py",
+    "exists": true,
+    "bytes": 5619,
+    "sha256": "debb2db843f884d0abf6d064e56389523c8cb050f1e7dcd817a3d5942ea1fb66"
+  },
+  {
+    "path": "liber-primus/analysis/run_stats.py",
+    "exists": true,
+    "bytes": 6530,
+    "sha256": "77537de12b5ed2c86c78b41fe1ab2e568e1615f1fcd26b08e9f717d68f10f7d0"
+  },
+  {
+    "path": "liber-primus/benchmark/gates.py",
+    "exists": true,
+    "bytes": 8315,
+    "sha256": "60dfc66e266d708403af5fdd6d26debb4d95c125da227d06e02984c174e5f2ab"
+  },
+  {
+    "path": "liber-primus/benchmark/null.py",
+    "exists": true,
+    "bytes": 7639,
+    "sha256": "191f3e7ec0cf9a902b10d98e92f9539267e58f132f0ec605c383edfa1ea362e4"
+  },
+  {
+    "path": "liber-primus/benchmark/plant.py",
+    "exists": true,
+    "bytes": 18520,
+    "sha256": "88d2a57227642a80e9e64474860875992bb9641bd00821ee2172e05e1008c25d"
+  },
+  {
+    "path": "liber-primus/benchmark/test_gates.py",
+    "exists": true,
+    "bytes": 2478,
+    "sha256": "a8349fabb66f8e3b819a4842ec5d57b8f944c80a0636514ce67b33725e41bb86"
+  },
+  {
+    "path": "liber-primus/pyproject.toml",
+    "exists": true,
+    "bytes": 1248,
+    "sha256": "3d1831f545214328bab73cd7916111c4b791775ade920fe3727ef20e81d5b8b1"
+  },
+  {
+    "path": "liber-primus/src/lp/autokey.py",
+    "exists": true,
+    "bytes": 2462,
+    "sha256": "d2fe81256c1ea2a09c0ac2c2e71ce6a87e49cfe953f3ee3e3b5d6cebf6d90125"
+  },
+  {
+    "path": "liber-primus/src/lp/ciphers.py",
+    "exists": true,
+    "bytes": 4785,
+    "sha256": "3367d9b13a371e88ff86e060c85d9cc5cdb211b0de6a4ff6f4b8b9577204e70f"
+  },
+  {
+    "path": "liber-primus/src/lp/corpus.py",
+    "exists": true,
+    "bytes": 3779,
+    "sha256": "d4d2ec496a8ffc9241d70c9583bf8c95b457de2b7cee3609b3c2a4e693fb9d68"
+  },
+  {
+    "path": "liber-primus/src/lp/gematria.py",
+    "exists": true,
+    "bytes": 4283,
+    "sha256": "7b4f5c30137741ab3c33638fb91076c4b1f228229dc3634ba2e6ef232cd47f04"
+  },
+  {
+    "path": "liber-primus/src/lp/score.py",
+    "exists": true,
+    "bytes": 2229,
+    "sha256": "65fc04f0fbdec9cda7ec10ee3f01ce00fee7b581a237bdce747a731967c7f790"
+  },
+  {
+    "path": "liber-primus/src/lp/solve.py",
+    "exists": true,
+    "bytes": 3227,
+    "sha256": "57ec84f46c2b6b98831c11dda00642078239aac5ffce2fca5e11e12dde8e22c3"
+  },
+  {
+    "path": "liber-primus/src/lp/stats.py",
+    "exists": true,
+    "bytes": 2842,
+    "sha256": "cdf88ad7d06126c01ff8f4aec1aa374bfdbdd2bbd52c7a38103509077cafb7c2"
+  },
+  {
+    "path": "liber-primus/tests/validate.py",
+    "exists": true,
+    "bytes": 3607,
+    "sha256": "14d474baa289fcdec49c8bd479b59e69aa880ee9f3e4c918dd1c6033875988c6"
+  },
+  {
+    "path": "liber-primus/verify_solution.py",
+    "exists": true,
+    "bytes": 18896,
+    "sha256": "c4e3a11f917177d53faaced629e41a76d15e67c6e4bc1b9b27eccc6e3e3a2891"
+  }
+]

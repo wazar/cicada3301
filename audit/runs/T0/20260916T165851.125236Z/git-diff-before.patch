@@ -1,0 +1,13 @@
+diff --git a/.gitignore b/.gitignore
+index dec056d..dc4ac12 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -334,3 +334,8 @@ liber-primus/analysis/round26/B/sweep.jsonl
+ liber-primus/analysis/round26/B/sweep_partial_off8.jsonl
+ liber-primus/analysis/round26/B/sweep.log
+ liber-primus/analysis/round26/C/rows.jsonl
++
++# Local macOS development environment and editable-install metadata
++/.venv/
++/.local/
++/liber-primus/src/*.egg-info/

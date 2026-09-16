@@ -1,0 +1,165 @@
+{
+  "recorded_at_utc": "2026-09-16T16:58:51.360964+00:00",
+  "code_baseline": "396001a9ce55e0e85ddef19e405afc6a13954588",
+  "working_commit": "396001a9ce55e0e85ddef19e405afc6a13954588",
+  "cwd": "<REPO_ROOT>",
+  "python_executable": "<REPO_ROOT>/.venv/bin/python",
+  "python_version": "3.12.14 (main, Aug 12 2026, 13:57:54) [Clang 21.0.0 (clang-2100.3.34.2)]",
+  "python_prefix": "<REPO_ROOT>/.venv",
+  "python_base_prefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+  "platform": "macOS-27.0-arm64-arm-64bit",
+  "mac_version": [
+    "27.0",
+    [
+      "",
+      "",
+      ""
+    ],
+    "arm64"
+  ],
+  "architecture": "arm64",
+  "packages": [
+    {
+      "name": "certifi",
+      "version": "2026.7.22"
+    },
+    {
+      "name": "cffi",
+      "version": "2.1.1"
+    },
+    {
+      "name": "charset-normalizer",
+      "version": "3.5.1"
+    },
+    {
+      "name": "cloudpickle",
+      "version": "3.1.2"
+    },
+    {
+      "name": "cryptography",
+      "version": "50.0.1"
+    },
+    {
+      "name": "fonttools",
+      "version": "4.65.0"
+    },
+    {
+      "name": "gostcrypto",
+      "version": "1.2.5"
+    },
+    {
+      "name": "idna",
+      "version": "3.19"
+    },
+    {
+      "name": "iniconfig",
+      "version": "2.3.0"
+    },
+    {
+      "name": "joblib",
+      "version": "1.6.0"
+    },
+    {
+      "name": "liber-primus-rig",
+      "version": "0.1.0"
+    },
+    {
+      "name": "liber-primus-rig",
+      "version": "0.1.0"
+    },
+    {
+      "name": "libtorrent",
+      "version": "2.1.1"
+    },
+    {
+      "name": "narwhals",
+      "version": "2.26.0"
+    },
+    {
+      "name": "numpy",
+      "version": "2.5.3"
+    },
+    {
+      "name": "packaging",
+      "version": "26.3"
+    },
+    {
+      "name": "pillow",
+      "version": "12.3.0"
+    },
+    {
+      "name": "pip",
+      "version": "26.2.1"
+    },
+    {
+      "name": "pluggy",
+      "version": "1.6.0"
+    },
+    {
+      "name": "pycparser",
+      "version": "3.0"
+    },
+    {
+      "name": "Pygments",
+      "version": "2.21.0"
+    },
+    {
+      "name": "pytest",
+      "version": "9.1.1"
+    },
+    {
+      "name": "requests",
+      "version": "2.34.2"
+    },
+    {
+      "name": "scikit-learn",
+      "version": "1.9.1"
+    },
+    {
+      "name": "scipy",
+      "version": "1.18.1"
+    },
+    {
+      "name": "threadpoolctl",
+      "version": "3.7.0"
+    },
+    {
+      "name": "urllib3",
+      "version": "2.8.0"
+    }
+  ],
+  "environment_overrides": {
+    "PYTHONUTF8": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTEST_DISABLE_PLUGIN_AUTOLOAD": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1",
+    "PYTEST_ADDOPTS": "-p no:cacheprovider"
+  },
+  "removed_environment_keys": [
+    "PYTHONPATH",
+    "PYTHONHOME",
+    "PYTEST_PLUGINS"
+  ],
+  "limits": {
+    "wall_seconds_per_command": 300,
+    "concurrent_commands": 1,
+    "worker_processes_per_command": 1,
+    "numeric_library_threads": 1,
+    "note": "Inspected T0 paths are serial stdlib Python; no CPU affinity or memory limit imposed."
+  },
+  "plan_source": "https://raw.githubusercontent.com/wazar/cicada3301/master/AUDIT-PLAN.md",
+  "plan_snapshot": {
+    "path": "audit/reference/AUDIT-PLAN.md",
+    "exists": true,
+    "bytes": 24539,
+    "sha256": "93774557ae096a5917bc5aa4450879bf2bd508713fb150c4e21437ba8b703bf8"
+  },
+  "setup_note": "Existing isolated .venv reused after MACOS-SETUP.md handoff; no packages installed by T0.",
+  "run_directory": "audit/runs/T0/20260916T165851.125236Z"
+}
