@@ -1,4 +1,4 @@
-# Audit claim index after PARALLEL-01
+# Audit claim index after NEXT-01
 
 Claims and original source excerpts are retained. Status applies only to the scoped evidence in the JSONL record; it never implies archive-wide or image-wide validation. T1 states remain in audit_history. In particular, C-025/C-027 counterexamples refute claimed implications, not prove the actual cipher uses short keys or resets.
 
@@ -51,3 +51,5 @@ Claims and original source excerpts are retained. Status applies only to the sco
 | C-045 | interpretation | SOURCE_CHECKED | Image byte authenticity and render provenance are used alongside a broad no-steganography claim. |
 | C-046 | search_bound | SOURCE_CHECKED | PROBLEM.json lists number-theoretic keystreams and the whole number channel as eliminated while later semantic-seed compositions remain finite searches. |
 | C-047 | interpretation | SOURCE_CHECKED | The dossier declares fractionation excluded because it cannot produce flat IoC or the doublet deficit. |
+
+NEXT-01 adds scoped evidence to C-002/003/008/009/010/013/015 without changing inherited claim text or broad statuses. The new four-recipe control gate failed; no real puzzle result exists. See [NEXT-01](reports/NEXT-01.md).

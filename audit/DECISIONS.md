@@ -21,3 +21,18 @@ solved-clue key recipes, with frozen signs, decoders, pages and offsets. It is a
 bounded recheck, not claimed novelty. Its structured-key and whole-candidate-set
 controls still have to pass before examining unsolved output. See the
 [full proposal](parallel-01/coordination/PROPOSED-EXPERIMENT.md). **Not executed.**
+
+## NEXT-01 decisions
+
+- **Stop recipe experiment before real input.** The required positive gate failed.
+  Do not turn correct key ranking into an exact-recovery pass or silently drop the
+  failing cell. No recipe is rejected on the unsolved puzzle.
+- **Retain corrected alphanumeric input as a separate representation.** Existing
+  prior work is acknowledged; source/image uncertainty and historical transform
+  bounds remain attached. No new sweep follows from excluding it from a rune parser.
+- **Retain literal-F as a distinct candidate model for later controls.** Complete
+  arithmetic and path compatibility are supported; automatic ranking/unique path
+  identification and real-input false-flag calibration are not established.
+- **Next: one bounded synthetic terminal-path diagnostic.** Address the observed
+  gate failure before changing a gate or proposing another recipe execution.
+  Neither this recommendation nor the two worker-specific future options are run.

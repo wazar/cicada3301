@@ -1,4 +1,4 @@
-# Audit findings after PARALLEL-01
+# Audit findings after NEXT-01
 
 These are audit findings, not edits to inherited research conclusions. Evidence
 and limits are in the linked reports; original claim/source text is retained.
@@ -88,3 +88,32 @@ B's audit helper issues were corrected and final comparisons rerun; acquisition
 404s remain logged. Publication redacts private path prefixes only, with before/
 after hashes, and changes future B fetch metadata to relative paths.
 [Fresh review](parallel-01/review/REPORT.md).
+
+## F-011 — Four-recipe exact-recovery gate fails before puzzle execution
+
+NEXT-01, C-010/013/015. Frozen structured-key controls stop at ordinal66:
+DIVINITY/+1/legacy rejection beam recovers119/120 runes on one page although the
+planted hypothesis ranks first. The wrong last rune scores slightly above truth.
+Required rejection depth is within the decoder cap; no stronger pruning cause is
+established.66 positives pass,1 fails,253 remain skipped. All calibration and real
+choices are skipped. Fresh review reproduces the failure. This is not a code
+exception, failed puzzle recipe, or literal-F test. [Evidence](experiment-01/REPORT.md).
+
+## F-012 — Alphanumeric reconciliation agrees with earlier corrected work
+
+NEXT-01, C-002/003.32 rows and256 pairs preserve case, zeroes, coordinates and page
+cuts. Targeted visual checks support the existing corrected payload, including
+lowercase l at index45. New inspection rectangles resolve inherited segmentation
+mistakes without changing old text/data. Historical base60 compatibility is not
+proof of encoding. Specific prior campaigns and20,160 retained corrected-input
+candidate rows are documented, with detector and input limits. Shared reading
+errors remain possible. [Evidence](alphanumeric-01/REPORT.md).
+
+## F-013 — Literal-F arithmetic works; automatic path identification is separate
+
+NEXT-01, C-008/009.515/319/85-rune keyed groups reproduce exactly with504/317/84
+key values consumed.14 genuine Fs are preserved. Independent reviewer confirms
+all transitions. Tiny and larger unknown-F controls expose compatible alternatives,
+pruning and scorer preference: all908 paths re-encrypt, but truth need not rank
+first. These controls support a separately named model; no real-input calibration
+or production fix follows. [Evidence](f-interruption-01/REPORT.md).

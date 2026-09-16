@@ -1,4 +1,4 @@
-# Claim dependencies after PARALLEL-01
+# Claim dependencies after NEXT-01
 
 Original claim text, source excerpts and dependency IDs remain in `CLAIMS.jsonl`.
 Reviewed updates are separate under `tested_scope.PARALLEL-01`; previous T1 states
@@ -40,3 +40,16 @@ behind inherited keyword passes;86 repeats are real in the defined transcription
 flat IoC and zero page-join repeats do not prove key length or continuity. Remaining
 questions include nine missing historical evidence files, corpus-floor studies,
 R26 coverage arithmetic, complete source ancestry and broader campaign exclusions.
+
+## NEXT-01 update
+
+Actual structured-key controls have now been attempted. Their exact-recovery gate
+failed before calibration or real decoding, so the proposed recipe experiment
+remains blocked. The preceding paragraph's unsatisfied prerequisites are now a
+measured blocker, not merely unattempted work. See [NEXT-01](reports/NEXT-01.md).
+
+The p49–51 alphanumeric version is a separate input; its byte interpretation remains
+a hypothesis and must not alter the rune-only hash. Literal-F non-consumption has
+complete reference controls and bounded unknown-path tests, but needs its own
+selection calibration. Neither the legacy gate failure nor its positive successes
+transfer to that distinct model. Shared claim updates retain all original excerpts.
