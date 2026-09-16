@@ -1,0 +1,76 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-i/column_test.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "f38c050f905397e0d7115014c81e1aa88f84abde",
+  "started_utc": "2026-09-16T21:00:07.912563+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/parallel-01/inputs/dataset.json",
+      "exists": true,
+      "bytes": 1378156,
+      "sha256": "e3d8a8b7a81f00e17d54209772eee7bedb5b922e6176ca722be31f952eaea895"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-i/PREREG.md",
+      "exists": true,
+      "bytes": 7365,
+      "sha256": "e2db1476db8b0353a6a008d0e63066ff70489e3e324fc8b3ef22407aa584a318"
+    },
+    {
+      "path": "exploration/persistent-01/worker-i/column_test.py",
+      "exists": true,
+      "bytes": 5869,
+      "sha256": "a2cf5a7aeaa60c0d08905f16fd3a0f53a504170fc2af4c729c8aff3bd3160344"
+    },
+    {
+      "path": "exploration/persistent-01/worker-i/coordinates.json",
+      "exists": true,
+      "bytes": 88980,
+      "sha256": "479383bc5bde94b62215e5c41eb940833a034008e5d604efd12cc84c5fdb50ea"
+    },
+    {
+      "path": "exploration/persistent-01/worker-i/glyph_test.py",
+      "exists": true,
+      "bytes": 5848,
+      "sha256": "a17b5981eca73d43c935b4b145e6956c367e4f34f17edf2b4c0f8d4661b84144"
+    },
+    {
+      "path": "exploration/persistent-01/worker-i/width-arrays.npz",
+      "exists": true,
+      "bytes": 4933238,
+      "sha256": "e7444c3c6016455ed44088f14b8a9fa1fa27641e817abe2e14bbcb342d71cd7a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-i/width_test.py",
+      "exists": true,
+      "bytes": 3561,
+      "sha256": "84ce05298a181d8caf6d0b4ea1dca34c03fb68e73d71dbc1c97417c375618da3"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 46796,
+  "finished_utc": "2026-09-16T21:00:08.287032+00:00",
+  "duration_seconds": 0.37424962500153924
+}

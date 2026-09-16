@@ -1,0 +1,2 @@
+# J01 quotient verification
+Before execution: independent value-to-position dictionary implementation, alphabets sizes3/4, enumerate all ciphertext strings length5 and all initial permutations; compare suffix outputs with canonical post-first-emission representative. Require existence of one bijective source-label mapping fixing anchor0, for every pair. This tests the claimed arbitrary-initial-key quotient rather than expanding the real search. No additional real inputs, no new detection statistic. Exact counts retained.

@@ -1,0 +1,7 @@
+raw_rows_verified 1
+raw_rows_verified 2049
+raw_rows_verified 4097
+raw_rows_verified 6145
+raw_rows_verified 8193
+raw_rows_verified 10241
+{"status": "PASS", "rows": 11520, "beams": 46080, "paths": {"real": {"english": 171520, "rune": 171520}, "null": {"english": 171520, "rune": 171520}}, "actual_paths": 686080, "selected_cells": 223, "selected_reencrypted_paths": 12128, "control_reencrypted_paths": 12288, "controls": {"0_welcome-english": {"cells": 256, "paths": 4096, "rank": 1, "errors": 0}, "0_welcome-rune": {"cells": 256, "paths": 4096, "rank": 1, "errors": 0}, "p56_an_end-english": {"cells": 256, "paths": 2048, "rank": 1, "errors": 0}, "p56_an_end-rune": {"cells": 256, "paths": 2048, "rank": 1, "errors": 0}}, "metrics": {"english": {"real_max": -6.590867818603594, "null_max": -6.612181821410794, "wins": 21, "median": -0.008301040743361021}, "rune": {"real_max": -4.231952657639068, "null_max": -4.27913838402899, "wins": 27, "median": 0.0082973577538894}}, "raw_bytes": 187082357, "phi_verified_values": 15000, "gcd_verified_values": 128, "null_pages_verified": 45, "aliases": 0, "alias_definition": "Identical signed mod29 candidate-key prefix of full ciphertext length within same page. Does not count identical shorter prefixes or duplicate plaintext paths as separate construction equivalence tests.", "scope": "All compact/raw rows; independent selected/full-control replay, not full raw-path replay or rerun search; no independent language training evidence."}

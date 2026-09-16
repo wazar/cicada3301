@@ -1,20 +1,20 @@
 # PERSISTENT-01 — active direct research
 
-Strategy **outside-box-v1**, received from safe fast-forward ef2e807 and acknowledged in active workers. Reviewed checkpoint2 f38c050f905397e0d7115014c81e1aa88f84abde is on origin/master; checkpoint3 covers completed A/G/H evidence and fresh review03.
+Strategy **outside-box-v1**, received from safe fast-forward ef2e807 and acknowledged in active workers. Reviewed checkpoint3 e306d1c3c90703873ea727812c3c4055dafab99b is on origin/master, covering completed A/G/H evidence and fresh review03.
 
 Start16 September2026,21:30:37 SAST. Fixed deadline **17 September2026,05:30:37 SAST /03:30:37UTC**. No extension. Honor exploration/persistent-01/STOP. Native goal active. One interactive coordinator; no external controller, no competing supervisor. All research processes stay with logged bounded worker sessions. Git writes only by coordinator; unrelated macOS setup remains untouched.
 
 ## Current actual assignments
 
-Rotation at 2026-09-16 21:05 UTC, same fixed deadline and sole coordinator:
+Allocation recorded at 2026-09-16T21:38:57.339745+00:00, same fixed deadline and sole coordinator:
 
-- I: completed actual-image geometric-state and pixel-column tests on0/1. Geometry controls recovered injected changes; measured column rule had only18% control power. Now ONE existing-method lane: establish and test the P11 literal-F totient coverage gap with frozen offsets0..127/signs, actual search controls and matched null.
-- H: completed page unit-length binary/quinary and prime-unit ordering tests without a candidate. Tests cyclic-unit closure as a second structural prediction, then a bounded nonadditive multiplicative-feedback operation if justified by narrow prior coverage.
-- J: completed swap-to-anchor substitution test (no prediction), then exact disjoint-homophone capacity bounds under explicitly named source registers. Current follow-up changes source units to canonical Latin expansion; a five-pair single-page obstruction already fails after one source substitution, so no broad language exclusion.
+- M: one existing-method lane M22, checking the unresolved unknown-short-period literal-F fitting gap before a bounded searched-key control and real/null comparison. Historical-source M21 is finished and fresh review06 independently passed its scoped correction.
+- N: alternative N03, testing cross-page copied passages under unknown fixed relabelling with canonical equality windows and complete-procedure null. This challenges independent-page treatment, uses no language scorer, and assumes no additive key.
+- O (agent persistent_review6 reassigned after completed review): alternative variable-length plaintext token or delimiter-grammar construction. A short prior-overlap check precedes a frozen real-input test; no generic grammar platform.
 
-A completed the event-clock and source13-reset pilots without useful real continuation, then proved three control truths mathematically unrepresentable under the inherited accepted-output clock. That is a decoder-coverage finding, not evidence the puzzle uses event-clock feedback. G completed visual field and direct sequence tests; H completed source-signature and schedule/grammar tests. Their reports await a focused later publication; review03 independently checked G's physical signs and recurrence arithmetic. No worker process from those completed batches remains.
+I completed P11: 11,520 real plus matched-null cells under two independent search selectors, without credible plaintext. Fresh review05 verifies accounting, arithmetic and scalar scores. J capacity bounds have fresh review04. H projective block and multiplicative families have coordinator independent algebra replay. K opaque periodic substitutions, L balanced bags/unit alphabets, M20 page-phase block model, and N opaque pair substitution completed; their separate evidence remains queued for focused publication. No worker from these completed runs remains a research owner unless explicitly reassigned above.
 
-New workers receive strategy directly; ACK hashes and actual executed cards verify delivery. No approach is assumed best. Two current lanes change representation or operation and avoid legacy language scoring. I returns to one justified existing-method extension; it is not counted as alternative novelty.
+New workers receive strategy directly. Initial A/C/E ACK hashes and actual executed alternative cards establish strategy delivery; later assignments preserve outside-box-v1. The two current alternatives avoid the legacy English scorer and additive candidate-keystream model. M22 is explicitly existing-method work, not alternative novelty.
 
 ## Findings carried forward
 
@@ -36,4 +36,4 @@ Frozen config/dataset hashes unchanged. Discovery excludes originals4,9,14,19,24
 
 Raw commands/output/exits/source snapshots and alternatives retained perworker. Reports are claims with explicit bounds. Freshreviews01/02 cover selectedmethod/output evidence, not independenttranscription or everyhistoricalclaim. Large outputs have losslessgzip manifests; originalbytes remainlocal. Localcheckout prefixes alone normalized in completedtracebacks, originals privatelyretained withhashes.
 
-Next two executable actions: I totient-F searched-control/cost pilot and J Latin-source homophone-capacity sensitivity. H executes cyclic closure and a separately specified operation test in parallel. Publish CHECKPOINT-03 with reviewed completed A/G/H evidence, then continue research. A negative, completedqueue, report or push does not end this mission.
+Next two executable actions: M22 identify an actual unknown-key recovery gap and run its bounded controls; N03 run the frozen cross-page equality-pattern real/null comparison. O executes a distinct token/grammar explanation after targeted overlap checks. CHECKPOINT-04 publishes reviewed completed I/J/H evidence while these searches continue. A negative, completed queue, report or push does not end the mission.

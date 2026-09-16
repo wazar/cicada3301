@@ -33,5 +33,68 @@
     "original_sha256": "4d5b84894ed515749b3a1c867e4b1f85fc77cce2963c081383d4144f6d7ada69",
     "published_sha256": "85b8828015efe5bfa5ac5ed1736a401a2a831bbbee3592b620964665953d1883",
     "change": "Only local checkout prefix normalized in a new public archive; original source and earlier immutable archive retained."
+  },
+  {
+    "path": "exploration/persistent-01/worker-h/publication-cycle2/runs/20260916T210421.301187Z-h17-multiplicative-feedback/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-h/runs/20260916T210421.301187Z-h17-multiplicative-feedback/stderr.txt",
+    "original_sha256": "cdb0674f25698d8a5e9b827ab88e7d932c58d5cc1e48a26129bcb6eb69c6c7fc",
+    "published_sha256": "d5d39ea7156fade215b7623dbd41f9ec2e1a81c8c16b92c969827943fa206620",
+    "change": "New public archive only; normalize local checkout prefix, retain raw original and immutable archive."
+  },
+  {
+    "path": "exploration/persistent-01/worker-i/runs/20260916T205502.730199Z-i02-isolated-crop-controls/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-i/runs/20260916T205502.730199Z-i02-isolated-crop-controls/stderr.txt",
+    "original_sha256": "a10ff9a9907a4cff0523082ec2a5f5193d38f7b2e9b3ab2b1de207c9ac6e3191",
+    "published_sha256": "bb2c8e44ebedcd254a10b31bf1fb65e0e33012c9ab580e9d5618b3d543439740",
+    "change": "Only local checkout prefix normalized; raw original retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-i/runs/20260916T205952.026881Z-i05-pixel-column-adjacency/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-i/runs/20260916T205952.026881Z-i05-pixel-column-adjacency/stderr.txt",
+    "original_sha256": "2199d29f492e9d644aacf2fabc7e9cca34d11d00d3d9a9c8104f83dc9090bdc7",
+    "published_sha256": "ddb35024f005aecb3688cd1ceea6562c18a316c452d209c0ff6c38be0bb07dd6",
+    "change": "Only local checkout prefix normalized; raw original retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-i/runs/20260916T205406.359921Z-i01-glyph-height-baseline/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-i/runs/20260916T205406.359921Z-i01-glyph-height-baseline/stderr.txt",
+    "original_sha256": "a10ff9a9907a4cff0523082ec2a5f5193d38f7b2e9b3ab2b1de207c9ac6e3191",
+    "published_sha256": "bb2c8e44ebedcd254a10b31bf1fb65e0e33012c9ab580e9d5618b3d543439740",
+    "change": "Only local checkout prefix normalized; raw original retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-i/runs/20260916T210731.242361Z-p11-first-tranche-summary/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-i/runs/20260916T210731.242361Z-p11-first-tranche-summary/stderr.txt",
+    "original_sha256": "280550e4f33db00b8e70c3b3f2c36ead2dc49ba72d27c9501a21db3aaffb7197",
+    "published_sha256": "3212a201f386c2887d839117e6211b3f94456f733d9458f84c4def991be7a72d",
+    "change": "Only local checkout prefix normalized; raw original retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-i/runs/20260916T205648.666373Z-i04-preserve-raw-controls/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-i/runs/20260916T205648.666373Z-i04-preserve-raw-controls/stderr.txt",
+    "original_sha256": "a10ff9a9907a4cff0523082ec2a5f5193d38f7b2e9b3ab2b1de207c9ac6e3191",
+    "published_sha256": "bb2c8e44ebedcd254a10b31bf1fb65e0e33012c9ab580e9d5618b3d543439740",
+    "change": "Only local checkout prefix normalized; raw original retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/review-05/runs/20260916T212539.495044Z-scalar-frozen-rescore/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/review-05/runs/20260916T212539.495044Z-scalar-frozen-rescore/stderr.txt",
+    "original_sha256": "e7b00aa4e40b75a99b7e725317fa24649037765da36896221207fb237c3e0a6b",
+    "published_sha256": "c43b75cae57e9b0411e744ed22d602658ea34a20e9b64ebbd069e0859611c70f",
+    "change": "Only local checkout prefix normalized; raw original retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-i/p11/leaders.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-i/p11/leaders.json",
+    "original_sha256": "b928e92641f058963ba8a5631c9ea3938d4382af233d387acbeef0087fb721f1",
+    "published_sha256": "09fc85fdc4cdee8f0865d501664a3830a8a1ef3b14053f2cca1535b58b32a81c",
+    "change": "Normalize only absolute source shard paths to repository-relative paths; raw original retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-i/p11/publication/leaders.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-i/p11/publication/leaders.json",
+    "original_sha256": "b928e92641f058963ba8a5631c9ea3938d4382af233d387acbeef0087fb721f1",
+    "published_sha256": "09fc85fdc4cdee8f0865d501664a3830a8a1ef3b14053f2cca1535b58b32a81c",
+    "change": "Normalize only absolute source shard paths to repository-relative paths; raw original retained privately."
   }
 ]

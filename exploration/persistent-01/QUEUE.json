@@ -171,14 +171,15 @@
   },
   {
     "id": "P11",
-    "status": "assigned",
+    "status": "completed_cycle",
     "title": "Integer totient literal-F gap under two adjudicators",
     "owner": "persistent_i",
     "input": "Discovery pages; phi(1),phi(2),...; explicit solved SOME WISDOM says totient function is sacred",
     "first_step": "Reuse pinned integer-totient array from R03; freeze offsets0..127/signs and remove any prior F cells; planted search recovery then real sweep with English and frozen rune model",
     "expected_cost": "Pilot then <=900-second batches",
     "decision": "Does literal-F handling expose a source-justified numeric key missed by rigid R03? Limits: English and small solved-rune register only.",
-    "reason": "Image family checkpointed. Return one lane to a documented arithmetic coverage gap while two alternative-operation lanes continue."
+    "reason": "Image family checkpointed. Return one lane to a documented arithmetic coverage gap while two alternative-operation lanes continue.",
+    "result": "11,520 real plus matched-null cells, two selectors; 686,080 retained paths. Four controls rank1/exact. Review05 supports bounded miss; no significance from one null."
   },
   {
     "id": "P02c",
@@ -283,25 +284,27 @@
   },
   {
     "id": "OB-PAIR",
-    "status": "ready",
+    "status": "completed_cycle",
     "owner": "alternative-lane",
     "title": "Paired or fractionated units",
     "input": "Discovery rune sequences; source-defined line starts",
     "first_step": "Freeze two pairing phases per page, fit small pair-factor/conditional-dependence models on alternating lines, predict other lines; whole-procedure shuffled controls",
     "expected_cost": "Cheap measured pilot; <=900s logged batch",
     "decision": "Can paired units predict continuation structure without language ranking or an additive pad?",
-    "strategy": "outside-box-v1"
+    "strategy": "outside-box-v1",
+    "result": "N01/N02 stable opaque pair alphabet completed: gain -229.37 nats, tail .8925. Exact-length controls12/12, repeat-modified11/12."
   },
   {
     "id": "OB-PERMUTE",
-    "status": "ready",
+    "status": "completed_cycle",
     "owner": "alternative-lane",
     "title": "Transposition-only source distribution bound",
     "input": "Discovery page rune histograms and complete solved reference groups",
     "first_step": "Measure permutation-invariant unigram collision/entropy with page-length-matched solved controls; permit fixed substitution via sorted counts; report sensitivity versus uniform and repeated-rune-suppressed nulls",
     "expected_cost": "Cheap measured pilot; <=900s logged batch",
     "decision": "Is a pure rearrangement or fixed relabelling of the observed solved-register distribution plausible at measured power? Not a universal language exclusion.",
-    "strategy": "outside-box-v1"
+    "strategy": "outside-box-v1",
+    "result": "J02/J03 exact collision-capacity relaxation completed and independently reviewed; representation/window-model limits retained."
   },
   {
     "id": "OB-LAYOUT",
@@ -413,22 +416,76 @@
   },
   {
     "id": "H14",
-    "status": "assigned",
+    "status": "completed",
     "owner": "persistent_h",
     "title": "Closed-cycle unit construction",
     "input": "F06 units >=3runes",
     "first_step": "Compare last-first closure equality with wholepage cyclic schedule null and open/closed construction controls",
     "expected_cost": "<=900s",
-    "decision": "Does suppressed closure provide a second prediction beyond linearrepeatdeficit?"
+    "decision": "Does suppressed closure provide a second prediction beyond linearrepeatdeficit?",
+    "result": "74/1903closures, circularnulltail.85;4cyclecontrolsdetected,opencontrolsnotflagged."
   },
   {
     "id": "J03",
-    "status": "assigned",
+    "status": "completed_reviewed",
     "owner": "persistent_j",
     "title": "Latin-source homophone capacity sensitivity",
     "input": "Frozen solved sources, canonical Gematria Latin expansion",
     "first_step": "Map Latin characters to source rune indices; rerun exact29slot integer capacity bound, named-source model controls",
     "expected_cost": "<=900s",
-    "decision": "Is rune-register capacity obstruction an artifact of source units?"
+    "decision": "Is rune-register capacity obstruction an artifact of source units?",
+    "result": "Exactaggregate.0518769vsconjunction.0000833908; freshreview04verifiedallwindows/maps/bounds. Notcipherprobabilities; sourceexpansionchangeswindowsandweights."
+  },
+  {
+    "id": "H19",
+    "status": "completed_cycle",
+    "owner": "persistent_h",
+    "title": "Complete projective3x3 block-coordinate signature",
+    "input": "Discovery0/1/2/3/5,3phases,871projectiveGF29directions",
+    "first_step": "Fit/select independentdirectionbasis onprefix, predictfrozen suffix, calibratewholeprocedure null and sourcecontrols",
+    "expected_cost": "Costpilot then<=900s batches",
+    "decision": "Can exhaustivecoordinate recovery detect nonuniformsource in3-rune linearblock mixing withoutEnglishranking?",
+    "result": "871 projective directions/3 phases, common matrix and pooled source model; tail .735. Coordinator independent algebra/output replay passed."
+  },
+  {
+    "id": "K01",
+    "status": "completed_cycle",
+    "owner": "persistent_k",
+    "title": "Opaque periodic substitution prediction",
+    "input": "Discovery0/1/3/7/17, periods1..8",
+    "first_step": "Trainfirsthalf,selectperiodnextquarter,testfinalquarter againstperiod1; wholeprocedurenull and nonadditivepermutationcontrols",
+    "expected_cost": "Costpilot then<=900s",
+    "decision": "Does genericphase-dependent alphabet predictunusedfrequencies independently ofadditivekeymodel?",
+    "result": "K01..K04 completed, no useful frozen continuation. Independent vs pooled alphabet and construction limits retained."
+  },
+  {
+    "id": "M22",
+    "title": "Unknown short-period literal-F recovery gap",
+    "owner": "persistent_m",
+    "status": "assigned",
+    "first_step": "Inspect R04/P14 actual unresolved recovery bottleneck; freeze short exact comparison and searched-key controls before real pilot",
+    "decision": "Distinguish path/search/ranking defects and fill only a demonstrated gap",
+    "expected_cost": "Pilot and logged single-thread batches <=900s",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "N03",
+    "title": "Cross-page substitution-invariant copied spans",
+    "owner": "persistent_n",
+    "status": "assigned",
+    "first_step": "Canonical windows12..64 across six adjacent discovery pairs; complete-procedure399 Markov null and relabelled-copy controls",
+    "decision": "Does a page relation survive maximum-over-offsets calibration?",
+    "expected_cost": "Pilot and logged single-thread batches <=900s",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "O01",
+    "title": "Variable-length tokens or delimiter grammar",
+    "owner": "persistent_review6",
+    "status": "assigned",
+    "first_step": "Targeted overlap check J03/F09/H06/07 then frozen inverse-construction/held structural test",
+    "decision": "Does a different unit interpretation yield a second observable prediction?",
+    "expected_cost": "Pilot and logged single-thread batches <=900s",
+    "strategy": "outside-box-v1"
   }
 ]

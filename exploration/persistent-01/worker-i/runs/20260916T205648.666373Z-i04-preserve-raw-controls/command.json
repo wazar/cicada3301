@@ -1,0 +1,64 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-i/glyph_test.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "f38c050f905397e0d7115014c81e1aa88f84abde",
+  "started_utc": "2026-09-16T20:56:48.676561+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-i/PREREG.md",
+      "exists": true,
+      "bytes": 5119,
+      "sha256": "81498ebdfe9074928dde3e96d10544d282ca4da718cb92c843755e8e34629aa0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-i/glyph_test.py",
+      "exists": true,
+      "bytes": 5848,
+      "sha256": "a17b5981eca73d43c935b4b145e6956c367e4f34f17edf2b4c0f8d4661b84144"
+    },
+    {
+      "path": "exploration/persistent-01/worker-i/width_test.py",
+      "exists": true,
+      "bytes": 3561,
+      "sha256": "84ce05298a181d8caf6d0b4ea1dca34c03fb68e73d71dbc1c97417c375618da3"
+    },
+    {
+      "path": "liber-primus/data/relikd/p0.jpg",
+      "exists": true,
+      "bytes": 695525,
+      "sha256": "197e1e153958b9a2736b09c10eea7d8bb00e0632fd22a8d9606840becc79942e"
+    },
+    {
+      "path": "liber-primus/data/relikd/p1.jpg",
+      "exists": true,
+      "bytes": 667228,
+      "sha256": "f804fae06a68315eb6206158a2b34f55fe157c7d663fa961639fbe8dfc52a39f"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 46576,
+  "finished_utc": "2026-09-16T20:56:56.981323+00:00",
+  "duration_seconds": 8.304484790998686
+}

@@ -1,0 +1,33 @@
+{
+  "strategy": "outside-box-v1",
+  "phi_hash": "5c0500307edda997fbb8a553aede8b720396b2f1f76127ee7b7fbbb5e08328ea",
+  "integer_definition": "phi(n+1)",
+  "dataset_hash": "e3d8a8b7a81f00e17d54209772eee7bedb5b922e6176ca722be31f952eaea895",
+  "frozen_lm_sources": [
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_warning.txt",
+      "sha256": "c6ca9c1952307bd55866e22b9f868163bca493893162baefdba71cb9e1a206d9"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_wisdom.txt",
+      "sha256": "4363dc279d01ac8866011988d0422a31bf608940abccaa37368c689099f52efe"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_koan_1.txt",
+      "sha256": "5aaae7ee19dfb46a41d5e10f975b5a252b82b6e18b49116a9f99b31a2fbee06c"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_loss_of_divinity.txt",
+      "sha256": "10954c8d61744ceb453e9b553e52cd3e01289d12b727c521e21bc0594f0e0c91"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_jpg229.txt",
+      "sha256": "67635c556f84b1fe8319f0300d4378d8f1dc664d779c1f0f69c4cb272c87c181"
+    }
+  ],
+  "scorers": {
+    "english": "checked fbeam width256 normalized Latin quadgrams",
+    "rune": "frozen C width64 rune-boundary LM; same solved register, not non-English"
+  },
+  "queue_sha256": "8557897fe2c80f4b7a783efc338f88ea82e434c9a8bf7b7f167de262f9f017e2"
+}

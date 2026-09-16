@@ -1,0 +1,4 @@
+  File "<REPO_ROOT>/exploration/persistent-01/worker-i/summarize_p11.py", line 21
+    (D/'summary.json').write_text(json.dumps(summary,indent=2));(D/'leaders.json').write_text(json.dumps(retained,indent=2));print(json.dumps({'cells':len(rows),'maxima':{m:{k:v[k]['maximum'] for k in ['real','null']} for m,v in models.items()}))
+                                                                                                                                                                                                                                                    ^
+SyntaxError: closing parenthesis ')' does not match opening parenthesis '{'

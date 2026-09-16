@@ -1,0 +1,91 @@
+{
+  "n": 502,
+  "page_counts": {
+    "0": 242,
+    "1": 260
+  },
+  "models": {
+    "height": {
+      "centers": [
+        113.63483146067416,
+        115.0
+      ],
+      "separation": 1.3651685393258362,
+      "minority_fraction": 0.3153846153846154,
+      "heldout_mse_single": 0.47204374297031615,
+      "heldout_mse_binary": 0.14694996875133534,
+      "improvement": 0.6886941709540336,
+      "geometric_gate": false
+    },
+    "baseline": {
+      "centers": [
+        -1.0384615384615385,
+        0.0
+      ],
+      "separation": 1.0384615384615385,
+      "minority_fraction": 0.09999999999999998,
+      "heldout_mse_single": 0.05007200841116925,
+      "heldout_mse_binary": 7.335322020636738e-05,
+      "improvement": 0.9985350453769695,
+      "geometric_gate": false
+    }
+  },
+  "perturbations": [
+    {
+      "threshold": 96,
+      "blur": 0,
+      "height_delta_max": 3.0,
+      "baseline_delta_max": 2.0,
+      "height_agreement": 0.900398406374502,
+      "baseline_agreement": 0.9422310756972112
+    },
+    {
+      "threshold": 160,
+      "blur": 0,
+      "height_delta_max": 15.0,
+      "baseline_delta_max": 2.0,
+      "height_agreement": 0.898406374501992,
+      "baseline_agreement": 0.9422310756972112
+    },
+    {
+      "threshold": 128,
+      "blur": 0.35,
+      "height_delta_max": 15.0,
+      "baseline_delta_max": 2.0,
+      "height_agreement": 0.898406374501992,
+      "baseline_agreement": 0.9422310756972112
+    }
+  ],
+  "controls": {
+    "height": {
+      "centers": [
+        114.39393939393939,
+        122.4296875
+      ],
+      "separation": 8.035748106060609,
+      "minority_fraction": 0.49230769230769234,
+      "heldout_mse_single": 16.223739669421487,
+      "heldout_mse_binary": 0.3826069104301371,
+      "improvement": 0.9764168485055714,
+      "geometric_gate": true,
+      "bit_accuracy": 0.99800796812749
+    },
+    "baseline": {
+      "centers": [
+        14.0,
+        22.0
+      ],
+      "separation": 8.0,
+      "minority_fraction": 0.48846153846153845,
+      "heldout_mse_single": 15.953593818768645,
+      "heldout_mse_binary": 0.0,
+      "improvement": 1.0,
+      "geometric_gate": true,
+      "bit_accuracy": 1.0
+    }
+  },
+  "null_max_separations": [
+    1.3612068444283238,
+    1.5196850393700787
+  ]
+}

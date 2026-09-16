@@ -1,0 +1,125 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "exploration/persistent-01/worker-h/h19.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e306d1c3c90703873ea727812c3c4055dafab99b",
+  "started_utc": "2026-09-16T21:11:02.945467+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h01.py",
+      "exists": true,
+      "bytes": 4159,
+      "sha256": "633ee04941491ce2c37fccee57852b15a1db25ab22bdb09c096d34708ace2b4a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h03.py",
+      "exists": true,
+      "bytes": 2248,
+      "sha256": "ab074145fa7baec34e66a24acf71988bc21cf93b5d40b14608237110f09435d4"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h05.py",
+      "exists": true,
+      "bytes": 1592,
+      "sha256": "3c551624ced74e259d4673165b6971c60c387bf08188bf7272f4d34caf3a9ac1"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h06.py",
+      "exists": true,
+      "bytes": 1669,
+      "sha256": "33e45c0b82973d1922851c9e7d31c89d46bc9d6dd8761d9f28c6397e487123f3"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h06_describe.py",
+      "exists": true,
+      "bytes": 1053,
+      "sha256": "fdbbbc6fcd8c223a29a9799c8c981204cabca39327350d1179c10dcacaa7dc91"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h07.py",
+      "exists": true,
+      "bytes": 1719,
+      "sha256": "7061b463db207d6cae2e1ebac3a96d40e1598b142f36089049ade55aadfbc999"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h10.py",
+      "exists": true,
+      "bytes": 4929,
+      "sha256": "4db1d3e1ce11ce6245bf947fd59ed420bc4deb3b4dfda8be411cb88c559deff0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h10_control_full.py",
+      "exists": true,
+      "bytes": 1253,
+      "sha256": "fd6006967940cfdfab1e18f2954f51f1fe5e1dfd3f23ac25952c98c258544d94"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h12.py",
+      "exists": true,
+      "bytes": 2749,
+      "sha256": "00a424a73630eb7d008eb75b0678b23e24386c2b308ead802f20060190a41a28"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h14.py",
+      "exists": true,
+      "bytes": 2499,
+      "sha256": "0f42b8dc2a83f87682bb577a55a974155cb1dab8598767c83036bb579896a119"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h17.py",
+      "exists": true,
+      "bytes": 4126,
+      "sha256": "34259a1dcf307b09f7328869db91b43ec96419ee200081c23d1c8357f520a2e8"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h18.py",
+      "exists": true,
+      "bytes": 4153,
+      "sha256": "ec7435431ed6261778c925d6af115cb4aaaa915a7da3d43ed180c59e499c47cd"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h18_verify.py",
+      "exists": true,
+      "bytes": 788,
+      "sha256": "93d06cbb159342777026da3040accb3196d1b6cf2380d20816bd63b9dd6b2820"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h19.py",
+      "exists": true,
+      "bytes": 6497,
+      "sha256": "c42e880b687b5351e11066bc098d0dcfa5657fd9761bf689b9ca0a1e7b96e2e8"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 50022,
+  "finished_utc": "2026-09-16T21:11:06.311580+00:00",
+  "duration_seconds": 3.365830416998506
+}

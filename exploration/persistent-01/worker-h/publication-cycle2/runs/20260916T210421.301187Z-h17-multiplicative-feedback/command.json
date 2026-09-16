@@ -1,0 +1,125 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "exploration/persistent-01/worker-h/h17.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e306d1c3c90703873ea727812c3c4055dafab99b",
+  "started_utc": "2026-09-16T21:04:21.313773+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h01.py",
+      "exists": true,
+      "bytes": 4159,
+      "sha256": "633ee04941491ce2c37fccee57852b15a1db25ab22bdb09c096d34708ace2b4a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h03.py",
+      "exists": true,
+      "bytes": 2248,
+      "sha256": "ab074145fa7baec34e66a24acf71988bc21cf93b5d40b14608237110f09435d4"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h05.py",
+      "exists": true,
+      "bytes": 1592,
+      "sha256": "3c551624ced74e259d4673165b6971c60c387bf08188bf7272f4d34caf3a9ac1"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h06.py",
+      "exists": true,
+      "bytes": 1669,
+      "sha256": "33e45c0b82973d1922851c9e7d31c89d46bc9d6dd8761d9f28c6397e487123f3"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h06_describe.py",
+      "exists": true,
+      "bytes": 1053,
+      "sha256": "fdbbbc6fcd8c223a29a9799c8c981204cabca39327350d1179c10dcacaa7dc91"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h07.py",
+      "exists": true,
+      "bytes": 1719,
+      "sha256": "7061b463db207d6cae2e1ebac3a96d40e1598b142f36089049ade55aadfbc999"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h10.py",
+      "exists": true,
+      "bytes": 4929,
+      "sha256": "4db1d3e1ce11ce6245bf947fd59ed420bc4deb3b4dfda8be411cb88c559deff0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h10_control_full.py",
+      "exists": true,
+      "bytes": 1253,
+      "sha256": "fd6006967940cfdfab1e18f2954f51f1fe5e1dfd3f23ac25952c98c258544d94"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h12.py",
+      "exists": true,
+      "bytes": 2749,
+      "sha256": "00a424a73630eb7d008eb75b0678b23e24386c2b308ead802f20060190a41a28"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h14.py",
+      "exists": true,
+      "bytes": 2499,
+      "sha256": "0f42b8dc2a83f87682bb577a55a974155cb1dab8598767c83036bb579896a119"
+    },
+    {
+      "path": "exploration/persistent-01/worker-h/h17.py",
+      "exists": true,
+      "bytes": 4121,
+      "sha256": "863006ae4fde9efd9c92e0e7d373f1ddbe2a1479452d78e3e7124ff90c3f174f"
+    },
+    {
+      "path": "liber-primus/analysis/campaign18_skip/armada2/COVERAGE-MATRIX.md",
+      "exists": true,
+      "bytes": 11310,
+      "sha256": "248a2e7c76499b809e6c1668c4f12c9637845633dd2890b8703bb3d808eb35c8"
+    },
+    {
+      "path": "liber-primus/analysis/campaign18_skip/ctfeedback_coeffs.py",
+      "exists": true,
+      "bytes": 8038,
+      "sha256": "b64396dd3777d6078fca241943c8b743e5e255249e80a90ca6613e23167088a0"
+    },
+    {
+      "path": "liber-primus/analysis/round12/C1/feedback.py",
+      "exists": true,
+      "bytes": 5619,
+      "sha256": "debb2db843f884d0abf6d064e56389523c8cb050f1e7dcd817a3d5942ea1fb66"
+    }
+  ],
+  "outcome": "NONZERO",
+  "exit_code": 1,
+  "pid": 47658,
+  "finished_utc": "2026-09-16T21:04:21.336362+00:00",
+  "duration_seconds": 0.02236162499684724
+}

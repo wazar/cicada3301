@@ -1,0 +1,4 @@
+  File "<REPO_ROOT>/exploration/persistent-01/worker-h/h17.py", line 41
+    controls.append(dict(source=path,sha256=sha,g=g,rune_count=len(p),source=p.tolist(),cipher=c.tolist(),exact_recovery=True,best_score=best,scores=scores,truth_rank=1+sum(s>scores[gi]+1e-12 for s in scores),tail=(1+sum(v>=best for v in null))/100,null=null,null_repeat_probability=par[1]))
+                                                                      ^^^^^^^^^^^^^^^^^
+SyntaxError: keyword argument repeated: source

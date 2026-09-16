@@ -1,0 +1,95 @@
+{
+  "mapped_instances": 418,
+  "skipped": [
+    {
+      "page": 0,
+      "row": 0,
+      "components": 0,
+      "expected": 20
+    },
+    {
+      "page": 1,
+      "row": 0,
+      "components": 23,
+      "expected": 24
+    },
+    {
+      "page": 1,
+      "row": 2,
+      "components": 22,
+      "expected": 23
+    },
+    {
+      "page": 1,
+      "row": 6,
+      "components": 20,
+      "expected": 22
+    },
+    {
+      "page": 1,
+      "row": 9,
+      "components": 19,
+      "expected": 21
+    }
+  ],
+  "shape_identity_conflicts": {},
+  "band_diameter_px": 25.25,
+  "bands": 53,
+  "column_edges": 138,
+  "column_repeats": 8,
+  "column_rate": 0.057971014492753624,
+  "null_rate_mean": 0.03145885094547504,
+  "p_lower": 0.9624037596240376,
+  "perpage": [
+    {
+      "page": 0,
+      "rows": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "edges": 99,
+      "repeats": 7,
+      "rate": 0.0707070707070707
+    },
+    {
+      "page": 1,
+      "rows": [
+        1,
+        3,
+        4,
+        5,
+        7,
+        8,
+        10,
+        11
+      ],
+      "edges": 39,
+      "repeats": 1,
+      "rate": 0.02564102564102564
+    }
+  ],
+  "horizontal": [
+    {
+      "page": 0,
+      "edges": 231,
+      "repeats": 2
+    },
+    {
+      "page": 1,
+      "edges": 168,
+      "repeats": 1
+    }
+  ],
+  "control_power": 0.18,
+  "control_false_positive": 0.0,
+  "scope": "complete source rows only; missing rows/bands and all wraps break edges; row-profile permutation preserves typography; geometry-only route frozen before label scores"
+}

@@ -1,0 +1,252 @@
+{
+  "manifest_sha256": "2f079f4539954bebba440fa78085035a2b22a6bbfe97bd2628b3bb622ead9283",
+  "manifest_files": 69,
+  "small_exhaustive_cases": 6216,
+  "all_window_checks": 14602,
+  "sampled_page_bounds_checked": 149985,
+  "sample_counts": {
+    "train5": 9999,
+    "held4": 9999,
+    "contiguous_windows": 9999
+  },
+  "attainment_controls": 115,
+  "models": {
+    "j02": {
+      "aggregate_numerator": 53840670648,
+      "denominator": 5152806016252125,
+      "conjunction_numerator": 0,
+      "aggregate": 1.0448806044354222e-05,
+      "conjunction": 0.0,
+      "stats": [
+        {
+          "page": 0,
+          "n": 262,
+          "windows": 1325,
+          "minimum": 1156,
+          "compatible": 42,
+          "source_weights": {
+            "0_koan_1": 519,
+            "0_loss_of_divinity": 494,
+            "0_welcome": 254,
+            "jpg107-167": 58
+          }
+        },
+        {
+          "page": 1,
+          "n": 266,
+          "windows": 1309,
+          "minimum": 1194,
+          "compatible": 53,
+          "source_weights": {
+            "0_koan_1": 515,
+            "0_loss_of_divinity": 490,
+            "0_welcome": 250,
+            "jpg107-167": 54
+          }
+        },
+        {
+          "page": 3,
+          "n": 217,
+          "windows": 1505,
+          "minimum": 763,
+          "compatible": 30,
+          "source_weights": {
+            "0_koan_1": 564,
+            "0_loss_of_divinity": 539,
+            "0_welcome": 299,
+            "jpg107-167": 103
+          }
+        },
+        {
+          "page": 7,
+          "n": 208,
+          "windows": 1541,
+          "minimum": 697,
+          "compatible": 370,
+          "source_weights": {
+            "0_koan_1": 573,
+            "0_loss_of_divinity": 548,
+            "0_welcome": 308,
+            "jpg107-167": 112
+          }
+        },
+        {
+          "page": 17,
+          "n": 273,
+          "windows": 1281,
+          "minimum": 1261,
+          "compatible": 0,
+          "source_weights": {
+            "0_koan_1": 508,
+            "0_loss_of_divinity": 483,
+            "0_welcome": 243,
+            "jpg107-167": 47
+          }
+        }
+      ],
+      "max_nonnegative_intermediate_total": 5152806016252125,
+      "below_int64": true
+    },
+    "j03": {
+      "aggregate_numerator": 427074721435572,
+      "denominator": 8232458629504005,
+      "conjunction_numerator": 686511374400,
+      "aggregate": 0.05187693502703975,
+      "conjunction": 8.339080769135446e-05,
+      "stats": [
+        {
+          "page": 0,
+          "n": 262,
+          "windows": 1461,
+          "minimum": 1132,
+          "compatible": 285,
+          "source_weights": {
+            "0_koan_1": 554,
+            "0_loss_of_divinity": 547,
+            "0_welcome": 281,
+            "jpg107-167": 79
+          }
+        },
+        {
+          "page": 1,
+          "n": 266,
+          "windows": 1445,
+          "minimum": 1174,
+          "compatible": 424,
+          "source_weights": {
+            "0_koan_1": 550,
+            "0_loss_of_divinity": 543,
+            "0_welcome": 277,
+            "jpg107-167": 75
+          }
+        },
+        {
+          "page": 3,
+          "n": 217,
+          "windows": 1641,
+          "minimum": 758,
+          "compatible": 129,
+          "source_weights": {
+            "0_koan_1": 599,
+            "0_loss_of_divinity": 592,
+            "0_welcome": 326,
+            "jpg107-167": 124
+          }
+        },
+        {
+          "page": 7,
+          "n": 208,
+          "windows": 1677,
+          "minimum": 695,
+          "compatible": 1468,
+          "source_weights": {
+            "0_koan_1": 608,
+            "0_loss_of_divinity": 601,
+            "0_welcome": 335,
+            "jpg107-167": 133
+          }
+        },
+        {
+          "page": 17,
+          "n": 273,
+          "windows": 1417,
+          "minimum": 1248,
+          "compatible": 30,
+          "source_weights": {
+            "0_koan_1": 543,
+            "0_loss_of_divinity": 536,
+            "0_welcome": 270,
+            "jpg107-167": 68
+          }
+        }
+      ],
+      "max_nonnegative_intermediate_total": 8232458629504005,
+      "below_int64": true
+    }
+  },
+  "sensitivity": {
+    "window": {
+      "group": "0_koan_1",
+      "start": 93,
+      "counts": [
+        0,
+        4,
+        12,
+        11,
+        26,
+        16,
+        4,
+        3,
+        10,
+        17,
+        12,
+        11,
+        0,
+        0,
+        3,
+        0,
+        19,
+        22,
+        0,
+        35,
+        11,
+        8,
+        0,
+        0,
+        12,
+        27,
+        0,
+        10,
+        0
+      ],
+      "bound": 1261
+    },
+    "compatible_edits": 52,
+    "minimum": 1252,
+    "witness": {
+      "from": 4,
+      "to": 7,
+      "bound": 1252
+    }
+  },
+  "source_files": [
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_warning.txt",
+      "sha256": "c6ca9c1952307bd55866e22b9f868163bca493893162baefdba71cb9e1a206d9"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_wisdom.txt",
+      "sha256": "4363dc279d01ac8866011988d0422a31bf608940abccaa37368c689099f52efe"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_koan_1.txt",
+      "sha256": "5aaae7ee19dfb46a41d5e10f975b5a252b82b6e18b49116a9f99b31a2fbee06c"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_loss_of_divinity.txt",
+      "sha256": "10954c8d61744ceb453e9b553e52cd3e01289d12b727c521e21bc0594f0e0c91"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_jpg229.txt",
+      "sha256": "67635c556f84b1fe8319f0300d4378d8f1dc664d779c1f0f69c4cb272c87c181"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_welcome.txt",
+      "sha256": "95caaffb0ae764801bb023ba8eda15b49366cb3258aab9e26922e89e884c7b73"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_jpg107-167.txt",
+      "sha256": "2dd885e1785ffee22692901167edb1a37a0fae87c7d765bf53f799b108663b6c"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_p56_an_end.txt",
+      "sha256": "3b82bf89e740dde1d1f8261ddf17e028f7d4bbc8933a1e972a564822f4e4d511"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_p57_parable.txt",
+      "sha256": "63c685205fcc753364d12ea72f7e120c6eba4031ab658cdf6fbf3da1d8749f25"
+    }
+  ],
+  "documented_gp_table": "KNOWLEDGE.json gematria_primus.table",
+  "gp_table_sha256": "c90a915edf74880f7a47c424a8aed3ce9840450515e1705d6c47ab8fa7a7915c"
+}

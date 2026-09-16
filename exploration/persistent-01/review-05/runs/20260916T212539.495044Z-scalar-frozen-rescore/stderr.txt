@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/review-05/rescore.py", line 44, in <module>
+    b=(R/src['path']).read_bytes();assert hashlib.sha256(b).hexdigest()==src['sha256'];snapshot=p.parent/'code'/src['path'];assert snapshot.read_bytes()==b
+                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

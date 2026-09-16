@@ -1,0 +1,69 @@
+{
+  "tail": 0.735,
+  "controls": [
+    {
+      "pages": 1,
+      "runes": 780,
+      "score": 0.2445910074659615,
+      "phase": 0,
+      "truth_directions_recovered": 2,
+      "tail": 0.01
+    },
+    {
+      "pages": 1,
+      "runes": 753,
+      "score": 0.2596718107729978,
+      "phase": 0,
+      "truth_directions_recovered": 3,
+      "tail": 0.01
+    },
+    {
+      "pages": 1,
+      "runes": 513,
+      "score": 0.33372988806347764,
+      "phase": 0,
+      "truth_directions_recovered": 3,
+      "tail": 0.01
+    },
+    {
+      "pages": 1,
+      "runes": 318,
+      "score": 0.24042725310433918,
+      "phase": 0,
+      "truth_directions_recovered": 2,
+      "tail": 0.01
+    },
+    {
+      "pages": 1,
+      "runes": 84,
+      "score": -0.11904491356889861,
+      "phase": 2,
+      "truth_directions_recovered": 0,
+      "tail": 0.42
+    },
+    {
+      "pages": 5,
+      "runes": 2547,
+      "score": 0.38052369568284244,
+      "phase": 0,
+      "truth_directions_recovered": 3,
+      "tail": 0.01
+    }
+  ],
+  "directions": 871,
+  "phases": 3,
+  "real_pages": [
+    0,
+    1,
+    2,
+    3,
+    5
+  ],
+  "total_search_calls": 800,
+  "real_null_searches": 199,
+  "control_null_searches": 594,
+  "pilot_seconds": 0.05274312499750522,
+  "seed": 2026091739,
+  "null_repeat_probability": 0.0033444816053511705
+}
+{'score': -0.11528885289607445, 'selected_phase': 1, 'selected_rows': [438, 480, 279]}

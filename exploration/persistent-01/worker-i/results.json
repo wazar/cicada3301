@@ -1,0 +1,91 @@
+{
+  "n": 502,
+  "page_counts": {
+    "0": 242,
+    "1": 260
+  },
+  "models": {
+    "height": {
+      "centers": [
+        113.63483146067416,
+        115.0
+      ],
+      "separation": 1.3651685393258362,
+      "minority_fraction": 0.3153846153846154,
+      "heldout_mse_single": 0.47204374297031615,
+      "heldout_mse_binary": 0.14694996875133534,
+      "improvement": 0.6886941709540336,
+      "geometric_gate": false
+    },
+    "baseline": {
+      "centers": [
+        -1.0384615384615385,
+        0.0
+      ],
+      "separation": 1.0384615384615385,
+      "minority_fraction": 0.09999999999999998,
+      "heldout_mse_single": 0.05007200841116925,
+      "heldout_mse_binary": 7.335322020636738e-05,
+      "improvement": 0.9985350453769695,
+      "geometric_gate": false
+    }
+  },
+  "perturbations": [
+    {
+      "threshold": 96,
+      "blur": 0,
+      "height_delta_max": 0.0,
+      "baseline_delta_max": 0.0,
+      "height_agreement": 1.0,
+      "baseline_agreement": 1.0
+    },
+    {
+      "threshold": 160,
+      "blur": 0,
+      "height_delta_max": 0.0,
+      "baseline_delta_max": 0.0,
+      "height_agreement": 1.0,
+      "baseline_agreement": 1.0
+    },
+    {
+      "threshold": 128,
+      "blur": 0.35,
+      "height_delta_max": 0.0,
+      "baseline_delta_max": 0.0,
+      "height_agreement": 1.0,
+      "baseline_agreement": 1.0
+    }
+  ],
+  "controls": {
+    "height": {
+      "centers": [
+        114.0827067669173,
+        122.04724409448819
+      ],
+      "separation": 7.964537327570895,
+      "minority_fraction": 0.48846153846153845,
+      "heldout_mse_single": 15.96321690547215,
+      "heldout_mse_binary": 0.47030739733977867,
+      "improvement": 0.9705380563250657,
+      "geometric_gate": true,
+      "bit_accuracy": 1.0
+    },
+    "baseline": {
+      "centers": [
+        14.0,
+        22.0
+      ],
+      "separation": 8.0,
+      "minority_fraction": 0.48846153846153845,
+      "heldout_mse_single": 15.953593818768645,
+      "heldout_mse_binary": 0.0,
+      "improvement": 1.0,
+      "geometric_gate": true,
+      "bit_accuracy": 1.0
+    }
+  },
+  "null_max_separations": [
+    1.559057275966012,
+    1.3657635467980296
+  ]
+}

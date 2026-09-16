@@ -1,0 +1,291 @@
+{
+  "n": 502,
+  "shape_classes": 30,
+  "eligible_classes": 29,
+  "eligible_instances": 500,
+  "real": {
+    "centers": [
+      -0.18614718614718614,
+      1.0357142857142858
+    ],
+    "separation": 1.221861471861472,
+    "minority": 0.10810810810810811,
+    "improvement": 0.5463078739763794,
+    "gate": false
+  },
+  "control": {
+    "centers": [
+      -0.058394160583941604,
+      7.950819672131147
+    ],
+    "separation": 8.009213832715089,
+    "minority": 0.47104247104247104,
+    "improvement": 0.9751185773914282,
+    "gate": true,
+    "bit_accuracy": 1.0
+  },
+  "per_class": [
+    {
+      "shape_class": 1,
+      "n": 16,
+      "width_min": 9.0,
+      "width_max": 10.0,
+      "heldout_n": 8,
+      "heldout_residual_min": 0.0,
+      "heldout_residual_max": 1.0
+    },
+    {
+      "shape_class": 2,
+      "n": 20,
+      "width_min": 44.0,
+      "width_max": 45.0,
+      "heldout_n": 11,
+      "heldout_residual_min": 0.0,
+      "heldout_residual_max": 0.0
+    },
+    {
+      "shape_class": 3,
+      "n": 14,
+      "width_min": 45.0,
+      "width_max": 46.0,
+      "heldout_n": 7,
+      "heldout_residual_min": -1.0,
+      "heldout_residual_max": 0.0
+    },
+    {
+      "shape_class": 4,
+      "n": 20,
+      "width_min": 33.0,
+      "width_max": 34.0,
+      "heldout_n": 6,
+      "heldout_residual_min": -1.0,
+      "heldout_residual_max": 0.0
+    },
+    {
+      "shape_class": 5,
+      "n": 18,
+      "width_min": 86.0,
+      "width_max": 87.0,
+      "heldout_n": 9,
+      "heldout_residual_min": 0.0,
+      "heldout_residual_max": 1.0
+    },
+    {
+      "shape_class": 6,
+      "n": 24,
+      "width_min": 64.0,
+      "width_max": 67.0,
+      "heldout_n": 14,
+      "heldout_residual_min": -2.0,
+      "heldout_residual_max": 1.0
+    },
+    {
+      "shape_class": 7,
+      "n": 14,
+      "width_min": 50.0,
+      "width_max": 51.0,
+      "heldout_n": 7,
+      "heldout_residual_min": 0.0,
+      "heldout_residual_max": 1.0
+    },
+    {
+      "shape_class": 8,
+      "n": 12,
+      "width_min": 40.0,
+      "width_max": 42.0,
+      "heldout_n": 5,
+      "heldout_residual_min": 0.0,
+      "heldout_residual_max": 2.0
+    },
+    {
+      "shape_class": 9,
+      "n": 24,
+      "width_min": 50.0,
+      "width_max": 51.0,
+      "heldout_n": 11,
+      "heldout_residual_min": 0.0,
+      "heldout_residual_max": 0.0
+    },
+    {
+      "shape_class": 10,
+      "n": 21,
+      "width_min": 43.0,
+      "width_max": 44.0,
+      "heldout_n": 10,
+      "heldout_residual_min": -1.0,
+      "heldout_residual_max": 0.0
+    },
+    {
+      "shape_class": 11,
+      "n": 15,
+      "width_min": 52.0,
+      "width_max": 54.0,
+      "heldout_n": 5,
+      "heldout_residual_min": -1.0,
+      "heldout_residual_max": 0.0
+    },
+    {
+      "shape_class": 12,
+      "n": 18,
+      "width_min": 34.0,
+      "width_max": 35.0,
+      "heldout_n": 9,
+      "heldout_residual_min": -1.0,
+      "heldout_residual_max": 0.0
+    },
+    {
+      "shape_class": 13,
+      "n": 16,
+      "width_min": 43.0,
+      "width_max": 44.0,
+      "heldout_n": 10,
+      "heldout_residual_min": -1.0,
+      "heldout_residual_max": 0.0
+    },
+    {
+      "shape_class": 14,
+      "n": 17,
+      "width_min": 52.0,
+      "width_max": 53.0,
+      "heldout_n": 8,
+      "heldout_residual_min": -1.0,
+      "heldout_residual_max": 0.0
+    },
+    {
+      "shape_class": 15,
+      "n": 14,
+      "width_min": 52.0,
+      "width_max": 53.0,
+      "heldout_n": 6,
+      "heldout_residual_min": -1.0,
+      "heldout_residual_max": 0.0
+    },
+    {
+      "shape_class": 16,
+      "n": 12,
+      "width_min": 52.0,
+      "width_max": 53.0,
+      "heldout_n": 7,
+      "heldout_residual_min": -1.0,
+      "heldout_residual_max": 0.0
+    },
+    {
+      "shape_class": 17,
+      "n": 12,
+      "width_min": 34.0,
+      "width_max": 35.0,
+      "heldout_n": 4,
+      "heldout_residual_min": 0.0,
+      "heldout_residual_max": 1.0
+    },
+    {
+      "shape_class": 18,
+      "n": 15,
+      "width_min": 35.0,
+      "width_max": 35.0,
+      "heldout_n": 8,
+      "heldout_residual_min": 0.0,
+      "heldout_residual_max": 0.0
+    },
+    {
+      "shape_class": 19,
+      "n": 22,
+      "width_min": 34.0,
+      "width_max": 34.0,
+      "heldout_n": 14,
+      "heldout_residual_min": 0.0,
+      "heldout_residual_max": 0.0
+    },
+    {
+      "shape_class": 20,
+      "n": 25,
+      "width_min": 34.0,
+      "width_max": 35.0,
+      "heldout_n": 11,
+      "heldout_residual_min": -1.0,
+      "heldout_residual_max": 0.0
+    },
+    {
+      "shape_class": 21,
+      "n": 14,
+      "width_min": 34.0,
+      "width_max": 35.0,
+      "heldout_n": 7,
+      "heldout_residual_min": 0.0,
+      "heldout_residual_max": 1.0
+    },
+    {
+      "shape_class": 22,
+      "n": 14,
+      "width_min": 34.0,
+      "width_max": 35.0,
+      "heldout_n": 7,
+      "heldout_residual_min": -1.0,
+      "heldout_residual_max": 0.0
+    },
+    {
+      "shape_class": 23,
+      "n": 19,
+      "width_min": 34.0,
+      "width_max": 34.0,
+      "heldout_n": 8,
+      "heldout_residual_min": 0.0,
+      "heldout_residual_max": 0.0
+    },
+    {
+      "shape_class": 24,
+      "n": 14,
+      "width_min": 34.0,
+      "width_max": 35.0,
+      "heldout_n": 8,
+      "heldout_residual_min": 0.0,
+      "heldout_residual_max": 1.0
+    },
+    {
+      "shape_class": 25,
+      "n": 21,
+      "width_min": 34.0,
+      "width_max": 34.0,
+      "heldout_n": 9,
+      "heldout_residual_min": 0.0,
+      "heldout_residual_max": 0.0
+    },
+    {
+      "shape_class": 26,
+      "n": 13,
+      "width_min": 52.0,
+      "width_max": 53.0,
+      "heldout_n": 6,
+      "heldout_residual_min": 0.0,
+      "heldout_residual_max": 1.0
+    },
+    {
+      "shape_class": 27,
+      "n": 21,
+      "width_min": 52.0,
+      "width_max": 53.0,
+      "heldout_n": 9,
+      "heldout_residual_min": -1.0,
+      "heldout_residual_max": 0.0
+    },
+    {
+      "shape_class": 28,
+      "n": 15,
+      "width_min": 53.0,
+      "width_max": 54.0,
+      "heldout_n": 8,
+      "heldout_residual_min": 0.0,
+      "heldout_residual_max": 1.0
+    },
+    {
+      "shape_class": 29,
+      "n": 20,
+      "width_min": 52.0,
+      "width_max": 53.0,
+      "heldout_n": 9,
+      "heldout_residual_min": 0.0,
+      "heldout_residual_max": 1.0
+    }
+  ],
+  "maximum_threshold_width_change": 0.0
+}

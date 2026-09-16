@@ -1,0 +1,357 @@
+{
+  "real_key_page_cells": 11520,
+  "null_key_page_cells": 11520,
+  "model_beam_calls": 46080,
+  "actual_retained_paths": {
+    "real": {
+      "english": 171520,
+      "rune": 171520
+    },
+    "null": {
+      "english": 171520,
+      "rune": 171520
+    }
+  },
+  "actual_retained_paths_total": 686080,
+  "controls": {
+    "0_welcome-english": {
+      "model_key_cells": 256,
+      "retained_paths": 4096,
+      "reencrypted_paths": 4096
+    },
+    "0_welcome-rune": {
+      "model_key_cells": 256,
+      "retained_paths": 4096,
+      "reencrypted_paths": 4096
+    },
+    "p56_an_end-english": {
+      "model_key_cells": 256,
+      "retained_paths": 2048,
+      "reencrypted_paths": 2048
+    },
+    "p56_an_end-rune": {
+      "model_key_cells": 256,
+      "retained_paths": 2048,
+      "reencrypted_paths": 2048
+    }
+  },
+  "perpage": [
+    {
+      "page": 0,
+      "length": 262,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 1,
+      "length": 266,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 2,
+      "length": 201,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 3,
+      "length": 217,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 5,
+      "length": 263,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 6,
+      "length": 196,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 7,
+      "length": 208,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 8,
+      "length": 255,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 10,
+      "length": 263,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 11,
+      "length": 273,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 12,
+      "length": 261,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 13,
+      "length": 272,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 15,
+      "length": 159,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 16,
+      "length": 267,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 17,
+      "length": 273,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 18,
+      "length": 260,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 20,
+      "length": 269,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 21,
+      "length": 273,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 22,
+      "length": 131,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 23,
+      "length": 213,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 25,
+      "length": 273,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 26,
+      "length": 265,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 27,
+      "length": 234,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 28,
+      "length": 269,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 30,
+      "length": 263,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 31,
+      "length": 269,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 32,
+      "length": 121,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 33,
+      "length": 214,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 35,
+      "length": 271,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 36,
+      "length": 238,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 37,
+      "length": 228,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 38,
+      "length": 228,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 40,
+      "length": 231,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 41,
+      "length": 273,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 42,
+      "length": 272,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 43,
+      "length": 274,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 45,
+      "length": 270,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 46,
+      "length": 270,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 47,
+      "length": 274,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 48,
+      "length": 271,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 49,
+      "length": 66,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 51,
+      "length": 92,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 52,
+      "length": 263,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 53,
+      "length": 179,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    },
+    {
+      "page": 55,
+      "length": 76,
+      "cells": 256,
+      "unique_signed_key_prefixes": 256,
+      "alias_groups": []
+    }
+  ],
+  "aliases": 0,
+  "alias_definition": "Identical signed mod29 candidate-key prefix of full ciphertext length within same page. Does not count identical shorter prefixes or duplicate plaintext paths as separate construction equivalence tests."
+}
