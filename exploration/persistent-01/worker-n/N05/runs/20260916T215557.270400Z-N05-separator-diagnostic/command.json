@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-n/N05/separators.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "d3d88d88dd8bda7e27da23a0d9e5dca72922f8f3",
+  "started_utc": "2026-09-16T21:55:57.279833+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-i/route-mapping.json",
+      "exists": true,
+      "bytes": 128937,
+      "sha256": "04c06f78df9f33860e39a89c6e3df157d2f7a3eea737c6b2ec693d0294b5e4d8"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/n05.py",
+      "exists": true,
+      "bytes": 6568,
+      "sha256": "70b7a073bf98efd9125442ee84b345c398ed9341076d25fd1e673dd9242dbb47"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/separators.py",
+      "exists": true,
+      "bytes": 1256,
+      "sha256": "c1f2893abb6136d03e4d25267fc4e1bfd449a44d296d41d3ec15d265e8d5b74c"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 59309,
+  "finished_utc": "2026-09-16T21:55:57.537826+00:00",
+  "duration_seconds": 0.2577817910023441
+}

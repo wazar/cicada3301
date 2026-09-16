@@ -138,5 +138,19 @@
     "original_sha256": "6bb3d3d61dd0e9064d6187e3a1d3b287f523d3a9517d77006daa1bcb8d2ca0b4",
     "published_sha256": "f3ce6dc9af66ed73ceb5df58d33b6a7344703f5320277c0070d3d0c125895546",
     "change": "Only checkout prefix normalized in compiler command; original retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/runs/20260916T215940.966583Z-p04-shared-milp/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/runs/20260916T215940.966583Z-p04-shared-milp/stderr.txt",
+    "original_sha256": "021bd0d1f4cefbc9520ced585eadecb846e9ec06348e4d63dd8723d4a348cbcc",
+    "published_sha256": "b6dbf485a60049739af01229c7123b4d75a07f6c6e86d626dbeffa4ad616ff67",
+    "change": "Only checkout prefix normalized in preserved HiGHS wrapper warning."
+  },
+  {
+    "path": "exploration/persistent-01/review-09/runs/20260916T220422.606111Z-P04-independent-model/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/review-09/runs/20260916T220422.606111Z-P04-independent-model/stderr.txt",
+    "original_sha256": "c7b5bada3c5a236fc10f051e4c0dc081f1de08343eaf6bf7bb1b936a5fa155eb",
+    "published_sha256": "b4a46bad38fda557540806396c462c8eee6bea6e176c5bfa3a01afda4c8152e1",
+    "change": "Only checkout prefix normalized in preserved HiGHS wrapper warning."
   }
 ]

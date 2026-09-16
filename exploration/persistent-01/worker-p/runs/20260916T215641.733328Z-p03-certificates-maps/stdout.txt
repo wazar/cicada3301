@@ -1,0 +1,30 @@
+{
+  "verdict": "PASS",
+  "letter_maps_checked": 2505,
+  "windows_checked": 2812,
+  "weighted_statuses": {
+    "INFEASIBLE": 1781,
+    "FEASIBLE": 1031
+  },
+  "controls_checked": 210,
+  "feasible_by_page": [
+    47,
+    113,
+    213,
+    517,
+    141
+  ],
+  "windows_by_page": [
+    512,
+    500,
+    647,
+    674,
+    479
+  ],
+  "independent_uniform_window_conjunction": {
+    "numerator": 82464220971,
+    "denominator": 53473628672000,
+    "value": 0.0015421474663113732
+  },
+  "interpretation": "Only pagewise necessary count compatibility. The tuple is not a shared codebook or candidate plaintext. Uniform independent draws are imposed descriptive weights, not natural-language independence."
+}

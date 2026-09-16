@@ -1,0 +1,20 @@
+{
+  "label": "real-0",
+  "options": {
+    "presolve": true,
+    "time_limit": 119.86902329200166,
+    "mip_rel_gap": 0.0,
+    "threads": 1
+  },
+  "status": 2,
+  "message": "The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)",
+  "success": false,
+  "seconds": 0.09944387500218,
+  "rows": 109,
+  "variables": 1241,
+  "nonzero": 15506,
+  "x": null,
+  "node_count": null,
+  "mip_gap": null,
+  "classification": "INFEASIBLE"
+}

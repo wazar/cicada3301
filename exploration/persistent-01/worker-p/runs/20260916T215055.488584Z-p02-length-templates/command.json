@@ -1,0 +1,70 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-p/p02.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "a899c38fe777f66fc2e1995aa0fbfa935bf59d58",
+  "started_utc": "2026-09-16T21:50:55.498262+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P02/CARD.md",
+      "exists": true,
+      "bytes": 1931,
+      "sha256": "a106dcc6028cd7936a161c439160b5ca84c5ade00b3c3bce3ded4319288c1366"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p01.py",
+      "exists": true,
+      "bytes": 2888,
+      "sha256": "54015c957edb9cdee7de5e7404f3bc04defda6ff8f69d928db1dc3a708484315"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p02.py",
+      "exists": true,
+      "bytes": 4168,
+      "sha256": "7b62ea4589c9b726abd70dad9736a7834ae6fbd185ca4a0a9765a351b68ed454"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/replay.py",
+      "exists": true,
+      "bytes": 1297,
+      "sha256": "4556416f404e4e3737101b6c41d693f212b6cdebedb646ba0c8c907d56a19d05"
+    },
+    {
+      "path": "liber-primus/data/keys/armada18/mabinogion_vol1_guest_edwards_ed.txt",
+      "exists": true,
+      "bytes": 183694,
+      "sha256": "31bb2124f65422a6fa7e4c7910fc7e2be4c453307a6faf841b77152d07dc1d07"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 57743,
+  "finished_utc": "2026-09-16T21:51:09.134518+00:00",
+  "duration_seconds": 13.636034333
+}

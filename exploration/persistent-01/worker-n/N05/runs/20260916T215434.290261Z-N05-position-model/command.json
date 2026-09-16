@@ -1,0 +1,64 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-n/N05/n05.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "d3d88d88dd8bda7e27da23a0d9e5dca72922f8f3",
+  "started_utc": "2026-09-16T21:54:34.301804+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-i/coordinates.json",
+      "exists": true,
+      "bytes": 88980,
+      "sha256": "479383bc5bde94b62215e5c41eb940833a034008e5d604efd12cc84c5fdb50ea"
+    },
+    {
+      "path": "exploration/persistent-01/worker-i/route-mapping.json",
+      "exists": true,
+      "bytes": 128937,
+      "sha256": "04c06f78df9f33860e39a89c6e3df157d2f7a3eea737c6b2ec693d0294b5e4d8"
+    },
+    {
+      "path": "exploration/persistent-01/worker-i/width-arrays.npz",
+      "exists": true,
+      "bytes": 4933238,
+      "sha256": "e7444c3c6016455ed44088f14b8a9fa1fa27641e817abe2e14bbcb342d71cd7a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/CARD.md",
+      "exists": true,
+      "bytes": 2963,
+      "sha256": "b3b6fe5b3310bb41663ca1532ed336ca8c0ab385d9127f61782075790f1204c3"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/n05.py",
+      "exists": true,
+      "bytes": 6568,
+      "sha256": "70b7a073bf98efd9125442ee84b345c398ed9341076d25fd1e673dd9242dbb47"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 58117,
+  "finished_utc": "2026-09-16T21:54:34.726494+00:00",
+  "duration_seconds": 0.4244448329991428
+}

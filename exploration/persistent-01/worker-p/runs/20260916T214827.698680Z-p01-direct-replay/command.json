@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-p/replay.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "a899c38fe777f66fc2e1995aa0fbfa935bf59d58",
+  "started_utc": "2026-09-16T21:48:27.708070+00:00",
+  "timeout_seconds": 120,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p01.py",
+      "exists": true,
+      "bytes": 2888,
+      "sha256": "54015c957edb9cdee7de5e7404f3bc04defda6ff8f69d928db1dc3a708484315"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/raw-arrays.npz",
+      "exists": true,
+      "bytes": 22783,
+      "sha256": "761c741cf0ba52f82d13939ae7cd7db7e6afce833962e0612093a5d614148b57"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/replay.py",
+      "exists": true,
+      "bytes": 1297,
+      "sha256": "4556416f404e4e3737101b6c41d693f212b6cdebedb646ba0c8c907d56a19d05"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/results.json",
+      "exists": true,
+      "bytes": 20213,
+      "sha256": "a96c9add7f105944ea281c17db02738662c1f401ee12ee3890a6c456489221d0"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 57075,
+  "finished_utc": "2026-09-16T21:48:27.902222+00:00",
+  "duration_seconds": 0.193907
+}

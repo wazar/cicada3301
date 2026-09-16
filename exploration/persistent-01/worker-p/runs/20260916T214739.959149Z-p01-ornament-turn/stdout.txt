@@ -1,0 +1,142 @@
+{
+  "128": {
+    "rotate180": {
+      "score": 0.4372472559214327,
+      "translation_original_pixels": [
+        22,
+        86
+      ],
+      "foreground": [
+        6942,
+        6906
+      ]
+    },
+    "vertical_reflect": {
+      "score": 0.23660328435609335,
+      "translation_original_pixels": [
+        -22,
+        116
+      ],
+      "foreground": [
+        6942,
+        6942
+      ]
+    },
+    "horizontal_reflect": {
+      "score": 0.2874783362218371,
+      "translation_original_pixels": [
+        -16,
+        12
+      ],
+      "foreground": [
+        6942,
+        6906
+      ]
+    }
+  },
+  "96": {
+    "rotate180": {
+      "score": 0.4176831982904461,
+      "translation_original_pixels": [
+        22,
+        82
+      ],
+      "foreground": [
+        5630,
+        5601
+      ]
+    },
+    "vertical_reflect": {
+      "score": 0.225044404973357,
+      "translation_original_pixels": [
+        -22,
+        116
+      ],
+      "foreground": [
+        5630,
+        5630
+      ]
+    },
+    "horizontal_reflect": {
+      "score": 0.2825215920220817,
+      "translation_original_pixels": [
+        -18,
+        -10
+      ],
+      "foreground": [
+        5630,
+        5601
+      ]
+    }
+  },
+  "160": {
+    "rotate180": {
+      "score": 0.4460335737228046,
+      "translation_original_pixels": [
+        22,
+        88
+      ],
+      "foreground": [
+        8274,
+        8227
+      ]
+    },
+    "vertical_reflect": {
+      "score": 0.2392434131012811,
+      "translation_original_pixels": [
+        -22,
+        118
+      ],
+      "foreground": [
+        8274,
+        8274
+      ]
+    },
+    "horizontal_reflect": {
+      "score": 0.29355796618386765,
+      "translation_original_pixels": [
+        -14,
+        12
+      ],
+      "foreground": [
+        8274,
+        8227
+      ]
+    }
+  },
+  "plant": {
+    "score": 1.0,
+    "translation_original_pixels": [
+      0,
+      -4
+    ],
+    "foreground": [
+      6382,
+      6382
+    ]
+  },
+  "null_scope": "exploratory band-order comparison, not independent drawing model or formal p value",
+  "image": {
+    "path": "liber-primus/data/relikd/p13.jpg",
+    "sha256": "3481daeed3ab2bea6effbe36eec22f74955bce87ca4b4ae8674be1d3f84ea08d",
+    "size": [
+      2400,
+      3600
+    ],
+    "roi": [
+      1820,
+      650,
+      2330,
+      2900
+    ]
+  },
+  "mapping": {
+    "original_page": 13,
+    "segment_id": 13,
+    "source_region_id": 13,
+    "stream_start": 3194,
+    "stream_end": 3466,
+    "runes": 272
+  }
+}
+null percentiles [0.04852686308492202, 0.14077845176198728, 0.23409517619872905, 0.3269786250722126]

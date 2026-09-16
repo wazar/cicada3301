@@ -1,0 +1,64 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-m/M24/check.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "d3d88d88dd8bda7e27da23a0d9e5dca72922f8f3",
+  "started_utc": "2026-09-16T21:54:29.651981+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M24/check.py",
+      "exists": true,
+      "bytes": 3516,
+      "sha256": "11eec003132b0bf99eacdf59676c2a684457d4710b8bd9de921401cea763a3db"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M24/generated-evidence.npz",
+      "exists": true,
+      "bytes": 17158810,
+      "sha256": "9e5ad28efe12b3a69c6993a36569c615493406f6395f24aa58f9e53c5b89a070"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M24/input-manifest.json",
+      "exists": true,
+      "bytes": 2406619,
+      "sha256": "080713c98052a7c9f33370ab885dedc8dd050ba9ae3e14c76e3266c3d14b7f15"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M24/m24.py",
+      "exists": true,
+      "bytes": 5649,
+      "sha256": "069f776a4a41803ed691beaa6facb2f696b454fa040e515ace185079ad0a918c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M24/real.json",
+      "exists": true,
+      "bytes": 1935403,
+      "sha256": "a51f99ad41f2fcdc84c6eb16707d313faaf0f7bc7ebdcfd240a82d1bbe45abc2"
+    }
+  ],
+  "outcome": "NONZERO",
+  "exit_code": -15,
+  "pid": 58104,
+  "finished_utc": "2026-09-16T21:56:25.636747+00:00",
+  "duration_seconds": 115.98434025000097
+}

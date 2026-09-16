@@ -1,0 +1,2 @@
+<REPO_ROOT>/exploration/persistent-01/review-09/p04_review.py:50: RuntimeWarning: Unrecognized options detected: {'threads'}. These will be passed to HiGHS verbatim.
+  start=time.monotonic();r=milp(c=np.zeros(mat.shape[1]),integrality=np.full(mat.shape[1],int(integral)),bounds=Bounds(0,1),constraints=LinearConstraint(csr_matrix(mat),rhs,rhs),options={'time_limit':30.,'presolve':True,'threads':1,'mip_rel_gap':0.,'disp':True});out={'label':label,'status':int(r.status),'message':r.message,'seconds':time.monotonic()-start,'x':None if r.x is None else r.x.tolist()}

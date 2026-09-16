@@ -1,5 +1,5 @@
 {
-  "scope": "Completed publication bytes; original worker manifests describe raw pre-normalization bytes. See coordinator/publication-redactions.json for exact mapping and privately retained originals.",
+  "scope": "Completed tracked evidence only at checkpoint7; excludes ongoing experiments and locally rebuilt binaries. Raw-path normalization listed centrally.",
   "files": [
     {
       "path": "exploration/persistent-01/worker-n/N01-CARD.md",
@@ -732,14 +732,219 @@
       "sha256": "f27fd6aa8a51c615c2b63a8f90923c57b5be17922aaaf42a22726989717f9531"
     },
     {
+      "path": "exploration/persistent-01/worker-n/N05/CARD.md",
+      "bytes": 2963,
+      "sha256": "b3b6fe5b3310bb41663ca1532ed336ca8c0ab385d9127f61782075790f1204c3"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/REPAIR-CARD.md",
+      "bytes": 1208,
+      "sha256": "f26760bd01a92c3ff9bdb83328078ac2894fea386669105b535661b66746ef8c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/REPORT.md",
+      "bytes": 4932,
+      "sha256": "a328bd8f03d0c7f6ca2a6525f292c6d1451d778794fa7fd771507af23126d206"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/evidence.json.gz",
+      "bytes": 304278,
+      "sha256": "01aca71afeef45ea5870fe1a8bb79e66db702fa33aae4af5a396c08f17a2d3c8"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/n05.py",
+      "bytes": 6568,
+      "sha256": "70b7a073bf98efd9125442ee84b345c398ed9341076d25fd1e673dd9242dbb47"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/n05_repaired.py",
+      "bytes": 6772,
+      "sha256": "e9cd815d73f0a243eac0365114f4acc0b73642f6ff9b99fffde70b77614584b3"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/p1-row1-inspection.png",
+      "bytes": 39055,
+      "sha256": "4e3541d0db48bef3536ff24d145da54b8372e7603502e1bde5afbc2694776c29"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/p1-row7-inspection.png",
+      "bytes": 39785,
+      "sha256": "4963a9b86da50091648f8690b09be66f557b082cd618ee02765a9aa84b724a7d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/repaired-evidence.json.gz",
+      "bytes": 304553,
+      "sha256": "ccf64dd79cdf0499284ece1d65da25e1882f36a2ec604888fb0ab1fcc9e44265"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/repaired-summary.json",
+      "bytes": 13869,
+      "sha256": "1927b9e1efc304e3680d989a5244ba0ad88a58a0193c26f7c408dc55da2d4a3f"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215434.290261Z-N05-position-model/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215434.290261Z-N05-position-model/code/exploration/persistent-01/worker-n/N05/n05.py",
+      "bytes": 6568,
+      "sha256": "70b7a073bf98efd9125442ee84b345c398ed9341076d25fd1e673dd9242dbb47"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215434.290261Z-N05-position-model/command.json",
+      "bytes": 1982,
+      "sha256": "46f0e48ba2761725b740014f88f708d954a8d4ae0be9343f9895a6cc4997bf45"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215434.290261Z-N05-position-model/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215434.290261Z-N05-position-model/stdout.txt",
+      "bytes": 571,
+      "sha256": "10f0495d89ec8c70bfcd037b378c2f622dac839625c4a9cdee3f0e6a8a19e095"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215557.270400Z-N05-separator-diagnostic/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215557.270400Z-N05-separator-diagnostic/code/exploration/persistent-01/worker-n/N05/n05.py",
+      "bytes": 6568,
+      "sha256": "70b7a073bf98efd9125442ee84b345c398ed9341076d25fd1e673dd9242dbb47"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215557.270400Z-N05-separator-diagnostic/code/exploration/persistent-01/worker-n/N05/separators.py",
+      "bytes": 1256,
+      "sha256": "c1f2893abb6136d03e4d25267fc4e1bfd449a44d296d41d3ec15d265e8d5b74c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215557.270400Z-N05-separator-diagnostic/command.json",
+      "bytes": 1575,
+      "sha256": "3e03ce7f61e4776939626181678303158c2c22bb88bd3d5715904aa8adb95dcf"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215557.270400Z-N05-separator-diagnostic/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215557.270400Z-N05-separator-diagnostic/stdout.txt",
+      "bytes": 79,
+      "sha256": "5e9d1a05f53b1015b52d2e1fffad6d0b1bbe476a149a505e3d7ff161e90749c7"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215630.277309Z-N05-punctuation-repair/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215630.277309Z-N05-punctuation-repair/code/exploration/persistent-01/worker-n/N05/n05.py",
+      "bytes": 6568,
+      "sha256": "70b7a073bf98efd9125442ee84b345c398ed9341076d25fd1e673dd9242dbb47"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215630.277309Z-N05-punctuation-repair/code/exploration/persistent-01/worker-n/N05/n05_repaired.py",
+      "bytes": 6772,
+      "sha256": "e9cd815d73f0a243eac0365114f4acc0b73642f6ff9b99fffde70b77614584b3"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215630.277309Z-N05-punctuation-repair/code/exploration/persistent-01/worker-n/N05/separators.py",
+      "bytes": 1256,
+      "sha256": "c1f2893abb6136d03e4d25267fc4e1bfd449a44d296d41d3ec15d265e8d5b74c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215630.277309Z-N05-punctuation-repair/command.json",
+      "bytes": 2214,
+      "sha256": "a7da6c16cde1a97f511db8682f2de2dc814a8a16356f60948e9bc5c57666c2f3"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215630.277309Z-N05-punctuation-repair/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215630.277309Z-N05-punctuation-repair/stdout.txt",
+      "bytes": 575,
+      "sha256": "4b44d8d57cbc7a92cd63e2014e4b6b4ccf1e8fd042da4a29a15aa0f8ea9ce772"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215708.247507Z-N05-identifiability-check/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215708.247507Z-N05-identifiability-check/code/exploration/persistent-01/worker-n/N05/n05.py",
+      "bytes": 6568,
+      "sha256": "70b7a073bf98efd9125442ee84b345c398ed9341076d25fd1e673dd9242dbb47"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215708.247507Z-N05-identifiability-check/code/exploration/persistent-01/worker-n/N05/n05_repaired.py",
+      "bytes": 6772,
+      "sha256": "e9cd815d73f0a243eac0365114f4acc0b73642f6ff9b99fffde70b77614584b3"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215708.247507Z-N05-identifiability-check/code/exploration/persistent-01/worker-n/N05/separators.py",
+      "bytes": 1256,
+      "sha256": "c1f2893abb6136d03e4d25267fc4e1bfd449a44d296d41d3ec15d265e8d5b74c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215708.247507Z-N05-identifiability-check/code/exploration/persistent-01/worker-n/N05/verify.py",
+      "bytes": 1250,
+      "sha256": "010e9ba658b29fa340d43fb4b933a7003b5ef12c7e55f19d61ef5b56bd51fb2e"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215708.247507Z-N05-identifiability-check/command.json",
+      "bytes": 1999,
+      "sha256": "4dca112cfacf3281b8568fa6a5e98c05b4ac3e56f02a242c2df72053e5e279c0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215708.247507Z-N05-identifiability-check/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/runs/20260916T215708.247507Z-N05-identifiability-check/stdout.txt",
+      "bytes": 226,
+      "sha256": "55d9c53339e75f3f850486bed5d4f871dabf9f8b7d13017fe33f19a432a5bb22"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/separator-types.json",
+      "bytes": 19567,
+      "sha256": "9a0384ace241adbfe4c8096b1e2c015da3489c5e3705646776fe4e264268a9be"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/separators.py",
+      "bytes": 1256,
+      "sha256": "c1f2893abb6136d03e4d25267fc4e1bfd449a44d296d41d3ec15d265e8d5b74c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/summary.json",
+      "bytes": 13842,
+      "sha256": "03b6925a1f09b7edc5c9f8d5a29d449586c8f88e9e776a9e54c17b74a39bf102"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/verification.json",
+      "bytes": 249,
+      "sha256": "3b44fc9b688afe08c4d7026cbe7dda5ab070cb9f8a8997b99cb7610caee93490"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/verify.py",
+      "bytes": 1250,
+      "sha256": "010e9ba658b29fa340d43fb4b933a7003b5ef12c7e55f19d61ef5b56bd51fb2e"
+    },
+    {
       "path": "exploration/persistent-01/worker-n/REPORT.md",
       "bytes": 4028,
       "sha256": "b21693ef1896bd834374408763a7cab60e0f6f7f536fc9d1d61313eb5522ea30"
     },
     {
       "path": "exploration/persistent-01/worker-n/RESUME.md",
-      "bytes": 1513,
-      "sha256": "0be7008800b6889c8ccf59cf001802b610cb5a3ef700d132f10b5d60372590d4"
+      "bytes": 1951,
+      "sha256": "017aa08824b787c0625f5fcb2901ff1d9c33bf97c9c3910b92364285cd3c89de"
     },
     {
       "path": "exploration/persistent-01/worker-n/n01.py",

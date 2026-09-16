@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-p/p01.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "a899c38fe777f66fc2e1995aa0fbfa935bf59d58",
+  "started_utc": "2026-09-16T21:47:39.967892+00:00",
+  "timeout_seconds": 300,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/parallel-01/inputs/page-map.json",
+      "exists": true,
+      "bytes": 44677,
+      "sha256": "f59bf8d94c86a06cf620b5368eabb27dfebc62fbf39b38e467636785762f4cba"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P01-CARD.md",
+      "exists": true,
+      "bytes": 1997,
+      "sha256": "89c7992756fe0ef8444b9893ebd31df4d1d422119003502807d838e38ad98441"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p01.py",
+      "exists": true,
+      "bytes": 2888,
+      "sha256": "54015c957edb9cdee7de5e7404f3bc04defda6ff8f69d928db1dc3a708484315"
+    },
+    {
+      "path": "liber-primus/data/relikd/p13.jpg",
+      "exists": true,
+      "bytes": 619368,
+      "sha256": "3481daeed3ab2bea6effbe36eec22f74955bce87ca4b4ae8674be1d3f84ea08d"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 56939,
+  "finished_utc": "2026-09-16T21:47:45.385717+00:00",
+  "duration_seconds": 5.417587333
+}

@@ -1,0 +1,64 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-n/N05/verify.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "d3d88d88dd8bda7e27da23a0d9e5dca72922f8f3",
+  "started_utc": "2026-09-16T21:57:08.257683+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/n05.py",
+      "exists": true,
+      "bytes": 6568,
+      "sha256": "70b7a073bf98efd9125442ee84b345c398ed9341076d25fd1e673dd9242dbb47"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/n05_repaired.py",
+      "exists": true,
+      "bytes": 6772,
+      "sha256": "e9cd815d73f0a243eac0365114f4acc0b73642f6ff9b99fffde70b77614584b3"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/repaired-evidence.json.gz",
+      "exists": true,
+      "bytes": 304553,
+      "sha256": "ccf64dd79cdf0499284ece1d65da25e1882f36a2ec604888fb0ab1fcc9e44265"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/separators.py",
+      "exists": true,
+      "bytes": 1256,
+      "sha256": "c1f2893abb6136d03e4d25267fc4e1bfd449a44d296d41d3ec15d265e8d5b74c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N05/verify.py",
+      "exists": true,
+      "bytes": 1250,
+      "sha256": "010e9ba658b29fa340d43fb4b933a7003b5ef12c7e55f19d61ef5b56bd51fb2e"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 59397,
+  "finished_utc": "2026-09-16T21:57:08.341653+00:00",
+  "duration_seconds": 0.08374783399995067
+}

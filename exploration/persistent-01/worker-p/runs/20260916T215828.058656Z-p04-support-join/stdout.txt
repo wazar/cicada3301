@@ -1,0 +1,69 @@
+{
+  "common_supports": [
+    "BCDFGHLMNPRSTWY"
+  ],
+  "pages": [
+    {
+      "page": 0,
+      "supports": {
+        "BCDFGHLMNPRSTWY": {
+          "distinct_vectors": 43,
+          "alias_windows": 47
+        }
+      }
+    },
+    {
+      "page": 1,
+      "supports": {
+        "BCDFGHLMNPRSTWY": {
+          "distinct_vectors": 103,
+          "alias_windows": 113
+        }
+      }
+    },
+    {
+      "page": 3,
+      "supports": {
+        "BCDFGHLMNPRSTW": {
+          "distinct_vectors": 42,
+          "alias_windows": 44
+        },
+        "BCDFGHLMNPRSTWY": {
+          "distinct_vectors": 155,
+          "alias_windows": 169
+        }
+      }
+    },
+    {
+      "page": 7,
+      "supports": {
+        "BCDFGHJLMNPRSTWY": {
+          "distinct_vectors": 12,
+          "alias_windows": 13
+        },
+        "BCDFGHLMNPRSTW": {
+          "distinct_vectors": 48,
+          "alias_windows": 58
+        },
+        "BCDFGHLMNPRSTWY": {
+          "distinct_vectors": 376,
+          "alias_windows": 415
+        },
+        "CDFGHLMNPRSTWY": {
+          "distinct_vectors": 28,
+          "alias_windows": 31
+        }
+      }
+    },
+    {
+      "page": 17,
+      "supports": {
+        "BCDFGHLMNPRSTWY": {
+          "distinct_vectors": 129,
+          "alias_windows": 141
+        }
+      }
+    }
+  ]
+}
+scipy_available True

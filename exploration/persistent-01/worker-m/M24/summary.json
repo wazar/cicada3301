@@ -1,0 +1,37 @@
+{
+  "real_score": -0.004218276603067955,
+  "real_tail": 0.777,
+  "real_train_score": 0.004015202415264851,
+  "threshold99": 0.0002763211074738739,
+  "power": {
+    "control03": {
+      "n": 100,
+      "above_null99": 100,
+      "minimum": 0.02320178460770723,
+      "maximum": 0.04961153975973978,
+      "mean": 0.035375468758967445
+    },
+    "control06": {
+      "n": 100,
+      "above_null99": 100,
+      "minimum": 0.10137429506709994,
+      "maximum": 0.16580367765322807,
+      "mean": 0.12778846304252506
+    }
+  },
+  "nulls": 999,
+  "controls": 200,
+  "held_eligible": 4364,
+  "seconds": 11.570595708999463,
+  "rank_state": "near1..3 versusfar4..28",
+  "rng_after": {
+    "bit_generator": "PCG64",
+    "state": {
+      "state": 243145484737153053095787421078459553601,
+      "inc": 26502618739184800869612198328504089921
+    },
+    "has_uint32": 0,
+    "uinteger": 1030166439
+  },
+  "scope": "conditional recency-rank memory, not literal rune-order2"
+}

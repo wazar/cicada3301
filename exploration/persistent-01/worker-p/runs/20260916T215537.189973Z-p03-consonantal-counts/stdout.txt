@@ -1,0 +1,266 @@
+page 0 windows 512
+page 1 windows 500
+page 3 windows 647
+page 7 windows 674
+page 17 windows 479
+{
+  "pages": [
+    {
+      "page": 0,
+      "n": 262,
+      "windows": 512,
+      "deduplicated_cases": 458,
+      "statuses_weighted": {
+        "INFEASIBLE": 465,
+        "FEASIBLE": 47
+      },
+      "reasons_weighted": {
+        "minimum": 440
+      },
+      "source_weights": [
+        {
+          "group": "0_koan_1",
+          "windows": 229
+        },
+        {
+          "group": "0_loss_of_divinity",
+          "windows": 220
+        },
+        {
+          "group": "0_welcome",
+          "windows": 63
+        },
+        {
+          "group": "jpg107-167",
+          "windows": 0
+        }
+      ],
+      "source_statuses": {
+        "0_koan_1": {
+          "INFEASIBLE": 182,
+          "FEASIBLE": 47
+        },
+        "0_loss_of_divinity": {
+          "INFEASIBLE": 220
+        },
+        "0_welcome": {
+          "INFEASIBLE": 63
+        },
+        "jpg107-167": {}
+      }
+    },
+    {
+      "page": 1,
+      "n": 266,
+      "windows": 500,
+      "deduplicated_cases": 447,
+      "statuses_weighted": {
+        "INFEASIBLE": 387,
+        "FEASIBLE": 113
+      },
+      "reasons_weighted": {
+        "minimum": 281,
+        "small_capacity": 6
+      },
+      "source_weights": [
+        {
+          "group": "0_koan_1",
+          "windows": 225
+        },
+        {
+          "group": "0_loss_of_divinity",
+          "windows": 216
+        },
+        {
+          "group": "0_welcome",
+          "windows": 59
+        },
+        {
+          "group": "jpg107-167",
+          "windows": 0
+        }
+      ],
+      "source_statuses": {
+        "0_koan_1": {
+          "INFEASIBLE": 163,
+          "FEASIBLE": 62
+        },
+        "0_loss_of_divinity": {
+          "INFEASIBLE": 165,
+          "FEASIBLE": 51
+        },
+        "0_welcome": {
+          "INFEASIBLE": 59
+        },
+        "jpg107-167": {}
+      }
+    },
+    {
+      "page": 3,
+      "n": 217,
+      "windows": 647,
+      "deduplicated_cases": 562,
+      "statuses_weighted": {
+        "INFEASIBLE": 434,
+        "FEASIBLE": 213
+      },
+      "reasons_weighted": {
+        "minimum": 356,
+        "small_capacity": 78
+      },
+      "source_weights": [
+        {
+          "group": "0_koan_1",
+          "windows": 274
+        },
+        {
+          "group": "0_loss_of_divinity",
+          "windows": 265
+        },
+        {
+          "group": "0_welcome",
+          "windows": 108
+        },
+        {
+          "group": "jpg107-167",
+          "windows": 0
+        }
+      ],
+      "source_statuses": {
+        "0_koan_1": {
+          "INFEASIBLE": 151,
+          "FEASIBLE": 123
+        },
+        "0_loss_of_divinity": {
+          "INFEASIBLE": 175,
+          "FEASIBLE": 90
+        },
+        "0_welcome": {
+          "INFEASIBLE": 108
+        },
+        "jpg107-167": {}
+      }
+    },
+    {
+      "page": 7,
+      "n": 208,
+      "windows": 674,
+      "deduplicated_cases": 593,
+      "statuses_weighted": {
+        "INFEASIBLE": 157,
+        "FEASIBLE": 517
+      },
+      "reasons_weighted": {
+        "small_capacity": 137
+      },
+      "source_weights": [
+        {
+          "group": "0_koan_1",
+          "windows": 283
+        },
+        {
+          "group": "0_loss_of_divinity",
+          "windows": 274
+        },
+        {
+          "group": "0_welcome",
+          "windows": 117
+        },
+        {
+          "group": "jpg107-167",
+          "windows": 0
+        }
+      ],
+      "source_statuses": {
+        "0_koan_1": {
+          "INFEASIBLE": 49,
+          "FEASIBLE": 234
+        },
+        "0_loss_of_divinity": {
+          "FEASIBLE": 270,
+          "INFEASIBLE": 4
+        },
+        "0_welcome": {
+          "INFEASIBLE": 104,
+          "FEASIBLE": 13
+        },
+        "jpg107-167": {}
+      }
+    },
+    {
+      "page": 17,
+      "n": 273,
+      "windows": 479,
+      "deduplicated_cases": 418,
+      "statuses_weighted": {
+        "INFEASIBLE": 338,
+        "FEASIBLE": 141
+      },
+      "reasons_weighted": {
+        "minimum": 292,
+        "small_capacity": 45
+      },
+      "source_weights": [
+        {
+          "group": "0_koan_1",
+          "windows": 218
+        },
+        {
+          "group": "0_loss_of_divinity",
+          "windows": 209
+        },
+        {
+          "group": "0_welcome",
+          "windows": 52
+        },
+        {
+          "group": "jpg107-167",
+          "windows": 0
+        }
+      ],
+      "source_statuses": {
+        "0_koan_1": {
+          "INFEASIBLE": 103,
+          "FEASIBLE": 115
+        },
+        "0_loss_of_divinity": {
+          "INFEASIBLE": 183,
+          "FEASIBLE": 26
+        },
+        "0_welcome": {
+          "INFEASIBLE": 52
+        },
+        "jpg107-167": {}
+      }
+    }
+  ],
+  "texts": [
+    {
+      "name": "0_koan_1",
+      "original_expanded_n": 815,
+      "consonantal_n": 490,
+      "deleted": 325
+    },
+    {
+      "name": "0_loss_of_divinity",
+      "original_expanded_n": 808,
+      "consonantal_n": 481,
+      "deleted": 327
+    },
+    {
+      "name": "0_welcome",
+      "original_expanded_n": 542,
+      "consonantal_n": 324,
+      "deleted": 218
+    },
+    {
+      "name": "jpg107-167",
+      "original_expanded_n": 340,
+      "consonantal_n": 195,
+      "deleted": 145
+    }
+  ],
+  "tiny_controls": 200,
+  "actual_controls": 10,
+  "elapsed": 0.5531220000011672
+}

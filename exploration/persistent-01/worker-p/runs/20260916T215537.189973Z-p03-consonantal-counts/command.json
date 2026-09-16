@@ -1,0 +1,88 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-p/p03.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "d3d88d88dd8bda7e27da23a0d9e5dca72922f8f3",
+  "started_utc": "2026-09-16T21:55:37.199197+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-j/j03-windows.json.gz",
+      "exists": true,
+      "bytes": 86629,
+      "sha256": "e41ad4d25b1f9470943040ab5a4d2e23713717f35c28551600b79e362deef692"
+    },
+    {
+      "path": "exploration/persistent-01/worker-o/o02.py",
+      "exists": true,
+      "bytes": 6834,
+      "sha256": "f6ffcb2091458d95b710cf059e7052fd0ee64c0bbd8526201fef42b47d136087"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P03/CARD.md",
+      "exists": true,
+      "bytes": 2728,
+      "sha256": "3182aff516a45b8978d19f602ffa59237ce76be8fc5b43083d27b6366cb6d286"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p01.py",
+      "exists": true,
+      "bytes": 2888,
+      "sha256": "54015c957edb9cdee7de5e7404f3bc04defda6ff8f69d928db1dc3a708484315"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p02.py",
+      "exists": true,
+      "bytes": 4168,
+      "sha256": "7b62ea4589c9b726abd70dad9736a7834ae6fbd185ca4a0a9765a351b68ed454"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p02_verify.py",
+      "exists": true,
+      "bytes": 1971,
+      "sha256": "86a94961a27ac9d4db4e047b4b90404ceb7090d666b2aec2995a449ffd29da8b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p03.py",
+      "exists": true,
+      "bytes": 6457,
+      "sha256": "71b05f7c6e2ca97e5d392b5eec108c560f359e9316d99e2f38e0a02013df923c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/replay.py",
+      "exists": true,
+      "bytes": 1297,
+      "sha256": "4556416f404e4e3737101b6c41d693f212b6cdebedb646ba0c8c907d56a19d05"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 58365,
+  "finished_utc": "2026-09-16T21:55:37.850186+00:00",
+  "duration_seconds": 0.650743791
+}

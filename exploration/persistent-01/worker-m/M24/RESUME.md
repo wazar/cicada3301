@@ -1,0 +1,1 @@
+M24 completed one frozen predictive recencygrammar; no real signal and no state/rho expansion authorized. Primary evidence under generated-evidence.npz, replicates.json.gz, real.json, summary.json; check-result.json and runlogs record independent replay. Root next assignment M25 targets inherited skip_by_two transition gap; do not reuse M24 miss to claim arbitrarymemory absent.

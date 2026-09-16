@@ -1,0 +1,186 @@
+Running HiGHS 1.12.0 (git hash: 4f96ee8): Copyright (c) 2025 HiGHS under MIT licence terms
+MIP has 49 rows; 92 cols; 542 nonzeros; 92 integer variables (92 binary)
+Coefficient ranges:
+  Matrix  [1e+00, 1e+02]
+  Cost    [0e+00, 0e+00]
+  Bound   [1e+00, 1e+00]
+  RHS     [1e+00, 1e+00]
+Presolving model
+44 rows, 87 cols, 522 nonzeros  0s
+44 rows, 87 cols, 480 nonzeros  0s
+Presolve reductions: rows 44(-5); columns 87(-5); nonzeros 480(-62) 
+Objective function is integral with scale 1
+
+Solving MIP model with:
+   44 rows
+   87 cols (87 binary, 0 integer, 0 implied int., 0 continuous, 0 domain fixed)
+   480 nonzeros
+
+Src: B => Branching; C => Central rounding; F => Feasibility pump; H => Heuristic;
+     I => Shifting; J => Feasibility jump; L => Sub-MIP; P => Empty MIP; R => Randomized rounding;
+     S => Solve LP; T => Evaluate node; U => Unbounded; X => User solution; Y => HiGHS solution;
+     Z => ZI Round; l => Trivial lower; p => Trivial point; u => Trivial upper; z => Trivial zero
+
+        Nodes      |    B&B Tree     |            Objective Bounds              |  Dynamic Constraints |       Work      
+Src  Proc. InQueue |  Leaves   Expl. | BestBound       BestSol              Gap |   Cuts   InLp Confl. | LpIters     Time
+
+         0       0         0   0.00%   0               inf                  inf        0      0      0         0     0.0s
+         0       0         0   0.00%   0               inf                  inf        0      0      8        70     0.0s
+ T     640       0       283 100.00%   0               0                  0.00%     2201     21   1523      4613     0.1s
+       641       0       284 100.00%   0               0                  0.00%     2201     21   1523      4620     0.1s
+
+Solving report
+  Status            Optimal
+  Primal bound      0
+  Dual bound        0
+  Gap               0%
+  P-D integral      0
+  Solution status   feasible
+                    0 (objective)
+                    0 (bound viol.)
+                    6.2172489379e-15 (int. viol.)
+                    0 (row viol.)
+  Timing            0.12
+  Max sub-MIP depth 2
+  Nodes             641
+  Repair LPs        0
+  LP iterations     4620
+                    0 (strong br.)
+                    185 (separation)
+                    1520 (heuristics)
+RESULT {"label": "positive", "options": {"presolve": true, "time_limit": 10.0, "mip_rel_gap": 0.0, "threads": 1}, "status": 0, "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)", "success": true, "seconds": 0.12085379100244609, "rows": 49, "variables": 92, "nonzero": 542, "node_count": 641, "mip_gap": 0.0, "classification": "FEASIBLE"}
+Running HiGHS 1.12.0 (git hash: 4f96ee8): Copyright (c) 2025 HiGHS under MIT licence terms
+MIP has 49 rows; 92 cols; 542 nonzeros; 92 integer variables (92 binary)
+Coefficient ranges:
+  Matrix  [1e+00, 2e+02]
+  Cost    [0e+00, 0e+00]
+  Bound   [1e+00, 1e+00]
+  RHS     [1e+00, 1e+00]
+Presolving model
+Presolve: Infeasible
+
+Src: B => Branching; C => Central rounding; F => Feasibility pump; H => Heuristic;
+     I => Shifting; J => Feasibility jump; L => Sub-MIP; P => Empty MIP; R => Randomized rounding;
+     S => Solve LP; T => Evaluate node; U => Unbounded; X => User solution; Y => HiGHS solution;
+     Z => ZI Round; l => Trivial lower; p => Trivial point; u => Trivial upper; z => Trivial zero
+
+        Nodes      |    B&B Tree     |            Objective Bounds              |  Dynamic Constraints |       Work      
+Src  Proc. InQueue |  Leaves   Expl. | BestBound       BestSol              Gap |   Cuts   InLp Confl. | LpIters     Time
+
+         0       0         0   0.00%   -inf            inf                  inf        0      0      0         0     0.0s
+
+Solving report
+  Status            Infeasible
+  Primal bound      inf
+  Dual bound        -inf
+  Gap               inf
+  P-D integral      0
+  Solution status   -
+  Timing            0.00
+  Max sub-MIP depth 0
+  Nodes             0
+  Repair LPs        0
+  LP iterations     0
+RESULT {"label": "negative", "options": {"presolve": true, "time_limit": 10.0, "mip_rel_gap": 0.0, "threads": 1}, "status": 2, "message": "The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)", "success": false, "seconds": 0.0005429169978015125, "rows": 49, "variables": 92, "nonzero": 542, "node_count": null, "mip_gap": null, "classification": "INFEASIBLE"}
+Running HiGHS 1.12.0 (git hash: 4f96ee8): Copyright (c) 2025 HiGHS under MIT licence terms
+MIP has 109 rows; 1241 cols; 15506 nonzeros; 1241 integer variables (1241 binary)
+Coefficient ranges:
+  Matrix  [1e+00, 5e+01]
+  Cost    [0e+00, 0e+00]
+  Bound   [1e+00, 1e+00]
+  RHS     [1e+00, 1e+00]
+Presolving model
+109 rows, 1241 cols, 15506 nonzeros  0s
+Presolve: Infeasible
+
+Src: B => Branching; C => Central rounding; F => Feasibility pump; H => Heuristic;
+     I => Shifting; J => Feasibility jump; L => Sub-MIP; P => Empty MIP; R => Randomized rounding;
+     S => Solve LP; T => Evaluate node; U => Unbounded; X => User solution; Y => HiGHS solution;
+     Z => ZI Round; l => Trivial lower; p => Trivial point; u => Trivial upper; z => Trivial zero
+
+        Nodes      |    B&B Tree     |            Objective Bounds              |  Dynamic Constraints |       Work      
+Src  Proc. InQueue |  Leaves   Expl. | BestBound       BestSol              Gap |   Cuts   InLp Confl. | LpIters     Time
+
+         0       0         0   0.00%   -inf            inf                  inf        0      0      0         0     0.1s
+
+Solving report
+  Status            Infeasible
+  Primal bound      inf
+  Dual bound        -inf
+  Gap               inf
+  P-D integral      0
+  Solution status   -
+  Timing            0.10
+  Max sub-MIP depth 0
+  Nodes             0
+  Repair LPs        0
+  LP iterations     0
+RESULT {"label": "real-0", "options": {"presolve": true, "time_limit": 119.86902329200166, "mip_rel_gap": 0.0, "threads": 1}, "status": 2, "message": "The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)", "success": false, "seconds": 0.09944387500218, "rows": 109, "variables": 1241, "nonzero": 15506, "node_count": null, "mip_gap": null, "classification": "INFEASIBLE"}
+{
+  "scipy": "1.18.1",
+  "python": "3.12.14",
+  "aggregate_seconds": 0.27415887499955716,
+  "thread_limit": 1,
+  "controls": [
+    {
+      "label": "positive",
+      "options": {
+        "presolve": true,
+        "time_limit": 10.0,
+        "mip_rel_gap": 0.0,
+        "threads": 1
+      },
+      "status": 0,
+      "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+      "success": true,
+      "seconds": 0.12085379100244609,
+      "rows": 49,
+      "variables": 92,
+      "nonzero": 542,
+      "node_count": 641,
+      "mip_gap": 0.0,
+      "classification": "FEASIBLE"
+    },
+    {
+      "label": "negative",
+      "options": {
+        "presolve": true,
+        "time_limit": 10.0,
+        "mip_rel_gap": 0.0,
+        "threads": 1
+      },
+      "status": 2,
+      "message": "The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)",
+      "success": false,
+      "seconds": 0.0005429169978015125,
+      "rows": 49,
+      "variables": 92,
+      "nonzero": 542,
+      "node_count": null,
+      "mip_gap": null,
+      "classification": "INFEASIBLE"
+    }
+  ],
+  "real": [
+    {
+      "label": "real-0",
+      "options": {
+        "presolve": true,
+        "time_limit": 119.86902329200166,
+        "mip_rel_gap": 0.0,
+        "threads": 1
+      },
+      "status": 2,
+      "message": "The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)",
+      "success": false,
+      "seconds": 0.09944387500218,
+      "rows": 109,
+      "variables": 1241,
+      "nonzero": 15506,
+      "node_count": null,
+      "mip_gap": null,
+      "classification": "INFEASIBLE",
+      "support": "BCDFGHLMNPRSTWY"
+    }
+  ]
+}

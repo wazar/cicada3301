@@ -1,0 +1,681 @@
+{
+  "real": 5,
+  "real_nulls_independent_dp": 999,
+  "control_plants_independent_dp": 80,
+  "mapped_hits": [
+    {
+      "pages": [
+        0,
+        1
+      ],
+      "reverse": true,
+      "lengths": [
+        4,
+        3,
+        3,
+        4,
+        3
+      ],
+      "units": [
+        [
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        [
+          19,
+          18,
+          17,
+          16,
+          15
+        ]
+      ],
+      "unit_source_maps": [
+        [
+          {
+            "start": 39,
+            "end": 43,
+            "source_lines": [
+              1
+            ],
+            "raw_positions": [
+              47,
+              48,
+              49,
+              50
+            ],
+            "source_char_positions": [
+              48,
+              49,
+              50,
+              51
+            ]
+          },
+          {
+            "start": 43,
+            "end": 46,
+            "source_lines": [
+              2
+            ],
+            "raw_positions": [
+              53,
+              54,
+              55
+            ],
+            "source_char_positions": [
+              55,
+              56,
+              57
+            ]
+          },
+          {
+            "start": 46,
+            "end": 49,
+            "source_lines": [
+              2
+            ],
+            "raw_positions": [
+              57,
+              58,
+              59
+            ],
+            "source_char_positions": [
+              59,
+              60,
+              61
+            ]
+          },
+          {
+            "start": 49,
+            "end": 53,
+            "source_lines": [
+              2
+            ],
+            "raw_positions": [
+              61,
+              62,
+              63,
+              64
+            ],
+            "source_char_positions": [
+              63,
+              64,
+              65,
+              66
+            ]
+          },
+          {
+            "start": 53,
+            "end": 56,
+            "source_lines": [
+              2
+            ],
+            "raw_positions": [
+              66,
+              67,
+              68
+            ],
+            "source_char_positions": [
+              68,
+              69,
+              70
+            ]
+          }
+        ],
+        [
+          {
+            "start": 82,
+            "end": 86,
+            "source_lines": [
+              3
+            ],
+            "raw_positions": [
+              105,
+              106,
+              107,
+              108
+            ],
+            "source_char_positions": [
+              453,
+              454,
+              455,
+              456
+            ]
+          },
+          {
+            "start": 79,
+            "end": 82,
+            "source_lines": [
+              3
+            ],
+            "raw_positions": [
+              101,
+              102,
+              103
+            ],
+            "source_char_positions": [
+              449,
+              450,
+              451
+            ]
+          },
+          {
+            "start": 76,
+            "end": 79,
+            "source_lines": [
+              3
+            ],
+            "raw_positions": [
+              97,
+              98,
+              99
+            ],
+            "source_char_positions": [
+              445,
+              446,
+              447
+            ]
+          },
+          {
+            "start": 72,
+            "end": 76,
+            "source_lines": [
+              3
+            ],
+            "raw_positions": [
+              92,
+              93,
+              94,
+              95
+            ],
+            "source_char_positions": [
+              440,
+              441,
+              442,
+              443
+            ]
+          },
+          {
+            "start": 69,
+            "end": 72,
+            "source_lines": [
+              2,
+              3
+            ],
+            "raw_positions": [
+              87,
+              89,
+              90
+            ],
+            "source_char_positions": [
+              434,
+              437,
+              438
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "pages": [
+        5,
+        7
+      ],
+      "reverse": false,
+      "lengths": [
+        1,
+        6,
+        4,
+        3,
+        3
+      ],
+      "units": [
+        [
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        [
+          35,
+          36,
+          37,
+          38,
+          39
+        ]
+      ],
+      "unit_source_maps": [
+        [
+          {
+            "start": 43,
+            "end": 44,
+            "source_lines": [
+              1
+            ],
+            "raw_positions": [
+              55
+            ],
+            "source_char_positions": [
+              1651
+            ]
+          },
+          {
+            "start": 44,
+            "end": 50,
+            "source_lines": [
+              2
+            ],
+            "raw_positions": [
+              58,
+              59,
+              60,
+              61,
+              62,
+              63
+            ],
+            "source_char_positions": [
+              1655,
+              1656,
+              1657,
+              1658,
+              1659,
+              1660
+            ]
+          },
+          {
+            "start": 50,
+            "end": 54,
+            "source_lines": [
+              2
+            ],
+            "raw_positions": [
+              65,
+              66,
+              67,
+              68
+            ],
+            "source_char_positions": [
+              1662,
+              1663,
+              1664,
+              1665
+            ]
+          },
+          {
+            "start": 54,
+            "end": 57,
+            "source_lines": [
+              2
+            ],
+            "raw_positions": [
+              70,
+              71,
+              72
+            ],
+            "source_char_positions": [
+              1667,
+              1668,
+              1669
+            ]
+          },
+          {
+            "start": 57,
+            "end": 60,
+            "source_lines": [
+              2
+            ],
+            "raw_positions": [
+              74,
+              75,
+              76
+            ],
+            "source_char_positions": [
+              1671,
+              1672,
+              1673
+            ]
+          }
+        ],
+        [
+          {
+            "start": 148,
+            "end": 149,
+            "source_lines": [
+              6
+            ],
+            "raw_positions": [
+              190
+            ],
+            "source_char_positions": [
+              2402
+            ]
+          },
+          {
+            "start": 149,
+            "end": 155,
+            "source_lines": [
+              6,
+              7
+            ],
+            "raw_positions": [
+              192,
+              194,
+              195,
+              196,
+              197,
+              198
+            ],
+            "source_char_positions": [
+              2404,
+              2407,
+              2408,
+              2409,
+              2410,
+              2411
+            ]
+          },
+          {
+            "start": 155,
+            "end": 159,
+            "source_lines": [
+              7
+            ],
+            "raw_positions": [
+              200,
+              201,
+              202,
+              203
+            ],
+            "source_char_positions": [
+              2413,
+              2414,
+              2415,
+              2416
+            ]
+          },
+          {
+            "start": 159,
+            "end": 162,
+            "source_lines": [
+              7
+            ],
+            "raw_positions": [
+              205,
+              206,
+              207
+            ],
+            "source_char_positions": [
+              2418,
+              2419,
+              2420
+            ]
+          },
+          {
+            "start": 162,
+            "end": 165,
+            "source_lines": [
+              7
+            ],
+            "raw_positions": [
+              209,
+              210,
+              211
+            ],
+            "source_char_positions": [
+              2422,
+              2423,
+              2424
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "pages": [
+        5,
+        8
+      ],
+      "reverse": true,
+      "lengths": [
+        3,
+        4,
+        8,
+        3,
+        4
+      ],
+      "units": [
+        [
+          28,
+          29,
+          30,
+          31,
+          32
+        ],
+        [
+          19,
+          18,
+          17,
+          16,
+          15
+        ]
+      ],
+      "unit_source_maps": [
+        [
+          {
+            "start": 115,
+            "end": 118,
+            "source_lines": [
+              5
+            ],
+            "raw_positions": [
+              149,
+              150,
+              151
+            ],
+            "source_char_positions": [
+              1749,
+              1750,
+              1751
+            ]
+          },
+          {
+            "start": 118,
+            "end": 122,
+            "source_lines": [
+              5
+            ],
+            "raw_positions": [
+              153,
+              154,
+              155,
+              156
+            ],
+            "source_char_positions": [
+              1753,
+              1754,
+              1755,
+              1756
+            ]
+          },
+          {
+            "start": 122,
+            "end": 130,
+            "source_lines": [
+              5
+            ],
+            "raw_positions": [
+              158,
+              159,
+              160,
+              161,
+              162,
+              163,
+              164,
+              165
+            ],
+            "source_char_positions": [
+              1758,
+              1759,
+              1760,
+              1761,
+              1762,
+              1763,
+              1764,
+              1765
+            ]
+          },
+          {
+            "start": 130,
+            "end": 133,
+            "source_lines": [
+              5,
+              6
+            ],
+            "raw_positions": [
+              167,
+              168,
+              170
+            ],
+            "source_char_positions": [
+              1767,
+              1768,
+              1771
+            ]
+          },
+          {
+            "start": 133,
+            "end": 137,
+            "source_lines": [
+              6
+            ],
+            "raw_positions": [
+              172,
+              173,
+              174,
+              175
+            ],
+            "source_char_positions": [
+              1773,
+              1774,
+              1775,
+              1776
+            ]
+          }
+        ],
+        [
+          {
+            "start": 82,
+            "end": 85,
+            "source_lines": [
+              4
+            ],
+            "raw_positions": [
+              106,
+              107,
+              108
+            ],
+            "source_char_positions": [
+              2602,
+              2603,
+              2604
+            ]
+          },
+          {
+            "start": 78,
+            "end": 82,
+            "source_lines": [
+              4
+            ],
+            "raw_positions": [
+              101,
+              102,
+              103,
+              104
+            ],
+            "source_char_positions": [
+              2597,
+              2598,
+              2599,
+              2600
+            ]
+          },
+          {
+            "start": 70,
+            "end": 78,
+            "source_lines": [
+              3,
+              4
+            ],
+            "raw_positions": [
+              91,
+              92,
+              94,
+              95,
+              96,
+              97,
+              98,
+              99
+            ],
+            "source_char_positions": [
+              2586,
+              2587,
+              2590,
+              2591,
+              2592,
+              2593,
+              2594,
+              2595
+            ]
+          },
+          {
+            "start": 67,
+            "end": 70,
+            "source_lines": [
+              3
+            ],
+            "raw_positions": [
+              87,
+              88,
+              89
+            ],
+            "source_char_positions": [
+              2582,
+              2583,
+              2584
+            ]
+          },
+          {
+            "start": 63,
+            "end": 67,
+            "source_lines": [
+              3
+            ],
+            "raw_positions": [
+              82,
+              83,
+              84,
+              85
+            ],
+            "source_char_positions": [
+              2577,
+              2578,
+              2579,
+              2580
+            ]
+          }
+        ]
+      ]
+    }
+  ],
+  "tail": 0.915,
+  "null_histogram": {
+    "4": 85,
+    "5": 607,
+    "6": 267,
+    "7": 36,
+    "8": 4
+  }
+}

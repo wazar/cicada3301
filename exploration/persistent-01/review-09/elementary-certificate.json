@@ -1,0 +1,1227 @@
+{
+  "verdict": "EXACT_INTEGER_CONTRADICTION",
+  "scope": "P03-certified finite consonantal source windows, shared rune-to-letter assignment across five pages",
+  "common_support": "BCDFGHLMNPRSTWY",
+  "page_order": [
+    0,
+    1,
+    3,
+    7,
+    17
+  ],
+  "rare_letter_certificates": [
+    {
+      "letter": "B",
+      "allowed_counts_per_page": [
+        [
+          5,
+          6
+        ],
+        [
+          4,
+          5,
+          6,
+          9,
+          11,
+          12,
+          13
+        ],
+        [
+          3,
+          4,
+          5,
+          8,
+          9,
+          10
+        ],
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        [
+          4,
+          5,
+          6,
+          11,
+          12,
+          13
+        ]
+      ],
+      "eligible_runes": [
+        3,
+        7,
+        24
+      ],
+      "excluded_runes": [
+        {
+          "rune": 0,
+          "profile": [
+            14,
+            13,
+            7,
+            1,
+            12
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 1,
+          "profile": [
+            7,
+            6,
+            3,
+            5,
+            7
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 2,
+          "profile": [
+            12,
+            11,
+            7,
+            8,
+            14
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 4,
+          "profile": [
+            7,
+            9,
+            6,
+            2,
+            13
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 5,
+          "profile": [
+            5,
+            15,
+            10,
+            15,
+            8
+          ],
+          "violated_page": 1,
+          "upper": 13
+        },
+        {
+          "rune": 6,
+          "profile": [
+            12,
+            11,
+            7,
+            4,
+            9
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 8,
+          "profile": [
+            10,
+            7,
+            11,
+            7,
+            8
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 9,
+          "profile": [
+            12,
+            8,
+            10,
+            10,
+            13
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 10,
+          "profile": [
+            8,
+            8,
+            9,
+            9,
+            15
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 11,
+          "profile": [
+            8,
+            8,
+            6,
+            7,
+            10
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 12,
+          "profile": [
+            9,
+            3,
+            9,
+            9,
+            10
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 13,
+          "profile": [
+            9,
+            11,
+            6,
+            10,
+            9
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 14,
+          "profile": [
+            12,
+            12,
+            6,
+            8,
+            8
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 15,
+          "profile": [
+            8,
+            12,
+            9,
+            4,
+            5
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 16,
+          "profile": [
+            8,
+            6,
+            9,
+            5,
+            13
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 17,
+          "profile": [
+            9,
+            4,
+            8,
+            5,
+            8
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 18,
+          "profile": [
+            8,
+            6,
+            5,
+            7,
+            8
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 19,
+          "profile": [
+            10,
+            5,
+            9,
+            7,
+            9
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 20,
+          "profile": [
+            7,
+            14,
+            10,
+            11,
+            6
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 21,
+          "profile": [
+            18,
+            7,
+            6,
+            9,
+            10
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 22,
+          "profile": [
+            8,
+            14,
+            5,
+            7,
+            11
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 23,
+          "profile": [
+            9,
+            8,
+            8,
+            6,
+            4
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 25,
+          "profile": [
+            9,
+            11,
+            6,
+            8,
+            12
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 26,
+          "profile": [
+            13,
+            10,
+            8,
+            3,
+            10
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 27,
+          "profile": [
+            7,
+            9,
+            9,
+            12,
+            9
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 28,
+          "profile": [
+            6,
+            12,
+            13,
+            11,
+            7
+          ],
+          "violated_page": 3,
+          "upper": 10
+        }
+      ],
+      "all_eligible_subsets": [
+        {
+          "runes": [],
+          "profile": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "allowed": false
+        },
+        {
+          "runes": [
+            24
+          ],
+          "profile": [
+            6,
+            8,
+            4,
+            6,
+            12
+          ],
+          "allowed": false
+        },
+        {
+          "runes": [
+            7
+          ],
+          "profile": [
+            5,
+            9,
+            5,
+            6,
+            6
+          ],
+          "allowed": true
+        },
+        {
+          "runes": [
+            7,
+            24
+          ],
+          "profile": [
+            11,
+            17,
+            9,
+            12,
+            18
+          ],
+          "allowed": false
+        },
+        {
+          "runes": [
+            3
+          ],
+          "profile": [
+            6,
+            9,
+            6,
+            6,
+            7
+          ],
+          "allowed": false
+        },
+        {
+          "runes": [
+            3,
+            24
+          ],
+          "profile": [
+            12,
+            17,
+            10,
+            12,
+            19
+          ],
+          "allowed": false
+        },
+        {
+          "runes": [
+            3,
+            7
+          ],
+          "profile": [
+            11,
+            18,
+            11,
+            12,
+            13
+          ],
+          "allowed": false
+        },
+        {
+          "runes": [
+            3,
+            7,
+            24
+          ],
+          "profile": [
+            17,
+            26,
+            15,
+            18,
+            25
+          ],
+          "allowed": false
+        }
+      ],
+      "compatible_subsets": [
+        [
+          7
+        ]
+      ]
+    },
+    {
+      "letter": "P",
+      "allowed_counts_per_page": [
+        [
+          5,
+          6
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        [
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      ],
+      "eligible_runes": [
+        3,
+        7
+      ],
+      "excluded_runes": [
+        {
+          "rune": 0,
+          "profile": [
+            14,
+            13,
+            7,
+            1,
+            12
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 1,
+          "profile": [
+            7,
+            6,
+            3,
+            5,
+            7
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 2,
+          "profile": [
+            12,
+            11,
+            7,
+            8,
+            14
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 4,
+          "profile": [
+            7,
+            9,
+            6,
+            2,
+            13
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 5,
+          "profile": [
+            5,
+            15,
+            10,
+            15,
+            8
+          ],
+          "violated_page": 1,
+          "upper": 9
+        },
+        {
+          "rune": 6,
+          "profile": [
+            12,
+            11,
+            7,
+            4,
+            9
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 8,
+          "profile": [
+            10,
+            7,
+            11,
+            7,
+            8
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 9,
+          "profile": [
+            12,
+            8,
+            10,
+            10,
+            13
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 10,
+          "profile": [
+            8,
+            8,
+            9,
+            9,
+            15
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 11,
+          "profile": [
+            8,
+            8,
+            6,
+            7,
+            10
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 12,
+          "profile": [
+            9,
+            3,
+            9,
+            9,
+            10
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 13,
+          "profile": [
+            9,
+            11,
+            6,
+            10,
+            9
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 14,
+          "profile": [
+            12,
+            12,
+            6,
+            8,
+            8
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 15,
+          "profile": [
+            8,
+            12,
+            9,
+            4,
+            5
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 16,
+          "profile": [
+            8,
+            6,
+            9,
+            5,
+            13
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 17,
+          "profile": [
+            9,
+            4,
+            8,
+            5,
+            8
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 18,
+          "profile": [
+            8,
+            6,
+            5,
+            7,
+            8
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 19,
+          "profile": [
+            10,
+            5,
+            9,
+            7,
+            9
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 20,
+          "profile": [
+            7,
+            14,
+            10,
+            11,
+            6
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 21,
+          "profile": [
+            18,
+            7,
+            6,
+            9,
+            10
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 22,
+          "profile": [
+            8,
+            14,
+            5,
+            7,
+            11
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 23,
+          "profile": [
+            9,
+            8,
+            8,
+            6,
+            4
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 24,
+          "profile": [
+            6,
+            8,
+            4,
+            6,
+            12
+          ],
+          "violated_page": 17,
+          "upper": 9
+        },
+        {
+          "rune": 25,
+          "profile": [
+            9,
+            11,
+            6,
+            8,
+            12
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 26,
+          "profile": [
+            13,
+            10,
+            8,
+            3,
+            10
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 27,
+          "profile": [
+            7,
+            9,
+            9,
+            12,
+            9
+          ],
+          "violated_page": 0,
+          "upper": 6
+        },
+        {
+          "rune": 28,
+          "profile": [
+            6,
+            12,
+            13,
+            11,
+            7
+          ],
+          "violated_page": 1,
+          "upper": 9
+        }
+      ],
+      "all_eligible_subsets": [
+        {
+          "runes": [],
+          "profile": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "allowed": false
+        },
+        {
+          "runes": [
+            7
+          ],
+          "profile": [
+            5,
+            9,
+            5,
+            6,
+            6
+          ],
+          "allowed": true
+        },
+        {
+          "runes": [
+            3
+          ],
+          "profile": [
+            6,
+            9,
+            6,
+            6,
+            7
+          ],
+          "allowed": true
+        },
+        {
+          "runes": [
+            3,
+            7
+          ],
+          "profile": [
+            11,
+            18,
+            11,
+            12,
+            13
+          ],
+          "allowed": false
+        }
+      ],
+      "compatible_subsets": [
+        [
+          7
+        ],
+        [
+          3
+        ]
+      ]
+    }
+  ],
+  "forced_assignment": {
+    "B": [
+      7
+    ],
+    "P": [
+      3
+    ]
+  },
+  "pagewise_joint_count_checks": [
+    {
+      "page": 0,
+      "required_B_P_counts": [
+        5,
+        6
+      ],
+      "source_B_P_pairs": [
+        [
+          5,
+          5
+        ],
+        [
+          5,
+          6
+        ],
+        [
+          6,
+          5
+        ]
+      ],
+      "remaining_vectors": 16
+    },
+    {
+      "page": 1,
+      "required_B_P_counts": [
+        9,
+        9
+      ],
+      "source_B_P_pairs": [
+        [
+          4,
+          6
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          5,
+          6
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          9,
+          7
+        ],
+        [
+          11,
+          8
+        ],
+        [
+          11,
+          9
+        ],
+        [
+          12,
+          7
+        ],
+        [
+          12,
+          8
+        ],
+        [
+          13,
+          7
+        ],
+        [
+          13,
+          8
+        ],
+        [
+          13,
+          9
+        ]
+      ],
+      "remaining_vectors": 0
+    },
+    {
+      "page": 3,
+      "required_B_P_counts": [
+        5,
+        6
+      ],
+      "source_B_P_pairs": [
+        [
+          3,
+          6
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          5
+        ],
+        [
+          10,
+          6
+        ],
+        [
+          10,
+          7
+        ],
+        [
+          10,
+          8
+        ]
+      ],
+      "remaining_vectors": 0
+    },
+    {
+      "page": 7,
+      "required_B_P_counts": [
+        6,
+        6
+      ],
+      "source_B_P_pairs": [
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          9,
+          5
+        ],
+        [
+          10,
+          4
+        ],
+        [
+          10,
+          5
+        ],
+        [
+          10,
+          6
+        ],
+        [
+          10,
+          7
+        ],
+        [
+          11,
+          5
+        ],
+        [
+          11,
+          6
+        ]
+      ],
+      "remaining_vectors": 0
+    },
+    {
+      "page": 17,
+      "required_B_P_counts": [
+        6,
+        7
+      ],
+      "source_B_P_pairs": [
+        [
+          4,
+          6
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          5,
+          6
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          11,
+          9
+        ],
+        [
+          12,
+          8
+        ],
+        [
+          13,
+          7
+        ],
+        [
+          13,
+          8
+        ],
+        [
+          13,
+          9
+        ]
+      ],
+      "remaining_vectors": 0
+    }
+  ],
+  "uses_MILP_status": false,
+  "uses_floating_point": false
+}
