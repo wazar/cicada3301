@@ -1,0 +1,124 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-p/p06_prepare.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e5a7679f08a6f3476577f795e025b783c3a3ef4c",
+  "started_utc": "2026-09-16T22:12:12.114465+00:00",
+  "timeout_seconds": 120,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/parallel-01/inputs/dataset.json",
+      "exists": true,
+      "bytes": 1378156,
+      "sha256": "e3d8a8b7a81f00e17d54209772eee7bedb5b922e6176ca722be31f952eaea895"
+    },
+    {
+      "path": "audit/parallel-01/inputs/sources/56.jpg",
+      "exists": true,
+      "bytes": 389813,
+      "sha256": "a4c1c9ae1246c3197fc1d7bd0155cbc97f60d4bba84a104d45f180feab1814dc"
+    },
+    {
+      "path": "audit/parallel-01/inputs/sources/57.jpg",
+      "exists": true,
+      "bytes": 318076,
+      "sha256": "1dabc100ddbf1fc49715219636984eb6ad96a2bd8035e196c12e66db77a1077b"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P06/CARD.md",
+      "exists": true,
+      "bytes": 2274,
+      "sha256": "5653995dc0d6dafc7bf318a90a3f7aad72870c511c386a76493ed2d07846f160"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p01.py",
+      "exists": true,
+      "bytes": 2888,
+      "sha256": "54015c957edb9cdee7de5e7404f3bc04defda6ff8f69d928db1dc3a708484315"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p02.py",
+      "exists": true,
+      "bytes": 4168,
+      "sha256": "7b62ea4589c9b726abd70dad9736a7834ae6fbd185ca4a0a9765a351b68ed454"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p02_verify.py",
+      "exists": true,
+      "bytes": 1971,
+      "sha256": "86a94961a27ac9d4db4e047b4b90404ceb7090d666b2aec2995a449ffd29da8b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p03.py",
+      "exists": true,
+      "bytes": 6457,
+      "sha256": "71b05f7c6e2ca97e5d392b5eec108c560f359e9316d99e2f38e0a02013df923c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p03_check.py",
+      "exists": true,
+      "bytes": 3957,
+      "sha256": "4415f83206c627ab13dfef69140adf422e468acef37e6b48293c2334eaa4cd76"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p04_milp.py",
+      "exists": true,
+      "bytes": 4484,
+      "sha256": "4b69d5f83ab450dc845c9aed83928f5f8bdc3c2d69530523e1b4b71b8be32eba"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p04_support.py",
+      "exists": true,
+      "bytes": 1381,
+      "sha256": "21914ce95800555ab03ebf178e8cb80a89f8c2d7d164fc5f282792d57b55181c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p05.py",
+      "exists": true,
+      "bytes": 9594,
+      "sha256": "6ace0403433307d67aa77c540c6318e9676245c98ed3aac512d18e203e207900"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p05_emission.py",
+      "exists": true,
+      "bytes": 2914,
+      "sha256": "07bd1b06c942f95a2169b63c76fbb4af0a7fdccd566ad772ed76e362aa0070ee"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p06_prepare.py",
+      "exists": true,
+      "bytes": 3260,
+      "sha256": "caec286fad4095b7651c26df5ba0acfb48cf49b3114b2861afe0fecc3acd5e49"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/replay.py",
+      "exists": true,
+      "bytes": 1297,
+      "sha256": "4556416f404e4e3737101b6c41d693f212b6cdebedb646ba0c8c907d56a19d05"
+    }
+  ],
+  "outcome": "NONZERO",
+  "exit_code": 1,
+  "pid": 61485,
+  "finished_utc": "2026-09-16T22:12:12.597133+00:00",
+  "duration_seconds": 0.48244758400000004
+}

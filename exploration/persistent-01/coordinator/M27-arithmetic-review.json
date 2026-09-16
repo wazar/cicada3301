@@ -1,0 +1,6 @@
+{
+  "packets": 440,
+  "models": 1760,
+  "max_training_objective_difference": 0,
+  "scope": "Every saved training objective, baseline, predicted row, held score and training-only selection independently reconstructed. Optimizer paths and generation not rerun; worker checks separately preserve generation replay."
+}

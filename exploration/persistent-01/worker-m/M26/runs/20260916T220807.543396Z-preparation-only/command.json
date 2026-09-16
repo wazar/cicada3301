@@ -1,0 +1,46 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-m/M26/prepare.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e5a7679f08a6f3476577f795e025b783c3a3ef4c",
+  "started_utc": "2026-09-16T22:08:07.552943+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M26/card.md",
+      "exists": true,
+      "bytes": 2775,
+      "sha256": "d22e79166af327eb346a85eeb46a2241d3e633e961947597e9841256e9976766"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M26/prepare.py",
+      "exists": true,
+      "bytes": 2113,
+      "sha256": "aaf8dc93916c421bea74910a7b764ba43536afc2dcb09abc58649ec1e2a84b22"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 60648,
+  "finished_utc": "2026-09-16T22:08:09.322937+00:00",
+  "duration_seconds": 1.7697685419989284
+}

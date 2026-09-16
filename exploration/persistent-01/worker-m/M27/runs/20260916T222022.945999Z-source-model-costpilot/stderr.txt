@@ -1,0 +1,4 @@
+  File "<REPO_ROOT>/exploration/persistent-01/worker-m/M27/m27.py", line 44
+    rng=np.random.default_rng(330829+ix);g=np.array([i//2 for i in range(24)]+list(range(12,17)));rng.shuffle(g);bins=[np.flatnonzero(g==i) for i in range(17)];alpha=.2 if ix<6 else2;Q=np.zeros((17,17))
+                                                                                                                                                                      ^^^^^^^^^^
+SyntaxError: expected 'else' after 'if' expression

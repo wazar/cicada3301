@@ -1,0 +1,10 @@
+import pathlib,json,gzip,hashlib,datetime
+R=pathlib.Path(__file__).parent;ROOT=R.parents[3];P=R.parent/'M25';files=[];rows=[]
+for p in sorted((P/'evidence').glob('*.json.gz')):
+ b=p.read_bytes();r=json.loads(gzip.decompress(b));files.append(dict(path=str(p.relative_to(ROOT)),sha256=hashlib.sha256(b).hexdigest(),bytes=len(b),name=r['name']));assert len(r['cipher'])<=1024
+ for row in r['rows']:
+  d=row['decode'];a=d['alternatives'][0];assert a['used']>=len(r['cipher']) and (a['used']-len(r['cipher']))%2==0;assert all(s['used']<=1024 for s in d['terminal_states'])
+ rows.append(dict(name=r['name'],n=len(r['cipher']),seconds=r['seconds'],max_terminal_used=max(s['used'] for row in r['rows'] for s in row['decode']['terminal_states']),max_selected_used=max(row['decode']['alternatives'][0]['used'] for row in r['rows'])))
+assert len(files)==554
+m=json.load(open(ROOT/'exploration/persistent-01/worker-f/F06-maps.json'));reserved={4,9,14,19,24,29,34,39,44,54};scope=[dict(page=x['page'],runes=len(x['indices']),minimum_buffer_slack=1024-len(x['indices'])) for x in m if x['page'] not in [0,17]];assert len(scope)==43 and not reserved&{x['page'] for x in scope};seconds=sum(x['seconds'] for x in rows);n=sum(x['n'] for x in rows);forecast=seconds/n*sum(x['runes'] for x in scope)*20
+(R/'old-evidence-manifest.json').write_text(json.dumps(dict(files=files,case_summaries=rows),indent=2));out=dict(status='PREPARED_WAITING_FOR_ROOT_KERNEL_CLEARANCE',remaining=scope,preserved=[0,17],prior_artifacts=554,prior_measured_search_seconds=seconds,prior_total_case_runes=n,linear_rune_cost_forecast_seconds=forecast,prior_max_case_seconds=max(x['seconds'] for x in rows),conservative860x_maxcase_seconds=860*max(x['seconds'] for x in rows),new_fullsearches=860,new_top1_calls=3440,new_top16_calls=860,prior_max_terminal_used=max(x['max_terminal_used'] for x in rows),omitted_pages=[x for x in scope if x['runes']>1024],clock_utc=datetime.datetime.now(datetime.timezone.utc).isoformat());(R/'preparation.json').write_text(json.dumps(out,indent=2));print(json.dumps({k:v for k,v in out.items() if k!='remaining'},indent=2))

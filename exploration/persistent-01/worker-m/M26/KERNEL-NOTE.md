@@ -1,0 +1,10 @@
+# Preparation-only finite transition inspection
+No additional scientific search was run while awaiting root's independent M25 check.
+
+For any t>=1, rejecting the first candidate at consumed indexj fixes plaintext uniquely as p=(previouscipher+sign*K[j]) mod29. With that fixedp, only stride2 indices are tested. An index yielding previouscipher admits either acceptance (if observedcurrent also equals previouscipher, probability.17) or rejection/advance2 (probability.83); the first index yielding a differentcipher cannot reject and stops this branch, whether or not it matches observedcurrent. This is exactly how M25's transition enumerator exits. For t=0, p is fixed independently by currentcipher and K[j]. Firstposition has onlyt=0. These branches exhaust the specified finite encoder, without a skipbudget.
+
+All acceptedindices satisfy<1024. Rejection burns the single intervening index, which is below the eventualacceptedindex and therefore inbuffer for a completepath. Summing increments gives terminalused=N+2*totalrejections; saved554artifact terminalstates and retainedwinners obey this invariant, with largest savedterminaluse585. Absoluteused/state retains finitebuffer exhaustion information and cannot safely be replaced by periodicphase.
+
+Sameposition, consumedindex and lasttwoLMtokens imply identical future admissibility and scoreincrements; retainedtopk dominance is therefore valid for jointpath scores. These are topencoderpaths; differentpaths can emit identicalplaintext and do not become independent candidates. Observedrepeatcount's likelihood is fixed for everypath/key of a giveninput, so exactstuttermasknulls condition that term out.
+
+Softprobability.17>0 means everycipher of N<=1024 has a valid zero-rejectionpath under eachkey, regardless of its language score. Thus a newpage cannot lack all completepaths solely because of its repeatedrunes; N>1024 is explicitlyomitted, and partiallyexhausted alternateconsumptionstates remain bounded by the exactfinitebuffer. No inference about infinitelyextendednumericsequences follows.

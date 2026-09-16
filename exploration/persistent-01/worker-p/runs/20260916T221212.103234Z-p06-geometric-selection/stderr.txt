@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/worker-p/p06_prepare.py", line 18, in <module>
+    (D/'geometry-audit.json').write_text(json.dumps(dict(inputs=inputs,rows=audit,records=records),indent=2));print(json.dumps(dict(inputs=inputs,rows=audit,eligible_black=sum(r['black'] for r in records)),indent=2));assert all(r['components']==r['expected'] for r in audit),'STOP: geometric row-count mismatch before sample selection'
+                                                                                                                                                                                                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: STOP: geometric row-count mismatch before sample selection

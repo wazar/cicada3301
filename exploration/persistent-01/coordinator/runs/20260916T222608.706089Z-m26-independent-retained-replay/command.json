@@ -1,0 +1,136 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/coordinator/review_m26.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "6554d1fcae7f9a739cd9badaa3c23abf761de25a",
+  "started_utc": "2026-09-16T22:26:08.718616+00:00",
+  "timeout_seconds": 120,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/check_finite_guard.py",
+      "exists": true,
+      "bytes": 1880,
+      "sha256": "c22ea15006eefbc4b1801516f5aba2edae033468c7829b50ba69f9b533b3f483"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/layout_color.py",
+      "exists": true,
+      "bytes": 1607,
+      "sha256": "c68b094a4fccb856cbba538cd3700392fd4f46108df8c43c626253c90beb0859"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/review_a_event.py",
+      "exists": true,
+      "bytes": 4315,
+      "sha256": "d4718c9698d30376c8e7e9d69e45c0c8ac604c0bf9ced077f6a2e451b4954d9e"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/review_a_tables.py",
+      "exists": true,
+      "bytes": 1713,
+      "sha256": "202354cd77a1e946dd52544f84c3b89c8016d1631501bbef148da1c9ea5e5c9b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/review_c5.py",
+      "exists": true,
+      "bytes": 2727,
+      "sha256": "ad6e2226b07af50e8cfc27e5a83c82557ef765543ab5736e47ee595bc987a447"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/review_c6_parsers.py",
+      "exists": true,
+      "bytes": 2806,
+      "sha256": "775c56119dec03eea67f8eacf664180f6e3fe9cafab0145d6a94abb232719763"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/review_h.py",
+      "exists": true,
+      "bytes": 3251,
+      "sha256": "efba4fcd619a0c88106f4d99119c339eab176c863c4ef87f72e8822ba02a6ef8"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/review_h_algebra.py",
+      "exists": true,
+      "bytes": 3695,
+      "sha256": "a3dd0fb98cb483508b3e1eb9857d11172e398db221dc0cc61a0b4060b2de4ffc"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/review_k.py",
+      "exists": true,
+      "bytes": 2327,
+      "sha256": "b87f327fe1ffc557e0ef0bb4491f436dd93e249966b0a7ff7ce492421c2257a2"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/review_m23.py",
+      "exists": true,
+      "bytes": 1363,
+      "sha256": "067d68360faa397cdb99294229437ca94ae961131ac78012d9178bf0af2c5d07"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/review_m24.py",
+      "exists": true,
+      "bytes": 1897,
+      "sha256": "d1bc8609857bdb154c2b5799a9cbf9871f140923c8129e66d6c944a956c83cc5"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/review_m26.py",
+      "exists": true,
+      "bytes": 2893,
+      "sha256": "1e80e3dc177a92b2dc84d07f3cd50111ab6de2eb8846933479c5d37554b8195e"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/review_o02.py",
+      "exists": true,
+      "bytes": 2269,
+      "sha256": "f1e903365a8f22e789770c04cb79b029da2c9d140c42c636ab52710b2bbe8fa3"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/running_scope.py",
+      "exists": true,
+      "bytes": 1795,
+      "sha256": "7f543c4591bde7a926991c45da4250d8d05f2dce2b60747b3d8e5e6c08b93694"
+    },
+    {
+      "path": "exploration/persistent-01/review-08/independent-lm-table.npy",
+      "exists": true,
+      "bytes": 216128,
+      "sha256": "656007c3f85bde77efa2418e4dfb27f8ea1d7f2a84a4ea4a2990f439aa754eef"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M26/keys.json",
+      "exists": true,
+      "bytes": 39946,
+      "sha256": "ad9dd7056530d604cdb8d4c3e0e93fb5e2e464f3bc0fb22baad17720d3eeede0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M26/results.json",
+      "exists": true,
+      "bytes": 2118460,
+      "sha256": "2860164bc1fd9a6102f1164e7f1c021837c97fd68bd07bc8f7392f049064bdaa"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 62511,
+  "finished_utc": "2026-09-16T22:26:14.940945+00:00",
+  "duration_seconds": 6.222050458000012
+}

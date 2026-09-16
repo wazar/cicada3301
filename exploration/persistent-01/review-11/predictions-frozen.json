@@ -1,0 +1,637 @@
+{
+  "reader": "review-11 / persistent_n",
+  "frozen_utc": "2026-09-16T22:18:56.758037+00:00",
+  "truth_seen": false,
+  "first_reader_predictions_seen": false,
+  "method": "Personal view_image inspection of all five numbered sheets and generic Unicode canonical legend; manually entered predictions. No target source-index labels, P06 code, truth or data labelvectors read.",
+  "sample_n": 100,
+  "same_sample_as_first_reader": true,
+  "inputs": [
+    {
+      "path": "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-01/worker-p/P06/sheet-1.png",
+      "sha256": "2c596a5c7141d35fd6d36c0074a75fc1fa8891477a9ac996a4396871839c2e0e"
+    },
+    {
+      "path": "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-01/worker-p/P06/sheet-2.png",
+      "sha256": "487b30be5ca4f288eae8fb46b4e953acfb4bd058a11db7412bf9f9b679551464"
+    },
+    {
+      "path": "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-01/worker-p/P06/sheet-3.png",
+      "sha256": "dde29cb67fdf897b3701db5d299a5679a75232cb9c046a40c776addfc8da4b95"
+    },
+    {
+      "path": "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-01/worker-p/P06/sheet-4.png",
+      "sha256": "2469af8436e5f6d726824a4b9eb2dcd6ad1a6a08acabf646c4df291e60985abf"
+    },
+    {
+      "path": "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-01/worker-p/P06/sheet-5.png",
+      "sha256": "e75d2a4eef22327883595778e2cb085ad4b6a841152615d0bb6bd9f5c9ad0b2b"
+    },
+    {
+      "path": "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-01/worker-p/P06/unicode-legend.png",
+      "sha256": "f94bc008b25f01e44da74646c3db96dfcdae8ab610481c1b3a81fc6a7f0e08e2"
+    }
+  ],
+  "predictions": [
+    {
+      "number": 1,
+      "rune_id": 19,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 2,
+      "rune_id": 0,
+      "confidence": "medium",
+      "note": "F branches clear; lower stem partly faint/clipped."
+    },
+    {
+      "number": 3,
+      "rune_id": 16,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 4,
+      "rune_id": 9,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 5,
+      "rune_id": 1,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 6,
+      "rune_id": 9,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 7,
+      "rune_id": 10,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 8,
+      "rune_id": 13,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 9,
+      "rune_id": 9,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 10,
+      "rune_id": 16,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 11,
+      "rune_id": 5,
+      "confidence": "high",
+      "note": "C main glyph; thin neighboring vertical fragment ignored."
+    },
+    {
+      "number": 12,
+      "rune_id": 1,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 13,
+      "rune_id": 5,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 14,
+      "rune_id": 28,
+      "confidence": "medium",
+      "note": "EA forked upper branches; neighboring thin vertical ignored."
+    },
+    {
+      "number": 15,
+      "rune_id": 28,
+      "confidence": "medium",
+      "note": "EA; neighboring thin vertical ignored."
+    },
+    {
+      "number": 16,
+      "rune_id": 9,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 17,
+      "rune_id": 15,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 18,
+      "rune_id": 14,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 19,
+      "rune_id": 3,
+      "confidence": "medium",
+      "note": "Two bent right branches read as O using generic canonical legend."
+    },
+    {
+      "number": 20,
+      "rune_id": 19,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 21,
+      "rune_id": 5,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 22,
+      "rune_id": 10,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 23,
+      "rune_id": 18,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 24,
+      "rune_id": 24,
+      "confidence": "medium",
+      "note": "Upper branch bent, lower straight: A."
+    },
+    {
+      "number": 25,
+      "rune_id": 1,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 26,
+      "rune_id": 21,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 27,
+      "rune_id": 7,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 28,
+      "rune_id": 19,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 29,
+      "rune_id": 1,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 30,
+      "rune_id": 4,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 31,
+      "rune_id": 15,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 32,
+      "rune_id": 6,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 33,
+      "rune_id": 10,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 34,
+      "rune_id": 25,
+      "confidence": "medium",
+      "note": "Two straight descending branches: AE."
+    },
+    {
+      "number": 35,
+      "rune_id": 18,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 36,
+      "rune_id": 18,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 37,
+      "rune_id": 18,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 38,
+      "rune_id": 10,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 39,
+      "rune_id": 0,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 40,
+      "rune_id": 18,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 41,
+      "rune_id": 19,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 42,
+      "rune_id": 4,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 43,
+      "rune_id": 26,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 44,
+      "rune_id": 1,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 45,
+      "rune_id": 10,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 46,
+      "rune_id": 18,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 47,
+      "rune_id": 3,
+      "confidence": "medium",
+      "note": "Two bent right branches: O."
+    },
+    {
+      "number": 48,
+      "rune_id": 4,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 49,
+      "rune_id": 3,
+      "confidence": "medium",
+      "note": "Two bent right branches: O."
+    },
+    {
+      "number": 50,
+      "rune_id": 7,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 51,
+      "rune_id": 8,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 52,
+      "rune_id": 1,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 53,
+      "rune_id": 4,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 54,
+      "rune_id": 9,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 55,
+      "rune_id": 18,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 56,
+      "rune_id": 16,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 57,
+      "rune_id": 19,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 58,
+      "rune_id": 7,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 59,
+      "rune_id": 4,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 60,
+      "rune_id": 20,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 61,
+      "rune_id": 19,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 62,
+      "rune_id": 25,
+      "confidence": "medium",
+      "note": "Two straight descending branches: AE."
+    },
+    {
+      "number": 63,
+      "rune_id": 18,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 64,
+      "rune_id": 10,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 65,
+      "rune_id": 0,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 66,
+      "rune_id": 19,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 67,
+      "rune_id": 15,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 68,
+      "rune_id": 18,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 69,
+      "rune_id": 9,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 70,
+      "rune_id": 15,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 71,
+      "rune_id": 8,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 72,
+      "rune_id": 9,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 73,
+      "rune_id": 19,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 74,
+      "rune_id": 5,
+      "confidence": "high",
+      "note": "C; thin neighboring vertical fragment ignored."
+    },
+    {
+      "number": 75,
+      "rune_id": 9,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 76,
+      "rune_id": 4,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 77,
+      "rune_id": 7,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 78,
+      "rune_id": 0,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 79,
+      "rune_id": 27,
+      "confidence": "medium",
+      "note": "Crossed arms with central staff read as IA; historical glyph variant."
+    },
+    {
+      "number": 80,
+      "rune_id": 1,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 81,
+      "rune_id": 24,
+      "confidence": "medium",
+      "note": "Upper bent and lower straight right branches: A."
+    },
+    {
+      "number": 82,
+      "rune_id": 15,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 83,
+      "rune_id": 3,
+      "confidence": "medium",
+      "note": "Two bent right branches: O."
+    },
+    {
+      "number": 84,
+      "rune_id": 18,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 85,
+      "rune_id": 18,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 86,
+      "rune_id": 10,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 87,
+      "rune_id": 24,
+      "confidence": "medium",
+      "note": "Upper bent and lower straight right branches: A."
+    },
+    {
+      "number": 88,
+      "rune_id": 7,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 89,
+      "rune_id": 0,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 90,
+      "rune_id": 3,
+      "confidence": "medium",
+      "note": "Two bent right branches: O."
+    },
+    {
+      "number": 91,
+      "rune_id": 10,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 92,
+      "rune_id": 1,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 93,
+      "rune_id": 18,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 94,
+      "rune_id": 19,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 95,
+      "rune_id": 7,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 96,
+      "rune_id": 5,
+      "confidence": "high",
+      "note": "C; neighboring thin vertical ignored."
+    },
+    {
+      "number": 97,
+      "rune_id": 27,
+      "confidence": "medium",
+      "note": "Crossed arms with central staff read as IA; historical glyph variant."
+    },
+    {
+      "number": 98,
+      "rune_id": 21,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    },
+    {
+      "number": 99,
+      "rune_id": 5,
+      "confidence": "high",
+      "note": "C; neighboring thin vertical ignored."
+    },
+    {
+      "number": 100,
+      "rune_id": 19,
+      "confidence": "high",
+      "note": "Direct source-pixel glyph reading."
+    }
+  ]
+}

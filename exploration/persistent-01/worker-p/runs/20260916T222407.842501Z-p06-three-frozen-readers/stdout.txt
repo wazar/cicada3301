@@ -1,0 +1,158 @@
+{
+  "readers": [
+    {
+      "path": "exploration/persistent-01/worker-p/P06/predictions.json",
+      "correct": 93,
+      "gate_pass": false,
+      "errors": [
+        {
+          "crop_id": 1,
+          "predicted": 19,
+          "reference": 23,
+          "confidence": "high"
+        },
+        {
+          "crop_id": 20,
+          "predicted": 19,
+          "reference": 23,
+          "confidence": "high"
+        },
+        {
+          "crop_id": 28,
+          "predicted": 19,
+          "reference": 23,
+          "confidence": "high"
+        },
+        {
+          "crop_id": 41,
+          "predicted": 19,
+          "reference": 23,
+          "confidence": "high"
+        },
+        {
+          "crop_id": 57,
+          "predicted": 19,
+          "reference": 23,
+          "confidence": "high"
+        },
+        {
+          "crop_id": 94,
+          "predicted": 19,
+          "reference": 23,
+          "confidence": "high"
+        },
+        {
+          "crop_id": 95,
+          "predicted": 7,
+          "reference": 2,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "path": "exploration/persistent-01/review-11/predictions-frozen.json",
+      "correct": 93,
+      "gate_pass": false,
+      "errors": [
+        {
+          "crop_id": 1,
+          "predicted": 19,
+          "reference": 23,
+          "confidence": "high"
+        },
+        {
+          "crop_id": 20,
+          "predicted": 19,
+          "reference": 23,
+          "confidence": "high"
+        },
+        {
+          "crop_id": 28,
+          "predicted": 19,
+          "reference": 23,
+          "confidence": "high"
+        },
+        {
+          "crop_id": 41,
+          "predicted": 19,
+          "reference": 23,
+          "confidence": "high"
+        },
+        {
+          "crop_id": 57,
+          "predicted": 19,
+          "reference": 23,
+          "confidence": "high"
+        },
+        {
+          "crop_id": 94,
+          "predicted": 19,
+          "reference": 23,
+          "confidence": "high"
+        },
+        {
+          "crop_id": 95,
+          "predicted": 7,
+          "reference": 2,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/P06-third-predictions.json",
+      "correct": 99,
+      "gate_pass": true,
+      "errors": [
+        {
+          "crop_id": 66,
+          "predicted": 23,
+          "reference": 19,
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "consensus": {
+    "correct": 93,
+    "no_majority": 0,
+    "gate_pass": false
+  },
+  "consensus_errors": [
+    {
+      "crop_id": 1,
+      "predicted": 19,
+      "reference": 23
+    },
+    {
+      "crop_id": 20,
+      "predicted": 19,
+      "reference": 23
+    },
+    {
+      "crop_id": 28,
+      "predicted": 19,
+      "reference": 23
+    },
+    {
+      "crop_id": 41,
+      "predicted": 19,
+      "reference": 23
+    },
+    {
+      "crop_id": 57,
+      "predicted": 19,
+      "reference": 23
+    },
+    {
+      "crop_id": 94,
+      "predicted": 19,
+      "reference": 23
+    },
+    {
+      "crop_id": 95,
+      "predicted": 7,
+      "reference": 2
+    }
+  ],
+  "disagreements": 8
+}

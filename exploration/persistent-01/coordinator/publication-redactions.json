@@ -152,5 +152,33 @@
     "original_sha256": "c7b5bada3c5a236fc10f051e4c0dc081f1de08343eaf6bf7bb1b936a5fa155eb",
     "published_sha256": "b4a46bad38fda557540806396c462c8eee6bea6e176c5bfa3a01afda4c8152e1",
     "change": "Only checkout prefix normalized in preserved HiGHS wrapper warning."
+  },
+  {
+    "path": "exploration/persistent-01/worker-m/M27/compiler.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-m/M27/compiler.json",
+    "original_sha256": "836ddb7e76631ffc7499c0aaaf20e9428b915b186567e585ff1e5501770b7f63",
+    "published_sha256": "280d2ddfed64e837109d327716abc3d970a7070f80f8a9dd3fae99a1483ab24f",
+    "change": "Only local checkout prefix normalized in completed command/output metadata; exact original retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-m/M27/runs/20260916T222403.378002Z-independent-prediction-replay/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-m/M27/runs/20260916T222403.378002Z-independent-prediction-replay/stderr.txt",
+    "original_sha256": "d69baad91f32ecd55a44d2542de93129c64d23bfd316ea111413bf4e6558a734",
+    "published_sha256": "0d37412bfe98b23cdc797489cc41b4ef31d26d88dbb0c7daf3461f1e917bc26b",
+    "change": "Only local checkout prefix normalized in completed command/output metadata; exact original retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-m/M27/runs/20260916T222022.945999Z-source-model-costpilot/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-m/M27/runs/20260916T222022.945999Z-source-model-costpilot/stderr.txt",
+    "original_sha256": "1c8aef6c592f765880fb073d64c7d0a49f24b5baf24a9737e4179ab2dca2e244",
+    "published_sha256": "82c038a2e2e980cf2bd52af2a4b208b1adb7493158c372330c355cffb6ee6213",
+    "change": "Only local checkout prefix normalized in completed command/output metadata; exact original retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/runs/20260916T221212.103234Z-p06-geometric-selection/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-p/runs/20260916T221212.103234Z-p06-geometric-selection/stderr.txt",
+    "original_sha256": "060099a73a44a8fec460168ad7fee811616bbfd1ee4a77b2754cb39cc5655d39",
+    "published_sha256": "9f4632998b33949f735927806451cfa96c68a3cc196e0d549079173e2a9fb636",
+    "change": "Only checkout prefix normalized in failed P06 geometry traceback; original retained privately."
   }
 ]

@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-m/M25/calibrate.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e5a7679f08a6f3476577f795e025b783c3a3ef4c",
+  "started_utc": "2026-09-16T22:03:30.303813+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M25/calibrate.py",
+      "exists": true,
+      "bytes": 1176,
+      "sha256": "cfab0a1bd02496da253d64bb265194642cd18bdeb0e327b490b9e77d33005ac9"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M25/calibration-card.md",
+      "exists": true,
+      "bytes": 1241,
+      "sha256": "e578ac38f85d1ec6598fd5b03f095bbdd91a9ce6904bc4a622229e5a93250962"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M25/keys.json",
+      "exists": true,
+      "bytes": 39946,
+      "sha256": "ad9dd7056530d604cdb8d4c3e0e93fb5e2e464f3bc0fb22baad17720d3eeede0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M25/m25.py",
+      "exists": true,
+      "bytes": 11667,
+      "sha256": "a8bd0932b761a18ef1cb15213644a01ed1b727df99547b1affe7ec35f78c1694"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 59907,
+  "finished_utc": "2026-09-16T22:03:46.917415+00:00",
+  "duration_seconds": 16.613357082998846
+}

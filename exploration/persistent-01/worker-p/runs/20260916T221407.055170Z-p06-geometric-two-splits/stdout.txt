@@ -1,0 +1,146 @@
+{
+  "inputs": [
+    {
+      "page": 56,
+      "path": "audit/parallel-01/inputs/sources/56.jpg",
+      "size": [
+        2400,
+        3600
+      ],
+      "sha256": "a4c1c9ae1246c3197fc1d7bd0155cbc97f60d4bba84a104d45f180feab1814dc"
+    },
+    {
+      "page": 57,
+      "path": "audit/parallel-01/inputs/sources/57.jpg",
+      "size": [
+        2400,
+        3600
+      ],
+      "sha256": "1dabc100ddbf1fc49715219636984eb6ad96a2bd8035e196c12e66db77a1077b"
+    }
+  ],
+  "rows": [
+    {
+      "page": 56,
+      "row": 0,
+      "roi": [
+        770,
+        650,
+        1800,
+        810
+      ],
+      "components": 19,
+      "expected": 19
+    },
+    {
+      "page": 56,
+      "row": 1,
+      "roi": [
+        770,
+        840,
+        1800,
+        1000
+      ],
+      "components": 19,
+      "expected": 19
+    },
+    {
+      "page": 56,
+      "row": 2,
+      "roi": [
+        770,
+        1030,
+        1800,
+        1190
+      ],
+      "components": 6,
+      "expected": 6
+    },
+    {
+      "page": 56,
+      "row": 3,
+      "roi": [
+        590,
+        1870,
+        1800,
+        2030
+      ],
+      "components": 22,
+      "expected": 22
+    },
+    {
+      "page": 56,
+      "row": 4,
+      "roi": [
+        590,
+        2050,
+        1800,
+        2220
+      ],
+      "components": 18,
+      "expected": 18
+    },
+    {
+      "page": 57,
+      "row": 0,
+      "roi": [
+        885,
+        900,
+        1800,
+        1050
+      ],
+      "components": 19,
+      "expected": 19
+    },
+    {
+      "page": 57,
+      "row": 1,
+      "roi": [
+        885,
+        1080,
+        1800,
+        1240
+      ],
+      "components": 17,
+      "expected": 17
+    },
+    {
+      "page": 57,
+      "row": 2,
+      "roi": [
+        885,
+        1330,
+        1800,
+        1490
+      ],
+      "components": 17,
+      "expected": 17
+    },
+    {
+      "page": 57,
+      "row": 3,
+      "roi": [
+        885,
+        1510,
+        1800,
+        1680
+      ],
+      "components": 18,
+      "expected": 18
+    },
+    {
+      "page": 57,
+      "row": 4,
+      "roi": [
+        590,
+        1700,
+        1800,
+        1870
+      ],
+      "components": 23,
+      "expected": 23
+    }
+  ],
+  "eligible_black": 168
+}
+sample100saved; labels hidden, not printed

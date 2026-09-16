@@ -1,0 +1,64 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-10/evidence.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e5a7679f08a6f3476577f795e025b783c3a3ef4c",
+  "started_utc": "2026-09-16T22:11:44.840050+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-10/evidence.py",
+      "exists": true,
+      "bytes": 6492,
+      "sha256": "4beba399aa89cac9f1aaa1b07169cbd6c0c4cd9ee55162d4292d4c660a3f6d70"
+    },
+    {
+      "path": "exploration/persistent-01/review-10/kernel.py",
+      "exists": true,
+      "bytes": 3830,
+      "sha256": "b89511941137c538fe695ed59387ab988511e9087bf0bf55c916070265152526"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M25/calibration.json",
+      "exists": true,
+      "bytes": 44727,
+      "sha256": "bbfc65a6580a6c367586266b96de1ce3f56efe80eac819478b55f5ae493cb9ff"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M25/controls.json",
+      "exists": true,
+      "bytes": 996305,
+      "sha256": "469bad5e5c2dea1fc71819e7f507c60b3c3a8fe6148dac8a7f92b1f1899ae36c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M25/keys.json",
+      "exists": true,
+      "bytes": 39946,
+      "sha256": "ad9dd7056530d604cdb8d4c3e0e93fb5e2e464f3bc0fb22baad17720d3eeede0"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 61448,
+  "finished_utc": "2026-09-16T22:11:45.851398+00:00",
+  "duration_seconds": 1.0111360830014746
+}

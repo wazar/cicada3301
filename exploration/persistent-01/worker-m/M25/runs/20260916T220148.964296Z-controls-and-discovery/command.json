@@ -1,0 +1,71 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-m/M25/m25.py",
+    "run"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e5a7679f08a6f3476577f795e025b783c3a3ef4c",
+  "started_utc": "2026-09-16T22:01:48.973377+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p03_frozen.py",
+      "exists": true,
+      "bytes": 6350,
+      "sha256": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M25/card.md",
+      "exists": true,
+      "bytes": 3788,
+      "sha256": "1c4294268328c91297f251651e2c3e03ead0d9c593985db4051817cd8dbd20af"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M25/decision.json",
+      "exists": true,
+      "bytes": 158,
+      "sha256": "7da4829cceab0834a463f5699ef9bb1ee8d9ec7397eeb39bfb193e8f603edcf3"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M25/keys.json",
+      "exists": true,
+      "bytes": 39946,
+      "sha256": "ad9dd7056530d604cdb8d4c3e0e93fb5e2e464f3bc0fb22baad17720d3eeede0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M25/m25.py",
+      "exists": true,
+      "bytes": 11667,
+      "sha256": "a8bd0932b761a18ef1cb15213644a01ed1b727df99547b1affe7ec35f78c1694"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 59741,
+  "finished_utc": "2026-09-16T22:02:06.192361+00:00",
+  "duration_seconds": 17.2187674170018
+}

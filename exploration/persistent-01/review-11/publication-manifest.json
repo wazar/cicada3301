@@ -1,0 +1,55 @@
+{
+  "scope": "Complete frozen evidence except local binary/cache. Current bytes; original snapshots and local-prefix transformations retained separately.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/review-11/PROTOCOL.md",
+      "bytes": 1031,
+      "sha256": "7133c660def8548bcb7061bd0d86138319bd1ce9d5a1ca01f0a60f4d2b5fc9dc"
+    },
+    {
+      "path": "exploration/persistent-01/review-11/REPORT.md",
+      "bytes": 1787,
+      "sha256": "2b78aa1def77d0b72c71be9ca49edcea595816a87a55f5919c95dd9c00886f75"
+    },
+    {
+      "path": "exploration/persistent-01/review-11/freeze_predictions.py",
+      "bytes": 2745,
+      "sha256": "accdc0def744a0ae4f772473e0181067dc2a30dfd8af055d95e0dc5f6625cf23"
+    },
+    {
+      "path": "exploration/persistent-01/review-11/predictions-frozen.json",
+      "bytes": 15178,
+      "sha256": "fb505e5d7e29fe83f53e0ee65fbab6f4ee6a68c55d23676ff4cefa9922a8dd96"
+    },
+    {
+      "path": "exploration/persistent-01/review-11/predictions-frozen.sha256",
+      "bytes": 90,
+      "sha256": "fdf3bca35a36a3a7bf98d78461071d5429ba5319f829dabf54d1ab7483edf3cf"
+    },
+    {
+      "path": "exploration/persistent-01/review-11/runs/20260916T221856.728997Z-freeze-visual-predictions/code/exploration/persistent-01/review-11/freeze_predictions.py",
+      "bytes": 2745,
+      "sha256": "accdc0def744a0ae4f772473e0181067dc2a30dfd8af055d95e0dc5f6625cf23"
+    },
+    {
+      "path": "exploration/persistent-01/review-11/runs/20260916T221856.728997Z-freeze-visual-predictions/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-11/runs/20260916T221856.728997Z-freeze-visual-predictions/command.json",
+      "bytes": 1376,
+      "sha256": "d65fcfd5736bb174420a3239476f780ef75bdcdf79e4bbd86146ce4654628407"
+    },
+    {
+      "path": "exploration/persistent-01/review-11/runs/20260916T221856.728997Z-freeze-visual-predictions/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-11/runs/20260916T221856.728997Z-freeze-visual-predictions/stdout.txt",
+      "bytes": 65,
+      "sha256": "1e260c95e0b5cfe153f507531e57f170a89b77ba50833521edc4ac87adda5b75"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "status": "PASS",
+  "manifest_files": 238,
+  "source_map_rows": 3163,
+  "source_lengths": [
+    123,
+    103,
+    490,
+    481,
+    65,
+    324,
+    195,
+    54,
+    62
+  ],
+  "model_entries": 4930,
+  "finite_emission_cases": 90,
+  "packets": 56,
+  "restart_scores": 448,
+  "terms_checked": 105920,
+  "nominal_iterations": 2240000,
+  "valid_proposals": 1718502,
+  "accepted_proposals": 92975,
+  "accepted_swaps_replayed": 1016500,
+  "tails": {
+    "0": 0.4,
+    "17": 1.0
+  },
+  "controls": [
+    {
+      "label": "control-0-0",
+      "n": 324,
+      "lm_rank": 9,
+      "joint_rank": 5,
+      "accuracy": 0.0,
+      "suffix_accuracy": 0.0
+    },
+    {
+      "label": "control-0-1",
+      "n": 324,
+      "lm_rank": 9,
+      "joint_rank": 3,
+      "accuracy": 0.040123456790123455,
+      "suffix_accuracy": 0.027777777777777776
+    },
+    {
+      "label": "control-0-2",
+      "n": 324,
+      "lm_rank": 9,
+      "joint_rank": 5,
+      "accuracy": 0.08641975308641975,
+      "suffix_accuracy": 0.05555555555555555
+    },
+    {
+      "label": "control-0-3",
+      "n": 324,
+      "lm_rank": 9,
+      "joint_rank": 5,
+      "accuracy": 0.06790123456790123,
+      "suffix_accuracy": 0.046296296296296294
+    },
+    {
+      "label": "control-1-0",
+      "n": 195,
+      "lm_rank": 9,
+      "joint_rank": 1,
+      "accuracy": 0.2358974358974359,
+      "suffix_accuracy": 0.24615384615384617
+    },
+    {
+      "label": "control-1-1",
+      "n": 195,
+      "lm_rank": 9,
+      "joint_rank": 3,
+      "accuracy": 0.358974358974359,
+      "suffix_accuracy": 0.4
+    },
+    {
+      "label": "control-1-2",
+      "n": 195,
+      "lm_rank": 9,
+      "joint_rank": 1,
+      "accuracy": 0.020512820512820513,
+      "suffix_accuracy": 0.03076923076923077
+    },
+    {
+      "label": "control-1-3",
+      "n": 195,
+      "lm_rank": 9,
+      "joint_rank": 2,
+      "accuracy": 0.1076923076923077,
+      "suffix_accuracy": 0.12307692307692308
+    },
+    {
+      "label": "control-2-0",
+      "n": 54,
+      "lm_rank": 9,
+      "joint_rank": 9,
+      "accuracy": 0.2037037037037037,
+      "suffix_accuracy": 0.05555555555555555
+    },
+    {
+      "label": "control-2-1",
+      "n": 54,
+      "lm_rank": 9,
+      "joint_rank": 9,
+      "accuracy": 0.12962962962962962,
+      "suffix_accuracy": 0.05555555555555555
+    },
+    {
+      "label": "control-2-2",
+      "n": 54,
+      "lm_rank": 9,
+      "joint_rank": 9,
+      "accuracy": 0.16666666666666666,
+      "suffix_accuracy": 0.16666666666666666
+    },
+    {
+      "label": "control-2-3",
+      "n": 54,
+      "lm_rank": 9,
+      "joint_rank": 9,
+      "accuracy": 0.2037037037037037,
+      "suffix_accuracy": 0.0
+    },
+    {
+      "label": "control-3-0",
+      "n": 62,
+      "lm_rank": 9,
+      "joint_rank": 9,
+      "accuracy": 0.12903225806451613,
+      "suffix_accuracy": 0.047619047619047616
+    },
+    {
+      "label": "control-3-1",
+      "n": 62,
+      "lm_rank": 9,
+      "joint_rank": 9,
+      "accuracy": 0.25806451612903225,
+      "suffix_accuracy": 0.14285714285714285
+    },
+    {
+      "label": "control-3-2",
+      "n": 62,
+      "lm_rank": 9,
+      "joint_rank": 9,
+      "accuracy": 0.12903225806451613,
+      "suffix_accuracy": 0.09523809523809523
+    },
+    {
+      "label": "control-3-3",
+      "n": 62,
+      "lm_rank": 9,
+      "joint_rank": 9,
+      "accuracy": 0.016129032258064516,
+      "suffix_accuracy": 0.0
+    }
+  ],
+  "median_accuracy": 0.12903225806451613,
+  "median_suffix_accuracy": 0.05555555555555555
+}

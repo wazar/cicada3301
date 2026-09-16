@@ -462,7 +462,7 @@
     "id": "M22",
     "title": "Unknown short-period literal-F recovery gap",
     "owner": "persistent_m",
-    "status": "completed_pending_review",
+    "status": "completed_reviewed",
     "first_step": "Inspect R04/P14 actual unresolved recovery bottleneck; freeze short exact comparison and searched-key controls before real pilot",
     "decision": "Distinguish path/search/ranking defects and fill only a demonstrated gap",
     "expected_cost": "Pilot and logged single-thread batches <=900s",
@@ -493,7 +493,7 @@
   },
   {
     "id": "M23",
-    "status": "running",
+    "status": "completed_reviewed",
     "owner": "persistent_m",
     "title": "Complete original deferred source-grid clue scope",
     "input": "D frozen400 signedgridphases, ordinary/F, remaining43discoverypages",
@@ -504,7 +504,7 @@
   },
   {
     "id": "P01-image",
-    "status": "assigned",
+    "status": "completed_reviewed",
     "owner": "persistent_p",
     "title": "Fresh bounded actual-image representation challenge",
     "input": "Original13actualimage initially, at mostoneotherdiscoveryimage afterexplicitselection",
@@ -515,7 +515,7 @@
   },
   {
     "id": "REVIEW07",
-    "status": "running",
+    "status": "completed_reviewed",
     "owner": "persistent_n",
     "title": "Fresh L inventory/pattern/swap review",
     "input": "FrozenL1/L2/L3evidence",
@@ -534,7 +534,7 @@
   },
   {
     "id": "READY-CHECKFIELD",
-    "status": "ready",
+    "status": "completed_P07",
     "title": "Source mark bounded checksum fields",
     "input": "ReviewedG06 physical13-dot fields3/7/17",
     "first_step": "Freeze prime-sum mod29 fieldtotal as one proposedchecksum, exactfield boundaries and complete-procedure null; compare explicitwordlevel priorF07 to establish newscope",
@@ -552,7 +552,7 @@
   },
   {
     "id": "READY-POSITION",
-    "status": "ready",
+    "status": "completed_reviewed",
     "title": "Fractional glyph placement carrier",
     "input": "SavedI0/1sourcepixelpositions andwidths",
     "first_step": "Freeze ordinary fractionalspacing/justification model on rowprefixes, predictunusedpositions; injected discrete residualcontrols andrasterperturbations",
@@ -561,7 +561,7 @@
   },
   {
     "id": "READY-M22-REVIEW",
-    "status": "ready",
+    "status": "completed_reviewed",
     "title": "Exact short-key kernel independent review",
     "input": "M22 Ckernel and savedp56period3optimizationwitness",
     "first_step": "Independentlyenumerate tinykeys/masks, inspectstate equivalence, replayactualwitness andsuffixisolation; no newkeyperiods",
@@ -570,11 +570,74 @@
   },
   {
     "id": "READY-MEMORY",
-    "status": "ready",
+    "status": "completed_scoped_M24",
     "title": "Output-memory dependence versus direct memory-one generation",
     "input": "Discovery45pages, reservesexcluded",
     "first_step": "Check existing lag/Markovcoverage, then freeze conditional thirdsymbol heldpredictor conditionedonlasttwo vsone with countmatched fittednull andstatefulcontrols; no language inference",
     "expected_cost": "Pilot<=900s",
     "decision": "Does extra state predictunusedsymbols beyond rare-repeat model? Runonlyif notduplicatingprior conditional test."
+  },
+  {
+    "id": "M25",
+    "title": "Corrected skip-by-two transition exact control and pilot",
+    "status": "completed_reviewed",
+    "owner": "persistent_m",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "M26",
+    "title": "Unchanged four-key remaining-page extension",
+    "status": "completed_pending_publication",
+    "owner": "persistent_m",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "M27",
+    "title": "Language-independent homophonic transition partitions",
+    "status": "completed_reviewed_arithmetic",
+    "owner": "persistent_m",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "P05-homophonic",
+    "title": "Consonantal homophonic optimizer and exact emission diagnosis",
+    "status": "completed_reviewed",
+    "owner": "persistent_p",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "P06-visual",
+    "title": "Three frozen100-glyph control reads",
+    "status": "completed_parked",
+    "owner": "persistent_p",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "REVIEW12",
+    "title": "Independent P05 objective/emission review",
+    "status": "completed_reviewed",
+    "owner": "persistent_n",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "M28",
+    "title": "Historical source-feedback reset-clock inverse",
+    "owner": "persistent_m",
+    "status": "running",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "N06",
+    "title": "Fixed-map generative discrimination controls",
+    "owner": "persistent_n",
+    "status": "running",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "P08-language",
+    "title": "Separate non-English source-model feasibility",
+    "owner": "persistent_p",
+    "status": "running",
+    "strategy": "outside-box-v1"
   }
 ]

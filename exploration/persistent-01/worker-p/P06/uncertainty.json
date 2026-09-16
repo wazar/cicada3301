@@ -1,0 +1,27 @@
+{
+  "distinct_reference_classes": 25,
+  "reader_one_sided_95_lower_bounds": [
+    0.8725419844170297,
+    0.8725419844170297,
+    0.9534401885464611
+  ],
+  "reader_pairwise_agreement": [
+    [
+      100,
+      100,
+      92
+    ],
+    [
+      100,
+      100,
+      92
+    ],
+    [
+      92,
+      92,
+      100
+    ]
+  ],
+  "all_three_agree": 92,
+  "binomial_interval_limit": "iid-binomial descriptive approximation; selectedfontclasses/sharedpage dependence notaccounted, no guarantee of99%generalization"
+}

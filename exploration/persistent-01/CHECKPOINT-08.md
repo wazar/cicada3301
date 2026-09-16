@@ -1,0 +1,19 @@
+# Checkpoint 08 — transition repair, alternative models, and correlated visual errors
+
+Strategy outside-box-v1; direct-session coordinator, original deadline 2026-09-17 03:30:37 UTC /05:30:37 SAST unchanged. This checkpoint does not end research. Experiment01 remains failed and reserves remain excluded.
+
+M25 establishes a specific historical skip-by-two transition gap with complete source controls. Fresh review10 independently checks 16,160 transitions, finite top16 path cases, exact four key buffers, all complete control traces and corrected null masks. Its unchanged real0/17 outputs have conditional-null tails .26/.61. The original whole-shuffle calibration remains preserved with its repeat-likelihood mismatch disclosed.
+
+M26 completes only the remaining43 pages under those same four keys, finite1024 draws, offset0, signs, .83 rejection rule and English rune/boundary scorer. No coherent output survived. Root independently replayed all16,916 retained paths (3,948,586 rune visits), regenerated817 nulls, recounted43 tails and checked554 old evidence files unchanged. This adds input coverage, not key/model coverage or a general exclusion.
+
+M27 challenges additive keystreams and English scoring with a shared latent17-class transition model, specifically12 doubletons and5 singletons with exact repeat-aware emissions. Twelve actual-size controls detect, ten recover all pairs; real held prediction loses .04443348 nats/transition, tail .96. Root independently reconstructs all1,760 saved objectives, baseline/prediction matrices and held scores. Optimization/generation checks are separate worker evidence; failed syntax/tie-check logs remain. No larger partition family is inferred.
+
+P05's named-consonant homophonic decoder fails to recover complete held controls; true mappings rank last under its initial objective. P05D adds exact emission likelihood to the same frozen maps, without optimization or tuned weights, and improves only part of the problem. Fresh review12 supplies the independent scope assessment and null-sampler qualification. These results do not reject homophonic encryption.
+
+P06 preserves three pre-reveal100-glyph reads of one known-solved sample. Two readers produce identical93/100 vectors, including seven identical high-confidence errors; root scores99/100. Majority consensus remains93/100. The sample is100 unique crops from168 eligible black/normal-height glyphs, not300 independent samples, and the reference transcription itself was not independently adjudicated. Full retranscription remains parked. No frozen prediction was corrected after comparison.
+
+Current competing explanations include a source-feedback retry-clock construction and nontext checksum fields bounded by physical major punctuation. The next existing-method test fixes a demonstrated historical encoder/decoder clock mismatch; it does not add keys after a miss. Alternative language/register feasibility is checked against source-separated corpus availability. The allocation remains comparative; no current decoder is treated as the cipher specification.
+
+Raw inputs, commands, exits, outputs, alternatives and failures are preserved. Publication manifests describe current bytes. Earlier original-byte manifests remain as snapshots; normalized local checkout prefixes in completed process metadata are mapped in coordinator/publication-redactions.json with exact originals kept locally. The pre-reveal review11 prediction file intentionally retains absolute contact-sheet paths to preserve its immutable hash; coordinator/frozen-path-exceptions.json records this exception. Rebuildable compiled libraries are excluded; source/build records remain.
+
+Original P06 preparation code and its logged snapshots retain a whitespace-only line14. The three diff-check notices are preserved source formatting, not evidence corruption; no executed source snapshot was rewritten for style.

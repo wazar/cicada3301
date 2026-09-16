@@ -1,0 +1,236 @@
+{
+  "status": "PREPARED_WAITING_FOR_ROOT_KERNEL_CLEARANCE",
+  "remaining": [
+    {
+      "page": 1,
+      "runes": 266,
+      "minimum_buffer_slack": 758
+    },
+    {
+      "page": 2,
+      "runes": 201,
+      "minimum_buffer_slack": 823
+    },
+    {
+      "page": 3,
+      "runes": 217,
+      "minimum_buffer_slack": 807
+    },
+    {
+      "page": 5,
+      "runes": 263,
+      "minimum_buffer_slack": 761
+    },
+    {
+      "page": 6,
+      "runes": 196,
+      "minimum_buffer_slack": 828
+    },
+    {
+      "page": 7,
+      "runes": 208,
+      "minimum_buffer_slack": 816
+    },
+    {
+      "page": 8,
+      "runes": 255,
+      "minimum_buffer_slack": 769
+    },
+    {
+      "page": 10,
+      "runes": 263,
+      "minimum_buffer_slack": 761
+    },
+    {
+      "page": 11,
+      "runes": 273,
+      "minimum_buffer_slack": 751
+    },
+    {
+      "page": 12,
+      "runes": 261,
+      "minimum_buffer_slack": 763
+    },
+    {
+      "page": 13,
+      "runes": 272,
+      "minimum_buffer_slack": 752
+    },
+    {
+      "page": 15,
+      "runes": 159,
+      "minimum_buffer_slack": 865
+    },
+    {
+      "page": 16,
+      "runes": 267,
+      "minimum_buffer_slack": 757
+    },
+    {
+      "page": 18,
+      "runes": 260,
+      "minimum_buffer_slack": 764
+    },
+    {
+      "page": 20,
+      "runes": 269,
+      "minimum_buffer_slack": 755
+    },
+    {
+      "page": 21,
+      "runes": 273,
+      "minimum_buffer_slack": 751
+    },
+    {
+      "page": 22,
+      "runes": 131,
+      "minimum_buffer_slack": 893
+    },
+    {
+      "page": 23,
+      "runes": 213,
+      "minimum_buffer_slack": 811
+    },
+    {
+      "page": 25,
+      "runes": 273,
+      "minimum_buffer_slack": 751
+    },
+    {
+      "page": 26,
+      "runes": 265,
+      "minimum_buffer_slack": 759
+    },
+    {
+      "page": 27,
+      "runes": 234,
+      "minimum_buffer_slack": 790
+    },
+    {
+      "page": 28,
+      "runes": 269,
+      "minimum_buffer_slack": 755
+    },
+    {
+      "page": 30,
+      "runes": 263,
+      "minimum_buffer_slack": 761
+    },
+    {
+      "page": 31,
+      "runes": 269,
+      "minimum_buffer_slack": 755
+    },
+    {
+      "page": 32,
+      "runes": 121,
+      "minimum_buffer_slack": 903
+    },
+    {
+      "page": 33,
+      "runes": 214,
+      "minimum_buffer_slack": 810
+    },
+    {
+      "page": 35,
+      "runes": 271,
+      "minimum_buffer_slack": 753
+    },
+    {
+      "page": 36,
+      "runes": 238,
+      "minimum_buffer_slack": 786
+    },
+    {
+      "page": 37,
+      "runes": 228,
+      "minimum_buffer_slack": 796
+    },
+    {
+      "page": 38,
+      "runes": 228,
+      "minimum_buffer_slack": 796
+    },
+    {
+      "page": 40,
+      "runes": 231,
+      "minimum_buffer_slack": 793
+    },
+    {
+      "page": 41,
+      "runes": 273,
+      "minimum_buffer_slack": 751
+    },
+    {
+      "page": 42,
+      "runes": 272,
+      "minimum_buffer_slack": 752
+    },
+    {
+      "page": 43,
+      "runes": 274,
+      "minimum_buffer_slack": 750
+    },
+    {
+      "page": 45,
+      "runes": 270,
+      "minimum_buffer_slack": 754
+    },
+    {
+      "page": 46,
+      "runes": 270,
+      "minimum_buffer_slack": 754
+    },
+    {
+      "page": 47,
+      "runes": 274,
+      "minimum_buffer_slack": 750
+    },
+    {
+      "page": 48,
+      "runes": 271,
+      "minimum_buffer_slack": 753
+    },
+    {
+      "page": 49,
+      "runes": 66,
+      "minimum_buffer_slack": 958
+    },
+    {
+      "page": 51,
+      "runes": 92,
+      "minimum_buffer_slack": 932
+    },
+    {
+      "page": 52,
+      "runes": 263,
+      "minimum_buffer_slack": 761
+    },
+    {
+      "page": 53,
+      "runes": 179,
+      "minimum_buffer_slack": 845
+    },
+    {
+      "page": 55,
+      "runes": 76,
+      "minimum_buffer_slack": 948
+    }
+  ],
+  "preserved": [
+    0,
+    17
+  ],
+  "prior_artifacts": 554,
+  "prior_measured_search_seconds": 13.043857586057129,
+  "prior_total_case_runes": 146011,
+  "linear_rune_cost_forecast_seconds": 17.743669954610727,
+  "prior_max_case_seconds": 0.12603762499929871,
+  "conservative860x_maxcase_seconds": 108.3923574993969,
+  "new_fullsearches": 860,
+  "new_top1_calls": 3440,
+  "new_top16_calls": 860,
+  "prior_max_terminal_used": 585,
+  "omitted_pages": [],
+  "clock_utc": "2026-09-16T22:08:09.288859+00:00"
+}

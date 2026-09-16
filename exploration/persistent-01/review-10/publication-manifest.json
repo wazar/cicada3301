@@ -1,0 +1,100 @@
+{
+  "scope": "Complete frozen evidence except local binary/cache. Current bytes; original snapshots and local-prefix transformations retained separately.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/review-10/CARD.md",
+      "bytes": 435,
+      "sha256": "1986701fe2513b06e8ee3bc0a64761e6f128257ee2055b3aaeaf3713d97e3dee"
+    },
+    {
+      "path": "exploration/persistent-01/review-10/REPORT.md",
+      "bytes": 6025,
+      "sha256": "d35ceaa026d03a735a359a646313730b911f67488c7d0bce8f61d671e846f46e"
+    },
+    {
+      "path": "exploration/persistent-01/review-10/brute-cases.json",
+      "bytes": 24367,
+      "sha256": "089304fcab2d739113c437e969ba977aac8b6f006b36fff79d23e2b9614e3743"
+    },
+    {
+      "path": "exploration/persistent-01/review-10/evidence-findings.json",
+      "bytes": 19405,
+      "sha256": "47856872c00e98228363fd89014437d06da211785f991fdeaec61d8f390456af"
+    },
+    {
+      "path": "exploration/persistent-01/review-10/evidence.py",
+      "bytes": 6492,
+      "sha256": "4beba399aa89cac9f1aaa1b07169cbd6c0c4cd9ee55162d4292d4c660a3f6d70"
+    },
+    {
+      "path": "exploration/persistent-01/review-10/kernel-findings.json",
+      "bytes": 374,
+      "sha256": "ddfb8b27d08c84662c8ef56463542ae8529b092702e48d8057f67e16dd452368"
+    },
+    {
+      "path": "exploration/persistent-01/review-10/kernel.py",
+      "bytes": 3830,
+      "sha256": "b89511941137c538fe695ed59387ab988511e9087bf0bf55c916070265152526"
+    },
+    {
+      "path": "exploration/persistent-01/review-10/runs/20260916T220959.125094Z-M25-kernel-brute/code/exploration/persistent-01/review-10/kernel.py",
+      "bytes": 3830,
+      "sha256": "b89511941137c538fe695ed59387ab988511e9087bf0bf55c916070265152526"
+    },
+    {
+      "path": "exploration/persistent-01/review-10/runs/20260916T220959.125094Z-M25-kernel-brute/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-10/runs/20260916T220959.125094Z-M25-kernel-brute/code/exploration/persistent-01/worker-m/M25/m25.py",
+      "bytes": 11667,
+      "sha256": "a8bd0932b761a18ef1cb15213644a01ed1b727df99547b1affe7ec35f78c1694"
+    },
+    {
+      "path": "exploration/persistent-01/review-10/runs/20260916T220959.125094Z-M25-kernel-brute/command.json",
+      "bytes": 1570,
+      "sha256": "441d19a201ab399f7b9657e4856c476103331ecbcc86dbfb2096bf73a74b9a95"
+    },
+    {
+      "path": "exploration/persistent-01/review-10/runs/20260916T220959.125094Z-M25-kernel-brute/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-10/runs/20260916T220959.125094Z-M25-kernel-brute/stdout.txt",
+      "bytes": 357,
+      "sha256": "dbbd9dd2f13ba71f2100fab67696238c44355f83628d2f1da78b2a4df4914c73"
+    },
+    {
+      "path": "exploration/persistent-01/review-10/runs/20260916T221144.830296Z-M25-independent-traces-calibration/code/exploration/persistent-01/review-10/evidence.py",
+      "bytes": 6492,
+      "sha256": "4beba399aa89cac9f1aaa1b07169cbd6c0c4cd9ee55162d4292d4c660a3f6d70"
+    },
+    {
+      "path": "exploration/persistent-01/review-10/runs/20260916T221144.830296Z-M25-independent-traces-calibration/code/exploration/persistent-01/review-10/kernel.py",
+      "bytes": 3830,
+      "sha256": "b89511941137c538fe695ed59387ab988511e9087bf0bf55c916070265152526"
+    },
+    {
+      "path": "exploration/persistent-01/review-10/runs/20260916T221144.830296Z-M25-independent-traces-calibration/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-10/runs/20260916T221144.830296Z-M25-independent-traces-calibration/command.json",
+      "bytes": 1983,
+      "sha256": "ce2440d638aa5d677a907aacaaa111d66f4a1d058fe903991bcf818a46fef697"
+    },
+    {
+      "path": "exploration/persistent-01/review-10/runs/20260916T221144.830296Z-M25-independent-traces-calibration/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-10/runs/20260916T221144.830296Z-M25-independent-traces-calibration/stdout.txt",
+      "bytes": 1624,
+      "sha256": "e847bc8caad084fdbc168201b2d5e4ebbe6f220ca2a2b1066056fa398f53d96e"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-m/M26/m26.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e5a7679f08a6f3476577f795e025b783c3a3ef4c",
+  "started_utc": "2026-09-16T22:10:52.990844+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p03_frozen.py",
+      "exists": true,
+      "bytes": 6350,
+      "sha256": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M25/keys.json",
+      "exists": true,
+      "bytes": 39946,
+      "sha256": "ad9dd7056530d604cdb8d4c3e0e93fb5e2e464f3bc0fb22baad17720d3eeede0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M25/m25.py",
+      "exists": true,
+      "bytes": 11667,
+      "sha256": "a8bd0932b761a18ef1cb15213644a01ed1b727df99547b1affe7ec35f78c1694"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M26/card.md",
+      "exists": true,
+      "bytes": 2775,
+      "sha256": "d22e79166af327eb346a85eeb46a2241d3e633e961947597e9841256e9976766"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M26/execution-clearance.json",
+      "exists": true,
+      "bytes": 352,
+      "sha256": "127255a0da741a49e866b302869f75676ad55ab026a9e622c4c98d459f4c6887"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M26/m26.py",
+      "exists": true,
+      "bytes": 3561,
+      "sha256": "14762db7942596d3a56e22c284aa629eff967a263a4a58a37975aa354c124229"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M26/prepare.py",
+      "exists": true,
+      "bytes": 2113,
+      "sha256": "aaf8dc93916c421bea74910a7b764ba43536afc2dcb09abc58649ec1e2a84b22"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 60797,
+  "finished_utc": "2026-09-16T22:11:37.230181+00:00",
+  "duration_seconds": 44.23906729200098
+}

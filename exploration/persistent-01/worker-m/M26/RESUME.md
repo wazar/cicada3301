@@ -1,0 +1,2 @@
+M26 complete:43remainingpages×20searches, no incompletecursor or runningprocess. M25 old0/17 and all554 artifacts unchanged. Samefourkey hypothesis now evaluated on45discoverypages. No expansion authorized.
+Reviewcheck-result.json plusdiagnostics; all860newsearches/16916paths/817nulls already replayed bycheck.py. ROOT Review10 clearedexecution; exactrecord inexecution-clearance.json. Any rerun after a justifiedfix usesm26.py which skips existingevidence; no repeatold0/17. Newjob must come fromcoordinator.

@@ -1,0 +1,14 @@
+{
+  "command": [
+    "c++",
+    "-O3",
+    "-std=c++17",
+    "-dynamiclib",
+    "<REPO_ROOT>/exploration/persistent-01/worker-m/M27/fit.cpp",
+    "-o",
+    "<REPO_ROOT>/exploration/persistent-01/worker-m/M27/fit.dylib"
+  ],
+  "exit_code": 0,
+  "stdout": "",
+  "stderr": ""
+}

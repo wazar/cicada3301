@@ -1,16 +1,16 @@
 # PERSISTENT-01 — active direct research
 
-Strategy **outside-box-v1**, received from safe fast-forward ef2e807 and acknowledged in active workers. Reviewed checkpoint3 e306d1c3c90703873ea727812c3c4055dafab99b is on origin/master, covering completed A/G/H evidence and fresh review03.
+Strategy **outside-box-v1**, received from safe fast-forward ef2e807 and acknowledged in active workers. Reviewed checkpoint7 6554d1f is on origin/master, covering M24, N05, P01–P04 and fresh review09. Earlier checkpoints remain unchanged.
 
 Start16 September2026,21:30:37 SAST. Fixed deadline **17 September2026,05:30:37 SAST /03:30:37UTC**. No extension. Honor exploration/persistent-01/STOP. Native goal active. One interactive coordinator; no external controller, no competing supervisor. All research processes stay with logged bounded worker sessions. Git writes only by coordinator; unrelated macOS setup remains untouched.
 
 ## Current actual assignments
 
-Allocation recorded at 2026-09-16T22:12:38.910007+00:00, same fixed deadline and sole coordinator:
+Allocation recorded at 2026-09-16T22:32:17.157736+00:00, same fixed deadline and sole coordinator:
 
-- M: M26 executes the same four numeric keys under checked skip-by-two transition on remaining43 discovery pages. Original0/17 pilot untouched; no new keys, offsets or mechanism parameters. Review10 decisive independent transition/top16 checks cleared execution; final fullcontrol review continues.
-- N: review10 finishing M25 completecontrol/null evidence. Review09 completed P03/P04 with independent source reconstruction and portable integer shared-codebook contradiction.
-- P: P05 unknown homophonic consonantal decoder had weak controls; fixed-mapping emission-likelihood diagnosis did not cure most truthranking failures. No larger restart search. P06 now prepares100 isolated known-solved image glyphs, ciphertext labels withheld until saved predictions. Cached source56/57 images exist despite null map image fields. Pool180means a later300independentround is not possible from these alone; no reserve reveal or resampling claim.
+- persistent_m: M28 source-feedback encoder/decoder retry-clock mismatch: AST controls, then frozen56cell available-volume1seed reset-clock pilot. Missing historical seed recorded; no historical-key-identity claim.
+- persistent_n: N06 model-matched likelihood discrimination on1600 fresh synthetic samples with fixed16truth codebooks and their eight saved alternatives; no optimizer or real-page rerun. Review12 complete.
+- persistent_p: P07 fixed physical major-delimiter checksum test completed, independent replay; P08 non-English decoding feasibility against separate existing corpus. P06 remains failed/parked.
 
 M22 exact periods1–3 recovered12/12 controlkeys versus11/12 for inheritedheuristic, with three correct-key wrongprefix path winners. Its real0/17 pilot had nulltails.57/.49; no automatic expansion. N03/N04 crosspage equality/one-corruption tests found no usefulrelation;16-runecontrols remain underpowered. O01 opcode-arity model missed; O02 exactcountpartitions eliminate the finite J03 five-page conjunction on pages0/3/17. Those are finite construction/register bounds, not wholecipher exclusions.
 
@@ -38,4 +38,4 @@ Frozen config/dataset hashes unchanged. Discovery excludes originals4,9,14,19,24
 
 Raw commands/output/exits/source snapshots and alternatives retained perworker. Reports are claims with explicit bounds. Freshreviews01/02 cover selectedmethod/output evidence, not independenttranscription or everyhistoricalclaim. Large outputs have losslessgzip manifests; originalbytes remainlocal. Localcheckout prefixes alone normalized in completedtracebacks, originals privatelyretained withhashes.
 
-Next two executable actions: complete the fixed remaining-page M26 matrix with unchanged four keys; perform the preregistered isolated-glyph capability test only after source/segmentation alignment checks. Review10 finishes independently. Completed P03 pagewise representation sensitivity and P04 shared-codebook obstruction are both retained, with no plaintext inference. A negative, completed queue, report or push does not end the mission.
+Next two executable actions: prove and test M28 reset-clock inverse against exact historical source; execute N06 model-matched discrimination with saved candidates and new synthetic draws. P07 field checksum yields zero closures; P08 checks feasibility of an actual separate language model. M27 loses held prediction despite recovering controls. P06 reader scores93/93/99 and correlated errors leave full transcription parked; review12 completes P05 limitations. M26 completed43pages/860searches with no coherent candidate and no key expansion. Completed P03 pagewise representation sensitivity and P04 shared-codebook obstruction are both retained, with no plaintext inference. A negative, completed queue, report or push does not end the mission.

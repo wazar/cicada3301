@@ -1,0 +1,27 @@
+# M27 completed: fixed homophone transition partition has no predictive gain
+
+The selected real predictor loses **0.04443348058 nats per held transition** against the frozen training-only M1 baseline. The full-procedure parametric-null upper tail is **192/200 = .96**. All four training-selected restart representatives have negative held gains: −.04226051, −.04281463, −.04083065, −.04443348; restart 3 was selected solely by training evidence. These are reused discovery pages: 23 training and 22 held by ordinal parity, not untouched reserves. No plaintext, key or English model was used.
+
+This tests exactly **12 doubleton bins plus 5 singleton bins**, a common 17-class transition matrix and uniform emission within each bin followed by one-shot .83 redraw when a doubleton emits the preceding rune. It does not cover every allocation of 29 runes into 17 classes, other emission weights, different repeat mechanisms, page-specific partitions/T, weak transitions outside the constructed controls, or a general unknown homophonic cipher.
+
+## Instrument and controls
+
+Twelve constructed panels use the actual 45 page lengths and independent random partitions. Six off-diagonal latent transition distributions have Dirichlet concentration .2; six have concentration 2. Their actual stationary distributions calibrate the diagonal probability to the observed training repeat fraction .00567625758465, including unavoidable singleton repeats. All 12 controls beat every one of their 19 fitted M1 nulls, tail .05 at this resolution. This is a measured 12/12 detection rate, not a universal power guarantee.
+
+Ten controls recover all 12 true pairs. Controls 3 and 9 recover 11/12, scoring .920894 and .139094 against their known-partition oracle gains .962662 and .149644. The other ten match oracle prediction exactly. Strong controls score .894399 to 1.050664; diffuse controls .139094 to .194576 nats/transition. These distinguish detector power from optimizer pair recovery and from known-map scoring. Class-label permutations are immaterial; complete recovery means the 12 unordered true doubletons are present and therefore the five singleton runes are also correct.
+
+## Algebra and what is shared
+
+For class map g and row-stochastic T, P(y|x)=T[g(x),g(y)]E(y|x). Destination singletons have E=1. Other-class doubletons have E=1/2. Inside the preceding doubleton, the same rune has E=(1−.83)/2=.085 and its mate has E=(1+.83)/2=.915. Each destination class's emissions sum to one, so every predictor row normalizes. Two members x,x' of a doubleton have identical probabilities for every y outside their own bin. Their own-bin entries are exchanged: same-symbol probability .085 T[a,a], mate probability .915 T[a,a]. This is the exact row-sharing property with a diagonal exception, and differs from globally rejecting and redrawing the next class.
+
+Stationary calibration uses Q with zero diagonal and πQ=π. With T=dI+(1−d)Q, πT=π. The expected same-rune probability is d times the π-weighted sum of .085 for doubleton classes and 1 for singleton classes. The chosen d sets this expectation to the target; no equal-class-frequency assumption is used. Realized repeat fractions fluctuate.
+
+## Coverage, replay and provenance
+
+The run retained 440 fit packets: 12 controls, 228 control nulls, real and 199 real nulls. Each retains all 4 starts, training objectives/counts, full 29×29 predictive probabilities, held scores, input runes, and baseline parameters. There were 2,640,000 nominal swap proposals, 2,478,582 valid proposals and 157,592 acceptances. A same-bin swap is rejected without evaluating a new objective. Repeated partitions are permitted by this stochastic optimizer; these are proposal counts, not an exhaustive or unique-partition coverage claim.
+
+`check.py` independently enumerated pair counts, reconstructed emissions/T, verified all 1,760 predictive matrices, training-only selection, outside-bin row equality and own-bin exchange, and replayed all 540 constructed control pages from stored uniform draws. Every check passed. All 45 input maps and source character positions are retained, with zero reserved page inputs. Generator code and fixed seeds reproduce null inputs, which are also retained directly in each fit packet. `manifest.json` hashes evidence files.
+
+The first cost pilot failed before data fitting because of a syntax error. It was corrected in own-lane code and both logs remain. Corrected pilot fit took .01075 seconds; full procedure took 48.88 seconds including generation/storage. Initial independent checker demanded equality of the first Python argmax index and selected C++ index. Four packets have tied Python maxima and different selected tied indices; all selected objectives equal the Python maximum, with no positive objective deficit. The checker now checks objective maximization within the already-used cross-language 1e−7 tolerance. `float-ties.json` preserves all four witnesses. No fit or real-data selection was changed or rerun by this correction. Final checker passed in 3.70 seconds.
+
+Prior gap: P05 optimized an English model over 17 named consonants and failed actual true-map ranking; D03's broad bigram-flatness inference was not a held shared-partition fit. K periodic marginals and N opaque-pair models do not test this homophone row-sharing mechanism. The current evidence closes this one finite model/split/optimizer experiment; no bin-pattern, class-count, restart-budget or page expansion follows this miss.

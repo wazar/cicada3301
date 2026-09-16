@@ -1,0 +1,64 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-m/M26/check.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e5a7679f08a6f3476577f795e025b783c3a3ef4c",
+  "started_utc": "2026-09-16T22:12:13.869406+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M26/check.py",
+      "exists": true,
+      "bytes": 2857,
+      "sha256": "f28fe4d1be927d6bdc148805f32de703b1bd9e6b3708955870bdab7452eedc78"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M26/m26.py",
+      "exists": true,
+      "bytes": 3561,
+      "sha256": "14762db7942596d3a56e22c284aa629eff967a263a4a58a37975aa354c124229"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M26/old-evidence-manifest.json",
+      "exists": true,
+      "bytes": 231657,
+      "sha256": "221047359ebe29230e74b829d3c621fe4f75562c9ba0dded024bfbbe453c7581"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M26/prepare.py",
+      "exists": true,
+      "bytes": 2113,
+      "sha256": "aaf8dc93916c421bea74910a7b764ba43536afc2dcb09abc58649ec1e2a84b22"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M26/results.json",
+      "exists": true,
+      "bytes": 2118460,
+      "sha256": "2860164bc1fd9a6102f1164e7f1c021837c97fd68bd07bc8f7392f049064bdaa"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 61502,
+  "finished_utc": "2026-09-16T22:12:18.878515+00:00",
+  "duration_seconds": 5.00885795800059
+}

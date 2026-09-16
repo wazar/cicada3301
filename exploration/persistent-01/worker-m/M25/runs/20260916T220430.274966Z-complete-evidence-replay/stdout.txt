@@ -1,0 +1,84 @@
+{
+  "fullsearch_files": 554,
+  "top1_candidate_calls": 2216,
+  "winning_top16_calls": 554,
+  "replayed_retained_paths": 10863,
+  "top1_path_expansions": 3946989,
+  "top16_path_expansions": 11786628,
+  "controls": [
+    {
+      "name": "control-0_welcome",
+      "true_rejections": 13,
+      "actual_terminal_used": 541,
+      "chosen_terminal_used": 541,
+      "chosen_trace_exact": true,
+      "true_trace_in_top16": true,
+      "reachability_stride1": false,
+      "reachability_stride2": true
+    },
+    {
+      "name": "control-jpg107-167",
+      "true_rejections": 11,
+      "actual_terminal_used": 341,
+      "chosen_terminal_used": 341,
+      "chosen_trace_exact": true,
+      "true_trace_in_top16": true,
+      "reachability_stride1": false,
+      "reachability_stride2": true
+    },
+    {
+      "name": "control-p56_an_end",
+      "true_rejections": 0,
+      "actual_terminal_used": 85,
+      "chosen_terminal_used": 85,
+      "chosen_trace_exact": true,
+      "true_trace_in_top16": true,
+      "reachability_stride1": true,
+      "reachability_stride2": true
+    },
+    {
+      "name": "control-p57_parable",
+      "true_rejections": 5,
+      "actual_terminal_used": 105,
+      "chosen_terminal_used": 105,
+      "chosen_trace_exact": true,
+      "true_trace_in_top16": true,
+      "reachability_stride1": false,
+      "reachability_stride2": true
+    }
+  ],
+  "conditional_null_masks_exact": true,
+  "conditional_tails_recounted": true,
+  "conditional_results": [
+    {
+      "name": "control-0_welcome",
+      "tail": 0.05,
+      "score": -2.2846203253291923
+    },
+    {
+      "name": "control-jpg107-167",
+      "tail": 0.05,
+      "score": -2.070792051526032
+    },
+    {
+      "name": "control-p56_an_end",
+      "tail": 0.05,
+      "score": -2.475484466936424
+    },
+    {
+      "name": "control-p57_parable",
+      "tail": 0.05,
+      "score": -2.3114390841750168
+    },
+    {
+      "name": "real-0",
+      "tail": 0.26,
+      "score": -4.674232774206064
+    },
+    {
+      "name": "real-17",
+      "tail": 0.61,
+      "score": -4.642189046369565
+    }
+  ]
+}

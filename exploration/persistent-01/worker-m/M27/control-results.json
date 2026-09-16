@@ -1,0 +1,1082 @@
+[
+  {
+    "oracle_gain": 1.0327890565902749,
+    "oracle_training_objective": -11844.531345889609,
+    "selected_training_objective": -11844.531345889609,
+    "control": 0,
+    "score": 1.0327890565902749,
+    "tail": 0.05,
+    "recovered_true_pairs": 12,
+    "total_true_pairs": 12,
+    "actual_repeat": 0.0041262834660781116,
+    "expected_repeat": 0.005676257584654531,
+    "null": [
+      {
+        "name": "control-0-null0",
+        "score": -0.03823460646803265
+      },
+      {
+        "name": "control-0-null1",
+        "score": -0.03202737000420793
+      },
+      {
+        "name": "control-0-null2",
+        "score": -0.0327395967783456
+      },
+      {
+        "name": "control-0-null3",
+        "score": -0.03053709591905344
+      },
+      {
+        "name": "control-0-null4",
+        "score": -0.03282772300026387
+      },
+      {
+        "name": "control-0-null5",
+        "score": -0.03404686553068604
+      },
+      {
+        "name": "control-0-null6",
+        "score": -0.03044936720057644
+      },
+      {
+        "name": "control-0-null7",
+        "score": -0.033132353251893516
+      },
+      {
+        "name": "control-0-null8",
+        "score": -0.030991943643806114
+      },
+      {
+        "name": "control-0-null9",
+        "score": -0.03193136553841003
+      },
+      {
+        "name": "control-0-null10",
+        "score": -0.03084259868176161
+      },
+      {
+        "name": "control-0-null11",
+        "score": -0.03188915754051235
+      },
+      {
+        "name": "control-0-null12",
+        "score": -0.03210488585016346
+      },
+      {
+        "name": "control-0-null13",
+        "score": -0.03514086809226645
+      },
+      {
+        "name": "control-0-null14",
+        "score": -0.030179011765244016
+      },
+      {
+        "name": "control-0-null15",
+        "score": -0.0387303916342164
+      },
+      {
+        "name": "control-0-null16",
+        "score": -0.031876457822479096
+      },
+      {
+        "name": "control-0-null17",
+        "score": -0.03081008714043622
+      },
+      {
+        "name": "control-0-null18",
+        "score": -0.036865720842440074
+      }
+    ]
+  },
+  {
+    "oracle_gain": 0.9832648064214301,
+    "oracle_training_objective": -11707.200538252986,
+    "selected_training_objective": -11707.200538252986,
+    "control": 1,
+    "score": 0.9832648064214301,
+    "tail": 0.05,
+    "recovered_true_pairs": 12,
+    "total_true_pairs": 12,
+    "actual_repeat": 0.005661644755781595,
+    "expected_repeat": 0.005676257584654531,
+    "null": [
+      {
+        "name": "control-1-null0",
+        "score": -0.030054076313838073
+      },
+      {
+        "name": "control-1-null1",
+        "score": -0.03745410817356375
+      },
+      {
+        "name": "control-1-null2",
+        "score": -0.031294740534623854
+      },
+      {
+        "name": "control-1-null3",
+        "score": -0.02786593939131597
+      },
+      {
+        "name": "control-1-null4",
+        "score": -0.029451345538301987
+      },
+      {
+        "name": "control-1-null5",
+        "score": -0.027698662248747803
+      },
+      {
+        "name": "control-1-null6",
+        "score": -0.02672693102494414
+      },
+      {
+        "name": "control-1-null7",
+        "score": -0.03528926323810202
+      },
+      {
+        "name": "control-1-null8",
+        "score": -0.03477691007788236
+      },
+      {
+        "name": "control-1-null9",
+        "score": -0.030337483450957846
+      },
+      {
+        "name": "control-1-null10",
+        "score": -0.02842936793369692
+      },
+      {
+        "name": "control-1-null11",
+        "score": -0.03146604618418371
+      },
+      {
+        "name": "control-1-null12",
+        "score": -0.030807298185419264
+      },
+      {
+        "name": "control-1-null13",
+        "score": -0.025981934044958563
+      },
+      {
+        "name": "control-1-null14",
+        "score": -0.035247180843725676
+      },
+      {
+        "name": "control-1-null15",
+        "score": -0.028681949531924978
+      },
+      {
+        "name": "control-1-null16",
+        "score": -0.03744362936622782
+      },
+      {
+        "name": "control-1-null17",
+        "score": -0.02920536882613766
+      },
+      {
+        "name": "control-1-null18",
+        "score": -0.03239092790633078
+      }
+    ]
+  },
+  {
+    "oracle_gain": 0.9845378305937165,
+    "oracle_training_objective": -11659.206438305704,
+    "selected_training_objective": -11659.206438305704,
+    "control": 2,
+    "score": 0.9845378305937165,
+    "tail": 0.05,
+    "recovered_true_pairs": 12,
+    "total_true_pairs": 12,
+    "actual_repeat": 0.007388926206698013,
+    "expected_repeat": 0.005676257584654531,
+    "null": [
+      {
+        "name": "control-2-null0",
+        "score": -0.04582974965838095
+      },
+      {
+        "name": "control-2-null1",
+        "score": -0.026590446455619945
+      },
+      {
+        "name": "control-2-null2",
+        "score": -0.04146910322562675
+      },
+      {
+        "name": "control-2-null3",
+        "score": -0.032386900678415965
+      },
+      {
+        "name": "control-2-null4",
+        "score": -0.030617491847742588
+      },
+      {
+        "name": "control-2-null5",
+        "score": -0.03511972880285885
+      },
+      {
+        "name": "control-2-null6",
+        "score": -0.03610390816094027
+      },
+      {
+        "name": "control-2-null7",
+        "score": -0.036777545370330546
+      },
+      {
+        "name": "control-2-null8",
+        "score": -0.037042401024483126
+      },
+      {
+        "name": "control-2-null9",
+        "score": -0.031536312634472
+      },
+      {
+        "name": "control-2-null10",
+        "score": -0.03689861275038622
+      },
+      {
+        "name": "control-2-null11",
+        "score": -0.02980302109884582
+      },
+      {
+        "name": "control-2-null12",
+        "score": -0.030903843893539576
+      },
+      {
+        "name": "control-2-null13",
+        "score": -0.03409014614563687
+      },
+      {
+        "name": "control-2-null14",
+        "score": -0.035545185859682915
+      },
+      {
+        "name": "control-2-null15",
+        "score": -0.03619131609802212
+      },
+      {
+        "name": "control-2-null16",
+        "score": -0.033274929551397575
+      },
+      {
+        "name": "control-2-null17",
+        "score": -0.024482837739027225
+      },
+      {
+        "name": "control-2-null18",
+        "score": -0.030721108878453602
+      }
+    ]
+  },
+  {
+    "oracle_gain": 0.9626622869140458,
+    "oracle_training_objective": -11431.59171948737,
+    "selected_training_objective": -11624.430983247457,
+    "control": 3,
+    "score": 0.920893610761123,
+    "tail": 0.05,
+    "recovered_true_pairs": 11,
+    "total_true_pairs": 12,
+    "actual_repeat": 0.006621245561846272,
+    "expected_repeat": 0.005676257584654531,
+    "null": [
+      {
+        "name": "control-3-null0",
+        "score": -0.03668816748440464
+      },
+      {
+        "name": "control-3-null1",
+        "score": -0.029770369525866307
+      },
+      {
+        "name": "control-3-null2",
+        "score": -0.03163692467674285
+      },
+      {
+        "name": "control-3-null3",
+        "score": -0.03039638685498631
+      },
+      {
+        "name": "control-3-null4",
+        "score": -0.0214370162522052
+      },
+      {
+        "name": "control-3-null5",
+        "score": -0.03285662991746702
+      },
+      {
+        "name": "control-3-null6",
+        "score": -0.03804730799011734
+      },
+      {
+        "name": "control-3-null7",
+        "score": -0.040095851325799334
+      },
+      {
+        "name": "control-3-null8",
+        "score": -0.03167955082908423
+      },
+      {
+        "name": "control-3-null9",
+        "score": -0.0281329546485101
+      },
+      {
+        "name": "control-3-null10",
+        "score": -0.028629295095277358
+      },
+      {
+        "name": "control-3-null11",
+        "score": -0.032451152754038134
+      },
+      {
+        "name": "control-3-null12",
+        "score": -0.033999989008395376
+      },
+      {
+        "name": "control-3-null13",
+        "score": -0.02953902289674059
+      },
+      {
+        "name": "control-3-null14",
+        "score": -0.03345930731123672
+      },
+      {
+        "name": "control-3-null15",
+        "score": -0.027824423836298944
+      },
+      {
+        "name": "control-3-null16",
+        "score": -0.03502513268091672
+      },
+      {
+        "name": "control-3-null17",
+        "score": -0.02696628026855224
+      },
+      {
+        "name": "control-3-null18",
+        "score": -0.030887635878379623
+      }
+    ]
+  },
+  {
+    "oracle_gain": 1.0506642655100413,
+    "oracle_training_objective": -11495.887731835086,
+    "selected_training_objective": -11495.887731835086,
+    "control": 4,
+    "score": 1.0506642655100413,
+    "tail": 0.05,
+    "recovered_true_pairs": 12,
+    "total_true_pairs": 12,
+    "actual_repeat": 0.005373764513962192,
+    "expected_repeat": 0.005676257584654531,
+    "null": [
+      {
+        "name": "control-4-null0",
+        "score": -0.02673483584478668
+      },
+      {
+        "name": "control-4-null1",
+        "score": -0.0381485586496329
+      },
+      {
+        "name": "control-4-null2",
+        "score": -0.03275982503882506
+      },
+      {
+        "name": "control-4-null3",
+        "score": -0.03487030613009942
+      },
+      {
+        "name": "control-4-null4",
+        "score": -0.025014822995210927
+      },
+      {
+        "name": "control-4-null5",
+        "score": -0.024878317431429642
+      },
+      {
+        "name": "control-4-null6",
+        "score": -0.035578087747806984
+      },
+      {
+        "name": "control-4-null7",
+        "score": -0.026657370134240684
+      },
+      {
+        "name": "control-4-null8",
+        "score": -0.02957661164934306
+      },
+      {
+        "name": "control-4-null9",
+        "score": -0.03510167437811718
+      },
+      {
+        "name": "control-4-null10",
+        "score": -0.030308344465909746
+      },
+      {
+        "name": "control-4-null11",
+        "score": -0.026905572332079547
+      },
+      {
+        "name": "control-4-null12",
+        "score": -0.03302395221367207
+      },
+      {
+        "name": "control-4-null13",
+        "score": -0.034187011598900495
+      },
+      {
+        "name": "control-4-null14",
+        "score": -0.0276509607446533
+      },
+      {
+        "name": "control-4-null15",
+        "score": -0.046904782259672796
+      },
+      {
+        "name": "control-4-null16",
+        "score": -0.03626282144968711
+      },
+      {
+        "name": "control-4-null17",
+        "score": -0.03869590854790212
+      },
+      {
+        "name": "control-4-null18",
+        "score": -0.03475940041034505
+      }
+    ]
+  },
+  {
+    "oracle_gain": 0.8943994681935761,
+    "oracle_training_objective": -12338.0701436568,
+    "selected_training_objective": -12338.0701436568,
+    "control": 5,
+    "score": 0.8943994681935761,
+    "tail": 0.05,
+    "recovered_true_pairs": 12,
+    "total_true_pairs": 12,
+    "actual_repeat": 0.005661644755781595,
+    "expected_repeat": 0.005676257584654531,
+    "null": [
+      {
+        "name": "control-5-null0",
+        "score": -0.035674838179822886
+      },
+      {
+        "name": "control-5-null1",
+        "score": -0.03599358488213049
+      },
+      {
+        "name": "control-5-null2",
+        "score": -0.0316662413790592
+      },
+      {
+        "name": "control-5-null3",
+        "score": -0.029442622013999296
+      },
+      {
+        "name": "control-5-null4",
+        "score": -0.04149709673275878
+      },
+      {
+        "name": "control-5-null5",
+        "score": -0.02225131772154887
+      },
+      {
+        "name": "control-5-null6",
+        "score": -0.029068710555652383
+      },
+      {
+        "name": "control-5-null7",
+        "score": -0.03543657826160194
+      },
+      {
+        "name": "control-5-null8",
+        "score": -0.03393028763767942
+      },
+      {
+        "name": "control-5-null9",
+        "score": -0.029950058649867894
+      },
+      {
+        "name": "control-5-null10",
+        "score": -0.03155143228044715
+      },
+      {
+        "name": "control-5-null11",
+        "score": -0.03395996321359942
+      },
+      {
+        "name": "control-5-null12",
+        "score": -0.03459387444915006
+      },
+      {
+        "name": "control-5-null13",
+        "score": -0.03291666407082431
+      },
+      {
+        "name": "control-5-null14",
+        "score": -0.034019786953400896
+      },
+      {
+        "name": "control-5-null15",
+        "score": -0.02913917529485255
+      },
+      {
+        "name": "control-5-null16",
+        "score": -0.03842308490869767
+      },
+      {
+        "name": "control-5-null17",
+        "score": -0.03466445739971144
+      },
+      {
+        "name": "control-5-null18",
+        "score": -0.028018963020734696
+      }
+    ]
+  },
+  {
+    "oracle_gain": 0.1605193936688278,
+    "oracle_training_objective": -16205.953098522365,
+    "selected_training_objective": -16205.953098522365,
+    "control": 6,
+    "score": 0.1605193936688278,
+    "tail": 0.05,
+    "recovered_true_pairs": 12,
+    "total_true_pairs": 12,
+    "actual_repeat": 0.007005085884272143,
+    "expected_repeat": 0.005676257584654531,
+    "null": [
+      {
+        "name": "control-6-null0",
+        "score": -0.031655989422705956
+      },
+      {
+        "name": "control-6-null1",
+        "score": -0.03666935073058031
+      },
+      {
+        "name": "control-6-null2",
+        "score": -0.040030804198607516
+      },
+      {
+        "name": "control-6-null3",
+        "score": -0.03727535255403992
+      },
+      {
+        "name": "control-6-null4",
+        "score": -0.03914308843426594
+      },
+      {
+        "name": "control-6-null5",
+        "score": -0.03664474553163538
+      },
+      {
+        "name": "control-6-null6",
+        "score": -0.035992533114485706
+      },
+      {
+        "name": "control-6-null7",
+        "score": -0.025843941614243113
+      },
+      {
+        "name": "control-6-null8",
+        "score": -0.040185842082294386
+      },
+      {
+        "name": "control-6-null9",
+        "score": -0.0404247911800673
+      },
+      {
+        "name": "control-6-null10",
+        "score": -0.04150168569830402
+      },
+      {
+        "name": "control-6-null11",
+        "score": -0.03931395817371291
+      },
+      {
+        "name": "control-6-null12",
+        "score": -0.03954815123943155
+      },
+      {
+        "name": "control-6-null13",
+        "score": -0.050441268578725766
+      },
+      {
+        "name": "control-6-null14",
+        "score": -0.03262062402695604
+      },
+      {
+        "name": "control-6-null15",
+        "score": -0.02951870709312952
+      },
+      {
+        "name": "control-6-null16",
+        "score": -0.026440577932913212
+      },
+      {
+        "name": "control-6-null17",
+        "score": -0.03581351892967594
+      },
+      {
+        "name": "control-6-null18",
+        "score": -0.03891522157056902
+      }
+    ]
+  },
+  {
+    "oracle_gain": 0.1945762367146398,
+    "oracle_training_objective": -15888.313193979975,
+    "selected_training_objective": -15888.313193979975,
+    "control": 7,
+    "score": 0.1945762367146398,
+    "tail": 0.05,
+    "recovered_true_pairs": 12,
+    "total_true_pairs": 12,
+    "actual_repeat": 0.005181844352749257,
+    "expected_repeat": 0.005676257584654531,
+    "null": [
+      {
+        "name": "control-7-null0",
+        "score": -0.0441571068647818
+      },
+      {
+        "name": "control-7-null1",
+        "score": -0.03579092717665402
+      },
+      {
+        "name": "control-7-null2",
+        "score": -0.03751956988145791
+      },
+      {
+        "name": "control-7-null3",
+        "score": -0.02834998979769283
+      },
+      {
+        "name": "control-7-null4",
+        "score": -0.03698635482420316
+      },
+      {
+        "name": "control-7-null5",
+        "score": -0.03723838750997648
+      },
+      {
+        "name": "control-7-null6",
+        "score": -0.04083122978077287
+      },
+      {
+        "name": "control-7-null7",
+        "score": -0.03361971017796807
+      },
+      {
+        "name": "control-7-null8",
+        "score": -0.02946834620841892
+      },
+      {
+        "name": "control-7-null9",
+        "score": -0.03117170110092663
+      },
+      {
+        "name": "control-7-null10",
+        "score": -0.034282117922948316
+      },
+      {
+        "name": "control-7-null11",
+        "score": -0.027653758722908626
+      },
+      {
+        "name": "control-7-null12",
+        "score": -0.03159500004098809
+      },
+      {
+        "name": "control-7-null13",
+        "score": -0.02501580604236033
+      },
+      {
+        "name": "control-7-null14",
+        "score": -0.029458316922922504
+      },
+      {
+        "name": "control-7-null15",
+        "score": -0.03865709064282975
+      },
+      {
+        "name": "control-7-null16",
+        "score": -0.04042024134966191
+      },
+      {
+        "name": "control-7-null17",
+        "score": -0.032907246044482245
+      },
+      {
+        "name": "control-7-null18",
+        "score": -0.0338965725699659
+      }
+    ]
+  },
+  {
+    "oracle_gain": 0.16007049359111303,
+    "oracle_training_objective": -16105.639710624382,
+    "selected_training_objective": -16105.639710624382,
+    "control": 8,
+    "score": 0.16007049359111303,
+    "tail": 0.05,
+    "recovered_true_pairs": 12,
+    "total_true_pairs": 12,
+    "actual_repeat": 0.00585356491699453,
+    "expected_repeat": 0.005676257584654531,
+    "null": [
+      {
+        "name": "control-8-null0",
+        "score": -0.038350870106315604
+      },
+      {
+        "name": "control-8-null1",
+        "score": -0.03316748560979962
+      },
+      {
+        "name": "control-8-null2",
+        "score": -0.04199458038299671
+      },
+      {
+        "name": "control-8-null3",
+        "score": -0.03776923391675147
+      },
+      {
+        "name": "control-8-null4",
+        "score": -0.03493263240566097
+      },
+      {
+        "name": "control-8-null5",
+        "score": -0.03461883663893376
+      },
+      {
+        "name": "control-8-null6",
+        "score": -0.037301456826671256
+      },
+      {
+        "name": "control-8-null7",
+        "score": -0.036881323316070656
+      },
+      {
+        "name": "control-8-null8",
+        "score": -0.04380083571857144
+      },
+      {
+        "name": "control-8-null9",
+        "score": -0.045848720767506
+      },
+      {
+        "name": "control-8-null10",
+        "score": -0.0353595714947364
+      },
+      {
+        "name": "control-8-null11",
+        "score": -0.028739792873473526
+      },
+      {
+        "name": "control-8-null12",
+        "score": -0.040827925362968545
+      },
+      {
+        "name": "control-8-null13",
+        "score": -0.02942547757799076
+      },
+      {
+        "name": "control-8-null14",
+        "score": -0.03304081739401709
+      },
+      {
+        "name": "control-8-null15",
+        "score": -0.04115124365955527
+      },
+      {
+        "name": "control-8-null16",
+        "score": -0.03219759217597462
+      },
+      {
+        "name": "control-8-null17",
+        "score": -0.0317416027346299
+      },
+      {
+        "name": "control-8-null18",
+        "score": -0.02795854574512106
+      }
+    ]
+  },
+  {
+    "oracle_gain": 0.14964360967863508,
+    "oracle_training_objective": -16224.934085003539,
+    "selected_training_objective": -16272.602313438212,
+    "control": 9,
+    "score": 0.13909425852819085,
+    "tail": 0.05,
+    "recovered_true_pairs": 11,
+    "total_true_pairs": 12,
+    "actual_repeat": 0.005085884272142789,
+    "expected_repeat": 0.005676257584654531,
+    "null": [
+      {
+        "name": "control-9-null0",
+        "score": -0.035423568477316945
+      },
+      {
+        "name": "control-9-null1",
+        "score": -0.04398309224911188
+      },
+      {
+        "name": "control-9-null2",
+        "score": -0.04016436533038873
+      },
+      {
+        "name": "control-9-null3",
+        "score": -0.03708872416268072
+      },
+      {
+        "name": "control-9-null4",
+        "score": -0.041001474000312225
+      },
+      {
+        "name": "control-9-null5",
+        "score": -0.02740954087634848
+      },
+      {
+        "name": "control-9-null6",
+        "score": -0.03319387004609795
+      },
+      {
+        "name": "control-9-null7",
+        "score": -0.039662509869163774
+      },
+      {
+        "name": "control-9-null8",
+        "score": -0.03777104331198991
+      },
+      {
+        "name": "control-9-null9",
+        "score": -0.03733883980060972
+      },
+      {
+        "name": "control-9-null10",
+        "score": -0.031249710164540426
+      },
+      {
+        "name": "control-9-null11",
+        "score": -0.033108150786556455
+      },
+      {
+        "name": "control-9-null12",
+        "score": -0.03044502533771432
+      },
+      {
+        "name": "control-9-null13",
+        "score": -0.02788918164853662
+      },
+      {
+        "name": "control-9-null14",
+        "score": -0.03818591662793506
+      },
+      {
+        "name": "control-9-null15",
+        "score": -0.031726383699946674
+      },
+      {
+        "name": "control-9-null16",
+        "score": -0.031865252677092566
+      },
+      {
+        "name": "control-9-null17",
+        "score": -0.03227969150676977
+      },
+      {
+        "name": "control-9-null18",
+        "score": -0.03579919126443178
+      }
+    ]
+  },
+  {
+    "oracle_gain": 0.16621779918591936,
+    "oracle_training_objective": -16077.156454282489,
+    "selected_training_objective": -16077.156454282489,
+    "control": 10,
+    "score": 0.16621779918591936,
+    "tail": 0.05,
+    "recovered_true_pairs": 12,
+    "total_true_pairs": 12,
+    "actual_repeat": 0.0054697245945686595,
+    "expected_repeat": 0.005676257584654531,
+    "null": [
+      {
+        "name": "control-10-null0",
+        "score": -0.030431130447393963
+      },
+      {
+        "name": "control-10-null1",
+        "score": -0.03401412832747156
+      },
+      {
+        "name": "control-10-null2",
+        "score": -0.035082061441619815
+      },
+      {
+        "name": "control-10-null3",
+        "score": -0.03726016806980793
+      },
+      {
+        "name": "control-10-null4",
+        "score": -0.030358709041787373
+      },
+      {
+        "name": "control-10-null5",
+        "score": -0.03855401839485707
+      },
+      {
+        "name": "control-10-null6",
+        "score": -0.03563323445802
+      },
+      {
+        "name": "control-10-null7",
+        "score": -0.03365197231376455
+      },
+      {
+        "name": "control-10-null8",
+        "score": -0.0432625750861162
+      },
+      {
+        "name": "control-10-null9",
+        "score": -0.03856286406101951
+      },
+      {
+        "name": "control-10-null10",
+        "score": -0.026912599471068253
+      },
+      {
+        "name": "control-10-null11",
+        "score": -0.03688586345736064
+      },
+      {
+        "name": "control-10-null12",
+        "score": -0.03381828313418568
+      },
+      {
+        "name": "control-10-null13",
+        "score": -0.030266268508672707
+      },
+      {
+        "name": "control-10-null14",
+        "score": -0.038182816354235746
+      },
+      {
+        "name": "control-10-null15",
+        "score": -0.031586772168093885
+      },
+      {
+        "name": "control-10-null16",
+        "score": -0.03538805209138781
+      },
+      {
+        "name": "control-10-null17",
+        "score": -0.03691711508376141
+      },
+      {
+        "name": "control-10-null18",
+        "score": -0.030879309805298013
+      }
+    ]
+  },
+  {
+    "oracle_gain": 0.18840369731053677,
+    "oracle_training_objective": -15887.596972009365,
+    "selected_training_objective": -15887.596972009365,
+    "control": 11,
+    "score": 0.18840369731053677,
+    "tail": 0.05,
+    "recovered_true_pairs": 12,
+    "total_true_pairs": 12,
+    "actual_repeat": 0.005181844352749257,
+    "expected_repeat": 0.005676257584654531,
+    "null": [
+      {
+        "name": "control-11-null0",
+        "score": -0.03529016716065701
+      },
+      {
+        "name": "control-11-null1",
+        "score": -0.03055125481345394
+      },
+      {
+        "name": "control-11-null2",
+        "score": -0.04048538907684804
+      },
+      {
+        "name": "control-11-null3",
+        "score": -0.02798789680269489
+      },
+      {
+        "name": "control-11-null4",
+        "score": -0.044572116015506265
+      },
+      {
+        "name": "control-11-null5",
+        "score": -0.028208216871558882
+      },
+      {
+        "name": "control-11-null6",
+        "score": -0.03405913988269472
+      },
+      {
+        "name": "control-11-null7",
+        "score": -0.031711933741044473
+      },
+      {
+        "name": "control-11-null8",
+        "score": -0.033352657243254286
+      },
+      {
+        "name": "control-11-null9",
+        "score": -0.03312863407619848
+      },
+      {
+        "name": "control-11-null10",
+        "score": -0.03593479810332849
+      },
+      {
+        "name": "control-11-null11",
+        "score": -0.03441150971252518
+      },
+      {
+        "name": "control-11-null12",
+        "score": -0.038726954282867584
+      },
+      {
+        "name": "control-11-null13",
+        "score": -0.028862971813143495
+      },
+      {
+        "name": "control-11-null14",
+        "score": -0.03575027743740811
+      },
+      {
+        "name": "control-11-null15",
+        "score": -0.032700208144068675
+      },
+      {
+        "name": "control-11-null16",
+        "score": -0.039312739453355706
+      },
+      {
+        "name": "control-11-null17",
+        "score": -0.03476124659111135
+      },
+      {
+        "name": "control-11-null18",
+        "score": -0.0389926623309818
+      }
+    ]
+  }
+]

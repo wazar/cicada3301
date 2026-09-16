@@ -1,0 +1,46 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-11/freeze_predictions.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "6554d1fcae7f9a739cd9badaa3c23abf761de25a",
+  "started_utc": "2026-09-16T22:18:56.738606+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-11/PROTOCOL.md",
+      "exists": true,
+      "bytes": 1031,
+      "sha256": "7133c660def8548bcb7061bd0d86138319bd1ce9d5a1ca01f0a60f4d2b5fc9dc"
+    },
+    {
+      "path": "exploration/persistent-01/review-11/freeze_predictions.py",
+      "exists": true,
+      "bytes": 2745,
+      "sha256": "accdc0def744a0ae4f772473e0181067dc2a30dfd8af055d95e0dc5f6625cf23"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 61882,
+  "finished_utc": "2026-09-16T22:18:56.764609+00:00",
+  "duration_seconds": 0.02579866700034472
+}
