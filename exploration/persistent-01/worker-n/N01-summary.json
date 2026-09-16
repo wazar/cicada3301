@@ -1,0 +1,191 @@
+{
+  "real": {
+    "validation": [
+      -227.29891273711954,
+      -210.133732933177
+    ],
+    "test": [
+      -206.82158829795372,
+      -229.37143110513787
+    ],
+    "selected_phase": 1,
+    "statistic": -229.37143110513787,
+    "p": 0.8925
+  },
+  "controls": [
+    {
+      "panel": 0,
+      "phase": 0,
+      "key": 0,
+      "lengths": [
+        184,
+        156,
+        780,
+        754,
+        88
+      ],
+      "statistic": 143.01578226824864,
+      "p": 0.01,
+      "selected_phase": 0
+    },
+    {
+      "panel": 0,
+      "phase": 0,
+      "key": 1,
+      "lengths": [
+        184,
+        156,
+        780,
+        754,
+        88
+      ],
+      "statistic": 142.7677031321643,
+      "p": 0.01,
+      "selected_phase": 0
+    },
+    {
+      "panel": 0,
+      "phase": 0,
+      "key": 2,
+      "lengths": [
+        184,
+        156,
+        780,
+        754,
+        88
+      ],
+      "statistic": 130.84456368439987,
+      "p": 0.01,
+      "selected_phase": 0
+    },
+    {
+      "panel": 0,
+      "phase": 1,
+      "key": 0,
+      "lengths": [
+        185,
+        157,
+        781,
+        755,
+        89
+      ],
+      "statistic": 131.90426454624406,
+      "p": 0.01,
+      "selected_phase": 1
+    },
+    {
+      "panel": 0,
+      "phase": 1,
+      "key": 1,
+      "lengths": [
+        185,
+        157,
+        781,
+        755,
+        89
+      ],
+      "statistic": 139.04772589448334,
+      "p": 0.01,
+      "selected_phase": 1
+    },
+    {
+      "panel": 0,
+      "phase": 1,
+      "key": 2,
+      "lengths": [
+        185,
+        157,
+        781,
+        755,
+        89
+      ],
+      "statistic": 124.96083724379612,
+      "p": 0.01,
+      "selected_phase": 1
+    },
+    {
+      "panel": 1,
+      "phase": 0,
+      "key": 0,
+      "lengths": [
+        514,
+        318,
+        84,
+        94
+      ],
+      "statistic": 47.21661665013374,
+      "p": 0.01,
+      "selected_phase": 0
+    },
+    {
+      "panel": 1,
+      "phase": 0,
+      "key": 1,
+      "lengths": [
+        514,
+        318,
+        84,
+        94
+      ],
+      "statistic": 49.73415598774739,
+      "p": 0.01,
+      "selected_phase": 0
+    },
+    {
+      "panel": 1,
+      "phase": 0,
+      "key": 2,
+      "lengths": [
+        514,
+        318,
+        84,
+        94
+      ],
+      "statistic": 42.25151366959992,
+      "p": 0.01,
+      "selected_phase": 0
+    },
+    {
+      "panel": 1,
+      "phase": 1,
+      "key": 0,
+      "lengths": [
+        515,
+        319,
+        85,
+        95
+      ],
+      "statistic": 46.159986876219804,
+      "p": 0.01,
+      "selected_phase": 1
+    },
+    {
+      "panel": 1,
+      "phase": 1,
+      "key": 1,
+      "lengths": [
+        515,
+        319,
+        85,
+        95
+      ],
+      "statistic": 44.11966466908109,
+      "p": 0.01,
+      "selected_phase": 1
+    },
+    {
+      "panel": 1,
+      "phase": 1,
+      "key": 2,
+      "lengths": [
+        515,
+        319,
+        85,
+        95
+      ],
+      "statistic": 40.003826156414235,
+      "p": 0.01,
+      "selected_phase": 1
+    }
+  ]
+}

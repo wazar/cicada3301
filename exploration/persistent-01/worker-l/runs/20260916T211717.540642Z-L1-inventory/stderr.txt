@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/worker-l/l1.py", line 71, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "<REPO_ROOT>/exploration/persistent-01/worker-l/l1.py", line 64, in main
+    if corruption==0:assert controls[f'bag{m}-corrupt{corruption}']['true_model_zero_excess']==20
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

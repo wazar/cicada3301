@@ -1,0 +1,46 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-07/check.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "a899c38fe777f66fc2e1995aa0fbfa935bf59d58",
+  "started_utc": "2026-09-16T21:44:57.280630+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-07/check.py",
+      "exists": true,
+      "bytes": 9566,
+      "sha256": "71e7a393d3597d4c559046381750762e65bd60bae0f936dd239077d86c131bb5"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-l/evidence-manifest.json",
+      "exists": true,
+      "bytes": 24551,
+      "sha256": "0ed0e683ff649c3302d03a169dbe46eb73ccc771ecd5eb56554b51a4fa586fa5"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 56407,
+  "finished_utc": "2026-09-16T21:44:58.005874+00:00",
+  "duration_seconds": 0.7250402080026106
+}

@@ -1,0 +1,71 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "exploration/persistent-01/worker-k/verify.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e306d1c3c90703873ea727812c3c4055dafab99b",
+  "started_utc": "2026-09-16T21:15:08.080987+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-k/k01-controls.jsonl",
+      "exists": true,
+      "bytes": 5149838,
+      "sha256": "99b44317d39de09db6512f47663fd66049e26c350904faaee4b09de533117653"
+    },
+    {
+      "path": "exploration/persistent-01/worker-k/k01-results.json",
+      "exists": true,
+      "bytes": 592698,
+      "sha256": "a7e120d2270bf54d153e8cbc03ecde85f315cd835421278cd2e54a63a784bc4a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-k/k01.py",
+      "exists": true,
+      "bytes": 4736,
+      "sha256": "a5886fc044f70213113f5e23fa459f0258bcc60ee6096386f8ccd7c83169dba5"
+    },
+    {
+      "path": "exploration/persistent-01/worker-k/k02-results.json",
+      "exists": true,
+      "bytes": 1791216,
+      "sha256": "a9596c642dca3cd39fdf5c825b38ececa5599b75db5993bcd29d6c4dc5dd312a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-k/k02.py",
+      "exists": true,
+      "bytes": 2986,
+      "sha256": "4bf61a45afd79d5b29af2c32a890fa91542cf638ab29c153bc6ec0939138a5f9"
+    },
+    {
+      "path": "exploration/persistent-01/worker-k/verify.py",
+      "exists": true,
+      "bytes": 1541,
+      "sha256": "3bdaf4b02babf2c7865044fdfa2df3b3bad64a9d9bd03bb911a71192efcb1bc8"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 51621,
+  "finished_utc": "2026-09-16T21:15:08.515759+00:00",
+  "duration_seconds": 0.43456262499967124
+}

@@ -6,15 +6,17 @@ Start16 September2026,21:30:37 SAST. Fixed deadline **17 September2026,05:30:37 
 
 ## Current actual assignments
 
-Allocation recorded at 2026-09-16T21:38:57.339745+00:00, same fixed deadline and sole coordinator:
+Allocation recorded at 2026-09-16T21:47:19.643238+00:00, same fixed deadline and sole coordinator:
 
-- M: one existing-method lane M22, checking the unresolved unknown-short-period literal-F fitting gap before a bounded searched-key control and real/null comparison. Historical-source M21 is finished and fresh review06 independently passed its scoped correction.
-- N: alternative N03, testing cross-page copied passages under unknown fixed relabelling with canonical equality windows and complete-procedure null. This challenges independent-page treatment, uses no language scorer, and assumes no additive key.
-- O (agent persistent_review6 reassigned after completed review): alternative variable-length plaintext token or delimiter-grammar construction. A short prior-overlap check precedes a frozen real-input test; no generic grammar platform.
+- M: M23 finished the original remaining43-page grid scope with no candidate. Now M24 tests a direct output-memory mechanism after targeted prior-overlap checks; no plaintext/key/English scoring.
+- P: original13 image test found rough rotational ornament balance, not an exact copied half or cipher instruction. P02 now tests cross-page explicit-unit length templates, distinct from rune equality copies.
+- N: review07 accepted L1/L2/L3 within scope; now fresh review08 independently checks M22 exact short-key kernel and optimization witness alongside other research.
 
-I completed P11: 11,520 real plus matched-null cells under two independent search selectors, without credible plaintext. Fresh review05 verifies accounting, arithmetic and scalar scores. J capacity bounds have fresh review04. H projective block and multiplicative families have coordinator independent algebra replay. K opaque periodic substitutions, L balanced bags/unit alphabets, M20 page-phase block model, and N opaque pair substitution completed; their separate evidence remains queued for focused publication. No worker from these completed runs remains a research owner unless explicitly reassigned above.
+M22 exact periods1–3 recovered12/12 controlkeys versus11/12 for inheritedheuristic, with three correct-key wrongprefix path winners. Its real0/17 pilot had nulltails.57/.49; no automatic expansion. N03/N04 crosspage equality/one-corruption tests found no usefulrelation;16-runecontrols remain underpowered. O01 opcode-arity model missed; O02 exactcountpartitions eliminate the finite J03 five-page conjunction on pages0/3/17. Those are finite construction/register bounds, not wholecipher exclusions.
 
-New workers receive strategy directly. Initial A/C/E ACK hashes and actual executed alternative cards establish strategy delivery; later assignments preserve outside-box-v1. The two current alternatives avoid the legacy English scorer and additive candidate-keystream model. M22 is explicitly existing-method work, not alternative novelty.
+Reviewed checkpoint4 b3c5d0f and historical correction a899c38 are pushed. M21's actual Crypt::RSA counter convention is independently reproduced; first20-byte LP2 predicate remains unchanged. No LP2 rerun/addressnavigation. K/L/M20/N/O newer evidence is prepared for focused publication; M22 waits for kernel review.
+
+Initial A/C/E ACK hashes and actual executed alternative cards establish direct-process strategy delivery. Later assignments preserve outside-box-v1; no controller restart or deadline extension occurred. Two substantive alternative families have continued alongside each existing-method cycle, with fresh review occupying a slot as needed.
 
 ## Findings carried forward
 
@@ -36,4 +38,4 @@ Frozen config/dataset hashes unchanged. Discovery excludes originals4,9,14,19,24
 
 Raw commands/output/exits/source snapshots and alternatives retained perworker. Reports are claims with explicit bounds. Freshreviews01/02 cover selectedmethod/output evidence, not independenttranscription or everyhistoricalclaim. Large outputs have losslessgzip manifests; originalbytes remainlocal. Localcheckout prefixes alone normalized in completedtracebacks, originals privatelyretained withhashes.
 
-Next two executable actions: M22 identify an actual unknown-key recovery gap and run its bounded controls; N03 run the frozen cross-page equality-pattern real/null comparison. O executes a distinct token/grammar explanation after targeted overlap checks. CHECKPOINT-04 publishes reviewed completed I/J/H evidence while these searches continue. A negative, completed queue, report or push does not end the mission.
+Next two executable actions: M24 freeze and execute the direct memory hypothesis after overlap checks; P02 execute the fixed page-template comparison. Review08 checks M22 kernel in parallel. At least six concrete next jobs are recorded with overlap checks; do not execute redundant ones merely to fill time. A negative, completed queue, report or push does not end the mission.

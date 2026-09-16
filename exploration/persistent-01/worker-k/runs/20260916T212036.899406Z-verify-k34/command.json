@@ -1,0 +1,89 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "exploration/persistent-01/worker-k/verify_k34.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e306d1c3c90703873ea727812c3c4055dafab99b",
+  "started_utc": "2026-09-16T21:20:36.911906+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-k/k01.py",
+      "exists": true,
+      "bytes": 4736,
+      "sha256": "a5886fc044f70213113f5e23fa459f0258bcc60ee6096386f8ccd7c83169dba5"
+    },
+    {
+      "path": "exploration/persistent-01/worker-k/k02.py",
+      "exists": true,
+      "bytes": 3046,
+      "sha256": "124773a3af7581d30a9aad6a6c3597f81da7bc326223e0f118d1b849ce4a28a5"
+    },
+    {
+      "path": "exploration/persistent-01/worker-k/k03-controls.jsonl",
+      "exists": true,
+      "bytes": 4493396,
+      "sha256": "a0077207b92f7d7ce52fe4d513c5659cc62b2f6f2c9a13139db34a77d16ce4a7"
+    },
+    {
+      "path": "exploration/persistent-01/worker-k/k03-results.json",
+      "exists": true,
+      "bytes": 20702,
+      "sha256": "32ef079e7db03143938103fb0f5f6d55130faa583e8f84d5bbfde1e34463fa55"
+    },
+    {
+      "path": "exploration/persistent-01/worker-k/k03.py",
+      "exists": true,
+      "bytes": 2016,
+      "sha256": "e9f3f623452dcaa714b0b3ba382e4859c928799135aee18c558ca0b6db9ee5bf"
+    },
+    {
+      "path": "exploration/persistent-01/worker-k/k04-results.json",
+      "exists": true,
+      "bytes": 1603310,
+      "sha256": "03a97387a55ec985bf32c1855dcd789fede5518ecab4e4d9252624b4e77821b8"
+    },
+    {
+      "path": "exploration/persistent-01/worker-k/k04.py",
+      "exists": true,
+      "bytes": 4272,
+      "sha256": "d79aba0be362ea9e8acf075d3159805ff2a1b4fa821665cc3351f928510213c0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-k/verify.py",
+      "exists": true,
+      "bytes": 1541,
+      "sha256": "3bdaf4b02babf2c7865044fdfa2df3b3bad64a9d9bd03bb911a71192efcb1bc8"
+    },
+    {
+      "path": "exploration/persistent-01/worker-k/verify_k34.py",
+      "exists": true,
+      "bytes": 2830,
+      "sha256": "87338a3e43986df7384ce072750fe02b4e9bdf982308d7cddb995bf5ad4e3258"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 52506,
+  "finished_utc": "2026-09-16T21:20:37.112025+00:00",
+  "duration_seconds": 0.1998560419997375
+}

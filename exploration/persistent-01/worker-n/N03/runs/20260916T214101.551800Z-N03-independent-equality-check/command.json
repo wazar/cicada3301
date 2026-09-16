@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-n/N03/verify.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "b3c5d0fa31e49965f01d343c31f41903327bac57",
+  "started_utc": "2026-09-16T21:41:01.562075+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N03/n03.py",
+      "exists": true,
+      "bytes": 4285,
+      "sha256": "5e7ed9fb29f6ff2f32e29cb058a8447066744da558e7db1f316a17500f632bc2"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N03/n04.py",
+      "exists": true,
+      "bytes": 3395,
+      "sha256": "12110e1e52ec1260ac9d470b3e8b96ca4493b6a4779dd32953bff6600c20870d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N03/verify.py",
+      "exists": true,
+      "bytes": 925,
+      "sha256": "f27fd6aa8a51c615c2b63a8f90923c57b5be17922aaaf42a22726989717f9531"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/n01.py",
+      "exists": true,
+      "bytes": 5785,
+      "sha256": "461b797ace74f9a1042cd24ecab7cdbe49e29714f5b77ece47e5cde53cc8b070"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 55645,
+  "finished_utc": "2026-09-16T21:41:01.699973+00:00",
+  "duration_seconds": 0.1376373750026687
+}

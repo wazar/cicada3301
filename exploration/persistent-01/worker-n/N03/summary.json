@@ -1,0 +1,512 @@
+{
+  "real": {
+    "statistic": 18,
+    "seed_matches": 3960,
+    "pair_maxima": [
+      17,
+      17,
+      15,
+      16,
+      18,
+      15
+    ],
+    "p": 0.34
+  },
+  "controls": [
+    {
+      "register": "matched_markov",
+      "length": 16,
+      "rep": 0,
+      "errors": 0,
+      "statistic": 17,
+      "p": 0.8325
+    },
+    {
+      "register": "matched_markov",
+      "length": 16,
+      "rep": 0,
+      "errors": 1,
+      "statistic": 17,
+      "p": 0.8325
+    },
+    {
+      "register": "matched_markov",
+      "length": 16,
+      "rep": 1,
+      "errors": 0,
+      "statistic": 19,
+      "p": 0.0825
+    },
+    {
+      "register": "matched_markov",
+      "length": 16,
+      "rep": 1,
+      "errors": 1,
+      "statistic": 16,
+      "p": 1.0
+    },
+    {
+      "register": "matched_markov",
+      "length": 16,
+      "rep": 2,
+      "errors": 0,
+      "statistic": 18,
+      "p": 0.34
+    },
+    {
+      "register": "matched_markov",
+      "length": 16,
+      "rep": 2,
+      "errors": 1,
+      "statistic": 18,
+      "p": 0.34
+    },
+    {
+      "register": "matched_markov",
+      "length": 16,
+      "rep": 3,
+      "errors": 0,
+      "statistic": 17,
+      "p": 0.8325
+    },
+    {
+      "register": "matched_markov",
+      "length": 16,
+      "rep": 3,
+      "errors": 1,
+      "statistic": 16,
+      "p": 1.0
+    },
+    {
+      "register": "matched_markov",
+      "length": 16,
+      "rep": 4,
+      "errors": 0,
+      "statistic": 18,
+      "p": 0.34
+    },
+    {
+      "register": "matched_markov",
+      "length": 16,
+      "rep": 4,
+      "errors": 1,
+      "statistic": 18,
+      "p": 0.34
+    },
+    {
+      "register": "matched_markov",
+      "length": 24,
+      "rep": 0,
+      "errors": 0,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 24,
+      "rep": 0,
+      "errors": 1,
+      "statistic": 17,
+      "p": 0.8325
+    },
+    {
+      "register": "matched_markov",
+      "length": 24,
+      "rep": 1,
+      "errors": 0,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 24,
+      "rep": 1,
+      "errors": 1,
+      "statistic": 18,
+      "p": 0.34
+    },
+    {
+      "register": "matched_markov",
+      "length": 24,
+      "rep": 2,
+      "errors": 0,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 24,
+      "rep": 2,
+      "errors": 1,
+      "statistic": 19,
+      "p": 0.0825
+    },
+    {
+      "register": "matched_markov",
+      "length": 24,
+      "rep": 3,
+      "errors": 0,
+      "statistic": 25,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 24,
+      "rep": 3,
+      "errors": 1,
+      "statistic": 22,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 24,
+      "rep": 4,
+      "errors": 0,
+      "statistic": 25,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 24,
+      "rep": 4,
+      "errors": 1,
+      "statistic": 17,
+      "p": 0.8325
+    },
+    {
+      "register": "matched_markov",
+      "length": 40,
+      "rep": 0,
+      "errors": 0,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 40,
+      "rep": 0,
+      "errors": 1,
+      "statistic": 29,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 40,
+      "rep": 1,
+      "errors": 0,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 40,
+      "rep": 1,
+      "errors": 1,
+      "statistic": 20,
+      "p": 0.015
+    },
+    {
+      "register": "matched_markov",
+      "length": 40,
+      "rep": 2,
+      "errors": 0,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 40,
+      "rep": 2,
+      "errors": 1,
+      "statistic": 20,
+      "p": 0.015
+    },
+    {
+      "register": "matched_markov",
+      "length": 40,
+      "rep": 3,
+      "errors": 0,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 40,
+      "rep": 3,
+      "errors": 1,
+      "statistic": 20,
+      "p": 0.015
+    },
+    {
+      "register": "matched_markov",
+      "length": 40,
+      "rep": 4,
+      "errors": 0,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 40,
+      "rep": 4,
+      "errors": 1,
+      "statistic": 20,
+      "p": 0.015
+    },
+    {
+      "register": "solved_source",
+      "length": 16,
+      "rep": 0,
+      "errors": 0,
+      "statistic": 18,
+      "p": 0.34
+    },
+    {
+      "register": "solved_source",
+      "length": 16,
+      "rep": 0,
+      "errors": 1,
+      "statistic": 16,
+      "p": 1.0
+    },
+    {
+      "register": "solved_source",
+      "length": 16,
+      "rep": 1,
+      "errors": 0,
+      "statistic": 19,
+      "p": 0.0825
+    },
+    {
+      "register": "solved_source",
+      "length": 16,
+      "rep": 1,
+      "errors": 1,
+      "statistic": 17,
+      "p": 0.8325
+    },
+    {
+      "register": "solved_source",
+      "length": 16,
+      "rep": 2,
+      "errors": 0,
+      "statistic": 17,
+      "p": 0.8325
+    },
+    {
+      "register": "solved_source",
+      "length": 16,
+      "rep": 2,
+      "errors": 1,
+      "statistic": 17,
+      "p": 0.8325
+    },
+    {
+      "register": "solved_source",
+      "length": 16,
+      "rep": 3,
+      "errors": 0,
+      "statistic": 16,
+      "p": 1.0
+    },
+    {
+      "register": "solved_source",
+      "length": 16,
+      "rep": 3,
+      "errors": 1,
+      "statistic": 16,
+      "p": 1.0
+    },
+    {
+      "register": "solved_source",
+      "length": 16,
+      "rep": 4,
+      "errors": 0,
+      "statistic": 17,
+      "p": 0.8325
+    },
+    {
+      "register": "solved_source",
+      "length": 16,
+      "rep": 4,
+      "errors": 1,
+      "statistic": 17,
+      "p": 0.8325
+    },
+    {
+      "register": "solved_source",
+      "length": 24,
+      "rep": 0,
+      "errors": 0,
+      "statistic": 26,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 24,
+      "rep": 0,
+      "errors": 1,
+      "statistic": 17,
+      "p": 0.8325
+    },
+    {
+      "register": "solved_source",
+      "length": 24,
+      "rep": 1,
+      "errors": 0,
+      "statistic": 26,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 24,
+      "rep": 1,
+      "errors": 1,
+      "statistic": 18,
+      "p": 0.34
+    },
+    {
+      "register": "solved_source",
+      "length": 24,
+      "rep": 2,
+      "errors": 0,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 24,
+      "rep": 2,
+      "errors": 1,
+      "statistic": 20,
+      "p": 0.015
+    },
+    {
+      "register": "solved_source",
+      "length": 24,
+      "rep": 3,
+      "errors": 0,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 24,
+      "rep": 3,
+      "errors": 1,
+      "statistic": 20,
+      "p": 0.015
+    },
+    {
+      "register": "solved_source",
+      "length": 24,
+      "rep": 4,
+      "errors": 0,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 24,
+      "rep": 4,
+      "errors": 1,
+      "statistic": 17,
+      "p": 0.8325
+    },
+    {
+      "register": "solved_source",
+      "length": 40,
+      "rep": 0,
+      "errors": 0,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 40,
+      "rep": 0,
+      "errors": 1,
+      "statistic": 20,
+      "p": 0.015
+    },
+    {
+      "register": "solved_source",
+      "length": 40,
+      "rep": 1,
+      "errors": 0,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 40,
+      "rep": 1,
+      "errors": 1,
+      "statistic": 20,
+      "p": 0.015
+    },
+    {
+      "register": "solved_source",
+      "length": 40,
+      "rep": 2,
+      "errors": 0,
+      "statistic": 41,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 40,
+      "rep": 2,
+      "errors": 1,
+      "statistic": 22,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 40,
+      "rep": 3,
+      "errors": 0,
+      "statistic": 42,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 40,
+      "rep": 3,
+      "errors": 1,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 40,
+      "rep": 4,
+      "errors": 0,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 40,
+      "rep": 4,
+      "errors": 1,
+      "statistic": 20,
+      "p": 0.015
+    }
+  ],
+  "null_histogram": {
+    "16": 67,
+    "17": 197,
+    "18": 103,
+    "19": 27,
+    "20": 5
+  },
+  "counts": {
+    "real_procedures": 1,
+    "null_procedures": 399,
+    "control_procedures": 60,
+    "pairs_per_procedure": 6,
+    "real_seed_matches": 3960,
+    "real_offset_pairs": 282728
+  }
+}

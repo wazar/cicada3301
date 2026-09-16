@@ -1,0 +1,67 @@
+{
+  "pages": [
+    {
+      "page": 0,
+      "eligible_windows": 285,
+      "deduplicated_cases": 253,
+      "statuses_weighted": {
+        "INFEASIBLE": 285
+      },
+      "cheap_reasons_weighted": {
+        "minimum": 285
+      }
+    },
+    {
+      "page": 1,
+      "eligible_windows": 424,
+      "deduplicated_cases": 362,
+      "statuses_weighted": {
+        "INFEASIBLE": 400,
+        "FEASIBLE": 24
+      },
+      "cheap_reasons_weighted": {
+        "minimum": 151,
+        "small_capacity": 229
+      }
+    },
+    {
+      "page": 3,
+      "eligible_windows": 129,
+      "deduplicated_cases": 114,
+      "statuses_weighted": {
+        "INFEASIBLE": 129
+      },
+      "cheap_reasons_weighted": {
+        "minimum": 41,
+        "small_capacity": 88
+      }
+    },
+    {
+      "page": 7,
+      "eligible_windows": 1468,
+      "deduplicated_cases": 1318,
+      "statuses_weighted": {
+        "INFEASIBLE": 1256,
+        "FEASIBLE": 212
+      },
+      "cheap_reasons_weighted": {
+        "small_capacity": 1222
+      }
+    },
+    {
+      "page": 17,
+      "eligible_windows": 30,
+      "deduplicated_cases": 27,
+      "statuses_weighted": {
+        "INFEASIBLE": 30
+      },
+      "cheap_reasons_weighted": {
+        "minimum": 20,
+        "small_capacity": 10
+      }
+    }
+  ],
+  "tiny_brute_cases": 200,
+  "actual_controls": 10,
+  "solver_elapsed": 0.2732539159987937
+}

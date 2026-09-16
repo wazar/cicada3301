@@ -1,0 +1,223 @@
+{
+  "checked_phase_scores": 7105,
+  "excess_witnesses": 7105,
+  "every_eligible_real_phase_has_witness": true,
+  "eligibility": {
+    "1": {
+      "train": [
+        0,
+        2,
+        5,
+        7,
+        10,
+        12,
+        15,
+        17,
+        20,
+        22,
+        25,
+        27,
+        30,
+        32,
+        35,
+        37,
+        40,
+        42,
+        45,
+        47,
+        49,
+        52,
+        55
+      ],
+      "held": [
+        1,
+        3,
+        6,
+        8,
+        11,
+        13,
+        16,
+        18,
+        21,
+        23,
+        26,
+        28,
+        31,
+        33,
+        36,
+        38,
+        41,
+        43,
+        46,
+        48,
+        51,
+        53
+      ],
+      "omitted": [],
+      "inspected_train": 4437,
+      "inspected_held": 4785
+    },
+    "2": {
+      "train": [
+        0,
+        2,
+        5,
+        7,
+        10,
+        12,
+        15,
+        17,
+        20,
+        22,
+        25,
+        27,
+        30,
+        32,
+        35,
+        37,
+        40,
+        42,
+        45,
+        47,
+        52
+      ],
+      "held": [
+        1,
+        3,
+        6,
+        8,
+        11,
+        13,
+        16,
+        18,
+        21,
+        23,
+        26,
+        28,
+        31,
+        33,
+        36,
+        38,
+        41,
+        43,
+        46,
+        48,
+        53
+      ],
+      "omitted": [
+        49,
+        51,
+        55
+      ],
+      "inspected_train": 3654,
+      "inspected_held": 3886
+    },
+    "4": {
+      "train": [
+        0,
+        5,
+        10,
+        12,
+        17,
+        20,
+        25,
+        30,
+        35,
+        40,
+        42,
+        45,
+        47,
+        52
+      ],
+      "held": [
+        1,
+        8,
+        11,
+        13,
+        16,
+        18,
+        21,
+        26,
+        28,
+        31,
+        36,
+        41,
+        43,
+        46,
+        48
+      ],
+      "omitted": [
+        2,
+        3,
+        6,
+        7,
+        15,
+        22,
+        23,
+        27,
+        32,
+        33,
+        37,
+        38,
+        49,
+        51,
+        53,
+        55
+      ],
+      "inspected_train": 2088,
+      "inspected_held": 2088
+    }
+  },
+  "null_99percentile": 1.9853315306720611,
+  "power": {
+    "bag1-corrupt0": {
+      "n": 20,
+      "detections_above_null99percentile": 20,
+      "held_statistic_range": [
+        79.53984842892199,
+        79.53984842892199
+      ]
+    },
+    "bag1-corrupt0.01": {
+      "n": 20,
+      "detections_above_null99percentile": 20,
+      "held_statistic_range": [
+        76.1294274803261,
+        77.54047556511156
+      ]
+    },
+    "bag2-corrupt0": {
+      "n": 20,
+      "detections_above_null99percentile": 20,
+      "held_statistic_range": [
+        54.05111420981699,
+        54.05111420981699
+      ]
+    },
+    "bag2-corrupt0.01": {
+      "n": 20,
+      "detections_above_null99percentile": 20,
+      "held_statistic_range": [
+        51.13689398029969,
+        52.74117708992694
+      ]
+    },
+    "bag4-corrupt0": {
+      "n": 20,
+      "detections_above_null99percentile": 20,
+      "held_statistic_range": [
+        27.536040168840085,
+        27.536040168840085
+      ]
+    },
+    "bag4-corrupt0.01": {
+      "n": 20,
+      "detections_above_null99percentile": 20,
+      "held_statistic_range": [
+        25.243718404142854,
+        26.522833948843907
+      ]
+    }
+  },
+  "input_manifest_sha256": "80447f011dc24d991a5b38834fb1807a89766a444013af0b6e251190401379f1"
+}

@@ -1,0 +1,76 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-o/o02.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "a899c38fe777f66fc2e1995aa0fbfa935bf59d58",
+  "started_utc": "2026-09-16T21:43:52.145909+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-j/j02-results.json",
+      "exists": true,
+      "bytes": 89434,
+      "sha256": "44f96b04af72116850d0ba82435d13c87b1b9bcf014853dbe5363a7e4f569729"
+    },
+    {
+      "path": "exploration/persistent-01/worker-j/j03-windows.json.gz",
+      "exists": true,
+      "bytes": 86629,
+      "sha256": "e41ad4d25b1f9470943040ab5a4d2e23713717f35c28551600b79e362deef692"
+    },
+    {
+      "path": "exploration/persistent-01/worker-o/check_o01.py",
+      "exists": true,
+      "bytes": 1159,
+      "sha256": "ad06c8f8eb79fbf2a2b750d8450b14abc5f6f9148c4faaa5cf36f5a5cbe820bf"
+    },
+    {
+      "path": "exploration/persistent-01/worker-o/check_o02.py",
+      "exists": true,
+      "bytes": 2888,
+      "sha256": "df0e06d250a8d2ab8716f0287c242521f29f31eb0af2326ef5f2d31f7537bf39"
+    },
+    {
+      "path": "exploration/persistent-01/worker-o/o01.py",
+      "exists": true,
+      "bytes": 3715,
+      "sha256": "ae1ae83c880fe67aa52ecf660d79d25074813a7e1b0eb36576a6701abaeeb911"
+    },
+    {
+      "path": "exploration/persistent-01/worker-o/o02.py",
+      "exists": true,
+      "bytes": 6834,
+      "sha256": "f6ffcb2091458d95b710cf059e7052fd0ee64c0bbd8526201fef42b47d136087"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 56279,
+  "finished_utc": "2026-09-16T21:43:52.518590+00:00",
+  "duration_seconds": 0.3724376669997582
+}

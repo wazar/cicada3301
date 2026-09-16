@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-m/check_m20.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e306d1c3c90703873ea727812c3c4055dafab99b",
+  "started_utc": "2026-09-16T21:24:15.987652+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M20-controls.json",
+      "exists": true,
+      "bytes": 61129,
+      "sha256": "877f2ff876c181d7044b2e14b6c6d04b7e4f7f0248e8159b73eaf4faa143e51e"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/M20-real.json.gz",
+      "exists": true,
+      "bytes": 1388181,
+      "sha256": "d15c82a2e136aa8298a73db201ccf04c049e9328829811a5c9831ccdb0f2c743"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/check_m20.py",
+      "exists": true,
+      "bytes": 2401,
+      "sha256": "c1ae31f50ae95e67b20a22587a84547f7114790e2b2c6ae846ad3a1d20fee83b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-m/m20.py",
+      "exists": true,
+      "bytes": 8211,
+      "sha256": "ebfb505d2f83a2a14d09b1c09db79f11255dd4c46a41b8c2eed886b9264f7148"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 52846,
+  "finished_utc": "2026-09-16T21:24:16.365899+00:00",
+  "duration_seconds": 0.37805275000209804
+}

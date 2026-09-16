@@ -1,0 +1,7 @@
+No active process. Hard stop2026-09-17T03:30:37Z; root remains sole coordinator. No Git writes.
+Completed N01 structural real test and N02 exact-size/suppression power. Both scripts replay deterministically through persistent run_logged.py; existing outputs would be overwritten, so use a copied owner directory if independent review is requested.
+Next useful actions for coordinator, not automatic duplicate work:
+1. Independent implementation can recompute N01 real probability gains/fullnull p directly from saved N01-evidence.json.gz; scalar841 normalization is already checked in N02. Review baseline/null nonstationarity limitations rather than opening reserved pages.
+2. If a future source-backed reason suggests page-specific keys, preregister page-local pair prediction with its own finite-sample power first; this is distinct from current shared-alphabet assumption. Do not claim present miss excludes it, and do not widen to3-rune units without a new reason. Otherwise reassign to a different representation family.
+
+N03/N04 completed in N03/REPORT.md. Adjacent-page exact relation max18,p=.34; central-wildcard24/40 test zero realmatches,p=1. Clean24/40 control power20/20; robustness randomposition40controls20/20. No active processes. Two next actions: coordinator may independently replay stored equality matrices/null counts without new input; otherwise assign a materially different source-supported inter-page relation, not another approximate-pattern expansion. Shared root deadline unchanged.

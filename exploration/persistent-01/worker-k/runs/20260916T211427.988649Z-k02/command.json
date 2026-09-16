@@ -1,0 +1,59 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-B",
+    "exploration/persistent-01/worker-k/k02.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e306d1c3c90703873ea727812c3c4055dafab99b",
+  "started_utc": "2026-09-16T21:14:27.997687+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-k/K02-CARD.md",
+      "exists": true,
+      "bytes": 1510,
+      "sha256": "e0dd87c758742095fda4786e429d95af0ee98b58dcb9be36720c6778c586277c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-k/k01-results.json",
+      "exists": true,
+      "bytes": 592698,
+      "sha256": "a7e120d2270bf54d153e8cbc03ecde85f315cd835421278cd2e54a63a784bc4a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-k/k01.py",
+      "exists": true,
+      "bytes": 4736,
+      "sha256": "a5886fc044f70213113f5e23fa459f0258bcc60ee6096386f8ccd7c83169dba5"
+    },
+    {
+      "path": "exploration/persistent-01/worker-k/k02.py",
+      "exists": true,
+      "bytes": 2986,
+      "sha256": "4bf61a45afd79d5b29af2c32a890fa91542cf638ab29c153bc6ec0939138a5f9"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 51371,
+  "finished_utc": "2026-09-16T21:14:41.617343+00:00",
+  "duration_seconds": 13.619417499998235
+}

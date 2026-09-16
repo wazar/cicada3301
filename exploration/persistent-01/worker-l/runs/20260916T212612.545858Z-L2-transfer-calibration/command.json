@@ -1,0 +1,82 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-l/l2_transfer.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e306d1c3c90703873ea727812c3c4055dafab99b",
+  "started_utc": "2026-09-16T21:26:12.558557+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-l/L2-TRANSFER-CARD.md",
+      "exists": true,
+      "bytes": 723,
+      "sha256": "e27564a138340f07a238d9de9de905356a472d5bda09d147f0abc4ef02f02eed"
+    },
+    {
+      "path": "exploration/persistent-01/worker-l/l1.py",
+      "exists": true,
+      "bytes": 4954,
+      "sha256": "9807e75e61c13bc23269f77f43a79f335ee038c4bf9960948f6d8d651647a403"
+    },
+    {
+      "path": "exploration/persistent-01/worker-l/l1_conditional.py",
+      "exists": true,
+      "bytes": 5188,
+      "sha256": "f4b927c50a0de5426859713041476618baaf2c1f277d8db6a1e1c2adf80f2956"
+    },
+    {
+      "path": "exploration/persistent-01/worker-l/l2.py",
+      "exists": true,
+      "bytes": 5935,
+      "sha256": "6e6b5e0da55af7a09255f02bcb2c83363d75b9424d5131592e21399904b775e2"
+    },
+    {
+      "path": "exploration/persistent-01/worker-l/l2/full-generated-output.jsonl.gz",
+      "exists": true,
+      "bytes": 5805629,
+      "sha256": "54b1e9469cfa83c52169dcdd7b901f6b5377383803673eadeeee61141b69a32d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-l/l2/inputs-and-maps.json",
+      "exists": true,
+      "bytes": 923032,
+      "sha256": "c1448de90e1bba96a26a00f44a2747fdca65e0fa1a4fb1d9b509606e13ebdd89"
+    },
+    {
+      "path": "exploration/persistent-01/worker-l/l2_transfer.py",
+      "exists": true,
+      "bytes": 1694,
+      "sha256": "5bda8646950c0ddaf5ad2ab5c9068591c6e2b28b471b0fa37d8ab71fbee131fc"
+    },
+    {
+      "path": "exploration/persistent-01/worker-l/verify_l1.py",
+      "exists": true,
+      "bytes": 3180,
+      "sha256": "d976ce83a795b32089a292ca163b0657686808802a28602cc6b1b57fb403028c"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 53023,
+  "finished_utc": "2026-09-16T21:26:15.579666+00:00",
+  "duration_seconds": 3.0208408329999656
+}

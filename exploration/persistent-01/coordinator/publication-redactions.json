@@ -117,5 +117,12 @@
     "original_sha256": "c03e6c3d943b67ab27ab3489dac30de0892fe48cdfa043764c3258776c8e782d",
     "published_sha256": "779d9329f7a7fd1e6c476e441f41fec1ed89b44a0be77c8d9a3b60f8e3909744",
     "change": "Only local checkout prefix normalized; original command/output bytes retained privately."
+  },
+  {
+    "path": "exploration/persistent-01/worker-l/runs/20260916T211717.540642Z-L1-inventory/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-l/runs/20260916T211717.540642Z-L1-inventory/stderr.txt",
+    "original_sha256": "e8ffc60c08b05d3522753b6ce637156edc8038ba7d71f180ce4f72fbe26b33f8",
+    "published_sha256": "eb3325bc7a8470ce57cf80627d9abf957c89bd7bdbc65816b53cf737545a07e8",
+    "change": "Only local checkout prefix normalized; raw failed-control traceback retained privately."
   }
 ]

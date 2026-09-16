@@ -1,0 +1,76 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-l/l1_conditional.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e306d1c3c90703873ea727812c3c4055dafab99b",
+  "started_utc": "2026-09-16T21:20:18.882650+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/parallel-01/inputs/dataset.json",
+      "exists": true,
+      "bytes": 1378156,
+      "sha256": "e3d8a8b7a81f00e17d54209772eee7bedb5b922e6176ca722be31f952eaea895"
+    },
+    {
+      "path": "audit/parallel-01/inputs/page-map.json",
+      "exists": true,
+      "bytes": 44677,
+      "sha256": "f59bf8d94c86a06cf620b5368eabb27dfebc62fbf39b38e467636785762f4cba"
+    },
+    {
+      "path": "exploration/persistent-01/config.json",
+      "exists": true,
+      "bytes": 1129,
+      "sha256": "dff37392fb4b0ec97c52fa5fa40f47fbfdb27837fb4d7c258b8a886624cfe031"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-l/L1-CONDITIONAL-CARD.md",
+      "exists": true,
+      "bytes": 1194,
+      "sha256": "c995c3b502ebf80c42b20b756305c235266ee3af7fc977c00d2a16125554e79e"
+    },
+    {
+      "path": "exploration/persistent-01/worker-l/PREREG.md",
+      "exists": true,
+      "bytes": 4561,
+      "sha256": "458ecb5e4e16caa9ef51b5f4abb2890d32eccd96d8447ac91af2dc80eeb03e11"
+    },
+    {
+      "path": "exploration/persistent-01/worker-l/l1.py",
+      "exists": true,
+      "bytes": 4954,
+      "sha256": "9807e75e61c13bc23269f77f43a79f335ee038c4bf9960948f6d8d651647a403"
+    },
+    {
+      "path": "exploration/persistent-01/worker-l/l1_conditional.py",
+      "exists": true,
+      "bytes": 5188,
+      "sha256": "f4b927c50a0de5426859713041476618baaf2c1f277d8db6a1e1c2adf80f2956"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 52459,
+  "finished_utc": "2026-09-16T21:20:37.066645+00:00",
+  "duration_seconds": 18.18373158399845
+}

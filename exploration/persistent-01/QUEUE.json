@@ -462,30 +462,119 @@
     "id": "M22",
     "title": "Unknown short-period literal-F recovery gap",
     "owner": "persistent_m",
-    "status": "assigned",
+    "status": "completed_pending_review",
     "first_step": "Inspect R04/P14 actual unresolved recovery bottleneck; freeze short exact comparison and searched-key controls before real pilot",
     "decision": "Distinguish path/search/ranking defects and fill only a demonstrated gap",
     "expected_cost": "Pilot and logged single-thread batches <=900s",
-    "strategy": "outside-box-v1"
+    "strategy": "outside-box-v1",
+    "result": "Exact periods1..3 recover12/12 plantedkeys vs11/12 inheritedheuristic. Three correctkey prefix paths rank incorrectly; real0/17 nulltails.57/.49. No expansion."
   },
   {
     "id": "N03",
     "title": "Cross-page substitution-invariant copied spans",
     "owner": "persistent_n",
-    "status": "assigned",
+    "status": "completed_cycle",
     "first_step": "Canonical windows12..64 across six adjacent discovery pairs; complete-procedure399 Markov null and relabelled-copy controls",
     "decision": "Does a page relation survive maximum-over-offsets calibration?",
     "expected_cost": "Pilot and logged single-thread batches <=900s",
-    "strategy": "outside-box-v1"
+    "strategy": "outside-box-v1",
+    "result": "Sixadjacent pairs exact max18,p.34. Centralwildcard24/40 followup no realmatches,p1; longcopycontrols detect,16runecopies underpowered."
   },
   {
     "id": "O01",
     "title": "Variable-length tokens or delimiter grammar",
     "owner": "persistent_review6",
-    "status": "assigned",
+    "status": "completed_cycle",
     "first_step": "Targeted overlap check J03/F09/H06/07 then frozen inverse-construction/held structural test",
     "decision": "Does a different unit interpretation yield a second observable prediction?",
     "expected_cost": "Pilot and logged single-thread batches <=900s",
+    "strategy": "outside-box-v1",
+    "result": "Headopcode conditionalunitlength predictor heldgain-.0365,tail.184;4plantedcontrols detected. O02exactcountpartition rejects fixedJ03conjunction on0/3/17."
+  },
+  {
+    "id": "M23",
+    "status": "running",
+    "owner": "persistent_m",
+    "title": "Complete original deferred source-grid clue scope",
+    "input": "D frozen400 signedgridphases, ordinary/F, remaining43discoverypages",
+    "first_step": "Reproduce originalgrid/scorer/null definitions and previouscontrolwinners; pilot cost then exactoldremainingcells",
+    "expected_cost": "Pilot and <=900s batches; total<=30min",
+    "decision": "Does documented finite grid clue yield coherent fulloutput beyond prior0/1pilot?",
     "strategy": "outside-box-v1"
+  },
+  {
+    "id": "P01-image",
+    "status": "assigned",
+    "owner": "persistent_p",
+    "title": "Fresh bounded actual-image representation challenge",
+    "input": "Original13actualimage initially, at mostoneotherdiscoveryimage afterexplicitselection",
+    "first_step": "Inspectphysicalfeature, proposetwoexplanations, freezeone coordinate-mapped controlledtest before execution",
+    "expected_cost": "Design<=15min then<=900s",
+    "decision": "Does a specific omitted channel imply a falsifiable prediction?",
+    "strategy": "outside-box-v1"
+  },
+  {
+    "id": "REVIEW07",
+    "status": "running",
+    "owner": "persistent_n",
+    "title": "Fresh L inventory/pattern/swap review",
+    "input": "FrozenL1/L2/L3evidence",
+    "first_step": "Independentinventory/patternprobability/swapstationary arithmetic and rawcertificate checks",
+    "expected_cost": "Boundedreview<=900s",
+    "decision": "Are exactclaims/scopedmodel bounds supported?"
+  },
+  {
+    "id": "READY-LINK",
+    "status": "ready",
+    "title": "Page-to-page numeric unit relations",
+    "input": "F06 explicitunits from adjacentdiscovery0/1/2/3only",
+    "first_step": "Freeze same-position unitlength recurrence or reversedlist relationship beforetesting; source-preserving maxnull and copied/reversed control",
+    "expected_cost": "Cheap<=900s",
+    "decision": "Does an interpage numerical carrier persist without requiring sharedrunes? Distinct from N03 rune equalitycopies."
+  },
+  {
+    "id": "READY-CHECKFIELD",
+    "status": "ready",
+    "title": "Source mark bounded checksum fields",
+    "input": "ReviewedG06 physical13-dot fields3/7/17",
+    "first_step": "Freeze prime-sum mod29 fieldtotal as one proposedchecksum, exactfield boundaries and complete-procedure null; compare explicitwordlevel priorF07 to establish newscope",
+    "expected_cost": "Cheap<=900s",
+    "decision": "Can physicalmajor delimiters predict a complete algebraicconstraint? If too fewindependentfields, report insufficient power rather thansearch variants."
+  },
+  {
+    "id": "READY-TOKEN",
+    "status": "ready",
+    "title": "Context-dependent plaintext token capacity",
+    "input": "J03 sourcevectors and exactO02countobstructions",
+    "first_step": "Specify one reversible prefix-free replacement rule for naturalGP multi-character units; derive countrelation before fitting unknownmaps; actualsourcecontrol andrealnecessarytest",
+    "expected_cost": "<=15min design then<=900s",
+    "decision": "Does a materially different tokenization escape the exact countobstruction with testableconstraints? No arbitrarydictionary fitting."
+  },
+  {
+    "id": "READY-POSITION",
+    "status": "ready",
+    "title": "Fractional glyph placement carrier",
+    "input": "SavedI0/1sourcepixelpositions andwidths",
+    "first_step": "Freeze ordinary fractionalspacing/justification model on rowprefixes, predictunusedpositions; injected discrete residualcontrols andrasterperturbations",
+    "expected_cost": "Bounded<=900s",
+    "decision": "Does an extra positionedstate survive ordinarytypesetting? No newglyphheightthreshold tuning."
+  },
+  {
+    "id": "READY-M22-REVIEW",
+    "status": "ready",
+    "title": "Exact short-key kernel independent review",
+    "input": "M22 Ckernel and savedp56period3optimizationwitness",
+    "first_step": "Independentlyenumerate tinykeys/masks, inspectstate equivalence, replayactualwitness andsuffixisolation; no newkeyperiods",
+    "expected_cost": "Bounded<=900s",
+    "decision": "Is heuristic optimization failure distinct from exactpath/scorer limitation?"
+  },
+  {
+    "id": "READY-MEMORY",
+    "status": "ready",
+    "title": "Output-memory dependence versus direct memory-one generation",
+    "input": "Discovery45pages, reservesexcluded",
+    "first_step": "Check existing lag/Markovcoverage, then freeze conditional thirdsymbol heldpredictor conditionedonlasttwo vsone with countmatched fittednull andstatefulcontrols; no language inference",
+    "expected_cost": "Pilot<=900s",
+    "decision": "Does extra state predictunusedsymbols beyond rare-repeat model? Runonlyif notduplicatingprior conditional test."
   }
 ]

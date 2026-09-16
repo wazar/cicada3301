@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-o/check_o01.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "b3c5d0fa31e49965f01d343c31f41903327bac57",
+  "started_utc": "2026-09-16T21:40:13.139378+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-o/O01-evidence.json.gz",
+      "exists": true,
+      "bytes": 500347,
+      "sha256": "7478a23abb6acf9f9b799198dec7d971e961371d27270d0bbcea43672a5fc421"
+    },
+    {
+      "path": "exploration/persistent-01/worker-o/check_o01.py",
+      "exists": true,
+      "bytes": 1159,
+      "sha256": "ad06c8f8eb79fbf2a2b750d8450b14abc5f6f9148c4faaa5cf36f5a5cbe820bf"
+    },
+    {
+      "path": "exploration/persistent-01/worker-o/o01.py",
+      "exists": true,
+      "bytes": 3715,
+      "sha256": "ae1ae83c880fe67aa52ecf660d79d25074813a7e1b0eb36576a6701abaeeb911"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 55509,
+  "finished_utc": "2026-09-16T21:40:13.183160+00:00",
+  "duration_seconds": 0.04354174999753013
+}

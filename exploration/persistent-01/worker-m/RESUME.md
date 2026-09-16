@@ -1,0 +1,4 @@
+M20 completed; no running process. Root coordinator handles next assignment. Do not automatically expand block family.
+1. Independent reviewer: replay M20-real.json.gz phase/matrix/source probabilities against M20-maps.json.gz; verify test phase chosen by prefix only and all fullprocedure null tails. Local check command: .venv/bin/python exploration/persistent-01/worker-m/check_m20.py (already passed, rerun only if changes justify).
+2. Coordinator: incorporate bounded miss/power into shared STATE/QUEUE and rotate to another explanation. Any newly authorized construction should start a new card rather than altering M20 preregistration.
+Exact original run command is preserved in runs/20260916T212307.751503Z-m20-crosspage/command.json. All RNG states and complete null results saved; no incomplete cursor.

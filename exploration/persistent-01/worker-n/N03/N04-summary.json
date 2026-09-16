@@ -1,0 +1,626 @@
+{
+  "real": {
+    "statistic": 0,
+    "matches_count": 0,
+    "matches": [],
+    "p": 1.0
+  },
+  "null_histogram": {
+    "0": 399
+  },
+  "replayed_controls": [
+    {
+      "register": "matched_markov",
+      "length": 16,
+      "rep": 0,
+      "errors": 0,
+      "statistic": 0,
+      "p": 1.0
+    },
+    {
+      "register": "matched_markov",
+      "length": 16,
+      "rep": 0,
+      "errors": 1,
+      "statistic": 0,
+      "p": 1.0
+    },
+    {
+      "register": "matched_markov",
+      "length": 16,
+      "rep": 1,
+      "errors": 0,
+      "statistic": 0,
+      "p": 1.0
+    },
+    {
+      "register": "matched_markov",
+      "length": 16,
+      "rep": 1,
+      "errors": 1,
+      "statistic": 0,
+      "p": 1.0
+    },
+    {
+      "register": "matched_markov",
+      "length": 16,
+      "rep": 2,
+      "errors": 0,
+      "statistic": 0,
+      "p": 1.0
+    },
+    {
+      "register": "matched_markov",
+      "length": 16,
+      "rep": 2,
+      "errors": 1,
+      "statistic": 0,
+      "p": 1.0
+    },
+    {
+      "register": "matched_markov",
+      "length": 16,
+      "rep": 3,
+      "errors": 0,
+      "statistic": 0,
+      "p": 1.0
+    },
+    {
+      "register": "matched_markov",
+      "length": 16,
+      "rep": 3,
+      "errors": 1,
+      "statistic": 0,
+      "p": 1.0
+    },
+    {
+      "register": "matched_markov",
+      "length": 16,
+      "rep": 4,
+      "errors": 0,
+      "statistic": 0,
+      "p": 1.0
+    },
+    {
+      "register": "matched_markov",
+      "length": 16,
+      "rep": 4,
+      "errors": 1,
+      "statistic": 0,
+      "p": 1.0
+    },
+    {
+      "register": "matched_markov",
+      "length": 24,
+      "rep": 0,
+      "errors": 0,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 24,
+      "rep": 0,
+      "errors": 1,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 24,
+      "rep": 1,
+      "errors": 0,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 24,
+      "rep": 1,
+      "errors": 1,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 24,
+      "rep": 2,
+      "errors": 0,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 24,
+      "rep": 2,
+      "errors": 1,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 24,
+      "rep": 3,
+      "errors": 0,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 24,
+      "rep": 3,
+      "errors": 1,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 24,
+      "rep": 4,
+      "errors": 0,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 24,
+      "rep": 4,
+      "errors": 1,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 40,
+      "rep": 0,
+      "errors": 0,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 40,
+      "rep": 0,
+      "errors": 1,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 40,
+      "rep": 1,
+      "errors": 0,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 40,
+      "rep": 1,
+      "errors": 1,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 40,
+      "rep": 2,
+      "errors": 0,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 40,
+      "rep": 2,
+      "errors": 1,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 40,
+      "rep": 3,
+      "errors": 0,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 40,
+      "rep": 3,
+      "errors": 1,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 40,
+      "rep": 4,
+      "errors": 0,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "length": 40,
+      "rep": 4,
+      "errors": 1,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 16,
+      "rep": 0,
+      "errors": 0,
+      "statistic": 0,
+      "p": 1.0
+    },
+    {
+      "register": "solved_source",
+      "length": 16,
+      "rep": 0,
+      "errors": 1,
+      "statistic": 0,
+      "p": 1.0
+    },
+    {
+      "register": "solved_source",
+      "length": 16,
+      "rep": 1,
+      "errors": 0,
+      "statistic": 0,
+      "p": 1.0
+    },
+    {
+      "register": "solved_source",
+      "length": 16,
+      "rep": 1,
+      "errors": 1,
+      "statistic": 0,
+      "p": 1.0
+    },
+    {
+      "register": "solved_source",
+      "length": 16,
+      "rep": 2,
+      "errors": 0,
+      "statistic": 0,
+      "p": 1.0
+    },
+    {
+      "register": "solved_source",
+      "length": 16,
+      "rep": 2,
+      "errors": 1,
+      "statistic": 0,
+      "p": 1.0
+    },
+    {
+      "register": "solved_source",
+      "length": 16,
+      "rep": 3,
+      "errors": 0,
+      "statistic": 0,
+      "p": 1.0
+    },
+    {
+      "register": "solved_source",
+      "length": 16,
+      "rep": 3,
+      "errors": 1,
+      "statistic": 0,
+      "p": 1.0
+    },
+    {
+      "register": "solved_source",
+      "length": 16,
+      "rep": 4,
+      "errors": 0,
+      "statistic": 0,
+      "p": 1.0
+    },
+    {
+      "register": "solved_source",
+      "length": 16,
+      "rep": 4,
+      "errors": 1,
+      "statistic": 0,
+      "p": 1.0
+    },
+    {
+      "register": "solved_source",
+      "length": 24,
+      "rep": 0,
+      "errors": 0,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 24,
+      "rep": 0,
+      "errors": 1,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 24,
+      "rep": 1,
+      "errors": 0,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 24,
+      "rep": 1,
+      "errors": 1,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 24,
+      "rep": 2,
+      "errors": 0,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 24,
+      "rep": 2,
+      "errors": 1,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 24,
+      "rep": 3,
+      "errors": 0,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 24,
+      "rep": 3,
+      "errors": 1,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 24,
+      "rep": 4,
+      "errors": 0,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 24,
+      "rep": 4,
+      "errors": 1,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 40,
+      "rep": 0,
+      "errors": 0,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 40,
+      "rep": 0,
+      "errors": 1,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 40,
+      "rep": 1,
+      "errors": 0,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 40,
+      "rep": 1,
+      "errors": 1,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 40,
+      "rep": 2,
+      "errors": 0,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 40,
+      "rep": 2,
+      "errors": 1,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 40,
+      "rep": 3,
+      "errors": 0,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 40,
+      "rep": 3,
+      "errors": 1,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 40,
+      "rep": 4,
+      "errors": 0,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "length": 40,
+      "rep": 4,
+      "errors": 1,
+      "statistic": 40,
+      "p": 0.0025
+    }
+  ],
+  "additional_controls": [
+    {
+      "register": "matched_markov",
+      "error_relative": 39,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "error_relative": 1,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "error_relative": 3,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "error_relative": 39,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "error_relative": 18,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "error_relative": 29,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "error_relative": 19,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "error_relative": 24,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "error_relative": 4,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "matched_markov",
+      "error_relative": 37,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "error_relative": 25,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "error_relative": 38,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "error_relative": 28,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "error_relative": 34,
+      "statistic": 40,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "error_relative": 5,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "error_relative": 2,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "error_relative": 36,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "error_relative": 36,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "error_relative": 5,
+      "statistic": 24,
+      "p": 0.0025
+    },
+    {
+      "register": "solved_source",
+      "error_relative": 22,
+      "statistic": 40,
+      "p": 0.0025
+    }
+  ],
+  "counts": {
+    "real": 1,
+    "null": 399,
+    "replayed_controls": 60,
+    "new_controls": 20,
+    "windows": [
+      24,
+      40
+    ],
+    "pairs": 6
+  }
+}
