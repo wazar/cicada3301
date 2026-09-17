@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/feedback/output_text.py", line 5, in <module>
+    p=json.loads((O/dirname/'panel00.json').read_text());groups=p.get('groups',{'prefix':{'global16':p['alternatives']}});ends=set(p.get('ends',json.loads((O/'C03/input.json').read_text())['ends']));lines=[]
+                                                                                                     ~^^^^^^^^^^^^^^^^
+KeyError: 'alternatives'

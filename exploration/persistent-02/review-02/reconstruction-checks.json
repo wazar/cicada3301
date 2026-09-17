@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "name": "actual1-null00",
+  "local_npz_sha256": "7817f86ae39c3772f86a562fba3a5ce1efbf6857311b096979436ce39abf7bc7",
+  "original_arrays_byte_identical": [
+    "k2_factors",
+    "k2_zero_plain",
+    "k3_factors",
+    "k3_zero_plain",
+    "k4_factors",
+    "k4_zero_plain"
+  ],
+  "reconstructed_score_arrays": [
+    "k2_scores",
+    "k3_scores",
+    "k4_scores"
+  ],
+  "scope": "Raw arrays lossless; zip container identity neither required nor claimed"
+}

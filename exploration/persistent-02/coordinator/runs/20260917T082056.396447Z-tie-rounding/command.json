@@ -1,0 +1,46 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/coordinator/tie_rounding_check.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T08:20:56.405793+00:00",
+  "timeout_seconds": 30,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/coordinator/tie_rounding_check.py",
+      "exists": true,
+      "bytes": 1216,
+      "sha256": "975fe34e04df9b0577b9d9ddc2199f40cd580538642937b26ae25c44112c1bd7"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/exact.py",
+      "exists": true,
+      "bytes": 3081,
+      "sha256": "a9f15f21a4795c0c5393aa71d2418f833e82e15f0f5fca7f30dbe27dc72f6dda"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 33701,
+  "finished_utc": "2026-09-17T08:20:56.447581+00:00",
+  "duration_seconds": 0.04154720900260145
+}

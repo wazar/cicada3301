@@ -1,0 +1,14 @@
+{
+  "case": "section-body-WELCOME-DIVINITY-0--1",
+  "method": "beam256",
+  "runes": 716,
+  "score": -4.8115585124492855,
+  "seconds": 0.05888208399846917,
+  "maxrss_before_bytes": 23216128,
+  "isolated_process_maxrss_bytes": 25296896,
+  "diagnostics": {
+    "expanded": 155362,
+    "first_truth_pruned": null
+  },
+  "scope": "One process, one decoder; includes Python imports/model in process high-water; timed region excludes imports/model construction, includes first scorer cache fill; macOS ru_maxrss bytes."
+}

@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/section/summarize_a01.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T08:23:33.306076+00:00",
+  "timeout_seconds": 60,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    },
+    {
+      "path": "exploration/persistent-02/section/a01.py",
+      "exists": true,
+      "bytes": 6208,
+      "sha256": "56ab4feac69661d3efa51af7bb03dc2299bed7346e2e54649e2cadd28d0d345a"
+    },
+    {
+      "path": "exploration/persistent-02/section/freeze_packet.py",
+      "exists": true,
+      "bytes": 5042,
+      "sha256": "bfeb34f65004a2741a2c832e55c32718898c6281141b89d5c258ae1ce79aa0dc"
+    },
+    {
+      "path": "exploration/persistent-02/section/summarize_a01.py",
+      "exists": true,
+      "bytes": 1352,
+      "sha256": "91da3eae4c8eeda77aa650cf2978f68ff51c8206dbcfabe57c54bf54a3d2d47e"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 34513,
+  "finished_utc": "2026-09-17T08:23:33.868759+00:00",
+  "duration_seconds": 0.5623370409957715
+}

@@ -1,0 +1,76 @@
+{
+  "pages": 42,
+  "composite_upper_tail_rank": 1.0,
+  "leaders": [
+    {
+      "page": 51,
+      "seed": [
+        5,
+        11,
+        17,
+        1
+      ],
+      "k": 4,
+      "maximum": -4.124626520403735,
+      "actual_standardized": 1.262138108175218,
+      "within_page_rank": 0.2
+    },
+    {
+      "page": 26,
+      "seed": [
+        28,
+        22,
+        0,
+        14
+      ],
+      "k": 4,
+      "maximum": -4.509279277129771,
+      "actual_standardized": 1.2444123230037298,
+      "within_page_rank": 0.15
+    },
+    {
+      "page": 16,
+      "seed": [
+        16,
+        10,
+        17,
+        4
+      ],
+      "k": 4,
+      "maximum": -4.522258240247329,
+      "actual_standardized": 1.0650617092488814,
+      "within_page_rank": 0.25
+    },
+    {
+      "page": 47,
+      "seed": [
+        26,
+        15,
+        15
+      ],
+      "k": 3,
+      "maximum": -4.524272894021914,
+      "actual_standardized": 1.0356297203497637,
+      "within_page_rank": 0.25
+    },
+    {
+      "page": 42,
+      "seed": [
+        23,
+        23,
+        0,
+        21
+      ],
+      "k": 4,
+      "maximum": -4.538201076706258,
+      "actual_standardized": 0.9794282064533449,
+      "within_page_rank": 0.2
+    }
+  ],
+  "controls": {
+    "hand_matrix": true,
+    "column_relabelling": true,
+    "constant_rows": true,
+    "ties": true
+  }
+}

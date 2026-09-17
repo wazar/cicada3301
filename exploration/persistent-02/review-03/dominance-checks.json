@@ -1,0 +1,1553 @@
+{
+  "passed": true,
+  "cases": [
+    {
+      "model": "p03",
+      "id": "fresh-shelley-2",
+      "segments": [
+        {
+          "start": 498,
+          "reconverged_after": 504,
+          "state": [
+            496,
+            24,
+            2
+          ],
+          "source_words": "month her father",
+          "source_spans": [
+            [
+              36011,
+              36016
+            ],
+            [
+              36017,
+              36020
+            ],
+            [
+              36017,
+              36020
+            ],
+            [
+              36017,
+              36020
+            ],
+            [
+              36021,
+              36027
+            ],
+            [
+              36021,
+              36027
+            ],
+            [
+              36021,
+              36027
+            ]
+          ],
+          "gap": 1.4855086616007913,
+          "true_rows": [
+            {
+              "i": 498,
+              "cipher": 0,
+              "literal": false,
+              "emitted": 2,
+              "before": [
+                490,
+                3,
+                9
+              ],
+              "after": [
+                491,
+                2,
+                29
+              ],
+              "consumed": 491,
+              "local_weight": -9.478819485247142,
+              "total": -1650.365228075948,
+              "contributions": [
+                {
+                  "context": [
+                    3,
+                    9
+                  ],
+                  "emitted": 2,
+                  "weight": -7.43016190545935
+                },
+                {
+                  "context": [
+                    9,
+                    2
+                  ],
+                  "emitted": 29,
+                  "weight": -2.0486575797877915
+                }
+              ]
+            },
+            {
+              "i": 499,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 8,
+              "before": [
+                491,
+                2,
+                29
+              ],
+              "after": [
+                492,
+                29,
+                8
+              ],
+              "consumed": 492,
+              "local_weight": -4.380224549662183,
+              "total": -1654.7454526256101,
+              "contributions": [
+                {
+                  "context": [
+                    2,
+                    29
+                  ],
+                  "emitted": 8,
+                  "weight": -4.380224549662183
+                }
+              ]
+            },
+            {
+              "i": 500,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 18,
+              "before": [
+                492,
+                29,
+                8
+              ],
+              "after": [
+                493,
+                8,
+                18
+              ],
+              "consumed": 493,
+              "local_weight": -0.5783325333421531,
+              "total": -1655.3237851589522,
+              "contributions": [
+                {
+                  "context": [
+                    29,
+                    8
+                  ],
+                  "emitted": 18,
+                  "weight": -0.5783325333421531
+                }
+              ]
+            },
+            {
+              "i": 501,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 4,
+              "before": [
+                493,
+                8,
+                18
+              ],
+              "after": [
+                494,
+                4,
+                29
+              ],
+              "consumed": 494,
+              "local_weight": -2.197489917443009,
+              "total": -1657.521275076395,
+              "contributions": [
+                {
+                  "context": [
+                    8,
+                    18
+                  ],
+                  "emitted": 4,
+                  "weight": -1.1353124549233358
+                },
+                {
+                  "context": [
+                    18,
+                    4
+                  ],
+                  "emitted": 29,
+                  "weight": -1.0621774625196734
+                }
+              ]
+            },
+            {
+              "i": 502,
+              "cipher": 0,
+              "literal": true,
+              "emitted": 0,
+              "before": [
+                494,
+                4,
+                29
+              ],
+              "after": [
+                494,
+                29,
+                0
+              ],
+              "consumed": 494,
+              "local_weight": -5.704527433283813,
+              "total": -1663.225802509679,
+              "contributions": [
+                {
+                  "context": [
+                    4,
+                    29
+                  ],
+                  "emitted": 0,
+                  "weight": -5.704527433283813
+                }
+              ]
+            },
+            {
+              "i": 503,
+              "cipher": 3,
+              "literal": false,
+              "emitted": 24,
+              "before": [
+                494,
+                29,
+                0
+              ],
+              "after": [
+                495,
+                0,
+                24
+              ],
+              "consumed": 495,
+              "local_weight": -5.630005505735342,
+              "total": -1668.8558080154144,
+              "contributions": [
+                {
+                  "context": [
+                    29,
+                    0
+                  ],
+                  "emitted": 24,
+                  "weight": -5.630005505735342
+                }
+              ]
+            },
+            {
+              "i": 504,
+              "cipher": 22,
+              "literal": false,
+              "emitted": 2,
+              "before": [
+                495,
+                0,
+                24
+              ],
+              "after": [
+                496,
+                24,
+                2
+              ],
+              "consumed": 496,
+              "local_weight": -6.455847333468817,
+              "total": -1675.3116553488833,
+              "contributions": [
+                {
+                  "context": [
+                    0,
+                    24
+                  ],
+                  "emitted": 2,
+                  "weight": -6.455847333468817
+                }
+              ]
+            }
+          ],
+          "wrong_rows": [
+            {
+              "i": 498,
+              "cipher": 0,
+              "literal": true,
+              "emitted": 0,
+              "before": [
+                490,
+                3,
+                9
+              ],
+              "after": [
+                490,
+                0,
+                29
+              ],
+              "consumed": 490,
+              "local_weight": -4.391215410663365,
+              "total": -1645.277624001364,
+              "contributions": [
+                {
+                  "context": [
+                    3,
+                    9
+                  ],
+                  "emitted": 0,
+                  "weight": -2.749243195388967
+                },
+                {
+                  "context": [
+                    9,
+                    0
+                  ],
+                  "emitted": 29,
+                  "weight": -1.6419722152743979
+                }
+              ]
+            },
+            {
+              "i": 499,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 18,
+              "before": [
+                490,
+                0,
+                29
+              ],
+              "after": [
+                491,
+                29,
+                18
+              ],
+              "consumed": 491,
+              "local_weight": -4.75735862414455,
+              "total": -1650.0349826255085,
+              "contributions": [
+                {
+                  "context": [
+                    0,
+                    29
+                  ],
+                  "emitted": 18,
+                  "weight": -4.75735862414455
+                }
+              ]
+            },
+            {
+              "i": 500,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 8,
+              "before": [
+                491,
+                29,
+                18
+              ],
+              "after": [
+                492,
+                18,
+                8
+              ],
+              "consumed": 492,
+              "local_weight": -5.912625951137497,
+              "total": -1655.947608576646,
+              "contributions": [
+                {
+                  "context": [
+                    29,
+                    18
+                  ],
+                  "emitted": 8,
+                  "weight": -5.912625951137497
+                }
+              ]
+            },
+            {
+              "i": 501,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 18,
+              "before": [
+                492,
+                18,
+                8
+              ],
+              "after": [
+                493,
+                18,
+                29
+              ],
+              "consumed": 493,
+              "local_weight": -2.72382673176997,
+              "total": -1658.671435308416,
+              "contributions": [
+                {
+                  "context": [
+                    18,
+                    8
+                  ],
+                  "emitted": 18,
+                  "weight": -1.65449456040387
+                },
+                {
+                  "context": [
+                    8,
+                    18
+                  ],
+                  "emitted": 29,
+                  "weight": -1.0693321713660995
+                }
+              ]
+            },
+            {
+              "i": 502,
+              "cipher": 0,
+              "literal": false,
+              "emitted": 17,
+              "before": [
+                493,
+                18,
+                29
+              ],
+              "after": [
+                494,
+                29,
+                17
+              ],
+              "consumed": 494,
+              "local_weight": -3.320022072705988,
+              "total": -1661.991457381122,
+              "contributions": [
+                {
+                  "context": [
+                    18,
+                    29
+                  ],
+                  "emitted": 17,
+                  "weight": -3.320022072705988
+                }
+              ]
+            },
+            {
+              "i": 503,
+              "cipher": 3,
+              "literal": false,
+              "emitted": 24,
+              "before": [
+                494,
+                29,
+                17
+              ],
+              "after": [
+                495,
+                17,
+                24
+              ],
+              "consumed": 495,
+              "local_weight": -5.196520415897527,
+              "total": -1667.1879777970196,
+              "contributions": [
+                {
+                  "context": [
+                    29,
+                    17
+                  ],
+                  "emitted": 24,
+                  "weight": -5.196520415897527
+                }
+              ]
+            },
+            {
+              "i": 504,
+              "cipher": 22,
+              "literal": false,
+              "emitted": 2,
+              "before": [
+                495,
+                17,
+                24
+              ],
+              "after": [
+                496,
+                24,
+                2
+              ],
+              "consumed": 496,
+              "local_weight": -6.638168890262771,
+              "total": -1673.8261466872823,
+              "contributions": [
+                {
+                  "context": [
+                    17,
+                    24
+                  ],
+                  "emitted": 2,
+                  "weight": -6.638168890262771
+                }
+              ]
+            }
+          ],
+          "exhaustive_suffix_paths": [
+            {
+              "literals": [],
+              "true_total": -1703.9407847959856,
+              "wrong_total": -1702.4552761343846
+            },
+            {
+              "literals": [
+                4
+              ],
+              "true_total": -1703.4722444732538,
+              "wrong_total": -1701.9867358116528
+            },
+            {
+              "literals": [
+                2
+              ],
+              "true_total": -1708.655636280405,
+              "wrong_total": -1707.170127618804
+            },
+            {
+              "literals": [
+                2,
+                4
+              ],
+              "true_total": -1706.5456123677475,
+              "wrong_total": -1705.0601037061465
+            },
+            {
+              "literals": [
+                0
+              ],
+              "true_total": -1713.7356288817575,
+              "wrong_total": -1712.2501202201565
+            },
+            {
+              "literals": [
+                0,
+                4
+              ],
+              "true_total": -1711.6256049691,
+              "wrong_total": -1710.140096307499
+            },
+            {
+              "literals": [
+                0,
+                2
+              ],
+              "true_total": -1706.8260036338497,
+              "wrong_total": -1705.3404949722487
+            },
+            {
+              "literals": [
+                0,
+                2,
+                4
+              ],
+              "true_total": -1703.746579164004,
+              "wrong_total": -1702.261070502403
+            }
+          ]
+        },
+        {
+          "start": 584,
+          "reconverged_after": 588,
+          "state": [
+            579,
+            15,
+            29
+          ],
+          "source_words": "Beaufort\u2019s",
+          "source_spans": [
+            [
+              36130,
+              36140
+            ],
+            [
+              36130,
+              36140
+            ],
+            [
+              36130,
+              36140
+            ],
+            [
+              36130,
+              36140
+            ],
+            [
+              36130,
+              36140
+            ]
+          ],
+          "gap": 0.21838056005531414,
+          "true_rows": [
+            {
+              "i": 584,
+              "cipher": 0,
+              "literal": true,
+              "emitted": 0,
+              "before": [
+                575,
+                28,
+                1
+              ],
+              "after": [
+                575,
+                1,
+                0
+              ],
+              "consumed": 575,
+              "local_weight": -4.537317153982138,
+              "total": -1939.9718251349084,
+              "contributions": [
+                {
+                  "context": [
+                    28,
+                    1
+                  ],
+                  "emitted": 0,
+                  "weight": -4.537317153982138
+                }
+              ]
+            },
+            {
+              "i": 585,
+              "cipher": 5,
+              "literal": false,
+              "emitted": 3,
+              "before": [
+                575,
+                1,
+                0
+              ],
+              "after": [
+                576,
+                0,
+                3
+              ],
+              "consumed": 576,
+              "local_weight": -1.6926962627871183,
+              "total": -1941.6645213976956,
+              "contributions": [
+                {
+                  "context": [
+                    1,
+                    0
+                  ],
+                  "emitted": 3,
+                  "weight": -1.6926962627871183
+                }
+              ]
+            },
+            {
+              "i": 586,
+              "cipher": 0,
+              "literal": false,
+              "emitted": 4,
+              "before": [
+                576,
+                0,
+                3
+              ],
+              "after": [
+                577,
+                3,
+                4
+              ],
+              "consumed": 577,
+              "local_weight": -1.3354869932655016,
+              "total": -1943.000008390961,
+              "contributions": [
+                {
+                  "context": [
+                    0,
+                    3
+                  ],
+                  "emitted": 4,
+                  "weight": -1.3354869932655016
+                }
+              ]
+            },
+            {
+              "i": 587,
+              "cipher": 11,
+              "literal": false,
+              "emitted": 16,
+              "before": [
+                577,
+                3,
+                4
+              ],
+              "after": [
+                578,
+                4,
+                16
+              ],
+              "consumed": 578,
+              "local_weight": -6.04454830352959,
+              "total": -1949.0445566944907,
+              "contributions": [
+                {
+                  "context": [
+                    3,
+                    4
+                  ],
+                  "emitted": 16,
+                  "weight": -6.04454830352959
+                }
+              ]
+            },
+            {
+              "i": 588,
+              "cipher": 19,
+              "literal": false,
+              "emitted": 15,
+              "before": [
+                578,
+                4,
+                16
+              ],
+              "after": [
+                579,
+                15,
+                29
+              ],
+              "consumed": 579,
+              "local_weight": -6.990532771163521,
+              "total": -1956.0350894656542,
+              "contributions": [
+                {
+                  "context": [
+                    4,
+                    16
+                  ],
+                  "emitted": 15,
+                  "weight": -5.945167620551557
+                },
+                {
+                  "context": [
+                    16,
+                    15
+                  ],
+                  "emitted": 29,
+                  "weight": -1.0453651506119634
+                }
+              ]
+            }
+          ],
+          "wrong_rows": [
+            {
+              "i": 584,
+              "cipher": 0,
+              "literal": false,
+              "emitted": 27,
+              "before": [
+                575,
+                28,
+                1
+              ],
+              "after": [
+                576,
+                1,
+                27
+              ],
+              "consumed": 576,
+              "local_weight": -3.9183062786023086,
+              "total": -1937.8673055979277,
+              "contributions": [
+                {
+                  "context": [
+                    28,
+                    1
+                  ],
+                  "emitted": 27,
+                  "weight": -3.9183062786023086
+                }
+              ]
+            },
+            {
+              "i": 585,
+              "cipher": 5,
+              "literal": false,
+              "emitted": 9,
+              "before": [
+                576,
+                1,
+                27
+              ],
+              "after": [
+                577,
+                27,
+                9
+              ],
+              "consumed": 577,
+              "local_weight": -0.9969403301979352,
+              "total": -1938.8642459281257,
+              "contributions": [
+                {
+                  "context": [
+                    1,
+                    27
+                  ],
+                  "emitted": 9,
+                  "weight": -0.9969403301979352
+                }
+              ]
+            },
+            {
+              "i": 586,
+              "cipher": 0,
+              "literal": true,
+              "emitted": 0,
+              "before": [
+                577,
+                27,
+                9
+              ],
+              "after": [
+                577,
+                9,
+                0
+              ],
+              "consumed": 577,
+              "local_weight": -5.207603790396782,
+              "total": -1944.0718497185226,
+              "contributions": [
+                {
+                  "context": [
+                    27,
+                    9
+                  ],
+                  "emitted": 0,
+                  "weight": -5.207603790396782
+                }
+              ]
+            },
+            {
+              "i": 587,
+              "cipher": 11,
+              "literal": false,
+              "emitted": 16,
+              "before": [
+                577,
+                9,
+                0
+              ],
+              "after": [
+                578,
+                0,
+                16
+              ],
+              "consumed": 578,
+              "local_weight": -3.1146670744847498,
+              "total": -1947.1865167930073,
+              "contributions": [
+                {
+                  "context": [
+                    9,
+                    0
+                  ],
+                  "emitted": 16,
+                  "weight": -3.1146670744847498
+                }
+              ]
+            },
+            {
+              "i": 588,
+              "cipher": 19,
+              "literal": false,
+              "emitted": 15,
+              "before": [
+                578,
+                0,
+                16
+              ],
+              "after": [
+                579,
+                15,
+                29
+              ],
+              "consumed": 579,
+              "local_weight": -7.144683450990779,
+              "total": -1954.331200243998,
+              "contributions": [
+                {
+                  "context": [
+                    0,
+                    16
+                  ],
+                  "emitted": 15,
+                  "weight": -6.099318300378815
+                },
+                {
+                  "context": [
+                    16,
+                    15
+                  ],
+                  "emitted": 29,
+                  "weight": -1.0453651506119634
+                }
+              ]
+            }
+          ],
+          "exhaustive_suffix_paths": [
+            {
+              "literals": [],
+              "true_total": -1991.317011281575,
+              "wrong_total": -1989.6131220599189
+            },
+            {
+              "literals": [
+                4
+              ],
+              "true_total": -1993.021260041625,
+              "wrong_total": -1991.3173708199688
+            },
+            {
+              "literals": [
+                2
+              ],
+              "true_total": -1988.1142004530666,
+              "wrong_total": -1986.4103112314103
+            },
+            {
+              "literals": [
+                2,
+                4
+              ],
+              "true_total": -1983.9851116994614,
+              "wrong_total": -1982.2812224778052
+            },
+            {
+              "literals": [
+                0
+              ],
+              "true_total": -1996.0258974424955,
+              "wrong_total": -1994.3220082208393
+            },
+            {
+              "literals": [
+                0,
+                4
+              ],
+              "true_total": -1991.8968086888901,
+              "wrong_total": -1990.1929194672339
+            },
+            {
+              "literals": [
+                0,
+                2
+              ],
+              "true_total": -1991.4039786143376,
+              "wrong_total": -1989.7000893926813
+            },
+            {
+              "literals": [
+                0,
+                2,
+                4
+              ],
+              "true_total": -1989.2939547016801,
+              "wrong_total": -1987.590065480024
+            }
+          ]
+        }
+      ],
+      "unreconverged": null
+    },
+    {
+      "model": "p03",
+      "id": "fresh-mill-1",
+      "segments": [],
+      "unreconverged": {
+        "start": 514,
+        "true_final_state": [
+          5,
+          1,
+          29
+        ],
+        "wrong_final_state": [
+          4,
+          0,
+          29
+        ],
+        "true_score": -1628.8675480956986,
+        "wrong_score": -1625.7982832129585
+      }
+    },
+    {
+      "model": "complementary",
+      "id": "fresh-shelley-2",
+      "segments": [
+        {
+          "start": 498,
+          "reconverged_after": 504,
+          "state": [
+            496,
+            24,
+            2
+          ],
+          "source_words": "month her father",
+          "source_spans": [
+            [
+              36011,
+              36016
+            ],
+            [
+              36017,
+              36020
+            ],
+            [
+              36017,
+              36020
+            ],
+            [
+              36017,
+              36020
+            ],
+            [
+              36021,
+              36027
+            ],
+            [
+              36021,
+              36027
+            ],
+            [
+              36021,
+              36027
+            ]
+          ],
+          "gap": 1.8817335387013403,
+          "true_rows": [
+            {
+              "i": 498,
+              "cipher": 0,
+              "literal": false,
+              "emitted": 2,
+              "before": [
+                490,
+                3,
+                9
+              ],
+              "after": [
+                491,
+                2,
+                29
+              ],
+              "consumed": 491,
+              "local_weight": -14.353571354060847,
+              "total": -1292.0782579766928,
+              "contributions": [
+                {
+                  "context": [
+                    3,
+                    9
+                  ],
+                  "emitted": 2,
+                  "weight": -11.953337570720485
+                },
+                {
+                  "context": [
+                    9,
+                    2
+                  ],
+                  "emitted": 29,
+                  "weight": -2.400233783340362
+                }
+              ]
+            },
+            {
+              "i": 499,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 8,
+              "before": [
+                491,
+                2,
+                29
+              ],
+              "after": [
+                492,
+                29,
+                8
+              ],
+              "consumed": 492,
+              "local_weight": -2.254804417905408,
+              "total": -1294.3330623945983,
+              "contributions": [
+                {
+                  "context": [
+                    2,
+                    29
+                  ],
+                  "emitted": 8,
+                  "weight": -2.254804417905408
+                }
+              ]
+            },
+            {
+              "i": 500,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 18,
+              "before": [
+                492,
+                29,
+                8
+              ],
+              "after": [
+                493,
+                8,
+                18
+              ],
+              "consumed": 493,
+              "local_weight": -1.4946594349940168,
+              "total": -1295.8277218295923,
+              "contributions": [
+                {
+                  "context": [
+                    29,
+                    8
+                  ],
+                  "emitted": 18,
+                  "weight": -1.4946594349940168
+                }
+              ]
+            },
+            {
+              "i": 501,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 4,
+              "before": [
+                493,
+                8,
+                18
+              ],
+              "after": [
+                494,
+                4,
+                29
+              ],
+              "consumed": 494,
+              "local_weight": -3.0289730211510957,
+              "total": -1298.8566948507435,
+              "contributions": [
+                {
+                  "context": [
+                    8,
+                    18
+                  ],
+                  "emitted": 4,
+                  "weight": -1.9944054883829623
+                },
+                {
+                  "context": [
+                    18,
+                    4
+                  ],
+                  "emitted": 29,
+                  "weight": -1.0345675327681334
+                }
+              ]
+            },
+            {
+              "i": 502,
+              "cipher": 0,
+              "literal": true,
+              "emitted": 0,
+              "before": [
+                494,
+                4,
+                29
+              ],
+              "after": [
+                494,
+                29,
+                0
+              ],
+              "consumed": 494,
+              "local_weight": -3.8752391079920065,
+              "total": -1302.7319339587355,
+              "contributions": [
+                {
+                  "context": [
+                    4,
+                    29
+                  ],
+                  "emitted": 0,
+                  "weight": -3.8752391079920065
+                }
+              ]
+            },
+            {
+              "i": 503,
+              "cipher": 3,
+              "literal": false,
+              "emitted": 24,
+              "before": [
+                494,
+                29,
+                0
+              ],
+              "after": [
+                495,
+                0,
+                24
+              ],
+              "consumed": 495,
+              "local_weight": -1.8665827628666627,
+              "total": -1304.5985167216022,
+              "contributions": [
+                {
+                  "context": [
+                    29,
+                    0
+                  ],
+                  "emitted": 24,
+                  "weight": -1.8665827628666627
+                }
+              ]
+            },
+            {
+              "i": 504,
+              "cipher": 22,
+              "literal": false,
+              "emitted": 2,
+              "before": [
+                495,
+                0,
+                24
+              ],
+              "after": [
+                496,
+                24,
+                2
+              ],
+              "consumed": 496,
+              "local_weight": -3.2931127721462703,
+              "total": -1307.8916294937485,
+              "contributions": [
+                {
+                  "context": [
+                    0,
+                    24
+                  ],
+                  "emitted": 2,
+                  "weight": -3.2931127721462703
+                }
+              ]
+            }
+          ],
+          "wrong_rows": [
+            {
+              "i": 498,
+              "cipher": 0,
+              "literal": true,
+              "emitted": 0,
+              "before": [
+                490,
+                3,
+                9
+              ],
+              "after": [
+                490,
+                0,
+                29
+              ],
+              "consumed": 490,
+              "local_weight": -5.315574012283383,
+              "total": -1283.0402606349153,
+              "contributions": [
+                {
+                  "context": [
+                    3,
+                    9
+                  ],
+                  "emitted": 0,
+                  "weight": -3.438007321232961
+                },
+                {
+                  "context": [
+                    9,
+                    0
+                  ],
+                  "emitted": 29,
+                  "weight": -1.877566691050422
+                }
+              ]
+            },
+            {
+              "i": 499,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 18,
+              "before": [
+                490,
+                0,
+                29
+              ],
+              "after": [
+                491,
+                29,
+                18
+              ],
+              "consumed": 491,
+              "local_weight": -3.238693867848506,
+              "total": -1286.2789545027638,
+              "contributions": [
+                {
+                  "context": [
+                    0,
+                    29
+                  ],
+                  "emitted": 18,
+                  "weight": -3.238693867848506
+                }
+              ]
+            },
+            {
+              "i": 500,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 8,
+              "before": [
+                491,
+                29,
+                18
+              ],
+              "after": [
+                492,
+                18,
+                8
+              ],
+              "consumed": 492,
+              "local_weight": -8.354109518879948,
+              "total": -1294.6330640216438,
+              "contributions": [
+                {
+                  "context": [
+                    29,
+                    18
+                  ],
+                  "emitted": 8,
+                  "weight": -8.354109518879948
+                }
+              ]
+            },
+            {
+              "i": 501,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 18,
+              "before": [
+                492,
+                18,
+                8
+              ],
+              "after": [
+                493,
+                18,
+                29
+              ],
+              "consumed": 493,
+              "local_weight": -3.1704275665685575,
+              "total": -1297.8034915882124,
+              "contributions": [
+                {
+                  "context": [
+                    18,
+                    8
+                  ],
+                  "emitted": 18,
+                  "weight": -2.4676507334426168
+                },
+                {
+                  "context": [
+                    8,
+                    18
+                  ],
+                  "emitted": 29,
+                  "weight": -0.7027768331259409
+                }
+              ]
+            },
+            {
+              "i": 502,
+              "cipher": 0,
+              "literal": false,
+              "emitted": 17,
+              "before": [
+                493,
+                18,
+                29
+              ],
+              "after": [
+                494,
+                29,
+                17
+              ],
+              "consumed": 494,
+              "local_weight": -3.0901793874655477,
+              "total": -1300.8936709756779,
+              "contributions": [
+                {
+                  "context": [
+                    18,
+                    29
+                  ],
+                  "emitted": 17,
+                  "weight": -3.0901793874655477
+                }
+              ]
+            },
+            {
+              "i": 503,
+              "cipher": 3,
+              "literal": false,
+              "emitted": 24,
+              "before": [
+                494,
+                29,
+                17
+              ],
+              "after": [
+                495,
+                17,
+                24
+              ],
+              "consumed": 495,
+              "local_weight": -3.056520315039716,
+              "total": -1303.9501912907176,
+              "contributions": [
+                {
+                  "context": [
+                    29,
+                    17
+                  ],
+                  "emitted": 24,
+                  "weight": -3.056520315039716
+                }
+              ]
+            },
+            {
+              "i": 504,
+              "cipher": 22,
+              "literal": false,
+              "emitted": 2,
+              "before": [
+                495,
+                17,
+                24
+              ],
+              "after": [
+                496,
+                24,
+                2
+              ],
+              "consumed": 496,
+              "local_weight": -2.059704664329308,
+              "total": -1306.0098959550469,
+              "contributions": [
+                {
+                  "context": [
+                    17,
+                    24
+                  ],
+                  "emitted": 2,
+                  "weight": -2.059704664329308
+                }
+              ]
+            }
+          ],
+          "exhaustive_suffix_paths": [
+            {
+              "literals": [],
+              "true_total": -1347.3384134741143,
+              "wrong_total": -1345.4566799354127
+            },
+            {
+              "literals": [
+                4
+              ],
+              "true_total": -1346.096514335008,
+              "wrong_total": -1344.2147807963063
+            },
+            {
+              "literals": [
+                2
+              ],
+              "true_total": -1340.8716181605812,
+              "wrong_total": -1338.9898846218796
+            },
+            {
+              "literals": [
+                2,
+                4
+              ],
+              "true_total": -1335.9568539082293,
+              "wrong_total": -1334.0751203695277
+            },
+            {
+              "literals": [
+                0
+              ],
+              "true_total": -1356.435354316588,
+              "wrong_total": -1354.5536207778864
+            },
+            {
+              "literals": [
+                0,
+                4
+              ],
+              "true_total": -1351.520590064236,
+              "wrong_total": -1349.6388565255345
+            },
+            {
+              "literals": [
+                0,
+                2
+              ],
+              "true_total": -1348.659371737864,
+              "wrong_total": -1346.7776381991623
+            },
+            {
+              "literals": [
+                0,
+                2,
+                4
+              ],
+              "true_total": -1343.1584324245043,
+              "wrong_total": -1341.2766988858027
+            }
+          ]
+        }
+      ],
+      "unreconverged": null
+    },
+    {
+      "model": "complementary",
+      "id": "fresh-mill-1",
+      "segments": [],
+      "unreconverged": {
+        "start": 514,
+        "true_final_state": [
+          5,
+          1,
+          29
+        ],
+        "wrong_final_state": [
+          4,
+          0,
+          29
+        ],
+        "true_score": -1327.583044264697,
+        "wrong_score": -1325.2036215008316
+      }
+    }
+  ],
+  "suffix_path_checks": 24,
+  "scope": "Independent cipher/state/token-weight/source-coordinate reconstruction;3segments\u00d78fixedsuffixmasks. General dominance follows identical-state transition bijection and monotone float addition, not these samples."
+}

@@ -1,0 +1,27 @@
+{
+  "start_utc": "2026-09-17T08:15:06Z",
+  "deadline_utc": "2026-09-17T16:15:06Z",
+  "deadline_sast": "2026-09-17T18:15:06+02:00",
+  "mode": "direct native workers; no external controller",
+  "assignment_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "preservation_hashes": {
+    "exploration/persistent-01/STOP": "40b5cd5016a58c976491300ff28834cf115d54dbff29503b14afa005efebebef",
+    "PERSISTENT-02-FOCUSED-RESEARCH.md": "80b1b50cb913076fa92099a62603ab88f04be1672c62a083c33b5fd6dafff42b",
+    "exploration/persistent-02/bootstrap/literal_f_exact_dp.py": "8288d54fcd8fca4711222b9bdaf38568b0bd0e72977ec2f32a21e2c23aca1edb",
+    "exploration/persistent-02/bootstrap/literal_f_exact_dp_selftest.json": "e9b06b2c408569b82fff405b46a4004b55fdc9c7eb175dc403ddc6431e59df91",
+    ".gitignore": "3d4bebc7b9cebf99eccabb6feb857ca6e03dc55bf33645a34e0a9b487ee17e50"
+  },
+  "python": "Python 3.12.14",
+  "reserved_originals": [
+    4,
+    9,
+    14,
+    19,
+    24,
+    29,
+    34,
+    39,
+    44,
+    54
+  ]
+}

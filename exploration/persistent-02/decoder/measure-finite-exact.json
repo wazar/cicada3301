@@ -1,0 +1,20 @@
+{
+  "case": "fresh-guest-2",
+  "method": "exact",
+  "runes": 716,
+  "score": -2.5665079945152707,
+  "seconds": 0.10359550000430318,
+  "maxrss_before_bytes": 25001984,
+  "isolated_process_maxrss_bytes": 56705024,
+  "diagnostics": {
+    "expanded": 210749,
+    "maxstates": 94,
+    "max_live_paths": 1384,
+    "retained_nodes_across_layers": 197234,
+    "optimal_path_ties_lower_bound": "1",
+    "retained": 16,
+    "seconds": 0.09611579199554399,
+    "exact": "global n-best decision paths; arbitrary representatives at tied cutoffs; prefix-best tie count is a lower bound under float rounding"
+  },
+  "scope": "One process, one decoder; includes Python imports/model in process high-water; timed region excludes imports/model construction, includes first scorer cache fill; macOS ru_maxrss bytes."
+}

@@ -1,0 +1,152 @@
+{
+  "references": {
+    "cases": 3,
+    "exact_seconds": 0.40840866600046866,
+    "beams": {
+      "64": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 0.012316457003180403
+      },
+      "256": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 0.0386192910009413
+      },
+      "1024": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 0.14225112500571413
+      }
+    }
+  },
+  "fresh": {
+    "cases": 12,
+    "exact_seconds": 13.306352125007834,
+    "beams": {
+      "64": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 0.11588124901027186
+      },
+      "256": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 0.4053383750215289
+      },
+      "1024": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 1.5219662899835384
+      }
+    }
+  },
+  "section": {
+    "cases": 84,
+    "exact_seconds": 3.818683372970554,
+    "beams": {
+      "64": {
+        "misses": 61,
+        "max_gap": 0.04701312207608943,
+        "seconds": 1.2843753400302376
+      },
+      "256": {
+        "misses": 47,
+        "max_gap": 0.02308194537152719,
+        "seconds": 4.849453785005608
+      },
+      "1024": {
+        "misses": 31,
+        "max_gap": 0.019278916474001484,
+        "seconds": 18.789002884033835
+      }
+    },
+    "body": {
+      "best": -4.7526582668882424,
+      "best_id": "section-body-WELCOME-DIVINITY-3-1",
+      "global_distinct_retained": 16,
+      "scope": "top16 distinct among retained celltop16, not globally certified top16 distinct plaintexts"
+    },
+    "whole": {
+      "best": -4.743326437573565,
+      "best_id": "section-whole-KOAN-CIRCUMFERENCE-3--1",
+      "global_distinct_retained": 16,
+      "scope": "top16 distinct among retained celltop16, not globally certified top16 distinct plaintexts"
+    }
+  },
+  "complementary-references": {
+    "cases": 3,
+    "exact_seconds": 0.3474150839901995,
+    "beams": {
+      "64": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 0.011693666994688101
+      },
+      "256": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 0.03720758400595514
+      },
+      "1024": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 0.13591741600248497
+      }
+    }
+  },
+  "complementary-fresh": {
+    "cases": 12,
+    "exact_seconds": 12.918130208992807,
+    "beams": {
+      "64": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 0.11842237701057456
+      },
+      "256": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 0.4196916659930139
+      },
+      "1024": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 1.5141088319942355
+      }
+    }
+  },
+  "complementary-section": {
+    "cases": 84,
+    "exact_seconds": 3.7164165820067865,
+    "beams": {
+      "64": {
+        "misses": 21,
+        "max_gap": 0.08725494581812221,
+        "seconds": 1.2752305859758053
+      },
+      "256": {
+        "misses": 5,
+        "max_gap": 0.06917941288071816,
+        "seconds": 4.899028875006479
+      },
+      "1024": {
+        "misses": 4,
+        "max_gap": 0.033494114395336005,
+        "seconds": 19.002652836010384
+      }
+    },
+    "body": {
+      "best": -5.509733986227161,
+      "best_id": "section-body-KOAN-CIRCUMFERENCE-0--1",
+      "global_distinct_retained": 16,
+      "scope": "top16 distinct among retained celltop16, not globally certified top16 distinct plaintexts"
+    },
+    "whole": {
+      "best": -5.5069149787170115,
+      "best_id": "section-whole-KOAN-CIRCUMFERENCE-1--1",
+      "global_distinct_retained": 16,
+      "scope": "top16 distinct among retained celltop16, not globally certified top16 distinct plaintexts"
+    }
+  }
+}

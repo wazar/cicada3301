@@ -1,0 +1,19 @@
+{
+  "source_sha256": "8c4f2ab6b5382f34a60b8547ce8c38cb76024254aa0548d97c63a39f2c5ca37b",
+  "counts": {
+    "datasets": 176,
+    "candidates": 629000,
+    "max_score_error": 1.687538997430238e-14
+  },
+  "batches": [
+    "A01",
+    "A02"
+  ],
+  "expected_batches": [
+    "A01",
+    "A02"
+  ],
+  "expected_datasets": 176,
+  "expected_candidates": 629000,
+  "scope": "Reads mixed A04 directory with later A05 outputs present; does not run searches or rewrite original summaries."
+}

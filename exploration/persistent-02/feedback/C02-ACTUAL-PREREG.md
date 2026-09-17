@@ -1,0 +1,7 @@
+# C02 actual section driver
+
+After review01's independent arithmetic/cap checks, apply unchanged structured.py to A's frozen716-rune body. Four lengths k5/6/7/8 only. Full-body optimum and original0body249fit followed by467rune continuation are distinct statistics. Primary full-body statistic: maximum normalized P03 across four lengths. Primary continuation statistic: continuation increments for the one prefix-best seed across four lengths, with no seed/history/model-context reset. Preserve16encountered complete feasible alternatives per length and global16; not a certified global n-best list.
+
+Twenty panels: actual plus19exact adjacent-equality-mask uniform comparators; RNG seeds2026091900+replicate. Every panel receives both searches at all four lengths, identical100,000node/30second limits. If capped, preserve numerical lower/upper bounds and mark the reported selection best found. Full optimum rank may be bounded using comparator/actual intervals; procedure ranks do not become exact-max ranks unless the gaps close. No scorer/seed-length/cap tuning on actual scores. Raw factor tables, baseline decodes, all selected seed/output paths and source/model hashes retained.
+
+First run actual panel0 to measure cost and memory. Then bounded chunks of comparison panels, checkpoint after every panel. Peak RSS via resource.getrusage (macOS bytes), per-solve time and suffix-table bytes, plus /usr/bin/time -l. Fixed deadline2026-09-17T16:15:06Z. No reserved material, new arbitrary cipher representations or widened brute-force band.

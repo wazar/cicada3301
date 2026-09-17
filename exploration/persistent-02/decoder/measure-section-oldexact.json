@@ -1,0 +1,18 @@
+{
+  "case": "section-body-WELCOME-DIVINITY-0--1",
+  "method": "oldexact",
+  "runes": 716,
+  "score": -4.8115585124492855,
+  "seconds": 0.020633500003896188,
+  "maxrss_before_bytes": 23543808,
+  "isolated_process_maxrss_bytes": 25018368,
+  "diagnostics": {
+    "expanded": 84940,
+    "dominated_paths_discarded": 3362,
+    "maxstates": 16,
+    "maxpaths": 256,
+    "retain": 16,
+    "exact": "global topk path scores; scoreties may select any tied path"
+  },
+  "scope": "One process, one decoder; includes Python imports/model in process high-water; timed region excludes imports/model construction, includes first scorer cache fill; macOS ru_maxrss bytes."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "P02-section-key-grid-v1",
+  "sources": [
+    "audit/parallel-01/reference/fixtures.py",
+    "audit/parallel-01/reference/reference.py"
+  ],
+  "keys": [
+    {
+      "id": "WELCOME-DIVINITY",
+      "runes": [
+        23,
+        10,
+        1,
+        10,
+        9,
+        10,
+        16,
+        26
+      ],
+      "justification": "Complete solved WELCOME reference: journey deep within, emerge like instar; selected section ends with insect image, thematic link only."
+    },
+    {
+      "id": "KOAN-CIRCUMFERENCE",
+      "runes": [
+        0,
+        10,
+        4,
+        0,
+        1,
+        19,
+        0,
+        18,
+        4,
+        18,
+        9,
+        0,
+        18
+      ],
+      "justification": "Complete solved circumference KOAN uses this actual rune vector, not uncorrected English spelling."
+    }
+  ],
+  "signs": [
+    -1,
+    1
+  ],
+  "phases": "all phases of each fixed key",
+  "clock_policies": [
+    "continuous body start after heading",
+    "continuous whole section including heading",
+    "page reset, same chosen initial phase each page"
+  ],
+  "fit": "Select key/sign/phase and leading literal-F state using only page0 body or whole page0 per heading policy. Freeze before page1 and page2; do not reselect key or prior path from continuation.",
+  "boundary_policy": "Explicit punctuation only. No synthetic boundary or LM context reset at page joins.",
+  "notes": "Rule H1 compares continuity to page reset; alternatives keep same key grid. B may compute joint complete-section optimum as capability diagnostic, explicitly distinct from prefix-selected continuation."
+}

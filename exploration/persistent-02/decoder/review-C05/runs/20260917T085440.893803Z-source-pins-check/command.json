@@ -1,0 +1,64 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/decoder/review-C05/check_sources.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T08:54:40.902832+00:00",
+  "timeout_seconds": 120,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/decoder/review-C05/check_plants.py",
+      "exists": true,
+      "bytes": 1758,
+      "sha256": "a9c5c9732dda5d86f6e0cd2287a0df9fdf6de83d934422acc80be6006612e8f6"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/review-C05/check_sources.py",
+      "exists": true,
+      "bytes": 1197,
+      "sha256": "a969f14b17f906447f67a13bcef854cd2a6ac6f8b0687d580c37d2ce4f4c0071"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/review-C05/compare_engine.py",
+      "exists": true,
+      "bytes": 3854,
+      "sha256": "57aca14e88aa41172971198efe353b4b6a184d79630c9568ee476c019ed5b62c"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/review-C05/enumerate.py",
+      "exists": true,
+      "bytes": 5149,
+      "sha256": "5c7f7ffdbb20b43e0cd689921ec28b208d2039c51aed8aee2b4a4dfc73fecddb"
+    },
+    {
+      "path": "exploration/persistent-02/feedback/C05/plants.json",
+      "exists": true,
+      "bytes": 110702,
+      "sha256": "9cfa5bb4bdfface8b3d705b4f3be25cad008b232e22a6b92e8ea59c8357875f8"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 39642,
+  "finished_utc": "2026-09-17T08:54:40.993031+00:00",
+  "duration_seconds": 0.08998741700634127
+}

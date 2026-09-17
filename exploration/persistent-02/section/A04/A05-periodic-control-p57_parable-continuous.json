@@ -1,0 +1,84 @@
+{
+  "batch": "A05-periodic",
+  "label": "control-p57_parable",
+  "policy": "continuous",
+  "source": "exploration/persistent-02/section/A05-periodic/control-p57_parable.json.gz",
+  "source_sha256": "e894b47482962b64b74498a2e4bcaa487986ab74379c17a3a5ac9af3d88da571",
+  "selected_cell": {
+    "id": "KOAN-CIRCUMFERENCE:12:-1",
+    "key_id": "KOAN-CIRCUMFERENCE",
+    "phase": 12,
+    "sign": -1,
+    "key": [
+      18,
+      0,
+      10,
+      4,
+      0,
+      1,
+      19,
+      0,
+      18,
+      4,
+      18,
+      9,
+      0
+    ]
+  },
+  "spans": [
+    [
+      0,
+      31
+    ],
+    [
+      31,
+      63
+    ],
+    [
+      63,
+      95
+    ]
+  ],
+  "ends": [
+    6,
+    10,
+    12,
+    18,
+    25,
+    27,
+    29,
+    36,
+    38,
+    42,
+    46,
+    49,
+    52,
+    66,
+    70,
+    72,
+    80,
+    85,
+    88,
+    94
+  ],
+  "candidate_count": 32,
+  "distinct_plaintexts": 32,
+  "conditional_final_states": 4,
+  "cache_replay_checks": 1,
+  "max_direct_score_error": 4.440892098500626e-15,
+  "best_suffix_score": -4.772260439667889,
+  "best_stage_ranks": [
+    1,
+    1,
+    1
+  ],
+  "best_transliteration": "PARABLELICETHEINSTARTUNNELNGTOTHESEXFTCFEAHUMNUAWBDAUSAYLDREXFEFFIRECIMFUADMOEOUYIFLTHYIAFIAEAEODECOUMHBM",
+  "array": "A05-periodic-control-p57_parable-continuous.npz",
+  "best_errors": 54,
+  "minimum_errors": 47,
+  "truth_members": 0,
+  "truth_stage_ranks": [],
+  "truth_suffix_rank": null,
+  "truth_suffix_ties": null,
+  "planted_policy": "page-reset"
+}

@@ -1,0 +1,120 @@
+{
+  "passed": true,
+  "panels": [
+    {
+      "batch": "A01",
+      "label": "control-jpg107-167",
+      "policy": "page-reset",
+      "candidates": 2048,
+      "conditional_final_states": 4,
+      "max_direct_score_error": 3.1086244689504383e-15,
+      "best_suffix_ranks": [
+        2,
+        1,
+        1
+      ],
+      "best_full_ranks": [
+        1,
+        1,
+        1
+      ],
+      "source_sha256": "623248c1b11538400dce32c92d8df12923293b3bf7d6313f2d59c24576d6c6d6"
+    },
+    {
+      "batch": "A02",
+      "label": "control-0_welcome",
+      "policy": "continuous",
+      "candidates": 4096,
+      "conditional_final_states": 8,
+      "max_direct_score_error": 6.661338147750939e-15,
+      "best_suffix_ranks": [
+        2,
+        1,
+        1
+      ],
+      "best_full_ranks": [
+        2,
+        1,
+        1
+      ],
+      "source_sha256": "4d8651e60e9360ecd6822d6225718f117a1c5635a641656d801c96ac4ddc4ca8"
+    },
+    {
+      "batch": "A02",
+      "label": "control-p56_an_end",
+      "policy": "continuous",
+      "candidates": 32,
+      "conditional_final_states": 4,
+      "max_direct_score_error": 8.881784197001252e-16,
+      "best_suffix_ranks": [
+        1,
+        2,
+        1
+      ],
+      "best_full_ranks": [
+        1,
+        2,
+        1
+      ],
+      "source_sha256": "1f4934ce3edc09615ed5d26c2ee123084a71a725e90c85385cc9a4cb022d2649"
+    },
+    {
+      "batch": "A05-finite",
+      "label": "control-p57_parable",
+      "policy": "page-reset",
+      "candidates": 64,
+      "conditional_final_states": 4,
+      "max_direct_score_error": 2.6645352591003757e-15,
+      "best_suffix_ranks": [
+        1,
+        1,
+        1
+      ],
+      "best_full_ranks": [
+        1,
+        1,
+        1
+      ],
+      "source_sha256": "5473b258379162115a503ae738716feb33fd18bf254f622d12c291e18c4601ab"
+    },
+    {
+      "batch": "A02",
+      "label": "actual-body",
+      "policy": "continuous",
+      "candidates": 4096,
+      "conditional_final_states": 2,
+      "max_direct_score_error": 8.881784197001252e-15,
+      "best_suffix_ranks": [
+        1,
+        1,
+        1
+      ],
+      "best_full_ranks": [
+        1,
+        1,
+        1
+      ],
+      "source_sha256": "ef85d152b3339c74b4c1b09b82c38bf1f4e1f7b8f62f6160571f1a9273280768"
+    },
+    {
+      "batch": "A05-periodic",
+      "label": "actual-whole",
+      "policy": "page-reset",
+      "candidates": 4096,
+      "conditional_final_states": 3,
+      "max_direct_score_error": 1.1546319456101628e-14,
+      "best_suffix_ranks": [
+        8,
+        1,
+        1
+      ],
+      "best_full_ranks": [
+        1,
+        1,
+        1
+      ],
+      "source_sha256": "4a4fe35c3e16597dddb963f5efa05341ca376e970aeabd0857e979a0e167fd88"
+    }
+  ],
+  "scope": "Four consequential control panels and two actual metadata panels; bounded16cubed forest, not full global plaintext search. No negative comparator rerun."
+}

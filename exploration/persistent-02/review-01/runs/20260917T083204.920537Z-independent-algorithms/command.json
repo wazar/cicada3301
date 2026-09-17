@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/review-01/independent_checks.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T08:32:04.929592+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/decoder/exact.py",
+      "exists": true,
+      "bytes": 3231,
+      "sha256": "770c777d3ad7e767f1876e9d87c970536b92f248b7bfa028f8f8a3f4ccaf5d58"
+    },
+    {
+      "path": "exploration/persistent-02/feedback/structured.py",
+      "exists": true,
+      "bytes": 3941,
+      "sha256": "8585213cc5092c85d4cbcad983df6254e272eb83a4780d66b64f965c0bb87bab"
+    },
+    {
+      "path": "exploration/persistent-02/review-01/independent_checks.py",
+      "exists": true,
+      "bytes": 4281,
+      "sha256": "3e70b64db9c1a6338cd49e067409396281b6d2feff0c3d14857a9aacf0628f33"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "NONZERO",
+  "exit_code": 1,
+  "pid": 36653,
+  "finished_utc": "2026-09-17T08:32:05.305867+00:00",
+  "duration_seconds": 0.3760702079962357
+}

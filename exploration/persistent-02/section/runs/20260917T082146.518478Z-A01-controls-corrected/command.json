@@ -1,0 +1,72 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/section/a01.py",
+    "--batch",
+    "controls"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T08:21:46.529597+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/worker-c/frozen_kbest.py",
+      "exists": true,
+      "bytes": 1440,
+      "sha256": "bdd54bf0fdbd07f9115e9354ae7ef3e913b554a5d2f6a5587f4ae21c328f5390"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p03_frozen.py",
+      "exists": true,
+      "bytes": 6350,
+      "sha256": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    },
+    {
+      "path": "exploration/persistent-02/section/a01.py",
+      "exists": true,
+      "bytes": 6208,
+      "sha256": "56ab4feac69661d3efa51af7bb03dc2299bed7346e2e54649e2cadd28d0d345a"
+    },
+    {
+      "path": "exploration/persistent-02/section/freeze_packet.py",
+      "exists": true,
+      "bytes": 5042,
+      "sha256": "bfeb34f65004a2741a2c832e55c32718898c6281141b89d5c258ae1ce79aa0dc"
+    },
+    {
+      "path": "exploration/persistent-02/section/key-grid.json",
+      "exists": true,
+      "bytes": 1615,
+      "sha256": "a01f9d803564078e3bfef07c075889652ccc0e69d11b96ca9e91c6cc7b53c828"
+    },
+    {
+      "path": "exploration/persistent-02/section/section-packet.json",
+      "exists": true,
+      "bytes": 193588,
+      "sha256": "bdb20d4329dff5be282719a895ef0a3da779e0d50cbcf9523a170245c9203683"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 33882,
+  "finished_utc": "2026-09-17T08:21:47.139229+00:00",
+  "duration_seconds": 0.6093171250031446
+}

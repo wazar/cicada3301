@@ -1,0 +1,76 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/review-02/check_summary_scope.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T08:53:56.686164+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/review-02/check_forest.py",
+      "exists": true,
+      "bytes": 4994,
+      "sha256": "a589cab0e69e6b9750c350ee71e3e4d2346445af083028633a7570771ffd2e52"
+    },
+    {
+      "path": "exploration/persistent-02/review-02/check_invariant.py",
+      "exists": true,
+      "bytes": 4469,
+      "sha256": "79ff81386b824a429826ca6f9af1aaf599a9a6ad1e748f3088cd2ec9588cc33b"
+    },
+    {
+      "path": "exploration/persistent-02/review-02/check_posterior.py",
+      "exists": true,
+      "bytes": 4833,
+      "sha256": "2033636947dd3bacdeace8c11711aee3bb1ccb79fb0b3b0beff5ef84a77dfe26"
+    },
+    {
+      "path": "exploration/persistent-02/review-02/check_posterior_sources.py",
+      "exists": true,
+      "bytes": 3167,
+      "sha256": "c7cfa8547411ecd5279734e10640698a9f469730aa68839311df7b8f5b590d96"
+    },
+    {
+      "path": "exploration/persistent-02/review-02/check_reconstruction.py",
+      "exists": true,
+      "bytes": 1175,
+      "sha256": "75f6d63244d0e383114de443044f73ebe12a3c9fb69ba0362b2af5d3ba7094da"
+    },
+    {
+      "path": "exploration/persistent-02/review-02/check_summary_scope.py",
+      "exists": true,
+      "bytes": 1013,
+      "sha256": "010c2748df07618435cafb6e20659954d56b99509545c81379185386513020bd"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    },
+    {
+      "path": "exploration/persistent-02/section/summarize_forest.py",
+      "exists": true,
+      "bytes": 2576,
+      "sha256": "6b07d538b8498f6d0ed169d05de700aaaf193677fda4bf496cd004422aace4cf"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 39580,
+  "finished_utc": "2026-09-17T08:53:56.735678+00:00",
+  "duration_seconds": 0.04928566699527437
+}

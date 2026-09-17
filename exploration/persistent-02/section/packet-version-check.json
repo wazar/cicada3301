@@ -1,0 +1,19 @@
+{
+  "checks": {
+    "alphabet": true,
+    "pages": true,
+    "runes": true,
+    "explicit_ends": true,
+    "coordinates": true,
+    "heading": true,
+    "body": true,
+    "page_joins": true,
+    "source_hashes": true
+  },
+  "versions": [
+    "P02-section-0-2-v1",
+    "P02-section-0-2-v2",
+    "P02-section-0-2-v3"
+  ],
+  "result": "All numerical inputs/source maps identical; observation prose/id/time corrections only."
+}

@@ -1,0 +1,76 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/feedback/extend.py",
+    "pages",
+    "15",
+    "16",
+    "18",
+    "20",
+    "21",
+    "22",
+    "23",
+    "25",
+    "26",
+    "27",
+    "28"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T08:21:29.109010+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q12-sum-autokey/test.py",
+      "exists": true,
+      "bytes": 6753,
+      "sha256": "aabb5dd9e171136f7464d07ad4ccf3f33aefcd9ee683e69c0702d36832f366b6"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p03_frozen.py",
+      "exists": true,
+      "bytes": 6350,
+      "sha256": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-02/feedback/extend.py",
+      "exists": true,
+      "bytes": 4735,
+      "sha256": "9a7245ff8f2844c580645f9cd5148ee80179f0941a86c83ba6f86ffedf0fdd5d"
+    },
+    {
+      "path": "exploration/persistent-02/feedback/structured.py",
+      "exists": true,
+      "bytes": 3567,
+      "sha256": "08540c0bd43ebd9d695360af48f52b58ecefe091fb5abb41de359fa0d3cdf465"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 33786,
+  "finished_utc": "2026-09-17T08:23:04.460495+00:00",
+  "duration_seconds": 95.35140212499391
+}

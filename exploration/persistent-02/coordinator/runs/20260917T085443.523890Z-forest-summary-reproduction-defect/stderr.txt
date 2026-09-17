@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/coordinator/check_forest_summary_selection.py", line 12, in <module>
+    assert record['batches']==record['expected_batches'] and record['counts']['datasets']==176 and record['counts']['candidates']==629000,'cross-model aggregation contamination'
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: cross-model aggregation contamination

@@ -1,0 +1,70 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/review-03/check_c04_actual.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T09:00:59.235729+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/feedback/C04-PREREG.md",
+      "exists": true,
+      "bytes": 3290,
+      "sha256": "b7c336032337200e2e5771ac60f9ef8fe0890bc10ab153ea3458537a57e24ad5"
+    },
+    {
+      "path": "exploration/persistent-02/feedback/C04/actual.json",
+      "exists": true,
+      "bytes": 2177,
+      "sha256": "0cab7bd92a031735135cffd60e51079fcd8f4411eecf3ed3767fa17aceecb5f3"
+    },
+    {
+      "path": "exploration/persistent-02/feedback/invariant.py",
+      "exists": true,
+      "bytes": 4262,
+      "sha256": "20d14f83cf8b04051f32f9743675c7a14fe0a5f38aa6d3c2a492f4fb11887a05"
+    },
+    {
+      "path": "exploration/persistent-02/review-03/check_c04_actual.py",
+      "exists": true,
+      "bytes": 2898,
+      "sha256": "1d585e400301c3c34e3b9929983bb32e991be98c26b53914578ec52f10d66c2f"
+    },
+    {
+      "path": "exploration/persistent-02/review-03/check_dominance.py",
+      "exists": true,
+      "bytes": 6502,
+      "sha256": "8aeee28b64cbe799831b6497e9768bbfae119c13cd2f821f5097d7fea17bcae2"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    },
+    {
+      "path": "exploration/persistent-02/section/section-packet.json",
+      "exists": true,
+      "bytes": 193629,
+      "sha256": "4c255a5e0dfca6c1fd5bf4b960aed17608cca1dc46f9cbb941be49a4138b9502"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 40783,
+  "finished_utc": "2026-09-17T09:00:59.749319+00:00",
+  "duration_seconds": 0.51329574999545
+}

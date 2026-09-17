@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/review-01/integration_checks.py", line 81, in <module>
+    if __name__=='__main__':references();plants();aggregate()
+                            ^^^^^^^^^^^^
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/review-01/integration_checks.py", line 15, in references
+    if i in fixture[3]:p.append(0);assert v==0
+                                          ^^^^
+AssertionError

@@ -1,0 +1,74 @@
+{
+  "source_sha256": "a9f15f21a4795c0c5393aa71d2418f833e82e15f0f5fca7f30dbe27dc72f6dda",
+  "cipher": [
+    0,
+    1,
+    1,
+    2
+  ],
+  "key": [
+    1
+  ],
+  "exact_rows": [
+    {
+      "total": -100.0,
+      "score": -25.0,
+      "plain": [
+        28,
+        0,
+        0,
+        1
+      ],
+      "literal_positions": [],
+      "used": 4,
+      "mask": "0"
+    },
+    {
+      "total": -100.0,
+      "score": -25.0,
+      "plain": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "literal_positions": [
+        0
+      ],
+      "used": 3,
+      "mask": "8"
+    }
+  ],
+  "diag": {
+    "expanded": 8,
+    "maxstates": 2,
+    "max_live_paths": 2,
+    "retained_nodes_across_layers": 9,
+    "optimal_path_ties": "1",
+    "retained": 2,
+    "seconds": 2.7499998395796865e-05,
+    "exact": "global n-best decision paths; deterministic binary-mask tie selection; all exact-float optimum path ties counted"
+  },
+  "enumerated": [
+    {
+      "plain": [
+        28,
+        0,
+        0,
+        1
+      ],
+      "score": -100.0
+    },
+    {
+      "plain": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "score": -100.0
+    }
+  ],
+  "enumerated_optimum_ties": 2,
+  "limitation": "Floating-point addition can coalesce unequal prefix scores after a merge; best-prefix tie propagation does not count every terminal floating-point tie."
+}

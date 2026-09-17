@@ -1,0 +1,1467 @@
+{
+  "cases": [
+    {
+      "model": "p03",
+      "id": "fresh-shelley-2",
+      "segments": [
+        {
+          "start": 498,
+          "reconverged_after": 504,
+          "state": [
+            496,
+            24,
+            2
+          ],
+          "true_segment_weight": -34.42524675818246,
+          "wrong_segment_weight": -32.93973809658167,
+          "wrong_minus_true": 1.4855086616007913,
+          "true_rows": [
+            {
+              "i": 498,
+              "cipher": 0,
+              "literal": false,
+              "emitted": 2,
+              "before": [
+                490,
+                3,
+                9
+              ],
+              "after": [
+                491,
+                2,
+                29
+              ],
+              "consumed": 491,
+              "local_weight": -9.478819485247142,
+              "total": -1650.365228075948,
+              "contributions": [
+                {
+                  "context": [
+                    3,
+                    9
+                  ],
+                  "emitted": 2,
+                  "weight": -7.43016190545935
+                },
+                {
+                  "context": [
+                    9,
+                    2
+                  ],
+                  "emitted": 29,
+                  "weight": -2.0486575797877915
+                }
+              ]
+            },
+            {
+              "i": 499,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 8,
+              "before": [
+                491,
+                2,
+                29
+              ],
+              "after": [
+                492,
+                29,
+                8
+              ],
+              "consumed": 492,
+              "local_weight": -4.380224549662183,
+              "total": -1654.7454526256101,
+              "contributions": [
+                {
+                  "context": [
+                    2,
+                    29
+                  ],
+                  "emitted": 8,
+                  "weight": -4.380224549662183
+                }
+              ]
+            },
+            {
+              "i": 500,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 18,
+              "before": [
+                492,
+                29,
+                8
+              ],
+              "after": [
+                493,
+                8,
+                18
+              ],
+              "consumed": 493,
+              "local_weight": -0.5783325333421531,
+              "total": -1655.3237851589522,
+              "contributions": [
+                {
+                  "context": [
+                    29,
+                    8
+                  ],
+                  "emitted": 18,
+                  "weight": -0.5783325333421531
+                }
+              ]
+            },
+            {
+              "i": 501,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 4,
+              "before": [
+                493,
+                8,
+                18
+              ],
+              "after": [
+                494,
+                4,
+                29
+              ],
+              "consumed": 494,
+              "local_weight": -2.197489917443009,
+              "total": -1657.521275076395,
+              "contributions": [
+                {
+                  "context": [
+                    8,
+                    18
+                  ],
+                  "emitted": 4,
+                  "weight": -1.1353124549233358
+                },
+                {
+                  "context": [
+                    18,
+                    4
+                  ],
+                  "emitted": 29,
+                  "weight": -1.0621774625196734
+                }
+              ]
+            },
+            {
+              "i": 502,
+              "cipher": 0,
+              "literal": true,
+              "emitted": 0,
+              "before": [
+                494,
+                4,
+                29
+              ],
+              "after": [
+                494,
+                29,
+                0
+              ],
+              "consumed": 494,
+              "local_weight": -5.704527433283813,
+              "total": -1663.225802509679,
+              "contributions": [
+                {
+                  "context": [
+                    4,
+                    29
+                  ],
+                  "emitted": 0,
+                  "weight": -5.704527433283813
+                }
+              ]
+            },
+            {
+              "i": 503,
+              "cipher": 3,
+              "literal": false,
+              "emitted": 24,
+              "before": [
+                494,
+                29,
+                0
+              ],
+              "after": [
+                495,
+                0,
+                24
+              ],
+              "consumed": 495,
+              "local_weight": -5.630005505735342,
+              "total": -1668.8558080154144,
+              "contributions": [
+                {
+                  "context": [
+                    29,
+                    0
+                  ],
+                  "emitted": 24,
+                  "weight": -5.630005505735342
+                }
+              ]
+            },
+            {
+              "i": 504,
+              "cipher": 22,
+              "literal": false,
+              "emitted": 2,
+              "before": [
+                495,
+                0,
+                24
+              ],
+              "after": [
+                496,
+                24,
+                2
+              ],
+              "consumed": 496,
+              "local_weight": -6.455847333468817,
+              "total": -1675.3116553488833,
+              "contributions": [
+                {
+                  "context": [
+                    0,
+                    24
+                  ],
+                  "emitted": 2,
+                  "weight": -6.455847333468817
+                }
+              ]
+            }
+          ],
+          "wrong_rows": [
+            {
+              "i": 498,
+              "cipher": 0,
+              "literal": true,
+              "emitted": 0,
+              "before": [
+                490,
+                3,
+                9
+              ],
+              "after": [
+                490,
+                0,
+                29
+              ],
+              "consumed": 490,
+              "local_weight": -4.391215410663365,
+              "total": -1645.277624001364,
+              "contributions": [
+                {
+                  "context": [
+                    3,
+                    9
+                  ],
+                  "emitted": 0,
+                  "weight": -2.749243195388967
+                },
+                {
+                  "context": [
+                    9,
+                    0
+                  ],
+                  "emitted": 29,
+                  "weight": -1.6419722152743979
+                }
+              ]
+            },
+            {
+              "i": 499,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 18,
+              "before": [
+                490,
+                0,
+                29
+              ],
+              "after": [
+                491,
+                29,
+                18
+              ],
+              "consumed": 491,
+              "local_weight": -4.75735862414455,
+              "total": -1650.0349826255085,
+              "contributions": [
+                {
+                  "context": [
+                    0,
+                    29
+                  ],
+                  "emitted": 18,
+                  "weight": -4.75735862414455
+                }
+              ]
+            },
+            {
+              "i": 500,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 8,
+              "before": [
+                491,
+                29,
+                18
+              ],
+              "after": [
+                492,
+                18,
+                8
+              ],
+              "consumed": 492,
+              "local_weight": -5.912625951137497,
+              "total": -1655.947608576646,
+              "contributions": [
+                {
+                  "context": [
+                    29,
+                    18
+                  ],
+                  "emitted": 8,
+                  "weight": -5.912625951137497
+                }
+              ]
+            },
+            {
+              "i": 501,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 18,
+              "before": [
+                492,
+                18,
+                8
+              ],
+              "after": [
+                493,
+                18,
+                29
+              ],
+              "consumed": 493,
+              "local_weight": -2.72382673176997,
+              "total": -1658.671435308416,
+              "contributions": [
+                {
+                  "context": [
+                    18,
+                    8
+                  ],
+                  "emitted": 18,
+                  "weight": -1.65449456040387
+                },
+                {
+                  "context": [
+                    8,
+                    18
+                  ],
+                  "emitted": 29,
+                  "weight": -1.0693321713660995
+                }
+              ]
+            },
+            {
+              "i": 502,
+              "cipher": 0,
+              "literal": false,
+              "emitted": 17,
+              "before": [
+                493,
+                18,
+                29
+              ],
+              "after": [
+                494,
+                29,
+                17
+              ],
+              "consumed": 494,
+              "local_weight": -3.320022072705988,
+              "total": -1661.991457381122,
+              "contributions": [
+                {
+                  "context": [
+                    18,
+                    29
+                  ],
+                  "emitted": 17,
+                  "weight": -3.320022072705988
+                }
+              ]
+            },
+            {
+              "i": 503,
+              "cipher": 3,
+              "literal": false,
+              "emitted": 24,
+              "before": [
+                494,
+                29,
+                17
+              ],
+              "after": [
+                495,
+                17,
+                24
+              ],
+              "consumed": 495,
+              "local_weight": -5.196520415897527,
+              "total": -1667.1879777970196,
+              "contributions": [
+                {
+                  "context": [
+                    29,
+                    17
+                  ],
+                  "emitted": 24,
+                  "weight": -5.196520415897527
+                }
+              ]
+            },
+            {
+              "i": 504,
+              "cipher": 22,
+              "literal": false,
+              "emitted": 2,
+              "before": [
+                495,
+                17,
+                24
+              ],
+              "after": [
+                496,
+                24,
+                2
+              ],
+              "consumed": 496,
+              "local_weight": -6.638168890262771,
+              "total": -1673.8261466872823,
+              "contributions": [
+                {
+                  "context": [
+                    17,
+                    24
+                  ],
+                  "emitted": 2,
+                  "weight": -6.638168890262771
+                }
+              ]
+            }
+          ],
+          "source_spans": [
+            [
+              36011,
+              36016
+            ],
+            [
+              36017,
+              36020
+            ],
+            [
+              36017,
+              36020
+            ],
+            [
+              36017,
+              36020
+            ],
+            [
+              36021,
+              36027
+            ],
+            [
+              36021,
+              36027
+            ],
+            [
+              36021,
+              36027
+            ]
+          ],
+          "qualifier": "Real-sum gap invariant under identical legal suffix; float additions monotone so truth cannot overtake, although scores may round to ties."
+        },
+        {
+          "start": 584,
+          "reconverged_after": 588,
+          "state": [
+            579,
+            15,
+            29
+          ],
+          "true_segment_weight": -20.60058148472787,
+          "wrong_segment_weight": -20.382200924672553,
+          "wrong_minus_true": 0.21838056005531414,
+          "true_rows": [
+            {
+              "i": 584,
+              "cipher": 0,
+              "literal": true,
+              "emitted": 0,
+              "before": [
+                575,
+                28,
+                1
+              ],
+              "after": [
+                575,
+                1,
+                0
+              ],
+              "consumed": 575,
+              "local_weight": -4.537317153982138,
+              "total": -1939.9718251349084,
+              "contributions": [
+                {
+                  "context": [
+                    28,
+                    1
+                  ],
+                  "emitted": 0,
+                  "weight": -4.537317153982138
+                }
+              ]
+            },
+            {
+              "i": 585,
+              "cipher": 5,
+              "literal": false,
+              "emitted": 3,
+              "before": [
+                575,
+                1,
+                0
+              ],
+              "after": [
+                576,
+                0,
+                3
+              ],
+              "consumed": 576,
+              "local_weight": -1.6926962627871183,
+              "total": -1941.6645213976956,
+              "contributions": [
+                {
+                  "context": [
+                    1,
+                    0
+                  ],
+                  "emitted": 3,
+                  "weight": -1.6926962627871183
+                }
+              ]
+            },
+            {
+              "i": 586,
+              "cipher": 0,
+              "literal": false,
+              "emitted": 4,
+              "before": [
+                576,
+                0,
+                3
+              ],
+              "after": [
+                577,
+                3,
+                4
+              ],
+              "consumed": 577,
+              "local_weight": -1.3354869932655016,
+              "total": -1943.000008390961,
+              "contributions": [
+                {
+                  "context": [
+                    0,
+                    3
+                  ],
+                  "emitted": 4,
+                  "weight": -1.3354869932655016
+                }
+              ]
+            },
+            {
+              "i": 587,
+              "cipher": 11,
+              "literal": false,
+              "emitted": 16,
+              "before": [
+                577,
+                3,
+                4
+              ],
+              "after": [
+                578,
+                4,
+                16
+              ],
+              "consumed": 578,
+              "local_weight": -6.04454830352959,
+              "total": -1949.0445566944907,
+              "contributions": [
+                {
+                  "context": [
+                    3,
+                    4
+                  ],
+                  "emitted": 16,
+                  "weight": -6.04454830352959
+                }
+              ]
+            },
+            {
+              "i": 588,
+              "cipher": 19,
+              "literal": false,
+              "emitted": 15,
+              "before": [
+                578,
+                4,
+                16
+              ],
+              "after": [
+                579,
+                15,
+                29
+              ],
+              "consumed": 579,
+              "local_weight": -6.990532771163521,
+              "total": -1956.0350894656542,
+              "contributions": [
+                {
+                  "context": [
+                    4,
+                    16
+                  ],
+                  "emitted": 15,
+                  "weight": -5.945167620551557
+                },
+                {
+                  "context": [
+                    16,
+                    15
+                  ],
+                  "emitted": 29,
+                  "weight": -1.0453651506119634
+                }
+              ]
+            }
+          ],
+          "wrong_rows": [
+            {
+              "i": 584,
+              "cipher": 0,
+              "literal": false,
+              "emitted": 27,
+              "before": [
+                575,
+                28,
+                1
+              ],
+              "after": [
+                576,
+                1,
+                27
+              ],
+              "consumed": 576,
+              "local_weight": -3.9183062786023086,
+              "total": -1937.8673055979277,
+              "contributions": [
+                {
+                  "context": [
+                    28,
+                    1
+                  ],
+                  "emitted": 27,
+                  "weight": -3.9183062786023086
+                }
+              ]
+            },
+            {
+              "i": 585,
+              "cipher": 5,
+              "literal": false,
+              "emitted": 9,
+              "before": [
+                576,
+                1,
+                27
+              ],
+              "after": [
+                577,
+                27,
+                9
+              ],
+              "consumed": 577,
+              "local_weight": -0.9969403301979352,
+              "total": -1938.8642459281257,
+              "contributions": [
+                {
+                  "context": [
+                    1,
+                    27
+                  ],
+                  "emitted": 9,
+                  "weight": -0.9969403301979352
+                }
+              ]
+            },
+            {
+              "i": 586,
+              "cipher": 0,
+              "literal": true,
+              "emitted": 0,
+              "before": [
+                577,
+                27,
+                9
+              ],
+              "after": [
+                577,
+                9,
+                0
+              ],
+              "consumed": 577,
+              "local_weight": -5.207603790396782,
+              "total": -1944.0718497185226,
+              "contributions": [
+                {
+                  "context": [
+                    27,
+                    9
+                  ],
+                  "emitted": 0,
+                  "weight": -5.207603790396782
+                }
+              ]
+            },
+            {
+              "i": 587,
+              "cipher": 11,
+              "literal": false,
+              "emitted": 16,
+              "before": [
+                577,
+                9,
+                0
+              ],
+              "after": [
+                578,
+                0,
+                16
+              ],
+              "consumed": 578,
+              "local_weight": -3.1146670744847498,
+              "total": -1947.1865167930073,
+              "contributions": [
+                {
+                  "context": [
+                    9,
+                    0
+                  ],
+                  "emitted": 16,
+                  "weight": -3.1146670744847498
+                }
+              ]
+            },
+            {
+              "i": 588,
+              "cipher": 19,
+              "literal": false,
+              "emitted": 15,
+              "before": [
+                578,
+                0,
+                16
+              ],
+              "after": [
+                579,
+                15,
+                29
+              ],
+              "consumed": 579,
+              "local_weight": -7.144683450990779,
+              "total": -1954.331200243998,
+              "contributions": [
+                {
+                  "context": [
+                    0,
+                    16
+                  ],
+                  "emitted": 15,
+                  "weight": -6.099318300378815
+                },
+                {
+                  "context": [
+                    16,
+                    15
+                  ],
+                  "emitted": 29,
+                  "weight": -1.0453651506119634
+                }
+              ]
+            }
+          ],
+          "source_spans": [
+            [
+              36130,
+              36140
+            ],
+            [
+              36130,
+              36140
+            ],
+            [
+              36130,
+              36140
+            ],
+            [
+              36130,
+              36140
+            ],
+            [
+              36130,
+              36140
+            ]
+          ],
+          "qualifier": "Real-sum gap invariant under identical legal suffix; float additions monotone so truth cannot overtake, although scores may round to ties."
+        }
+      ],
+      "unreconverged": null,
+      "prefix_length": 716,
+      "true_literal_positions": [
+        5,
+        24,
+        112,
+        346,
+        347,
+        365,
+        399,
+        464,
+        502,
+        584,
+        692,
+        706
+      ],
+      "wrong_literal_positions": [
+        5,
+        24,
+        112,
+        346,
+        347,
+        365,
+        399,
+        464,
+        498,
+        586,
+        692,
+        706
+      ],
+      "total_wrong_minus_true": 1.7038892216564818
+    },
+    {
+      "model": "p03",
+      "id": "fresh-mill-1",
+      "segments": [],
+      "unreconverged": {
+        "start": 514,
+        "true_final_state": [
+          5,
+          1,
+          29
+        ],
+        "wrong_final_state": [
+          4,
+          0,
+          29
+        ],
+        "true_score": -1628.8675480956986,
+        "wrong_score": -1625.7982832129585
+      },
+      "prefix_length": 515,
+      "true_literal_positions": [
+        79,
+        178,
+        236,
+        299
+      ],
+      "wrong_literal_positions": [
+        79,
+        178,
+        236,
+        299,
+        514
+      ],
+      "total_wrong_minus_true": 3.0692648827400717
+    },
+    {
+      "model": "complementary",
+      "id": "fresh-shelley-2",
+      "segments": [
+        {
+          "start": 498,
+          "reconverged_after": 504,
+          "state": [
+            496,
+            24,
+            2
+          ],
+          "true_segment_weight": -30.16694287111631,
+          "wrong_segment_weight": -28.285209332414965,
+          "wrong_minus_true": 1.8817335387013403,
+          "true_rows": [
+            {
+              "i": 498,
+              "cipher": 0,
+              "literal": false,
+              "emitted": 2,
+              "before": [
+                490,
+                3,
+                9
+              ],
+              "after": [
+                491,
+                2,
+                29
+              ],
+              "consumed": 491,
+              "local_weight": -14.353571354060847,
+              "total": -1292.0782579766928,
+              "contributions": [
+                {
+                  "context": [
+                    3,
+                    9
+                  ],
+                  "emitted": 2,
+                  "weight": -11.953337570720485
+                },
+                {
+                  "context": [
+                    9,
+                    2
+                  ],
+                  "emitted": 29,
+                  "weight": -2.400233783340362
+                }
+              ]
+            },
+            {
+              "i": 499,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 8,
+              "before": [
+                491,
+                2,
+                29
+              ],
+              "after": [
+                492,
+                29,
+                8
+              ],
+              "consumed": 492,
+              "local_weight": -2.254804417905408,
+              "total": -1294.3330623945983,
+              "contributions": [
+                {
+                  "context": [
+                    2,
+                    29
+                  ],
+                  "emitted": 8,
+                  "weight": -2.254804417905408
+                }
+              ]
+            },
+            {
+              "i": 500,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 18,
+              "before": [
+                492,
+                29,
+                8
+              ],
+              "after": [
+                493,
+                8,
+                18
+              ],
+              "consumed": 493,
+              "local_weight": -1.4946594349940168,
+              "total": -1295.8277218295923,
+              "contributions": [
+                {
+                  "context": [
+                    29,
+                    8
+                  ],
+                  "emitted": 18,
+                  "weight": -1.4946594349940168
+                }
+              ]
+            },
+            {
+              "i": 501,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 4,
+              "before": [
+                493,
+                8,
+                18
+              ],
+              "after": [
+                494,
+                4,
+                29
+              ],
+              "consumed": 494,
+              "local_weight": -3.0289730211510957,
+              "total": -1298.8566948507435,
+              "contributions": [
+                {
+                  "context": [
+                    8,
+                    18
+                  ],
+                  "emitted": 4,
+                  "weight": -1.9944054883829623
+                },
+                {
+                  "context": [
+                    18,
+                    4
+                  ],
+                  "emitted": 29,
+                  "weight": -1.0345675327681334
+                }
+              ]
+            },
+            {
+              "i": 502,
+              "cipher": 0,
+              "literal": true,
+              "emitted": 0,
+              "before": [
+                494,
+                4,
+                29
+              ],
+              "after": [
+                494,
+                29,
+                0
+              ],
+              "consumed": 494,
+              "local_weight": -3.8752391079920065,
+              "total": -1302.7319339587355,
+              "contributions": [
+                {
+                  "context": [
+                    4,
+                    29
+                  ],
+                  "emitted": 0,
+                  "weight": -3.8752391079920065
+                }
+              ]
+            },
+            {
+              "i": 503,
+              "cipher": 3,
+              "literal": false,
+              "emitted": 24,
+              "before": [
+                494,
+                29,
+                0
+              ],
+              "after": [
+                495,
+                0,
+                24
+              ],
+              "consumed": 495,
+              "local_weight": -1.8665827628666627,
+              "total": -1304.5985167216022,
+              "contributions": [
+                {
+                  "context": [
+                    29,
+                    0
+                  ],
+                  "emitted": 24,
+                  "weight": -1.8665827628666627
+                }
+              ]
+            },
+            {
+              "i": 504,
+              "cipher": 22,
+              "literal": false,
+              "emitted": 2,
+              "before": [
+                495,
+                0,
+                24
+              ],
+              "after": [
+                496,
+                24,
+                2
+              ],
+              "consumed": 496,
+              "local_weight": -3.2931127721462703,
+              "total": -1307.8916294937485,
+              "contributions": [
+                {
+                  "context": [
+                    0,
+                    24
+                  ],
+                  "emitted": 2,
+                  "weight": -3.2931127721462703
+                }
+              ]
+            }
+          ],
+          "wrong_rows": [
+            {
+              "i": 498,
+              "cipher": 0,
+              "literal": true,
+              "emitted": 0,
+              "before": [
+                490,
+                3,
+                9
+              ],
+              "after": [
+                490,
+                0,
+                29
+              ],
+              "consumed": 490,
+              "local_weight": -5.315574012283383,
+              "total": -1283.0402606349153,
+              "contributions": [
+                {
+                  "context": [
+                    3,
+                    9
+                  ],
+                  "emitted": 0,
+                  "weight": -3.438007321232961
+                },
+                {
+                  "context": [
+                    9,
+                    0
+                  ],
+                  "emitted": 29,
+                  "weight": -1.877566691050422
+                }
+              ]
+            },
+            {
+              "i": 499,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 18,
+              "before": [
+                490,
+                0,
+                29
+              ],
+              "after": [
+                491,
+                29,
+                18
+              ],
+              "consumed": 491,
+              "local_weight": -3.238693867848506,
+              "total": -1286.2789545027638,
+              "contributions": [
+                {
+                  "context": [
+                    0,
+                    29
+                  ],
+                  "emitted": 18,
+                  "weight": -3.238693867848506
+                }
+              ]
+            },
+            {
+              "i": 500,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 8,
+              "before": [
+                491,
+                29,
+                18
+              ],
+              "after": [
+                492,
+                18,
+                8
+              ],
+              "consumed": 492,
+              "local_weight": -8.354109518879948,
+              "total": -1294.6330640216438,
+              "contributions": [
+                {
+                  "context": [
+                    29,
+                    18
+                  ],
+                  "emitted": 8,
+                  "weight": -8.354109518879948
+                }
+              ]
+            },
+            {
+              "i": 501,
+              "cipher": 16,
+              "literal": false,
+              "emitted": 18,
+              "before": [
+                492,
+                18,
+                8
+              ],
+              "after": [
+                493,
+                18,
+                29
+              ],
+              "consumed": 493,
+              "local_weight": -3.1704275665685575,
+              "total": -1297.8034915882124,
+              "contributions": [
+                {
+                  "context": [
+                    18,
+                    8
+                  ],
+                  "emitted": 18,
+                  "weight": -2.4676507334426168
+                },
+                {
+                  "context": [
+                    8,
+                    18
+                  ],
+                  "emitted": 29,
+                  "weight": -0.7027768331259409
+                }
+              ]
+            },
+            {
+              "i": 502,
+              "cipher": 0,
+              "literal": false,
+              "emitted": 17,
+              "before": [
+                493,
+                18,
+                29
+              ],
+              "after": [
+                494,
+                29,
+                17
+              ],
+              "consumed": 494,
+              "local_weight": -3.0901793874655477,
+              "total": -1300.8936709756779,
+              "contributions": [
+                {
+                  "context": [
+                    18,
+                    29
+                  ],
+                  "emitted": 17,
+                  "weight": -3.0901793874655477
+                }
+              ]
+            },
+            {
+              "i": 503,
+              "cipher": 3,
+              "literal": false,
+              "emitted": 24,
+              "before": [
+                494,
+                29,
+                17
+              ],
+              "after": [
+                495,
+                17,
+                24
+              ],
+              "consumed": 495,
+              "local_weight": -3.056520315039716,
+              "total": -1303.9501912907176,
+              "contributions": [
+                {
+                  "context": [
+                    29,
+                    17
+                  ],
+                  "emitted": 24,
+                  "weight": -3.056520315039716
+                }
+              ]
+            },
+            {
+              "i": 504,
+              "cipher": 22,
+              "literal": false,
+              "emitted": 2,
+              "before": [
+                495,
+                17,
+                24
+              ],
+              "after": [
+                496,
+                24,
+                2
+              ],
+              "consumed": 496,
+              "local_weight": -2.059704664329308,
+              "total": -1306.0098959550469,
+              "contributions": [
+                {
+                  "context": [
+                    17,
+                    24
+                  ],
+                  "emitted": 2,
+                  "weight": -2.059704664329308
+                }
+              ]
+            }
+          ],
+          "source_spans": [
+            [
+              36011,
+              36016
+            ],
+            [
+              36017,
+              36020
+            ],
+            [
+              36017,
+              36020
+            ],
+            [
+              36017,
+              36020
+            ],
+            [
+              36021,
+              36027
+            ],
+            [
+              36021,
+              36027
+            ],
+            [
+              36021,
+              36027
+            ]
+          ],
+          "qualifier": "Real-sum gap invariant under identical legal suffix; float additions monotone so truth cannot overtake, although scores may round to ties."
+        }
+      ],
+      "unreconverged": null,
+      "prefix_length": 716,
+      "true_literal_positions": [
+        5,
+        24,
+        112,
+        346,
+        347,
+        365,
+        399,
+        464,
+        502,
+        584,
+        692,
+        706
+      ],
+      "wrong_literal_positions": [
+        5,
+        24,
+        112,
+        346,
+        347,
+        365,
+        399,
+        464,
+        498,
+        584,
+        692,
+        706
+      ],
+      "total_wrong_minus_true": 1.88173353870161
+    },
+    {
+      "model": "complementary",
+      "id": "fresh-mill-1",
+      "segments": [],
+      "unreconverged": {
+        "start": 514,
+        "true_final_state": [
+          5,
+          1,
+          29
+        ],
+        "wrong_final_state": [
+          4,
+          0,
+          29
+        ],
+        "true_score": -1327.583044264697,
+        "wrong_score": -1325.2036215008316
+      },
+      "prefix_length": 515,
+      "true_literal_positions": [
+        79,
+        178,
+        236,
+        299
+      ],
+      "wrong_literal_positions": [
+        79,
+        178,
+        236,
+        299,
+        514
+      ],
+      "total_wrong_minus_true": 2.3794227638654775
+    }
+  ],
+  "random_suffix_checks": 150,
+  "seed": 260917208,
+  "seconds": 0.21116908299882198,
+  "claim": "At a common state, identical future legal decisions and weights are available. If a wrong history has greater score, every completion of the true history has a no-lower-scoring wrong counterpart. Extra unchanged suffix cannot make the true history uniquely optimal; floating arithmetic may tie. Applies only to current local score/state/key, not richer scorers or corrected source assumptions."
+}

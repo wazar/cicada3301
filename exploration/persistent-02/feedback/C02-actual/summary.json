@@ -1,0 +1,27 @@
+{
+  "panels": 20,
+  "solves": 160,
+  "actual_full_lower": -4.598055230962724,
+  "actual_full_upper": -4.598055230962724,
+  "full_rank_interval": [
+    0.2,
+    0.2
+  ],
+  "full_procedure_rank": 0.2,
+  "actual_prefix_selected_seed": [
+    27,
+    16,
+    6,
+    27,
+    10,
+    23,
+    7,
+    12
+  ],
+  "actual_prefix_selected_k": 8,
+  "actual_continuation_score": -5.12994129963444,
+  "continuation_procedure_rank": 0.8,
+  "all_numerically_certified": true,
+  "total_solver_seconds": 12.587879169055668,
+  "max_peak_rss_bytes": 265486336
+}

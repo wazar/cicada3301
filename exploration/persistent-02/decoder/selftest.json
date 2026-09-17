@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "cases": 4836,
+  "legal_cases": 3374,
+  "exhausted_cases": 1462,
+  "exhaustive_paths": 22643,
+  "prototype_comparisons": 3374,
+  "existing_kbest_comparisons": 2378,
+  "enumeration_sha256": "4a4c64fcfceaf1ff9f0449aa3b1ae9b0aff0271aead5418ad3ea53add6932bed",
+  "seconds": 0.20499537500290899,
+  "maxrss_bytes": 33046528,
+  "scope": "Independent mask enumeration; integer-valued float objective exact ties. Both signs, all starts, periodic/finite, consecutive F, boundaries, zero-key ambiguity, exhaustion, empty input."
+}

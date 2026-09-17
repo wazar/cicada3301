@@ -1,0 +1,678 @@
+[
+  {
+    "model": "p03",
+    "source": "liber-primus/data/keys/armada19/shelley_frankenstein.txt",
+    "source_words": "month her father",
+    "source_spans": [
+      [
+        36011,
+        36016
+      ],
+      [
+        36017,
+        36020
+      ],
+      [
+        36021,
+        36027
+      ]
+    ],
+    "start": 498,
+    "reconverged_after": 504,
+    "wrong_minus_true": 1.4855086616007913,
+    "rows": [
+      {
+        "rune": 498,
+        "truth": "TH",
+        "wrong": "F",
+        "truth_literal": false,
+        "wrong_literal": true,
+        "truth_contributions": [
+          {
+            "context": [
+              "O",
+              "N"
+            ],
+            "emitted": "TH",
+            "weight": -7.43016190545935
+          },
+          {
+            "context": [
+              "N",
+              "TH"
+            ],
+            "emitted": "BOUNDARY",
+            "weight": -2.0486575797877915
+          }
+        ],
+        "wrong_contributions": [
+          {
+            "context": [
+              "O",
+              "N"
+            ],
+            "emitted": "F",
+            "weight": -2.749243195388967
+          },
+          {
+            "context": [
+              "N",
+              "F"
+            ],
+            "emitted": "BOUNDARY",
+            "weight": -1.6419722152743979
+          }
+        ],
+        "weight_difference": 5.087604074583776
+      },
+      {
+        "rune": 499,
+        "truth": "H",
+        "wrong": "E",
+        "truth_literal": false,
+        "wrong_literal": false,
+        "truth_contributions": [
+          {
+            "context": [
+              "TH",
+              "BOUNDARY"
+            ],
+            "emitted": "H",
+            "weight": -4.380224549662183
+          }
+        ],
+        "wrong_contributions": [
+          {
+            "context": [
+              "F",
+              "BOUNDARY"
+            ],
+            "emitted": "E",
+            "weight": -4.75735862414455
+          }
+        ],
+        "weight_difference": -0.3771340744823668
+      },
+      {
+        "rune": 500,
+        "truth": "E",
+        "wrong": "H",
+        "truth_literal": false,
+        "wrong_literal": false,
+        "truth_contributions": [
+          {
+            "context": [
+              "BOUNDARY",
+              "H"
+            ],
+            "emitted": "E",
+            "weight": -0.5783325333421531
+          }
+        ],
+        "wrong_contributions": [
+          {
+            "context": [
+              "BOUNDARY",
+              "E"
+            ],
+            "emitted": "H",
+            "weight": -5.912625951137497
+          }
+        ],
+        "weight_difference": -5.334293417795344
+      },
+      {
+        "rune": 501,
+        "truth": "R",
+        "wrong": "E",
+        "truth_literal": false,
+        "wrong_literal": false,
+        "truth_contributions": [
+          {
+            "context": [
+              "H",
+              "E"
+            ],
+            "emitted": "R",
+            "weight": -1.1353124549233358
+          },
+          {
+            "context": [
+              "E",
+              "R"
+            ],
+            "emitted": "BOUNDARY",
+            "weight": -1.0621774625196734
+          }
+        ],
+        "wrong_contributions": [
+          {
+            "context": [
+              "E",
+              "H"
+            ],
+            "emitted": "E",
+            "weight": -1.65449456040387
+          },
+          {
+            "context": [
+              "H",
+              "E"
+            ],
+            "emitted": "BOUNDARY",
+            "weight": -1.0693321713660995
+          }
+        ],
+        "weight_difference": -0.5263368143269607
+      },
+      {
+        "rune": 502,
+        "truth": "F",
+        "wrong": "B",
+        "truth_literal": true,
+        "wrong_literal": false,
+        "truth_contributions": [
+          {
+            "context": [
+              "R",
+              "BOUNDARY"
+            ],
+            "emitted": "F",
+            "weight": -5.704527433283813
+          }
+        ],
+        "wrong_contributions": [
+          {
+            "context": [
+              "E",
+              "BOUNDARY"
+            ],
+            "emitted": "B",
+            "weight": -3.320022072705988
+          }
+        ],
+        "weight_difference": 2.384505360577825
+      },
+      {
+        "rune": 503,
+        "truth": "A",
+        "wrong": "A",
+        "truth_literal": false,
+        "wrong_literal": false,
+        "truth_contributions": [
+          {
+            "context": [
+              "BOUNDARY",
+              "F"
+            ],
+            "emitted": "A",
+            "weight": -5.630005505735342
+          }
+        ],
+        "wrong_contributions": [
+          {
+            "context": [
+              "BOUNDARY",
+              "B"
+            ],
+            "emitted": "A",
+            "weight": -5.196520415897527
+          }
+        ],
+        "weight_difference": 0.43348508983781553
+      },
+      {
+        "rune": 504,
+        "truth": "TH",
+        "wrong": "TH",
+        "truth_literal": false,
+        "wrong_literal": false,
+        "truth_contributions": [
+          {
+            "context": [
+              "F",
+              "A"
+            ],
+            "emitted": "TH",
+            "weight": -6.455847333468817
+          }
+        ],
+        "wrong_contributions": [
+          {
+            "context": [
+              "B",
+              "A"
+            ],
+            "emitted": "TH",
+            "weight": -6.638168890262771
+          }
+        ],
+        "weight_difference": -0.182321556793954
+      }
+    ]
+  },
+  {
+    "model": "p03",
+    "source": "liber-primus/data/keys/armada19/shelley_frankenstein.txt",
+    "source_words": "Beaufort\u2019s",
+    "source_spans": [
+      [
+        36130,
+        36140
+      ]
+    ],
+    "start": 584,
+    "reconverged_after": 588,
+    "wrong_minus_true": 0.21838056005531414,
+    "rows": [
+      {
+        "rune": 584,
+        "truth": "F",
+        "wrong": "IA",
+        "truth_literal": true,
+        "wrong_literal": false,
+        "truth_contributions": [
+          {
+            "context": [
+              "EA",
+              "U"
+            ],
+            "emitted": "F",
+            "weight": -4.537317153982138
+          }
+        ],
+        "wrong_contributions": [
+          {
+            "context": [
+              "EA",
+              "U"
+            ],
+            "emitted": "IA",
+            "weight": -3.9183062786023086
+          }
+        ],
+        "weight_difference": 0.6190108753798294
+      },
+      {
+        "rune": 585,
+        "truth": "O",
+        "wrong": "N",
+        "truth_literal": false,
+        "wrong_literal": false,
+        "truth_contributions": [
+          {
+            "context": [
+              "U",
+              "F"
+            ],
+            "emitted": "O",
+            "weight": -1.6926962627871183
+          }
+        ],
+        "wrong_contributions": [
+          {
+            "context": [
+              "U",
+              "IA"
+            ],
+            "emitted": "N",
+            "weight": -0.9969403301979352
+          }
+        ],
+        "weight_difference": 0.6957559325891831
+      },
+      {
+        "rune": 586,
+        "truth": "R",
+        "wrong": "F",
+        "truth_literal": false,
+        "wrong_literal": true,
+        "truth_contributions": [
+          {
+            "context": [
+              "F",
+              "O"
+            ],
+            "emitted": "R",
+            "weight": -1.3354869932655016
+          }
+        ],
+        "wrong_contributions": [
+          {
+            "context": [
+              "IA",
+              "N"
+            ],
+            "emitted": "F",
+            "weight": -5.207603790396782
+          }
+        ],
+        "weight_difference": -3.87211679713128
+      },
+      {
+        "rune": 587,
+        "truth": "T",
+        "wrong": "T",
+        "truth_literal": false,
+        "wrong_literal": false,
+        "truth_contributions": [
+          {
+            "context": [
+              "O",
+              "R"
+            ],
+            "emitted": "T",
+            "weight": -6.04454830352959
+          }
+        ],
+        "wrong_contributions": [
+          {
+            "context": [
+              "N",
+              "F"
+            ],
+            "emitted": "T",
+            "weight": -3.1146670744847498
+          }
+        ],
+        "weight_difference": 2.92988122904484
+      },
+      {
+        "rune": 588,
+        "truth": "S",
+        "wrong": "S",
+        "truth_literal": false,
+        "wrong_literal": false,
+        "truth_contributions": [
+          {
+            "context": [
+              "R",
+              "T"
+            ],
+            "emitted": "S",
+            "weight": -5.945167620551557
+          },
+          {
+            "context": [
+              "T",
+              "S"
+            ],
+            "emitted": "BOUNDARY",
+            "weight": -1.0453651506119634
+          }
+        ],
+        "wrong_contributions": [
+          {
+            "context": [
+              "F",
+              "T"
+            ],
+            "emitted": "S",
+            "weight": -6.099318300378815
+          },
+          {
+            "context": [
+              "T",
+              "S"
+            ],
+            "emitted": "BOUNDARY",
+            "weight": -1.0453651506119634
+          }
+        ],
+        "weight_difference": -0.15415067982725805
+      }
+    ]
+  },
+  {
+    "model": "complementary",
+    "source": "liber-primus/data/keys/armada19/shelley_frankenstein.txt",
+    "source_words": "month her father",
+    "source_spans": [
+      [
+        36011,
+        36016
+      ],
+      [
+        36017,
+        36020
+      ],
+      [
+        36021,
+        36027
+      ]
+    ],
+    "start": 498,
+    "reconverged_after": 504,
+    "wrong_minus_true": 1.8817335387013403,
+    "rows": [
+      {
+        "rune": 498,
+        "truth": "TH",
+        "wrong": "F",
+        "truth_literal": false,
+        "wrong_literal": true,
+        "truth_contributions": [
+          {
+            "context": [
+              "O",
+              "N"
+            ],
+            "emitted": "TH",
+            "weight": -11.953337570720485
+          },
+          {
+            "context": [
+              "N",
+              "TH"
+            ],
+            "emitted": "BOUNDARY",
+            "weight": -2.400233783340362
+          }
+        ],
+        "wrong_contributions": [
+          {
+            "context": [
+              "O",
+              "N"
+            ],
+            "emitted": "F",
+            "weight": -3.438007321232961
+          },
+          {
+            "context": [
+              "N",
+              "F"
+            ],
+            "emitted": "BOUNDARY",
+            "weight": -1.877566691050422
+          }
+        ],
+        "weight_difference": 9.037997341777464
+      },
+      {
+        "rune": 499,
+        "truth": "H",
+        "wrong": "E",
+        "truth_literal": false,
+        "wrong_literal": false,
+        "truth_contributions": [
+          {
+            "context": [
+              "TH",
+              "BOUNDARY"
+            ],
+            "emitted": "H",
+            "weight": -2.254804417905408
+          }
+        ],
+        "wrong_contributions": [
+          {
+            "context": [
+              "F",
+              "BOUNDARY"
+            ],
+            "emitted": "E",
+            "weight": -3.238693867848506
+          }
+        ],
+        "weight_difference": -0.9838894499430979
+      },
+      {
+        "rune": 500,
+        "truth": "E",
+        "wrong": "H",
+        "truth_literal": false,
+        "wrong_literal": false,
+        "truth_contributions": [
+          {
+            "context": [
+              "BOUNDARY",
+              "H"
+            ],
+            "emitted": "E",
+            "weight": -1.4946594349940168
+          }
+        ],
+        "wrong_contributions": [
+          {
+            "context": [
+              "BOUNDARY",
+              "E"
+            ],
+            "emitted": "H",
+            "weight": -8.354109518879948
+          }
+        ],
+        "weight_difference": -6.859450083885932
+      },
+      {
+        "rune": 501,
+        "truth": "R",
+        "wrong": "E",
+        "truth_literal": false,
+        "wrong_literal": false,
+        "truth_contributions": [
+          {
+            "context": [
+              "H",
+              "E"
+            ],
+            "emitted": "R",
+            "weight": -1.9944054883829623
+          },
+          {
+            "context": [
+              "E",
+              "R"
+            ],
+            "emitted": "BOUNDARY",
+            "weight": -1.0345675327681334
+          }
+        ],
+        "wrong_contributions": [
+          {
+            "context": [
+              "E",
+              "H"
+            ],
+            "emitted": "E",
+            "weight": -2.4676507334426168
+          },
+          {
+            "context": [
+              "H",
+              "E"
+            ],
+            "emitted": "BOUNDARY",
+            "weight": -0.7027768331259409
+          }
+        ],
+        "weight_difference": -0.14145454541746183
+      },
+      {
+        "rune": 502,
+        "truth": "F",
+        "wrong": "B",
+        "truth_literal": true,
+        "wrong_literal": false,
+        "truth_contributions": [
+          {
+            "context": [
+              "R",
+              "BOUNDARY"
+            ],
+            "emitted": "F",
+            "weight": -3.8752391079920065
+          }
+        ],
+        "wrong_contributions": [
+          {
+            "context": [
+              "E",
+              "BOUNDARY"
+            ],
+            "emitted": "B",
+            "weight": -3.0901793874655477
+          }
+        ],
+        "weight_difference": 0.7850597205264589
+      },
+      {
+        "rune": 503,
+        "truth": "A",
+        "wrong": "A",
+        "truth_literal": false,
+        "wrong_literal": false,
+        "truth_contributions": [
+          {
+            "context": [
+              "BOUNDARY",
+              "F"
+            ],
+            "emitted": "A",
+            "weight": -1.8665827628666627
+          }
+        ],
+        "wrong_contributions": [
+          {
+            "context": [
+              "BOUNDARY",
+              "B"
+            ],
+            "emitted": "A",
+            "weight": -3.056520315039716
+          }
+        ],
+        "weight_difference": -1.1899375521730533
+      },
+      {
+        "rune": 504,
+        "truth": "TH",
+        "wrong": "TH",
+        "truth_literal": false,
+        "wrong_literal": false,
+        "truth_contributions": [
+          {
+            "context": [
+              "F",
+              "A"
+            ],
+            "emitted": "TH",
+            "weight": -3.2931127721462703
+          }
+        ],
+        "wrong_contributions": [
+          {
+            "context": [
+              "B",
+              "A"
+            ],
+            "emitted": "TH",
+            "weight": -2.059704664329308
+          }
+        ],
+        "weight_difference": 1.2334081078169623
+      }
+    ]
+  }
+]

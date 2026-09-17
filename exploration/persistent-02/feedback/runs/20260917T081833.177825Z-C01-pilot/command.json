@@ -1,0 +1,65 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/feedback/extend.py",
+    "pilot"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T08:18:33.189591+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q12-sum-autokey/test.py",
+      "exists": true,
+      "bytes": 6753,
+      "sha256": "aabb5dd9e171136f7464d07ad4ccf3f33aefcd9ee683e69c0702d36832f366b6"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p03_frozen.py",
+      "exists": true,
+      "bytes": 6350,
+      "sha256": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-02/feedback/extend.py",
+      "exists": true,
+      "bytes": 4034,
+      "sha256": "d4df287182d701d271b797e4d2fb344b31264f53cc251ad1b42483b00895afe2"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    },
+    {
+      "path": "liber-primus/analysis/round12/C1/feedback.py",
+      "exists": true,
+      "bytes": 5619,
+      "sha256": "debb2db843f884d0abf6d064e56389523c8cb050f1e7dcd817a3d5942ea1fb66"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 33062,
+  "finished_utc": "2026-09-17T08:18:33.753563+00:00",
+  "duration_seconds": 0.5636210000011488
+}

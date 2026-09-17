@@ -1,0 +1,28 @@
+{
+  "deadline_utc": "2026-09-17T16:15:06Z",
+  "updated_utc": "2026-09-17T09:06:12.350410+00:00",
+  "running": {
+    "A": "A06 fixed-F comparator sensitivity; A07 major-mark reset controls",
+    "C": "C06 complementary literal-F feedback; C07 page-invariant controls",
+    "reviewer": "review04 C07 calibration and A07 reset algorithm"
+  },
+  "paused": {
+    "B": "B01\u2013B08 complete and independently reviewed; available for justified follow-up"
+  },
+  "ready": [
+    "A07 actual and unchanged continuation after arithmetic review",
+    "C07 eligible-page actual after calibration review"
+  ],
+  "completed": [
+    "A01\u2013A05 section procedures and continuation forests",
+    "B01\u2013B08 exact/beam, references, fresh controls, posterior and state dominance",
+    "C01 remaining42page k2\u20134 seed gap",
+    "C02 structured longer seeds",
+    "C03 frozen-seed continuation",
+    "C04 section invariant",
+    "C05 literal-F sum-feedback",
+    "review01",
+    "review02",
+    "review03"
+  ]
+}

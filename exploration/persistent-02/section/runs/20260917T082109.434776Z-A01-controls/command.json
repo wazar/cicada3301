@@ -1,0 +1,72 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/section/a01.py",
+    "--batch",
+    "controls"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T08:21:09.445845+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/worker-c/frozen_kbest.py",
+      "exists": true,
+      "bytes": 1440,
+      "sha256": "bdd54bf0fdbd07f9115e9354ae7ef3e913b554a5d2f6a5587f4ae21c328f5390"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p03_frozen.py",
+      "exists": true,
+      "bytes": 6350,
+      "sha256": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    },
+    {
+      "path": "exploration/persistent-02/section/a01.py",
+      "exists": true,
+      "bytes": 6208,
+      "sha256": "6ffbc4574887c21688365080b57e8cda3fa690231f8e9b6f3a9352b3ebe7b08c"
+    },
+    {
+      "path": "exploration/persistent-02/section/freeze_packet.py",
+      "exists": true,
+      "bytes": 4997,
+      "sha256": "9a868d2a8601365c058f171cebda64e058ec91ebafb24b09905eebf80bd5011b"
+    },
+    {
+      "path": "exploration/persistent-02/section/key-grid.json",
+      "exists": true,
+      "bytes": 1615,
+      "sha256": "a01f9d803564078e3bfef07c075889652ccc0e69d11b96ca9e91c6cc7b53c828"
+    },
+    {
+      "path": "exploration/persistent-02/section/section-packet.json",
+      "exists": true,
+      "bytes": 193543,
+      "sha256": "c6c361e06a0b56ff067398e038acf8594151f17f7c8304cf78c1f41fe80a4060"
+    }
+  ],
+  "outcome": "NONZERO",
+  "exit_code": 1,
+  "pid": 33743,
+  "finished_utc": "2026-09-17T08:21:09.936522+00:00",
+  "duration_seconds": 0.4903849580005044
+}

@@ -1,0 +1,730 @@
+{
+  "references": {
+    "cases": 3,
+    "exact_seconds": 0.40840866600046866,
+    "beams": {
+      "64": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 0.012316457003180403
+      },
+      "256": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 0.0386192910009413
+      },
+      "1024": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 0.14225112500571413
+      }
+    },
+    "truth": [
+      {
+        "id": "reference-0_welcome",
+        "score": -2.2641914903243716,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "reference-jpg107-167",
+        "score": -2.0614024146659866,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "reference-p56_an_end",
+        "score": -2.475484466936424,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      }
+    ]
+  },
+  "fresh": {
+    "cases": 12,
+    "exact_seconds": 13.306352125007834,
+    "beams": {
+      "64": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 0.11588124901027186
+      },
+      "256": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 0.4053383750215289
+      },
+      "1024": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 1.5219662899835384
+      }
+    },
+    "truth": [
+      {
+        "id": "fresh-blake-0",
+        "score": -2.673256254567298,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-blake-1",
+        "score": -2.359226861535845,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-blake-2",
+        "score": -2.523078655979239,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-guest-0",
+        "score": -2.6670384276481953,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-guest-1",
+        "score": -2.479010928622911,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-guest-2",
+        "score": -2.5665079945152707,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-mill-0",
+        "score": -2.692139615008026,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-mill-1",
+        "score": -2.610364660409773,
+        "best_errors": 1,
+        "top_path_plaintext_matches": [
+          2
+        ],
+        "strictly_higher_path_count": 1,
+        "rank_is_exact": true,
+        "competition_rank": 2,
+        "rank_lower_bound": 2,
+        "best_gap": 0.004918693722339551,
+        "beam_errors": {
+          "64": 1,
+          "256": 1,
+          "1024": 1
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-mill-2",
+        "score": -2.5506353003623405,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-shelley-0",
+        "score": -2.7851530992913784,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-shelley-1",
+        "score": -2.621662505532542,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-shelley-2",
+        "score": -2.6865552393972294,
+        "best_errors": 8,
+        "top_path_plaintext_matches": [
+          4
+        ],
+        "strictly_higher_path_count": 3,
+        "rank_is_exact": true,
+        "competition_rank": 4,
+        "rank_lower_bound": 4,
+        "best_gap": 0.0019473019676072845,
+        "beam_errors": {
+          "64": 8,
+          "256": 8,
+          "1024": 8
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      }
+    ]
+  },
+  "section": {
+    "cases": 84,
+    "exact_seconds": 3.818683372970554,
+    "beams": {
+      "64": {
+        "misses": 61,
+        "max_gap": 0.04701312207608943,
+        "seconds": 1.2843753400302376
+      },
+      "256": {
+        "misses": 47,
+        "max_gap": 0.02308194537152719,
+        "seconds": 4.849453785005608
+      },
+      "1024": {
+        "misses": 31,
+        "max_gap": 0.019278916474001484,
+        "seconds": 18.789002884033835
+      }
+    },
+    "body": {
+      "best": -4.7526582668882424,
+      "best_id": "section-body-WELCOME-DIVINITY-3-1",
+      "global_distinct_retained": 16,
+      "scope": "top16 distinct among retained celltop16, not globally certified top16 distinct plaintexts"
+    },
+    "whole": {
+      "best": -4.743326437573565,
+      "best_id": "section-whole-KOAN-CIRCUMFERENCE-3--1",
+      "global_distinct_retained": 16,
+      "scope": "top16 distinct among retained celltop16, not globally certified top16 distinct plaintexts"
+    }
+  },
+  "complementary-references": {
+    "cases": 3,
+    "exact_seconds": 0.3474150839901995,
+    "beams": {
+      "64": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 0.011693666994688101
+      },
+      "256": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 0.03720758400595514
+      },
+      "1024": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 0.13591741600248497
+      }
+    },
+    "truth": [
+      {
+        "id": "reference-0_welcome",
+        "score": -2.057120065554145,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "reference-jpg107-167",
+        "score": -1.8610774769785923,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "reference-p56_an_end",
+        "score": -2.1442230694832,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      }
+    ]
+  },
+  "complementary-fresh": {
+    "cases": 12,
+    "exact_seconds": 12.918130208992807,
+    "beams": {
+      "64": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 0.11842237701057456
+      },
+      "256": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 0.4196916659930139
+      },
+      "1024": {
+        "misses": 0,
+        "max_gap": 0.0,
+        "seconds": 1.5141088319942355
+      }
+    },
+    "truth": [
+      {
+        "id": "fresh-blake-0",
+        "score": -2.1290534789873816,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-blake-1",
+        "score": -2.0903473015456444,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-blake-2",
+        "score": -2.1490898455941068,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-guest-0",
+        "score": -2.4098860752164417,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-guest-1",
+        "score": -2.1023694584624626,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-guest-2",
+        "score": -1.992313577939344,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-mill-0",
+        "score": -2.0612354513835984,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-mill-1",
+        "score": -2.1275369299113733,
+        "best_errors": 1,
+        "top_path_plaintext_matches": [
+          2
+        ],
+        "strictly_higher_path_count": 1,
+        "rank_is_exact": true,
+        "competition_rank": 2,
+        "rank_lower_bound": 2,
+        "best_gap": 0.003813177506194698,
+        "beam_errors": {
+          "64": 1,
+          "256": 1,
+          "1024": 1
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-mill-2",
+        "score": -2.081960596813646,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-shelley-0",
+        "score": -2.106013228840159,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-shelley-1",
+        "score": -2.0573162370332154,
+        "best_errors": 0,
+        "top_path_plaintext_matches": [
+          1
+        ],
+        "strictly_higher_path_count": 0,
+        "rank_is_exact": true,
+        "competition_rank": 1,
+        "rank_lower_bound": 1,
+        "best_gap": 0.0,
+        "beam_errors": {
+          "64": 0,
+          "256": 0,
+          "1024": 0
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      },
+      {
+        "id": "fresh-shelley-2",
+        "score": -2.1112694132036895,
+        "best_errors": 5,
+        "top_path_plaintext_matches": [
+          2
+        ],
+        "strictly_higher_path_count": 1,
+        "rank_is_exact": true,
+        "competition_rank": 2,
+        "rank_lower_bound": 2,
+        "best_gap": 0.002150552615659329,
+        "beam_errors": {
+          "64": 5,
+          "256": 5,
+          "1024": 5
+        },
+        "note": "Rank counts decision paths, not distinct plaintexts; tolerance1e-12 used for truth rank comparisons."
+      }
+    ]
+  },
+  "complementary-section": {
+    "cases": 84,
+    "exact_seconds": 3.7164165820067865,
+    "beams": {
+      "64": {
+        "misses": 21,
+        "max_gap": 0.08725494581812221,
+        "seconds": 1.2752305859758053
+      },
+      "256": {
+        "misses": 5,
+        "max_gap": 0.06917941288071816,
+        "seconds": 4.899028875006479
+      },
+      "1024": {
+        "misses": 4,
+        "max_gap": 0.033494114395336005,
+        "seconds": 19.002652836010384
+      }
+    },
+    "body": {
+      "best": -5.509733986227161,
+      "best_id": "section-body-KOAN-CIRCUMFERENCE-0--1",
+      "global_distinct_retained": 16,
+      "scope": "top16 distinct among retained celltop16, not globally certified top16 distinct plaintexts"
+    },
+    "whole": {
+      "best": -5.5069149787170115,
+      "best_id": "section-whole-KOAN-CIRCUMFERENCE-1--1",
+      "global_distinct_retained": 16,
+      "scope": "top16 distinct among retained celltop16, not globally certified top16 distinct plaintexts"
+    }
+  }
+}

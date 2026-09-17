@@ -1,0 +1,5 @@
+# A03 follow-up: carry the already frozen alternatives
+
+This is a follow-up within A01/A02's two rule families, not a third cipher hypothesis. A02's WELCOME plant has correct prefix plaintext at rank2 and perfect unchanged continuation from that retained prefix; picking only rank1 falsely makes the working finite stream look unusable. Therefore evaluate continuation across the already frozen16 prefix alternatives. No new keys, branches, cuts, glyphs, language model or plaintext repair.
+
+The descriptive statistic is maximum weighted continuation score over those retained alternatives, separately for each previously declared clock/heading policy. Apply the same selection to all19 existing comparator searches. This follow-up is adaptive to a known control failure; actual top1 results were already seen. Do not call the selection globally untouched or claim its coarse ranks are global discovery probabilities. Selection across alternatives is disclosed; all full outputs remain available. Two independent page suffixes are still reported rather than treating a short fragment as recovery.

@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/review-01/independent_checks.py", line 72, in <module>
+    t=time.monotonic();decoder();structured();print('all passed seconds',time.monotonic()-t)
+                                 ^^^^^^^^^^^^
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/review-01/independent_checks.py", line 67, in structured
+    score=sum(float(W[j,e[j-2],e[j-1],e[j]]) for j in range(m));assert score==alt['score']
+                                                                       ^^^^^^^^^^^^^^^^^^^
+AssertionError

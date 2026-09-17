@@ -1,0 +1,87 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/feedback/extend.py",
+    "pages",
+    "30",
+    "31",
+    "32",
+    "33",
+    "35",
+    "36",
+    "37",
+    "38",
+    "40",
+    "41"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T08:23:36.834571+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q12-sum-autokey/test.py",
+      "exists": true,
+      "bytes": 6753,
+      "sha256": "aabb5dd9e171136f7464d07ad4ccf3f33aefcd9ee683e69c0702d36832f366b6"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p03_frozen.py",
+      "exists": true,
+      "bytes": 6350,
+      "sha256": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-02/feedback/extend.py",
+      "exists": true,
+      "bytes": 4735,
+      "sha256": "9a7245ff8f2844c580645f9cd5148ee80179f0941a86c83ba6f86ffedf0fdd5d"
+    },
+    {
+      "path": "exploration/persistent-02/feedback/section_continuation.py",
+      "exists": true,
+      "bytes": 2659,
+      "sha256": "e9bebd0731971684f1fde02e69bfd186014e9054f2c221753138ba1db51e7a5d"
+    },
+    {
+      "path": "exploration/persistent-02/feedback/structured.py",
+      "exists": true,
+      "bytes": 3567,
+      "sha256": "08540c0bd43ebd9d695360af48f52b58ecefe091fb5abb41de359fa0d3cdf465"
+    },
+    {
+      "path": "exploration/persistent-02/feedback/test_structured.py",
+      "exists": true,
+      "bytes": 2142,
+      "sha256": "7b5c2be7d07c9cb2d567e2a8a34b8e81a18a3926fcfa12b09e01b272aa09f0ce"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 34539,
+  "finished_utc": "2026-09-17T08:25:02.736450+00:00",
+  "duration_seconds": 85.9018656249973
+}

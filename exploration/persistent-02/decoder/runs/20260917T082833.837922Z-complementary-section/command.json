@@ -1,0 +1,101 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/decoder/complementary.py",
+    "section"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T08:28:33.848345+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/decoder/compare.py",
+      "exists": true,
+      "bytes": 5289,
+      "sha256": "bd4c9d7e81bbf4a0c0e6aefbeef5711b1d6c67f25a972b5ae00a9d1ee6571ad5"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/complementary-model.json",
+      "exists": true,
+      "bytes": 482397,
+      "sha256": "4f5382855758f91401808ee50ebcdf9428950686a03cda83c34636c17de271f3"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/complementary.py",
+      "exists": true,
+      "bytes": 3925,
+      "sha256": "5b9f9fc070db43ddbe17d32bf775f80798a2883a822fadda4a5f0c57b097cdea"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/exact.py",
+      "exists": true,
+      "bytes": 3231,
+      "sha256": "770c777d3ad7e767f1876e9d87c970536b92f248b7bfa028f8f8a3f4ccaf5d58"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/float_selftest.py",
+      "exists": true,
+      "bytes": 1935,
+      "sha256": "7f83e480fe79085f1b41ef0949808cb8a220c4d43396acc5a653542b469b7ff7"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/fresh_controls.py",
+      "exists": true,
+      "bytes": 3695,
+      "sha256": "46a186c31b10264db4f82b0fea20e0000a3e4613366766715212d0aef7daee15"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/measure.py",
+      "exists": true,
+      "bytes": 1449,
+      "sha256": "67cffe8e3d0483815dd44336934c1e52b21bcae6382339dd02b6bf898182ebb8"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/rounding_tie_fixture.py",
+      "exists": true,
+      "bytes": 389,
+      "sha256": "fa40996a70e421ae1d5852c8f0dd6d50f02186faed15973cc907cca9d13b1e01"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/selftest.py",
+      "exists": true,
+      "bytes": 4135,
+      "sha256": "04403abc9fb7a9c8d68759b854463d4f0c671a7fed3fd75c4cd69732e67790cc"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    },
+    {
+      "path": "exploration/persistent-02/section/key-grid.json",
+      "exists": true,
+      "bytes": 1615,
+      "sha256": "a01f9d803564078e3bfef07c075889652ccc0e69d11b96ca9e91c6cc7b53c828"
+    },
+    {
+      "path": "exploration/persistent-02/section/section-packet.json",
+      "exists": true,
+      "bytes": 193629,
+      "sha256": "4c255a5e0dfca6c1fd5bf4b960aed17608cca1dc46f9cbb941be49a4138b9502"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 35945,
+  "finished_utc": "2026-09-17T08:29:05.441675+00:00",
+  "duration_seconds": 31.593162124998344
+}

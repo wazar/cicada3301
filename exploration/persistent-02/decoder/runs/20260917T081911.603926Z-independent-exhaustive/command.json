@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/decoder/selftest.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T08:19:11.614655+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/worker-c/frozen_kbest.py",
+      "exists": true,
+      "bytes": 1440,
+      "sha256": "bdd54bf0fdbd07f9115e9354ae7ef3e913b554a5d2f6a5587f4ae21c328f5390"
+    },
+    {
+      "path": "exploration/persistent-02/bootstrap/literal_f_exact_dp.py",
+      "exists": true,
+      "bytes": 8717,
+      "sha256": "8288d54fcd8fca4711222b9bdaf38568b0bd0e72977ec2f32a21e2c23aca1edb"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/exact.py",
+      "exists": true,
+      "bytes": 3081,
+      "sha256": "a9f15f21a4795c0c5393aa71d2418f833e82e15f0f5fca7f30dbe27dc72f6dda"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/selftest.py",
+      "exists": true,
+      "bytes": 4123,
+      "sha256": "8378791cfd1439b2cbd9cc99f3c4e3e02def0e67e8c3ed773c822727180e93c2"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 33110,
+  "finished_utc": "2026-09-17T08:19:12.288613+00:00",
+  "duration_seconds": 0.6736443330009934
+}

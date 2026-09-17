@@ -1,0 +1,53 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-c",
+    "import sys; sys.path.insert(0,\"exploration/persistent-02/review-01\"); from integration_checks import aggregate; aggregate()"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T08:35:03.760121+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/coordinator/aggregate_q12.py",
+      "exists": true,
+      "bytes": 3195,
+      "sha256": "8ec56e7c6e661782999d5959ac39f99758f65749c685d635ba5733ecc955ea89"
+    },
+    {
+      "path": "exploration/persistent-02/review-01/independent_checks.py",
+      "exists": true,
+      "bytes": 4291,
+      "sha256": "0f8e2c56bf8be7fa222a96df207ebebdb3d2a08e1b086fbe112d125a3b749098"
+    },
+    {
+      "path": "exploration/persistent-02/review-01/integration_checks.py",
+      "exists": true,
+      "bytes": 6229,
+      "sha256": "6aa98e720d5d81f04e3bee2916994361f9d983aa0d6a8b4fce08f07514221278"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 36991,
+  "finished_utc": "2026-09-17T08:35:04.428327+00:00",
+  "duration_seconds": 0.6679706669965526
+}

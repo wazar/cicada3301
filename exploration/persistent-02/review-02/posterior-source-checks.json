@@ -1,0 +1,1200 @@
+{
+  "passed": true,
+  "sourcechecks": [
+    {
+      "path": "liber-primus/data/keys/armada18/emerson_essays_first_series.txt",
+      "sha256": "0559e94b304079ebbc5d4d8500eb62b3cf88f4981a98f0151f3abd0ec6e1d7b8",
+      "span": [
+        48811,
+        54321
+      ],
+      "words": 1000,
+      "runes": 4193,
+      "begin": "There is a time in every man\u2019s education when he arrives at the\nconviction that envy is ignorance; that imitation is suicide; that he\nmust take himself for better for worse as his ",
+      "end": " from\nabove.\u201d I replied, \u201cThey do not seem to me to be such; but if I am the\nDevil\u2019s child, I will live then from the Devil.\u201d No law can be sacred\nto me but that of my nature. Good"
+    },
+    {
+      "path": "liber-primus/data/keys/armada18/poe_tales_vol2.txt",
+      "sha256": "159989d413c3240447627d0964a15ad10e4535ba1d25e0468c02f9ecdab9e12e",
+      "span": [
+        541260,
+        546808
+      ],
+      "words": 1000,
+      "runes": 3691,
+      "begin": "True!\u2014nervous\u2014very, very dreadfully nervous I had been and am;\n      but why will you say that I am mad? The disease had sharpened my\n      senses\u2014not destroyed\u2014not dulled them. Ab",
+      "end": "he neither saw nor\n      heard\u2014to feel the presence of my head within the room.\n\n      When I had waited a long time, very patiently, without hearing\n      him lie down, I resolved"
+    },
+    {
+      "path": "liber-primus/data/keys/armada18/plato_republic_jowett.txt",
+      "sha256": "917c1cb469e1a8eba6083808764d7131da8d79140b575b4214c9d02a73ec4528",
+      "span": [
+        553760,
+        558960
+      ],
+      "words": 1000,
+      "runes": 3830,
+      "begin": "I went down yesterday to the Piraeus with Glaucon the son of Ariston,\nthat I might offer up my prayers to the goddess (Bendis, the Thracian\nArtemis.); and also because I wanted to ",
+      "end": " of calm and freedom; when the passions relax\ntheir hold, then, as Sophocles says, we are freed from the grasp not of\none mad master only, but of many. The truth is, Socrates, that"
+    },
+    {
+      "path": "liber-primus/data/keys/armada18/melville_moby_dick.txt",
+      "sha256": "9a6844ac0703853720010787c7b6c70b0020f1ab1862dcd74452fa46474d1215",
+      "span": [
+        28054,
+        33497
+      ],
+      "words": 1000,
+      "runes": 4078,
+      "begin": "Call me Ishmael. Some years ago\u2014never mind how long precisely\u2014having\nlittle or no money in my purse, and nothing particular to interest me\non shore, I thought I would sail about a ",
+      "end": "e\nof the ungraspable phantom of life; and this is the key to it all.\n\nNow, when I say that I am in the habit of going to sea whenever I begin\nto grow hazy about the eyes, and begin"
+    }
+  ],
+  "representative_replays": [
+    {
+      "id": "fresh-mill-1",
+      "model": "p03",
+      "position": 514,
+      "prefix_literal": {
+        "log_probability": -0.04540854091692381,
+        "probability": 0.9556069975151368
+      },
+      "full_literal": {
+        "log_probability": -285.5411664650719,
+        "probability": 9.79596101291722e-125
+      },
+      "truth_path_weight": 0.9999999809083422,
+      "joins_prefix": [
+        {
+          "position": 0,
+          "log_probability": -256.5889614414002,
+          "probability": 3.671384995821018e-112
+        },
+        {
+          "position": 1,
+          "log_probability": -219.45258427752765,
+          "probability": 4.931211261675759e-96
+        },
+        {
+          "position": 2,
+          "log_probability": -124.05236583096507,
+          "probability": 1.3327296277294246e-54
+        },
+        {
+          "position": 3,
+          "log_probability": -53.37178756761659,
+          "probability": 6.621054612204924e-24
+        },
+        {
+          "position": 4,
+          "log_probability": -0.04540854091692381,
+          "probability": 0.9556069975151368
+        },
+        {
+          "position": 5,
+          "log_probability": -3.1146734236569955,
+          "probability": 0.04439300248484919
+        },
+        {
+          "position": 6,
+          "log_probability": -481.31896587505213,
+          "probability": 9.24334334144596e-210
+        },
+        {
+          "position": 7,
+          "log_probability": -380.192817840388,
+          "probability": 7.662264729317665e-166
+        },
+        {
+          "position": 8,
+          "log_probability": -353.84335100414575,
+          "probability": 2.1270867423584128e-154
+        },
+        {
+          "position": 9,
+          "log_probability": -307.7706577798963,
+          "probability": 2.1722091285637813e-134
+        },
+        {
+          "position": 10,
+          "log_probability": -303.37999196686593,
+          "probability": 1.7528452211563822e-132
+        }
+      ],
+      "joins_full": [
+        {
+          "position": 0,
+          "log_probability": -630.5596952443916,
+          "probability": 1.4171109203963838e-274
+        },
+        {
+          "position": 1,
+          "log_probability": -684.7815298583091,
+          "probability": 4.01014681920577e-298
+        },
+        {
+          "position": 2,
+          "log_probability": -587.6331188122322,
+          "probability": 6.225569936621388e-256
+        },
+        {
+          "position": 3,
+          "log_probability": -454.8206342501944,
+          "probability": 2.9778875181947337e-198
+        },
+        {
+          "position": 4,
+          "log_probability": -285.5411664650719,
+          "probability": 9.79596101291722e-125
+        },
+        {
+          "position": 5,
+          "log_probability": 4.547473508864641e-13,
+          "probability": 1.0000000000004547
+        },
+        {
+          "position": 6,
+          "log_probability": -543.3242226072927,
+          "probability": 1.089653046167082e-236
+        },
+        {
+          "position": 7,
+          "log_probability": -472.32697060743885,
+          "probability": 7.430242895164512e-206
+        },
+        {
+          "position": 8,
+          "log_probability": -699.9884833042605,
+          "probability": 9.973883821524755e-305
+        },
+        {
+          "position": 9,
+          "log_probability": -643.5839419506747,
+          "probability": 3.126405955146737e-280
+        },
+        {
+          "position": 10,
+          "log_probability": -659.9758186734952,
+          "probability": 2.3776272005050537e-287
+        }
+      ],
+      "pool_mass": {
+        "64": {
+          "retained_paths": 64,
+          "log_mass": 0.0,
+          "mass": 1.0,
+          "lost_mass": -0.0,
+          "scope": "Probability mass under stated normalized decision-path weights; not confidence of correct plaintext."
+        },
+        "256": {
+          "retained_paths": 256,
+          "log_mass": 0.0,
+          "mass": 1.0,
+          "lost_mass": -0.0,
+          "scope": "Probability mass under stated normalized decision-path weights; not confidence of correct plaintext."
+        },
+        "1024": {
+          "retained_paths": 1024,
+          "log_mass": 0.0,
+          "mass": 1.0,
+          "lost_mass": -0.0,
+          "scope": "Probability mass under stated normalized decision-path weights; not confidence of correct plaintext."
+        }
+      }
+    },
+    {
+      "id": "fresh-shelley-2",
+      "model": "p03",
+      "position": 498,
+      "prefix_literal": {
+        "log_probability": -0.20407257635224596,
+        "probability": 0.8154031900505996
+      },
+      "full_literal": {
+        "log_probability": -0.20407257634724374,
+        "probability": 0.8154031900546783
+      },
+      "truth_path_weight": 0.05776880775243219,
+      "joins_prefix": [
+        {
+          "position": 679,
+          "log_probability": -2125.5224442562667,
+          "probability": 0.0
+        },
+        {
+          "position": 680,
+          "log_probability": -1738.205365848141,
+          "probability": 0.0
+        },
+        {
+          "position": 681,
+          "log_probability": -1703.1742287205361,
+          "probability": 0.0
+        },
+        {
+          "position": 682,
+          "log_probability": -1433.3024104824476,
+          "probability": 0.0
+        },
+        {
+          "position": 683,
+          "log_probability": -1300.6257419344488,
+          "probability": 0.0
+        },
+        {
+          "position": 684,
+          "log_probability": -1251.7707088318211,
+          "probability": 0.0
+        },
+        {
+          "position": 685,
+          "log_probability": -1263.082829954879,
+          "probability": 0.0
+        },
+        {
+          "position": 686,
+          "log_probability": -1188.988078082807,
+          "probability": 0.0
+        },
+        {
+          "position": 687,
+          "log_probability": -1159.1091750579144,
+          "probability": 0.0
+        },
+        {
+          "position": 688,
+          "log_probability": -1116.3469541096297,
+          "probability": 0.0
+        },
+        {
+          "position": 689,
+          "log_probability": -1095.472502221035,
+          "probability": 0.0
+        },
+        {
+          "position": 690,
+          "log_probability": -937.8750022525005,
+          "probability": 0.0
+        },
+        {
+          "position": 691,
+          "log_probability": -947.9763599633807,
+          "probability": 0.0
+        },
+        {
+          "position": 692,
+          "log_probability": -814.6206488220582,
+          "probability": 0.0
+        },
+        {
+          "position": 693,
+          "log_probability": -811.5972754483028,
+          "probability": 0.0
+        },
+        {
+          "position": 694,
+          "log_probability": -774.0877885106993,
+          "probability": 0.0
+        },
+        {
+          "position": 695,
+          "log_probability": -739.5971620496161,
+          "probability": 6.27e-322
+        },
+        {
+          "position": 696,
+          "log_probability": -675.1837251939792,
+          "probability": 5.907910090383597e-294
+        },
+        {
+          "position": 697,
+          "log_probability": -639.1086964035649,
+          "probability": 2.7454896798030807e-278
+        },
+        {
+          "position": 698,
+          "log_probability": -578.98685531813,
+          "probability": 3.5416336947080004e-252
+        },
+        {
+          "position": 699,
+          "log_probability": -467.2844071805457,
+          "probability": 1.1506956784372212e-203
+        },
+        {
+          "position": 700,
+          "log_probability": -384.44986241523065,
+          "probability": 1.08529095764924e-167
+        },
+        {
+          "position": 701,
+          "log_probability": -357.9851920863198,
+          "probability": 3.3806987562645857e-156
+        },
+        {
+          "position": 702,
+          "log_probability": -335.2995108280734,
+          "probability": 2.4058728017629743e-146
+        },
+        {
+          "position": 703,
+          "log_probability": -193.99897118460467,
+          "probability": 5.588783931210312e-85
+        },
+        {
+          "position": 704,
+          "log_probability": 0.0,
+          "probability": 1.0
+        },
+        {
+          "position": 705,
+          "log_probability": -42.499232089834095,
+          "probability": 3.4899404640339645e-19
+        },
+        {
+          "position": 706,
+          "log_probability": -116.65314883228575,
+          "probability": 2.178618391261913e-51
+        },
+        {
+          "position": 707,
+          "log_probability": -416.28730429666484,
+          "probability": 1.6170403521926774e-181
+        },
+        {
+          "position": 708,
+          "log_probability": -659.0751786111036,
+          "probability": 5.851763554890003e-287
+        },
+        {
+          "position": 709,
+          "log_probability": -703.2504775750845,
+          "probability": 3.821186135488015e-306
+        },
+        {
+          "position": 710,
+          "log_probability": -932.0022848267358,
+          "probability": 0.0
+        },
+        {
+          "position": 711,
+          "log_probability": -994.6121919004358,
+          "probability": 0.0
+        },
+        {
+          "position": 712,
+          "log_probability": -1019.6771917970618,
+          "probability": 0.0
+        },
+        {
+          "position": 713,
+          "log_probability": -1025.7504120209792,
+          "probability": 0.0
+        },
+        {
+          "position": 714,
+          "log_probability": -1737.3755910596428,
+          "probability": 0.0
+        },
+        {
+          "position": 715,
+          "log_probability": -1996.4147746371855,
+          "probability": 0.0
+        },
+        {
+          "position": 716,
+          "log_probability": -1985.42475588869,
+          "probability": 0.0
+        }
+      ],
+      "joins_full": [
+        {
+          "position": 679,
+          "log_probability": -2654.2910879062183,
+          "probability": 0.0
+        },
+        {
+          "position": 680,
+          "log_probability": -2281.1235344523984,
+          "probability": 0.0
+        },
+        {
+          "position": 681,
+          "log_probability": -2250.8227452925485,
+          "probability": 0.0
+        },
+        {
+          "position": 682,
+          "log_probability": -2018.5184139229477,
+          "probability": 0.0
+        },
+        {
+          "position": 683,
+          "log_probability": -1881.263300708616,
+          "probability": 0.0
+        },
+        {
+          "position": 684,
+          "log_probability": -1831.3542198734585,
+          "probability": 0.0
+        },
+        {
+          "position": 685,
+          "log_probability": -1844.3805135801076,
+          "probability": 0.0
+        },
+        {
+          "position": 686,
+          "log_probability": -1767.5624946213475,
+          "probability": 0.0
+        },
+        {
+          "position": 687,
+          "log_probability": -1728.1257728997825,
+          "probability": 0.0
+        },
+        {
+          "position": 688,
+          "log_probability": -1682.8200192301347,
+          "probability": 0.0
+        },
+        {
+          "position": 689,
+          "log_probability": -1664.3461980642423,
+          "probability": 0.0
+        },
+        {
+          "position": 690,
+          "log_probability": -1505.9937901262692,
+          "probability": 0.0
+        },
+        {
+          "position": 691,
+          "log_probability": -1523.8461813439626,
+          "probability": 0.0
+        },
+        {
+          "position": 692,
+          "log_probability": -1399.9954966154182,
+          "probability": 0.0
+        },
+        {
+          "position": 693,
+          "log_probability": -1389.980630887324,
+          "probability": 0.0
+        },
+        {
+          "position": 694,
+          "log_probability": -1330.2442984730587,
+          "probability": 0.0
+        },
+        {
+          "position": 695,
+          "log_probability": -1291.631409690458,
+          "probability": 0.0
+        },
+        {
+          "position": 696,
+          "log_probability": -1229.9013206596828,
+          "probability": 0.0
+        },
+        {
+          "position": 697,
+          "log_probability": -1196.6981975067401,
+          "probability": 0.0
+        },
+        {
+          "position": 698,
+          "log_probability": -1134.1735398170085,
+          "probability": 0.0
+        },
+        {
+          "position": 699,
+          "log_probability": -1031.9859328497832,
+          "probability": 0.0
+        },
+        {
+          "position": 700,
+          "log_probability": -956.7991731136417,
+          "probability": 0.0
+        },
+        {
+          "position": 701,
+          "log_probability": -728.8274386139979,
+          "probability": 2.9803354e-317
+        },
+        {
+          "position": 702,
+          "log_probability": -626.1316120639185,
+          "probability": 1.1871235907421181e-272
+        },
+        {
+          "position": 703,
+          "log_probability": -213.4316409647231,
+          "probability": 2.031496439347368e-93
+        },
+        {
+          "position": 704,
+          "log_probability": 3.637978807091713e-12,
+          "probability": 1.000000000003638
+        },
+        {
+          "position": 705,
+          "log_probability": -43.43324173855126,
+          "probability": 1.3714588514206244e-19
+        },
+        {
+          "position": 706,
+          "log_probability": -142.6726013253251,
+          "probability": 1.0916326725721894e-62
+        },
+        {
+          "position": 707,
+          "log_probability": -494.0879397372646,
+          "probability": 2.632292807841436e-215
+        },
+        {
+          "position": 708,
+          "log_probability": -765.7818088114091,
+          "probability": 0.0
+        },
+        {
+          "position": 709,
+          "log_probability": -808.2816214615759,
+          "probability": 0.0
+        },
+        {
+          "position": 710,
+          "log_probability": -1237.5267060662482,
+          "probability": 0.0
+        },
+        {
+          "position": 711,
+          "log_probability": -1468.4194993251303,
+          "probability": 0.0
+        },
+        {
+          "position": 712,
+          "log_probability": -1547.066040024607,
+          "probability": 0.0
+        },
+        {
+          "position": 713,
+          "log_probability": -1556.1550028510883,
+          "probability": 0.0
+        },
+        {
+          "position": 714,
+          "log_probability": -2272.0047168991596,
+          "probability": 0.0
+        },
+        {
+          "position": 715,
+          "log_probability": -2549.5987406961585,
+          "probability": 0.0
+        },
+        {
+          "position": 716,
+          "log_probability": -2546.929920437493,
+          "probability": 0.0
+        }
+      ],
+      "pool_mass": {
+        "64": {
+          "retained_paths": 64,
+          "log_mass": -6.614300218643621e-09,
+          "mass": 0.9999999933856998,
+          "lost_mass": 6.614300196769137e-09,
+          "scope": "Probability mass under stated normalized decision-path weights; not confidence of correct plaintext."
+        },
+        "256": {
+          "retained_paths": 256,
+          "log_mass": -9.094947017729282e-13,
+          "mass": 0.9999999999990905,
+          "lost_mass": 9.094947017725146e-13,
+          "scope": "Probability mass under stated normalized decision-path weights; not confidence of correct plaintext."
+        },
+        "1024": {
+          "retained_paths": 1024,
+          "log_mass": -9.094947017729282e-13,
+          "mass": 0.9999999999990905,
+          "lost_mass": 9.094947017725146e-13,
+          "scope": "Probability mass under stated normalized decision-path weights; not confidence of correct plaintext."
+        }
+      }
+    },
+    {
+      "id": "fresh-mill-1",
+      "model": "complementary",
+      "position": 514,
+      "prefix_literal": {
+        "log_probability": -0.08856385303897696,
+        "probability": 0.9152446677166941
+      },
+      "full_literal": {
+        "log_probability": -436.19660044545503,
+        "probability": 3.649416250425169e-190
+      },
+      "truth_path_weight": 0.9999999999997726,
+      "joins_prefix": [
+        {
+          "position": 0,
+          "log_probability": -417.2076666913174,
+          "probability": 6.441878780028908e-182
+        },
+        {
+          "position": 1,
+          "log_probability": -373.3663292550598,
+          "probability": 7.064207964875987e-163
+        },
+        {
+          "position": 2,
+          "log_probability": -199.21791371102768,
+          "probability": 3.0252368303841296e-87
+        },
+        {
+          "position": 3,
+          "log_probability": -76.3037878357245,
+          "probability": 7.27253792390156e-34
+        },
+        {
+          "position": 4,
+          "log_probability": -0.08856385303897696,
+          "probability": 0.9152446677166941
+        },
+        {
+          "position": 5,
+          "log_probability": -2.4679866169044544,
+          "probability": 0.08475533228324189
+        },
+        {
+          "position": 6,
+          "log_probability": -780.0616382588719,
+          "probability": 0.0
+        },
+        {
+          "position": 7,
+          "log_probability": -625.9433210955135,
+          "probability": 1.4330774557731457e-272
+        },
+        {
+          "position": 8,
+          "log_probability": -541.5141387671292,
+          "probability": 6.65882591162422e-236
+        },
+        {
+          "position": 9,
+          "log_probability": -530.1943123166237,
+          "probability": 5.489538362451799e-231
+        },
+        {
+          "position": 10,
+          "log_probability": -491.67488539976216,
+          "probability": 2.9397498743028406e-214
+        }
+      ],
+      "joins_full": [
+        {
+          "position": 0,
+          "log_probability": -1060.397853276045,
+          "probability": 0.0
+        },
+        {
+          "position": 1,
+          "log_probability": -1102.290051331024,
+          "probability": 0.0
+        },
+        {
+          "position": 2,
+          "log_probability": -945.8976722977657,
+          "probability": 0.0
+        },
+        {
+          "position": 3,
+          "log_probability": -701.8992354523468,
+          "probability": 1.4758261147997968e-305
+        },
+        {
+          "position": 4,
+          "log_probability": -436.19660044545503,
+          "probability": 3.649416250425169e-190
+        },
+        {
+          "position": 5,
+          "log_probability": -1.5916157281026244e-12,
+          "probability": 0.9999999999984084
+        },
+        {
+          "position": 6,
+          "log_probability": -902.0017221693245,
+          "probability": 0.0
+        },
+        {
+          "position": 7,
+          "log_probability": -779.2200853578236,
+          "probability": 0.0
+        },
+        {
+          "position": 8,
+          "log_probability": -1096.7131138197285,
+          "probability": 0.0
+        },
+        {
+          "position": 9,
+          "log_probability": -1055.6893314019883,
+          "probability": 0.0
+        },
+        {
+          "position": 10,
+          "log_probability": -1065.819227073058,
+          "probability": 0.0
+        }
+      ],
+      "pool_mass": {
+        "64": {
+          "retained_paths": 64,
+          "log_mass": 0.0,
+          "mass": 1.0,
+          "lost_mass": -0.0,
+          "scope": "Probability mass under stated normalized decision-path weights; not confidence of correct plaintext."
+        },
+        "256": {
+          "retained_paths": 256,
+          "log_mass": 0.0,
+          "mass": 1.0,
+          "lost_mass": -0.0,
+          "scope": "Probability mass under stated normalized decision-path weights; not confidence of correct plaintext."
+        },
+        "1024": {
+          "retained_paths": 1024,
+          "log_mass": 0.0,
+          "mass": 1.0,
+          "lost_mass": -0.0,
+          "scope": "Probability mass under stated normalized decision-path weights; not confidence of correct plaintext."
+        }
+      }
+    },
+    {
+      "id": "fresh-shelley-2",
+      "model": "complementary",
+      "position": 498,
+      "prefix_literal": {
+        "log_probability": -0.14178234698283632,
+        "probability": 0.8678101174224743
+      },
+      "full_literal": {
+        "log_probability": -0.14178234698101733,
+        "probability": 0.8678101174240528
+      },
+      "truth_path_weight": 0.1306234801481177,
+      "joins_prefix": [
+        {
+          "position": 679,
+          "log_probability": -3405.253327787858,
+          "probability": 0.0
+        },
+        {
+          "position": 680,
+          "log_probability": -2772.3217722306777,
+          "probability": 0.0
+        },
+        {
+          "position": 681,
+          "log_probability": -2771.171103987185,
+          "probability": 0.0
+        },
+        {
+          "position": 682,
+          "log_probability": -2390.6737666255617,
+          "probability": 0.0
+        },
+        {
+          "position": 683,
+          "log_probability": -2159.694107844273,
+          "probability": 0.0
+        },
+        {
+          "position": 684,
+          "log_probability": -2077.2927546310107,
+          "probability": 0.0
+        },
+        {
+          "position": 685,
+          "log_probability": -2092.0730136771476,
+          "probability": 0.0
+        },
+        {
+          "position": 686,
+          "log_probability": -1969.983326597399,
+          "probability": 0.0
+        },
+        {
+          "position": 687,
+          "log_probability": -1988.6909525358078,
+          "probability": 0.0
+        },
+        {
+          "position": 688,
+          "log_probability": -1834.2427609562724,
+          "probability": 0.0
+        },
+        {
+          "position": 689,
+          "log_probability": -1759.0288107782749,
+          "probability": 0.0
+        },
+        {
+          "position": 690,
+          "log_probability": -1489.7042984747818,
+          "probability": 0.0
+        },
+        {
+          "position": 691,
+          "log_probability": -1449.8080218543296,
+          "probability": 0.0
+        },
+        {
+          "position": 692,
+          "log_probability": -1399.4605233315383,
+          "probability": 0.0
+        },
+        {
+          "position": 693,
+          "log_probability": -1300.8979177195492,
+          "probability": 0.0
+        },
+        {
+          "position": 694,
+          "log_probability": -1274.7570481271605,
+          "probability": 0.0
+        },
+        {
+          "position": 695,
+          "log_probability": -1205.5533803093172,
+          "probability": 0.0
+        },
+        {
+          "position": 696,
+          "log_probability": -1090.0278082922696,
+          "probability": 0.0
+        },
+        {
+          "position": 697,
+          "log_probability": -1011.752652627948,
+          "probability": 0.0
+        },
+        {
+          "position": 698,
+          "log_probability": -865.190342561566,
+          "probability": 0.0
+        },
+        {
+          "position": 699,
+          "log_probability": -774.4793111967992,
+          "probability": 0.0
+        },
+        {
+          "position": 700,
+          "log_probability": -616.132662364947,
+          "probability": 2.612068816770966e-268
+        },
+        {
+          "position": 701,
+          "log_probability": -549.5014333429313,
+          "probability": 2.262349517201209e-239
+        },
+        {
+          "position": 702,
+          "log_probability": -495.57199683538647,
+          "probability": 5.967829248568734e-216
+        },
+        {
+          "position": 703,
+          "log_probability": -286.8638296897366,
+          "probability": 2.609887023856835e-125
+        },
+        {
+          "position": 704,
+          "log_probability": 0.0,
+          "probability": 1.0
+        },
+        {
+          "position": 705,
+          "log_probability": -56.69804797494248,
+          "probability": 2.3787600152256727e-25
+        },
+        {
+          "position": 706,
+          "log_probability": -159.76451694809725,
+          "probability": 4.1224166687687485e-70
+        },
+        {
+          "position": 707,
+          "log_probability": -642.0262516358439,
+          "probability": 1.4843683221889053e-279
+        },
+        {
+          "position": 708,
+          "log_probability": -1100.407900602539,
+          "probability": 0.0
+        },
+        {
+          "position": 709,
+          "log_probability": -1138.3285375129394,
+          "probability": 0.0
+        },
+        {
+          "position": 710,
+          "log_probability": -1481.7928046243956,
+          "probability": 0.0
+        },
+        {
+          "position": 711,
+          "log_probability": -1626.7822457210555,
+          "probability": 0.0
+        },
+        {
+          "position": 712,
+          "log_probability": -1646.4975566835678,
+          "probability": 0.0
+        },
+        {
+          "position": 713,
+          "log_probability": -1714.031548279478,
+          "probability": 0.0
+        },
+        {
+          "position": 714,
+          "log_probability": -2833.792961856779,
+          "probability": 0.0
+        },
+        {
+          "position": 715,
+          "log_probability": -3189.0549669790985,
+          "probability": 0.0
+        },
+        {
+          "position": 716,
+          "log_probability": -3187.1150882846073,
+          "probability": 0.0
+        }
+      ],
+      "joins_full": [
+        {
+          "position": 679,
+          "log_probability": -4207.240919931499,
+          "probability": 0.0
+        },
+        {
+          "position": 680,
+          "log_probability": -3579.6221086283144,
+          "probability": 0.0
+        },
+        {
+          "position": 681,
+          "log_probability": -3578.164969723453,
+          "probability": 0.0
+        },
+        {
+          "position": 682,
+          "log_probability": -3227.188708792541,
+          "probability": 0.0
+        },
+        {
+          "position": 683,
+          "log_probability": -2995.5769654465644,
+          "probability": 0.0
+        },
+        {
+          "position": 684,
+          "log_probability": -2910.7267571909,
+          "probability": 0.0
+        },
+        {
+          "position": 685,
+          "log_probability": -2918.6125970571798,
+          "probability": 0.0
+        },
+        {
+          "position": 686,
+          "log_probability": -2805.7269039886346,
+          "probability": 0.0
+        },
+        {
+          "position": 687,
+          "log_probability": -2823.8981990047355,
+          "probability": 0.0
+        },
+        {
+          "position": 688,
+          "log_probability": -2723.431749216796,
+          "probability": 0.0
+        },
+        {
+          "position": 689,
+          "log_probability": -2648.790576384207,
+          "probability": 0.0
+        },
+        {
+          "position": 690,
+          "log_probability": -2365.8576550809325,
+          "probability": 0.0
+        },
+        {
+          "position": 691,
+          "log_probability": -2323.776165022666,
+          "probability": 0.0
+        },
+        {
+          "position": 692,
+          "log_probability": -2261.775526102581,
+          "probability": 0.0
+        },
+        {
+          "position": 693,
+          "log_probability": -2129.9065469513685,
+          "probability": 0.0
+        },
+        {
+          "position": 694,
+          "log_probability": -2097.5800940385448,
+          "probability": 0.0
+        },
+        {
+          "position": 695,
+          "log_probability": -2022.0951872978671,
+          "probability": 0.0
+        },
+        {
+          "position": 696,
+          "log_probability": -1906.954380698559,
+          "probability": 0.0
+        },
+        {
+          "position": 697,
+          "log_probability": -1819.0876965147822,
+          "probability": 0.0
+        },
+        {
+          "position": 698,
+          "log_probability": -1662.4135904045684,
+          "probability": 0.0
+        },
+        {
+          "position": 699,
+          "log_probability": -1579.0537839555914,
+          "probability": 0.0
+        },
+        {
+          "position": 700,
+          "log_probability": -1453.219465682092,
+          "probability": 0.0
+        },
+        {
+          "position": 701,
+          "log_probability": -1088.6146508106135,
+          "probability": 0.0
+        },
+        {
+          "position": 702,
+          "log_probability": -950.934566250678,
+          "probability": 0.0
+        },
+        {
+          "position": 703,
+          "log_probability": -306.91924753940293,
+          "probability": 5.089374432839732e-134
+        },
+        {
+          "position": 704,
+          "log_probability": 1.3642420526593924e-12,
+          "probability": 1.0000000000013642
+        },
+        {
+          "position": 705,
+          "log_probability": -60.46402637513256,
+          "probability": 5.505629618256443e-27
+        },
+        {
+          "position": 706,
+          "log_probability": -194.79447123628097,
+          "probability": 2.52252823946305e-85
+        },
+        {
+          "position": 707,
+          "log_probability": -757.3654664825804,
+          "probability": 0.0
+        },
+        {
+          "position": 708,
+          "log_probability": -1234.601476199256,
+          "probability": 0.0
+        },
+        {
+          "position": 709,
+          "log_probability": -1284.7300998193582,
+          "probability": 0.0
+        },
+        {
+          "position": 710,
+          "log_probability": -1928.5868915586693,
+          "probability": 0.0
+        },
+        {
+          "position": 711,
+          "log_probability": -2317.6481735581224,
+          "probability": 0.0
+        },
+        {
+          "position": 712,
+          "log_probability": -2397.308421356333,
+          "probability": 0.0
+        },
+        {
+          "position": 713,
+          "log_probability": -2457.50550440049,
+          "probability": 0.0
+        },
+        {
+          "position": 714,
+          "log_probability": -3580.2206921463044,
+          "probability": 0.0
+        },
+        {
+          "position": 715,
+          "log_probability": -3971.3978892619384,
+          "probability": 0.0
+        },
+        {
+          "position": 716,
+          "log_probability": -4012.8199522377586,
+          "probability": 0.0
+        }
+      ],
+      "pool_mass": {
+        "64": {
+          "retained_paths": 64,
+          "log_mass": -6.821210263296962e-12,
+          "mass": 0.9999999999931788,
+          "lost_mass": 6.821210263273697e-12,
+          "scope": "Probability mass under stated normalized decision-path weights; not confidence of correct plaintext."
+        },
+        "256": {
+          "retained_paths": 256,
+          "log_mass": -9.094947017729282e-13,
+          "mass": 0.9999999999990905,
+          "lost_mass": 9.094947017725146e-13,
+          "scope": "Probability mass under stated normalized decision-path weights; not confidence of correct plaintext."
+        },
+        "1024": {
+          "retained_paths": 1024,
+          "log_mass": -9.094947017729282e-13,
+          "mass": 0.9999999999990905,
+          "lost_mass": 9.094947017725146e-13,
+          "scope": "Probability mass under stated normalized decision-path weights; not confidence of correct plaintext."
+        }
+      }
+    }
+  ],
+  "scope": "All4model source spans remapped; targeted previously selected Mill/Shelley consequence, no new population estimate. P03 versus complementary differs in corpus and lexical preprocessing."
+}

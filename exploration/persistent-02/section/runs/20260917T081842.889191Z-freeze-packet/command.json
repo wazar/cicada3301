@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/section/freeze_packet.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T08:18:42.900498+00:00",
+  "timeout_seconds": 60,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/parallel-01/inputs/dataset.json",
+      "exists": true,
+      "bytes": 1378156,
+      "sha256": "e3d8a8b7a81f00e17d54209772eee7bedb5b922e6176ca722be31f952eaea895"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    },
+    {
+      "path": "exploration/persistent-02/section/freeze_packet.py",
+      "exists": true,
+      "bytes": 4997,
+      "sha256": "9a868d2a8601365c058f171cebda64e058ec91ebafb24b09905eebf80bd5011b"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 33077,
+  "finished_utc": "2026-09-17T08:18:42.942769+00:00",
+  "duration_seconds": 0.042005791001429316
+}

@@ -1,0 +1,95 @@
+{
+  "batch": "A05-periodic",
+  "label": "control-p56_an_end",
+  "policy": "continuous",
+  "source": "exploration/persistent-02/section/A05-periodic/control-p56_an_end.json.gz",
+  "source_sha256": "289959de896aa6b5f883ada2a00b86336f38f86408d5e4f68b1b02169f7869b5",
+  "selected_cell": {
+    "id": "KOAN-CIRCUMFERENCE:8:-1",
+    "key_id": "KOAN-CIRCUMFERENCE",
+    "phase": 8,
+    "sign": -1,
+    "key": [
+      4,
+      18,
+      9,
+      0,
+      18,
+      0,
+      10,
+      4,
+      0,
+      1,
+      19,
+      0,
+      18
+    ]
+  },
+  "spans": [
+    [
+      0,
+      28
+    ],
+    [
+      28,
+      56
+    ],
+    [
+      56,
+      85
+    ]
+  ],
+  "ends": [
+    1,
+    4,
+    9,
+    11,
+    15,
+    18,
+    22,
+    28,
+    29,
+    33,
+    36,
+    42,
+    44,
+    46,
+    48,
+    50,
+    54,
+    56,
+    61,
+    68,
+    70,
+    74,
+    77,
+    80,
+    84
+  ],
+  "candidate_count": 4,
+  "distinct_plaintexts": 4,
+  "conditional_final_states": 1,
+  "cache_replay_checks": 1,
+  "max_direct_score_error": 8.881784197001252e-16,
+  "best_suffix_score": -2.1027829784429994,
+  "best_stage_ranks": [
+    1,
+    1,
+    1
+  ],
+  "best_transliteration": "ANENDWITHINTHEDEEPWEBTHEREEXISTSAPAGETHATHASHESTOITISTHEDUTYOFEUERYPILGRIMTOSEECOUTTHISPAGE",
+  "array": "A05-periodic-control-p56_an_end-continuous.npz",
+  "best_errors": 0,
+  "minimum_errors": 0,
+  "truth_members": 1,
+  "truth_stage_ranks": [
+    [
+      1,
+      1,
+      1
+    ]
+  ],
+  "truth_suffix_rank": 1,
+  "truth_suffix_ties": 1,
+  "planted_policy": "continuous"
+}

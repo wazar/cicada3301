@@ -1,0 +1,42 @@
+{
+  "paths": [
+    {
+      "total": -100.0,
+      "score": -25.0,
+      "plain": [
+        28,
+        0,
+        0,
+        1
+      ],
+      "literal_positions": [],
+      "used": 4,
+      "mask": "0"
+    },
+    {
+      "total": -100.0,
+      "score": -25.0,
+      "plain": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "literal_positions": [
+        0
+      ],
+      "used": 3,
+      "mask": "8"
+    }
+  ],
+  "diagnostics": {
+    "expanded": 8,
+    "maxstates": 2,
+    "max_live_paths": 2,
+    "retained_nodes_across_layers": 9,
+    "optimal_path_ties": "1",
+    "retained": 2,
+    "seconds": 2.6415997126605362e-05,
+    "exact": "global n-best decision paths; deterministic binary-mask tie selection; all exact-float optimum path ties counted"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/section/forest.py",
+    "--batch",
+    "A05-finite",
+    "--kind",
+    "actual"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T08:42:02.048404+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/decoder/complementary-model.json",
+      "exists": true,
+      "bytes": 482397,
+      "sha256": "4f5382855758f91401808ee50ebcdf9428950686a03cda83c34636c17de271f3"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/complementary.py",
+      "exists": true,
+      "bytes": 3925,
+      "sha256": "5b9f9fc070db43ddbe17d32bf775f80798a2883a822fadda4a5f0c57b097cdea"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    },
+    {
+      "path": "exploration/persistent-02/section/a01.py",
+      "exists": true,
+      "bytes": 6238,
+      "sha256": "803ab5473f763e8bb01ce43b6abcb3ce498b466165fcbc97f358c15a33568419"
+    },
+    {
+      "path": "exploration/persistent-02/section/a02.py",
+      "exists": true,
+      "bytes": 3464,
+      "sha256": "c5b8cf4295603c16ccb7f73663deeddd1135007bc5381591c64f340924796a34"
+    },
+    {
+      "path": "exploration/persistent-02/section/a02_diagnose.py",
+      "exists": true,
+      "bytes": 2302,
+      "sha256": "747fa5f6f6502704a525de01760c7fd48601b0f78c5721b8ecdb2818a6644cff"
+    },
+    {
+      "path": "exploration/persistent-02/section/a05.py",
+      "exists": true,
+      "bytes": 2139,
+      "sha256": "34b5763845d12b10f58ff826c436c3f65a9c0cd11629fc62d0cfbe6d2354ee8a"
+    },
+    {
+      "path": "exploration/persistent-02/section/alt_selection.py",
+      "exists": true,
+      "bytes": 1419,
+      "sha256": "878b8eb7ab5d6e244d0032320f7539625748f5d3f856a24c87d42a56cf452d94"
+    },
+    {
+      "path": "exploration/persistent-02/section/forest.py",
+      "exists": true,
+      "bytes": 5297,
+      "sha256": "544229edfb678583de1e94911f7d61f8e73909b8ae298a975673d505e839ff0e"
+    },
+    {
+      "path": "exploration/persistent-02/section/freeze_packet.py",
+      "exists": true,
+      "bytes": 5083,
+      "sha256": "304485305895a3963cbd3fc6ed0735f8540aa6d23fe5ea064cf8788addc5108c"
+    },
+    {
+      "path": "exploration/persistent-02/section/inspection_crops.py",
+      "exists": true,
+      "bytes": 1113,
+      "sha256": "b9f20b30f004b244b65c386e7cd1c7e8b47103cf6663bd43ece59ebb5e47ac4d"
+    },
+    {
+      "path": "exploration/persistent-02/section/summarize_a01.py",
+      "exists": true,
+      "bytes": 1352,
+      "sha256": "91da3eae4c8eeda77aa650cf2978f68ff51c8206dbcfabe57c54bf54a3d2d47e"
+    },
+    {
+      "path": "exploration/persistent-02/section/summarize_a02.py",
+      "exists": true,
+      "bytes": 1352,
+      "sha256": "f7e3d1bce39bfa5e3f6b210a8670efaaacd7a4a7d632b0d0e08028cf5ff3814f"
+    },
+    {
+      "path": "exploration/persistent-02/section/summarize_forest.py",
+      "exists": true,
+      "bytes": 2576,
+      "sha256": "6b07d538b8498f6d0ed169d05de700aaaf193677fda4bf496cd004422aace4cf"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 38178,
+  "finished_utc": "2026-09-17T08:42:04.439839+00:00",
+  "duration_seconds": 2.391179624995857
+}

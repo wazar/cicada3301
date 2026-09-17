@@ -1,0 +1,521 @@
+{
+  "passed": true,
+  "plants": 32,
+  "alternatives_checked": 512,
+  "max_abs_scalar_score_error": 0.0,
+  "source_identity_scope": "Cipher/seed/literal mapping and output scoring independently checked for all32. Underlying source/selection is producer pinned; this does not independently re-fetch sources or claim blind controls.",
+  "rows": [
+    {
+      "index": 0,
+      "id": "held-0",
+      "k": 2,
+      "selected_rune_errors": 0,
+      "truth_gap": 1.3642420526593924e-12,
+      "source": {
+        "path": "audit/parallel-01/reference/sources/solved_0_welcome.txt",
+        "sha256": "95caaffb0ae764801bb023ba8eda15b49366cb3258aab9e26922e89e884c7b73",
+        "raw": "\u16b9\u16d6\u16da\u16b3\u16a9\u16d7\u16d6\u205c\n\u16b9\u16d6\u16da\u16b3\u16a9\u16d7\u16d6\u205a\u16c8\u16c1\u16da\u16b7\u16b1\u16c1\u16d7\u205a\u16cf\u16a9\u2022\u16a6\u16d6\u2022\u16b7\u16b1\u16e0\u16cf\u2022\u16c4\u16a9\u16a2\u16b1\u16be\u16d6\u16a3\u2022\u16cf\u16a9\u16b9\u16aa\u16b1\u16de\u2022\u16a6\u16d6\u2022\u16d6\u16be\u16de\u2022\u16a9\u16a0\u2022\u16aa\u16da\u16da\u2022\u16a6\u16dd\u16cb\u2058\n\u16c1\u16cf\u2022\u16c1\u16cb\u2022\u16be\u16a9\u16cf\u2022\u16aa\u16be\u2022\u16e0\u16cb\u16a3\u2022\u16cf\u16b1\u16c1\u16c8\u205a\u16d2\u16a2\u16cf\u2022\u16a0\u16a9\u16b1\u2022\u16a6\u16a9\u16cb\u16d6\u2022\u16b9\u16bb\u16a9\u2022\u16a0\u16c1\u16be\u16de\u2022\u16a6\u16d6\u16c1\u16b1\u2022\u16b9\u16aa\u16a3\u2022\u16bb\u16d6\u16b1\u16d6\u2022\u16c1\u16cf\u2022\u16c1\u16cb\u2022\u16aa\u2022\u16be\u16d6\u16b3\u16d6\u16cb\u16cb\u16aa\u16b1\u16a3\u2022\u16a9\u16be\u16d6\u2058\n\u16aa\u16da\u16a9\u16dd\u2022\u16a6\u16d6\u2022\u16b9\u16aa\u16a3\u2022\u16a3\u16a9\u16a2\u2022\u16b9\u16c1\u16da\u16da\u2022\u16a0\u16c1\u16be\u16de\u2022\u16aa\u16be\u2022\u16d6\u16be\u16de\u2022\u16cf\u16a9\u2022\u16aa\u16da\u16da\u2022\u16cb\u16cf\u16b1\u16a2\u16b7\u16b7\u16da\u16d6\u2022\u16aa\u16be\u16de\u2022\u16cb\u16a2\u16a0\u16a0\u16d6\u16b1\u16dd\u205a\u16a3\u16a9\u16a2\u16b1\u2022\u16c1\u16be\u16be\u16a9\u16b3\u16d6\u16be\u16b3\u16d6\u205a\u16a3\u16a9\u16a2\u16b1\u2022\u16c1\u16da\u16da\u16a2\u16cb\u16e1\u16be\u16cb\u205a\u16a3\u16a9\u16a2\u16b1\u2022\u16b3\u16d6\u16b1\u16cf\u16aa\u16c1\u16be\u16cf\u16a3\u205a\u16aa\u16be\u16de\u2022\u16a3\u16a9\u16a2\u16b1\u2022\u16b1\u16e0\u16da\u16c1\u16cf\u16a3\u2058\n\u16a2\u16da\u16cf\u16c1\u16d7\u16aa\u16cf\u16d6\u16da\u16a3\u205a\u16a3\u16a9\u16a2\u2022\u16b9\u16c1\u16da\u16da\u2022\u16de\u16c1\u16cb\u16b3\u16a9\u16a2\u16d6\u16b1\u2022\u16aa\u16be\u2022\u16d6\u16be\u16de\u2022\u16cf\u16a9\u2022\u16cb\u16d6\u16da\u16a0\u2058\n\u16c1\u16cf\u2022\u16c1\u16cb\u2022\u16a6\u16b1\u16a9\u16a2\u16b7\u16bb\u2022\u16a6\u16c1\u16cb\u2022\u16c8\u16c1\u16da\u16b7\u16b1\u16c1\u16d7\u16aa\u16b7\u16d6\u2022\u16a6\u16aa\u16cf\u2022\u16b9\u16d6\u2022\u16cb\u16bb\u16aa\u16c8\u16d6\u2022\u16a9\u16a2\u16b1\u16cb\u16d6\u16da\u16a2\u16d6\u16cb\u2022\u16aa\u16be\u16de\u2022\u16a9\u16a2\u16b1\u2022\u16b1\u16e0\u16da\u16c1\u16cf\u16c1\u16d6\u16cb\u2058\n\u16c4\u16a9\u16a2\u16b1\u16be\u16d6\u16a3\u2022\u16de\u16d6\u16d6\u16c8\u2022\u16b9\u16c1\u16a6\u16c1\u16be\u2022\u16aa\u16be\u16de\u2022\u16a3\u16a9\u16a2\u2022\u16b9\u16c1\u16da\u16da\u2022\u16aa\u16b1\u16b1\u16c1\u16a2\u16d6\u2022\u16a9\u16a2\u16cf\u16cb\u16c1\u16de\u16d6\u2058\n\u16da\u16c1\u16b3\u16d6\u2022\u16a6\u16d6\u2022\u16c1\u16be\u16cb\u16cf\u16aa\u16b1\u205a\u16c1\u16cf\u2022\u16c1\u16cb\u2022\u16a9\u16be\u16da\u16a3\u2022\u16a6\u16b1\u16a9\u16a2\u16b7\u16bb\u2022\u16b7\u16a9\u16dd\u2022\u16b9\u16c1\u16a6\u16c1\u16be\u2022\u16a6\u16aa\u16cf\u2022\u16b9\u16d6\u2022\u16d7\u16aa\u16a3\u2022\u16d6\u16d7\u16d6\u16b1\u16b7\u16d6\u205c\n\u16b9\u16c1\u16de\u16cb\u16a9\u16d7\u205c\n\u16a3\u16a9\u16a2\u2022\u16aa\u16b1\u16d6\u2022\u16aa\u2022\u16d2\u16d6\u16dd\u2022\u16a2\u16be\u16cf\u16a9\u2022\u16a3\u16a9\u16a2\u16b1\u16cb\u16d6\u16da\u16a0\u2058\n\u16a3\u16a9\u16a2\u2022\u16aa\u16b1\u16d6\u2022\u16aa\u2022\u16da\u16aa\u16b9\u2022\u16a2\u16be\u16cf\u16a9\u2022\u16a3\u16a9\u16a2\u16b1\u16cb\u16d6\u16da\u16a0\u2058\n\u16e0\u16b3\u16bb\u2022\u16c1\u16be\u16cf\u16d6\u16da\u16da\u16c1\u16b7\u16d6\u16be\u16b3\u16d6\u2022\u16c1\u16cb\u2022\u16bb\u16a9\u16da\u16a3\u2058\n\u16a0\u16a9\u16b1\u2022\u16aa\u16da\u16da\u2022\u16a6\u16aa\u16cf\u2022\u16da\u16c1\u16a2\u16d6\u16cb\u2022\u16c1\u16cb\u2022\u16bb\u16a9\u16da\u16a3\u205c\n\u205c\u16aa\u16be\u2022\u16c1\u16be\u16cb\u16cf\u16b1\u16a2\u16b3\u16cf\u16e1\u16be\u205c\n\u16b3\u16a9\u16d7\u16d7\u16aa\u16be\u16de\u2022\u16a3\u16a9\u16a2\u16b1\u2022\u16a9\u16b9\u16be\u2022\u16cb\u16d6\u16da\u16a0\u205c"
+      },
+      "max_states": 3277
+    },
+    {
+      "index": 1,
+      "id": "held-0",
+      "k": 3,
+      "selected_rune_errors": 0,
+      "truth_gap": 1.3642420526593924e-12,
+      "source": {
+        "path": "audit/parallel-01/reference/sources/solved_0_welcome.txt",
+        "sha256": "95caaffb0ae764801bb023ba8eda15b49366cb3258aab9e26922e89e884c7b73",
+        "raw": "\u16b9\u16d6\u16da\u16b3\u16a9\u16d7\u16d6\u205c\n\u16b9\u16d6\u16da\u16b3\u16a9\u16d7\u16d6\u205a\u16c8\u16c1\u16da\u16b7\u16b1\u16c1\u16d7\u205a\u16cf\u16a9\u2022\u16a6\u16d6\u2022\u16b7\u16b1\u16e0\u16cf\u2022\u16c4\u16a9\u16a2\u16b1\u16be\u16d6\u16a3\u2022\u16cf\u16a9\u16b9\u16aa\u16b1\u16de\u2022\u16a6\u16d6\u2022\u16d6\u16be\u16de\u2022\u16a9\u16a0\u2022\u16aa\u16da\u16da\u2022\u16a6\u16dd\u16cb\u2058\n\u16c1\u16cf\u2022\u16c1\u16cb\u2022\u16be\u16a9\u16cf\u2022\u16aa\u16be\u2022\u16e0\u16cb\u16a3\u2022\u16cf\u16b1\u16c1\u16c8\u205a\u16d2\u16a2\u16cf\u2022\u16a0\u16a9\u16b1\u2022\u16a6\u16a9\u16cb\u16d6\u2022\u16b9\u16bb\u16a9\u2022\u16a0\u16c1\u16be\u16de\u2022\u16a6\u16d6\u16c1\u16b1\u2022\u16b9\u16aa\u16a3\u2022\u16bb\u16d6\u16b1\u16d6\u2022\u16c1\u16cf\u2022\u16c1\u16cb\u2022\u16aa\u2022\u16be\u16d6\u16b3\u16d6\u16cb\u16cb\u16aa\u16b1\u16a3\u2022\u16a9\u16be\u16d6\u2058\n\u16aa\u16da\u16a9\u16dd\u2022\u16a6\u16d6\u2022\u16b9\u16aa\u16a3\u2022\u16a3\u16a9\u16a2\u2022\u16b9\u16c1\u16da\u16da\u2022\u16a0\u16c1\u16be\u16de\u2022\u16aa\u16be\u2022\u16d6\u16be\u16de\u2022\u16cf\u16a9\u2022\u16aa\u16da\u16da\u2022\u16cb\u16cf\u16b1\u16a2\u16b7\u16b7\u16da\u16d6\u2022\u16aa\u16be\u16de\u2022\u16cb\u16a2\u16a0\u16a0\u16d6\u16b1\u16dd\u205a\u16a3\u16a9\u16a2\u16b1\u2022\u16c1\u16be\u16be\u16a9\u16b3\u16d6\u16be\u16b3\u16d6\u205a\u16a3\u16a9\u16a2\u16b1\u2022\u16c1\u16da\u16da\u16a2\u16cb\u16e1\u16be\u16cb\u205a\u16a3\u16a9\u16a2\u16b1\u2022\u16b3\u16d6\u16b1\u16cf\u16aa\u16c1\u16be\u16cf\u16a3\u205a\u16aa\u16be\u16de\u2022\u16a3\u16a9\u16a2\u16b1\u2022\u16b1\u16e0\u16da\u16c1\u16cf\u16a3\u2058\n\u16a2\u16da\u16cf\u16c1\u16d7\u16aa\u16cf\u16d6\u16da\u16a3\u205a\u16a3\u16a9\u16a2\u2022\u16b9\u16c1\u16da\u16da\u2022\u16de\u16c1\u16cb\u16b3\u16a9\u16a2\u16d6\u16b1\u2022\u16aa\u16be\u2022\u16d6\u16be\u16de\u2022\u16cf\u16a9\u2022\u16cb\u16d6\u16da\u16a0\u2058\n\u16c1\u16cf\u2022\u16c1\u16cb\u2022\u16a6\u16b1\u16a9\u16a2\u16b7\u16bb\u2022\u16a6\u16c1\u16cb\u2022\u16c8\u16c1\u16da\u16b7\u16b1\u16c1\u16d7\u16aa\u16b7\u16d6\u2022\u16a6\u16aa\u16cf\u2022\u16b9\u16d6\u2022\u16cb\u16bb\u16aa\u16c8\u16d6\u2022\u16a9\u16a2\u16b1\u16cb\u16d6\u16da\u16a2\u16d6\u16cb\u2022\u16aa\u16be\u16de\u2022\u16a9\u16a2\u16b1\u2022\u16b1\u16e0\u16da\u16c1\u16cf\u16c1\u16d6\u16cb\u2058\n\u16c4\u16a9\u16a2\u16b1\u16be\u16d6\u16a3\u2022\u16de\u16d6\u16d6\u16c8\u2022\u16b9\u16c1\u16a6\u16c1\u16be\u2022\u16aa\u16be\u16de\u2022\u16a3\u16a9\u16a2\u2022\u16b9\u16c1\u16da\u16da\u2022\u16aa\u16b1\u16b1\u16c1\u16a2\u16d6\u2022\u16a9\u16a2\u16cf\u16cb\u16c1\u16de\u16d6\u2058\n\u16da\u16c1\u16b3\u16d6\u2022\u16a6\u16d6\u2022\u16c1\u16be\u16cb\u16cf\u16aa\u16b1\u205a\u16c1\u16cf\u2022\u16c1\u16cb\u2022\u16a9\u16be\u16da\u16a3\u2022\u16a6\u16b1\u16a9\u16a2\u16b7\u16bb\u2022\u16b7\u16a9\u16dd\u2022\u16b9\u16c1\u16a6\u16c1\u16be\u2022\u16a6\u16aa\u16cf\u2022\u16b9\u16d6\u2022\u16d7\u16aa\u16a3\u2022\u16d6\u16d7\u16d6\u16b1\u16b7\u16d6\u205c\n\u16b9\u16c1\u16de\u16cb\u16a9\u16d7\u205c\n\u16a3\u16a9\u16a2\u2022\u16aa\u16b1\u16d6\u2022\u16aa\u2022\u16d2\u16d6\u16dd\u2022\u16a2\u16be\u16cf\u16a9\u2022\u16a3\u16a9\u16a2\u16b1\u16cb\u16d6\u16da\u16a0\u2058\n\u16a3\u16a9\u16a2\u2022\u16aa\u16b1\u16d6\u2022\u16aa\u2022\u16da\u16aa\u16b9\u2022\u16a2\u16be\u16cf\u16a9\u2022\u16a3\u16a9\u16a2\u16b1\u16cb\u16d6\u16da\u16a0\u2058\n\u16e0\u16b3\u16bb\u2022\u16c1\u16be\u16cf\u16d6\u16da\u16da\u16c1\u16b7\u16d6\u16be\u16b3\u16d6\u2022\u16c1\u16cb\u2022\u16bb\u16a9\u16da\u16a3\u2058\n\u16a0\u16a9\u16b1\u2022\u16aa\u16da\u16da\u2022\u16a6\u16aa\u16cf\u2022\u16da\u16c1\u16a2\u16d6\u16cb\u2022\u16c1\u16cb\u2022\u16bb\u16a9\u16da\u16a3\u205c\n\u205c\u16aa\u16be\u2022\u16c1\u16be\u16cb\u16cf\u16b1\u16a2\u16b3\u16cf\u16e1\u16be\u205c\n\u16b3\u16a9\u16d7\u16d7\u16aa\u16be\u16de\u2022\u16a3\u16a9\u16a2\u16b1\u2022\u16a9\u16b9\u16be\u2022\u16cb\u16d6\u16da\u16a0\u205c"
+      },
+      "max_states": 95033
+    },
+    {
+      "index": 2,
+      "id": "held-1",
+      "k": 2,
+      "selected_rune_errors": 0,
+      "truth_gap": 3.410605131648481e-13,
+      "source": {
+        "path": "audit/parallel-01/reference/sources/solved_jpg107-167.txt",
+        "sha256": "2dd885e1785ffee22692901167edb1a37a0fae87c7d765bf53f799b108663b6c",
+        "raw": "\u16aa\u2022\u16b3\u16a9\u16aa\u16be\u205c\n\u16de\u16a2\u16b1\u16dd\u2022\u16aa\u2022\u16da\u16d6\u16cb\u16cb\u16a9\u16be\u205a\u16a6\u16d6\u2022\u16d7\u16aa\u16cb\u16cf\u16d6\u16b1\u2022\u16d6\u16c9\u16c8\u16da\u16aa\u16c1\u16be\u16d6\u16de\u2022\u16a6\u16d6\u2022\u16c1\u2058\n\"\u16a6\u16d6\u2022\u16c1\u2022\u16c1\u16cb\u2022\u16a6\u16d6\u2022\u16a2\u16a9\u16c1\u16b3\u16d6\u2022\u16a9\u16a0\u2022\u16a6\u16d6\u2022\u16b3\u16c1\u16b1\u16b3\u16a2\u16d7\u16a0\u16d6\u16b1\u16d6\u16be\u16b3\u16d6\u205a\"\u16bb\u16d6\u2022\u16cb\u16aa\u16c1\u16de\u2058\n\u16b9\u16bb\u16d6\u16be\u2022\u16aa\u16cb\u16b3\u16d6\u16de\u2022\u16d2\u16a3\u2022\u16aa\u2022\u16cb\u16cf\u16a2\u16de\u16d6\u16be\u16cf\u2022\u16cf\u16a9\u2022\u16d6\u16c9\u16c8\u16da\u16aa\u16c1\u16be\u2022\u16b9\u16bb\u16aa\u16cf\u2022\u16a6\u16aa\u16cf\u2022\u16d7\u16e0\u16be\u16cf\u205a\u2022\u16a6\u16d6\u2022\u16d7\u16aa\u16cb\u16cf\u16d6\u16b1\u2022\u16cb\u16aa\u16c1\u16de\"\u16c1\u16cf\u2022\u16c1\u16cb\u2022\u16aa\u2022\u16a2\u16a9\u16c1\u16b3\u16d6\u2022\u16c1\u16be\u16cb\u16c1\u16de\u16d6\u2022\u16a3\u16a9\u16a2\u16b1\u2022\u16bb\u16e0\u16de\"\u2058\n\"\u16c1\u2022\u16de\u16a9\u16be'\u16cf\u2022\u16bb\u16aa\u16a2\u16d6\u2022\u16aa\u2022\u16a2\u16a9\u16c1\u16b3\u16d6\u2022\u16c1\u16be\u2022\u16d7\u16a3\u2022\u16bb\u16e0\u16de\u205a\"\u2022\u16a6\u16a9\u16a2\u16b7\u16bb\u16cf\u2022\u16a6\u16d6\u2022\u16cb\u16cf\u16a2\u16de\u16d6\u16be\u16cf\u205a\u16aa\u16be\u16de\u2022\u16bb\u16d6\u2022\u16b1\u16aa\u16c1\u16cb\u16d6\u16de\u2022\u16bb\u16c1\u16cb\u2022\u16bb\u16aa\u16be\u16de\u2022\u16cf\u16a9\u2022\u16cf\u16d6\u16da\u16da\u2022\u16a6\u16d6\u2022\u16d7\u16aa\u16cb\u16cf\u16d6\u16b1\u2058\n\u16a6\u16d6\u2022\u16d7\u16aa\u16cb\u16cf\u16d6\u16b1\u2022\u16cb\u16cf\u16a9\u16c8\u16c8\u16d6\u16de\u2022\u16a6\u16d6\u2022\u16cb\u16cf\u16a2\u16de\u16d6\u16be\u16cf\u205a\u16aa\u16be\u16de\u2022\u16cb\u16aa\u16c1\u16de\"\u16a6\u16d6\u2022\u16a2\u16a9\u16c1\u16b3\u16d6\u2022\u16a6\u16aa\u16cf\u2022\u16c4\u16a2\u16cb\u16cf\u2022\u16cb\u16aa\u16c1\u16de\u2022\u16a3\u16a9\u16a2\u2022\u16bb\u16aa\u16a2\u16d6\u2022\u16be\u16a9\u2022\u16a2\u16a9\u16c1\u16b3\u16d6\u2022\u16c1\u16be\u2022\u16a3\u16a9\u16a2\u16b1\u2022\u16bb\u16e0\u16de\u205a\u2022\u16c1\u16cb\u2022\u16a6\u16d6\u2022\u16c1\u2058\n\"\u16aa\u16be\u16de\u2022\u16a6\u16d6\u2022\u16cb\u16cf\u16a2\u16de\u16d6\u16be\u16cf\u16cb\u2022\u16b9\u16d6\u16b1\u16d6\u2022\u16d6\u16be\u16da\u16c1\u16b7\u16bb\u16cf\u16d6\u16be\u16d6\u16de\u205c"
+      },
+      "max_states": 1681
+    },
+    {
+      "index": 3,
+      "id": "held-1",
+      "k": 3,
+      "selected_rune_errors": 0,
+      "truth_gap": 3.410605131648481e-13,
+      "source": {
+        "path": "audit/parallel-01/reference/sources/solved_jpg107-167.txt",
+        "sha256": "2dd885e1785ffee22692901167edb1a37a0fae87c7d765bf53f799b108663b6c",
+        "raw": "\u16aa\u2022\u16b3\u16a9\u16aa\u16be\u205c\n\u16de\u16a2\u16b1\u16dd\u2022\u16aa\u2022\u16da\u16d6\u16cb\u16cb\u16a9\u16be\u205a\u16a6\u16d6\u2022\u16d7\u16aa\u16cb\u16cf\u16d6\u16b1\u2022\u16d6\u16c9\u16c8\u16da\u16aa\u16c1\u16be\u16d6\u16de\u2022\u16a6\u16d6\u2022\u16c1\u2058\n\"\u16a6\u16d6\u2022\u16c1\u2022\u16c1\u16cb\u2022\u16a6\u16d6\u2022\u16a2\u16a9\u16c1\u16b3\u16d6\u2022\u16a9\u16a0\u2022\u16a6\u16d6\u2022\u16b3\u16c1\u16b1\u16b3\u16a2\u16d7\u16a0\u16d6\u16b1\u16d6\u16be\u16b3\u16d6\u205a\"\u16bb\u16d6\u2022\u16cb\u16aa\u16c1\u16de\u2058\n\u16b9\u16bb\u16d6\u16be\u2022\u16aa\u16cb\u16b3\u16d6\u16de\u2022\u16d2\u16a3\u2022\u16aa\u2022\u16cb\u16cf\u16a2\u16de\u16d6\u16be\u16cf\u2022\u16cf\u16a9\u2022\u16d6\u16c9\u16c8\u16da\u16aa\u16c1\u16be\u2022\u16b9\u16bb\u16aa\u16cf\u2022\u16a6\u16aa\u16cf\u2022\u16d7\u16e0\u16be\u16cf\u205a\u2022\u16a6\u16d6\u2022\u16d7\u16aa\u16cb\u16cf\u16d6\u16b1\u2022\u16cb\u16aa\u16c1\u16de\"\u16c1\u16cf\u2022\u16c1\u16cb\u2022\u16aa\u2022\u16a2\u16a9\u16c1\u16b3\u16d6\u2022\u16c1\u16be\u16cb\u16c1\u16de\u16d6\u2022\u16a3\u16a9\u16a2\u16b1\u2022\u16bb\u16e0\u16de\"\u2058\n\"\u16c1\u2022\u16de\u16a9\u16be'\u16cf\u2022\u16bb\u16aa\u16a2\u16d6\u2022\u16aa\u2022\u16a2\u16a9\u16c1\u16b3\u16d6\u2022\u16c1\u16be\u2022\u16d7\u16a3\u2022\u16bb\u16e0\u16de\u205a\"\u2022\u16a6\u16a9\u16a2\u16b7\u16bb\u16cf\u2022\u16a6\u16d6\u2022\u16cb\u16cf\u16a2\u16de\u16d6\u16be\u16cf\u205a\u16aa\u16be\u16de\u2022\u16bb\u16d6\u2022\u16b1\u16aa\u16c1\u16cb\u16d6\u16de\u2022\u16bb\u16c1\u16cb\u2022\u16bb\u16aa\u16be\u16de\u2022\u16cf\u16a9\u2022\u16cf\u16d6\u16da\u16da\u2022\u16a6\u16d6\u2022\u16d7\u16aa\u16cb\u16cf\u16d6\u16b1\u2058\n\u16a6\u16d6\u2022\u16d7\u16aa\u16cb\u16cf\u16d6\u16b1\u2022\u16cb\u16cf\u16a9\u16c8\u16c8\u16d6\u16de\u2022\u16a6\u16d6\u2022\u16cb\u16cf\u16a2\u16de\u16d6\u16be\u16cf\u205a\u16aa\u16be\u16de\u2022\u16cb\u16aa\u16c1\u16de\"\u16a6\u16d6\u2022\u16a2\u16a9\u16c1\u16b3\u16d6\u2022\u16a6\u16aa\u16cf\u2022\u16c4\u16a2\u16cb\u16cf\u2022\u16cb\u16aa\u16c1\u16de\u2022\u16a3\u16a9\u16a2\u2022\u16bb\u16aa\u16a2\u16d6\u2022\u16be\u16a9\u2022\u16a2\u16a9\u16c1\u16b3\u16d6\u2022\u16c1\u16be\u2022\u16a3\u16a9\u16a2\u16b1\u2022\u16bb\u16e0\u16de\u205a\u2022\u16c1\u16cb\u2022\u16a6\u16d6\u2022\u16c1\u2058\n\"\u16aa\u16be\u16de\u2022\u16a6\u16d6\u2022\u16cb\u16cf\u16a2\u16de\u16d6\u16be\u16cf\u16cb\u2022\u16b9\u16d6\u16b1\u16d6\u2022\u16d6\u16be\u16da\u16c1\u16b7\u16bb\u16cf\u16d6\u16be\u16d6\u16de\u205c"
+      },
+      "max_states": 95033
+    },
+    {
+      "index": 4,
+      "id": "held-2",
+      "k": 2,
+      "selected_rune_errors": 0,
+      "truth_gap": 5.684341886080802e-14,
+      "source": {
+        "path": "audit/parallel-01/reference/sources/solved_p56_an_end.txt",
+        "sha256": "3b82bf89e740dde1d1f8261ddf17e028f7d4bbc8933a1e972a564822f4e4d511",
+        "raw": "\u16aa\u16be\u2022\u16d6\u16be\u16de\u205c\n\u16b9\u16c1\u16a6\u16c1\u16be\u2022\u16a6\u16d6\u2022\u16de\u16d6\u16d6\u16c8\u2022\u16b9\u16d6\u16d2\u205a\u2022\u16a6\u16d6\u16b1\u16d6\u2022\u16d6\u16c9\u16c1\u16cb\u16cf\u16cb\u2022\u16aa\u2022\u16c8\u16aa\u16b7\u16d6\u2022\u16a6\u16aa\u16cf\u2022\u16bb\u16aa\u16cb\u16bb\u16d6\u16cb\u2022\u16cf\u16a9\u205c\n36367763ab73783c7af284446c59466b4cd653239a311cb7116d4618dee09a8425893dc7500b464fdaf1672d7bef5e891c6e2274568926a49fb4f45132c2a8b4\u2058\n\u16c1\u16cf\u2022\u16c1\u16cb\u2022\u16a6\u16d6\u2022\u16de\u16a2\u16cf\u16a3\u2022\u16a9\u16a0\u2022\u16d6\u16a2\u16d6\u16b1\u16a3\u2022\u16c8\u16c1\u16da\u16b7\u16b1\u16c1\u16d7\u2022\u16cf\u16a9\u2022\u16cb\u16d6\u16d6\u16b3\u2022\u16a9\u16a2\u16cf\u2022\u16a6\u16c1\u16cb\u2022\u16c8\u16aa\u16b7\u16d6\u205c"
+      },
+      "max_states": 1653
+    },
+    {
+      "index": 5,
+      "id": "held-2",
+      "k": 3,
+      "selected_rune_errors": 0,
+      "truth_gap": 5.684341886080802e-14,
+      "source": {
+        "path": "audit/parallel-01/reference/sources/solved_p56_an_end.txt",
+        "sha256": "3b82bf89e740dde1d1f8261ddf17e028f7d4bbc8933a1e972a564822f4e4d511",
+        "raw": "\u16aa\u16be\u2022\u16d6\u16be\u16de\u205c\n\u16b9\u16c1\u16a6\u16c1\u16be\u2022\u16a6\u16d6\u2022\u16de\u16d6\u16d6\u16c8\u2022\u16b9\u16d6\u16d2\u205a\u2022\u16a6\u16d6\u16b1\u16d6\u2022\u16d6\u16c9\u16c1\u16cb\u16cf\u16cb\u2022\u16aa\u2022\u16c8\u16aa\u16b7\u16d6\u2022\u16a6\u16aa\u16cf\u2022\u16bb\u16aa\u16cb\u16bb\u16d6\u16cb\u2022\u16cf\u16a9\u205c\n36367763ab73783c7af284446c59466b4cd653239a311cb7116d4618dee09a8425893dc7500b464fdaf1672d7bef5e891c6e2274568926a49fb4f45132c2a8b4\u2058\n\u16c1\u16cf\u2022\u16c1\u16cb\u2022\u16a6\u16d6\u2022\u16de\u16a2\u16cf\u16a3\u2022\u16a9\u16a0\u2022\u16d6\u16a2\u16d6\u16b1\u16a3\u2022\u16c8\u16c1\u16da\u16b7\u16b1\u16c1\u16d7\u2022\u16cf\u16a9\u2022\u16cb\u16d6\u16d6\u16b3\u2022\u16a9\u16a2\u16cf\u2022\u16a6\u16c1\u16cb\u2022\u16c8\u16aa\u16b7\u16d6\u205c"
+      },
+      "max_states": 48749
+    },
+    {
+      "index": 6,
+      "id": "held-3",
+      "k": 2,
+      "selected_rune_errors": 0,
+      "truth_gap": 1.1368683772161603e-13,
+      "source": {
+        "path": "audit/parallel-01/reference/sources/solved_p57_parable.txt",
+        "sha256": "63c685205fcc753364d12ea72f7e120c6eba4031ab658cdf6fbf3da1d8749f25",
+        "raw": "\u16c8\u16aa\u16b1\u16aa\u16d2\u16da\u16d6\u205c\n\u16da\u16c1\u16b3\u16d6\u2022\u16a6\u16d6\u2022\u16c1\u16be\u16cb\u16cf\u16aa\u16b1\u2022\u16cf\u16a2\u16be\u16be\u16d6\u16da\u16dd\u2022\u16cf\u16a9\u2022\u16a6\u16d6\u2022\u16cb\u16a2\u16b1\u16a0\u16aa\u16b3\u16d6\u2058\n\u16b9\u16d6\u2022\u16d7\u16a2\u16cb\u16cf\u2022\u16cb\u16bb\u16d6\u16de\u2022\u16a9\u16a2\u16b1\u2022\u16a9\u16b9\u16be\u2022\u16b3\u16c1\u16b1\u16b3\u16a2\u16d7\u16a0\u16d6\u16b1\u16d6\u16be\u16b3\u16d6\u16cb\u2058\n\u16a0\u16c1\u16be\u16de\u2022\u16a6\u16d6\u2022\u16de\u16c1\u16a2\u16c1\u16be\u16c1\u16cf\u16a3\u2022\u16b9\u16c1\u16a6\u16c1\u16be\u2022\u16aa\u16be\u16de\u2022\u16d6\u16d7\u16d6\u16b1\u16b7\u16d6\u205c"
+      },
+      "max_states": 1681
+    },
+    {
+      "index": 7,
+      "id": "held-3",
+      "k": 3,
+      "selected_rune_errors": 0,
+      "truth_gap": 1.1368683772161603e-13,
+      "source": {
+        "path": "audit/parallel-01/reference/sources/solved_p57_parable.txt",
+        "sha256": "63c685205fcc753364d12ea72f7e120c6eba4031ab658cdf6fbf3da1d8749f25",
+        "raw": "\u16c8\u16aa\u16b1\u16aa\u16d2\u16da\u16d6\u205c\n\u16da\u16c1\u16b3\u16d6\u2022\u16a6\u16d6\u2022\u16c1\u16be\u16cb\u16cf\u16aa\u16b1\u2022\u16cf\u16a2\u16be\u16be\u16d6\u16da\u16dd\u2022\u16cf\u16a9\u2022\u16a6\u16d6\u2022\u16cb\u16a2\u16b1\u16a0\u16aa\u16b3\u16d6\u2058\n\u16b9\u16d6\u2022\u16d7\u16a2\u16cb\u16cf\u2022\u16cb\u16bb\u16d6\u16de\u2022\u16a9\u16a2\u16b1\u2022\u16a9\u16b9\u16be\u2022\u16b3\u16c1\u16b1\u16b3\u16a2\u16d7\u16a0\u16d6\u16b1\u16d6\u16be\u16b3\u16d6\u16cb\u2058\n\u16a0\u16c1\u16be\u16de\u2022\u16a6\u16d6\u2022\u16de\u16c1\u16a2\u16c1\u16be\u16c1\u16cf\u16a3\u2022\u16b9\u16c1\u16a6\u16c1\u16be\u2022\u16aa\u16be\u16de\u2022\u16d6\u16d7\u16d6\u16b1\u16b7\u16d6\u205c"
+      },
+      "max_states": 48749
+    },
+    {
+      "index": 8,
+      "id": "fresh-guest-0",
+      "k": 2,
+      "selected_rune_errors": 0,
+      "truth_gap": -3.410605131648481e-13,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "guest",
+        "rune_span": [
+          0,
+          249
+        ]
+      },
+      "max_states": 1681
+    },
+    {
+      "index": 9,
+      "id": "fresh-guest-0",
+      "k": 3,
+      "selected_rune_errors": 1,
+      "truth_gap": 0.6031942798957743,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "guest",
+        "rune_span": [
+          0,
+          249
+        ]
+      },
+      "max_states": 48749
+    },
+    {
+      "index": 10,
+      "id": "fresh-guest-1",
+      "k": 2,
+      "selected_rune_errors": 0,
+      "truth_gap": 1.1368683772161603e-12,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "guest",
+        "rune_span": [
+          901,
+          1416
+        ]
+      },
+      "max_states": 3277
+    },
+    {
+      "index": 11,
+      "id": "fresh-guest-1",
+      "k": 3,
+      "selected_rune_errors": 0,
+      "truth_gap": 1.1368683772161603e-12,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "guest",
+        "rune_span": [
+          901,
+          1416
+        ]
+      },
+      "max_states": 48749
+    },
+    {
+      "index": 12,
+      "id": "fresh-guest-2",
+      "k": 2,
+      "selected_rune_errors": 0,
+      "truth_gap": 2.7284841053187847e-12,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "guest",
+        "rune_span": [
+          1801,
+          2517
+        ]
+      },
+      "max_states": 3277
+    },
+    {
+      "index": 13,
+      "id": "fresh-guest-2",
+      "k": 3,
+      "selected_rune_errors": 0,
+      "truth_gap": 2.7284841053187847e-12,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "guest",
+        "rune_span": [
+          1801,
+          2517
+        ]
+      },
+      "max_states": 48749
+    },
+    {
+      "index": 14,
+      "id": "fresh-mill-0",
+      "k": 2,
+      "selected_rune_errors": 0,
+      "truth_gap": -2.2737367544323206e-13,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "mill",
+        "rune_span": [
+          0,
+          249
+        ]
+      },
+      "max_states": 3277
+    },
+    {
+      "index": 15,
+      "id": "fresh-mill-0",
+      "k": 3,
+      "selected_rune_errors": 0,
+      "truth_gap": -2.2737367544323206e-13,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "mill",
+        "rune_span": [
+          0,
+          249
+        ]
+      },
+      "max_states": 48749
+    },
+    {
+      "index": 16,
+      "id": "fresh-mill-1",
+      "k": 2,
+      "selected_rune_errors": 0,
+      "truth_gap": 9.094947017729282e-13,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "mill",
+        "rune_span": [
+          900,
+          1415
+        ]
+      },
+      "max_states": 3277
+    },
+    {
+      "index": 17,
+      "id": "fresh-mill-1",
+      "k": 3,
+      "selected_rune_errors": 0,
+      "truth_gap": 9.094947017729282e-13,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "mill",
+        "rune_span": [
+          900,
+          1415
+        ]
+      },
+      "max_states": 95033
+    },
+    {
+      "index": 18,
+      "id": "fresh-mill-2",
+      "k": 2,
+      "selected_rune_errors": 0,
+      "truth_gap": 0.0,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "mill",
+        "rune_span": [
+          1802,
+          2518
+        ]
+      },
+      "max_states": 3277
+    },
+    {
+      "index": 19,
+      "id": "fresh-mill-2",
+      "k": 3,
+      "selected_rune_errors": 0,
+      "truth_gap": 0.0,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "mill",
+        "rune_span": [
+          1802,
+          2518
+        ]
+      },
+      "max_states": 95033
+    },
+    {
+      "index": 20,
+      "id": "fresh-shelley-0",
+      "k": 2,
+      "selected_rune_errors": 1,
+      "truth_gap": 1.2528996906326029,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "shelley",
+        "rune_span": [
+          0,
+          249
+        ]
+      },
+      "max_states": 1681
+    },
+    {
+      "index": 21,
+      "id": "fresh-shelley-0",
+      "k": 3,
+      "selected_rune_errors": 0,
+      "truth_gap": -1.1368683772161603e-13,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "shelley",
+        "rune_span": [
+          0,
+          249
+        ]
+      },
+      "max_states": 48749
+    },
+    {
+      "index": 22,
+      "id": "fresh-shelley-1",
+      "k": 2,
+      "selected_rune_errors": 0,
+      "truth_gap": 6.821210263296962e-13,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "shelley",
+        "rune_span": [
+          905,
+          1420
+        ]
+      },
+      "max_states": 3277
+    },
+    {
+      "index": 23,
+      "id": "fresh-shelley-1",
+      "k": 3,
+      "selected_rune_errors": 2,
+      "truth_gap": 6.57348931680167,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "shelley",
+        "rune_span": [
+          905,
+          1420
+        ]
+      },
+      "max_states": 95033
+    },
+    {
+      "index": 24,
+      "id": "fresh-shelley-2",
+      "k": 2,
+      "selected_rune_errors": 0,
+      "truth_gap": -4.547473508864641e-13,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "shelley",
+        "rune_span": [
+          1800,
+          2516
+        ]
+      },
+      "max_states": 3277
+    },
+    {
+      "index": 25,
+      "id": "fresh-shelley-2",
+      "k": 3,
+      "selected_rune_errors": 0,
+      "truth_gap": -4.547473508864641e-13,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "shelley",
+        "rune_span": [
+          1800,
+          2516
+        ]
+      },
+      "max_states": 95033
+    },
+    {
+      "index": 26,
+      "id": "fresh-blake-0",
+      "k": 2,
+      "selected_rune_errors": 0,
+      "truth_gap": 4.547473508864641e-13,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "blake",
+        "rune_span": [
+          0,
+          249
+        ]
+      },
+      "max_states": 1681
+    },
+    {
+      "index": 27,
+      "id": "fresh-blake-0",
+      "k": 3,
+      "selected_rune_errors": 0,
+      "truth_gap": 4.547473508864641e-13,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "blake",
+        "rune_span": [
+          0,
+          249
+        ]
+      },
+      "max_states": 48749
+    },
+    {
+      "index": 28,
+      "id": "fresh-blake-1",
+      "k": 2,
+      "selected_rune_errors": 0,
+      "truth_gap": 0.0,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "blake",
+        "rune_span": [
+          905,
+          1420
+        ]
+      },
+      "max_states": 3277
+    },
+    {
+      "index": 29,
+      "id": "fresh-blake-1",
+      "k": 3,
+      "selected_rune_errors": 0,
+      "truth_gap": 0.0,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "blake",
+        "rune_span": [
+          905,
+          1420
+        ]
+      },
+      "max_states": 95033
+    },
+    {
+      "index": 30,
+      "id": "fresh-blake-2",
+      "k": 2,
+      "selected_rune_errors": 0,
+      "truth_gap": 1.8189894035458565e-12,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "blake",
+        "rune_span": [
+          1800,
+          2516
+        ]
+      },
+      "max_states": 3277
+    },
+    {
+      "index": 31,
+      "id": "fresh-blake-2",
+      "k": 3,
+      "selected_rune_errors": 0,
+      "truth_gap": 1.8189894035458565e-12,
+      "source": {
+        "packet": "exploration/persistent-02/decoder/fresh-controls.json",
+        "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd",
+        "source_id": "blake",
+        "rune_span": [
+          1800,
+          2516
+        ]
+      },
+      "max_states": 48749
+    }
+  ]
+}

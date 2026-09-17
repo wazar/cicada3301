@@ -1,0 +1,41 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "-S",
+    "exploration/persistent-02/bootstrap/literal_f_exact_dp.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T08:17:24.397169+00:00",
+  "timeout_seconds": 120,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/bootstrap/literal_f_exact_dp.py",
+      "exists": true,
+      "bytes": 8717,
+      "sha256": "8288d54fcd8fca4711222b9bdaf38568b0bd0e72977ec2f32a21e2c23aca1edb"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "5982f176c141f9928c32e72fd44704861d3676f4e8211593b50c727694b0b42d"
+    }
+  ],
+  "outcome": "NONZERO",
+  "exit_code": 2,
+  "pid": 32981,
+  "finished_utc": "2026-09-17T08:17:24.477310+00:00",
+  "duration_seconds": 0.07983262500056298
+}

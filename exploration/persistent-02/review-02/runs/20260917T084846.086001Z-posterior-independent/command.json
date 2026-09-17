@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/review-02/check_posterior.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T08:48:46.094583+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/decoder/posterior.py",
+      "exists": true,
+      "bytes": 4605,
+      "sha256": "1a33500b0b323c1689bb3e3736d989c180730a752c635a31d8087c807558bbef"
+    },
+    {
+      "path": "exploration/persistent-02/review-02/check_invariant.py",
+      "exists": true,
+      "bytes": 4469,
+      "sha256": "79ff81386b824a429826ca6f9af1aaf599a9a6ad1e748f3088cd2ec9588cc33b"
+    },
+    {
+      "path": "exploration/persistent-02/review-02/check_posterior.py",
+      "exists": true,
+      "bytes": 4833,
+      "sha256": "2033636947dd3bacdeace8c11711aee3bb1ccb79fb0b3b0beff5ef84a77dfe26"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 39132,
+  "finished_utc": "2026-09-17T08:48:46.303610+00:00",
+  "duration_seconds": 0.20879679200152168
+}

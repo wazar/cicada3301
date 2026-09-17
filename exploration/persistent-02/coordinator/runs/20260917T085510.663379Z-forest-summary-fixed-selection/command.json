@@ -1,0 +1,65 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/coordinator/check_forest_summary_selection.py",
+    "forest-summary-after-fix.json"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T08:55:10.672042+00:00",
+  "timeout_seconds": 90,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/coordinator/aggregate_q12.py",
+      "exists": true,
+      "bytes": 3195,
+      "sha256": "8ec56e7c6e661782999d5959ac39f99758f65749c685d635ba5733ecc955ea89"
+    },
+    {
+      "path": "exploration/persistent-02/coordinator/check_forest_summary_selection.py",
+      "exists": true,
+      "bytes": 1215,
+      "sha256": "e51dbc2d9588a03c07858c613dd79f6b06b49d30c5518b1118c4a1ff4e3c590a"
+    },
+    {
+      "path": "exploration/persistent-02/coordinator/reconstruct_q12_null.py",
+      "exists": true,
+      "bytes": 3701,
+      "sha256": "447402ab3d6f752b0e335ef67ede6d5f204c8ce31f66cc2ffe341a3342575d3a"
+    },
+    {
+      "path": "exploration/persistent-02/coordinator/tie_rounding_check.py",
+      "exists": true,
+      "bytes": 1216,
+      "sha256": "975fe34e04df9b0577b9d9ddc2199f40cd580538642937b26ae25c44112c1bd7"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    },
+    {
+      "path": "exploration/persistent-02/section/summarize_forest.py",
+      "exists": true,
+      "bytes": 2622,
+      "sha256": "8c4f2ab6b5382f34a60b8547ce8c38cb76024254aa0548d97c63a39f2c5ca37b"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 39682,
+  "finished_utc": "2026-09-17T08:55:10.939131+00:00",
+  "duration_seconds": 0.2668766249989858
+}

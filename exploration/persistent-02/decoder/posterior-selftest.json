@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "cases": 800,
+  "legal": 620,
+  "exhausted": 180,
+  "complete_paths": 25761,
+  "max_absolute_error": 4.4297898682543746e-14,
+  "beam_pool_checks": 300,
+  "results_sha256": "45754b86c9595b3ba9aaf5ef2409675b0aaf6cfd8f24bdfcf94308bb94529abf",
+  "seconds": 1.0015012079966255,
+  "scope": "Independent complete decision masks, branch/state/phase marginals, partition/pathcount/top16mass; signs, initial context, phase/finiteposition, boundaries, ties, exhaustion, empty input.100 P03 beam fixtures \u00d73widths."
+}

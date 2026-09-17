@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/section/a01.py", line 86, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/section/a01.py", line 68, in main
+    p,ends=M.parse((R/'audit/parallel-01/reference/sources'/('solved_'+name+'.txt')).read_text());n=len(p);cuts=[0,n//3,2*n//3,n];spans=list(zip(cuts,cuts[1:]));cell=cells[[9,37,64,80][j]];policy=['continuous','page-reset'][j%2];c=[];u=0
+                                                                                                                                                                      ~~~~~^^^^^^^^^^^^^^^^^
+IndexError: list index out of range

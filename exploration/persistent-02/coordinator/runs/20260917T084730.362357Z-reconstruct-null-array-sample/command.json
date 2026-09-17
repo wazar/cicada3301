@@ -1,0 +1,69 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/coordinator/reconstruct_q12_null.py",
+    "reconstruct",
+    "--name",
+    "actual1-null00",
+    "--out",
+    "exploration/persistent-02/coordinator/reconstructed-local/actual1-null00.npz"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T08:47:30.371496+00:00",
+  "timeout_seconds": 90,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q12-sum-autokey/test.py",
+      "exists": true,
+      "bytes": 6753,
+      "sha256": "aabb5dd9e171136f7464d07ad4ccf3f33aefcd9ee683e69c0702d36832f366b6"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p03_frozen.py",
+      "exists": true,
+      "bytes": 6350,
+      "sha256": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05"
+    },
+    {
+      "path": "exploration/persistent-02/coordinator/aggregate_q12.py",
+      "exists": true,
+      "bytes": 3195,
+      "sha256": "8ec56e7c6e661782999d5959ac39f99758f65749c685d635ba5733ecc955ea89"
+    },
+    {
+      "path": "exploration/persistent-02/coordinator/reconstruct_q12_null.py",
+      "exists": true,
+      "bytes": 3701,
+      "sha256": "447402ab3d6f752b0e335ef67ede6d5f204c8ce31f66cc2ffe341a3342575d3a"
+    },
+    {
+      "path": "exploration/persistent-02/coordinator/tie_rounding_check.py",
+      "exists": true,
+      "bytes": 1216,
+      "sha256": "975fe34e04df9b0577b9d9ddc2199f40cd580538642937b26ae25c44112c1bd7"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 39048,
+  "finished_utc": "2026-09-17T08:47:30.814573+00:00",
+  "duration_seconds": 0.44284616699587787
+}

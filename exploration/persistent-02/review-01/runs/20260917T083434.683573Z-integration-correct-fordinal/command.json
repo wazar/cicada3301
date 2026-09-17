@@ -1,0 +1,82 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/review-01/integration_checks.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T08:34:34.694142+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q12-sum-autokey/test.py",
+      "exists": true,
+      "bytes": 6753,
+      "sha256": "aabb5dd9e171136f7464d07ad4ccf3f33aefcd9ee683e69c0702d36832f366b6"
+    },
+    {
+      "path": "exploration/persistent-02/coordinator/aggregate_q12.py",
+      "exists": true,
+      "bytes": 3195,
+      "sha256": "8ec56e7c6e661782999d5959ac39f99758f65749c685d635ba5733ecc955ea89"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/compare.py",
+      "exists": true,
+      "bytes": 5289,
+      "sha256": "bd4c9d7e81bbf4a0c0e6aefbeef5711b1d6c67f25a972b5ae00a9d1ee6571ad5"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/exact.py",
+      "exists": true,
+      "bytes": 3231,
+      "sha256": "770c777d3ad7e767f1876e9d87c970536b92f248b7bfa028f8f8a3f4ccaf5d58"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/fresh-controls.json",
+      "exists": true,
+      "bytes": 511780,
+      "sha256": "24abe7295bb86021bc89b8d522bcf34197b25e73e7ddd5b085cff39821080ebd"
+    },
+    {
+      "path": "exploration/persistent-02/feedback/structured.py",
+      "exists": true,
+      "bytes": 3941,
+      "sha256": "8585213cc5092c85d4cbcad983df6254e272eb83a4780d66b64f965c0bb87bab"
+    },
+    {
+      "path": "exploration/persistent-02/review-01/independent_checks.py",
+      "exists": true,
+      "bytes": 4291,
+      "sha256": "0f8e2c56bf8be7fa222a96df207ebebdb3d2a08e1b086fbe112d125a3b749098"
+    },
+    {
+      "path": "exploration/persistent-02/review-01/integration_checks.py",
+      "exists": true,
+      "bytes": 6018,
+      "sha256": "b93576833e3811ad0d6b3ec01c4664a9ce2ebb71a1cfd8d18c7147d406540b78"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 36941,
+  "finished_utc": "2026-09-17T08:34:37.201620+00:00",
+  "duration_seconds": 2.5072100830002455
+}

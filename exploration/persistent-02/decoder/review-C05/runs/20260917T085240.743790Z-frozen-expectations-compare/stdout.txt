@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "expected_manifest_sha256": "514c806360924426ba50344b7a78c86d2b25699cddf8f330a55b5d36ed8047d2",
+  "engine_sha256": "1617455979d4b38277a1279751eb72c7ecabae6421905b89036464d3545fae2d",
+  "case_count": 72,
+  "complete_enumerated_seed_mask_paths": 1352328,
+  "max_abs_score_error": 0.0,
+  "state_guard": "exact state budget exceeded: 30 > 1; no approximate result",
+  "seconds": 1.20379341700027,
+  "limits": "Best global score and every returned representative validated. Returned final-state representatives are not global top16. Memory guard applies retained-state count after candidate arrays allocated, not hard RSS cap. Review not blind to proposal, frozen expected cases preceded implementation inspection."
+}

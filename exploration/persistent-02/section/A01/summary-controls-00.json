@@ -1,0 +1,118 @@
+[
+  {
+    "label": "control-0_welcome",
+    "seconds": 0.2806395000006887,
+    "selected_cell": "WELCOME-DIVINITY:4:1",
+    "prefix_score": -2.2639148593553027,
+    "continuation_scores": {
+      "continuous": [
+        -2.3691426261634057,
+        -2.163424717308589
+      ],
+      "page-reset": [
+        -2.8180123266750283,
+        -3.8891879918786496
+      ]
+    },
+    "errors": {
+      "continuous": [
+        0,
+        0,
+        0
+      ],
+      "page-reset": [
+        0,
+        26,
+        105
+      ]
+    },
+    "truth_prefix_key_rank": 1
+  },
+  {
+    "label": "control-jpg107-167",
+    "seconds": 0.14719079199858243,
+    "selected_cell": "KOAN-CIRCUMFERENCE:0:1",
+    "prefix_score": -1.8982230091655015,
+    "continuation_scores": {
+      "continuous": [
+        -2.7252751740397696,
+        -3.729188188728267
+      ],
+      "page-reset": [
+        -2.192211685970543,
+        -2.091834633731481
+      ]
+    },
+    "errors": {
+      "continuous": [
+        0,
+        24,
+        57
+      ],
+      "page-reset": [
+        0,
+        0,
+        0
+      ]
+    },
+    "truth_prefix_key_rank": 1
+  },
+  {
+    "label": "control-p56_an_end",
+    "seconds": 0.001897916998132132,
+    "selected_cell": "KOAN-CIRCUMFERENCE:8:-1",
+    "prefix_score": -2.264457060423322,
+    "continuation_scores": {
+      "continuous": [
+        -2.3041557196931337,
+        -2.851064240536521
+      ],
+      "page-reset": [
+        -5.477161784162901,
+        -4.628771526267877
+      ]
+    },
+    "errors": {
+      "continuous": [
+        0,
+        0,
+        0
+      ],
+      "page-reset": [
+        0,
+        24,
+        22
+      ]
+    },
+    "truth_prefix_key_rank": 1
+  },
+  {
+    "label": "control-p57_parable",
+    "seconds": 0.0026962080009980127,
+    "selected_cell": "KOAN-CIRCUMFERENCE:12:-1",
+    "prefix_score": -2.6043984674721736,
+    "continuation_scores": {
+      "continuous": [
+        -4.266586112832748,
+        -4.31313085301152
+      ],
+      "page-reset": [
+        -2.36661410543786,
+        -1.9029080045296491
+      ]
+    },
+    "errors": {
+      "continuous": [
+        0,
+        27,
+        27
+      ],
+      "page-reset": [
+        0,
+        0,
+        0
+      ]
+    },
+    "truth_prefix_key_rank": 1
+  }
+]

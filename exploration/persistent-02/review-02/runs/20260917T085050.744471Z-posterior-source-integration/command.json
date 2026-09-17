@@ -1,0 +1,76 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/review-02/check_posterior_sources.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T08:50:50.753558+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/decoder/complementary-model.json",
+      "exists": true,
+      "bytes": 482397,
+      "sha256": "4f5382855758f91401808ee50ebcdf9428950686a03cda83c34636c17de271f3"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/complementary.py",
+      "exists": true,
+      "bytes": 3925,
+      "sha256": "5b9f9fc070db43ddbe17d32bf775f80798a2883a822fadda4a5f0c57b097cdea"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/posterior.py",
+      "exists": true,
+      "bytes": 4605,
+      "sha256": "1a33500b0b323c1689bb3e3736d989c180730a752c635a31d8087c807558bbef"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/posterior_run.py",
+      "exists": true,
+      "bytes": 3116,
+      "sha256": "25298ecadc05aadb6154de18642dfd89f70b99a7d52cedde3e257430808e860c"
+    },
+    {
+      "path": "exploration/persistent-02/review-02/check_invariant.py",
+      "exists": true,
+      "bytes": 4469,
+      "sha256": "79ff81386b824a429826ca6f9af1aaf599a9a6ad1e748f3088cd2ec9588cc33b"
+    },
+    {
+      "path": "exploration/persistent-02/review-02/check_posterior.py",
+      "exists": true,
+      "bytes": 4833,
+      "sha256": "2033636947dd3bacdeace8c11711aee3bb1ccb79fb0b3b0beff5ef84a77dfe26"
+    },
+    {
+      "path": "exploration/persistent-02/review-02/check_posterior_sources.py",
+      "exists": true,
+      "bytes": 3167,
+      "sha256": "c7cfa8547411ecd5279734e10640698a9f469730aa68839311df7b8f5b590d96"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 39332,
+  "finished_utc": "2026-09-17T08:50:52.643430+00:00",
+  "duration_seconds": 1.88967587499792
+}

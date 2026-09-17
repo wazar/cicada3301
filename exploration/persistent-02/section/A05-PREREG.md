@@ -1,0 +1,7 @@
+# A05: the one complementary scorer on unchanged section rules
+
+Use B's already-frozen P02-complementary-v1 (complementary.py and complementary-model.json), not a model trained/tuned by A. Four external authors1000bodywords each, same interpolation orders/smoothing, jointly changed corpus and GP lexical preprocessing; all LP texts and B's fresh-control authors excluded. Read source; record hashes. This is the assignment's one additional model, not a sequence of tuned scorers.
+
+Repeat exactly A01/A02's fixed grids, four existing plant ciphers per family, actual body/whole, and same19comparator ciphers per representation. Select each model's key/phase/sign and16prefix alternatives on page0only; then apply unchanged clocks through1/2. Models can select different keys from the same prior-frozen list. Reuse the A04 ≤4096-path forest to propagate retained uncertainty. Primary comparison: truth recovery/rank and actual complete alternatives, with matched within-model continuation/full-score rankings; do not compare raw scores between models as if calibrated equally. Full objective ranking is not single-heldout prediction.
+
+No new source choices, vocabulary, offsets, glyph repairs, weighting mixture, decoder branch or third procedural hypothesis. Incomplete control recovery is reported; arithmetic discrepancies block affectedimplementation. Imperfect English recovery does not stop unrelated B/Cwork. If this model also produces only fragments for this finite grid, do not add another language model or more key words.

@@ -1,0 +1,407 @@
+{
+  "passed": true,
+  "examples": [
+    {
+      "cipher": [
+        0,
+        1,
+        0,
+        2,
+        0
+      ],
+      "key": [
+        0
+      ],
+      "periodic": true,
+      "distinct_plaintexts": 1,
+      "expected_paths": 8,
+      "expected_literal_probability": 0.5,
+      "result": {
+        "log_partition": -23.06025162403932,
+        "number_of_legal_decision_paths": "8",
+        "branch_marginals": [
+          {
+            "position": 0,
+            "ordinary": {
+              "log_probability": -0.6931471805599436,
+              "probability": 0.5000000000000009
+            },
+            "literal": {
+              "log_probability": -0.6931471805599436,
+              "probability": 0.5000000000000009
+            }
+          },
+          {
+            "position": 2,
+            "ordinary": {
+              "log_probability": -0.6931471805599436,
+              "probability": 0.5000000000000009
+            },
+            "literal": {
+              "log_probability": -0.6931471805599436,
+              "probability": 0.5000000000000009
+            }
+          },
+          {
+            "position": 4,
+            "ordinary": {
+              "log_probability": -0.6931471805599436,
+              "probability": 0.5000000000000009
+            },
+            "literal": {
+              "log_probability": -0.6931471805599436,
+              "probability": 0.5000000000000009
+            }
+          }
+        ],
+        "joins": [
+          {
+            "cut_after_rune_count": 0,
+            "states": [
+              {
+                "position": 0,
+                "context": [
+                  29,
+                  29
+                ],
+                "log_probability": 0.0,
+                "probability": 1.0
+              }
+            ],
+            "key_positions": [
+              {
+                "position": 0,
+                "log_probability": 0.0,
+                "probability": 1.0
+              }
+            ]
+          },
+          {
+            "cut_after_rune_count": 1,
+            "states": [
+              {
+                "position": 0,
+                "context": [
+                  29,
+                  0
+                ],
+                "log_probability": 0.0,
+                "probability": 1.0
+              }
+            ],
+            "key_positions": [
+              {
+                "position": 0,
+                "log_probability": 0.0,
+                "probability": 1.0
+              }
+            ]
+          },
+          {
+            "cut_after_rune_count": 2,
+            "states": [
+              {
+                "position": 0,
+                "context": [
+                  0,
+                  1
+                ],
+                "log_probability": -3.552713678800501e-15,
+                "probability": 0.9999999999999964
+              }
+            ],
+            "key_positions": [
+              {
+                "position": 0,
+                "log_probability": -3.552713678800501e-15,
+                "probability": 0.9999999999999964
+              }
+            ]
+          },
+          {
+            "cut_after_rune_count": 3,
+            "states": [
+              {
+                "position": 0,
+                "context": [
+                  1,
+                  0
+                ],
+                "log_probability": 3.552713678800501e-15,
+                "probability": 1.0000000000000036
+              }
+            ],
+            "key_positions": [
+              {
+                "position": 0,
+                "log_probability": 3.552713678800501e-15,
+                "probability": 1.0000000000000036
+              }
+            ]
+          },
+          {
+            "cut_after_rune_count": 4,
+            "states": [
+              {
+                "position": 0,
+                "context": [
+                  0,
+                  2
+                ],
+                "log_probability": 0.0,
+                "probability": 1.0
+              }
+            ],
+            "key_positions": [
+              {
+                "position": 0,
+                "log_probability": 0.0,
+                "probability": 1.0
+              }
+            ]
+          },
+          {
+            "cut_after_rune_count": 5,
+            "states": [
+              {
+                "position": 0,
+                "context": [
+                  0,
+                  29
+                ],
+                "log_probability": 0.0,
+                "probability": 1.0
+              }
+            ],
+            "key_positions": [
+              {
+                "position": 0,
+                "log_probability": 0.0,
+                "probability": 1.0
+              }
+            ]
+          }
+        ],
+        "max_live_states": 1,
+        "retained_transition_edges": 8,
+        "seconds": 6.183299410622567e-05,
+        "scope": "Normalized exp(local-score sum) over legal decision paths; duplicate plaintext paths distinct, no calibrated plaintext confidence. Log-domain float arithmetic; extreme marginal probabilities may underflow but log probabilities retained."
+      }
+    },
+    {
+      "cipher": [
+        0,
+        0,
+        0
+      ],
+      "key": [
+        0,
+        0
+      ],
+      "periodic": false,
+      "distinct_plaintexts": 1,
+      "expected_paths": 7,
+      "expected_literal_probability": 0.5714285714285714,
+      "result": {
+        "log_partition": -10.940868793618334,
+        "number_of_legal_decision_paths": "7",
+        "branch_marginals": [
+          {
+            "position": 0,
+            "ordinary": {
+              "log_probability": -0.8472978603872026,
+              "probability": 0.42857142857142905
+            },
+            "literal": {
+              "log_probability": -0.5596157879354227,
+              "probability": 0.5714285714285714
+            }
+          },
+          {
+            "position": 1,
+            "ordinary": {
+              "log_probability": -0.8472978603872037,
+              "probability": 0.42857142857142855
+            },
+            "literal": {
+              "log_probability": -0.5596157879354228,
+              "probability": 0.5714285714285714
+            }
+          },
+          {
+            "position": 2,
+            "ordinary": {
+              "log_probability": -0.8472978603872037,
+              "probability": 0.42857142857142855
+            },
+            "literal": {
+              "log_probability": -0.5596157879354228,
+              "probability": 0.5714285714285714
+            }
+          }
+        ],
+        "joins": [
+          {
+            "cut_after_rune_count": 0,
+            "states": [
+              {
+                "position": 0,
+                "context": [
+                  29,
+                  29
+                ],
+                "log_probability": 0.0,
+                "probability": 1.0
+              }
+            ],
+            "key_positions": [
+              {
+                "position": 0,
+                "log_probability": 0.0,
+                "probability": 1.0
+              }
+            ]
+          },
+          {
+            "cut_after_rune_count": 1,
+            "states": [
+              {
+                "position": 1,
+                "context": [
+                  29,
+                  0
+                ],
+                "log_probability": -0.8472978603872026,
+                "probability": 0.42857142857142905
+              },
+              {
+                "position": 0,
+                "context": [
+                  29,
+                  0
+                ],
+                "log_probability": -0.5596157879354227,
+                "probability": 0.5714285714285714
+              }
+            ],
+            "key_positions": [
+              {
+                "position": 0,
+                "log_probability": -0.5596157879354227,
+                "probability": 0.5714285714285714
+              },
+              {
+                "position": 1,
+                "log_probability": -0.8472978603872026,
+                "probability": 0.42857142857142905
+              }
+            ]
+          },
+          {
+            "cut_after_rune_count": 2,
+            "states": [
+              {
+                "position": 2,
+                "context": [
+                  0,
+                  0
+                ],
+                "log_probability": -1.9459101490553135,
+                "probability": 0.14285714285714285
+              },
+              {
+                "position": 1,
+                "context": [
+                  0,
+                  0
+                ],
+                "log_probability": -0.5596157879354227,
+                "probability": 0.5714285714285714
+              },
+              {
+                "position": 0,
+                "context": [
+                  0,
+                  0
+                ],
+                "log_probability": -1.252762968495368,
+                "probability": 0.2857142857142857
+              }
+            ],
+            "key_positions": [
+              {
+                "position": 0,
+                "log_probability": -1.252762968495368,
+                "probability": 0.2857142857142857
+              },
+              {
+                "position": 1,
+                "log_probability": -0.5596157879354227,
+                "probability": 0.5714285714285714
+              },
+              {
+                "position": 2,
+                "log_probability": -1.9459101490553135,
+                "probability": 0.14285714285714285
+              }
+            ]
+          },
+          {
+            "cut_after_rune_count": 3,
+            "states": [
+              {
+                "position": 2,
+                "context": [
+                  0,
+                  29
+                ],
+                "log_probability": -0.8472978603872043,
+                "probability": 0.42857142857142827
+              },
+              {
+                "position": 1,
+                "context": [
+                  0,
+                  29
+                ],
+                "log_probability": -0.8472978603872043,
+                "probability": 0.42857142857142827
+              },
+              {
+                "position": 0,
+                "context": [
+                  0,
+                  29
+                ],
+                "log_probability": -1.9459101490553135,
+                "probability": 0.14285714285714285
+              }
+            ],
+            "key_positions": [
+              {
+                "position": 0,
+                "log_probability": -1.9459101490553135,
+                "probability": 0.14285714285714285
+              },
+              {
+                "position": 1,
+                "log_probability": -0.8472978603872043,
+                "probability": 0.42857142857142827
+              },
+              {
+                "position": 2,
+                "log_probability": -0.8472978603872043,
+                "probability": 0.42857142857142827
+              }
+            ]
+          }
+        ],
+        "max_live_states": 3,
+        "retained_transition_edges": 11,
+        "seconds": 2.5332999939564615e-05,
+        "scope": "Normalized exp(local-score sum) over legal decision paths; duplicate plaintext paths distinct, no calibrated plaintext confidence. Log-domain float arithmetic; extreme marginal probabilities may underflow but log probabilities retained."
+      }
+    }
+  ],
+  "scope": "All legal paths produce identical plaintext; sum-product mass is over decisions, not distinct plaintext. Finite exhaustion conditions the branch distribution."
+}

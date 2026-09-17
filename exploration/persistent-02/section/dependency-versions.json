@@ -1,0 +1,13 @@
+{
+  "recorded_utc": "2026-09-17T08:43:28.782106+00:00",
+  "note": "Checkpoint hashes supplement per-run snapshots; not a claim that unrecorded loaded dependencies were independently snapshotted at every earlier start.",
+  "dependencies": {
+    "exploration/persistent-02/decoder/exact.py": "770c777d3ad7e767f1876e9d87c970536b92f248b7bfa028f8f8a3f4ccaf5d58",
+    "exploration/persistent-02/decoder/complementary.py": "5b9f9fc070db43ddbe17d32bf775f80798a2883a822fadda4a5f0c57b097cdea",
+    "exploration/persistent-02/decoder/complementary-model.json": "4f5382855758f91401808ee50ebcdf9428950686a03cda83c34636c17de271f3",
+    "exploration/persistent-02/decoder/compare.py": "bd4c9d7e81bbf4a0c0e6aefbeef5711b1d6c67f25a972b5ae00a9d1ee6571ad5",
+    "exploration/persistent-01/worker-c/p03_frozen.py": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05",
+    "exploration/persistent-01/worker-c/frozen_kbest.py": "bdd54bf0fdbd07f9115e9354ae7ef3e913b554a5d2f6a5587f4ae21c328f5390",
+    "audit/parallel-01/reference/reference.py": "9d0f285f7137c69e0d464cab996ffb91aa75819610d7b26e3ce13c37d3de342e"
+  }
+}

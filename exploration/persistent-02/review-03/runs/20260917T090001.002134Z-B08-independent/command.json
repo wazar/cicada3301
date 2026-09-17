@@ -1,0 +1,64 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/review-03/check_dominance.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T09:00:01.012172+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/decoder/dominance-source-tables.json",
+      "exists": true,
+      "bytes": 14929,
+      "sha256": "50584d40ce958a2d7eabecd62ae261670a599a8dd9303e937de14526ff0d1750"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/dominance.json",
+      "exists": true,
+      "bytes": 36142,
+      "sha256": "530d33419cf26f3f67372cc88580d1af7087215b2c968a984b1c3fc9683e5323"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/dominance.py",
+      "exists": true,
+      "bytes": 5312,
+      "sha256": "5be4ea3b306f51bda8d3baad478bbc5bcab1505650f0ca3dd45bc9e1d6c7c715"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/dominance_source_table.py",
+      "exists": true,
+      "bytes": 1370,
+      "sha256": "70bf6b2a6759f0a20728c5a03710900ac4f0d2e6d8cc4dbfe26a681823845991"
+    },
+    {
+      "path": "exploration/persistent-02/review-03/check_dominance.py",
+      "exists": true,
+      "bytes": 6502,
+      "sha256": "8aeee28b64cbe799831b6497e9768bbfae119c13cd2f821f5097d7fea17bcae2"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 40409,
+  "finished_utc": "2026-09-17T09:00:01.139490+00:00",
+  "duration_seconds": 0.12704745899827685
+}

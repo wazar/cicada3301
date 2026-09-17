@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/decoder/rounding_tie_fixture.py", line 9, in <module>
+    assert int(d['optimal_path_ties'])==2,'Original tie-count claim fails under float rounding'
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Original tie-count claim fails under float rounding
