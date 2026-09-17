@@ -1,0 +1,13 @@
+{
+  "purpose": "Bounded independent visual check; first row as alphabet familiarisation, subsequent rows calibration before discovery inspection. No all-glyph accuracy claim. Existing source labels of calibration rows withheld until handwritten rune choices frozen.",
+  "source": "audit/parallel-01/inputs/sources/56.jpg",
+  "source_sha256": "a4c1c9ae1246c3197fc1d7bd0155cbc97f60d4bba84a104d45f180feab1814dc",
+  "bbox": [
+    570,
+    625,
+    1810,
+    1180
+  ],
+  "crop": "exploration/persistent-02/coordinator/glyph-check/control56-top.png",
+  "crop_sha256": "d571ebaa62e83da754e2dcfe65294fedbc29bb7dc96d937ec8caae501a48bef1"
+}

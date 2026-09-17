@@ -1,0 +1,51 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/decoder/reset-feedback/histogram/publication/reconstruct.py",
+    "reconstruct",
+    "--name",
+    "case3/07-complementary-prefix-k7",
+    "--out",
+    "exploration/persistent-02/decoder/reset-feedback/histogram/publication/author-sample.npz"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "0562dac4a22124958a423ff9322dbbaf8a1147f6",
+  "started_utc": "2026-09-17T09:56:40.657931+00:00",
+  "timeout_seconds": 60,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/decoder/reset-feedback/histogram/publication/array-manifest.json",
+      "exists": true,
+      "bytes": 2237363,
+      "sha256": "605091cb5fadc47f5a492ddd6b264a6f30c38c03ccf6ae30a85d1a2e163fce67"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/reset-feedback/histogram/publication/reconstruct.py",
+      "exists": true,
+      "bytes": 3910,
+      "sha256": "4375aa95cbaf8424fa6fa0742869ae5bfcf9474f21a6a38ef717293c5f38e1e4"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 52882,
+  "finished_utc": "2026-09-17T09:56:40.789183+00:00",
+  "duration_seconds": 0.13097329200536478
+}

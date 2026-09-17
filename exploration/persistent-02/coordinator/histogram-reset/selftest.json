@@ -1,0 +1,70 @@
+{
+  "passed": true,
+  "cases": [
+    {
+      "input": [
+        0,
+        1,
+        2,
+        1,
+        2,
+        3
+      ],
+      "states": 12,
+      "proposal_denominator": 25,
+      "triples": 1728,
+      "total_integer_mass": 2929687500,
+      "rank_le_one_third_numerator": 486256888,
+      "denominator": 2929687500,
+      "trace": {
+        "proposals": 100,
+        "accepted": 61,
+        "changed": 25,
+        "hamming_from_start": 4
+      }
+    },
+    {
+      "input": [
+        1,
+        1,
+        0,
+        2,
+        3,
+        2
+      ],
+      "states": 2,
+      "proposal_denominator": 25,
+      "triples": 8,
+      "total_integer_mass": 488281250,
+      "rank_le_one_third_numerator": 0,
+      "denominator": 488281250,
+      "trace": {
+        "proposals": 100,
+        "accepted": 34,
+        "changed": 0,
+        "hamming_from_start": 0
+      }
+    },
+    {
+      "input": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "states": 6,
+      "proposal_denominator": 9,
+      "triples": 216,
+      "total_integer_mass": 3188646,
+      "rank_le_one_third_numerator": 798660,
+      "denominator": 3188646,
+      "trace": {
+        "proposals": 100,
+        "accepted": 100,
+        "changed": 60,
+        "hamming_from_start": 3
+      }
+    }
+  ],
+  "code_sha256": "7571413cbd3a3fed455856255ea7e9937a9c4593bcdc76cd2a2a35c73e0dc4a6"
+}

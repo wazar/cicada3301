@@ -13,3 +13,9 @@ Example (choose an unused output path):
 ```
 
 The session logger may be used while its fixed research window is active. It deliberately refuses new jobs after the deadline; future research needs a separately authorised window. Pure reconstruction does not modify old evidence.
+
+## R02 factor archives
+
+The1,584 new histogram-sensitivity factor archives total2,153,015,659bytes. They remain unchanged locally and are excluded only fromGit through.git/info/exclude. Published cellJSON includes all fitted solutions, alternatives, bounds and scores. The pureW/B/q arrays are losslessly reconstructed by decoder/reset-feedback/histogram/publication/reconstruct.py, with per-array dtype/shape/raw-byte hashes and complete source/model/input pins in array-manifest.json.
+
+Author checked case3/07-complementary-prefix-k7. Coordinator independently selected case0/19-p03-full-k5, reproduced all rawbytes and compared directly against the untouched local archive; evidence R02-publication-check.json. No optimizer or new scientific search was run. New ZIPcontainer bytes need not be identical in another environment. This avoids a>2GBGitHubpack while preserving exact reproducibility of these redundant factors.

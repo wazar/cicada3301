@@ -1,0 +1,60 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/decoder/reset-feedback/histogram/aggregate.py",
+    "--case",
+    "3"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "0562dac4a22124958a423ff9322dbbaf8a1147f6",
+  "started_utc": "2026-09-17T09:45:05.181471+00:00",
+  "timeout_seconds": 60,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/decoder/reset-feedback/histogram/adapter.py",
+      "exists": true,
+      "bytes": 4292,
+      "sha256": "d3035c7dee5b18242d1a68c425c9b706fb699a06bfbe18dd234b8885bec3605a"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/reset-feedback/histogram/aggregate.py",
+      "exists": true,
+      "bytes": 2174,
+      "sha256": "d743a0804818f828950201ad9c6c41b2c0c21f49a8054653521ecf10cde07d7f"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/reset-feedback/histogram/finalize.py",
+      "exists": true,
+      "bytes": 1588,
+      "sha256": "3b655bee17f9c4f3ca71e256a065ad3a7c33e54f8f21243deb19fd748ae40547"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/reset-feedback/histogram/pins.json",
+      "exists": true,
+      "bytes": 3996,
+      "sha256": "a9930b66fa2e7fe9f53abb8f561aec420b0e8d75ef03c4b36bded4d4757e7fba"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 51310,
+  "finished_utc": "2026-09-17T09:45:05.391656+00:00",
+  "duration_seconds": 0.20990729099867167
+}

@@ -1,0 +1,58 @@
+{
+  "alphabet": 2,
+  "k": 2,
+  "cipher_prefix": [
+    0,
+    0,
+    0
+  ],
+  "omitted_seed_state": [
+    2,
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ]
+  ],
+  "path1": {
+    "seed": [
+      0,
+      1
+    ],
+    "plain": [
+      0,
+      0,
+      1
+    ],
+    "literal": [
+      true,
+      false,
+      false
+    ],
+    "normal_count": 2
+  },
+  "path2": {
+    "seed": [
+      1,
+      0
+    ],
+    "plain": [
+      1,
+      0,
+      1
+    ],
+    "literal": [
+      false,
+      false,
+      false
+    ],
+    "normal_count": 3
+  },
+  "reset_next_cipher": 1,
+  "path1_next_normal_plain": 1,
+  "path2_next_normal_plain": 0,
+  "interpretation": "At the fixed next reset, histories clear but the two immutable seeds produce different next ordinary plaintexts. Matching active history/context alone is not a sufficient state."
+}

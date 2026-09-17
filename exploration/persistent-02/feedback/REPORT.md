@@ -39,3 +39,11 @@ C07 is now frozen to45eligible pages and411sample-size-bounded phasefeatures, wi
 Publication qualification for C01: root preserves all original local nullNPZs but may omit redundant files from Git to avoid oversized packs. `../coordinator/C01-null-array-manifest.json` and `../coordinator/reconstruct_q12_null.py` preserve exact per-array hashes and reconstruct them from every publishedcipher/ends/model/algorithm. Actual full arrays and all actual/null JSON outputs are retained for publication. This does not discard local raw evidence.
 
 C07completed with whole45page/411feature rank.535, strongestfeature8/k2alreadycoveredbyC01. No seedfit follows the selectedlocalrank.025. Short-control limitations and the false-low uniformlocalrank.015 are retained in C07/REPORT.md; all249-rune plants were detectable in this specified composite, but66/121rune cases vary strongly. This supports a clock-assumption test, not automatic longerseeds. Rootassigned C08 exactsame-seed reset atA07major marks, literalF still excludedfromnormalhistory; compactfixedseedpartitions will be assessedat k2first before anyk3costexpansion.
+
+
+## C08 completed 09:36 UTC
+
+Exact shared-seed k2 feedback reset at A07 marks, with literal-F exclusion, passed independent algorithm/adapter review. Controls P03 7/8 exact, complementary 8/8; P03 p57 two-rune scoring miss retained. Actual20-panel full/continuation ranks P03 .55/.50, complementary .85/.30; complete leaders incoherent. No candidate, no timeout or state refusal. See C08/REPORT.md and C08-actual model summaries. No automatic k3 expansion.
+
+
+C10 completed09:44UTC: fixed canonical DIVINITY8/circumference13, literal-F SAMEmajor resets; no unknown longer-seed widening. Independent A review cleared. Controls15/16exact each model, distinct scoring misses. P03 circumference coarse fullrank.05/tail.10, complementary.45/.50; no coherent output, ranking anomaly retained. Fullfamily ranks P03.05/.10 vs complementary.70/.85.240fixed-seed solves complete/no refusal, all files stable. See C10/REPORT.md. No active feedback job.

@@ -1,0 +1,90 @@
+{
+  "readings_sha256": "b551cf33cdfb5363a43c75ce955c32115277b8893e265fd82bc6762da8701753",
+  "results": [
+    {
+      "row": 1,
+      "observed": [
+        3,
+        25,
+        13,
+        19,
+        23,
+        23,
+        1,
+        6,
+        7,
+        20,
+        23,
+        9,
+        26,
+        11,
+        5,
+        0,
+        28,
+        25,
+        16
+      ],
+      "expected": [
+        3,
+        24,
+        13,
+        19,
+        23,
+        23,
+        1,
+        6,
+        7,
+        20,
+        23,
+        9,
+        26,
+        11,
+        5,
+        0,
+        27,
+        25,
+        16
+      ],
+      "equal_length": true,
+      "mismatches": [
+        {
+          "position": 1,
+          "observed": 25,
+          "expected": 24
+        },
+        {
+          "position": 16,
+          "observed": 28,
+          "expected": 27
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "observed": [
+        13,
+        12,
+        3,
+        2,
+        5,
+        25
+      ],
+      "expected": [
+        13,
+        12,
+        24,
+        2,
+        5,
+        25
+      ],
+      "equal_length": true,
+      "mismatches": [
+        {
+          "position": 2,
+          "observed": 3,
+          "expected": 24
+        }
+      ]
+    }
+  ]
+}

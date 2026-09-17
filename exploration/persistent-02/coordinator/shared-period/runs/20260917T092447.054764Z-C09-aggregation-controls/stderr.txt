@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/coordinator/shared-period/test.py", line 63, in <module>
+    elif sys.argv[1]=='selftest':selftest()
+                                 ^^^^^^^^^^
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/coordinator/shared-period/test.py", line 55, in selftest
+    ties=aggregate(fs,np.ones((200,len(fs))));assert ties['rank']==1 and np.all(ties['maximum']==0)
+                                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

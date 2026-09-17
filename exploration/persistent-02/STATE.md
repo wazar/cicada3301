@@ -54,3 +54,21 @@ A07major-mark reset arithmetic/core/adapter independently checked inreview04. A 
 Next concrete gap: same shared feedback seed resetting at SAMEverifiedmajor marks (A’s third/finalhypothesis), unlike prior uninterruptedfeedback or fixedkeyreset. C08literalF implementation partitions fixedk2seedspace in29chunks, retaining seedidentity acrossresets; no silent pruning or automatick3extension. Formerreview01nativeworker now IMPLEMENTS structured no-F counterpart in decoder/reset-feedback; it cannot review its own newcode. Conditionalx0 may absorb cross-reset scorecouplings into unary terms for existingcyclicbound. A willfreshreview both beforeactual. Native runtime rejected oldBreactivation/newagent creation; reusingexistingcompletednative slot worked. Noadditionalcontroller.
 
 Root bounded visualcalibration solved56 gave22/25runes afterfirstrowfamiliarisation; errors A/AE,O/A,IA/EA retained. It doesnotjustify broad independent glyphreread, and noinputrepair was made.
+
+## Fifth checkpoint — continued adjudication work
+
+Second reviewed checkpoint0562dac4a22124958a423ff9322dbbaf8a1147f6 pushed. C08 exactunknownk2 sharedseed+literalFreset full/continuation ranks P03 .55/.50, complementary .85/.30; no candidate. C09distributedcommonk aggregation rank.67; twelve natural distributedcontrols detecttruek, uniformcontrolsordinary. No newseedcoverage or keywidth follows.
+
+R01structurednoFsharedseedreset k5–8 certified320/320cells,88/88plants exact. Actualfullrank1/20bothmodels bysmallmargins; frozenprefixcontinuation1/20P03,9/20complementary. Differentfullfitseeds, completeoutputs incoherent. Preserve departure without upgradingtosolution. R02ONEhistogram-conditioned comparison frozen: exactsamefit/keys/models/horizons; symmetric constrainedswap hub-and-spoke sampler adds fullinventoryconditioning to Fsites/equalitymask. IndependentA checkedfiniteintegerkernel/probabilitysymmetry and15fulltracewalks; B scoringfourunchangedcontrolcasesbeforeactualcomparators, actualfitnotrerun. No mixing/global-significance claim.
+
+C10fixedsourceDIVINITY8/circumference13 literalFfeedbackreset testedcanonicalvectorsonly (no rotations or unknownseedband). P03circumference full.05/tail.10; complementarycircumference.45/.50. Completeleaders incoherent. Source support explicitlyweak: solvedvectors do not command feedbackseeding. Freshreviewpassed; newCslot reviewsA08 next.
+
+A08changes adjudication only for existingA07additivekeygrid/majorresetrule: exactwithinsegmentliteral-mask enumeration under rune coincidence, no trainedthirdmodel. Integer tie/carryhandling andcontrols required; page0cut carriesunfinishedhistogram/keyposition into continuation. This testsEnglishrankinglimitations, notnewkeys/clocks. It canfavorrepetitive/nonlanguage strings; actualonlyaftercapabilityandrevisedstatefreshreview. Window remainsactive until16:15:06UTC; noSTOPorcontrollercreated.
+
+## Sixth checkpoint — 10:06 UTC
+
+R02 completed: actual full-fit rank2/20 under both frozen models, continuation1/20 P03 and14/20 complementary. All four language controls recovered exactly. No new comparator draws or variants follow. Redundant factor arrays remain locally intact; published reconstruction manifests pin every raw array, with independent representative reconstruction matching originals.
+
+A08 coincidence arithmetic passed fresh review after a finite-key exhaustion correction. Capability failed: only4/15 exactly enumerated plants retained true full plaintext among maxima, despite10/15 true-key ranks1. A sixteenth plant exceeded the declared mask cap. An initial9.5GB memory spike was stopped; streamed resume peaked218MB. All failure evidence remains. Alphabet-shift blindness explains misleading finite-key winners. No actual A08 search was run and this adjudicator branch is closed.
+
+C11 is the next substantive construction test: literal F still consumes no key but enters the last-k emitted-plaintext feedback history. C05/C08 excluded literal Fs from feedback history. Seed-consumption phase and history length must be represented separately. C implements and A independently reviews; same k2/3 band, frozen scoring models and section, no resets initially. This is a construction distinction, not expanded seed width. The fixed deadline remains16:15:06UTC.

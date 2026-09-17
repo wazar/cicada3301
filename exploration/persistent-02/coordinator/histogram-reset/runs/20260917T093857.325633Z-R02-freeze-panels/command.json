@@ -1,0 +1,53 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/coordinator/histogram-reset/sample.py",
+    "prepare"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "0562dac4a22124958a423ff9322dbbaf8a1147f6",
+  "started_utc": "2026-09-17T09:38:57.336196+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/coordinator/histogram-reset/PREREG.md",
+      "exists": true,
+      "bytes": 3652,
+      "sha256": "6b55d64510a302f1454fa647fff987d2090c7ab13e5e283893d14ba2925de7be"
+    },
+    {
+      "path": "exploration/persistent-02/coordinator/histogram-reset/sample.py",
+      "exists": true,
+      "bytes": 4585,
+      "sha256": "7571413cbd3a3fed455856255ea7e9937a9c4593bcdc76cd2a2a35c73e0dc4a6"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/reset-feedback/inputs.json",
+      "exists": true,
+      "bytes": 683431,
+      "sha256": "361993e24359dabc1069c9513a2ffba455c1defe3ef3117d5c0f660c2cf65923"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 50029,
+  "finished_utc": "2026-09-17T09:39:05.333091+00:00",
+  "duration_seconds": 7.9966234589956
+}

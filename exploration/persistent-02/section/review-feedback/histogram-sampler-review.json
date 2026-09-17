@@ -1,0 +1,91 @@
+{
+  "passed": true,
+  "tiny": [
+    {
+      "states": 2,
+      "source": [
+        1,
+        1,
+        2,
+        2
+      ],
+      "den": 16,
+      "chain_steps": 3,
+      "triple_mass": 137438953472,
+      "low_rank_mass": 0
+    },
+    {
+      "states": 2,
+      "source": [
+        0,
+        1,
+        2,
+        1,
+        2
+      ],
+      "den": 16,
+      "chain_steps": 3,
+      "triple_mass": 137438953472,
+      "low_rank_mass": 0
+    },
+    {
+      "states": 2,
+      "source": [
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "den": 25,
+      "chain_steps": 3,
+      "triple_mass": 7629394531250,
+      "low_rank_mass": 0
+    },
+    {
+      "states": 6,
+      "source": [
+        0,
+        1,
+        2,
+        3,
+        1
+      ],
+      "den": 16,
+      "chain_steps": 3,
+      "triple_mass": 412316860416,
+      "low_rank_mass": 84174981120
+    },
+    {
+      "states": 12,
+      "source": [
+        1,
+        2,
+        1,
+        3,
+        2
+      ],
+      "den": 25,
+      "chain_steps": 3,
+      "triple_mass": 45776367187500,
+      "low_rank_mass": 9161318662148
+    },
+    {
+      "states": 1,
+      "source": [
+        0,
+        1,
+        0
+      ],
+      "den": 1,
+      "chain_steps": 3,
+      "triple_mass": 1,
+      "low_rank_mass": 0
+    }
+  ],
+  "real_endpoints": 105,
+  "trace_metadata": 100,
+  "complete_replayed_walks": 15,
+  "replayed_proposals": 1074000,
+  "hashes_verified": true
+}

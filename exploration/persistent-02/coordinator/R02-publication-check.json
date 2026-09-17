@@ -1,0 +1,24 @@
+{
+  "original": "exploration/persistent-02/decoder/reset-feedback/histogram/cells/case0/19-p03-full-k5.npz",
+  "reconstructed": "exploration/persistent-02/coordinator/reconstructed-local/R02-case0-panel19-p03-full-k5.npz",
+  "arrays": {
+    "W": {
+      "exact_array_bytes": true,
+      "same_dtype": true,
+      "same_shape": true
+    },
+    "B": {
+      "exact_array_bytes": true,
+      "same_dtype": true,
+      "same_shape": true
+    },
+    "q": {
+      "exact_array_bytes": true,
+      "same_dtype": true,
+      "same_shape": true
+    }
+  },
+  "original_archive_sha256": "fed1887bd479a418e67930fc6ab30f4333789c498db5ae37586b568e60022ec6",
+  "reconstructed_archive_sha256": "fed1887bd479a418e67930fc6ab30f4333789c498db5ae37586b568e60022ec6",
+  "note": "Independent coordinator selected different actual-comparator/full/P03/k5cell than authorcontrol/prefix/complementary/k7 sample. Purefactor reconstruction, no optimization/search rerun."
+}

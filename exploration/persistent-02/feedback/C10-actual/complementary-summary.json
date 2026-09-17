@@ -1,0 +1,24 @@
+{
+  "model": "complementary",
+  "keys": [
+    {
+      "key": "WELCOME-DIVINITY",
+      "actual_maximum": -5.669350667277708,
+      "score_rank": 0.9,
+      "actual_continuation": -5.742216090493316,
+      "continuation_rank": 0.85
+    },
+    {
+      "key": "KOAN-CIRCUMFERENCE",
+      "actual_maximum": -5.586958800213546,
+      "score_rank": 0.45,
+      "actual_continuation": -5.640514429803697,
+      "continuation_rank": 0.5
+    }
+  ],
+  "max_key_score_rank": 0.7,
+  "max_key_continuation_rank": 0.85,
+  "seconds": 1.1626271700006328,
+  "max_states": 128,
+  "peak_rss": 98959360
+}

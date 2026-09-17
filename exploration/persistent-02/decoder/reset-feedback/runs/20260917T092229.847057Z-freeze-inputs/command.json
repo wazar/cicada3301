@@ -1,0 +1,70 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/decoder/reset-feedback/freeze.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "1627fbb3d06557199b91d9bf1fff71183e63ee75",
+  "started_utc": "2026-09-17T09:22:29.858084+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/coordinator/C08-structured-reset-proposal.md",
+      "exists": true,
+      "bytes": 2949,
+      "sha256": "86ce498ffbc1e5997a19a2cb0a66b402f839e17c7f3de8960055b2be8ff7f786"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/reset-feedback/common.py",
+      "exists": true,
+      "bytes": 1384,
+      "sha256": "da4c5eb7ece32228ff5594f539ad0f65c2c876815c21a4c21f81cf45e211f729"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/reset-feedback/freeze.py",
+      "exists": true,
+      "bytes": 2170,
+      "sha256": "268cafb31a42507d4a1e9bef91a6daf3e7f43db5040f010965414de6c17bb574"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/reset-feedback/model.py",
+      "exists": true,
+      "bytes": 2997,
+      "sha256": "0936e352dc748824d65a8e8567915730b722b485fc6cfe86c6c7b95e2edf9e37"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/reset-feedback/solver.py",
+      "exists": true,
+      "bytes": 3545,
+      "sha256": "93c43d3299d714a02d0b55d034be47bd00cf3cbb8fc31ae587960a1573b62f11"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    },
+    {
+      "path": "exploration/persistent-02/section/A07-inputs.json",
+      "exists": true,
+      "bytes": 669996,
+      "sha256": "a7c2322c5c8abffe0179c4101c70775fbbf8db76c9b2a09d2485d5563674315f"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 44191,
+  "finished_utc": "2026-09-17T09:22:29.989483+00:00",
+  "duration_seconds": 0.1311152080015745
+}

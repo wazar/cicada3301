@@ -1,0 +1,87 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/decoder/reset-feedback/histogram/publication/reconstruct.py",
+    "reconstruct",
+    "--name",
+    "case0/19-p03-full-k5",
+    "--out",
+    "exploration/persistent-02/coordinator/reconstructed-local/R02-case0-panel19-p03-full-k5.npz"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "0562dac4a22124958a423ff9322dbbaf8a1147f6",
+  "started_utc": "2026-09-17T09:58:01.131421+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/coordinator/aggregate_q12.py",
+      "exists": true,
+      "bytes": 3195,
+      "sha256": "8ec56e7c6e661782999d5959ac39f99758f65749c685d635ba5733ecc955ea89"
+    },
+    {
+      "path": "exploration/persistent-02/coordinator/check_forest_summary_selection.py",
+      "exists": true,
+      "bytes": 1215,
+      "sha256": "e51dbc2d9588a03c07858c613dd79f6b06b49d30c5518b1118c4a1ff4e3c590a"
+    },
+    {
+      "path": "exploration/persistent-02/coordinator/key_source_qualification.py",
+      "exists": true,
+      "bytes": 1638,
+      "sha256": "743e6694e598165c8de9bcf831818357df5501864c752cc944549884637e06c6"
+    },
+    {
+      "path": "exploration/persistent-02/coordinator/reconstruct_q12_null.py",
+      "exists": true,
+      "bytes": 3701,
+      "sha256": "447402ab3d6f752b0e335ef67ede6d5f204c8ce31f66cc2ffe341a3342575d3a"
+    },
+    {
+      "path": "exploration/persistent-02/coordinator/reset_seed_counterexample.py",
+      "exists": true,
+      "bytes": 1613,
+      "sha256": "54d95b69ea5357d79468cf484e43269773936ed238a6d8f27c6bd0db1c9b2084"
+    },
+    {
+      "path": "exploration/persistent-02/coordinator/tie_rounding_check.py",
+      "exists": true,
+      "bytes": 1216,
+      "sha256": "975fe34e04df9b0577b9d9ddc2199f40cd580538642937b26ae25c44112c1bd7"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/reset-feedback/histogram/publication/array-manifest.json",
+      "exists": true,
+      "bytes": 2237363,
+      "sha256": "605091cb5fadc47f5a492ddd6b264a6f30c38c03ccf6ae30a85d1a2e163fce67"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/reset-feedback/histogram/publication/reconstruct.py",
+      "exists": true,
+      "bytes": 3910,
+      "sha256": "4375aa95cbaf8424fa6fa0742869ae5bfcf9474f21a6a38ef717293c5f38e1e4"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 53137,
+  "finished_utc": "2026-09-17T09:58:01.320886+00:00",
+  "duration_seconds": 0.18913279099797364
+}

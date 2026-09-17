@@ -1,0 +1,47 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/coordinator/shared-period/test.py",
+    "selftest"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "1627fbb3d06557199b91d9bf1fff71183e63ee75",
+  "started_utc": "2026-09-17T09:25:07.371322+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/coordinator/shared-period/PREREG.md",
+      "exists": true,
+      "bytes": 3081,
+      "sha256": "66cbb9166507356b17061c1cb3775f4760be82f3dd77d34671c7936c9dd8a851"
+    },
+    {
+      "path": "exploration/persistent-02/coordinator/shared-period/test.py",
+      "exists": true,
+      "bytes": 5114,
+      "sha256": "bc68adb96fb096bdfcbf64788b9fc83bed6f82995a97d5f9aecdeeff7183dcae"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 44361,
+  "finished_utc": "2026-09-17T09:25:07.502364+00:00",
+  "duration_seconds": 0.13076712499605492
+}
