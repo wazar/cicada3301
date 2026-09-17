@@ -1,0 +1,40 @@
+{
+  "passed": true,
+  "rows": [
+    {
+      "index": 0,
+      "id": "guest-n66-k2",
+      "features": 411,
+      "book_rank": 0.005,
+      "local_rank": 0.005,
+      "selected": {
+        "page_slot": 49,
+        "k": 2
+      },
+      "all45backgrounds_reconstructed": true,
+      "recomputed_period_matrices_for_slots": [
+        0,
+        49
+      ],
+      "book_metadata_sha256": "27d25ea9b917b12c119f2784a2e65950551ea7075414e19fc87fe3934d1bf1aa"
+    },
+    {
+      "index": 1,
+      "id": "guest-n121-k2",
+      "features": 414,
+      "book_rank": 0.005,
+      "local_rank": 0.005,
+      "selected": {
+        "page_slot": 49,
+        "k": 2
+      },
+      "all45backgrounds_reconstructed": true,
+      "recomputed_period_matrices_for_slots": [
+        0,
+        49
+      ],
+      "book_metadata_sha256": "b0451b9f77dbbb04df156e68c8e70976b57a620738f5a1649e499e90786d4fe6"
+    }
+  ],
+  "scope": "Allbookfeaturesaggregated independently;two200-panelunits perbook pluslocalpanel fullyrebuilt. Shortcontrolpower mustbe reported, nottransferred from716runes. NoactualC07scoring."
+}

@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/review-04/check_c07.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "e12264532f809f606367321342d4a7c10b420da7",
+  "started_utc": "2026-09-17T09:07:11.990478+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/feedback/C07-PREREG.md",
+      "exists": true,
+      "bytes": 3448,
+      "sha256": "392dfb0344cbdf73702a7f010265bbcbfe29bd8c7f62ea8844acb2acd713fd9e"
+    },
+    {
+      "path": "exploration/persistent-02/feedback/C07/inputs.json",
+      "exists": true,
+      "bytes": 54491,
+      "sha256": "315748e13f62edda7ea4d65284d34ee8bf5f6b7a1fd2fcaa3479a4751acd4c33"
+    },
+    {
+      "path": "exploration/persistent-02/feedback/page_invariant.py",
+      "exists": true,
+      "bytes": 4997,
+      "sha256": "f9c13240b9e46dbd187e7e277df33964047de5100f70eeb22d5d0b42b055d2eb"
+    },
+    {
+      "path": "exploration/persistent-02/review-04/check_c07.py",
+      "exists": true,
+      "bytes": 5454,
+      "sha256": "90beb5165f06b10ae3fc9d755b8bd6c9a4edf9900294e9073f9fae542937691e"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 42173,
+  "finished_utc": "2026-09-17T09:07:12.450035+00:00",
+  "duration_seconds": 0.459264458004327
+}

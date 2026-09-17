@@ -1,0 +1,11 @@
+# C06 — paired frozen scorer improves two controls, no actual candidate
+
+The identical C05construction,32plant inputs and20actual/comparator packets were evaluated with B's alreadyfrozen complementary rune/boundary trigram. No new training, seed band, literal rule or parameter tuning occurred. Both model IDs/tables/source hashes are preserved; corpus and preprocessing differ jointly, so changes cannot be attributed solely to corpus diversity.
+
+Selected plaintext recovery improves from29/32exact under P03 to31/32under the complementary model. Guest0/k3 (oneerror) and Shelley1/k3 (twoerrors) become exact; no previously exact case acquires an error. Shelley0/k2 still has oneerror, and its trueplaintext is retained final-state representative2 under both models. That difference is the finalrune248 of the prequalified249-rune excerpt: sourceATTENTIO versus selectedATTENTIF, at an imposed cut-word boundary. The fixture and failed best output remain unchanged. These are32correlated constructed cases over a small specified source pool, not a broad population power estimate.
+
+Actual full-body maximum−5.269973034 has conditional comparison rank.60. Permitting literal-F stream exclusion improves the same-scored uninterrupted k2/3maximum by .311821763nats/token, gainrank.85. Each model uses its own score scale and comparison; their raw maxima are not compared across models. Both complete actual k2/k3leaders were read; neither is coherentplaintext. Complete alternatives are retained in `../C06-actual/`.
+
+All40actual/comparator solves completed exactly for the stated state/local-objective scope without pruning or cap failures, total93.260seconds, peak48,749states and151,076,864byte processRSS. Alternative and float/memory qualifications from C05 remain. Same nullpanels are reused, preserving Fsites and adjacent equalitymask, not histogram; these ranks are exploratory conditional comparisons and not independent replication or global puzzle significance.
+
+Decision: the measured C05misses can partly be scorer effects, but changing to this independently frozen scorer supplies no puzzlecandidate. Proceed to C07's language-independent page/period screen to decide whether another eligible unit merits structured recovery; do not widen current bodyseeds after these misses.

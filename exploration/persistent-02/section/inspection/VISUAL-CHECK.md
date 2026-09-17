@@ -14,3 +14,9 @@ v1 packet incorrectly said page2 retained crossed-staff marginalia. Root's initi
 
 ## Limits and uncertain readings
 This checks actual row order, selected complete rows, heading/terminal marks, both page joins and two contrasting printed-line joins against images. It is not an independent reread of all729 glyphs or a calibrated99% transcription claim. Remaining glyph identities stay inherited; no new alternate glyph vector was justified, and none was chosen by decryption score. The redheading/body cipher clock is uncertain and remains an explicit competing model. Multi-dot marks are retained in the original image while the P03 scoring boundary token intentionally collapses delimiter types; this loss is declared, not an image-transcription claim.
+
+## Remaining physical joins, checked at native resolution (09:00–09:03 UTC)
+
+All30within-page row joins were viewed in `remaining-joins/*.png`; image-only projection supplied row bands, not glyph labels. Manual classifications in `remaining-joins/checks.json` agree with the frozen source:8have an explicit separator and22are uninterrupted. Source-end/start rune order was compared in the same crops. This extends the earlier two line-join samples to every physical line join of0–2, and the two page joins were already checked. It still does not independently certify every internal glyph.
+
+The seven black four-dot major markers were then inspected as full native rows, with source indices and exact boxes/hashes in `major-marks/manifest.json`. They follow p0rune153; p1runes12,34,87,131,171; p2rune2. The red13-dot heading divider after p0rune12 was already inspected. These observations motivate one precisely frozen third clock policy in A07; punctuation alone does not establish its cryptographic role. No rune or boundary data was changed to improve decoding.

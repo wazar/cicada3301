@@ -1,0 +1,806 @@
+{
+  "source": "exploration/persistent-02/decoder/null-calibration-inputs.json",
+  "source_sha256": "9c25258b4ce4ef503c47df25f12746154d34f51c6f7ab9d486f0a8caade5d1cf",
+  "actual_source_batch": "A02",
+  "identities": "exact actual arrays/ends/spans; nullFsites/equalitymask; no first-rune conditioning imposed",
+  "records": [
+    {
+      "variant": "body",
+      "replicate": 0,
+      "first_actual": 2,
+      "first_null": 15,
+      "join_positions": [
+        249,
+        515
+      ],
+      "join_pairs": [
+        [
+          16,
+          6
+        ],
+        [
+          28,
+          22
+        ]
+      ],
+      "cipher_sha256": "0db4cea2a51244096a0e125ba42ad04162ff1a3b21d1744fd4149d7bf5dee01b"
+    },
+    {
+      "variant": "body",
+      "replicate": 1,
+      "first_actual": 2,
+      "first_null": 25,
+      "join_positions": [
+        249,
+        515
+      ],
+      "join_pairs": [
+        [
+          24,
+          27
+        ],
+        [
+          10,
+          22
+        ]
+      ],
+      "cipher_sha256": "20d5b6ee7ec6c7bd53e7c39868abccc0c079bbddaef8c14e9ebfff70aaa2c3e0"
+    },
+    {
+      "variant": "body",
+      "replicate": 2,
+      "first_actual": 2,
+      "first_null": 26,
+      "join_positions": [
+        249,
+        515
+      ],
+      "join_pairs": [
+        [
+          18,
+          21
+        ],
+        [
+          22,
+          5
+        ]
+      ],
+      "cipher_sha256": "f2b01109d1d808e5b122879abdeb8649ab4d5ed7d5014d6d1b0c2ede795b56cd"
+    },
+    {
+      "variant": "body",
+      "replicate": 3,
+      "first_actual": 2,
+      "first_null": 26,
+      "join_positions": [
+        249,
+        515
+      ],
+      "join_pairs": [
+        [
+          26,
+          10
+        ],
+        [
+          3,
+          15
+        ]
+      ],
+      "cipher_sha256": "4ef315518f903ee263aaa9c9c2559acc32f557cfc6ad17d4322cdde5cd9b9156"
+    },
+    {
+      "variant": "body",
+      "replicate": 4,
+      "first_actual": 2,
+      "first_null": 4,
+      "join_positions": [
+        249,
+        515
+      ],
+      "join_pairs": [
+        [
+          8,
+          6
+        ],
+        [
+          14,
+          28
+        ]
+      ],
+      "cipher_sha256": "2ed1a033df71712a1188ae6db634993c709512ed8f45f42abb4f8dd95e7728e6"
+    },
+    {
+      "variant": "body",
+      "replicate": 5,
+      "first_actual": 2,
+      "first_null": 23,
+      "join_positions": [
+        249,
+        515
+      ],
+      "join_pairs": [
+        [
+          25,
+          5
+        ],
+        [
+          23,
+          17
+        ]
+      ],
+      "cipher_sha256": "b28835ab361d98089116c83fae2fde8b1026c73ea2e100ddf2a41589facd5fa4"
+    },
+    {
+      "variant": "body",
+      "replicate": 6,
+      "first_actual": 2,
+      "first_null": 17,
+      "join_positions": [
+        249,
+        515
+      ],
+      "join_pairs": [
+        [
+          4,
+          26
+        ],
+        [
+          23,
+          1
+        ]
+      ],
+      "cipher_sha256": "7a6e0b900bf124fccf9809bdf306884048f7d151a028048610b34e22cb55122a"
+    },
+    {
+      "variant": "body",
+      "replicate": 7,
+      "first_actual": 2,
+      "first_null": 28,
+      "join_positions": [
+        249,
+        515
+      ],
+      "join_pairs": [
+        [
+          2,
+          12
+        ],
+        [
+          24,
+          12
+        ]
+      ],
+      "cipher_sha256": "588d74560485d8728dd2fe0c18ae4920ad4656559905934993ed621c41f8d183"
+    },
+    {
+      "variant": "body",
+      "replicate": 8,
+      "first_actual": 2,
+      "first_null": 3,
+      "join_positions": [
+        249,
+        515
+      ],
+      "join_pairs": [
+        [
+          17,
+          9
+        ],
+        [
+          3,
+          11
+        ]
+      ],
+      "cipher_sha256": "acef0043df60a994bebf05db8bb5dd20d6ef2a5ef455740e0d90bc0908d220d9"
+    },
+    {
+      "variant": "body",
+      "replicate": 9,
+      "first_actual": 2,
+      "first_null": 11,
+      "join_positions": [
+        249,
+        515
+      ],
+      "join_pairs": [
+        [
+          3,
+          24
+        ],
+        [
+          1,
+          22
+        ]
+      ],
+      "cipher_sha256": "a65a59f5b590650c18ff05042aa22e33814d5c1f2255e25405255cb2e2b3b47f"
+    },
+    {
+      "variant": "body",
+      "replicate": 10,
+      "first_actual": 2,
+      "first_null": 4,
+      "join_positions": [
+        249,
+        515
+      ],
+      "join_pairs": [
+        [
+          27,
+          28
+        ],
+        [
+          10,
+          25
+        ]
+      ],
+      "cipher_sha256": "6154c3ffaf29a8901d9b35bed075ee59f8db74e03cf7ab5835fea9b30f93e07d"
+    },
+    {
+      "variant": "body",
+      "replicate": 11,
+      "first_actual": 2,
+      "first_null": 6,
+      "join_positions": [
+        249,
+        515
+      ],
+      "join_pairs": [
+        [
+          21,
+          17
+        ],
+        [
+          21,
+          11
+        ]
+      ],
+      "cipher_sha256": "564ace9dc57e92ad5af7b4a5a505c92b4cc729c342d8bfc4d8ff872db4b2e95d"
+    },
+    {
+      "variant": "body",
+      "replicate": 12,
+      "first_actual": 2,
+      "first_null": 16,
+      "join_positions": [
+        249,
+        515
+      ],
+      "join_pairs": [
+        [
+          13,
+          26
+        ],
+        [
+          6,
+          23
+        ]
+      ],
+      "cipher_sha256": "7f9e7587837141700b8ba2dba4a9ab2cc3dfc326913450003d0dffd4e5444523"
+    },
+    {
+      "variant": "body",
+      "replicate": 13,
+      "first_actual": 2,
+      "first_null": 20,
+      "join_positions": [
+        249,
+        515
+      ],
+      "join_pairs": [
+        [
+          20,
+          18
+        ],
+        [
+          15,
+          25
+        ]
+      ],
+      "cipher_sha256": "f3417c9179d81b5f753b1ca9200a5243116df45efe4d386c7f4558b627ea5415"
+    },
+    {
+      "variant": "body",
+      "replicate": 14,
+      "first_actual": 2,
+      "first_null": 19,
+      "join_positions": [
+        249,
+        515
+      ],
+      "join_pairs": [
+        [
+          24,
+          25
+        ],
+        [
+          20,
+          21
+        ]
+      ],
+      "cipher_sha256": "f9d80edcc432c2bcecc0efd3df6c654394eedc7c7ed95d731d026ba8b8583939"
+    },
+    {
+      "variant": "body",
+      "replicate": 15,
+      "first_actual": 2,
+      "first_null": 20,
+      "join_positions": [
+        249,
+        515
+      ],
+      "join_pairs": [
+        [
+          15,
+          19
+        ],
+        [
+          3,
+          27
+        ]
+      ],
+      "cipher_sha256": "f50e884f9faa4522802095fb430b04a07a0f20f8219e8a59dca6629ce85d022c"
+    },
+    {
+      "variant": "body",
+      "replicate": 16,
+      "first_actual": 2,
+      "first_null": 7,
+      "join_positions": [
+        249,
+        515
+      ],
+      "join_pairs": [
+        [
+          7,
+          9
+        ],
+        [
+          22,
+          26
+        ]
+      ],
+      "cipher_sha256": "e9d839e3be66dc27824350d4c4c154614bf0525f32f62efb9f041933b7294610"
+    },
+    {
+      "variant": "body",
+      "replicate": 17,
+      "first_actual": 2,
+      "first_null": 21,
+      "join_positions": [
+        249,
+        515
+      ],
+      "join_pairs": [
+        [
+          24,
+          21
+        ],
+        [
+          27,
+          3
+        ]
+      ],
+      "cipher_sha256": "f3fb35909909095b3f4a8495ae479e0f24c08267e8db6d276d2df3a8dc7e2fa3"
+    },
+    {
+      "variant": "body",
+      "replicate": 18,
+      "first_actual": 2,
+      "first_null": 25,
+      "join_positions": [
+        249,
+        515
+      ],
+      "join_pairs": [
+        [
+          11,
+          12
+        ],
+        [
+          15,
+          6
+        ]
+      ],
+      "cipher_sha256": "88382de80a53b3ae922c6c26b566277907985e3ff92d949a4d06ded330e2de4e"
+    },
+    {
+      "variant": "whole",
+      "replicate": 0,
+      "first_actual": 15,
+      "first_null": 8,
+      "join_positions": [
+        262,
+        528
+      ],
+      "join_pairs": [
+        [
+          16,
+          6
+        ],
+        [
+          28,
+          22
+        ]
+      ],
+      "cipher_sha256": "f60674afa0018e9d2fd86e68337d52f0d9b56c2697927e448c14dd5f41087df9"
+    },
+    {
+      "variant": "whole",
+      "replicate": 1,
+      "first_actual": 15,
+      "first_null": 1,
+      "join_positions": [
+        262,
+        528
+      ],
+      "join_pairs": [
+        [
+          24,
+          27
+        ],
+        [
+          10,
+          22
+        ]
+      ],
+      "cipher_sha256": "761f4da488242b2a978fd3f23953cdcac9258e8aad4da002bd82287827f69926"
+    },
+    {
+      "variant": "whole",
+      "replicate": 2,
+      "first_actual": 15,
+      "first_null": 19,
+      "join_positions": [
+        262,
+        528
+      ],
+      "join_pairs": [
+        [
+          18,
+          21
+        ],
+        [
+          22,
+          5
+        ]
+      ],
+      "cipher_sha256": "4d3369d8a989a6d269d1fdfa766c9357846559c98f9bc01717506de6326a5926"
+    },
+    {
+      "variant": "whole",
+      "replicate": 3,
+      "first_actual": 15,
+      "first_null": 2,
+      "join_positions": [
+        262,
+        528
+      ],
+      "join_pairs": [
+        [
+          26,
+          10
+        ],
+        [
+          3,
+          15
+        ]
+      ],
+      "cipher_sha256": "8fad226c19db47b85fea91368671deaf0c18c4b93aa2a3964a75b390784f51f6"
+    },
+    {
+      "variant": "whole",
+      "replicate": 4,
+      "first_actual": 15,
+      "first_null": 7,
+      "join_positions": [
+        262,
+        528
+      ],
+      "join_pairs": [
+        [
+          8,
+          6
+        ],
+        [
+          14,
+          28
+        ]
+      ],
+      "cipher_sha256": "88ef943dc28806d6be5e35ec1cd0dc11d2b6337ad9c3899fff24c720ab9f2b82"
+    },
+    {
+      "variant": "whole",
+      "replicate": 5,
+      "first_actual": 15,
+      "first_null": 11,
+      "join_positions": [
+        262,
+        528
+      ],
+      "join_pairs": [
+        [
+          25,
+          5
+        ],
+        [
+          23,
+          17
+        ]
+      ],
+      "cipher_sha256": "3845efb3082d21632c63c58f8ec5465f24298a223afbda561f5c73f862883f81"
+    },
+    {
+      "variant": "whole",
+      "replicate": 6,
+      "first_actual": 15,
+      "first_null": 15,
+      "join_positions": [
+        262,
+        528
+      ],
+      "join_pairs": [
+        [
+          4,
+          26
+        ],
+        [
+          23,
+          1
+        ]
+      ],
+      "cipher_sha256": "29ef91413a3b73ab4cc9c6acd942b8264f34b9b734388590c6faf4cfdb2ef35c"
+    },
+    {
+      "variant": "whole",
+      "replicate": 7,
+      "first_actual": 15,
+      "first_null": 15,
+      "join_positions": [
+        262,
+        528
+      ],
+      "join_pairs": [
+        [
+          2,
+          12
+        ],
+        [
+          24,
+          12
+        ]
+      ],
+      "cipher_sha256": "286bddfd5a7b5f58a52ef58cf5d9872efc41258dcdde3733d543a4aad8ddb4ec"
+    },
+    {
+      "variant": "whole",
+      "replicate": 8,
+      "first_actual": 15,
+      "first_null": 3,
+      "join_positions": [
+        262,
+        528
+      ],
+      "join_pairs": [
+        [
+          17,
+          9
+        ],
+        [
+          3,
+          11
+        ]
+      ],
+      "cipher_sha256": "a09ca0b4fbbf96ae86974b984fafc3344e3f83eb6816952f55aaac9e0d64509b"
+    },
+    {
+      "variant": "whole",
+      "replicate": 9,
+      "first_actual": 15,
+      "first_null": 26,
+      "join_positions": [
+        262,
+        528
+      ],
+      "join_pairs": [
+        [
+          3,
+          24
+        ],
+        [
+          1,
+          22
+        ]
+      ],
+      "cipher_sha256": "5275663e67094500185a91aaa7c15e72a41e096fc98aef6b63d86da39c5a24c6"
+    },
+    {
+      "variant": "whole",
+      "replicate": 10,
+      "first_actual": 15,
+      "first_null": 5,
+      "join_positions": [
+        262,
+        528
+      ],
+      "join_pairs": [
+        [
+          27,
+          28
+        ],
+        [
+          10,
+          25
+        ]
+      ],
+      "cipher_sha256": "c52a6a5636779c52486256cecf38b65f6458350e3cb15fb37dcd0fc0991c34c4"
+    },
+    {
+      "variant": "whole",
+      "replicate": 11,
+      "first_actual": 15,
+      "first_null": 27,
+      "join_positions": [
+        262,
+        528
+      ],
+      "join_pairs": [
+        [
+          21,
+          17
+        ],
+        [
+          21,
+          11
+        ]
+      ],
+      "cipher_sha256": "d7507914f196321d5556384f4b503b1e2196b9fbd3c91f55ebfc1c1175a806c2"
+    },
+    {
+      "variant": "whole",
+      "replicate": 12,
+      "first_actual": 15,
+      "first_null": 28,
+      "join_positions": [
+        262,
+        528
+      ],
+      "join_pairs": [
+        [
+          13,
+          26
+        ],
+        [
+          6,
+          23
+        ]
+      ],
+      "cipher_sha256": "9601edd716b7844ccb77e4d9a37e349a2b892fa2a630d6b180dd8269237b432d"
+    },
+    {
+      "variant": "whole",
+      "replicate": 13,
+      "first_actual": 15,
+      "first_null": 22,
+      "join_positions": [
+        262,
+        528
+      ],
+      "join_pairs": [
+        [
+          20,
+          18
+        ],
+        [
+          15,
+          25
+        ]
+      ],
+      "cipher_sha256": "bd013d84527b512f0e3d5181ed57d92f42edcca6f087fccf07131bcd09234949"
+    },
+    {
+      "variant": "whole",
+      "replicate": 14,
+      "first_actual": 15,
+      "first_null": 2,
+      "join_positions": [
+        262,
+        528
+      ],
+      "join_pairs": [
+        [
+          24,
+          25
+        ],
+        [
+          20,
+          21
+        ]
+      ],
+      "cipher_sha256": "3380cacd539e1424461a0620ecaba89ae768c534b485b2148ed36339a9df936d"
+    },
+    {
+      "variant": "whole",
+      "replicate": 15,
+      "first_actual": 15,
+      "first_null": 20,
+      "join_positions": [
+        262,
+        528
+      ],
+      "join_pairs": [
+        [
+          15,
+          19
+        ],
+        [
+          3,
+          27
+        ]
+      ],
+      "cipher_sha256": "9033058c4c956dc544064c50c7fa61577bc1932b2cd0a941c2ddc2bab967de72"
+    },
+    {
+      "variant": "whole",
+      "replicate": 16,
+      "first_actual": 15,
+      "first_null": 10,
+      "join_positions": [
+        262,
+        528
+      ],
+      "join_pairs": [
+        [
+          7,
+          9
+        ],
+        [
+          22,
+          26
+        ]
+      ],
+      "cipher_sha256": "0d3ccf2dea73493204dad8f844cdef22e6cdaa24a64ecd827500cc2036777b24"
+    },
+    {
+      "variant": "whole",
+      "replicate": 17,
+      "first_actual": 15,
+      "first_null": 6,
+      "join_positions": [
+        262,
+        528
+      ],
+      "join_pairs": [
+        [
+          24,
+          21
+        ],
+        [
+          27,
+          3
+        ]
+      ],
+      "cipher_sha256": "dc1ac4b6f24dfc1d15c6a318f047de6b394950f26942cd018af97aeee9809dcf"
+    },
+    {
+      "variant": "whole",
+      "replicate": 18,
+      "first_actual": 15,
+      "first_null": 19,
+      "join_positions": [
+        262,
+        528
+      ],
+      "join_pairs": [
+        [
+          11,
+          12
+        ],
+        [
+          15,
+          6
+        ]
+      ],
+      "cipher_sha256": "00b6b89f97dbc5d479b2f2a4b3c0b1c811ddcdfcad87ed3b2ed20aaa97d81f3c"
+    }
+  ]
+}

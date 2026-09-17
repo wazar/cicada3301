@@ -1,15 +1,19 @@
-# Resume after fresh algorithm review
+# Live worker C resume state (09:12 UTC)
 
-Fixed deadline2026-09-17T16:15:06Z; do not extend. No running worker subprocess at handoff. C01 all42pages complete; do not repeat. C02 tests37+fresh48complete; source review may add independent targeted checks rather than ordinary-negative replay.
+Fixed deadline2026-09-17T16:15:06Z. Never extend or alter PERSISTENT-01STOP.
 
-1. Fresh reviewer: inspect `structured.py`, derivation, objective assembly inherited Q12, tolerance-pruned/live-frontier bound tracking, cap semantics, and small control comparisons. C01 representative reconstruction/source checks suffice; no requirement to replay615millioncells.
-2. After any arithmetic issue is addressed and reviewed, run the frozen C03 section continuation:
+C01–C06 complete; do not repeat. Reports: feedback/REPORT.md plus C04/REPORT.md, C05/REPORT.md, C06/REPORT.md. C01 all42newpages exactk2–4 no candidate; C02 exactstructuredk5–8body/prefix no candidate; C03unchangedbodycontinuation no candidate; C04seed-invariantbodyk2..34ordinary; C05/C06literal-Funknownseed k2/3samebodyordinary undertwofrozenmodels. C05algorithm reviewed byB, C02review01, C04review02.
 
+C07 is active, `page_invariant.py`. Frozeninputs25controls/45pages/411features. Controls0–14 complete; controls15–24currentloggedjob. Eachcontrol logs localperiodfamily and full45-unit syntheticcomposite. Controls are not universally sensitive: e.g Shelley66control10fullbookrank.995 and Shelley121k5control12rank.13. Reportallranks, not only successes. NoactualC07score yet. Review04independently clearedarithmetic and two representative syntheticbooks; finishfullcapabilitypanelbeforeactual.
+
+Resumable control command (skips completedlocal/book files):
 ```sh
-.venv/bin/python exploration/persistent-02/run_logged.py --owner exploration/persistent-02/feedback --label C03-section-continuation --seconds 900 --input exploration/persistent-02/section/section-packet.json --input exploration/persistent-01/coordinator/Q12-sum-autokey/test.py -- .venv/bin/python exploration/persistent-02/feedback/section_continuation.py
+.venv/bin/python exploration/persistent-02/run_logged.py --owner exploration/persistent-02/feedback --label C07-controls-resume --seconds 900 --input exploration/persistent-02/feedback/C07/inputs.json -- /usr/bin/time -l .venv/bin/python exploration/persistent-02/feedback/page_invariant.py controls 15 16 17 18 19 20 21 22 23 24
 ```
+Then write fullcontrol summary, confirmreview04clearance and run actual ONCE if absent:
+```sh
+.venv/bin/python exploration/persistent-02/run_logged.py --owner exploration/persistent-02/feedback --label C07-actual --seconds 900 --input exploration/persistent-02/feedback/C07/inputs.json -- /usr/bin/time -l .venv/bin/python exploration/persistent-02/feedback/page_invariant.py actual
+```
+Actual code currently overwrites rather than skips an existingactual file; inspectbeforeuse. It must not be rerun as newcoverage. Save controlqualifications and actualdecision, then select the next justified workstreamstep withroot. C07 independently initializedpagebaselines do not assertphysicalresets; effective initialseeds cover arbitrary contiguousslices (15newchecks in slice-identity.json). No newscorer or keyenumeration.
 
-3. Add a C02 actual driver for A's716-rune body, k5/6/7/8, full objective and prefix249fit→unchanged467continuation;19matched masks with same optimizer/caps. Need full factor arrays, all feasible top16 outputs, gaps/exactness and runtime/peak memory; do not silently turn capped results exact. Preregister selection/statistic before actual driver runs. Tested controls are extremely fast (~.1s/k8) but actual weak language may produce larger branch trees; measure first.
-4. Derive next material within-workstream question from actual capability/continuation results, not arbitrary formats or simply more seed lengths. Report scope and stop only at fixeddeadline/ownerstop/realplatform limit.
-
-Useful sources: `C01/coverage.json` for allnewpages, `C02/tests.json`, `C02/fresh-tests.json`, and B's `decoder/fresh-controls.json` (independently seeded C construction). Source qualification `decoder/FRESH-SOURCE-QUALIFICATION.md` applies.
+Root owns Git/shared state/publication. C01nullNPZsremainlocal; rootpublishes per-arraymanifest/reconstructor to avoidoversizedGitpacks, leavingoriginal localrawdataunchanged.

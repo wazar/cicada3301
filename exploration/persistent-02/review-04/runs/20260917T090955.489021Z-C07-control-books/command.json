@@ -1,0 +1,70 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/review-04/check_c07_controls.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "1627fbb3d06557199b91d9bf1fff71183e63ee75",
+  "started_utc": "2026-09-17T09:09:55.499680+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/feedback/C07/control00-book.json",
+      "exists": true,
+      "bytes": 150051,
+      "sha256": "27d25ea9b917b12c119f2784a2e65950551ea7075414e19fc87fe3934d1bf1aa"
+    },
+    {
+      "path": "exploration/persistent-02/feedback/C07/control01-book.json",
+      "exists": true,
+      "bytes": 150716,
+      "sha256": "b0451b9f77dbbb04df156e68c8e70976b57a620738f5a1649e499e90786d4fe6"
+    },
+    {
+      "path": "exploration/persistent-02/feedback/page_invariant.py",
+      "exists": true,
+      "bytes": 4997,
+      "sha256": "f9c13240b9e46dbd187e7e277df33964047de5100f70eeb22d5d0b42b055d2eb"
+    },
+    {
+      "path": "exploration/persistent-02/review-04/check_c07.py",
+      "exists": true,
+      "bytes": 5454,
+      "sha256": "90beb5165f06b10ae3fc9d755b8bd6c9a4edf9900294e9073f9fae542937691e"
+    },
+    {
+      "path": "exploration/persistent-02/review-04/check_c07_controls.py",
+      "exists": true,
+      "bytes": 2805,
+      "sha256": "350f6177c233c22ac05d7e6bb4bae8a00824483e715ff2e2d08b58e2fbcde633"
+    },
+    {
+      "path": "exploration/persistent-02/review-04/check_marked.py",
+      "exists": true,
+      "bytes": 3548,
+      "sha256": "fbb5ede0a9ee8b2efa888af0d7ea3e50c2616ef3f6334ab3f25ac8e85594cf65"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 42412,
+  "finished_utc": "2026-09-17T09:09:55.954973+00:00",
+  "duration_seconds": 0.4549808329975349
+}

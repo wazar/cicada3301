@@ -1,17 +1,17 @@
 {
   "deadline_utc": "2026-09-17T16:15:06Z",
-  "updated_utc": "2026-09-17T09:06:12.350410+00:00",
+  "updated_utc": "2026-09-17T09:19:05.242428+00:00",
   "running": {
-    "A": "A06 fixed-F comparator sensitivity; A07 major-mark reset controls",
-    "C": "C06 complementary literal-F feedback; C07 page-invariant controls",
-    "reviewer": "review04 C07 calibration and A07 reset algorithm"
+    "A": "A07 reset vs exactly paired continuous continuation; then fresh feedback-reset reviewer",
+    "C": "C08 literal-F sharedseed reset arithmetic/resource controls, k2pilot",
+    "former_reviewer": "B09 structured no-F sharedseed reset derivation and controls, decoder/reset-feedback/"
   },
   "paused": {
     "B": "B01\u2013B08 complete and independently reviewed; available for justified follow-up"
   },
   "ready": [
-    "A07 actual and unchanged continuation after arithmetic review",
-    "C07 eligible-page actual after calibration review"
+    "Fresh A review of new feedback-reset solvers",
+    "Actual feedback-reset searches after arithmetic/control review"
   ],
   "completed": [
     "A01\u2013A05 section procedures and continuation forests",
@@ -23,6 +23,11 @@
     "C05 literal-F sum-feedback",
     "review01",
     "review02",
-    "review03"
-  ]
+    "review03",
+    "A06 fixed-F comparator sensitivity",
+    "C06 complementary literal-F feedback",
+    "C07 eligible-page invariant",
+    "review04"
+  ],
+  "publication_commit": "1627fbb3d06557199b91d9bf1fff71183e63ee75"
 }

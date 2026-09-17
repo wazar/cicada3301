@@ -1,0 +1,2054 @@
+{
+  "rows": [
+    {
+      "model": "p03",
+      "family": "periodic",
+      "variant": "body",
+      "policy": "continuous",
+      "actual_full_score": -4.792967710575124,
+      "actual_suffix_score": -4.835307380123066,
+      "old_full_tail": 0.55,
+      "old_suffix_tail": 0.7,
+      "fixed_F_full_tail": 1.0,
+      "fixed_F_suffix_tail": 0.7,
+      "nulls": [
+        {
+          "replicate": 0,
+          "max_full_score": -4.74403788851792,
+          "max_suffix_score": -4.794186712144859,
+          "candidates": 4096
+        },
+        {
+          "replicate": 1,
+          "max_full_score": -4.765469330065176,
+          "max_suffix_score": -4.85869569231304,
+          "candidates": 4096
+        },
+        {
+          "replicate": 2,
+          "max_full_score": -4.728310310474182,
+          "max_suffix_score": -4.7954471771433544,
+          "candidates": 4096
+        },
+        {
+          "replicate": 3,
+          "max_full_score": -4.7599609062517985,
+          "max_suffix_score": -4.848162903341794,
+          "candidates": 4096
+        },
+        {
+          "replicate": 4,
+          "max_full_score": -4.731694044247184,
+          "max_suffix_score": -4.824302383637911,
+          "candidates": 4096
+        },
+        {
+          "replicate": 5,
+          "max_full_score": -4.713712816297778,
+          "max_suffix_score": -4.7278479204165125,
+          "candidates": 4096
+        },
+        {
+          "replicate": 6,
+          "max_full_score": -4.7433425955258635,
+          "max_suffix_score": -4.786460374014084,
+          "candidates": 4096
+        },
+        {
+          "replicate": 7,
+          "max_full_score": -4.738202836880746,
+          "max_suffix_score": -4.806415044296843,
+          "candidates": 4096
+        },
+        {
+          "replicate": 8,
+          "max_full_score": -4.7093676598542595,
+          "max_suffix_score": -4.722594873932101,
+          "candidates": 4096
+        },
+        {
+          "replicate": 9,
+          "max_full_score": -4.681568250046338,
+          "max_suffix_score": -4.750717287145273,
+          "candidates": 4096
+        },
+        {
+          "replicate": 10,
+          "max_full_score": -4.681990564513422,
+          "max_suffix_score": -4.739737810905209,
+          "candidates": 4096
+        },
+        {
+          "replicate": 11,
+          "max_full_score": -4.776092620675683,
+          "max_suffix_score": -4.860261607117371,
+          "candidates": 4096
+        },
+        {
+          "replicate": 12,
+          "max_full_score": -4.792965559233201,
+          "max_suffix_score": -4.906142412216692,
+          "candidates": 4096
+        },
+        {
+          "replicate": 13,
+          "max_full_score": -4.7849961135749846,
+          "max_suffix_score": -4.8722079669263145,
+          "candidates": 4096
+        },
+        {
+          "replicate": 14,
+          "max_full_score": -4.772908073977004,
+          "max_suffix_score": -4.793312367226312,
+          "candidates": 4096
+        },
+        {
+          "replicate": 15,
+          "max_full_score": -4.709399351078609,
+          "max_suffix_score": -4.739802013842381,
+          "candidates": 4096
+        },
+        {
+          "replicate": 16,
+          "max_full_score": -4.696755548434669,
+          "max_suffix_score": -4.725518555578185,
+          "candidates": 4096
+        },
+        {
+          "replicate": 17,
+          "max_full_score": -4.707614350024575,
+          "max_suffix_score": -4.700851192518547,
+          "candidates": 4096
+        },
+        {
+          "replicate": 18,
+          "max_full_score": -4.758046614084265,
+          "max_suffix_score": -4.8370936474547515,
+          "candidates": 4096
+        }
+      ]
+    },
+    {
+      "model": "p03",
+      "family": "periodic",
+      "variant": "body",
+      "policy": "page-reset",
+      "actual_full_score": -4.815236452306018,
+      "actual_suffix_score": -4.876205039997987,
+      "old_full_tail": 0.65,
+      "old_suffix_tail": 0.75,
+      "fixed_F_full_tail": 0.95,
+      "fixed_F_suffix_tail": 0.75,
+      "nulls": [
+        {
+          "replicate": 0,
+          "max_full_score": -4.712546732696593,
+          "max_suffix_score": -4.745755869329696,
+          "candidates": 4096
+        },
+        {
+          "replicate": 1,
+          "max_full_score": -4.730761400825965,
+          "max_suffix_score": -4.805317712953971,
+          "candidates": 4096
+        },
+        {
+          "replicate": 2,
+          "max_full_score": -4.748368989028756,
+          "max_suffix_score": -4.826295797424815,
+          "candidates": 4096
+        },
+        {
+          "replicate": 3,
+          "max_full_score": -4.772850842126497,
+          "max_suffix_score": -4.87864126861745,
+          "candidates": 4096
+        },
+        {
+          "replicate": 4,
+          "max_full_score": -4.684742356818476,
+          "max_suffix_score": -4.752752101404744,
+          "candidates": 4096
+        },
+        {
+          "replicate": 5,
+          "max_full_score": -4.775539178933117,
+          "max_suffix_score": -4.831207844363057,
+          "candidates": 4096
+        },
+        {
+          "replicate": 6,
+          "max_full_score": -4.7620553871517455,
+          "max_suffix_score": -4.8176142795809405,
+          "candidates": 4096
+        },
+        {
+          "replicate": 7,
+          "max_full_score": -4.7327499262671715,
+          "max_suffix_score": -4.802216744668201,
+          "candidates": 4096
+        },
+        {
+          "replicate": 8,
+          "max_full_score": -4.75562496060995,
+          "max_suffix_score": -4.797659778734904,
+          "candidates": 4096
+        },
+        {
+          "replicate": 9,
+          "max_full_score": -4.686638388619902,
+          "max_suffix_score": -4.773522529188567,
+          "candidates": 4096
+        },
+        {
+          "replicate": 10,
+          "max_full_score": -4.716974462916277,
+          "max_suffix_score": -4.796903148029873,
+          "candidates": 4096
+        },
+        {
+          "replicate": 11,
+          "max_full_score": -4.788157931331322,
+          "max_suffix_score": -4.880561666459601,
+          "candidates": 4096
+        },
+        {
+          "replicate": 12,
+          "max_full_score": -4.774988187044808,
+          "max_suffix_score": -4.878494672272638,
+          "candidates": 4096
+        },
+        {
+          "replicate": 13,
+          "max_full_score": -4.725315183076718,
+          "max_suffix_score": -4.781037435660986,
+          "candidates": 4096
+        },
+        {
+          "replicate": 14,
+          "max_full_score": -4.809327116660196,
+          "max_suffix_score": -4.884382332857175,
+          "candidates": 4096
+        },
+        {
+          "replicate": 15,
+          "max_full_score": -4.722316023262819,
+          "max_suffix_score": -4.768721146834903,
+          "candidates": 4096
+        },
+        {
+          "replicate": 16,
+          "max_full_score": -4.718475745086047,
+          "max_suffix_score": -4.756447726422582,
+          "candidates": 4096
+        },
+        {
+          "replicate": 17,
+          "max_full_score": -4.775791552935492,
+          "max_suffix_score": -4.833674469270829,
+          "candidates": 4096
+        },
+        {
+          "replicate": 18,
+          "max_full_score": -4.825310772896439,
+          "max_suffix_score": -4.945680624443017,
+          "candidates": 4096
+        }
+      ]
+    },
+    {
+      "model": "p03",
+      "family": "periodic",
+      "variant": "whole",
+      "policy": "continuous",
+      "actual_full_score": -4.780143936563454,
+      "actual_suffix_score": -4.835307380123066,
+      "old_full_tail": 0.4,
+      "old_suffix_tail": 0.7,
+      "fixed_F_full_tail": 0.85,
+      "fixed_F_suffix_tail": 0.6,
+      "nulls": [
+        {
+          "replicate": 0,
+          "max_full_score": -4.735430706796144,
+          "max_suffix_score": -4.794186712144859,
+          "candidates": 4096
+        },
+        {
+          "replicate": 1,
+          "max_full_score": -4.772481876264187,
+          "max_suffix_score": -4.85869569231304,
+          "candidates": 4096
+        },
+        {
+          "replicate": 2,
+          "max_full_score": -4.73764689299364,
+          "max_suffix_score": -4.7954471771433544,
+          "candidates": 4096
+        },
+        {
+          "replicate": 3,
+          "max_full_score": -4.767909287142585,
+          "max_suffix_score": -4.848162903341794,
+          "candidates": 4096
+        },
+        {
+          "replicate": 4,
+          "max_full_score": -4.74114089157386,
+          "max_suffix_score": -4.824302383637911,
+          "candidates": 4096
+        },
+        {
+          "replicate": 5,
+          "max_full_score": -4.802775004825701,
+          "max_suffix_score": -4.889366614397573,
+          "candidates": 4096
+        },
+        {
+          "replicate": 6,
+          "max_full_score": -4.776376222381491,
+          "max_suffix_score": -4.842057449073412,
+          "candidates": 4096
+        },
+        {
+          "replicate": 7,
+          "max_full_score": -4.730947153878245,
+          "max_suffix_score": -4.806415044296843,
+          "candidates": 4096
+        },
+        {
+          "replicate": 8,
+          "max_full_score": -4.698821537074414,
+          "max_suffix_score": -4.722594873932101,
+          "candidates": 4096
+        },
+        {
+          "replicate": 9,
+          "max_full_score": -4.67737070775263,
+          "max_suffix_score": -4.750717287145273,
+          "candidates": 4096
+        },
+        {
+          "replicate": 10,
+          "max_full_score": -4.688208679031874,
+          "max_suffix_score": -4.739737810905209,
+          "candidates": 4096
+        },
+        {
+          "replicate": 11,
+          "max_full_score": -4.802112325233001,
+          "max_suffix_score": -4.902004430901941,
+          "candidates": 4096
+        },
+        {
+          "replicate": 12,
+          "max_full_score": -4.757442276641027,
+          "max_suffix_score": -4.854777587791075,
+          "candidates": 4096
+        },
+        {
+          "replicate": 13,
+          "max_full_score": -4.7871291613952724,
+          "max_suffix_score": -4.8722079669263145,
+          "candidates": 4096
+        },
+        {
+          "replicate": 14,
+          "max_full_score": -4.70803201372435,
+          "max_suffix_score": -4.703951730355964,
+          "candidates": 4096
+        },
+        {
+          "replicate": 15,
+          "max_full_score": -4.709235176693503,
+          "max_suffix_score": -4.739802013842381,
+          "candidates": 4096
+        },
+        {
+          "replicate": 16,
+          "max_full_score": -4.695747288295417,
+          "max_suffix_score": -4.725518555578185,
+          "candidates": 4096
+        },
+        {
+          "replicate": 17,
+          "max_full_score": -4.709370640044276,
+          "max_suffix_score": -4.711499986235163,
+          "candidates": 4096
+        },
+        {
+          "replicate": 18,
+          "max_full_score": -4.7546486506452235,
+          "max_suffix_score": -4.8446787688467285,
+          "candidates": 4096
+        }
+      ]
+    },
+    {
+      "model": "p03",
+      "family": "periodic",
+      "variant": "whole",
+      "policy": "page-reset",
+      "actual_full_score": -4.790189088276763,
+      "actual_suffix_score": -4.854882965571245,
+      "old_full_tail": 0.45,
+      "old_suffix_tail": 0.45,
+      "fixed_F_full_tail": 0.8,
+      "fixed_F_suffix_tail": 0.65,
+      "nulls": [
+        {
+          "replicate": 0,
+          "max_full_score": -4.696456096977264,
+          "max_suffix_score": -4.733215849870881,
+          "candidates": 4096
+        },
+        {
+          "replicate": 1,
+          "max_full_score": -4.751712683559501,
+          "max_suffix_score": -4.826204909369376,
+          "candidates": 4096
+        },
+        {
+          "replicate": 2,
+          "max_full_score": -4.771418157507679,
+          "max_suffix_score": -4.848278061841682,
+          "candidates": 4096
+        },
+        {
+          "replicate": 3,
+          "max_full_score": -4.780581242140031,
+          "max_suffix_score": -4.87864126861745,
+          "candidates": 4096
+        },
+        {
+          "replicate": 4,
+          "max_full_score": -4.69266115306439,
+          "max_suffix_score": -4.749119550046601,
+          "candidates": 4096
+        },
+        {
+          "replicate": 5,
+          "max_full_score": -4.812261887248211,
+          "max_suffix_score": -4.897133236372626,
+          "candidates": 4096
+        },
+        {
+          "replicate": 6,
+          "max_full_score": -4.797365078898328,
+          "max_suffix_score": -4.875377251819522,
+          "candidates": 4096
+        },
+        {
+          "replicate": 7,
+          "max_full_score": -4.725586457085644,
+          "max_suffix_score": -4.802216744668201,
+          "candidates": 4096
+        },
+        {
+          "replicate": 8,
+          "max_full_score": -4.744296583589592,
+          "max_suffix_score": -4.797659778734904,
+          "candidates": 4096
+        },
+        {
+          "replicate": 9,
+          "max_full_score": -4.668818141914768,
+          "max_suffix_score": -4.755150241575596,
+          "candidates": 4096
+        },
+        {
+          "replicate": 10,
+          "max_full_score": -4.81135656147586,
+          "max_suffix_score": -4.935750083339445,
+          "candidates": 4096
+        },
+        {
+          "replicate": 11,
+          "max_full_score": -4.784140540556396,
+          "max_suffix_score": -4.873889840058646,
+          "candidates": 4096
+        },
+        {
+          "replicate": 12,
+          "max_full_score": -4.741701166068502,
+          "max_suffix_score": -4.827982763721259,
+          "candidates": 4096
+        },
+        {
+          "replicate": 13,
+          "max_full_score": -4.799837813832856,
+          "max_suffix_score": -4.89270294907655,
+          "candidates": 4096
+        },
+        {
+          "replicate": 14,
+          "max_full_score": -4.74574027106968,
+          "max_suffix_score": -4.77262879281256,
+          "candidates": 4096
+        },
+        {
+          "replicate": 15,
+          "max_full_score": -4.674228568675514,
+          "max_suffix_score": -4.694708156104655,
+          "candidates": 4096
+        },
+        {
+          "replicate": 16,
+          "max_full_score": -4.717100176096998,
+          "max_suffix_score": -4.756447726422582,
+          "candidates": 4096
+        },
+        {
+          "replicate": 17,
+          "max_full_score": -4.752051500246388,
+          "max_suffix_score": -4.793993755015139,
+          "candidates": 4096
+        },
+        {
+          "replicate": 18,
+          "max_full_score": -4.769114243042847,
+          "max_suffix_score": -4.863548532112438,
+          "candidates": 4096
+        }
+      ]
+    },
+    {
+      "model": "p03",
+      "family": "finite",
+      "variant": "body",
+      "policy": "continuous",
+      "actual_full_score": -4.740556189152321,
+      "actual_suffix_score": -4.790867143809237,
+      "old_full_tail": 0.2,
+      "old_suffix_tail": 0.45,
+      "fixed_F_full_tail": 0.65,
+      "fixed_F_suffix_tail": 0.7,
+      "nulls": [
+        {
+          "replicate": 0,
+          "max_full_score": -4.724004790548542,
+          "max_suffix_score": -4.7395893249315195,
+          "candidates": 4096
+        },
+        {
+          "replicate": 1,
+          "max_full_score": -4.782216144189408,
+          "max_suffix_score": -4.8044120872291245,
+          "candidates": 4096
+        },
+        {
+          "replicate": 2,
+          "max_full_score": -4.726733055452735,
+          "max_suffix_score": -4.71324208316215,
+          "candidates": 4096
+        },
+        {
+          "replicate": 3,
+          "max_full_score": -4.716963585429968,
+          "max_suffix_score": -4.77067174668101,
+          "candidates": 4096
+        },
+        {
+          "replicate": 4,
+          "max_full_score": -4.740153528264131,
+          "max_suffix_score": -4.770892228167399,
+          "candidates": 4096
+        },
+        {
+          "replicate": 5,
+          "max_full_score": -4.736766743151863,
+          "max_suffix_score": -4.7477149742543885,
+          "candidates": 4096
+        },
+        {
+          "replicate": 6,
+          "max_full_score": -4.751044937429403,
+          "max_suffix_score": -4.797985849235395,
+          "candidates": 4096
+        },
+        {
+          "replicate": 7,
+          "max_full_score": -4.765824921549738,
+          "max_suffix_score": -4.763919802669416,
+          "candidates": 4096
+        },
+        {
+          "replicate": 8,
+          "max_full_score": -4.738613833209951,
+          "max_suffix_score": -4.804804130577869,
+          "candidates": 4096
+        },
+        {
+          "replicate": 9,
+          "max_full_score": -4.774415380335912,
+          "max_suffix_score": -4.8587915845005485,
+          "candidates": 4096
+        },
+        {
+          "replicate": 10,
+          "max_full_score": -4.708362626327349,
+          "max_suffix_score": -4.7315906469510205,
+          "candidates": 4096
+        },
+        {
+          "replicate": 11,
+          "max_full_score": -4.723289822415132,
+          "max_suffix_score": -4.718479187776239,
+          "candidates": 4096
+        },
+        {
+          "replicate": 12,
+          "max_full_score": -4.701523496754094,
+          "max_suffix_score": -4.719065146012561,
+          "candidates": 4096
+        },
+        {
+          "replicate": 13,
+          "max_full_score": -4.780276374978485,
+          "max_suffix_score": -4.819813702050825,
+          "candidates": 4096
+        },
+        {
+          "replicate": 14,
+          "max_full_score": -4.6752422573159444,
+          "max_suffix_score": -4.656036051025035,
+          "candidates": 4096
+        },
+        {
+          "replicate": 15,
+          "max_full_score": -4.709159472472267,
+          "max_suffix_score": -4.755187332936829,
+          "candidates": 4096
+        },
+        {
+          "replicate": 16,
+          "max_full_score": -4.814481493145547,
+          "max_suffix_score": -4.850829106808859,
+          "candidates": 4096
+        },
+        {
+          "replicate": 17,
+          "max_full_score": -4.779610170572082,
+          "max_suffix_score": -4.77873830289329,
+          "candidates": 4096
+        },
+        {
+          "replicate": 18,
+          "max_full_score": -4.673229175049612,
+          "max_suffix_score": -4.777873514603267,
+          "candidates": 4096
+        }
+      ]
+    },
+    {
+      "model": "p03",
+      "family": "finite",
+      "variant": "body",
+      "policy": "page-reset",
+      "actual_full_score": -4.77955528729309,
+      "actual_suffix_score": -4.850844592801741,
+      "old_full_tail": 0.35,
+      "old_suffix_tail": 0.8,
+      "fixed_F_full_tail": 0.55,
+      "fixed_F_suffix_tail": 0.75,
+      "nulls": [
+        {
+          "replicate": 0,
+          "max_full_score": -4.719798709857107,
+          "max_suffix_score": -4.75296408505089,
+          "candidates": 4096
+        },
+        {
+          "replicate": 1,
+          "max_full_score": -4.725595272364096,
+          "max_suffix_score": -4.723181179274613,
+          "candidates": 4096
+        },
+        {
+          "replicate": 2,
+          "max_full_score": -4.762633405473891,
+          "max_suffix_score": -4.772548657210432,
+          "candidates": 4096
+        },
+        {
+          "replicate": 3,
+          "max_full_score": -4.750875662167557,
+          "max_suffix_score": -4.8250084075815405,
+          "candidates": 4096
+        },
+        {
+          "replicate": 4,
+          "max_full_score": -4.722272329892233,
+          "max_suffix_score": -4.743392395750651,
+          "candidates": 4096
+        },
+        {
+          "replicate": 5,
+          "max_full_score": -4.781783643509099,
+          "max_suffix_score": -4.816565176298433,
+          "candidates": 4096
+        },
+        {
+          "replicate": 6,
+          "max_full_score": -4.752632503195147,
+          "max_suffix_score": -4.815543163062534,
+          "candidates": 4096
+        },
+        {
+          "replicate": 7,
+          "max_full_score": -4.8141760321952605,
+          "max_suffix_score": -4.865476731862211,
+          "candidates": 4096
+        },
+        {
+          "replicate": 8,
+          "max_full_score": -4.790167678969798,
+          "max_suffix_score": -4.885602179457018,
+          "candidates": 4096
+        },
+        {
+          "replicate": 9,
+          "max_full_score": -4.6830731786232525,
+          "max_suffix_score": -4.718314688744923,
+          "candidates": 4096
+        },
+        {
+          "replicate": 10,
+          "max_full_score": -4.753066090796331,
+          "max_suffix_score": -4.795241350039127,
+          "candidates": 4096
+        },
+        {
+          "replicate": 11,
+          "max_full_score": -4.780256478608193,
+          "max_suffix_score": -4.803246996520585,
+          "candidates": 4096
+        },
+        {
+          "replicate": 12,
+          "max_full_score": -4.786700419544602,
+          "max_suffix_score": -4.850060342967276,
+          "candidates": 4096
+        },
+        {
+          "replicate": 13,
+          "max_full_score": -4.797097266929397,
+          "max_suffix_score": -4.8620291565347795,
+          "candidates": 4096
+        },
+        {
+          "replicate": 14,
+          "max_full_score": -4.802218885613825,
+          "max_suffix_score": -4.874627515653754,
+          "candidates": 4096
+        },
+        {
+          "replicate": 15,
+          "max_full_score": -4.683458975830983,
+          "max_suffix_score": -4.716498968107467,
+          "candidates": 4096
+        },
+        {
+          "replicate": 16,
+          "max_full_score": -4.835509469110157,
+          "max_suffix_score": -4.89349374817898,
+          "candidates": 4096
+        },
+        {
+          "replicate": 17,
+          "max_full_score": -4.792121999994624,
+          "max_suffix_score": -4.803941841945941,
+          "candidates": 4096
+        },
+        {
+          "replicate": 18,
+          "max_full_score": -4.65409290423006,
+          "max_suffix_score": -4.740136647408234,
+          "candidates": 4096
+        }
+      ]
+    },
+    {
+      "model": "p03",
+      "family": "finite",
+      "variant": "whole",
+      "policy": "continuous",
+      "actual_full_score": -4.736379764153048,
+      "actual_suffix_score": -4.783799112646243,
+      "old_full_tail": 0.25,
+      "old_suffix_tail": 0.3,
+      "fixed_F_full_tail": 0.65,
+      "fixed_F_suffix_tail": 0.7,
+      "nulls": [
+        {
+          "replicate": 0,
+          "max_full_score": -4.719529029518241,
+          "max_suffix_score": -4.709442711385764,
+          "candidates": 4096
+        },
+        {
+          "replicate": 1,
+          "max_full_score": -4.761798266601319,
+          "max_suffix_score": -4.805974736910487,
+          "candidates": 4096
+        },
+        {
+          "replicate": 2,
+          "max_full_score": -4.678143460660696,
+          "max_suffix_score": -4.674945610695922,
+          "candidates": 4096
+        },
+        {
+          "replicate": 3,
+          "max_full_score": -4.768930341934453,
+          "max_suffix_score": -4.8236918048169874,
+          "candidates": 4096
+        },
+        {
+          "replicate": 4,
+          "max_full_score": -4.7069069175257745,
+          "max_suffix_score": -4.743123881549913,
+          "candidates": 4096
+        },
+        {
+          "replicate": 5,
+          "max_full_score": -4.757182740177695,
+          "max_suffix_score": -4.776822259089681,
+          "candidates": 4096
+        },
+        {
+          "replicate": 6,
+          "max_full_score": -4.79488732614232,
+          "max_suffix_score": -4.84899392547724,
+          "candidates": 4096
+        },
+        {
+          "replicate": 7,
+          "max_full_score": -4.742609800290263,
+          "max_suffix_score": -4.824650406370965,
+          "candidates": 4096
+        },
+        {
+          "replicate": 8,
+          "max_full_score": -4.754575138866648,
+          "max_suffix_score": -4.809565536791468,
+          "candidates": 4096
+        },
+        {
+          "replicate": 9,
+          "max_full_score": -4.732540603092016,
+          "max_suffix_score": -4.8033321454381275,
+          "candidates": 4096
+        },
+        {
+          "replicate": 10,
+          "max_full_score": -4.684861574624579,
+          "max_suffix_score": -4.698422414425286,
+          "candidates": 4096
+        },
+        {
+          "replicate": 11,
+          "max_full_score": -4.679944433919699,
+          "max_suffix_score": -4.679354552306275,
+          "candidates": 4096
+        },
+        {
+          "replicate": 12,
+          "max_full_score": -4.715559641066129,
+          "max_suffix_score": -4.69017942841862,
+          "candidates": 4096
+        },
+        {
+          "replicate": 13,
+          "max_full_score": -4.718109161534928,
+          "max_suffix_score": -4.721642579588206,
+          "candidates": 4096
+        },
+        {
+          "replicate": 14,
+          "max_full_score": -4.708313133828479,
+          "max_suffix_score": -4.753346436180044,
+          "candidates": 4096
+        },
+        {
+          "replicate": 15,
+          "max_full_score": -4.745641620573928,
+          "max_suffix_score": -4.739645526766747,
+          "candidates": 4096
+        },
+        {
+          "replicate": 16,
+          "max_full_score": -4.7035349463594525,
+          "max_suffix_score": -4.709720975510596,
+          "candidates": 4096
+        },
+        {
+          "replicate": 17,
+          "max_full_score": -4.71795087753783,
+          "max_suffix_score": -4.7491562071688715,
+          "candidates": 4096
+        },
+        {
+          "replicate": 18,
+          "max_full_score": -4.686303756900635,
+          "max_suffix_score": -4.741560395614554,
+          "candidates": 4096
+        }
+      ]
+    },
+    {
+      "model": "p03",
+      "family": "finite",
+      "variant": "whole",
+      "policy": "page-reset",
+      "actual_full_score": -4.752420253075405,
+      "actual_suffix_score": -4.80889243482284,
+      "old_full_tail": 0.1,
+      "old_suffix_tail": 0.2,
+      "fixed_F_full_tail": 0.3,
+      "fixed_F_suffix_tail": 0.35,
+      "nulls": [
+        {
+          "replicate": 0,
+          "max_full_score": -4.73247388635125,
+          "max_suffix_score": -4.731963715367355,
+          "candidates": 4096
+        },
+        {
+          "replicate": 1,
+          "max_full_score": -4.788899217921291,
+          "max_suffix_score": -4.848370757758484,
+          "candidates": 4096
+        },
+        {
+          "replicate": 2,
+          "max_full_score": -4.764734056645759,
+          "max_suffix_score": -4.810405678841868,
+          "candidates": 4096
+        },
+        {
+          "replicate": 3,
+          "max_full_score": -4.767104389419042,
+          "max_suffix_score": -4.823842299341318,
+          "candidates": 4096
+        },
+        {
+          "replicate": 4,
+          "max_full_score": -4.770365164055023,
+          "max_suffix_score": -4.847475382580565,
+          "candidates": 4096
+        },
+        {
+          "replicate": 5,
+          "max_full_score": -4.79992843919429,
+          "max_suffix_score": -4.838716537998518,
+          "candidates": 4096
+        },
+        {
+          "replicate": 6,
+          "max_full_score": -4.7586672948991025,
+          "max_suffix_score": -4.810000230488527,
+          "candidates": 4096
+        },
+        {
+          "replicate": 7,
+          "max_full_score": -4.748644843383665,
+          "max_suffix_score": -4.834091470257822,
+          "candidates": 4096
+        },
+        {
+          "replicate": 8,
+          "max_full_score": -4.73770395043193,
+          "max_suffix_score": -4.78688384470382,
+          "candidates": 4096
+        },
+        {
+          "replicate": 9,
+          "max_full_score": -4.795234829709126,
+          "max_suffix_score": -4.893562411972805,
+          "candidates": 4096
+        },
+        {
+          "replicate": 10,
+          "max_full_score": -4.80066794017714,
+          "max_suffix_score": -4.867877149646251,
+          "candidates": 4096
+        },
+        {
+          "replicate": 11,
+          "max_full_score": -4.760755166515739,
+          "max_suffix_score": -4.805914164325456,
+          "candidates": 4096
+        },
+        {
+          "replicate": 12,
+          "max_full_score": -4.807352640534351,
+          "max_suffix_score": -4.852617072874756,
+          "candidates": 4096
+        },
+        {
+          "replicate": 13,
+          "max_full_score": -4.8470585355561395,
+          "max_suffix_score": -4.925271680681617,
+          "candidates": 4096
+        },
+        {
+          "replicate": 14,
+          "max_full_score": -4.684556615707811,
+          "max_suffix_score": -4.714195356266,
+          "candidates": 4096
+        },
+        {
+          "replicate": 15,
+          "max_full_score": -4.839498467285835,
+          "max_suffix_score": -4.886472727883964,
+          "candidates": 4096
+        },
+        {
+          "replicate": 16,
+          "max_full_score": -4.781578014058226,
+          "max_suffix_score": -4.838285468494557,
+          "candidates": 4096
+        },
+        {
+          "replicate": 17,
+          "max_full_score": -4.755701209377755,
+          "max_suffix_score": -4.807778681235254,
+          "candidates": 4096
+        },
+        {
+          "replicate": 18,
+          "max_full_score": -4.690399956416758,
+          "max_suffix_score": -4.742737256157169,
+          "candidates": 4096
+        }
+      ]
+    },
+    {
+      "model": "complementary",
+      "family": "periodic",
+      "variant": "body",
+      "policy": "continuous",
+      "actual_full_score": -5.626949029716216,
+      "actual_suffix_score": -5.706639306235607,
+      "old_full_tail": 0.75,
+      "old_suffix_tail": 0.85,
+      "fixed_F_full_tail": 1.0,
+      "fixed_F_suffix_tail": 0.9,
+      "nulls": [
+        {
+          "replicate": 0,
+          "max_full_score": -5.539415747224213,
+          "max_suffix_score": -5.627760758966107,
+          "candidates": 4096
+        },
+        {
+          "replicate": 1,
+          "max_full_score": -5.515451657449069,
+          "max_suffix_score": -5.579566161303493,
+          "candidates": 4096
+        },
+        {
+          "replicate": 2,
+          "max_full_score": -5.523195364525113,
+          "max_suffix_score": -5.590866966849074,
+          "candidates": 4096
+        },
+        {
+          "replicate": 3,
+          "max_full_score": -5.5798511697704845,
+          "max_suffix_score": -5.670090275663971,
+          "candidates": 4096
+        },
+        {
+          "replicate": 4,
+          "max_full_score": -5.526611762777157,
+          "max_suffix_score": -5.634012689560967,
+          "candidates": 4096
+        },
+        {
+          "replicate": 5,
+          "max_full_score": -5.542088330529775,
+          "max_suffix_score": -5.630287530994542,
+          "candidates": 4096
+        },
+        {
+          "replicate": 6,
+          "max_full_score": -5.535764029093171,
+          "max_suffix_score": -5.663008938850914,
+          "candidates": 4096
+        },
+        {
+          "replicate": 7,
+          "max_full_score": -5.561250499004389,
+          "max_suffix_score": -5.659791594050262,
+          "candidates": 4096
+        },
+        {
+          "replicate": 8,
+          "max_full_score": -5.579133921162806,
+          "max_suffix_score": -5.67144088660772,
+          "candidates": 4096
+        },
+        {
+          "replicate": 9,
+          "max_full_score": -5.445013128541253,
+          "max_suffix_score": -5.530303908830954,
+          "candidates": 4096
+        },
+        {
+          "replicate": 10,
+          "max_full_score": -5.428949266704788,
+          "max_suffix_score": -5.483538535164308,
+          "candidates": 4096
+        },
+        {
+          "replicate": 11,
+          "max_full_score": -5.580615217914695,
+          "max_suffix_score": -5.7153989536492675,
+          "candidates": 4096
+        },
+        {
+          "replicate": 12,
+          "max_full_score": -5.612664820750962,
+          "max_suffix_score": -5.712087623356226,
+          "candidates": 4096
+        },
+        {
+          "replicate": 13,
+          "max_full_score": -5.567130362246992,
+          "max_suffix_score": -5.658618254205691,
+          "candidates": 4096
+        },
+        {
+          "replicate": 14,
+          "max_full_score": -5.606324202635875,
+          "max_suffix_score": -5.685288372471807,
+          "candidates": 4096
+        },
+        {
+          "replicate": 15,
+          "max_full_score": -5.406717597578831,
+          "max_suffix_score": -5.3838000602963705,
+          "candidates": 4096
+        },
+        {
+          "replicate": 16,
+          "max_full_score": -5.514747422025761,
+          "max_suffix_score": -5.542128620913778,
+          "candidates": 4096
+        },
+        {
+          "replicate": 17,
+          "max_full_score": -5.561311014963931,
+          "max_suffix_score": -5.659420624381031,
+          "candidates": 4096
+        },
+        {
+          "replicate": 18,
+          "max_full_score": -5.492402355926522,
+          "max_suffix_score": -5.590842304973421,
+          "candidates": 4096
+        }
+      ]
+    },
+    {
+      "model": "complementary",
+      "family": "periodic",
+      "variant": "body",
+      "policy": "page-reset",
+      "actual_full_score": -5.633153516438777,
+      "actual_suffix_score": -5.719430309800512,
+      "old_full_tail": 0.75,
+      "old_suffix_tail": 0.7,
+      "fixed_F_full_tail": 0.9,
+      "fixed_F_suffix_tail": 0.7,
+      "nulls": [
+        {
+          "replicate": 0,
+          "max_full_score": -5.549296804737027,
+          "max_suffix_score": -5.653050471934099,
+          "candidates": 4096
+        },
+        {
+          "replicate": 1,
+          "max_full_score": -5.528239935526701,
+          "max_suffix_score": -5.601646787621526,
+          "candidates": 4096
+        },
+        {
+          "replicate": 2,
+          "max_full_score": -5.568548696992962,
+          "max_suffix_score": -5.667733484889674,
+          "candidates": 4096
+        },
+        {
+          "replicate": 3,
+          "max_full_score": -5.5958305425441734,
+          "max_suffix_score": -5.691997163634845,
+          "candidates": 4096
+        },
+        {
+          "replicate": 4,
+          "max_full_score": -5.466536029115542,
+          "max_suffix_score": -5.541621085058447,
+          "candidates": 4096
+        },
+        {
+          "replicate": 5,
+          "max_full_score": -5.658287540842849,
+          "max_suffix_score": -5.837146632341813,
+          "candidates": 4096
+        },
+        {
+          "replicate": 6,
+          "max_full_score": -5.531658178943234,
+          "max_suffix_score": -5.6566944744227925,
+          "candidates": 4096
+        },
+        {
+          "replicate": 7,
+          "max_full_score": -5.593893448761054,
+          "max_suffix_score": -5.726058454287416,
+          "candidates": 4096
+        },
+        {
+          "replicate": 8,
+          "max_full_score": -5.61060720858399,
+          "max_suffix_score": -5.724122517171008,
+          "candidates": 4096
+        },
+        {
+          "replicate": 9,
+          "max_full_score": -5.470108703897657,
+          "max_suffix_score": -5.568898867756501,
+          "candidates": 4096
+        },
+        {
+          "replicate": 10,
+          "max_full_score": -5.528264593419851,
+          "max_suffix_score": -5.636277450323981,
+          "candidates": 4096
+        },
+        {
+          "replicate": 11,
+          "max_full_score": -5.553502989808848,
+          "max_suffix_score": -5.675244432786882,
+          "candidates": 4096
+        },
+        {
+          "replicate": 12,
+          "max_full_score": -5.593924053924405,
+          "max_suffix_score": -5.695398855664071,
+          "candidates": 4096
+        },
+        {
+          "replicate": 13,
+          "max_full_score": -5.625365231717833,
+          "max_suffix_score": -5.755325204968941,
+          "candidates": 4096
+        },
+        {
+          "replicate": 14,
+          "max_full_score": -5.644109469203763,
+          "max_suffix_score": -5.7433990469818585,
+          "candidates": 4096
+        },
+        {
+          "replicate": 15,
+          "max_full_score": -5.496056103633656,
+          "max_suffix_score": -5.534977032477095,
+          "candidates": 4096
+        },
+        {
+          "replicate": 16,
+          "max_full_score": -5.489991432500859,
+          "max_suffix_score": -5.5138081440287126,
+          "candidates": 4096
+        },
+        {
+          "replicate": 17,
+          "max_full_score": -5.6210709479734575,
+          "max_suffix_score": -5.7809206412324965,
+          "candidates": 4096
+        },
+        {
+          "replicate": 18,
+          "max_full_score": -5.514328625595978,
+          "max_suffix_score": -5.621508384192536,
+          "candidates": 4096
+        }
+      ]
+    },
+    {
+      "model": "complementary",
+      "family": "periodic",
+      "variant": "whole",
+      "policy": "continuous",
+      "actual_full_score": -5.562100317789504,
+      "actual_suffix_score": -5.620389166739438,
+      "old_full_tail": 0.4,
+      "old_suffix_tail": 0.5,
+      "fixed_F_full_tail": 0.75,
+      "fixed_F_suffix_tail": 0.45,
+      "nulls": [
+        {
+          "replicate": 0,
+          "max_full_score": -5.5339634983752095,
+          "max_suffix_score": -5.627760758966107,
+          "candidates": 4096
+        },
+        {
+          "replicate": 1,
+          "max_full_score": -5.527667050575601,
+          "max_suffix_score": -5.579566161303493,
+          "candidates": 4096
+        },
+        {
+          "replicate": 2,
+          "max_full_score": -5.5584066992782795,
+          "max_suffix_score": -5.63131702183423,
+          "candidates": 4096
+        },
+        {
+          "replicate": 3,
+          "max_full_score": -5.462953474694066,
+          "max_suffix_score": -5.466277280619434,
+          "candidates": 4096
+        },
+        {
+          "replicate": 4,
+          "max_full_score": -5.525225502839213,
+          "max_suffix_score": -5.634012689560967,
+          "candidates": 4096
+        },
+        {
+          "replicate": 5,
+          "max_full_score": -5.538058226903883,
+          "max_suffix_score": -5.668927370130387,
+          "candidates": 4096
+        },
+        {
+          "replicate": 6,
+          "max_full_score": -5.537688594186649,
+          "max_suffix_score": -5.663008938850914,
+          "candidates": 4096
+        },
+        {
+          "replicate": 7,
+          "max_full_score": -5.558386430572077,
+          "max_suffix_score": -5.6611850342606065,
+          "candidates": 4096
+        },
+        {
+          "replicate": 8,
+          "max_full_score": -5.573149007518688,
+          "max_suffix_score": -5.67144088660772,
+          "candidates": 4096
+        },
+        {
+          "replicate": 9,
+          "max_full_score": -5.451458373322146,
+          "max_suffix_score": -5.530303908830954,
+          "candidates": 4096
+        },
+        {
+          "replicate": 10,
+          "max_full_score": -5.428157710319,
+          "max_suffix_score": -5.483538535164308,
+          "candidates": 4096
+        },
+        {
+          "replicate": 11,
+          "max_full_score": -5.578271661541577,
+          "max_suffix_score": -5.7153989536492675,
+          "candidates": 4096
+        },
+        {
+          "replicate": 12,
+          "max_full_score": -5.612190914776421,
+          "max_suffix_score": -5.712087623356226,
+          "candidates": 4096
+        },
+        {
+          "replicate": 13,
+          "max_full_score": -5.568715518065839,
+          "max_suffix_score": -5.658618254205691,
+          "candidates": 4096
+        },
+        {
+          "replicate": 14,
+          "max_full_score": -5.544765923146642,
+          "max_suffix_score": -5.596231321245816,
+          "candidates": 4096
+        },
+        {
+          "replicate": 15,
+          "max_full_score": -5.462967397416155,
+          "max_suffix_score": -5.46707575172743,
+          "candidates": 4096
+        },
+        {
+          "replicate": 16,
+          "max_full_score": -5.517862364774467,
+          "max_suffix_score": -5.542128620913778,
+          "candidates": 4096
+        },
+        {
+          "replicate": 17,
+          "max_full_score": -5.5769209838231495,
+          "max_suffix_score": -5.659420624381031,
+          "candidates": 4096
+        },
+        {
+          "replicate": 18,
+          "max_full_score": -5.495487401535799,
+          "max_suffix_score": -5.590842304973421,
+          "candidates": 4096
+        }
+      ]
+    },
+    {
+      "model": "complementary",
+      "family": "periodic",
+      "variant": "whole",
+      "policy": "page-reset",
+      "actual_full_score": -5.440585442439889,
+      "actual_suffix_score": -5.416887256115714,
+      "old_full_tail": 0.05,
+      "old_suffix_tail": 0.05,
+      "fixed_F_full_tail": 0.1,
+      "fixed_F_suffix_tail": 0.1,
+      "nulls": [
+        {
+          "replicate": 0,
+          "max_full_score": -5.571869088637092,
+          "max_suffix_score": -5.696041903775617,
+          "candidates": 4096
+        },
+        {
+          "replicate": 1,
+          "max_full_score": -5.600752404985437,
+          "max_suffix_score": -5.693898982046924,
+          "candidates": 4096
+        },
+        {
+          "replicate": 2,
+          "max_full_score": -5.518181338292718,
+          "max_suffix_score": -5.575484805360928,
+          "candidates": 4096
+        },
+        {
+          "replicate": 3,
+          "max_full_score": -5.4482993528487995,
+          "max_suffix_score": -5.464325430164251,
+          "candidates": 4096
+        },
+        {
+          "replicate": 4,
+          "max_full_score": -5.466165706048988,
+          "max_suffix_score": -5.541621085058447,
+          "candidates": 4096
+        },
+        {
+          "replicate": 5,
+          "max_full_score": -5.62091527740238,
+          "max_suffix_score": -5.795755280251628,
+          "candidates": 4096
+        },
+        {
+          "replicate": 6,
+          "max_full_score": -5.578861032241556,
+          "max_suffix_score": -5.724847390886561,
+          "candidates": 4096
+        },
+        {
+          "replicate": 7,
+          "max_full_score": -5.617176639402455,
+          "max_suffix_score": -5.768215850214505,
+          "candidates": 4096
+        },
+        {
+          "replicate": 8,
+          "max_full_score": -5.589624518532273,
+          "max_suffix_score": -5.697729597074529,
+          "candidates": 4096
+        },
+        {
+          "replicate": 9,
+          "max_full_score": -5.476129559016378,
+          "max_suffix_score": -5.568898867756501,
+          "candidates": 4096
+        },
+        {
+          "replicate": 10,
+          "max_full_score": -5.596530878000358,
+          "max_suffix_score": -5.746937123759309,
+          "candidates": 4096
+        },
+        {
+          "replicate": 11,
+          "max_full_score": -5.585970317147612,
+          "max_suffix_score": -5.728984415910079,
+          "candidates": 4096
+        },
+        {
+          "replicate": 12,
+          "max_full_score": -5.543639786349033,
+          "max_suffix_score": -5.621402055612424,
+          "candidates": 4096
+        },
+        {
+          "replicate": 13,
+          "max_full_score": -5.625965581401321,
+          "max_suffix_score": -5.755325204968941,
+          "candidates": 4096
+        },
+        {
+          "replicate": 14,
+          "max_full_score": -5.600225401461963,
+          "max_suffix_score": -5.673659359709131,
+          "candidates": 4096
+        },
+        {
+          "replicate": 15,
+          "max_full_score": -5.398198075512498,
+          "max_suffix_score": -5.361608211421667,
+          "candidates": 4096
+        },
+        {
+          "replicate": 16,
+          "max_full_score": -5.601509914703803,
+          "max_suffix_score": -5.687675399275308,
+          "candidates": 4096
+        },
+        {
+          "replicate": 17,
+          "max_full_score": -5.597491997720994,
+          "max_suffix_score": -5.723898189692682,
+          "candidates": 4096
+        },
+        {
+          "replicate": 18,
+          "max_full_score": -5.500140409784585,
+          "max_suffix_score": -5.598121349623638,
+          "candidates": 4096
+        }
+      ]
+    },
+    {
+      "model": "complementary",
+      "family": "finite",
+      "variant": "body",
+      "policy": "continuous",
+      "actual_full_score": -5.432661723747467,
+      "actual_suffix_score": -5.461232974976566,
+      "old_full_tail": 0.05,
+      "old_suffix_tail": 0.1,
+      "fixed_F_full_tail": 0.1,
+      "fixed_F_suffix_tail": 0.1,
+      "nulls": [
+        {
+          "replicate": 0,
+          "max_full_score": -5.599419583344022,
+          "max_suffix_score": -5.664699189000854,
+          "candidates": 4096
+        },
+        {
+          "replicate": 1,
+          "max_full_score": -5.604816190735763,
+          "max_suffix_score": -5.645230925978746,
+          "candidates": 4096
+        },
+        {
+          "replicate": 2,
+          "max_full_score": -5.555785224595981,
+          "max_suffix_score": -5.570755362149528,
+          "candidates": 4096
+        },
+        {
+          "replicate": 3,
+          "max_full_score": -5.481526272632761,
+          "max_suffix_score": -5.526507102164228,
+          "candidates": 4096
+        },
+        {
+          "replicate": 4,
+          "max_full_score": -5.5746900907099945,
+          "max_suffix_score": -5.6429599947227285,
+          "candidates": 4096
+        },
+        {
+          "replicate": 5,
+          "max_full_score": -5.475551036862183,
+          "max_suffix_score": -5.463661938035426,
+          "candidates": 4096
+        },
+        {
+          "replicate": 6,
+          "max_full_score": -5.502373443397782,
+          "max_suffix_score": -5.602705858495316,
+          "candidates": 4096
+        },
+        {
+          "replicate": 7,
+          "max_full_score": -5.429770594886943,
+          "max_suffix_score": -5.363860676813601,
+          "candidates": 4096
+        },
+        {
+          "replicate": 8,
+          "max_full_score": -5.574249043799565,
+          "max_suffix_score": -5.596720041900588,
+          "candidates": 4096
+        },
+        {
+          "replicate": 9,
+          "max_full_score": -5.599227459041423,
+          "max_suffix_score": -5.664100842149813,
+          "candidates": 4096
+        },
+        {
+          "replicate": 10,
+          "max_full_score": -5.561321789948776,
+          "max_suffix_score": -5.6136919828716,
+          "candidates": 4096
+        },
+        {
+          "replicate": 11,
+          "max_full_score": -5.458354950726582,
+          "max_suffix_score": -5.4815920047207625,
+          "candidates": 4096
+        },
+        {
+          "replicate": 12,
+          "max_full_score": -5.511589365765074,
+          "max_suffix_score": -5.587491141713554,
+          "candidates": 4096
+        },
+        {
+          "replicate": 13,
+          "max_full_score": -5.558486303371028,
+          "max_suffix_score": -5.592023950255171,
+          "candidates": 4096
+        },
+        {
+          "replicate": 14,
+          "max_full_score": -5.578339699738488,
+          "max_suffix_score": -5.659908294026917,
+          "candidates": 4096
+        },
+        {
+          "replicate": 15,
+          "max_full_score": -5.4866660734585055,
+          "max_suffix_score": -5.479744839151667,
+          "candidates": 4096
+        },
+        {
+          "replicate": 16,
+          "max_full_score": -5.520994480185214,
+          "max_suffix_score": -5.57339162096617,
+          "candidates": 4096
+        },
+        {
+          "replicate": 17,
+          "max_full_score": -5.5740612235923965,
+          "max_suffix_score": -5.640092231066354,
+          "candidates": 4096
+        },
+        {
+          "replicate": 18,
+          "max_full_score": -5.509604766444385,
+          "max_suffix_score": -5.617858963403064,
+          "candidates": 4096
+        }
+      ]
+    },
+    {
+      "model": "complementary",
+      "family": "finite",
+      "variant": "body",
+      "policy": "page-reset",
+      "actual_full_score": -5.525399693957165,
+      "actual_suffix_score": -5.618518073557513,
+      "old_full_tail": 0.2,
+      "old_suffix_tail": 0.4,
+      "fixed_F_full_tail": 0.3,
+      "fixed_F_suffix_tail": 0.35,
+      "nulls": [
+        {
+          "replicate": 0,
+          "max_full_score": -5.575160346429006,
+          "max_suffix_score": -5.630428935521654,
+          "candidates": 4096
+        },
+        {
+          "replicate": 1,
+          "max_full_score": -5.524841219332674,
+          "max_suffix_score": -5.525769583447667,
+          "candidates": 4096
+        },
+        {
+          "replicate": 2,
+          "max_full_score": -5.647661347025243,
+          "max_suffix_score": -5.712053384650967,
+          "candidates": 4096
+        },
+        {
+          "replicate": 3,
+          "max_full_score": -5.58905437350541,
+          "max_suffix_score": -5.692554011966642,
+          "candidates": 4096
+        },
+        {
+          "replicate": 4,
+          "max_full_score": -5.506093023758089,
+          "max_suffix_score": -5.5374632709448415,
+          "candidates": 4096
+        },
+        {
+          "replicate": 5,
+          "max_full_score": -5.569463170270662,
+          "max_suffix_score": -5.624355551445614,
+          "candidates": 4096
+        },
+        {
+          "replicate": 6,
+          "max_full_score": -5.492406927473564,
+          "max_suffix_score": -5.587378165574826,
+          "candidates": 4096
+        },
+        {
+          "replicate": 7,
+          "max_full_score": -5.583396514672561,
+          "max_suffix_score": -5.623395036455982,
+          "candidates": 4096
+        },
+        {
+          "replicate": 8,
+          "max_full_score": -5.582540474357877,
+          "max_suffix_score": -5.621396144542335,
+          "candidates": 4096
+        },
+        {
+          "replicate": 9,
+          "max_full_score": -5.583879248026434,
+          "max_suffix_score": -5.6404965387899,
+          "candidates": 4096
+        },
+        {
+          "replicate": 10,
+          "max_full_score": -5.541944715632161,
+          "max_suffix_score": -5.587331761050054,
+          "candidates": 4096
+        },
+        {
+          "replicate": 11,
+          "max_full_score": -5.572573431598343,
+          "max_suffix_score": -5.644898631090605,
+          "candidates": 4096
+        },
+        {
+          "replicate": 12,
+          "max_full_score": -5.551483192392934,
+          "max_suffix_score": -5.648844610531005,
+          "candidates": 4096
+        },
+        {
+          "replicate": 13,
+          "max_full_score": -5.580993170389517,
+          "max_suffix_score": -5.630025076272201,
+          "candidates": 4096
+        },
+        {
+          "replicate": 14,
+          "max_full_score": -5.5031837022079,
+          "max_suffix_score": -5.5466258889944795,
+          "candidates": 4096
+        },
+        {
+          "replicate": 15,
+          "max_full_score": -5.570662704904466,
+          "max_suffix_score": -5.643321487993472,
+          "candidates": 4096
+        },
+        {
+          "replicate": 16,
+          "max_full_score": -5.610351122130726,
+          "max_suffix_score": -5.708101912754877,
+          "candidates": 4096
+        },
+        {
+          "replicate": 17,
+          "max_full_score": -5.5966390351048725,
+          "max_suffix_score": -5.676261936422263,
+          "candidates": 4096
+        },
+        {
+          "replicate": 18,
+          "max_full_score": -5.3909967491040645,
+          "max_suffix_score": -5.446328129065238,
+          "candidates": 4096
+        }
+      ]
+    },
+    {
+      "model": "complementary",
+      "family": "finite",
+      "variant": "whole",
+      "policy": "continuous",
+      "actual_full_score": -5.49250184279813,
+      "actual_suffix_score": -5.519208757859609,
+      "old_full_tail": 0.1,
+      "old_suffix_tail": 0.25,
+      "fixed_F_full_tail": 0.35,
+      "fixed_F_suffix_tail": 0.25,
+      "nulls": [
+        {
+          "replicate": 0,
+          "max_full_score": -5.50708401618899,
+          "max_suffix_score": -5.600033335114122,
+          "candidates": 4096
+        },
+        {
+          "replicate": 1,
+          "max_full_score": -5.557984940008392,
+          "max_suffix_score": -5.596418425399906,
+          "candidates": 4096
+        },
+        {
+          "replicate": 2,
+          "max_full_score": -5.476534807851309,
+          "max_suffix_score": -5.499115731994897,
+          "candidates": 4096
+        },
+        {
+          "replicate": 3,
+          "max_full_score": -5.5585494603056445,
+          "max_suffix_score": -5.636443919541709,
+          "candidates": 4096
+        },
+        {
+          "replicate": 4,
+          "max_full_score": -5.5652995550600295,
+          "max_suffix_score": -5.620974371531533,
+          "candidates": 4096
+        },
+        {
+          "replicate": 5,
+          "max_full_score": -5.530384495233261,
+          "max_suffix_score": -5.5441558067114,
+          "candidates": 4096
+        },
+        {
+          "replicate": 6,
+          "max_full_score": -5.476833876070925,
+          "max_suffix_score": -5.515377531995832,
+          "candidates": 4096
+        },
+        {
+          "replicate": 7,
+          "max_full_score": -5.472832177539099,
+          "max_suffix_score": -5.596518817459406,
+          "candidates": 4096
+        },
+        {
+          "replicate": 8,
+          "max_full_score": -5.539695232562424,
+          "max_suffix_score": -5.581898050364593,
+          "candidates": 4096
+        },
+        {
+          "replicate": 9,
+          "max_full_score": -5.616815906919894,
+          "max_suffix_score": -5.690524458435288,
+          "candidates": 4096
+        },
+        {
+          "replicate": 10,
+          "max_full_score": -5.531304613508328,
+          "max_suffix_score": -5.572013914003348,
+          "candidates": 4096
+        },
+        {
+          "replicate": 11,
+          "max_full_score": -5.516399915389878,
+          "max_suffix_score": -5.513162805616168,
+          "candidates": 4096
+        },
+        {
+          "replicate": 12,
+          "max_full_score": -5.511940658237227,
+          "max_suffix_score": -5.535554189100522,
+          "candidates": 4096
+        },
+        {
+          "replicate": 13,
+          "max_full_score": -5.566687649986651,
+          "max_suffix_score": -5.6447130878321605,
+          "candidates": 4096
+        },
+        {
+          "replicate": 14,
+          "max_full_score": -5.5006825181250605,
+          "max_suffix_score": -5.539417989343876,
+          "candidates": 4096
+        },
+        {
+          "replicate": 15,
+          "max_full_score": -5.493492441651369,
+          "max_suffix_score": -5.562557534067667,
+          "candidates": 4096
+        },
+        {
+          "replicate": 16,
+          "max_full_score": -5.374934971878288,
+          "max_suffix_score": -5.4502000310192695,
+          "candidates": 4096
+        },
+        {
+          "replicate": 17,
+          "max_full_score": -5.468705365783853,
+          "max_suffix_score": -5.5332035027415385,
+          "candidates": 4096
+        },
+        {
+          "replicate": 18,
+          "max_full_score": -5.470173647669001,
+          "max_suffix_score": -5.638682092531482,
+          "candidates": 4096
+        }
+      ]
+    },
+    {
+      "model": "complementary",
+      "family": "finite",
+      "variant": "whole",
+      "policy": "page-reset",
+      "actual_full_score": -5.5084318151565945,
+      "actual_suffix_score": -5.561297721050327,
+      "old_full_tail": 0.15,
+      "old_suffix_tail": 0.15,
+      "fixed_F_full_tail": 0.25,
+      "fixed_F_suffix_tail": 0.2,
+      "nulls": [
+        {
+          "replicate": 0,
+          "max_full_score": -5.544669896899591,
+          "max_suffix_score": -5.6550514623706,
+          "candidates": 4096
+        },
+        {
+          "replicate": 1,
+          "max_full_score": -5.5835204212401734,
+          "max_suffix_score": -5.64107312066176,
+          "candidates": 4096
+        },
+        {
+          "replicate": 2,
+          "max_full_score": -5.563103792186779,
+          "max_suffix_score": -5.634541991440332,
+          "candidates": 4096
+        },
+        {
+          "replicate": 3,
+          "max_full_score": -5.571789090433045,
+          "max_suffix_score": -5.686215464983955,
+          "candidates": 4096
+        },
+        {
+          "replicate": 4,
+          "max_full_score": -5.640553776763129,
+          "max_suffix_score": -5.758345865655276,
+          "candidates": 4096
+        },
+        {
+          "replicate": 5,
+          "max_full_score": -5.590410878118593,
+          "max_suffix_score": -5.633837799719238,
+          "candidates": 4096
+        },
+        {
+          "replicate": 6,
+          "max_full_score": -5.554148005545774,
+          "max_suffix_score": -5.634520299638249,
+          "candidates": 4096
+        },
+        {
+          "replicate": 7,
+          "max_full_score": -5.4931122430595245,
+          "max_suffix_score": -5.628244422603353,
+          "candidates": 4096
+        },
+        {
+          "replicate": 8,
+          "max_full_score": -5.5579838081332404,
+          "max_suffix_score": -5.6082802942145955,
+          "candidates": 4096
+        },
+        {
+          "replicate": 9,
+          "max_full_score": -5.5068665966536265,
+          "max_suffix_score": -5.518522627383825,
+          "candidates": 4096
+        },
+        {
+          "replicate": 10,
+          "max_full_score": -5.5888083731083675,
+          "max_suffix_score": -5.663673110938503,
+          "candidates": 4096
+        },
+        {
+          "replicate": 11,
+          "max_full_score": -5.580492581922921,
+          "max_suffix_score": -5.621425140349834,
+          "candidates": 4096
+        },
+        {
+          "replicate": 12,
+          "max_full_score": -5.5059655018893405,
+          "max_suffix_score": -5.545232746089669,
+          "candidates": 4096
+        },
+        {
+          "replicate": 13,
+          "max_full_score": -5.602616154945113,
+          "max_suffix_score": -5.700918703172824,
+          "candidates": 4096
+        },
+        {
+          "replicate": 14,
+          "max_full_score": -5.617620242075857,
+          "max_suffix_score": -5.722352312349794,
+          "candidates": 4096
+        },
+        {
+          "replicate": 15,
+          "max_full_score": -5.558803979017507,
+          "max_suffix_score": -5.6647291983423855,
+          "candidates": 4096
+        },
+        {
+          "replicate": 16,
+          "max_full_score": -5.509384114018466,
+          "max_suffix_score": -5.6560160860826105,
+          "candidates": 4096
+        },
+        {
+          "replicate": 17,
+          "max_full_score": -5.560595480927936,
+          "max_suffix_score": -5.667057817945299,
+          "candidates": 4096
+        },
+        {
+          "replicate": 18,
+          "max_full_score": -5.341148914189228,
+          "max_suffix_score": -5.4471043882509464,
+          "candidates": 4096
+        }
+      ]
+    }
+  ],
+  "null_complete_paths": 1245184,
+  "interpretation": "Adaptive shared-comparator sensitivity: fixedFsites/equalitymask, no fixedfirst nor histogram. Actualsearches reused unchanged."
+}

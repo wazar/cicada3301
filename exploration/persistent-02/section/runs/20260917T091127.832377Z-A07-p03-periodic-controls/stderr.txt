@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/section/a07.py", line 68, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/section/a07.py", line 60, in main
+    inp=json.loads((O/'A07-inputs.json').read_text());lm=A.A.M.LM() if a.model=='p03' else LM();grid=inp['grid'][a.family]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.14/Frameworks/Python.framework/Versions/3.12/lib/python3.12/pathlib.py", line 1027, in read_text
+    with self.open(mode='r', encoding=encoding, errors=errors) as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.14/Frameworks/Python.framework/Versions/3.12/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/section/A07-inputs.json'

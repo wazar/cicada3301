@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/section/a07.py", line 68, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/section/a07.py", line 59, in main
+    if a.action=='freeze':freeze();return
+                          ^^^^^^^^
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/section/a07.py", line 24, in freeze
+    controls.append(dict(**src,id=family+'-'+src['id'],family=family,cipher=c,reset_before=resets,spans=[[0,n*249//716],[n*249//716,n*515//716],[n*515//716,n]],plant=cell,truth_literal_positions=literal,truth_final_position=pos,truth_used=used))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: dict() got multiple values for keyword argument 'id'

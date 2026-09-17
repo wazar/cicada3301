@@ -1,0 +1,9474 @@
+{
+  "passed": true,
+  "cases": 850,
+  "exhaustive_paths": 13464,
+  "exhausted": 132,
+  "legal_nondefault_context_cases": 717,
+  "no_reset_olddecoder_comparisons": 259,
+  "records": [
+    {
+      "case": 0,
+      "exhausted": true
+    },
+    {
+      "case": 1,
+      "paths": 64,
+      "reset_before": [
+        3,
+        4,
+        5,
+        7
+      ],
+      "initial_context": [
+        6,
+        5
+      ],
+      "retained": 1
+    },
+    {
+      "case": 2,
+      "exhausted": true
+    },
+    {
+      "case": 3,
+      "exhausted": true
+    },
+    {
+      "case": 4,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        2,
+        22
+      ],
+      "retained": 1
+    },
+    {
+      "case": 5,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        8,
+        6
+      ],
+      "retained": 1
+    },
+    {
+      "case": 6,
+      "paths": 2,
+      "reset_before": [
+        1,
+        2
+      ],
+      "initial_context": [
+        23,
+        3
+      ],
+      "retained": 2
+    },
+    {
+      "case": 7,
+      "paths": 2,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "initial_context": [
+        25,
+        19
+      ],
+      "retained": 2
+    },
+    {
+      "case": 8,
+      "paths": 128,
+      "reset_before": [
+        1,
+        5,
+        7
+      ],
+      "initial_context": [
+        0,
+        2
+      ],
+      "retained": 7
+    },
+    {
+      "case": 9,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        25,
+        25
+      ],
+      "retained": 1
+    },
+    {
+      "case": 10,
+      "paths": 16,
+      "reset_before": [
+        0,
+        5,
+        6
+      ],
+      "initial_context": [
+        1,
+        23
+      ],
+      "retained": 16
+    },
+    {
+      "case": 11,
+      "paths": 16,
+      "reset_before": [],
+      "initial_context": [
+        6,
+        9
+      ],
+      "retained": 16
+    },
+    {
+      "case": 12,
+      "paths": 8,
+      "reset_before": [
+        2,
+        3
+      ],
+      "initial_context": [
+        29,
+        3
+      ],
+      "retained": 8
+    },
+    {
+      "case": 13,
+      "exhausted": true
+    },
+    {
+      "case": 14,
+      "paths": 2,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "initial_context": [
+        10,
+        3
+      ],
+      "retained": 1
+    },
+    {
+      "case": 15,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        10,
+        12
+      ],
+      "retained": 1
+    },
+    {
+      "case": 16,
+      "paths": 64,
+      "reset_before": [
+        6,
+        8
+      ],
+      "initial_context": [
+        5,
+        4
+      ],
+      "retained": 1
+    },
+    {
+      "case": 17,
+      "paths": 2,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        17,
+        0
+      ],
+      "retained": 2
+    },
+    {
+      "case": 18,
+      "paths": 32,
+      "reset_before": [
+        3,
+        5
+      ],
+      "initial_context": [
+        24,
+        16
+      ],
+      "retained": 16
+    },
+    {
+      "case": 19,
+      "paths": 2,
+      "reset_before": [
+        0,
+        2
+      ],
+      "initial_context": [
+        26,
+        27
+      ],
+      "retained": 2
+    },
+    {
+      "case": 20,
+      "exhausted": true
+    },
+    {
+      "case": 21,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "initial_context": [
+        6,
+        23
+      ],
+      "retained": 4
+    },
+    {
+      "case": 22,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        23,
+        17
+      ],
+      "retained": 1
+    },
+    {
+      "case": 23,
+      "paths": 32,
+      "reset_before": [
+        4,
+        9
+      ],
+      "initial_context": [
+        11,
+        5
+      ],
+      "retained": 16
+    },
+    {
+      "case": 24,
+      "paths": 8,
+      "reset_before": [],
+      "initial_context": [
+        9,
+        27
+      ],
+      "retained": 1
+    },
+    {
+      "case": 25,
+      "paths": 32,
+      "reset_before": [
+        0,
+        2
+      ],
+      "initial_context": [
+        1,
+        19
+      ],
+      "retained": 2
+    },
+    {
+      "case": 26,
+      "paths": 16,
+      "reset_before": [],
+      "initial_context": [
+        1,
+        8
+      ],
+      "retained": 1
+    },
+    {
+      "case": 27,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        6,
+        26
+      ],
+      "retained": 2
+    },
+    {
+      "case": 28,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "initial_context": [
+        3,
+        22
+      ],
+      "retained": 4
+    },
+    {
+      "case": 29,
+      "exhausted": true
+    },
+    {
+      "case": 30,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        1,
+        14
+      ],
+      "retained": 1
+    },
+    {
+      "case": 31,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        14,
+        3
+      ],
+      "retained": 1
+    },
+    {
+      "case": 32,
+      "paths": 16,
+      "reset_before": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "initial_context": [
+        4,
+        11
+      ],
+      "retained": 16
+    },
+    {
+      "case": 33,
+      "paths": 3,
+      "reset_before": [],
+      "initial_context": [
+        10,
+        15
+      ],
+      "retained": 1
+    },
+    {
+      "case": 34,
+      "paths": 1,
+      "reset_before": [
+        6
+      ],
+      "initial_context": [
+        23,
+        25
+      ],
+      "retained": 1
+    },
+    {
+      "case": 35,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        11,
+        11
+      ],
+      "retained": 1
+    },
+    {
+      "case": 36,
+      "exhausted": true
+    },
+    {
+      "case": 37,
+      "paths": 8,
+      "reset_before": [
+        0,
+        2,
+        4,
+        6,
+        7
+      ],
+      "initial_context": [
+        7,
+        24
+      ],
+      "retained": 2
+    },
+    {
+      "case": 38,
+      "paths": 32,
+      "reset_before": [],
+      "initial_context": [
+        22,
+        14
+      ],
+      "retained": 2
+    },
+    {
+      "case": 39,
+      "paths": 128,
+      "reset_before": [
+        7
+      ],
+      "initial_context": [
+        13,
+        16
+      ],
+      "retained": 1
+    },
+    {
+      "case": 40,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        14,
+        4
+      ],
+      "retained": 2
+    },
+    {
+      "case": 41,
+      "paths": 2,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        13,
+        15
+      ],
+      "retained": 2
+    },
+    {
+      "case": 42,
+      "paths": 64,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "initial_context": [
+        17,
+        9
+      ],
+      "retained": 16
+    },
+    {
+      "case": 43,
+      "paths": 128,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        5,
+        16
+      ],
+      "retained": 1
+    },
+    {
+      "case": 44,
+      "exhausted": true
+    },
+    {
+      "case": 45,
+      "paths": 128,
+      "reset_before": [
+        0,
+        1,
+        2,
+        6
+      ],
+      "initial_context": [
+        14,
+        28
+      ],
+      "retained": 33
+    },
+    {
+      "case": 46,
+      "paths": 32,
+      "reset_before": [
+        2,
+        8
+      ],
+      "initial_context": [
+        10,
+        6
+      ],
+      "retained": 1
+    },
+    {
+      "case": 47,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        17,
+        21
+      ],
+      "retained": 1
+    },
+    {
+      "case": 48,
+      "paths": 16,
+      "reset_before": [
+        1,
+        6
+      ],
+      "initial_context": [
+        10,
+        27
+      ],
+      "retained": 16
+    },
+    {
+      "case": 49,
+      "paths": 64,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "initial_context": [
+        4,
+        11
+      ],
+      "retained": 2
+    },
+    {
+      "case": 50,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        25,
+        29
+      ],
+      "retained": 2
+    },
+    {
+      "case": 51,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        9,
+        24
+      ],
+      "retained": 1
+    },
+    {
+      "case": 52,
+      "exhausted": true
+    },
+    {
+      "case": 53,
+      "paths": 2,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "initial_context": [
+        10,
+        5
+      ],
+      "retained": 2
+    },
+    {
+      "case": 54,
+      "paths": 4,
+      "reset_before": [
+        6
+      ],
+      "initial_context": [
+        29,
+        9
+      ],
+      "retained": 4
+    },
+    {
+      "case": 55,
+      "paths": 8,
+      "reset_before": [],
+      "initial_context": [
+        11,
+        7
+      ],
+      "retained": 7
+    },
+    {
+      "case": 56,
+      "paths": 2,
+      "reset_before": [
+        0,
+        1,
+        2
+      ],
+      "initial_context": [
+        29,
+        25
+      ],
+      "retained": 2
+    },
+    {
+      "case": 57,
+      "exhausted": true
+    },
+    {
+      "case": 58,
+      "paths": 3,
+      "reset_before": [
+        3,
+        4
+      ],
+      "initial_context": [
+        6,
+        20
+      ],
+      "retained": 3
+    },
+    {
+      "case": 59,
+      "paths": 2,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        8,
+        12
+      ],
+      "retained": 2
+    },
+    {
+      "case": 60,
+      "paths": 64,
+      "reset_before": [
+        2,
+        6,
+        8
+      ],
+      "initial_context": [
+        25,
+        16
+      ],
+      "retained": 7
+    },
+    {
+      "case": 61,
+      "paths": 8,
+      "reset_before": [],
+      "initial_context": [
+        19,
+        8
+      ],
+      "retained": 8
+    },
+    {
+      "case": 62,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        0,
+        29
+      ],
+      "retained": 1
+    },
+    {
+      "case": 63,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "initial_context": [
+        6,
+        22
+      ],
+      "retained": 1
+    },
+    {
+      "case": 64,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        10,
+        9
+      ],
+      "retained": 1
+    },
+    {
+      "case": 65,
+      "exhausted": true
+    },
+    {
+      "case": 66,
+      "exhausted": true
+    },
+    {
+      "case": 67,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        13,
+        26
+      ],
+      "retained": 1
+    },
+    {
+      "case": 68,
+      "exhausted": true
+    },
+    {
+      "case": 69,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        16,
+        26
+      ],
+      "retained": 1
+    },
+    {
+      "case": 70,
+      "paths": 2,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "initial_context": [
+        9,
+        26
+      ],
+      "retained": 2
+    },
+    {
+      "case": 71,
+      "paths": 16,
+      "reset_before": [],
+      "initial_context": [
+        14,
+        14
+      ],
+      "retained": 16
+    },
+    {
+      "case": 72,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        28,
+        17
+      ],
+      "retained": 2
+    },
+    {
+      "case": 73,
+      "paths": 256,
+      "reset_before": [
+        5,
+        8,
+        10
+      ],
+      "initial_context": [
+        10,
+        20
+      ],
+      "retained": 16
+    },
+    {
+      "case": 74,
+      "paths": 32,
+      "reset_before": [
+        5,
+        6
+      ],
+      "initial_context": [
+        27,
+        19
+      ],
+      "retained": 16
+    },
+    {
+      "case": 75,
+      "exhausted": true
+    },
+    {
+      "case": 76,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        22,
+        10
+      ],
+      "retained": 1
+    },
+    {
+      "case": 77,
+      "exhausted": true
+    },
+    {
+      "case": 78,
+      "paths": 64,
+      "reset_before": [
+        3,
+        7,
+        8
+      ],
+      "initial_context": [
+        21,
+        14
+      ],
+      "retained": 33
+    },
+    {
+      "case": 79,
+      "paths": 8,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        11,
+        18
+      ],
+      "retained": 7
+    },
+    {
+      "case": 80,
+      "paths": 32,
+      "reset_before": [
+        3,
+        8
+      ],
+      "initial_context": [
+        2,
+        15
+      ],
+      "retained": 7
+    },
+    {
+      "case": 81,
+      "paths": 16,
+      "reset_before": [
+        4,
+        7
+      ],
+      "initial_context": [
+        21,
+        28
+      ],
+      "retained": 16
+    },
+    {
+      "case": 82,
+      "paths": 32,
+      "reset_before": [
+        2,
+        3,
+        5
+      ],
+      "initial_context": [
+        7,
+        21
+      ],
+      "retained": 2
+    },
+    {
+      "case": 83,
+      "paths": 16,
+      "reset_before": [],
+      "initial_context": [
+        12,
+        20
+      ],
+      "retained": 7
+    },
+    {
+      "case": 84,
+      "paths": 32,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "initial_context": [
+        4,
+        0
+      ],
+      "retained": 2
+    },
+    {
+      "case": 85,
+      "paths": 2,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        26,
+        17
+      ],
+      "retained": 2
+    },
+    {
+      "case": 86,
+      "paths": 8,
+      "reset_before": [
+        3
+      ],
+      "initial_context": [
+        2,
+        14
+      ],
+      "retained": 2
+    },
+    {
+      "case": 87,
+      "paths": 4,
+      "reset_before": [
+        1,
+        4
+      ],
+      "initial_context": [
+        7,
+        4
+      ],
+      "retained": 4
+    },
+    {
+      "case": 88,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        22,
+        8
+      ],
+      "retained": 1
+    },
+    {
+      "case": 89,
+      "paths": 12,
+      "reset_before": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "initial_context": [
+        28,
+        16
+      ],
+      "retained": 7
+    },
+    {
+      "case": 90,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        0,
+        20
+      ],
+      "retained": 1
+    },
+    {
+      "case": 91,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        16,
+        23
+      ],
+      "retained": 1
+    },
+    {
+      "case": 92,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        23,
+        28
+      ],
+      "retained": 1
+    },
+    {
+      "case": 93,
+      "paths": 2,
+      "reset_before": [
+        3,
+        4
+      ],
+      "initial_context": [
+        0,
+        16
+      ],
+      "retained": 2
+    },
+    {
+      "case": 94,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        17,
+        16
+      ],
+      "retained": 2
+    },
+    {
+      "case": 95,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        29,
+        11
+      ],
+      "retained": 2
+    },
+    {
+      "case": 96,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        23,
+        7
+      ],
+      "retained": 1
+    },
+    {
+      "case": 97,
+      "paths": 32,
+      "reset_before": [],
+      "initial_context": [
+        0,
+        8
+      ],
+      "retained": 2
+    },
+    {
+      "case": 98,
+      "paths": 2,
+      "reset_before": [
+        0,
+        1,
+        2
+      ],
+      "initial_context": [
+        2,
+        20
+      ],
+      "retained": 1
+    },
+    {
+      "case": 99,
+      "paths": 8,
+      "reset_before": [],
+      "initial_context": [
+        10,
+        12
+      ],
+      "retained": 2
+    },
+    {
+      "case": 100,
+      "paths": 8,
+      "reset_before": [
+        3,
+        5
+      ],
+      "initial_context": [
+        7,
+        2
+      ],
+      "retained": 8
+    },
+    {
+      "case": 101,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        12,
+        17
+      ],
+      "retained": 2
+    },
+    {
+      "case": 102,
+      "paths": 8,
+      "reset_before": [
+        4,
+        7
+      ],
+      "initial_context": [
+        17,
+        4
+      ],
+      "retained": 8
+    },
+    {
+      "case": 103,
+      "paths": 4,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        8,
+        28
+      ],
+      "retained": 2
+    },
+    {
+      "case": 104,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        28,
+        16
+      ],
+      "retained": 1
+    },
+    {
+      "case": 105,
+      "paths": 32,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "initial_context": [
+        12,
+        23
+      ],
+      "retained": 7
+    },
+    {
+      "case": 106,
+      "exhausted": true
+    },
+    {
+      "case": 107,
+      "paths": 4,
+      "reset_before": [
+        0,
+        6
+      ],
+      "initial_context": [
+        20,
+        8
+      ],
+      "retained": 4
+    },
+    {
+      "case": 108,
+      "paths": 2,
+      "reset_before": [
+        4
+      ],
+      "initial_context": [
+        26,
+        19
+      ],
+      "retained": 2
+    },
+    {
+      "case": 109,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        14,
+        18
+      ],
+      "retained": 1
+    },
+    {
+      "case": 110,
+      "paths": 8,
+      "reset_before": [],
+      "initial_context": [
+        5,
+        5
+      ],
+      "retained": 2
+    },
+    {
+      "case": 111,
+      "exhausted": true
+    },
+    {
+      "case": 112,
+      "paths": 128,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "initial_context": [
+        12,
+        6
+      ],
+      "retained": 16
+    },
+    {
+      "case": 113,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        17,
+        26
+      ],
+      "retained": 2
+    },
+    {
+      "case": 114,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        19,
+        21
+      ],
+      "retained": 1
+    },
+    {
+      "case": 115,
+      "paths": 4,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        24,
+        9
+      ],
+      "retained": 4
+    },
+    {
+      "case": 116,
+      "paths": 8,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        0,
+        9
+      ],
+      "retained": 7
+    },
+    {
+      "case": 117,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        4,
+        22
+      ],
+      "retained": 2
+    },
+    {
+      "case": 118,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        24,
+        14
+      ],
+      "retained": 2
+    },
+    {
+      "case": 119,
+      "paths": 16,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "initial_context": [
+        9,
+        12
+      ],
+      "retained": 16
+    },
+    {
+      "case": 120,
+      "exhausted": true
+    },
+    {
+      "case": 121,
+      "exhausted": true
+    },
+    {
+      "case": 122,
+      "exhausted": true
+    },
+    {
+      "case": 123,
+      "exhausted": true
+    },
+    {
+      "case": 124,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        24,
+        20
+      ],
+      "retained": 1
+    },
+    {
+      "case": 125,
+      "paths": 16,
+      "reset_before": [
+        0,
+        3
+      ],
+      "initial_context": [
+        24,
+        22
+      ],
+      "retained": 16
+    },
+    {
+      "case": 126,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        27,
+        26
+      ],
+      "retained": 1
+    },
+    {
+      "case": 127,
+      "paths": 128,
+      "reset_before": [
+        1,
+        7
+      ],
+      "initial_context": [
+        28,
+        20
+      ],
+      "retained": 2
+    },
+    {
+      "case": 128,
+      "paths": 16,
+      "reset_before": [
+        0,
+        1,
+        2
+      ],
+      "initial_context": [
+        4,
+        6
+      ],
+      "retained": 2
+    },
+    {
+      "case": 129,
+      "paths": 8,
+      "reset_before": [
+        1,
+        5
+      ],
+      "initial_context": [
+        22,
+        29
+      ],
+      "retained": 2
+    },
+    {
+      "case": 130,
+      "paths": 4,
+      "reset_before": [
+        1,
+        2
+      ],
+      "initial_context": [
+        4,
+        14
+      ],
+      "retained": 1
+    },
+    {
+      "case": 131,
+      "exhausted": true
+    },
+    {
+      "case": 132,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        13,
+        7
+      ],
+      "retained": 1
+    },
+    {
+      "case": 133,
+      "paths": 2,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "initial_context": [
+        0,
+        6
+      ],
+      "retained": 2
+    },
+    {
+      "case": 134,
+      "paths": 32,
+      "reset_before": [],
+      "initial_context": [
+        23,
+        20
+      ],
+      "retained": 2
+    },
+    {
+      "case": 135,
+      "exhausted": true
+    },
+    {
+      "case": 136,
+      "paths": 2,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        26,
+        21
+      ],
+      "retained": 2
+    },
+    {
+      "case": 137,
+      "paths": 56,
+      "reset_before": [
+        0,
+        3
+      ],
+      "initial_context": [
+        7,
+        16
+      ],
+      "retained": 7
+    },
+    {
+      "case": 138,
+      "exhausted": true
+    },
+    {
+      "case": 139,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        23,
+        26
+      ],
+      "retained": 2
+    },
+    {
+      "case": 140,
+      "paths": 8,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "initial_context": [
+        3,
+        11
+      ],
+      "retained": 1
+    },
+    {
+      "case": 141,
+      "paths": 32,
+      "reset_before": [
+        2,
+        5,
+        6,
+        8
+      ],
+      "initial_context": [
+        4,
+        25
+      ],
+      "retained": 7
+    },
+    {
+      "case": 142,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        11,
+        12
+      ],
+      "retained": 2
+    },
+    {
+      "case": 143,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        7,
+        7
+      ],
+      "retained": 4
+    },
+    {
+      "case": 144,
+      "paths": 4,
+      "reset_before": [
+        1,
+        3
+      ],
+      "initial_context": [
+        12,
+        4
+      ],
+      "retained": 2
+    },
+    {
+      "case": 145,
+      "paths": 8,
+      "reset_before": [
+        1,
+        5,
+        7
+      ],
+      "initial_context": [
+        10,
+        24
+      ],
+      "retained": 7
+    },
+    {
+      "case": 146,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        15,
+        27
+      ],
+      "retained": 1
+    },
+    {
+      "case": 147,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        25,
+        19
+      ],
+      "retained": 1
+    },
+    {
+      "case": 148,
+      "paths": 4,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        28,
+        16
+      ],
+      "retained": 1
+    },
+    {
+      "case": 149,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        2,
+        3
+      ],
+      "retained": 1
+    },
+    {
+      "case": 150,
+      "paths": 1,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        0,
+        23
+      ],
+      "retained": 1
+    },
+    {
+      "case": 151,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        28,
+        26
+      ],
+      "retained": 4
+    },
+    {
+      "case": 152,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        16,
+        28
+      ],
+      "retained": 1
+    },
+    {
+      "case": 153,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1,
+        2
+      ],
+      "initial_context": [
+        24,
+        6
+      ],
+      "retained": 2
+    },
+    {
+      "case": 154,
+      "exhausted": true
+    },
+    {
+      "case": 155,
+      "paths": 8,
+      "reset_before": [
+        3
+      ],
+      "initial_context": [
+        12,
+        24
+      ],
+      "retained": 1
+    },
+    {
+      "case": 156,
+      "paths": 16,
+      "reset_before": [
+        2,
+        5
+      ],
+      "initial_context": [
+        25,
+        1
+      ],
+      "retained": 2
+    },
+    {
+      "case": 157,
+      "paths": 3,
+      "reset_before": [],
+      "initial_context": [
+        29,
+        3
+      ],
+      "retained": 3
+    },
+    {
+      "case": 158,
+      "exhausted": true
+    },
+    {
+      "case": 159,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        17,
+        19
+      ],
+      "retained": 1
+    },
+    {
+      "case": 160,
+      "paths": 64,
+      "reset_before": [
+        1,
+        3,
+        4,
+        5,
+        8
+      ],
+      "initial_context": [
+        17,
+        0
+      ],
+      "retained": 33
+    },
+    {
+      "case": 161,
+      "paths": 8,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "initial_context": [
+        15,
+        20
+      ],
+      "retained": 1
+    },
+    {
+      "case": 162,
+      "exhausted": true
+    },
+    {
+      "case": 163,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        7,
+        10
+      ],
+      "retained": 1
+    },
+    {
+      "case": 164,
+      "paths": 32,
+      "reset_before": [
+        2,
+        3
+      ],
+      "initial_context": [
+        16,
+        19
+      ],
+      "retained": 32
+    },
+    {
+      "case": 165,
+      "paths": 64,
+      "reset_before": [],
+      "initial_context": [
+        21,
+        26
+      ],
+      "retained": 16
+    },
+    {
+      "case": 166,
+      "paths": 7,
+      "reset_before": [
+        0,
+        4
+      ],
+      "initial_context": [
+        15,
+        16
+      ],
+      "retained": 7
+    },
+    {
+      "case": 167,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        2,
+        15
+      ],
+      "retained": 1
+    },
+    {
+      "case": 168,
+      "paths": 32,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "initial_context": [
+        6,
+        12
+      ],
+      "retained": 2
+    },
+    {
+      "case": 169,
+      "paths": 4,
+      "reset_before": [
+        0,
+        4,
+        6,
+        7,
+        8
+      ],
+      "initial_context": [
+        9,
+        23
+      ],
+      "retained": 4
+    },
+    {
+      "case": 170,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        6,
+        9
+      ],
+      "retained": 2
+    },
+    {
+      "case": 171,
+      "paths": 4,
+      "reset_before": [
+        5
+      ],
+      "initial_context": [
+        17,
+        16
+      ],
+      "retained": 1
+    },
+    {
+      "case": 172,
+      "paths": 8,
+      "reset_before": [
+        1,
+        4
+      ],
+      "initial_context": [
+        4,
+        12
+      ],
+      "retained": 8
+    },
+    {
+      "case": 173,
+      "exhausted": true
+    },
+    {
+      "case": 174,
+      "paths": 128,
+      "reset_before": [
+        1,
+        2,
+        4
+      ],
+      "initial_context": [
+        24,
+        24
+      ],
+      "retained": 2
+    },
+    {
+      "case": 175,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        16,
+        1
+      ],
+      "retained": 2
+    },
+    {
+      "case": 176,
+      "paths": 16,
+      "reset_before": [],
+      "initial_context": [
+        22,
+        1
+      ],
+      "retained": 16
+    },
+    {
+      "case": 177,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1,
+        4
+      ],
+      "initial_context": [
+        15,
+        4
+      ],
+      "retained": 4
+    },
+    {
+      "case": 178,
+      "paths": 6,
+      "reset_before": [
+        3,
+        6,
+        8
+      ],
+      "initial_context": [
+        11,
+        14
+      ],
+      "retained": 6
+    },
+    {
+      "case": 179,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        9,
+        28
+      ],
+      "retained": 4
+    },
+    {
+      "case": 180,
+      "paths": 8,
+      "reset_before": [
+        0,
+        4,
+        8,
+        9
+      ],
+      "initial_context": [
+        2,
+        19
+      ],
+      "retained": 8
+    },
+    {
+      "case": 181,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        20,
+        11
+      ],
+      "retained": 1
+    },
+    {
+      "case": 182,
+      "paths": 8,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "initial_context": [
+        9,
+        6
+      ],
+      "retained": 2
+    },
+    {
+      "case": 183,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        9,
+        2
+      ],
+      "retained": 1
+    },
+    {
+      "case": 184,
+      "paths": 8,
+      "reset_before": [
+        1,
+        4,
+        7
+      ],
+      "initial_context": [
+        5,
+        24
+      ],
+      "retained": 2
+    },
+    {
+      "case": 185,
+      "exhausted": true
+    },
+    {
+      "case": 186,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        4,
+        27
+      ],
+      "retained": 2
+    },
+    {
+      "case": 187,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        2,
+        22
+      ],
+      "retained": 1
+    },
+    {
+      "case": 188,
+      "paths": 4,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        21,
+        4
+      ],
+      "retained": 2
+    },
+    {
+      "case": 189,
+      "paths": 2,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "initial_context": [
+        24,
+        28
+      ],
+      "retained": 2
+    },
+    {
+      "case": 190,
+      "exhausted": true
+    },
+    {
+      "case": 191,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        3,
+        28
+      ],
+      "retained": 4
+    },
+    {
+      "case": 192,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        20,
+        8
+      ],
+      "retained": 1
+    },
+    {
+      "case": 193,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        18,
+        25
+      ],
+      "retained": 1
+    },
+    {
+      "case": 194,
+      "paths": 64,
+      "reset_before": [
+        4,
+        5
+      ],
+      "initial_context": [
+        6,
+        14
+      ],
+      "retained": 1
+    },
+    {
+      "case": 195,
+      "paths": 16,
+      "reset_before": [
+        2,
+        3,
+        4
+      ],
+      "initial_context": [
+        13,
+        17
+      ],
+      "retained": 16
+    },
+    {
+      "case": 196,
+      "paths": 8,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "initial_context": [
+        18,
+        9
+      ],
+      "retained": 2
+    },
+    {
+      "case": 197,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        14,
+        28
+      ],
+      "retained": 1
+    },
+    {
+      "case": 198,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        10,
+        4
+      ],
+      "retained": 1
+    },
+    {
+      "case": 199,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        14,
+        21
+      ],
+      "retained": 1
+    },
+    {
+      "case": 200,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        20,
+        6
+      ],
+      "retained": 1
+    },
+    {
+      "case": 201,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        14,
+        17
+      ],
+      "retained": 2
+    },
+    {
+      "case": 202,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        29,
+        18
+      ],
+      "retained": 1
+    },
+    {
+      "case": 203,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        9,
+        17
+      ],
+      "retained": 2
+    },
+    {
+      "case": 204,
+      "paths": 4,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        22,
+        5
+      ],
+      "retained": 2
+    },
+    {
+      "case": 205,
+      "paths": 1,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        29,
+        20
+      ],
+      "retained": 1
+    },
+    {
+      "case": 206,
+      "paths": 1,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        13,
+        28
+      ],
+      "retained": 1
+    },
+    {
+      "case": 207,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        11,
+        2
+      ],
+      "retained": 1
+    },
+    {
+      "case": 208,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        29,
+        9
+      ],
+      "retained": 2
+    },
+    {
+      "case": 209,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        3,
+        10
+      ],
+      "retained": 1
+    },
+    {
+      "case": 210,
+      "paths": 8,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "initial_context": [
+        22,
+        13
+      ],
+      "retained": 2
+    },
+    {
+      "case": 211,
+      "paths": 2,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        6,
+        3
+      ],
+      "retained": 2
+    },
+    {
+      "case": 212,
+      "exhausted": true
+    },
+    {
+      "case": 213,
+      "paths": 4,
+      "reset_before": [
+        0,
+        3,
+        7,
+        9
+      ],
+      "initial_context": [
+        25,
+        21
+      ],
+      "retained": 4
+    },
+    {
+      "case": 214,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        9,
+        11
+      ],
+      "retained": 1
+    },
+    {
+      "case": 215,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        10,
+        19
+      ],
+      "retained": 2
+    },
+    {
+      "case": 216,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        28,
+        11
+      ],
+      "retained": 1
+    },
+    {
+      "case": 217,
+      "paths": 8,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "initial_context": [
+        4,
+        14
+      ],
+      "retained": 1
+    },
+    {
+      "case": 218,
+      "paths": 6,
+      "reset_before": [
+        1,
+        2,
+        8,
+        9
+      ],
+      "initial_context": [
+        0,
+        10
+      ],
+      "retained": 6
+    },
+    {
+      "case": 219,
+      "exhausted": true
+    },
+    {
+      "case": 220,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        25,
+        6
+      ],
+      "retained": 1
+    },
+    {
+      "case": 221,
+      "exhausted": true
+    },
+    {
+      "case": 222,
+      "exhausted": true
+    },
+    {
+      "case": 223,
+      "exhausted": true
+    },
+    {
+      "case": 224,
+      "paths": 2,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "initial_context": [
+        9,
+        0
+      ],
+      "retained": 2
+    },
+    {
+      "case": 225,
+      "exhausted": true
+    },
+    {
+      "case": 226,
+      "exhausted": true
+    },
+    {
+      "case": 227,
+      "paths": 11,
+      "reset_before": [
+        4
+      ],
+      "initial_context": [
+        19,
+        24
+      ],
+      "retained": 2
+    },
+    {
+      "case": 228,
+      "paths": 32,
+      "reset_before": [
+        1,
+        6
+      ],
+      "initial_context": [
+        26,
+        27
+      ],
+      "retained": 1
+    },
+    {
+      "case": 229,
+      "paths": 4,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        29,
+        29
+      ],
+      "retained": 1
+    },
+    {
+      "case": 230,
+      "exhausted": true
+    },
+    {
+      "case": 231,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        15,
+        23
+      ],
+      "retained": 1
+    },
+    {
+      "case": 232,
+      "paths": 2,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        5,
+        5
+      ],
+      "retained": 2
+    },
+    {
+      "case": 233,
+      "exhausted": true
+    },
+    {
+      "case": 234,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        4,
+        21
+      ],
+      "retained": 1
+    },
+    {
+      "case": 235,
+      "paths": 28,
+      "reset_before": [
+        3,
+        4,
+        5,
+        9
+      ],
+      "initial_context": [
+        25,
+        13
+      ],
+      "retained": 28
+    },
+    {
+      "case": 236,
+      "exhausted": true
+    },
+    {
+      "case": 237,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        5,
+        3
+      ],
+      "retained": 1
+    },
+    {
+      "case": 238,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        23,
+        15
+      ],
+      "retained": 1
+    },
+    {
+      "case": 239,
+      "paths": 4,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        27,
+        3
+      ],
+      "retained": 4
+    },
+    {
+      "case": 240,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        1,
+        3
+      ],
+      "retained": 1
+    },
+    {
+      "case": 241,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        29,
+        13
+      ],
+      "retained": 1
+    },
+    {
+      "case": 242,
+      "exhausted": true
+    },
+    {
+      "case": 243,
+      "paths": 32,
+      "reset_before": [],
+      "initial_context": [
+        2,
+        6
+      ],
+      "retained": 16
+    },
+    {
+      "case": 244,
+      "paths": 8,
+      "reset_before": [
+        7
+      ],
+      "initial_context": [
+        5,
+        13
+      ],
+      "retained": 1
+    },
+    {
+      "case": 245,
+      "paths": 16,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "initial_context": [
+        8,
+        20
+      ],
+      "retained": 2
+    },
+    {
+      "case": 246,
+      "paths": 16,
+      "reset_before": [
+        7
+      ],
+      "initial_context": [
+        18,
+        12
+      ],
+      "retained": 7
+    },
+    {
+      "case": 247,
+      "paths": 8,
+      "reset_before": [
+        0,
+        2,
+        7
+      ],
+      "initial_context": [
+        19,
+        3
+      ],
+      "retained": 1
+    },
+    {
+      "case": 248,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        7,
+        14
+      ],
+      "retained": 4
+    },
+    {
+      "case": 249,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        24,
+        0
+      ],
+      "retained": 1
+    },
+    {
+      "case": 250,
+      "exhausted": true
+    },
+    {
+      "case": 251,
+      "paths": 16,
+      "reset_before": [
+        1,
+        2
+      ],
+      "initial_context": [
+        17,
+        0
+      ],
+      "retained": 16
+    },
+    {
+      "case": 252,
+      "paths": 64,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "initial_context": [
+        4,
+        17
+      ],
+      "retained": 7
+    },
+    {
+      "case": 253,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        28,
+        29
+      ],
+      "retained": 1
+    },
+    {
+      "case": 254,
+      "paths": 4,
+      "reset_before": [
+        0,
+        3,
+        4
+      ],
+      "initial_context": [
+        20,
+        17
+      ],
+      "retained": 4
+    },
+    {
+      "case": 255,
+      "exhausted": true
+    },
+    {
+      "case": 256,
+      "paths": 4,
+      "reset_before": [
+        4
+      ],
+      "initial_context": [
+        4,
+        29
+      ],
+      "retained": 4
+    },
+    {
+      "case": 257,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        16,
+        22
+      ],
+      "retained": 1
+    },
+    {
+      "case": 258,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        23,
+        17
+      ],
+      "retained": 1
+    },
+    {
+      "case": 259,
+      "paths": 16,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "initial_context": [
+        8,
+        4
+      ],
+      "retained": 16
+    },
+    {
+      "case": 260,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        5,
+        21
+      ],
+      "retained": 1
+    },
+    {
+      "case": 261,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        20,
+        1
+      ],
+      "retained": 1
+    },
+    {
+      "case": 262,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        11,
+        21
+      ],
+      "retained": 1
+    },
+    {
+      "case": 263,
+      "exhausted": true
+    },
+    {
+      "case": 264,
+      "paths": 3,
+      "reset_before": [],
+      "initial_context": [
+        11,
+        1
+      ],
+      "retained": 3
+    },
+    {
+      "case": 265,
+      "exhausted": true
+    },
+    {
+      "case": 266,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        4,
+        23
+      ],
+      "retained": 4
+    },
+    {
+      "case": 267,
+      "paths": 4,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        10,
+        21
+      ],
+      "retained": 2
+    },
+    {
+      "case": 268,
+      "paths": 32,
+      "reset_before": [
+        1,
+        7
+      ],
+      "initial_context": [
+        8,
+        26
+      ],
+      "retained": 16
+    },
+    {
+      "case": 269,
+      "paths": 32,
+      "reset_before": [
+        1,
+        7,
+        8
+      ],
+      "initial_context": [
+        13,
+        4
+      ],
+      "retained": 1
+    },
+    {
+      "case": 270,
+      "exhausted": true
+    },
+    {
+      "case": 271,
+      "paths": 2,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        0,
+        12
+      ],
+      "retained": 2
+    },
+    {
+      "case": 272,
+      "paths": 16,
+      "reset_before": [
+        2,
+        3,
+        6,
+        7
+      ],
+      "initial_context": [
+        0,
+        19
+      ],
+      "retained": 2
+    },
+    {
+      "case": 273,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "initial_context": [
+        26,
+        22
+      ],
+      "retained": 2
+    },
+    {
+      "case": 274,
+      "exhausted": true
+    },
+    {
+      "case": 275,
+      "exhausted": true
+    },
+    {
+      "case": 276,
+      "paths": 8,
+      "reset_before": [
+        6
+      ],
+      "initial_context": [
+        3,
+        27
+      ],
+      "retained": 8
+    },
+    {
+      "case": 277,
+      "paths": 1,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        5,
+        2
+      ],
+      "retained": 1
+    },
+    {
+      "case": 278,
+      "exhausted": true
+    },
+    {
+      "case": 279,
+      "exhausted": true
+    },
+    {
+      "case": 280,
+      "paths": 64,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "initial_context": [
+        13,
+        3
+      ],
+      "retained": 16
+    },
+    {
+      "case": 281,
+      "paths": 4,
+      "reset_before": [
+        0,
+        2,
+        4
+      ],
+      "initial_context": [
+        11,
+        13
+      ],
+      "retained": 4
+    },
+    {
+      "case": 282,
+      "paths": 4,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        14,
+        27
+      ],
+      "retained": 2
+    },
+    {
+      "case": 283,
+      "exhausted": true
+    },
+    {
+      "case": 284,
+      "paths": 16,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        8,
+        4
+      ],
+      "retained": 16
+    },
+    {
+      "case": 285,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        5,
+        11
+      ],
+      "retained": 1
+    },
+    {
+      "case": 286,
+      "exhausted": true
+    },
+    {
+      "case": 287,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        19,
+        4
+      ],
+      "retained": 1
+    },
+    {
+      "case": 288,
+      "exhausted": true
+    },
+    {
+      "case": 289,
+      "paths": 4,
+      "reset_before": [
+        2,
+        4
+      ],
+      "initial_context": [
+        24,
+        23
+      ],
+      "retained": 1
+    },
+    {
+      "case": 290,
+      "exhausted": true
+    },
+    {
+      "case": 291,
+      "paths": 3,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        5,
+        18
+      ],
+      "retained": 3
+    },
+    {
+      "case": 292,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        26,
+        1
+      ],
+      "retained": 2
+    },
+    {
+      "case": 293,
+      "paths": 2,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        3,
+        27
+      ],
+      "retained": 2
+    },
+    {
+      "case": 294,
+      "paths": 2,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        16,
+        13
+      ],
+      "retained": 2
+    },
+    {
+      "case": 295,
+      "paths": 4,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        24,
+        12
+      ],
+      "retained": 4
+    },
+    {
+      "case": 296,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        26,
+        13
+      ],
+      "retained": 1
+    },
+    {
+      "case": 297,
+      "paths": 8,
+      "reset_before": [],
+      "initial_context": [
+        18,
+        29
+      ],
+      "retained": 7
+    },
+    {
+      "case": 298,
+      "paths": 4,
+      "reset_before": [
+        1,
+        3
+      ],
+      "initial_context": [
+        8,
+        19
+      ],
+      "retained": 4
+    },
+    {
+      "case": 299,
+      "paths": 32,
+      "reset_before": [
+        1,
+        5,
+        6
+      ],
+      "initial_context": [
+        17,
+        29
+      ],
+      "retained": 1
+    },
+    {
+      "case": 300,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        2,
+        29
+      ],
+      "retained": 1
+    },
+    {
+      "case": 301,
+      "paths": 8,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "initial_context": [
+        29,
+        8
+      ],
+      "retained": 8
+    },
+    {
+      "case": 302,
+      "paths": 32,
+      "reset_before": [
+        7
+      ],
+      "initial_context": [
+        9,
+        6
+      ],
+      "retained": 16
+    },
+    {
+      "case": 303,
+      "paths": 2,
+      "reset_before": [
+        0,
+        2
+      ],
+      "initial_context": [
+        3,
+        20
+      ],
+      "retained": 1
+    },
+    {
+      "case": 304,
+      "paths": 8,
+      "reset_before": [
+        1,
+        2,
+        4
+      ],
+      "initial_context": [
+        15,
+        3
+      ],
+      "retained": 1
+    },
+    {
+      "case": 305,
+      "paths": 8,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        22,
+        21
+      ],
+      "retained": 8
+    },
+    {
+      "case": 306,
+      "paths": 32,
+      "reset_before": [
+        0,
+        3,
+        6,
+        7,
+        10
+      ],
+      "initial_context": [
+        24,
+        2
+      ],
+      "retained": 2
+    },
+    {
+      "case": 307,
+      "paths": 4,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        18,
+        18
+      ],
+      "retained": 4
+    },
+    {
+      "case": 308,
+      "paths": 5,
+      "reset_before": [],
+      "initial_context": [
+        20,
+        27
+      ],
+      "retained": 1
+    },
+    {
+      "case": 309,
+      "paths": 7,
+      "reset_before": [
+        1,
+        8,
+        10
+      ],
+      "initial_context": [
+        12,
+        1
+      ],
+      "retained": 7
+    },
+    {
+      "case": 310,
+      "exhausted": true
+    },
+    {
+      "case": 311,
+      "paths": 130,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        19,
+        19
+      ],
+      "retained": 33
+    },
+    {
+      "case": 312,
+      "paths": 16,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        18,
+        0
+      ],
+      "retained": 16
+    },
+    {
+      "case": 313,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        3,
+        21
+      ],
+      "retained": 1
+    },
+    {
+      "case": 314,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        24,
+        19
+      ],
+      "retained": 4
+    },
+    {
+      "case": 315,
+      "paths": 8,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "initial_context": [
+        3,
+        9
+      ],
+      "retained": 7
+    },
+    {
+      "case": 316,
+      "exhausted": true
+    },
+    {
+      "case": 317,
+      "paths": 1,
+      "reset_before": [
+        0,
+        3,
+        4,
+        8
+      ],
+      "initial_context": [
+        20,
+        14
+      ],
+      "retained": 1
+    },
+    {
+      "case": 318,
+      "exhausted": true
+    },
+    {
+      "case": 319,
+      "exhausted": true
+    },
+    {
+      "case": 320,
+      "exhausted": true
+    },
+    {
+      "case": 321,
+      "paths": 4,
+      "reset_before": [
+        2,
+        6
+      ],
+      "initial_context": [
+        7,
+        2
+      ],
+      "retained": 4
+    },
+    {
+      "case": 322,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "initial_context": [
+        2,
+        27
+      ],
+      "retained": 4
+    },
+    {
+      "case": 323,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        12,
+        4
+      ],
+      "retained": 1
+    },
+    {
+      "case": 324,
+      "paths": 32,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        10,
+        27
+      ],
+      "retained": 16
+    },
+    {
+      "case": 325,
+      "exhausted": true
+    },
+    {
+      "case": 326,
+      "exhausted": true
+    },
+    {
+      "case": 327,
+      "paths": 16,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        18,
+        24
+      ],
+      "retained": 16
+    },
+    {
+      "case": 328,
+      "paths": 1,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        2,
+        3
+      ],
+      "retained": 1
+    },
+    {
+      "case": 329,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        7,
+        8
+      ],
+      "retained": 2
+    },
+    {
+      "case": 330,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        28,
+        8
+      ],
+      "retained": 2
+    },
+    {
+      "case": 331,
+      "paths": 8,
+      "reset_before": [
+        3,
+        8
+      ],
+      "initial_context": [
+        27,
+        9
+      ],
+      "retained": 8
+    },
+    {
+      "case": 332,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        8,
+        14
+      ],
+      "retained": 2
+    },
+    {
+      "case": 333,
+      "exhausted": true
+    },
+    {
+      "case": 334,
+      "paths": 16,
+      "reset_before": [
+        0,
+        6,
+        7,
+        8
+      ],
+      "initial_context": [
+        25,
+        4
+      ],
+      "retained": 16
+    },
+    {
+      "case": 335,
+      "paths": 2,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        28,
+        9
+      ],
+      "retained": 2
+    },
+    {
+      "case": 336,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1,
+        2
+      ],
+      "initial_context": [
+        21,
+        5
+      ],
+      "retained": 4
+    },
+    {
+      "case": 337,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        3,
+        24
+      ],
+      "retained": 1
+    },
+    {
+      "case": 338,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        10,
+        25
+      ],
+      "retained": 1
+    },
+    {
+      "case": 339,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        0,
+        17
+      ],
+      "retained": 1
+    },
+    {
+      "case": 340,
+      "paths": 32,
+      "reset_before": [
+        4,
+        7
+      ],
+      "initial_context": [
+        20,
+        0
+      ],
+      "retained": 7
+    },
+    {
+      "case": 341,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        17,
+        20
+      ],
+      "retained": 2
+    },
+    {
+      "case": 342,
+      "paths": 2,
+      "reset_before": [
+        4
+      ],
+      "initial_context": [
+        14,
+        0
+      ],
+      "retained": 2
+    },
+    {
+      "case": 343,
+      "paths": 2,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "initial_context": [
+        13,
+        1
+      ],
+      "retained": 2
+    },
+    {
+      "case": 344,
+      "exhausted": true
+    },
+    {
+      "case": 345,
+      "paths": 16,
+      "reset_before": [
+        2,
+        4
+      ],
+      "initial_context": [
+        19,
+        24
+      ],
+      "retained": 16
+    },
+    {
+      "case": 346,
+      "paths": 8,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        5,
+        9
+      ],
+      "retained": 1
+    },
+    {
+      "case": 347,
+      "paths": 32,
+      "reset_before": [
+        0,
+        1,
+        6,
+        7
+      ],
+      "initial_context": [
+        1,
+        3
+      ],
+      "retained": 2
+    },
+    {
+      "case": 348,
+      "paths": 4,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        8,
+        20
+      ],
+      "retained": 4
+    },
+    {
+      "case": 349,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        4,
+        26
+      ],
+      "retained": 2
+    },
+    {
+      "case": 350,
+      "paths": 16,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "initial_context": [
+        2,
+        26
+      ],
+      "retained": 7
+    },
+    {
+      "case": 351,
+      "paths": 12,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        27,
+        21
+      ],
+      "retained": 7
+    },
+    {
+      "case": 352,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        4,
+        28
+      ],
+      "retained": 1
+    },
+    {
+      "case": 353,
+      "exhausted": true
+    },
+    {
+      "case": 354,
+      "exhausted": true
+    },
+    {
+      "case": 355,
+      "paths": 4,
+      "reset_before": [
+        2,
+        4,
+        6
+      ],
+      "initial_context": [
+        5,
+        4
+      ],
+      "retained": 4
+    },
+    {
+      "case": 356,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        18,
+        8
+      ],
+      "retained": 1
+    },
+    {
+      "case": 357,
+      "paths": 16,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "initial_context": [
+        24,
+        14
+      ],
+      "retained": 16
+    },
+    {
+      "case": 358,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        5,
+        19
+      ],
+      "retained": 2
+    },
+    {
+      "case": 359,
+      "paths": 128,
+      "reset_before": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "initial_context": [
+        4,
+        0
+      ],
+      "retained": 7
+    },
+    {
+      "case": 360,
+      "exhausted": true
+    },
+    {
+      "case": 361,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        0,
+        21
+      ],
+      "retained": 1
+    },
+    {
+      "case": 362,
+      "paths": 2,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        17,
+        19
+      ],
+      "retained": 2
+    },
+    {
+      "case": 363,
+      "exhausted": true
+    },
+    {
+      "case": 364,
+      "paths": 2,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        2,
+        1
+      ],
+      "retained": 2
+    },
+    {
+      "case": 365,
+      "paths": 32,
+      "reset_before": [
+        2,
+        3,
+        5,
+        6,
+        7
+      ],
+      "initial_context": [
+        8,
+        26
+      ],
+      "retained": 2
+    },
+    {
+      "case": 366,
+      "paths": 16,
+      "reset_before": [
+        0,
+        1,
+        3
+      ],
+      "initial_context": [
+        1,
+        28
+      ],
+      "retained": 16
+    },
+    {
+      "case": 367,
+      "paths": 32,
+      "reset_before": [
+        5
+      ],
+      "initial_context": [
+        11,
+        12
+      ],
+      "retained": 16
+    },
+    {
+      "case": 368,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        7,
+        12
+      ],
+      "retained": 4
+    },
+    {
+      "case": 369,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1,
+        4
+      ],
+      "initial_context": [
+        25,
+        14
+      ],
+      "retained": 4
+    },
+    {
+      "case": 370,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        12,
+        1
+      ],
+      "retained": 2
+    },
+    {
+      "case": 371,
+      "paths": 16,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "initial_context": [
+        24,
+        17
+      ],
+      "retained": 7
+    },
+    {
+      "case": 372,
+      "paths": 32,
+      "reset_before": [
+        0,
+        3,
+        5
+      ],
+      "initial_context": [
+        14,
+        2
+      ],
+      "retained": 16
+    },
+    {
+      "case": 373,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        17,
+        20
+      ],
+      "retained": 4
+    },
+    {
+      "case": 374,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        13,
+        28
+      ],
+      "retained": 1
+    },
+    {
+      "case": 375,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        14,
+        24
+      ],
+      "retained": 1
+    },
+    {
+      "case": 376,
+      "paths": 16,
+      "reset_before": [
+        1,
+        2
+      ],
+      "initial_context": [
+        17,
+        26
+      ],
+      "retained": 16
+    },
+    {
+      "case": 377,
+      "paths": 4,
+      "reset_before": [
+        3,
+        6
+      ],
+      "initial_context": [
+        6,
+        11
+      ],
+      "retained": 2
+    },
+    {
+      "case": 378,
+      "paths": 64,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "initial_context": [
+        11,
+        26
+      ],
+      "retained": 2
+    },
+    {
+      "case": 379,
+      "paths": 16,
+      "reset_before": [
+        6,
+        7
+      ],
+      "initial_context": [
+        14,
+        27
+      ],
+      "retained": 1
+    },
+    {
+      "case": 380,
+      "paths": 256,
+      "reset_before": [
+        2,
+        5,
+        6,
+        7,
+        9
+      ],
+      "initial_context": [
+        10,
+        20
+      ],
+      "retained": 16
+    },
+    {
+      "case": 381,
+      "paths": 1,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        16,
+        22
+      ],
+      "retained": 1
+    },
+    {
+      "case": 382,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        8,
+        11
+      ],
+      "retained": 4
+    },
+    {
+      "case": 383,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        13,
+        0
+      ],
+      "retained": 1
+    },
+    {
+      "case": 384,
+      "paths": 32,
+      "reset_before": [
+        6
+      ],
+      "initial_context": [
+        27,
+        4
+      ],
+      "retained": 32
+    },
+    {
+      "case": 385,
+      "paths": 8,
+      "reset_before": [],
+      "initial_context": [
+        15,
+        21
+      ],
+      "retained": 8
+    },
+    {
+      "case": 386,
+      "paths": 32,
+      "reset_before": [
+        0,
+        7
+      ],
+      "initial_context": [
+        8,
+        12
+      ],
+      "retained": 32
+    },
+    {
+      "case": 387,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        20,
+        11
+      ],
+      "retained": 2
+    },
+    {
+      "case": 388,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        21,
+        6
+      ],
+      "retained": 1
+    },
+    {
+      "case": 389,
+      "exhausted": true
+    },
+    {
+      "case": 390,
+      "exhausted": true
+    },
+    {
+      "case": 391,
+      "paths": 4,
+      "reset_before": [
+        7
+      ],
+      "initial_context": [
+        14,
+        12
+      ],
+      "retained": 2
+    },
+    {
+      "case": 392,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "initial_context": [
+        24,
+        1
+      ],
+      "retained": 4
+    },
+    {
+      "case": 393,
+      "paths": 7,
+      "reset_before": [
+        2,
+        3
+      ],
+      "initial_context": [
+        0,
+        20
+      ],
+      "retained": 7
+    },
+    {
+      "case": 394,
+      "exhausted": true
+    },
+    {
+      "case": 395,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        8,
+        15
+      ],
+      "retained": 1
+    },
+    {
+      "case": 396,
+      "exhausted": true
+    },
+    {
+      "case": 397,
+      "exhausted": true
+    },
+    {
+      "case": 398,
+      "paths": 128,
+      "reset_before": [
+        0,
+        7,
+        8
+      ],
+      "initial_context": [
+        10,
+        27
+      ],
+      "retained": 33
+    },
+    {
+      "case": 399,
+      "paths": 32,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "initial_context": [
+        14,
+        2
+      ],
+      "retained": 32
+    },
+    {
+      "case": 400,
+      "exhausted": true
+    },
+    {
+      "case": 401,
+      "paths": 48,
+      "reset_before": [
+        0,
+        4,
+        7
+      ],
+      "initial_context": [
+        16,
+        4
+      ],
+      "retained": 1
+    },
+    {
+      "case": 402,
+      "paths": 6,
+      "reset_before": [
+        3,
+        7
+      ],
+      "initial_context": [
+        16,
+        3
+      ],
+      "retained": 6
+    },
+    {
+      "case": 403,
+      "paths": 64,
+      "reset_before": [
+        1,
+        5
+      ],
+      "initial_context": [
+        19,
+        8
+      ],
+      "retained": 1
+    },
+    {
+      "case": 404,
+      "paths": 32,
+      "reset_before": [
+        0,
+        1,
+        6
+      ],
+      "initial_context": [
+        21,
+        15
+      ],
+      "retained": 32
+    },
+    {
+      "case": 405,
+      "paths": 16,
+      "reset_before": [
+        1,
+        3,
+        6
+      ],
+      "initial_context": [
+        24,
+        2
+      ],
+      "retained": 16
+    },
+    {
+      "case": 406,
+      "paths": 64,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "initial_context": [
+        26,
+        4
+      ],
+      "retained": 7
+    },
+    {
+      "case": 407,
+      "paths": 64,
+      "reset_before": [],
+      "initial_context": [
+        1,
+        2
+      ],
+      "retained": 7
+    },
+    {
+      "case": 408,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        15,
+        22
+      ],
+      "retained": 2
+    },
+    {
+      "case": 409,
+      "exhausted": true
+    },
+    {
+      "case": 410,
+      "exhausted": true
+    },
+    {
+      "case": 411,
+      "exhausted": true
+    },
+    {
+      "case": 412,
+      "exhausted": true
+    },
+    {
+      "case": 413,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "initial_context": [
+        27,
+        6
+      ],
+      "retained": 4
+    },
+    {
+      "case": 414,
+      "paths": 16,
+      "reset_before": [
+        3,
+        5,
+        6
+      ],
+      "initial_context": [
+        28,
+        12
+      ],
+      "retained": 16
+    },
+    {
+      "case": 415,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        1,
+        18
+      ],
+      "retained": 1
+    },
+    {
+      "case": 416,
+      "paths": 1,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        8,
+        5
+      ],
+      "retained": 1
+    },
+    {
+      "case": 417,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        19,
+        11
+      ],
+      "retained": 1
+    },
+    {
+      "case": 418,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        27,
+        11
+      ],
+      "retained": 1
+    },
+    {
+      "case": 419,
+      "exhausted": true
+    },
+    {
+      "case": 420,
+      "paths": 64,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "initial_context": [
+        26,
+        21
+      ],
+      "retained": 2
+    },
+    {
+      "case": 421,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        0,
+        28
+      ],
+      "retained": 4
+    },
+    {
+      "case": 422,
+      "paths": 16,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        13,
+        20
+      ],
+      "retained": 16
+    },
+    {
+      "case": 423,
+      "paths": 24,
+      "reset_before": [
+        1,
+        5,
+        6
+      ],
+      "initial_context": [
+        3,
+        0
+      ],
+      "retained": 16
+    },
+    {
+      "case": 424,
+      "exhausted": true
+    },
+    {
+      "case": 425,
+      "paths": 7,
+      "reset_before": [],
+      "initial_context": [
+        1,
+        18
+      ],
+      "retained": 7
+    },
+    {
+      "case": 426,
+      "paths": 32,
+      "reset_before": [
+        0,
+        6
+      ],
+      "initial_context": [
+        9,
+        14
+      ],
+      "retained": 32
+    },
+    {
+      "case": 427,
+      "paths": 2,
+      "reset_before": [
+        0,
+        1,
+        2
+      ],
+      "initial_context": [
+        3,
+        8
+      ],
+      "retained": 2
+    },
+    {
+      "case": 428,
+      "paths": 4,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        5,
+        21
+      ],
+      "retained": 4
+    },
+    {
+      "case": 429,
+      "paths": 8,
+      "reset_before": [],
+      "initial_context": [
+        4,
+        29
+      ],
+      "retained": 2
+    },
+    {
+      "case": 430,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        14,
+        11
+      ],
+      "retained": 1
+    },
+    {
+      "case": 431,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        3,
+        8
+      ],
+      "retained": 2
+    },
+    {
+      "case": 432,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        19,
+        27
+      ],
+      "retained": 2
+    },
+    {
+      "case": 433,
+      "exhausted": true
+    },
+    {
+      "case": 434,
+      "paths": 16,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "initial_context": [
+        7,
+        6
+      ],
+      "retained": 1
+    },
+    {
+      "case": 435,
+      "paths": 8,
+      "reset_before": [
+        2,
+        3
+      ],
+      "initial_context": [
+        13,
+        18
+      ],
+      "retained": 7
+    },
+    {
+      "case": 436,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        10,
+        20
+      ],
+      "retained": 2
+    },
+    {
+      "case": 437,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        16,
+        6
+      ],
+      "retained": 2
+    },
+    {
+      "case": 438,
+      "exhausted": true
+    },
+    {
+      "case": 439,
+      "paths": 128,
+      "reset_before": [
+        1,
+        7
+      ],
+      "initial_context": [
+        23,
+        13
+      ],
+      "retained": 2
+    },
+    {
+      "case": 440,
+      "exhausted": true
+    },
+    {
+      "case": 441,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        15,
+        27
+      ],
+      "retained": 1
+    },
+    {
+      "case": 442,
+      "paths": 32,
+      "reset_before": [
+        4
+      ],
+      "initial_context": [
+        8,
+        19
+      ],
+      "retained": 32
+    },
+    {
+      "case": 443,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        11,
+        24
+      ],
+      "retained": 1
+    },
+    {
+      "case": 444,
+      "exhausted": true
+    },
+    {
+      "case": 445,
+      "exhausted": true
+    },
+    {
+      "case": 446,
+      "exhausted": true
+    },
+    {
+      "case": 447,
+      "exhausted": true
+    },
+    {
+      "case": 448,
+      "paths": 8,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "initial_context": [
+        9,
+        25
+      ],
+      "retained": 7
+    },
+    {
+      "case": 449,
+      "paths": 16,
+      "reset_before": [],
+      "initial_context": [
+        6,
+        3
+      ],
+      "retained": 16
+    },
+    {
+      "case": 450,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        4,
+        18
+      ],
+      "retained": 1
+    },
+    {
+      "case": 451,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        2,
+        5
+      ],
+      "retained": 1
+    },
+    {
+      "case": 452,
+      "paths": 8,
+      "reset_before": [
+        0,
+        2
+      ],
+      "initial_context": [
+        22,
+        26
+      ],
+      "retained": 8
+    },
+    {
+      "case": 453,
+      "paths": 32,
+      "reset_before": [
+        2,
+        4,
+        8
+      ],
+      "initial_context": [
+        23,
+        28
+      ],
+      "retained": 32
+    },
+    {
+      "case": 454,
+      "paths": 16,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        29,
+        17
+      ],
+      "retained": 2
+    },
+    {
+      "case": 455,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "initial_context": [
+        21,
+        10
+      ],
+      "retained": 4
+    },
+    {
+      "case": 456,
+      "paths": 8,
+      "reset_before": [
+        4
+      ],
+      "initial_context": [
+        15,
+        7
+      ],
+      "retained": 7
+    },
+    {
+      "case": 457,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        1,
+        6
+      ],
+      "retained": 1
+    },
+    {
+      "case": 458,
+      "paths": 32,
+      "reset_before": [
+        2,
+        8
+      ],
+      "initial_context": [
+        23,
+        29
+      ],
+      "retained": 32
+    },
+    {
+      "case": 459,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        18,
+        11
+      ],
+      "retained": 1
+    },
+    {
+      "case": 460,
+      "exhausted": true
+    },
+    {
+      "case": 461,
+      "paths": 16,
+      "reset_before": [],
+      "initial_context": [
+        21,
+        22
+      ],
+      "retained": 16
+    },
+    {
+      "case": 462,
+      "exhausted": true
+    },
+    {
+      "case": 463,
+      "exhausted": true
+    },
+    {
+      "case": 464,
+      "paths": 32,
+      "reset_before": [
+        5
+      ],
+      "initial_context": [
+        26,
+        5
+      ],
+      "retained": 1
+    },
+    {
+      "case": 465,
+      "paths": 4,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        21,
+        11
+      ],
+      "retained": 1
+    },
+    {
+      "case": 466,
+      "exhausted": true
+    },
+    {
+      "case": 467,
+      "paths": 4,
+      "reset_before": [
+        4
+      ],
+      "initial_context": [
+        3,
+        16
+      ],
+      "retained": 1
+    },
+    {
+      "case": 468,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        6,
+        7
+      ],
+      "retained": 1
+    },
+    {
+      "case": 469,
+      "paths": 64,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "initial_context": [
+        22,
+        7
+      ],
+      "retained": 33
+    },
+    {
+      "case": 470,
+      "paths": 128,
+      "reset_before": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ],
+      "initial_context": [
+        11,
+        27
+      ],
+      "retained": 33
+    },
+    {
+      "case": 471,
+      "exhausted": true
+    },
+    {
+      "case": 472,
+      "paths": 2,
+      "reset_before": [
+        1,
+        2
+      ],
+      "initial_context": [
+        5,
+        25
+      ],
+      "retained": 1
+    },
+    {
+      "case": 473,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        27,
+        22
+      ],
+      "retained": 1
+    },
+    {
+      "case": 474,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        17,
+        21
+      ],
+      "retained": 1
+    },
+    {
+      "case": 475,
+      "paths": 8,
+      "reset_before": [
+        2,
+        5
+      ],
+      "initial_context": [
+        7,
+        15
+      ],
+      "retained": 1
+    },
+    {
+      "case": 476,
+      "paths": 32,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "initial_context": [
+        17,
+        9
+      ],
+      "retained": 16
+    },
+    {
+      "case": 477,
+      "paths": 4,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        4,
+        19
+      ],
+      "retained": 1
+    },
+    {
+      "case": 478,
+      "paths": 8,
+      "reset_before": [
+        1,
+        2,
+        4
+      ],
+      "initial_context": [
+        11,
+        23
+      ],
+      "retained": 7
+    },
+    {
+      "case": 479,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        2,
+        27
+      ],
+      "retained": 1
+    },
+    {
+      "case": 480,
+      "paths": 128,
+      "reset_before": [
+        3
+      ],
+      "initial_context": [
+        5,
+        12
+      ],
+      "retained": 1
+    },
+    {
+      "case": 481,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        26,
+        11
+      ],
+      "retained": 1
+    },
+    {
+      "case": 482,
+      "paths": 8,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        27,
+        10
+      ],
+      "retained": 1
+    },
+    {
+      "case": 483,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        7,
+        4
+      ],
+      "retained": 1
+    },
+    {
+      "case": 484,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        15,
+        1
+      ],
+      "retained": 2
+    },
+    {
+      "case": 485,
+      "paths": 7,
+      "reset_before": [],
+      "initial_context": [
+        14,
+        29
+      ],
+      "retained": 2
+    },
+    {
+      "case": 486,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        5,
+        27
+      ],
+      "retained": 1
+    },
+    {
+      "case": 487,
+      "exhausted": true
+    },
+    {
+      "case": 488,
+      "exhausted": true
+    },
+    {
+      "case": 489,
+      "paths": 128,
+      "reset_before": [
+        0,
+        1,
+        5,
+        6
+      ],
+      "initial_context": [
+        5,
+        13
+      ],
+      "retained": 33
+    },
+    {
+      "case": 490,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        8,
+        1
+      ],
+      "retained": 1
+    },
+    {
+      "case": 491,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        29,
+        22
+      ],
+      "retained": 1
+    },
+    {
+      "case": 492,
+      "paths": 8,
+      "reset_before": [
+        1,
+        5
+      ],
+      "initial_context": [
+        10,
+        18
+      ],
+      "retained": 7
+    },
+    {
+      "case": 493,
+      "paths": 32,
+      "reset_before": [
+        7
+      ],
+      "initial_context": [
+        27,
+        0
+      ],
+      "retained": 16
+    },
+    {
+      "case": 494,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        16,
+        5
+      ],
+      "retained": 1
+    },
+    {
+      "case": 495,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        13,
+        16
+      ],
+      "retained": 1
+    },
+    {
+      "case": 496,
+      "paths": 8,
+      "reset_before": [
+        3
+      ],
+      "initial_context": [
+        27,
+        1
+      ],
+      "retained": 2
+    },
+    {
+      "case": 497,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        10,
+        3
+      ],
+      "retained": 1
+    },
+    {
+      "case": 498,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        27,
+        28
+      ],
+      "retained": 1
+    },
+    {
+      "case": 499,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        21,
+        0
+      ],
+      "retained": 1
+    },
+    {
+      "case": 500,
+      "paths": 1,
+      "reset_before": [
+        0,
+        7
+      ],
+      "initial_context": [
+        19,
+        22
+      ],
+      "retained": 1
+    },
+    {
+      "case": 501,
+      "paths": 44,
+      "reset_before": [
+        0,
+        2,
+        3,
+        8,
+        9,
+        10
+      ],
+      "initial_context": [
+        16,
+        14
+      ],
+      "retained": 33
+    },
+    {
+      "case": 502,
+      "paths": 2,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        23,
+        2
+      ],
+      "retained": 1
+    },
+    {
+      "case": 503,
+      "paths": 14,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        15,
+        3
+      ],
+      "retained": 1
+    },
+    {
+      "case": 504,
+      "paths": 64,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "initial_context": [
+        24,
+        25
+      ],
+      "retained": 1
+    },
+    {
+      "case": 505,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        25,
+        4
+      ],
+      "retained": 1
+    },
+    {
+      "case": 506,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        4,
+        1
+      ],
+      "retained": 1
+    },
+    {
+      "case": 507,
+      "paths": 16,
+      "reset_before": [
+        0,
+        2,
+        4
+      ],
+      "initial_context": [
+        26,
+        17
+      ],
+      "retained": 2
+    },
+    {
+      "case": 508,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        5,
+        10
+      ],
+      "retained": 1
+    },
+    {
+      "case": 509,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        9,
+        16
+      ],
+      "retained": 1
+    },
+    {
+      "case": 510,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        26,
+        20
+      ],
+      "retained": 2
+    },
+    {
+      "case": 511,
+      "paths": 8,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "initial_context": [
+        28,
+        29
+      ],
+      "retained": 8
+    },
+    {
+      "case": 512,
+      "paths": 16,
+      "reset_before": [
+        2,
+        4
+      ],
+      "initial_context": [
+        14,
+        5
+      ],
+      "retained": 1
+    },
+    {
+      "case": 513,
+      "paths": 8,
+      "reset_before": [],
+      "initial_context": [
+        12,
+        20
+      ],
+      "retained": 1
+    },
+    {
+      "case": 514,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        20,
+        3
+      ],
+      "retained": 1
+    },
+    {
+      "case": 515,
+      "paths": 4,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        8,
+        7
+      ],
+      "retained": 4
+    },
+    {
+      "case": 516,
+      "paths": 1,
+      "reset_before": [
+        2,
+        4
+      ],
+      "initial_context": [
+        24,
+        12
+      ],
+      "retained": 1
+    },
+    {
+      "case": 517,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        2,
+        20
+      ],
+      "retained": 1
+    },
+    {
+      "case": 518,
+      "paths": 1024,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "initial_context": [
+        27,
+        11
+      ],
+      "retained": 16
+    },
+    {
+      "case": 519,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        14,
+        5
+      ],
+      "retained": 1
+    },
+    {
+      "case": 520,
+      "paths": 16,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        5,
+        21
+      ],
+      "retained": 1
+    },
+    {
+      "case": 521,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        14,
+        28
+      ],
+      "retained": 1
+    },
+    {
+      "case": 522,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        22,
+        21
+      ],
+      "retained": 1
+    },
+    {
+      "case": 523,
+      "paths": 16,
+      "reset_before": [
+        9
+      ],
+      "initial_context": [
+        13,
+        29
+      ],
+      "retained": 2
+    },
+    {
+      "case": 524,
+      "paths": 8,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        23,
+        24
+      ],
+      "retained": 7
+    },
+    {
+      "case": 525,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        5,
+        11
+      ],
+      "retained": 2
+    },
+    {
+      "case": 526,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        10,
+        9
+      ],
+      "retained": 1
+    },
+    {
+      "case": 527,
+      "paths": 8,
+      "reset_before": [
+        1,
+        6
+      ],
+      "initial_context": [
+        1,
+        19
+      ],
+      "retained": 2
+    },
+    {
+      "case": 528,
+      "paths": 64,
+      "reset_before": [],
+      "initial_context": [
+        13,
+        11
+      ],
+      "retained": 7
+    },
+    {
+      "case": 529,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        28,
+        25
+      ],
+      "retained": 1
+    },
+    {
+      "case": 530,
+      "exhausted": true
+    },
+    {
+      "case": 531,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        11,
+        15
+      ],
+      "retained": 1
+    },
+    {
+      "case": 532,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "initial_context": [
+        19,
+        17
+      ],
+      "retained": 1
+    },
+    {
+      "case": 533,
+      "exhausted": true
+    },
+    {
+      "case": 534,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        25,
+        8
+      ],
+      "retained": 4
+    },
+    {
+      "case": 535,
+      "paths": 4,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        25,
+        27
+      ],
+      "retained": 4
+    },
+    {
+      "case": 536,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        3,
+        0
+      ],
+      "retained": 2
+    },
+    {
+      "case": 537,
+      "paths": 16,
+      "reset_before": [],
+      "initial_context": [
+        16,
+        7
+      ],
+      "retained": 16
+    },
+    {
+      "case": 538,
+      "paths": 8,
+      "reset_before": [
+        0,
+        1,
+        5
+      ],
+      "initial_context": [
+        23,
+        19
+      ],
+      "retained": 8
+    },
+    {
+      "case": 539,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        9,
+        25
+      ],
+      "retained": 4
+    },
+    {
+      "case": 540,
+      "paths": 32,
+      "reset_before": [
+        4,
+        5
+      ],
+      "initial_context": [
+        25,
+        8
+      ],
+      "retained": 1
+    },
+    {
+      "case": 541,
+      "paths": 16,
+      "reset_before": [],
+      "initial_context": [
+        5,
+        20
+      ],
+      "retained": 16
+    },
+    {
+      "case": 542,
+      "paths": 4,
+      "reset_before": [
+        0,
+        3
+      ],
+      "initial_context": [
+        21,
+        21
+      ],
+      "retained": 4
+    },
+    {
+      "case": 543,
+      "paths": 4,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        24,
+        1
+      ],
+      "retained": 4
+    },
+    {
+      "case": 544,
+      "paths": 4,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        1,
+        13
+      ],
+      "retained": 2
+    },
+    {
+      "case": 545,
+      "paths": 32,
+      "reset_before": [],
+      "initial_context": [
+        27,
+        19
+      ],
+      "retained": 7
+    },
+    {
+      "case": 546,
+      "paths": 16,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "initial_context": [
+        0,
+        22
+      ],
+      "retained": 1
+    },
+    {
+      "case": 547,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        5,
+        2
+      ],
+      "retained": 2
+    },
+    {
+      "case": 548,
+      "paths": 64,
+      "reset_before": [
+        3,
+        4,
+        7,
+        8,
+        10
+      ],
+      "initial_context": [
+        27,
+        6
+      ],
+      "retained": 2
+    },
+    {
+      "case": 549,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        5
+      ],
+      "initial_context": [
+        20,
+        19
+      ],
+      "retained": 4
+    },
+    {
+      "case": 550,
+      "paths": 8,
+      "reset_before": [],
+      "initial_context": [
+        20,
+        13
+      ],
+      "retained": 8
+    },
+    {
+      "case": 551,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        20,
+        19
+      ],
+      "retained": 1
+    },
+    {
+      "case": 552,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        14,
+        20
+      ],
+      "retained": 4
+    },
+    {
+      "case": 553,
+      "paths": 16,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "initial_context": [
+        25,
+        7
+      ],
+      "retained": 7
+    },
+    {
+      "case": 554,
+      "exhausted": true
+    },
+    {
+      "case": 555,
+      "exhausted": true
+    },
+    {
+      "case": 556,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        27,
+        10
+      ],
+      "retained": 4
+    },
+    {
+      "case": 557,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        3,
+        17
+      ],
+      "retained": 1
+    },
+    {
+      "case": 558,
+      "paths": 16,
+      "reset_before": [
+        1,
+        2,
+        5,
+        7
+      ],
+      "initial_context": [
+        12,
+        21
+      ],
+      "retained": 7
+    },
+    {
+      "case": 559,
+      "exhausted": true
+    },
+    {
+      "case": 560,
+      "paths": 64,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "initial_context": [
+        13,
+        5
+      ],
+      "retained": 1
+    },
+    {
+      "case": 561,
+      "paths": 8,
+      "reset_before": [],
+      "initial_context": [
+        13,
+        8
+      ],
+      "retained": 8
+    },
+    {
+      "case": 562,
+      "exhausted": true
+    },
+    {
+      "case": 563,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        26,
+        16
+      ],
+      "retained": 1
+    },
+    {
+      "case": 564,
+      "exhausted": true
+    },
+    {
+      "case": 565,
+      "paths": 4,
+      "reset_before": [
+        0,
+        4,
+        8
+      ],
+      "initial_context": [
+        5,
+        0
+      ],
+      "retained": 4
+    },
+    {
+      "case": 566,
+      "paths": 128,
+      "reset_before": [
+        5,
+        9
+      ],
+      "initial_context": [
+        25,
+        16
+      ],
+      "retained": 1
+    },
+    {
+      "case": 567,
+      "paths": 512,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "initial_context": [
+        21,
+        15
+      ],
+      "retained": 1
+    },
+    {
+      "case": 568,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        13,
+        21
+      ],
+      "retained": 1
+    },
+    {
+      "case": 569,
+      "paths": 8,
+      "reset_before": [
+        1,
+        3
+      ],
+      "initial_context": [
+        3,
+        19
+      ],
+      "retained": 8
+    },
+    {
+      "case": 570,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        19,
+        5
+      ],
+      "retained": 1
+    },
+    {
+      "case": 571,
+      "paths": 16,
+      "reset_before": [
+        2,
+        4
+      ],
+      "initial_context": [
+        14,
+        0
+      ],
+      "retained": 16
+    },
+    {
+      "case": 572,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        4,
+        20
+      ],
+      "retained": 2
+    },
+    {
+      "case": 573,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        12,
+        0
+      ],
+      "retained": 4
+    },
+    {
+      "case": 574,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "initial_context": [
+        2,
+        10
+      ],
+      "retained": 4
+    },
+    {
+      "case": 575,
+      "paths": 2,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        19,
+        28
+      ],
+      "retained": 2
+    },
+    {
+      "case": 576,
+      "paths": 1,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        0,
+        16
+      ],
+      "retained": 1
+    },
+    {
+      "case": 577,
+      "paths": 8,
+      "reset_before": [
+        5,
+        6,
+        8,
+        9
+      ],
+      "initial_context": [
+        4,
+        28
+      ],
+      "retained": 2
+    },
+    {
+      "case": 578,
+      "paths": 4,
+      "reset_before": [
+        2,
+        3
+      ],
+      "initial_context": [
+        22,
+        11
+      ],
+      "retained": 4
+    },
+    {
+      "case": 579,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        23,
+        9
+      ],
+      "retained": 2
+    },
+    {
+      "case": 580,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        2,
+        3
+      ],
+      "retained": 2
+    },
+    {
+      "case": 581,
+      "paths": 32,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "initial_context": [
+        10,
+        29
+      ],
+      "retained": 1
+    },
+    {
+      "case": 582,
+      "paths": 4,
+      "reset_before": [
+        2,
+        4,
+        5
+      ],
+      "initial_context": [
+        13,
+        27
+      ],
+      "retained": 4
+    },
+    {
+      "case": 583,
+      "exhausted": true
+    },
+    {
+      "case": 584,
+      "paths": 16,
+      "reset_before": [
+        1,
+        4
+      ],
+      "initial_context": [
+        1,
+        0
+      ],
+      "retained": 7
+    },
+    {
+      "case": 585,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        8,
+        6
+      ],
+      "retained": 1
+    },
+    {
+      "case": 586,
+      "paths": 32,
+      "reset_before": [
+        1,
+        2,
+        3,
+        6
+      ],
+      "initial_context": [
+        7,
+        0
+      ],
+      "retained": 32
+    },
+    {
+      "case": 587,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        20,
+        19
+      ],
+      "retained": 1
+    },
+    {
+      "case": 588,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        29,
+        22
+      ],
+      "retained": 1
+    },
+    {
+      "case": 589,
+      "paths": 8,
+      "reset_before": [
+        0,
+        2
+      ],
+      "initial_context": [
+        27,
+        24
+      ],
+      "retained": 8
+    },
+    {
+      "case": 590,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        7,
+        12
+      ],
+      "retained": 1
+    },
+    {
+      "case": 591,
+      "paths": 64,
+      "reset_before": [
+        7,
+        8
+      ],
+      "initial_context": [
+        9,
+        24
+      ],
+      "retained": 33
+    },
+    {
+      "case": 592,
+      "paths": 4,
+      "reset_before": [
+        0,
+        2,
+        6
+      ],
+      "initial_context": [
+        14,
+        26
+      ],
+      "retained": 4
+    },
+    {
+      "case": 593,
+      "paths": 8,
+      "reset_before": [],
+      "initial_context": [
+        9,
+        5
+      ],
+      "retained": 2
+    },
+    {
+      "case": 594,
+      "exhausted": true
+    },
+    {
+      "case": 595,
+      "paths": 1,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        28,
+        14
+      ],
+      "retained": 1
+    },
+    {
+      "case": 596,
+      "paths": 16,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        1,
+        4
+      ],
+      "retained": 7
+    },
+    {
+      "case": 597,
+      "paths": 360,
+      "reset_before": [
+        4,
+        6,
+        10
+      ],
+      "initial_context": [
+        9,
+        7
+      ],
+      "retained": 2
+    },
+    {
+      "case": 598,
+      "paths": 64,
+      "reset_before": [
+        0,
+        4,
+        8
+      ],
+      "initial_context": [
+        29,
+        26
+      ],
+      "retained": 16
+    },
+    {
+      "case": 599,
+      "paths": 64,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        11,
+        5
+      ],
+      "retained": 33
+    },
+    {
+      "case": 600,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1,
+        2
+      ],
+      "initial_context": [
+        12,
+        28
+      ],
+      "retained": 1
+    },
+    {
+      "case": 601,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        6,
+        22
+      ],
+      "retained": 1
+    },
+    {
+      "case": 602,
+      "paths": 64,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "initial_context": [
+        6,
+        22
+      ],
+      "retained": 16
+    },
+    {
+      "case": 603,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        25,
+        27
+      ],
+      "retained": 2
+    },
+    {
+      "case": 604,
+      "paths": 1,
+      "reset_before": [
+        5
+      ],
+      "initial_context": [
+        21,
+        21
+      ],
+      "retained": 1
+    },
+    {
+      "case": 605,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        21,
+        0
+      ],
+      "retained": 1
+    },
+    {
+      "case": 606,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        3,
+        18
+      ],
+      "retained": 1
+    },
+    {
+      "case": 607,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        17,
+        29
+      ],
+      "retained": 1
+    },
+    {
+      "case": 608,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        20,
+        5
+      ],
+      "retained": 1
+    },
+    {
+      "case": 609,
+      "paths": 2,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        28,
+        7
+      ],
+      "retained": 2
+    },
+    {
+      "case": 610,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        17,
+        6
+      ],
+      "retained": 1
+    },
+    {
+      "case": 611,
+      "paths": 256,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        0,
+        3
+      ],
+      "retained": 2
+    },
+    {
+      "case": 612,
+      "paths": 4,
+      "reset_before": [
+        3
+      ],
+      "initial_context": [
+        7,
+        21
+      ],
+      "retained": 2
+    },
+    {
+      "case": 613,
+      "paths": 2,
+      "reset_before": [
+        3,
+        4
+      ],
+      "initial_context": [
+        17,
+        28
+      ],
+      "retained": 1
+    },
+    {
+      "case": 614,
+      "paths": 4,
+      "reset_before": [
+        1,
+        5,
+        10
+      ],
+      "initial_context": [
+        27,
+        24
+      ],
+      "retained": 2
+    },
+    {
+      "case": 615,
+      "paths": 16,
+      "reset_before": [],
+      "initial_context": [
+        0,
+        23
+      ],
+      "retained": 2
+    },
+    {
+      "case": 616,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        25,
+        3
+      ],
+      "retained": 2
+    },
+    {
+      "case": 617,
+      "paths": 2,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        8,
+        14
+      ],
+      "retained": 2
+    },
+    {
+      "case": 618,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        16,
+        25
+      ],
+      "retained": 1
+    },
+    {
+      "case": 619,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        28,
+        5
+      ],
+      "retained": 4
+    },
+    {
+      "case": 620,
+      "paths": 56,
+      "reset_before": [
+        0,
+        1,
+        4,
+        5
+      ],
+      "initial_context": [
+        13,
+        15
+      ],
+      "retained": 1
+    },
+    {
+      "case": 621,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        14,
+        10
+      ],
+      "retained": 1
+    },
+    {
+      "case": 622,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        17,
+        2
+      ],
+      "retained": 1
+    },
+    {
+      "case": 623,
+      "paths": 1,
+      "reset_before": [
+        0,
+        1,
+        2
+      ],
+      "initial_context": [
+        18,
+        3
+      ],
+      "retained": 1
+    },
+    {
+      "case": 624,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        20,
+        19
+      ],
+      "retained": 1
+    },
+    {
+      "case": 625,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        2,
+        22
+      ],
+      "retained": 2
+    },
+    {
+      "case": 626,
+      "paths": 16,
+      "reset_before": [
+        3,
+        7
+      ],
+      "initial_context": [
+        23,
+        25
+      ],
+      "retained": 16
+    },
+    {
+      "case": 627,
+      "exhausted": true
+    },
+    {
+      "case": 628,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        16,
+        7
+      ],
+      "retained": 2
+    },
+    {
+      "case": 629,
+      "paths": 128,
+      "reset_before": [
+        2,
+        6,
+        7
+      ],
+      "initial_context": [
+        16,
+        9
+      ],
+      "retained": 7
+    },
+    {
+      "case": 630,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        10,
+        23
+      ],
+      "retained": 1
+    },
+    {
+      "case": 631,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        11,
+        11
+      ],
+      "retained": 1
+    },
+    {
+      "case": 632,
+      "paths": 8,
+      "reset_before": [
+        2,
+        3,
+        5
+      ],
+      "initial_context": [
+        19,
+        18
+      ],
+      "retained": 8
+    },
+    {
+      "case": 633,
+      "paths": 4,
+      "reset_before": [
+        1,
+        3
+      ],
+      "initial_context": [
+        22,
+        12
+      ],
+      "retained": 1
+    },
+    {
+      "case": 634,
+      "exhausted": true
+    },
+    {
+      "case": 635,
+      "paths": 2,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        6,
+        23
+      ],
+      "retained": 2
+    },
+    {
+      "case": 636,
+      "paths": 3,
+      "reset_before": [
+        2,
+        3
+      ],
+      "initial_context": [
+        8,
+        16
+      ],
+      "retained": 3
+    },
+    {
+      "case": 637,
+      "paths": 32,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "initial_context": [
+        26,
+        10
+      ],
+      "retained": 2
+    },
+    {
+      "case": 638,
+      "exhausted": true
+    },
+    {
+      "case": 639,
+      "paths": 2,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        4,
+        22
+      ],
+      "retained": 2
+    },
+    {
+      "case": 640,
+      "paths": 32,
+      "reset_before": [
+        0,
+        4,
+        5
+      ],
+      "initial_context": [
+        7,
+        29
+      ],
+      "retained": 1
+    },
+    {
+      "case": 641,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        18,
+        27
+      ],
+      "retained": 1
+    },
+    {
+      "case": 642,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        13,
+        7
+      ],
+      "retained": 4
+    },
+    {
+      "case": 643,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        9,
+        11
+      ],
+      "retained": 4
+    },
+    {
+      "case": 644,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        8,
+        8
+      ],
+      "retained": 2
+    },
+    {
+      "case": 645,
+      "paths": 8,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        0,
+        4
+      ],
+      "retained": 8
+    },
+    {
+      "case": 646,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        25,
+        3
+      ],
+      "retained": 1
+    },
+    {
+      "case": 647,
+      "paths": 128,
+      "reset_before": [
+        2,
+        4,
+        5,
+        9
+      ],
+      "initial_context": [
+        14,
+        20
+      ],
+      "retained": 2
+    },
+    {
+      "case": 648,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        24,
+        8
+      ],
+      "retained": 1
+    },
+    {
+      "case": 649,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        8,
+        2
+      ],
+      "retained": 4
+    },
+    {
+      "case": 650,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        26,
+        18
+      ],
+      "retained": 4
+    },
+    {
+      "case": 651,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        27,
+        19
+      ],
+      "retained": 1
+    },
+    {
+      "case": 652,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        27,
+        18
+      ],
+      "retained": 1
+    },
+    {
+      "case": 653,
+      "paths": 2,
+      "reset_before": [
+        2,
+        3
+      ],
+      "initial_context": [
+        6,
+        11
+      ],
+      "retained": 2
+    },
+    {
+      "case": 654,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        23,
+        9
+      ],
+      "retained": 1
+    },
+    {
+      "case": 655,
+      "paths": 16,
+      "reset_before": [
+        1,
+        3
+      ],
+      "initial_context": [
+        0,
+        0
+      ],
+      "retained": 1
+    },
+    {
+      "case": 656,
+      "paths": 28,
+      "reset_before": [
+        3,
+        5,
+        6,
+        8
+      ],
+      "initial_context": [
+        8,
+        3
+      ],
+      "retained": 2
+    },
+    {
+      "case": 657,
+      "paths": 8,
+      "reset_before": [
+        3,
+        4,
+        7
+      ],
+      "initial_context": [
+        25,
+        24
+      ],
+      "retained": 2
+    },
+    {
+      "case": 658,
+      "paths": 32,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "initial_context": [
+        18,
+        23
+      ],
+      "retained": 16
+    },
+    {
+      "case": 659,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        10,
+        1
+      ],
+      "retained": 2
+    },
+    {
+      "case": 660,
+      "paths": 8,
+      "reset_before": [],
+      "initial_context": [
+        17,
+        22
+      ],
+      "retained": 8
+    },
+    {
+      "case": 661,
+      "paths": 2,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        3,
+        26
+      ],
+      "retained": 2
+    },
+    {
+      "case": 662,
+      "paths": 8,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        0,
+        20
+      ],
+      "retained": 8
+    },
+    {
+      "case": 663,
+      "paths": 2,
+      "reset_before": [
+        5
+      ],
+      "initial_context": [
+        27,
+        13
+      ],
+      "retained": 2
+    },
+    {
+      "case": 664,
+      "paths": 2,
+      "reset_before": [
+        1,
+        3,
+        5
+      ],
+      "initial_context": [
+        3,
+        28
+      ],
+      "retained": 2
+    },
+    {
+      "case": 665,
+      "paths": 16,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "initial_context": [
+        24,
+        22
+      ],
+      "retained": 2
+    },
+    {
+      "case": 666,
+      "paths": 32,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        1,
+        0
+      ],
+      "retained": 2
+    },
+    {
+      "case": 667,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        20,
+        6
+      ],
+      "retained": 1
+    },
+    {
+      "case": 668,
+      "paths": 2,
+      "reset_before": [
+        4
+      ],
+      "initial_context": [
+        27,
+        21
+      ],
+      "retained": 2
+    },
+    {
+      "case": 669,
+      "paths": 16,
+      "reset_before": [
+        0,
+        1,
+        3,
+        7,
+        8
+      ],
+      "initial_context": [
+        1,
+        12
+      ],
+      "retained": 16
+    },
+    {
+      "case": 670,
+      "paths": 16,
+      "reset_before": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "initial_context": [
+        19,
+        9
+      ],
+      "retained": 1
+    },
+    {
+      "case": 671,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        4,
+        29
+      ],
+      "retained": 1
+    },
+    {
+      "case": 672,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        13,
+        23
+      ],
+      "retained": 1
+    },
+    {
+      "case": 673,
+      "paths": 4,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        26,
+        10
+      ],
+      "retained": 4
+    },
+    {
+      "case": 674,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        3,
+        24
+      ],
+      "retained": 1
+    },
+    {
+      "case": 675,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        0,
+        2
+      ],
+      "retained": 1
+    },
+    {
+      "case": 676,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        9,
+        14
+      ],
+      "retained": 4
+    },
+    {
+      "case": 677,
+      "exhausted": true
+    },
+    {
+      "case": 678,
+      "exhausted": true
+    },
+    {
+      "case": 679,
+      "paths": 2,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        0,
+        6
+      ],
+      "retained": 1
+    },
+    {
+      "case": 680,
+      "paths": 16,
+      "reset_before": [
+        0,
+        5,
+        8
+      ],
+      "initial_context": [
+        29,
+        12
+      ],
+      "retained": 7
+    },
+    {
+      "case": 681,
+      "paths": 44,
+      "reset_before": [
+        3,
+        9,
+        10
+      ],
+      "initial_context": [
+        19,
+        14
+      ],
+      "retained": 2
+    },
+    {
+      "case": 682,
+      "paths": 32,
+      "reset_before": [],
+      "initial_context": [
+        24,
+        29
+      ],
+      "retained": 16
+    },
+    {
+      "case": 683,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        7,
+        16
+      ],
+      "retained": 1
+    },
+    {
+      "case": 684,
+      "paths": 64,
+      "reset_before": [
+        1,
+        7
+      ],
+      "initial_context": [
+        6,
+        20
+      ],
+      "retained": 33
+    },
+    {
+      "case": 685,
+      "paths": 4,
+      "reset_before": [
+        3
+      ],
+      "initial_context": [
+        9,
+        5
+      ],
+      "retained": 4
+    },
+    {
+      "case": 686,
+      "paths": 8,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "initial_context": [
+        8,
+        0
+      ],
+      "retained": 8
+    },
+    {
+      "case": 687,
+      "paths": 8,
+      "reset_before": [
+        0,
+        1,
+        4,
+        6,
+        7
+      ],
+      "initial_context": [
+        8,
+        21
+      ],
+      "retained": 8
+    },
+    {
+      "case": 688,
+      "paths": 32,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        23,
+        23
+      ],
+      "retained": 2
+    },
+    {
+      "case": 689,
+      "paths": 4,
+      "reset_before": [
+        3,
+        4
+      ],
+      "initial_context": [
+        19,
+        2
+      ],
+      "retained": 2
+    },
+    {
+      "case": 690,
+      "paths": 22,
+      "reset_before": [],
+      "initial_context": [
+        10,
+        3
+      ],
+      "retained": 7
+    },
+    {
+      "case": 691,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        25,
+        16
+      ],
+      "retained": 2
+    },
+    {
+      "case": 692,
+      "paths": 7,
+      "reset_before": [],
+      "initial_context": [
+        18,
+        15
+      ],
+      "retained": 7
+    },
+    {
+      "case": 693,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        9,
+        5
+      ],
+      "retained": 1
+    },
+    {
+      "case": 694,
+      "paths": 2,
+      "reset_before": [
+        0,
+        4
+      ],
+      "initial_context": [
+        1,
+        0
+      ],
+      "retained": 2
+    },
+    {
+      "case": 695,
+      "exhausted": true
+    },
+    {
+      "case": 696,
+      "paths": 22,
+      "reset_before": [
+        4,
+        5,
+        7,
+        8
+      ],
+      "initial_context": [
+        18,
+        16
+      ],
+      "retained": 2
+    },
+    {
+      "case": 697,
+      "exhausted": true
+    },
+    {
+      "case": 698,
+      "paths": 16,
+      "reset_before": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "initial_context": [
+        8,
+        29
+      ],
+      "retained": 16
+    },
+    {
+      "case": 699,
+      "paths": 8,
+      "reset_before": [
+        5,
+        7,
+        9,
+        10
+      ],
+      "initial_context": [
+        12,
+        26
+      ],
+      "retained": 1
+    },
+    {
+      "case": 700,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        11,
+        5
+      ],
+      "retained": 4
+    },
+    {
+      "case": 701,
+      "paths": 1,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        3,
+        7
+      ],
+      "retained": 1
+    },
+    {
+      "case": 702,
+      "paths": 16,
+      "reset_before": [
+        2,
+        5
+      ],
+      "initial_context": [
+        29,
+        18
+      ],
+      "retained": 7
+    },
+    {
+      "case": 703,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        29,
+        17
+      ],
+      "retained": 2
+    },
+    {
+      "case": 704,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        17,
+        3
+      ],
+      "retained": 1
+    },
+    {
+      "case": 705,
+      "paths": 32,
+      "reset_before": [
+        1,
+        8,
+        9
+      ],
+      "initial_context": [
+        9,
+        29
+      ],
+      "retained": 16
+    },
+    {
+      "case": 706,
+      "paths": 64,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        7,
+        19
+      ],
+      "retained": 1
+    },
+    {
+      "case": 707,
+      "paths": 1,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "initial_context": [
+        19,
+        27
+      ],
+      "retained": 1
+    },
+    {
+      "case": 708,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        29,
+        16
+      ],
+      "retained": 2
+    },
+    {
+      "case": 709,
+      "paths": 64,
+      "reset_before": [
+        1,
+        5,
+        9
+      ],
+      "initial_context": [
+        16,
+        8
+      ],
+      "retained": 1
+    },
+    {
+      "case": 710,
+      "paths": 16,
+      "reset_before": [
+        2,
+        4
+      ],
+      "initial_context": [
+        26,
+        5
+      ],
+      "retained": 2
+    },
+    {
+      "case": 711,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        16,
+        2
+      ],
+      "retained": 1
+    },
+    {
+      "case": 712,
+      "paths": 1,
+      "reset_before": [
+        3
+      ],
+      "initial_context": [
+        23,
+        9
+      ],
+      "retained": 1
+    },
+    {
+      "case": 713,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        8,
+        17
+      ],
+      "retained": 1
+    },
+    {
+      "case": 714,
+      "paths": 32,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "initial_context": [
+        24,
+        3
+      ],
+      "retained": 7
+    },
+    {
+      "case": 715,
+      "paths": 512,
+      "reset_before": [],
+      "initial_context": [
+        24,
+        16
+      ],
+      "retained": 16
+    },
+    {
+      "case": 716,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        17,
+        18
+      ],
+      "retained": 1
+    },
+    {
+      "case": 717,
+      "paths": 1,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        4,
+        15
+      ],
+      "retained": 1
+    },
+    {
+      "case": 718,
+      "paths": 8,
+      "reset_before": [
+        0,
+        3,
+        5,
+        9
+      ],
+      "initial_context": [
+        28,
+        25
+      ],
+      "retained": 1
+    },
+    {
+      "case": 719,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        15,
+        29
+      ],
+      "retained": 1
+    },
+    {
+      "case": 720,
+      "paths": 32,
+      "reset_before": [
+        0,
+        8,
+        9
+      ],
+      "initial_context": [
+        26,
+        6
+      ],
+      "retained": 2
+    },
+    {
+      "case": 721,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "initial_context": [
+        27,
+        13
+      ],
+      "retained": 4
+    },
+    {
+      "case": 722,
+      "paths": 2,
+      "reset_before": [
+        4
+      ],
+      "initial_context": [
+        20,
+        17
+      ],
+      "retained": 2
+    },
+    {
+      "case": 723,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        16,
+        23
+      ],
+      "retained": 4
+    },
+    {
+      "case": 724,
+      "exhausted": true
+    },
+    {
+      "case": 725,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        9,
+        2
+      ],
+      "retained": 1
+    },
+    {
+      "case": 726,
+      "exhausted": true
+    },
+    {
+      "case": 727,
+      "paths": 8,
+      "reset_before": [
+        4
+      ],
+      "initial_context": [
+        13,
+        16
+      ],
+      "retained": 8
+    },
+    {
+      "case": 728,
+      "paths": 8,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "initial_context": [
+        0,
+        21
+      ],
+      "retained": 8
+    },
+    {
+      "case": 729,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        29,
+        22
+      ],
+      "retained": 4
+    },
+    {
+      "case": 730,
+      "paths": 64,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        2,
+        26
+      ],
+      "retained": 1
+    },
+    {
+      "case": 731,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        17,
+        28
+      ],
+      "retained": 1
+    },
+    {
+      "case": 732,
+      "paths": 32,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        5,
+        9
+      ],
+      "retained": 1
+    },
+    {
+      "case": 733,
+      "exhausted": true
+    },
+    {
+      "case": 734,
+      "exhausted": true
+    },
+    {
+      "case": 735,
+      "paths": 32,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "initial_context": [
+        25,
+        12
+      ],
+      "retained": 32
+    },
+    {
+      "case": 736,
+      "paths": 88,
+      "reset_before": [
+        3
+      ],
+      "initial_context": [
+        7,
+        24
+      ],
+      "retained": 7
+    },
+    {
+      "case": 737,
+      "exhausted": true
+    },
+    {
+      "case": 738,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        19,
+        14
+      ],
+      "retained": 1
+    },
+    {
+      "case": 739,
+      "exhausted": true
+    },
+    {
+      "case": 740,
+      "paths": 128,
+      "reset_before": [
+        0,
+        3,
+        5,
+        6,
+        7,
+        8
+      ],
+      "initial_context": [
+        29,
+        15
+      ],
+      "retained": 1
+    },
+    {
+      "case": 741,
+      "paths": 114,
+      "reset_before": [
+        0,
+        2
+      ],
+      "initial_context": [
+        29,
+        14
+      ],
+      "retained": 1
+    },
+    {
+      "case": 742,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        17,
+        27
+      ],
+      "retained": 1
+    },
+    {
+      "case": 743,
+      "paths": 2,
+      "reset_before": [
+        0,
+        4
+      ],
+      "initial_context": [
+        5,
+        28
+      ],
+      "retained": 2
+    },
+    {
+      "case": 744,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        28,
+        23
+      ],
+      "retained": 2
+    },
+    {
+      "case": 745,
+      "paths": 16,
+      "reset_before": [],
+      "initial_context": [
+        3,
+        15
+      ],
+      "retained": 1
+    },
+    {
+      "case": 746,
+      "exhausted": true
+    },
+    {
+      "case": 747,
+      "exhausted": true
+    },
+    {
+      "case": 748,
+      "paths": 32,
+      "reset_before": [],
+      "initial_context": [
+        28,
+        11
+      ],
+      "retained": 1
+    },
+    {
+      "case": 749,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        22,
+        25
+      ],
+      "retained": 2
+    },
+    {
+      "case": 750,
+      "exhausted": true
+    },
+    {
+      "case": 751,
+      "paths": 105,
+      "reset_before": [
+        0,
+        4,
+        8
+      ],
+      "initial_context": [
+        0,
+        13
+      ],
+      "retained": 33
+    },
+    {
+      "case": 752,
+      "paths": 4,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        4,
+        7
+      ],
+      "retained": 2
+    },
+    {
+      "case": 753,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        19,
+        0
+      ],
+      "retained": 1
+    },
+    {
+      "case": 754,
+      "exhausted": true
+    },
+    {
+      "case": 755,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        22,
+        27
+      ],
+      "retained": 1
+    },
+    {
+      "case": 756,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "initial_context": [
+        0,
+        11
+      ],
+      "retained": 4
+    },
+    {
+      "case": 757,
+      "paths": 2,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        14,
+        5
+      ],
+      "retained": 2
+    },
+    {
+      "case": 758,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        16,
+        17
+      ],
+      "retained": 1
+    },
+    {
+      "case": 759,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        22,
+        24
+      ],
+      "retained": 1
+    },
+    {
+      "case": 760,
+      "paths": 32,
+      "reset_before": [],
+      "initial_context": [
+        29,
+        2
+      ],
+      "retained": 16
+    },
+    {
+      "case": 761,
+      "paths": 8,
+      "reset_before": [
+        0,
+        3
+      ],
+      "initial_context": [
+        18,
+        1
+      ],
+      "retained": 7
+    },
+    {
+      "case": 762,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        6,
+        29
+      ],
+      "retained": 1
+    },
+    {
+      "case": 763,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        13,
+        24
+      ],
+      "retained": 2
+    },
+    {
+      "case": 764,
+      "exhausted": true
+    },
+    {
+      "case": 765,
+      "paths": 16,
+      "reset_before": [
+        0,
+        3
+      ],
+      "initial_context": [
+        23,
+        22
+      ],
+      "retained": 2
+    },
+    {
+      "case": 766,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        24,
+        18
+      ],
+      "retained": 1
+    },
+    {
+      "case": 767,
+      "paths": 4,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        13,
+        6
+      ],
+      "retained": 4
+    },
+    {
+      "case": 768,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        2,
+        10
+      ],
+      "retained": 1
+    },
+    {
+      "case": 769,
+      "paths": 64,
+      "reset_before": [
+        0,
+        5
+      ],
+      "initial_context": [
+        11,
+        14
+      ],
+      "retained": 16
+    },
+    {
+      "case": 770,
+      "paths": 64,
+      "reset_before": [],
+      "initial_context": [
+        10,
+        20
+      ],
+      "retained": 33
+    },
+    {
+      "case": 771,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        26,
+        10
+      ],
+      "retained": 2
+    },
+    {
+      "case": 772,
+      "paths": 2,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        29,
+        15
+      ],
+      "retained": 2
+    },
+    {
+      "case": 773,
+      "paths": 8,
+      "reset_before": [
+        6,
+        7,
+        8
+      ],
+      "initial_context": [
+        1,
+        19
+      ],
+      "retained": 7
+    },
+    {
+      "case": 774,
+      "paths": 4,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        15,
+        27
+      ],
+      "retained": 4
+    },
+    {
+      "case": 775,
+      "exhausted": true
+    },
+    {
+      "case": 776,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        19,
+        1
+      ],
+      "retained": 2
+    },
+    {
+      "case": 777,
+      "paths": 16,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "initial_context": [
+        14,
+        20
+      ],
+      "retained": 2
+    },
+    {
+      "case": 778,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        11,
+        21
+      ],
+      "retained": 2
+    },
+    {
+      "case": 779,
+      "paths": 4,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        9,
+        26
+      ],
+      "retained": 1
+    },
+    {
+      "case": 780,
+      "paths": 3,
+      "reset_before": [
+        0,
+        2,
+        4
+      ],
+      "initial_context": [
+        27,
+        11
+      ],
+      "retained": 3
+    },
+    {
+      "case": 781,
+      "exhausted": true
+    },
+    {
+      "case": 782,
+      "exhausted": true
+    },
+    {
+      "case": 783,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        21,
+        2
+      ],
+      "retained": 1
+    },
+    {
+      "case": 784,
+      "paths": 2,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        27,
+        8
+      ],
+      "retained": 2
+    },
+    {
+      "case": 785,
+      "paths": 8,
+      "reset_before": [
+        1,
+        3,
+        4
+      ],
+      "initial_context": [
+        25,
+        25
+      ],
+      "retained": 8
+    },
+    {
+      "case": 786,
+      "exhausted": true
+    },
+    {
+      "case": 787,
+      "paths": 8,
+      "reset_before": [],
+      "initial_context": [
+        24,
+        8
+      ],
+      "retained": 1
+    },
+    {
+      "case": 788,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        8,
+        15
+      ],
+      "retained": 1
+    },
+    {
+      "case": 789,
+      "paths": 4,
+      "reset_before": [
+        3
+      ],
+      "initial_context": [
+        28,
+        1
+      ],
+      "retained": 4
+    },
+    {
+      "case": 790,
+      "paths": 4,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        2,
+        22
+      ],
+      "retained": 1
+    },
+    {
+      "case": 791,
+      "paths": 16,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "initial_context": [
+        27,
+        15
+      ],
+      "retained": 16
+    },
+    {
+      "case": 792,
+      "exhausted": true
+    },
+    {
+      "case": 793,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        10,
+        1
+      ],
+      "retained": 1
+    },
+    {
+      "case": 794,
+      "exhausted": true
+    },
+    {
+      "case": 795,
+      "paths": 8,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        9,
+        11
+      ],
+      "retained": 8
+    },
+    {
+      "case": 796,
+      "paths": 8,
+      "reset_before": [],
+      "initial_context": [
+        24,
+        27
+      ],
+      "retained": 2
+    },
+    {
+      "case": 797,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        23,
+        12
+      ],
+      "retained": 2
+    },
+    {
+      "case": 798,
+      "paths": 2,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        13,
+        9
+      ],
+      "retained": 2
+    },
+    {
+      "case": 799,
+      "exhausted": true
+    },
+    {
+      "case": 800,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        9,
+        7
+      ],
+      "retained": 1
+    },
+    {
+      "case": 801,
+      "paths": 32,
+      "reset_before": [
+        0,
+        7
+      ],
+      "initial_context": [
+        27,
+        1
+      ],
+      "retained": 1
+    },
+    {
+      "case": 802,
+      "paths": 16,
+      "reset_before": [
+        2,
+        8
+      ],
+      "initial_context": [
+        17,
+        4
+      ],
+      "retained": 16
+    },
+    {
+      "case": 803,
+      "exhausted": true
+    },
+    {
+      "case": 804,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        13,
+        22
+      ],
+      "retained": 1
+    },
+    {
+      "case": 805,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        24,
+        27
+      ],
+      "retained": 1
+    },
+    {
+      "case": 806,
+      "paths": 4,
+      "reset_before": [],
+      "initial_context": [
+        9,
+        15
+      ],
+      "retained": 2
+    },
+    {
+      "case": 807,
+      "paths": 4,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        4,
+        26
+      ],
+      "retained": 4
+    },
+    {
+      "case": 808,
+      "paths": 4,
+      "reset_before": [
+        2,
+        4,
+        7
+      ],
+      "initial_context": [
+        8,
+        14
+      ],
+      "retained": 4
+    },
+    {
+      "case": 809,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        9,
+        15
+      ],
+      "retained": 2
+    },
+    {
+      "case": 810,
+      "paths": 256,
+      "reset_before": [
+        0,
+        4,
+        6,
+        7
+      ],
+      "initial_context": [
+        8,
+        14
+      ],
+      "retained": 1
+    },
+    {
+      "case": 811,
+      "exhausted": true
+    },
+    {
+      "case": 812,
+      "paths": 2,
+      "reset_before": [
+        0,
+        1
+      ],
+      "initial_context": [
+        7,
+        21
+      ],
+      "retained": 1
+    },
+    {
+      "case": 813,
+      "paths": 16,
+      "reset_before": [
+        0,
+        4,
+        6
+      ],
+      "initial_context": [
+        16,
+        8
+      ],
+      "retained": 7
+    },
+    {
+      "case": 814,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        12,
+        29
+      ],
+      "retained": 2
+    },
+    {
+      "case": 815,
+      "paths": 2,
+      "reset_before": [
+        6
+      ],
+      "initial_context": [
+        5,
+        23
+      ],
+      "retained": 2
+    },
+    {
+      "case": 816,
+      "paths": 2,
+      "reset_before": [
+        2,
+        5
+      ],
+      "initial_context": [
+        1,
+        1
+      ],
+      "retained": 2
+    },
+    {
+      "case": 817,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        24,
+        29
+      ],
+      "retained": 1
+    },
+    {
+      "case": 818,
+      "paths": 8,
+      "reset_before": [
+        0,
+        2,
+        3
+      ],
+      "initial_context": [
+        4,
+        29
+      ],
+      "retained": 8
+    },
+    {
+      "case": 819,
+      "paths": 128,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "initial_context": [
+        19,
+        9
+      ],
+      "retained": 2
+    },
+    {
+      "case": 820,
+      "exhausted": true
+    },
+    {
+      "case": 821,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        14,
+        24
+      ],
+      "retained": 1
+    },
+    {
+      "case": 822,
+      "exhausted": true
+    },
+    {
+      "case": 823,
+      "paths": 2,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        4,
+        25
+      ],
+      "retained": 2
+    },
+    {
+      "case": 824,
+      "paths": 16,
+      "reset_before": [
+        2,
+        4
+      ],
+      "initial_context": [
+        13,
+        22
+      ],
+      "retained": 16
+    },
+    {
+      "case": 825,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        13,
+        0
+      ],
+      "retained": 2
+    },
+    {
+      "case": 826,
+      "paths": 256,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "initial_context": [
+        17,
+        12
+      ],
+      "retained": 7
+    },
+    {
+      "case": 827,
+      "paths": 8,
+      "reset_before": [],
+      "initial_context": [
+        16,
+        16
+      ],
+      "retained": 8
+    },
+    {
+      "case": 828,
+      "paths": 8,
+      "reset_before": [
+        0,
+        6
+      ],
+      "initial_context": [
+        18,
+        11
+      ],
+      "retained": 8
+    },
+    {
+      "case": 829,
+      "paths": 32,
+      "reset_before": [
+        1,
+        3,
+        5,
+        8
+      ],
+      "initial_context": [
+        23,
+        17
+      ],
+      "retained": 16
+    },
+    {
+      "case": 830,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        7,
+        5
+      ],
+      "retained": 2
+    },
+    {
+      "case": 831,
+      "paths": 32,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        5
+      ],
+      "initial_context": [
+        11,
+        20
+      ],
+      "retained": 2
+    },
+    {
+      "case": 832,
+      "paths": 8,
+      "reset_before": [
+        0,
+        4
+      ],
+      "initial_context": [
+        6,
+        14
+      ],
+      "retained": 8
+    },
+    {
+      "case": 833,
+      "paths": 32,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "initial_context": [
+        3,
+        5
+      ],
+      "retained": 2
+    },
+    {
+      "case": 834,
+      "paths": 8,
+      "reset_before": [
+        5
+      ],
+      "initial_context": [
+        6,
+        3
+      ],
+      "retained": 1
+    },
+    {
+      "case": 835,
+      "paths": 16,
+      "reset_before": [
+        2,
+        4,
+        8
+      ],
+      "initial_context": [
+        17,
+        1
+      ],
+      "retained": 16
+    },
+    {
+      "case": 836,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        23,
+        18
+      ],
+      "retained": 2
+    },
+    {
+      "case": 837,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        14,
+        4
+      ],
+      "retained": 2
+    },
+    {
+      "case": 838,
+      "paths": 2,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        24,
+        24
+      ],
+      "retained": 2
+    },
+    {
+      "case": 839,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        14,
+        22
+      ],
+      "retained": 1
+    },
+    {
+      "case": 840,
+      "paths": 4,
+      "reset_before": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "initial_context": [
+        17,
+        21
+      ],
+      "retained": 4
+    },
+    {
+      "case": 841,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        3,
+        1
+      ],
+      "retained": 1
+    },
+    {
+      "case": 842,
+      "paths": 1,
+      "reset_before": [],
+      "initial_context": [
+        21,
+        4
+      ],
+      "retained": 1
+    },
+    {
+      "case": 843,
+      "paths": 4,
+      "reset_before": [
+        2
+      ],
+      "initial_context": [
+        17,
+        2
+      ],
+      "retained": 4
+    },
+    {
+      "case": 844,
+      "paths": 4,
+      "reset_before": [
+        1
+      ],
+      "initial_context": [
+        25,
+        5
+      ],
+      "retained": 4
+    },
+    {
+      "case": 845,
+      "exhausted": true
+    },
+    {
+      "case": 846,
+      "paths": 1,
+      "reset_before": [
+        0
+      ],
+      "initial_context": [
+        13,
+        12
+      ],
+      "retained": 1
+    },
+    {
+      "case": 847,
+      "paths": 32,
+      "reset_before": [],
+      "initial_context": [
+        29,
+        13
+      ],
+      "retained": 2
+    },
+    {
+      "case": 848,
+      "paths": 2,
+      "reset_before": [
+        0,
+        2
+      ],
+      "initial_context": [
+        1,
+        0
+      ],
+      "retained": 2
+    },
+    {
+      "case": 849,
+      "paths": 2,
+      "reset_before": [],
+      "initial_context": [
+        27,
+        3
+      ],
+      "retained": 2
+    }
+  ],
+  "scope": "Bothsigns,finite/periodic,reset0/all/subsets/none,arbitrarycontexts,boundarytiming,exhaustion,allties,zero-keys,floatweights,retain1..33;independentcomplete-maskstates/scores."
+}

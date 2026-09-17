@@ -1,0 +1,5 @@
+# Fair continuous baseline for H3 (before inspecting new A07 actual outputs)
+
+A07 joins pages1/2 in one exact conditional suffix call. Earlier A04continuous baselines instead retain only16middle-page alternatives perprefix before decodingpage2. Their bounded forest can lose a better joint suffix. Comparing newmajor-reset scores only with that forest would mix clock policy and search-horizon changes.
+
+Therefore run the same A07exact joint-suffix procedure with an empty reset set, under exactly the same grids/models/ciphers/prefixcut/scorecontext. Save separately in A07-continuous; do not overwrite A01–A06 or count this as newkeyspace. Apply to the same32plants, eightactual cases and152B05null inputs. Compare major reset versus continuous paired within this equal-search setup; preserve previous forestresults and quantify any searchgap separately. This is the sameexisting continuous hypothesis and justified horizon correction, not a fourthproceduralfamily or newvariant ladder. NewA07actual output files existed when this addendum was written but had not yet been inspected by A; earlierA01–A06results were known.

@@ -44,3 +44,13 @@ A verified all30within-page joins (8explicit separators,22continuous) without ca
 Review03 independently confirmed B08 dominance and C04actual rank.89. B worker paused without subprocesses while fresh reviewer uses slot. Coordinator corrected a new-P02 summary selector that would combine A04/A05 batches on regeneration; preserved failure/source version and proved original published-result files byte-identical after fix. This does not alter inherited research code.
 
 First reviewed publication checkpoint being assembled from settled evidence; active runs excluded. The section packet is v3: original2 DOES have top/bottom loops but no crossed staffs. Both earlier mistaken descriptions are retained; numeric inputs unchanged.
+
+## Fourth checkpoint — first publication and construction gap
+
+Reviewed checkpoint1627fbb3d06557199b91d9bf1fff71183e63ee75 pushed toorigin/master. Fixed deadline unchanged. A06 removes both .05fullscore-tail extremes: .10under sharedFsite/equality comparators; branchclosed. C06 actualrank.60/gain.85, no coherentoutput. C07all45eligiblepages/411periodfeatures composite rank.535, peakoriginal8/k2alreadysearched inC01. No selectedlocalrank treatedasglobalcandidate. Short-sourcecontrol limitations retained; all8length249plants rank.005.
+
+A07major-mark reset arithmetic/core/adapter independently checked inreview04. A correctly identified and froze correction to comparison horizon before inspecting actuals: emptyreset baseline now uses SAMEexactjoint suffix procedure; oldboundedforests preserved. Aftercurrentpairedactual/null batch, A slot transitions to freshreview of feedback-reset algorithms.
+
+Next concrete gap: same shared feedback seed resetting at SAMEverifiedmajor marks (A’s third/finalhypothesis), unlike prior uninterruptedfeedback or fixedkeyreset. C08literalF implementation partitions fixedk2seedspace in29chunks, retaining seedidentity acrossresets; no silent pruning or automatick3extension. Formerreview01nativeworker now IMPLEMENTS structured no-F counterpart in decoder/reset-feedback; it cannot review its own newcode. Conditionalx0 may absorb cross-reset scorecouplings into unary terms for existingcyclicbound. A willfreshreview both beforeactual. Native runtime rejected oldBreactivation/newagent creation; reusingexistingcompletednative slot worked. Noadditionalcontroller.
+
+Root bounded visualcalibration solved56 gave22/25runes afterfirstrowfamiliarisation; errors A/AE,O/A,IA/EA retained. It doesnotjustify broad independent glyphreread, and noinputrepair was made.
