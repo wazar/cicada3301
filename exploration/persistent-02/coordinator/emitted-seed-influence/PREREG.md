@@ -1,0 +1,7 @@
+# Seed influence under a fixed interruption path
+
+C11 inserts literal F into emitted feedback history. Unlike uninterrupted Q12, its seed-error dynamics may lose rank. This diagnostic examines fixed, explicitly supplied masks; it does not search masks, score plaintext, or claim a puzzle construction.
+
+Represent every emitted rune as an affine function of the k seed entries over Z/29. Before k normal emissions, a normal rune subtracts its corresponding seed coordinate. Afterwards it subtracts the sum of the last k emitted plaintext functions. Literal F emits the constant zero, and advances history but not seed phase. Once seed phase is complete, rank of the history coefficient matrix cannot increase. Rank zero implies every later plaintext is independent of the original seed for the same future ciphertext and mask. Prior to seed completion, unseen seed coordinates can still enter, so zero history rank alone is insufficient.
+
+Compare the old normal-only history convention. Validate affine output against scalar decoding over exhaustive small prime-field seeds, including early literals, all literals, adjacent and separated literals, and boundaries irrelevant to arithmetic. Freeze before reading real C11 leaders. Then inspect retained real paths if available: count effective seed dimension by position, earliest mature rank zero, and final rank. This qualifies seed identifiability only; no new keys, input edits, model fits, or plaintext claims.

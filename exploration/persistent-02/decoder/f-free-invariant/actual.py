@@ -1,0 +1,8 @@
+import pathlib,json,hashlib
+from invariant import statistic,family
+O=pathlib.Path(__file__).resolve().parent;R=O.parents[3];H=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
+def main():
+ assert not (O/'actual.json').exists();assert (O/'REVIEW-CLEARANCE.md').exists();frozen=json.loads((O/'inputs.json').read_text());assert all(H(R/p)==h for p,h in frozen['source_pins'].items());power=json.loads((O/'power-summary.json').read_text());assert power['proceed_to_actual'] and all(x['passing']>=6 and x['cases']==8 for x in power['gate'].values());src=R/'exploration/persistent-02/coordinator/histogram-reset/panels.json';data=json.loads(src.read_text());panels=data['cases'][0]['panels'];assert len(panels)==20 and all(len(c)==716 for c in panels);rows=[[statistic(c,k) for k in (2,3)] for c in panels];result=family(rows)
+ for j,k in enumerate((2,3)):assert all(row[j]['denominator']==frozen['actual_geometry']['by_k'][str(k)]['ordered_pairs'] for row in rows)
+ record=dict(source_panels_sha256=H(src),inputs_sha256=H(O/'inputs.json'),power_summary_sha256=H(O/'power-summary.json'),code_sha256=H(O/'invariant.py'),rows=rows,**result,scope='No English scorer; withinONEcipher-F-free run/phase collision only; samefinite k2/3family under bothno-reset literal-historyconventions. ExistingR02histogram/Fsite/equalitymask parallelpanels reused. Retrospective conditional diagnostic, not globalprobability or language identification.');(O/'actual.json').write_text(json.dumps(record,separators=(',',':'))+'\n');print(json.dumps({k:v for k,v in record.items() if k!='rows'}))
+if __name__=='__main__':main()

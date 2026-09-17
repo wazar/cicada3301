@@ -19,3 +19,19 @@ Update09:36UTC: BOTH C08 actual runs and summaries complete. Do not rerun. Full/
 
 
 C10 completed09:44UTC: fixed canonical DIVINITY8/circumference13, literal-F SAMEmajor resets; no unknown longer-seed widening. Independent A review cleared. Controls15/16exact each model, distinct scoring misses. P03 circumference coarse fullrank.05/tail.10, complementary.45/.50; no coherent output, ranking anomaly retained. Fullfamily ranks P03.05/.10 vs complementary.70/.85.240fixed-seed solves complete/no refusal, all files stable. See C10/REPORT.md. No active feedback job.
+
+Update10:10UTC C11 active: emitted_feedback.py exact new construction includes literal F in last-k emitted history but not normal seed clock, no resets k2/3. C11-PREREG.md frozen; all32 sameC05 source plants reencrypted. P03 exact28/32, complementary31/32, allcontrols complete/no refusal. Fresh A arithmetic/source/actual-adapter review cleared. Current C11-actual-p03 process covers20panels full/prefix/carry. Do not duplicate. Afterwards execute same emitted_actual.py complementary0..19 through logger, then summary p03/complementary. All fulloutputs/skips perpanel. C11 report pending actual. Parent review01 independently handles F-free-run scorer-free invariant, not duplicate.
+
+Update10:14UTC C11 COMPLETE, no active feedback process. Do not repeat either model. Summaries C11-actual/{p03,complementary}-summary.json; bothfamilyfull1.0/prefixselectedtail.95. All8leaders read incoherent; allalternatives retained. C11/REPORT.md final inclsource/control/scoring/seed-influence qualifications. Parent review01 handles F-free-run invariant separately; root coordinating next substantive task. Fixeddeadline16:15:06Z unchanged.
+
+## PAUSED checkpoint —10:19UTC
+
+Coordinator reported externally paused goal and instructed STOP new work. No feedback research subprocess remains running: C13-p03-source0 finished exit0 before the pause instruction; no later test was launched. Do not resume until coordinator/owner unpauses. Original deadline2026-09-17T16:15:06Z remains unchanged; mission not complete.
+
+Latest C13 capability-only result: frozen four independent k13 seeds in C13/plants.json. Only Guest716/source0 under P03 has been run, both prefix249 and full716. Both recover the exact planted seed/plaintext; prefix winner also gives0 errors on unchanged467 continuation. Prefixgap0, fullgap4.547473508864641e−13, both certified within1e−10, exhausted with0popped nodes (initial841 conditioned incumbents and suffix bounds suffice). Solve times .149/.145sec; peak178356224RSS bytes. This is ONE source/model pair, not proof the full capability panel passes. No actual puzzle k13 search was attempted. Remaining P03 source1/2/3 and complementary source0/1/2/3 unrun. RSS-cap review request was sent to A; check its status before interpreting new cap behavior.
+
+After explicit unpause, next exact command (one source/model pair, two control solves):
+```sh
+.venv/bin/python exploration/persistent-02/run_logged.py --owner exploration/persistent-02/feedback --label C13-p03-source1 --seconds 600 --input exploration/persistent-02/feedback/C13/plants.json -- .venv/bin/python exploration/persistent-02/feedback/reference_capability.py p03 1
+```
+Subsequent commands replace label/source argument for p03 2, p03 3, complementary0–3. Per-length result files skip completed fits. Do not rerun source0 as new evidence or move directly to actual search. Same fixed deadline and caps.

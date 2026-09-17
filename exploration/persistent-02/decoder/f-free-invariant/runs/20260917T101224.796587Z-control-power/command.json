@@ -1,0 +1,64 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/decoder/f-free-invariant/power.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "6991fd7f4ed59552560ec4bac498470d76a788d7",
+  "started_utc": "2026-09-17T10:12:24.807688+00:00",
+  "timeout_seconds": 120,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/decoder/f-free-invariant/checks.py",
+      "exists": true,
+      "bytes": 1703,
+      "sha256": "e586e34f06a3c0cdc5878f0aacedd11049f8f55b7fb80153a9e1dc3d2ca85e5a"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/f-free-invariant/freeze.py",
+      "exists": true,
+      "bytes": 2420,
+      "sha256": "46277459512117e86889f3997cc354023ea1e8fb8aeff61c056dca562c019261"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/f-free-invariant/inputs.json",
+      "exists": true,
+      "bytes": 767460,
+      "sha256": "4b471e7a5364863dbbdc3036331c159274419849eeac4c93ec00fe3c21a6cd75"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/f-free-invariant/invariant.py",
+      "exists": true,
+      "bytes": 1334,
+      "sha256": "a908051e4661b029a62608d5eb69968add955e04cad6b41142422a5d20c3e150"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/f-free-invariant/power.py",
+      "exists": true,
+      "bytes": 1867,
+      "sha256": "676a9b66cc3f51f4189d3c9791166fd367b1752e8fbf157aeec22201e8c27fe0"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 54502,
+  "finished_utc": "2026-09-17T10:12:25.209720+00:00",
+  "duration_seconds": 0.4017598330101464
+}

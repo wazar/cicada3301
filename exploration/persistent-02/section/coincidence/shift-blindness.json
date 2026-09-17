@@ -1,0 +1,46 @@
+{
+  "passed": true,
+  "formula": "2 L (normal_count[-sign mod29] - normal_count[0]) per segment",
+  "cases": [
+    {
+      "index": 8,
+      "true_cell": "totients-of-primes:1",
+      "shifted_cell": "primes:1",
+      "same_literal_mask": true,
+      "normal_shift": 1,
+      "errors": 508,
+      "collision_gain": 4,
+      "formula_gain": 4
+    },
+    {
+      "index": 13,
+      "true_cell": "totients-of-primes:-1",
+      "shifted_cell": "primes:-1",
+      "same_literal_mask": true,
+      "normal_shift": -1,
+      "errors": 703,
+      "collision_gain": 48,
+      "formula_gain": 48
+    },
+    {
+      "index": 14,
+      "true_cell": "totients-of-primes:-1",
+      "shifted_cell": "primes:-1",
+      "same_literal_mask": true,
+      "normal_shift": -1,
+      "errors": 704,
+      "collision_gain": 54,
+      "formula_gain": 54
+    },
+    {
+      "index": 15,
+      "true_cell": "totients-of-primes:-1",
+      "shifted_cell": "primes:-1",
+      "same_literal_mask": true,
+      "normal_shift": -1,
+      "errors": 700,
+      "collision_gain": 76,
+      "formula_gain": 76
+    }
+  ]
+}

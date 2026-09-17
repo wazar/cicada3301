@@ -1,0 +1,18 @@
+{
+  "model": "complementary",
+  "cases": 32,
+  "exact": 31,
+  "errors": [
+    {
+      "index": 20,
+      "id": "fresh-shelley-0",
+      "k": 2,
+      "selected_rune_errors": 1,
+      "truth_gap": 1.4615590575572242,
+      "truth_in_retained": true
+    }
+  ],
+  "peak_states": 25230,
+  "seconds": 39.36814796098042,
+  "peak_rss": 141737984
+}

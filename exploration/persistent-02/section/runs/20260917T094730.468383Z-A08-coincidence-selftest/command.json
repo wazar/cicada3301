@@ -1,0 +1,178 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/section/coincidence/selftest.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "0562dac4a22124958a423ff9322dbbaf8a1147f6",
+  "started_utc": "2026-09-17T09:47:30.482293+00:00",
+  "timeout_seconds": 90,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    },
+    {
+      "path": "exploration/persistent-02/section/a01.py",
+      "exists": true,
+      "bytes": 6238,
+      "sha256": "803ab5473f763e8bb01ce43b6abcb3ce498b466165fcbc97f358c15a33568419"
+    },
+    {
+      "path": "exploration/persistent-02/section/a02.py",
+      "exists": true,
+      "bytes": 3464,
+      "sha256": "c5b8cf4295603c16ccb7f73663deeddd1135007bc5381591c64f340924796a34"
+    },
+    {
+      "path": "exploration/persistent-02/section/a02_diagnose.py",
+      "exists": true,
+      "bytes": 2302,
+      "sha256": "747fa5f6f6502704a525de01760c7fd48601b0f78c5721b8ecdb2818a6644cff"
+    },
+    {
+      "path": "exploration/persistent-02/section/a05.py",
+      "exists": true,
+      "bytes": 2139,
+      "sha256": "34b5763845d12b10f58ff826c436c3f65a9c0cd11629fc62d0cfbe6d2354ee8a"
+    },
+    {
+      "path": "exploration/persistent-02/section/a06.py",
+      "exists": true,
+      "bytes": 2940,
+      "sha256": "9b6c243268769535b5d4dc87ef4716490afbca99e3acd6094463ac95548ff500"
+    },
+    {
+      "path": "exploration/persistent-02/section/a07.py",
+      "exists": true,
+      "bytes": 9136,
+      "sha256": "ef914d51f187c8c21b799d2e6d23bb22b2e6247113ad17368ba15d40cfd9064e"
+    },
+    {
+      "path": "exploration/persistent-02/section/alt_selection.py",
+      "exists": true,
+      "bytes": 1419,
+      "sha256": "878b8eb7ab5d6e244d0032320f7539625748f5d3f856a24c87d42a56cf452d94"
+    },
+    {
+      "path": "exploration/persistent-02/section/check_joins.py",
+      "exists": true,
+      "bytes": 1316,
+      "sha256": "bd6a153008a1d2f30267eaaf889020d0f3557c3185de8d25310b861ee6bf586a"
+    },
+    {
+      "path": "exploration/persistent-02/section/check_marked_exact.py",
+      "exists": true,
+      "bytes": 2469,
+      "sha256": "3b523e32f39d8852af008f9588e62976d80e08de42b83c57cf4970f2d4eac88a"
+    },
+    {
+      "path": "exploration/persistent-02/section/checkpoint_metadata.py",
+      "exists": true,
+      "bytes": 1534,
+      "sha256": "a4d8fa0f30f53ba7c540fb07f30236a88d501daa10fbe3bfb4928dc2b4a72536"
+    },
+    {
+      "path": "exploration/persistent-02/section/coincidence/core.py",
+      "exists": true,
+      "bytes": 3708,
+      "sha256": "58c38dbe9161898bd5e9e2927a2c5623647948e36774f1a490ac7a0b6e15c53d"
+    },
+    {
+      "path": "exploration/persistent-02/section/coincidence/selftest.py",
+      "exists": true,
+      "bytes": 2080,
+      "sha256": "0b0901914ab1f27dd01835c1fdce70f953cd6424eea7af2078cc25582929f9a8"
+    },
+    {
+      "path": "exploration/persistent-02/section/forest.py",
+      "exists": true,
+      "bytes": 5445,
+      "sha256": "5aaa6dc6137455b755116b5cb438de17aa6847d346e998c7a1bfbb807172ce18"
+    },
+    {
+      "path": "exploration/persistent-02/section/freeze_packet.py",
+      "exists": true,
+      "bytes": 5083,
+      "sha256": "304485305895a3963cbd3fc6ed0735f8540aa6d23fe5ea064cf8788addc5108c"
+    },
+    {
+      "path": "exploration/persistent-02/section/inspection_crops.py",
+      "exists": true,
+      "bytes": 1113,
+      "sha256": "b9f20b30f004b244b65c386e7cd1c7e8b47103cf6663bd43ece59ebb5e47ac4d"
+    },
+    {
+      "path": "exploration/persistent-02/section/major_mark_crops.py",
+      "exists": true,
+      "bytes": 1144,
+      "sha256": "7f7fb87af40d702b8ceb2eda0ef57f134d9cf04d4c35363cba9ef7c30b7e21e1"
+    },
+    {
+      "path": "exploration/persistent-02/section/marked_exact.py",
+      "exists": true,
+      "bytes": 3566,
+      "sha256": "ec4bc3dc62812b97e916af0debf90600054329dc4f8824f3091f75c4b4ede41c"
+    },
+    {
+      "path": "exploration/persistent-02/section/remaining_joins.py",
+      "exists": true,
+      "bytes": 1815,
+      "sha256": "8ea954cd2fff85f84921bc174492fd1935b62ed341c986ea4c01972cf2b0f6cc"
+    },
+    {
+      "path": "exploration/persistent-02/section/summarize_a01.py",
+      "exists": true,
+      "bytes": 1352,
+      "sha256": "91da3eae4c8eeda77aa650cf2978f68ff51c8206dbcfabe57c54bf54a3d2d47e"
+    },
+    {
+      "path": "exploration/persistent-02/section/summarize_a02.py",
+      "exists": true,
+      "bytes": 1352,
+      "sha256": "f7e3d1bce39bfa5e3f6b210a8670efaaacd7a4a7d632b0d0e08028cf5ff3814f"
+    },
+    {
+      "path": "exploration/persistent-02/section/summarize_a05_forest.py",
+      "exists": true,
+      "bytes": 2648,
+      "sha256": "8b960e05abe18b0a51a0aa8381fbdc4cfc0f84aab6861980f9c5590c10e0e063"
+    },
+    {
+      "path": "exploration/persistent-02/section/summarize_a06.py",
+      "exists": true,
+      "bytes": 1691,
+      "sha256": "bae80a32b124d6629cfc23e36b8739931504408a81586d503549cd8b3199cb0f"
+    },
+    {
+      "path": "exploration/persistent-02/section/summarize_a07.py",
+      "exists": true,
+      "bytes": 2632,
+      "sha256": "4ad3d6ebb8bdc5a951e23ef092ec0edcf26f7c19c3d0e43bf071b80f2da282ef"
+    },
+    {
+      "path": "exploration/persistent-02/section/summarize_forest.py",
+      "exists": true,
+      "bytes": 2622,
+      "sha256": "8c4f2ab6b5382f34a60b8547ce8c38cb76024254aa0548d97c63a39f2c5ca37b"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 52027,
+  "finished_utc": "2026-09-17T09:47:30.553552+00:00",
+  "duration_seconds": 0.07091470799787203
+}

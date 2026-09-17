@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/decoder/f-free-invariant/freeze.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "6991fd7f4ed59552560ec4bac498470d76a788d7",
+  "started_utc": "2026-09-17T10:11:20.430027+00:00",
+  "timeout_seconds": 300,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/decoder/f-free-invariant/PREREG.md",
+      "exists": true,
+      "bytes": 3239,
+      "sha256": "7f089e46c44aa43bd4f8c1450961de3474755397429eb797eea750574d36542a"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/f-free-invariant/checks.py",
+      "exists": true,
+      "bytes": 1525,
+      "sha256": "c962d341015e3c1163c8f398fd5c1154ad31030e85e7533f037bca7ce1fd092d"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/f-free-invariant/freeze.py",
+      "exists": true,
+      "bytes": 2420,
+      "sha256": "46277459512117e86889f3997cc354023ea1e8fb8aeff61c056dca562c019261"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/f-free-invariant/invariant.py",
+      "exists": true,
+      "bytes": 1311,
+      "sha256": "c9f4c888a372ac510a5cb75d1b719293f0b6d78d82a8421d07648d4c1c6eed45"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 54339,
+  "finished_utc": "2026-09-17T10:11:47.280281+00:00",
+  "duration_seconds": 26.849963250002475
+}

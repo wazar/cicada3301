@@ -1,0 +1,42 @@
+{
+  "model": "p03",
+  "cases": 32,
+  "exact": 28,
+  "errors": [
+    {
+      "index": 9,
+      "id": "fresh-guest-0",
+      "k": 3,
+      "selected_rune_errors": 1,
+      "truth_gap": 0.6031942798961154,
+      "truth_in_retained": false
+    },
+    {
+      "index": 20,
+      "id": "fresh-shelley-0",
+      "k": 2,
+      "selected_rune_errors": 1,
+      "truth_gap": 1.2528996906327166,
+      "truth_in_retained": true
+    },
+    {
+      "index": 22,
+      "id": "fresh-shelley-1",
+      "k": 2,
+      "selected_rune_errors": 2,
+      "truth_gap": 1.340105680050101,
+      "truth_in_retained": false
+    },
+    {
+      "index": 30,
+      "id": "fresh-blake-2",
+      "k": 2,
+      "selected_rune_errors": 6,
+      "truth_gap": 0.005629413415135787,
+      "truth_in_retained": false
+    }
+  ],
+  "peak_states": 25230,
+  "seconds": 40.587475124993944,
+  "peak_rss": 141721600
+}

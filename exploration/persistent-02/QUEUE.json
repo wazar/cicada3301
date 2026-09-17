@@ -1,13 +1,11 @@
 {
   "deadline_utc": "2026-09-17T16:15:06Z",
-  "updated_utc": "2026-09-17T10:06:59.217594+00:00",
-  "running": {
-    "C": "C11 emitted-plaintext history literal-F feedback exact DP and controls",
-    "A_slot": "fresh C11 arithmetic and capability review",
-    "B_slot": "available after R02 publication"
-  },
+  "updated_utc": "2026-09-17T10:19:16.165244+00:00",
+  "running": {},
   "paused": {
-    "B": "B01\u2013B08 complete and independently reviewed; available for justified follow-up"
+    "C13": "reference-length capability partially complete; no real k13 search authorized",
+    "F02": "forced-doublet lowerbound follow-up interrupted",
+    "coordinator": "app get_goal returned paused; no new research until resumed"
   },
   "ready": [],
   "completed": [
@@ -31,7 +29,11 @@
     "C09 distributed commonperiod aggregate",
     "C10 fixed source seed literalFreset",
     "R02 histogram-conditioned sensitivity",
-    "A08 coincidence capability failed; actual not run"
+    "A08 coincidence capability failed; actual not run",
+    "C11 emitted-history exact feedback comparisons",
+    "F01 F-free collision invariant actual rank .95",
+    "fixed-mask seed influence"
   ],
-  "publication_commit": "0562dac4a22124958a423ff9322dbbaf8a1147f6"
+  "publication_commit": "6991fd7f4ed59552560ec4bac498470d76a788d7",
+  "status": "paused_by_external_goal_state"
 }

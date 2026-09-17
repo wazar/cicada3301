@@ -47,3 +47,17 @@ Core and plants cleared: 140 independent full-mask cases cover k1/2/8/13, alphab
 ### R02 final aggregate/reuse check
 
 `histogram-summary-review.json` independently reconstructs all 400 panel selections and fit/continuation rank counts from the 1,600 preserved cell records, including lower/upper bound intervals and conservative ties. All sixteen reused actual records match every original field and SHA-256; 1,584 cells are new. No optimization was rerun. This clears the final aggregation for publication without changing the sampler's adaptive interpretation or adding draws.
+
+## C11 emitted-history feedback
+
+Core and adapter cleared for the declared k2/3/no-reset construction after author capability assessment. Seed phase counts normal emissions; the history includes every emitted rune, including literal F. These are separate state variables. Independent enumeration covered170 cases (100 unknown complete-seed×mask cases and70 fixed-seed carried-state cases), including history filled before seed completion, arbitrary context/boundaries, integer/float weights, blocks1/4, and resource refusal. Every retained path and maximum matches the scalar recurrence. `emitted-review.json` preserves cases.
+
+All32 frozen plants retain the exact C05 source truth/seed/literal mask and change only ciphertext plus transition diagnostics. Independent encryption and64 opposite-construction decode/error checks match. All16 representative plant00 returned paths forward-encrypt and reproduce frozen-table scores. `emitted-plant-review.json` records this targeted check. This is a material transition change, so prior excluded-literal-history negatives do not cover it.
+
+`emitted_actual.py` source review confirms the prefix249 carry uses last-k emitted plaintext, normal-only seed phase and continuous language context; no major resets are applied. Full family max and continuation after prefix-only k selection are separate, with deterministic k tie order. Combined outputs forward-check and scalar scores add correctly. Any resource refusal blocks complete rank aggregation. No universal perfect language recovery gate is imposed by this arithmetic review; capability results must remain explicit.
+
+### Fixed-mask seed influence
+
+Coordinator affine influence diagnostic cleared before reading real C11 leaders. Independent coefficients came from zero-seed and basis-seed scalar decodes; independent modular rank used all minors with permutation determinants, not the implementation's elimination routine. The crossed field/dimension panel covers240 old/new-construction cases across q2/3/5/29 and k1–4, with sampled/exhaustive seed evaluation and mature-zero suffix invariance. `seed-influence-review.json` preserves this panel; an initial correlated field/dimension panel is also retained separately.
+
+After seed phase completes, a normal emitted-history step is an invertible companion transformation (the departing oldest coefficient is−1). Appending a literal zero can only reduce the coefficient row span. Thus completed-phase rank cannot rise, and rank zero implies later seed independence for a fixed future ciphertext/mask. Before completion, unseen seed coordinates may enter, so history rank zero alone is insufficient. Under old normal-only history, literal F leaves history unchanged and normal steps retain full rank after completion. This qualifies seed identifiability for supplied masks; it does not search masks or establish plaintext.

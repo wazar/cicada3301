@@ -1,0 +1,411 @@
+{
+  "controls": 16,
+  "complete": 15,
+  "unresolved": 1,
+  "true_key_full_rank1": 10,
+  "true_key_prefix_rank1": 10,
+  "truth_full_best": 4,
+  "truth_prefix_best": 8,
+  "truth_continuation_best": 4,
+  "rows": [
+    {
+      "index": 0,
+      "id": "periodic-lp-0_welcome",
+      "family": "periodic",
+      "outcome": "COMPLETE",
+      "true_key_full_rank": 1,
+      "true_key_prefix_rank": 1,
+      "known_key_truth_full_rank": 5,
+      "known_key_truth_prefix_rank": 1,
+      "truth_full_best": false,
+      "truth_prefix_best": true,
+      "truth_continuation_best": false,
+      "prefix_tied_paths": 1,
+      "prefix_future_states": 1,
+      "full_representatives": [
+        {
+          "cell": "KOAN-CIRCUMFERENCE:7:1",
+          "errors": 18,
+          "F_count": 14,
+          "tie_product": 4
+        }
+      ],
+      "truth_F_count": 11,
+      "peak_process_rss_bytes": null
+    },
+    {
+      "index": 1,
+      "id": "periodic-lp-jpg107-167",
+      "family": "periodic",
+      "outcome": "COMPLETE",
+      "true_key_full_rank": 1,
+      "true_key_prefix_rank": 1,
+      "known_key_truth_full_rank": 1,
+      "known_key_truth_prefix_rank": 1,
+      "truth_full_best": true,
+      "truth_prefix_best": true,
+      "truth_continuation_best": true,
+      "prefix_tied_paths": 1,
+      "prefix_future_states": 1,
+      "full_representatives": [
+        {
+          "cell": "KOAN-CIRCUMFERENCE:7:-1",
+          "errors": 0,
+          "F_count": 2,
+          "tie_product": 1
+        }
+      ],
+      "truth_F_count": 2,
+      "peak_process_rss_bytes": null
+    },
+    {
+      "index": 2,
+      "id": "periodic-lp-p56_an_end",
+      "family": "periodic",
+      "outcome": "COMPLETE",
+      "true_key_full_rank": 1,
+      "true_key_prefix_rank": 1,
+      "known_key_truth_full_rank": 1,
+      "known_key_truth_prefix_rank": 1,
+      "truth_full_best": true,
+      "truth_prefix_best": true,
+      "truth_continuation_best": true,
+      "prefix_tied_paths": 1,
+      "prefix_future_states": 1,
+      "full_representatives": [
+        {
+          "cell": "KOAN-CIRCUMFERENCE:4:1",
+          "errors": 0,
+          "F_count": 1,
+          "tie_product": 2
+        }
+      ],
+      "truth_F_count": 1,
+      "peak_process_rss_bytes": null
+    },
+    {
+      "index": 3,
+      "id": "periodic-lp-p57_parable",
+      "family": "periodic",
+      "outcome": "COMPLETE",
+      "true_key_full_rank": 2,
+      "true_key_prefix_rank": 13,
+      "known_key_truth_full_rank": 6,
+      "known_key_truth_prefix_rank": 1,
+      "truth_full_best": false,
+      "truth_prefix_best": false,
+      "truth_continuation_best": false,
+      "prefix_tied_paths": 1,
+      "prefix_future_states": 1,
+      "full_representatives": [
+        {
+          "cell": "WELCOME-DIVINITY:2:-1",
+          "errors": 95,
+          "F_count": 4,
+          "tie_product": 1
+        }
+      ],
+      "truth_F_count": 3,
+      "peak_process_rss_bytes": null
+    },
+    {
+      "index": 4,
+      "id": "periodic-fresh-guest-2",
+      "family": "periodic",
+      "outcome": "COMPLETE",
+      "true_key_full_rank": 1,
+      "true_key_prefix_rank": 1,
+      "known_key_truth_full_rank": 5224,
+      "known_key_truth_prefix_rank": 4,
+      "truth_full_best": false,
+      "truth_prefix_best": false,
+      "truth_continuation_best": false,
+      "prefix_tied_paths": 1,
+      "prefix_future_states": 1,
+      "full_representatives": [
+        {
+          "cell": "WELCOME-DIVINITY:3:1",
+          "errors": 79,
+          "F_count": 26,
+          "tie_product": 4
+        }
+      ],
+      "truth_F_count": 26,
+      "peak_process_rss_bytes": null
+    },
+    {
+      "index": 5,
+      "id": "periodic-fresh-mill-2",
+      "family": "periodic",
+      "outcome": "COMPLETE",
+      "true_key_full_rank": 1,
+      "true_key_prefix_rank": 1,
+      "known_key_truth_full_rank": 1,
+      "known_key_truth_prefix_rank": 1,
+      "truth_full_best": true,
+      "truth_prefix_best": true,
+      "truth_continuation_best": true,
+      "prefix_tied_paths": 1,
+      "prefix_future_states": 1,
+      "full_representatives": [
+        {
+          "cell": "KOAN-CIRCUMFERENCE:12:1",
+          "errors": 2,
+          "F_count": 19,
+          "tie_product": 4
+        }
+      ],
+      "truth_F_count": 19,
+      "peak_process_rss_bytes": null
+    },
+    {
+      "index": 6,
+      "id": "periodic-fresh-shelley-2",
+      "family": "periodic",
+      "outcome": "COMPLETE",
+      "true_key_full_rank": 1,
+      "true_key_prefix_rank": 1,
+      "known_key_truth_full_rank": 10,
+      "known_key_truth_prefix_rank": 2,
+      "truth_full_best": false,
+      "truth_prefix_best": false,
+      "truth_continuation_best": false,
+      "prefix_tied_paths": 1,
+      "prefix_future_states": 1,
+      "full_representatives": [
+        {
+          "cell": "WELCOME-DIVINITY:4:1",
+          "errors": 19,
+          "F_count": 20,
+          "tie_product": 1
+        }
+      ],
+      "truth_F_count": 18,
+      "peak_process_rss_bytes": null
+    },
+    {
+      "index": 7,
+      "id": "periodic-fresh-blake-2",
+      "family": "periodic",
+      "outcome": "COMPLETE",
+      "true_key_full_rank": 1,
+      "true_key_prefix_rank": 1,
+      "known_key_truth_full_rank": 285,
+      "known_key_truth_prefix_rank": 1,
+      "truth_full_best": false,
+      "truth_prefix_best": true,
+      "truth_continuation_best": false,
+      "prefix_tied_paths": 1,
+      "prefix_future_states": 1,
+      "full_representatives": [
+        {
+          "cell": "KOAN-CIRCUMFERENCE:6:1",
+          "errors": 19,
+          "F_count": 23,
+          "tie_product": 2
+        }
+      ],
+      "truth_F_count": 24,
+      "peak_process_rss_bytes": 217989120
+    },
+    {
+      "index": 8,
+      "id": "finite-lp-0_welcome",
+      "family": "finite",
+      "outcome": "COMPLETE",
+      "true_key_full_rank": 2,
+      "true_key_prefix_rank": 2,
+      "known_key_truth_full_rank": 1,
+      "known_key_truth_prefix_rank": 1,
+      "truth_full_best": false,
+      "truth_prefix_best": false,
+      "truth_continuation_best": false,
+      "prefix_tied_paths": 1,
+      "prefix_future_states": 1,
+      "full_representatives": [
+        {
+          "cell": "primes:1",
+          "errors": 509,
+          "F_count": 12,
+          "tie_product": 2
+        }
+      ],
+      "truth_F_count": 11,
+      "peak_process_rss_bytes": 217989120
+    },
+    {
+      "index": 9,
+      "id": "finite-lp-jpg107-167",
+      "family": "finite",
+      "outcome": "COMPLETE",
+      "true_key_full_rank": 1,
+      "true_key_prefix_rank": 1,
+      "known_key_truth_full_rank": 2,
+      "known_key_truth_prefix_rank": 1,
+      "truth_full_best": false,
+      "truth_prefix_best": true,
+      "truth_continuation_best": false,
+      "prefix_tied_paths": 2,
+      "prefix_future_states": 2,
+      "full_representatives": [
+        {
+          "cell": "primes:-1",
+          "errors": 10,
+          "F_count": 4,
+          "tie_product": 1
+        },
+        {
+          "cell": "totients-of-primes:-1",
+          "errors": 319,
+          "F_count": 5,
+          "tie_product": 1
+        }
+      ],
+      "truth_F_count": 2,
+      "peak_process_rss_bytes": 217989120
+    },
+    {
+      "index": 10,
+      "id": "finite-lp-p56_an_end",
+      "family": "finite",
+      "outcome": "COMPLETE",
+      "true_key_full_rank": 1,
+      "true_key_prefix_rank": 1,
+      "known_key_truth_full_rank": 1,
+      "known_key_truth_prefix_rank": 1,
+      "truth_full_best": true,
+      "truth_prefix_best": true,
+      "truth_continuation_best": true,
+      "prefix_tied_paths": 2,
+      "prefix_future_states": 2,
+      "full_representatives": [
+        {
+          "cell": "primes:-1",
+          "errors": 0,
+          "F_count": 1,
+          "tie_product": 1
+        },
+        {
+          "cell": "totients-of-primes:-1",
+          "errors": 84,
+          "F_count": 1,
+          "tie_product": 1
+        }
+      ],
+      "truth_F_count": 1,
+      "peak_process_rss_bytes": 217989120
+    },
+    {
+      "index": 11,
+      "id": "finite-lp-p57_parable",
+      "family": "finite",
+      "outcome": "COMPLETE",
+      "true_key_full_rank": 1,
+      "true_key_prefix_rank": 1,
+      "known_key_truth_full_rank": 2,
+      "known_key_truth_prefix_rank": 1,
+      "truth_full_best": false,
+      "truth_prefix_best": true,
+      "truth_continuation_best": false,
+      "prefix_tied_paths": 2,
+      "prefix_future_states": 2,
+      "full_representatives": [
+        {
+          "cell": "primes:1",
+          "errors": 94,
+          "F_count": 1,
+          "tie_product": 1
+        },
+        {
+          "cell": "totients-of-primes:1",
+          "errors": 4,
+          "F_count": 2,
+          "tie_product": 1
+        }
+      ],
+      "truth_F_count": 3,
+      "peak_process_rss_bytes": 217989120
+    },
+    {
+      "index": 12,
+      "outcome": "UNRESOLVED",
+      "id": "finite-fresh-guest-2",
+      "error": "segment 516:716: 131072 masks exceed cap65536"
+    },
+    {
+      "index": 13,
+      "id": "finite-fresh-mill-2",
+      "family": "finite",
+      "outcome": "COMPLETE",
+      "true_key_full_rank": 2,
+      "true_key_prefix_rank": 2,
+      "known_key_truth_full_rank": 1,
+      "known_key_truth_prefix_rank": 1,
+      "truth_full_best": false,
+      "truth_prefix_best": false,
+      "truth_continuation_best": false,
+      "prefix_tied_paths": 1,
+      "prefix_future_states": 1,
+      "full_representatives": [
+        {
+          "cell": "primes:-1",
+          "errors": 703,
+          "F_count": 30,
+          "tie_product": 1
+        }
+      ],
+      "truth_F_count": 19,
+      "peak_process_rss_bytes": 217989120
+    },
+    {
+      "index": 14,
+      "id": "finite-fresh-shelley-2",
+      "family": "finite",
+      "outcome": "COMPLETE",
+      "true_key_full_rank": 2,
+      "true_key_prefix_rank": 2,
+      "known_key_truth_full_rank": 1,
+      "known_key_truth_prefix_rank": 1,
+      "truth_full_best": false,
+      "truth_prefix_best": false,
+      "truth_continuation_best": false,
+      "prefix_tied_paths": 1,
+      "prefix_future_states": 1,
+      "full_representatives": [
+        {
+          "cell": "primes:-1",
+          "errors": 705,
+          "F_count": 36,
+          "tie_product": 2
+        }
+      ],
+      "truth_F_count": 18,
+      "peak_process_rss_bytes": 217989120
+    },
+    {
+      "index": 15,
+      "id": "finite-fresh-blake-2",
+      "family": "finite",
+      "outcome": "COMPLETE",
+      "true_key_full_rank": 2,
+      "true_key_prefix_rank": 2,
+      "known_key_truth_full_rank": 9,
+      "known_key_truth_prefix_rank": 1,
+      "truth_full_best": false,
+      "truth_prefix_best": false,
+      "truth_continuation_best": false,
+      "prefix_tied_paths": 2,
+      "prefix_future_states": 1,
+      "full_representatives": [
+        {
+          "cell": "primes:-1",
+          "errors": 703,
+          "F_count": 43,
+          "tie_product": 4
+        }
+      ],
+      "truth_F_count": 24,
+      "peak_process_rss_bytes": 217989120
+    }
+  ]
+}

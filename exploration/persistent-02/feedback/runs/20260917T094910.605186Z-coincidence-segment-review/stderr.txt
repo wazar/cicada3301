@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/feedback/review-coincidence/review_segments.py", line 15, in <module>
+    try:out=a.segment(c,key,sign,periodic,position=position,counts=old)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/section/coincidence/core.py", line 25, in segment
+    if not rows:raise NoLegalPath('no legal finite-key mask')
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+author.NoLegalPath: no legal finite-key mask

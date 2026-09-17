@@ -1,0 +1,82 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/coordinator/f_free_review.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "6991fd7f4ed59552560ec4bac498470d76a788d7",
+  "started_utc": "2026-09-17T10:11:15.432042+00:00",
+  "timeout_seconds": 120,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/coordinator/aggregate_q12.py",
+      "exists": true,
+      "bytes": 3195,
+      "sha256": "8ec56e7c6e661782999d5959ac39f99758f65749c685d635ba5733ecc955ea89"
+    },
+    {
+      "path": "exploration/persistent-02/coordinator/check_forest_summary_selection.py",
+      "exists": true,
+      "bytes": 1215,
+      "sha256": "e51dbc2d9588a03c07858c613dd79f6b06b49d30c5518b1118c4a1ff4e3c590a"
+    },
+    {
+      "path": "exploration/persistent-02/coordinator/f_free_review.py",
+      "exists": true,
+      "bytes": 1622,
+      "sha256": "f16ef5a441d7d1784152d5562b1dfd0fb1fb51b64f94b2a96250816cbe7fc522"
+    },
+    {
+      "path": "exploration/persistent-02/coordinator/key_source_qualification.py",
+      "exists": true,
+      "bytes": 1638,
+      "sha256": "743e6694e598165c8de9bcf831818357df5501864c752cc944549884637e06c6"
+    },
+    {
+      "path": "exploration/persistent-02/coordinator/reconstruct_q12_null.py",
+      "exists": true,
+      "bytes": 3701,
+      "sha256": "447402ab3d6f752b0e335ef67ede6d5f204c8ce31f66cc2ffe341a3342575d3a"
+    },
+    {
+      "path": "exploration/persistent-02/coordinator/reset_seed_counterexample.py",
+      "exists": true,
+      "bytes": 1613,
+      "sha256": "54d95b69ea5357d79468cf484e43269773936ed238a6d8f27c6bd0db1c9b2084"
+    },
+    {
+      "path": "exploration/persistent-02/coordinator/tie_rounding_check.py",
+      "exists": true,
+      "bytes": 1216,
+      "sha256": "975fe34e04df9b0577b9d9ddc2199f40cd580538642937b26ae25c44112c1bd7"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/f-free-invariant/invariant.py",
+      "exists": true,
+      "bytes": 1311,
+      "sha256": "c9f4c888a372ac510a5cb75d1b719293f0b6d78d82a8421d07648d4c1c6eed45"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 54325,
+  "finished_utc": "2026-09-17T10:11:15.560132+00:00",
+  "duration_seconds": 0.12780825000663754
+}

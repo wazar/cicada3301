@@ -47,3 +47,7 @@ Exact shared-seed k2 feedback reset at A07 marks, with literal-F exclusion, pass
 
 
 C10 completed09:44UTC: fixed canonical DIVINITY8/circumference13, literal-F SAMEmajor resets; no unknown longer-seed widening. Independent A review cleared. Controls15/16exact each model, distinct scoring misses. P03 circumference coarse fullrank.05/tail.10, complementary.45/.50; no coherent output, ranking anomaly retained. Fullfamily ranks P03.05/.10 vs complementary.70/.85.240fixed-seed solves complete/no refusal, all files stable. See C10/REPORT.md. No active feedback job.
+
+## C11 completed10:14UTC
+
+Literal F now enters emitted feedback history without consuming seed; no resets, k2/3. Exact state separates seed phase/history; author and fresh A review pass. Same32 source plants: P03 exact28, complementary31. Wrong-construction with correctseed/mask fails31/32 in both directions, so this is new transition coverage. Actual bothmodels fullfamily rank1.00, prefix-selected k3 continuation.95; eight complete leaders incoherent.240solves complete, peak24389states/149.1MB, no refusal. C11/REPORT.md includes important distinction between active-history seed-rank loss and unique seed for a fixed complete plaintext/mask. No newseed expansion.

@@ -1,0 +1,11 @@
+# Fixed-plaintext doublet lower bound
+
+For a fixed plaintext P and k∈{2,3}, partition P at every plaintextF(0), obtaining disjoint maximal nonzero runs[a,b). A literal-F transition can only emit plaintextF, so EVERY position inside such a run is necessarily normal under either supported constructor, independently of seed and of any legal literal mask. These are plaintext-defined runs, unlike F01's ciphertext-defined runs.
+
+Afterk normal emissions inside the run, seedphase must be complete. For everyi≥a+k, C_i=P_i+ΣP_(i−k..i−1), because the lastk normal and emitted plaintext symbols coincide inside the run. Consequently fori≥a+k+1 BOTH adjacent ciphertext equations hold, giving C_i−C_(i−1)=P_i−P_(i−k−1) modulo29. If P_i=P_(i−k−1), this forces C_i=C_(i−1). Conversely, unequal endpoints force unequal ciphertext at these eligible positions. Positions outside this guarantee are simply omitted.
+
+The lower bound is the number of distinct positionsi in the disjoint runs satisfyingi≥a+k+1 and P_i=P_(i−k−1). Counting positions avoids double-counting; overlapping adjacent pairs in a longer repeated run are legitimately distinct observed doublets. Every seed and every choice of literal-versus-normal emission at plaintextFs must produce ATLEAST this number of cipherdoublets. The construction may force additional doublets outside the countedpositions; this formula is a lower bound, not generally an attainable minimum.
+
+No seed/history reset is assumed at runstarts. The conservative warm-up covers an initially incomplete seedphase and arbitrary external history. No physical resets, filtering, skipped plaintext characters, alternate modular operation or sign are covered. CiphertextF arising from a normal emission does not invalidate this proof: it uses known plaintextnormality, not ciphertextnonzero inference.
+
+Compare with4 observed adjacent equal pairs only for length716:715 adjacent opportunities. For shorter/longer texts report source-specific bounds and lengths without transferring the absolute4threshold. These fixed text bounds are not a universalEnglish claim, distributional probability or statement about unknown alternative plaintexts/registers. All sources are frozen existing controls/complete knownreferences; no alteration or favorable-source selection follows counts.

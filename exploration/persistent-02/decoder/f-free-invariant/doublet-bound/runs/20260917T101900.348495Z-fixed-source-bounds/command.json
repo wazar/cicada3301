@@ -1,0 +1,64 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-02/decoder/f-free-invariant/doublet-bound/calculate.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "6991fd7f4ed59552560ec4bac498470d76a788d7",
+  "started_utc": "2026-09-17T10:19:00.358144+00:00",
+  "timeout_seconds": 60,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-02/decoder/f-free-invariant/doublet-bound/bound.py",
+      "exists": true,
+      "bytes": 992,
+      "sha256": "7993297109af0bf949cd3abc912e21343e3b910a6fafceac2e8b2acd572095a6"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/f-free-invariant/doublet-bound/calculate.py",
+      "exists": true,
+      "bytes": 2748,
+      "sha256": "4ec364d4f1f7363d582065f0ad875dd98343605784e74d5cab2fb998b5834ed1"
+    },
+    {
+      "path": "exploration/persistent-02/decoder/f-free-invariant/doublet-bound/checks.py",
+      "exists": true,
+      "bytes": 1327,
+      "sha256": "90e3bbff342bf21773e8d26dd15324be88804aeea59f83be2c757f9cd42428c5"
+    },
+    {
+      "path": "exploration/persistent-02/feedback/C05/plants.json",
+      "exists": true,
+      "bytes": 110702,
+      "sha256": "9cfa5bb4bdfface8b3d705b4f3be25cad008b232e22a6b92e8ea59c8357875f8"
+    },
+    {
+      "path": "exploration/persistent-02/feedback/C11/plants.json",
+      "exists": true,
+      "bytes": 150108,
+      "sha256": "5ce7656b252f711ed1f0f539349f0d44b2b3ac76f08374e9bacface91e6d4932"
+    },
+    {
+      "path": "exploration/persistent-02/run_logged.py",
+      "exists": true,
+      "bytes": 3477,
+      "sha256": "ec238ebc70e7c0d6801f01705b32d9a54f95ebad28de8aafc2afff8d5ba862c4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 55141,
+  "finished_utc": "2026-09-17T10:19:00.399852+00:00",
+  "duration_seconds": 0.04151725000701845
+}

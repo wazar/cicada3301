@@ -1,0 +1,3571 @@
+{
+  "passed": true,
+  "cases": [
+    {
+      "t": 0,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": [
+        0,
+        2
+      ]
+    },
+    {
+      "t": 1,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        1
+      ]
+    },
+    {
+      "t": 2,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        0,
+        1
+      ]
+    },
+    {
+      "t": 3,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": []
+    },
+    {
+      "t": 4,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": []
+    },
+    {
+      "t": 5,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        4,
+        1,
+        0,
+        0,
+        2,
+        1
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        5
+      ]
+    },
+    {
+      "t": 6,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 7,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        1,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        1
+      ]
+    },
+    {
+      "t": 8,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        0,
+        3
+      ]
+    },
+    {
+      "t": 9,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": []
+    },
+    {
+      "t": 10,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 11,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        4,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 12,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": []
+    },
+    {
+      "t": 13,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "t": 14,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        0,
+        2,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        3
+      ]
+    },
+    {
+      "t": 15,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 16,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "t": 17,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        1,
+        4,
+        0,
+        0,
+        2
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": []
+    },
+    {
+      "t": 18,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": []
+    },
+    {
+      "t": 19,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": []
+    },
+    {
+      "t": 20,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        4,
+        0,
+        0,
+        2
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        0,
+        2
+      ]
+    },
+    {
+      "t": 21,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": 22,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "t": 23,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        1,
+        4
+      ]
+    },
+    {
+      "t": 24,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": 25,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        2,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        2
+      ]
+    },
+    {
+      "t": 26,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        2
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 27,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": []
+    },
+    {
+      "t": 28,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": []
+    },
+    {
+      "t": 29,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": []
+    },
+    {
+      "t": 30,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": [
+        0,
+        4
+      ]
+    },
+    {
+      "t": 31,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 32,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        1
+      ]
+    },
+    {
+      "t": 33,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": []
+    },
+    {
+      "t": 34,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "t": 35,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        1
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 36,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "t": 37,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        1
+      ]
+    },
+    {
+      "t": 38,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": []
+    },
+    {
+      "t": 39,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "t": 40,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": []
+    },
+    {
+      "t": 41,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": []
+    },
+    {
+      "t": 42,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "t": 43,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        1
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": []
+    },
+    {
+      "t": 44,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 45,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": []
+    },
+    {
+      "t": 46,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": []
+    },
+    {
+      "t": 47,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        1,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "t": 48,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        0,
+        0,
+        1
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": [
+        0,
+        1
+      ]
+    },
+    {
+      "t": 49,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        1
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        0,
+        1
+      ]
+    },
+    {
+      "t": 50,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        0,
+        3
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        0,
+        2
+      ]
+    },
+    {
+      "t": 51,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "t": 52,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        1,
+        0,
+        0,
+        0,
+        2
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "t": 53,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        3,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        0,
+        2
+      ]
+    },
+    {
+      "t": 54,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": []
+    },
+    {
+      "t": 55,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "t": 56,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        4,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        1
+      ]
+    },
+    {
+      "t": 57,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": []
+    },
+    {
+      "t": 58,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        1
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 59,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        2
+      ]
+    },
+    {
+      "t": 60,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": []
+    },
+    {
+      "t": 61,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": []
+    },
+    {
+      "t": 62,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": []
+    },
+    {
+      "t": 63,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "t": 64,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        2,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        4
+      ]
+    },
+    {
+      "t": 65,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        3
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": []
+    },
+    {
+      "t": 66,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": [
+        4
+      ]
+    },
+    {
+      "t": 67,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": []
+    },
+    {
+      "t": 68,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        4,
+        3,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        2
+      ]
+    },
+    {
+      "t": 69,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": []
+    },
+    {
+      "t": 70,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": []
+    },
+    {
+      "t": 71,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": []
+    },
+    {
+      "t": 72,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": [
+        2
+      ]
+    },
+    {
+      "t": 73,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": 74,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": []
+    },
+    {
+      "t": 75,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        1
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 76,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": []
+    },
+    {
+      "t": 77,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        1
+      ]
+    },
+    {
+      "t": 78,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": [
+        1,
+        3
+      ]
+    },
+    {
+      "t": 79,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "t": 80,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        4,
+        0,
+        4,
+        1,
+        3,
+        4
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "t": 81,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": 82,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        1,
+        0,
+        0,
+        2,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        2
+      ]
+    },
+    {
+      "t": 83,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        4
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": []
+    },
+    {
+      "t": 84,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        1,
+        1
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 85,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "t": 86,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        2
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": []
+    },
+    {
+      "t": 87,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": []
+    },
+    {
+      "t": 88,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        1,
+        4
+      ]
+    },
+    {
+      "t": 89,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        1,
+        3
+      ]
+    },
+    {
+      "t": 90,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": [
+        1,
+        2
+      ]
+    },
+    {
+      "t": 91,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        1,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 92,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        1,
+        4,
+        5
+      ]
+    },
+    {
+      "t": 93,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": []
+    },
+    {
+      "t": 94,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        1,
+        3,
+        4,
+        6
+      ]
+    },
+    {
+      "t": 95,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        0,
+        4,
+        0,
+        1,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        3,
+        5
+      ]
+    },
+    {
+      "t": 96,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "t": 97,
+      "known_seed": false,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": [
+        0,
+        3
+      ]
+    },
+    {
+      "t": 98,
+      "known_seed": false,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        0,
+        1
+      ]
+    },
+    {
+      "t": 99,
+      "known_seed": false,
+      "N": 2,
+      "k": 1,
+      "cipher": [
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": []
+    },
+    {
+      "t": 100,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [
+        1,
+        1
+      ],
+      "phase": 0,
+      "context": [
+        0,
+        3
+      ],
+      "ends": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "t": 101,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        2,
+        0
+      ],
+      "history": [
+        2,
+        3,
+        0
+      ],
+      "phase": 0,
+      "context": [
+        1,
+        4
+      ],
+      "ends": [
+        1
+      ]
+    },
+    {
+      "t": 102,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        18,
+        18,
+        26,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        13,
+        8
+      ],
+      "ends": [
+        3
+      ]
+    },
+    {
+      "t": 103,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0,
+        2,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        0,
+        0
+      ],
+      "ends": [
+        1
+      ]
+    },
+    {
+      "t": 104,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        0,
+        1
+      ],
+      "ends": []
+    },
+    {
+      "t": 105,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        10
+      ],
+      "ends": [
+        1
+      ]
+    },
+    {
+      "t": 106,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        2,
+        0
+      ],
+      "history": [
+        1
+      ],
+      "phase": 0,
+      "context": [
+        0,
+        2
+      ],
+      "ends": []
+    },
+    {
+      "t": 107,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        3,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+      ],
+      "history": [
+        3,
+        4
+      ],
+      "phase": 2,
+      "context": [
+        4,
+        0
+      ],
+      "ends": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "t": 108,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        15,
+        21
+      ],
+      "ends": []
+    },
+    {
+      "t": 109,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        2,
+        1
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        0
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 110,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        0,
+        0,
+        3,
+        0,
+        0
+      ],
+      "history": [
+        2
+      ],
+      "phase": 1,
+      "context": [
+        4,
+        2
+      ],
+      "ends": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "t": 111,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        18,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        4,
+        17
+      ],
+      "ends": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "t": 112,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [
+        2
+      ],
+      "phase": 1,
+      "context": [
+        3,
+        2
+      ],
+      "ends": [
+        1,
+        2
+      ]
+    },
+    {
+      "t": 113,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        3,
+        4
+      ],
+      "history": [
+        1,
+        3,
+        1
+      ],
+      "phase": 0,
+      "context": [
+        4,
+        0
+      ],
+      "ends": []
+    },
+    {
+      "t": 114,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [],
+      "history": [],
+      "phase": 0,
+      "context": [
+        28,
+        17
+      ],
+      "ends": []
+    },
+    {
+      "t": 115,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0
+      ],
+      "history": [
+        0
+      ],
+      "phase": 0,
+      "context": [
+        3,
+        2
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 116,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        0,
+        0,
+        3,
+        4,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        0
+      ],
+      "ends": [
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "t": 117,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        25,
+        8,
+        0,
+        0,
+        0
+      ],
+      "history": [
+        23
+      ],
+      "phase": 0,
+      "context": [
+        9,
+        9
+      ],
+      "ends": [
+        3
+      ]
+    },
+    {
+      "t": 118,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0
+      ],
+      "history": [
+        2,
+        1
+      ],
+      "phase": 2,
+      "context": [
+        0,
+        1
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 119,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0
+      ],
+      "history": [
+        0,
+        1,
+        3
+      ],
+      "phase": 0,
+      "context": [
+        5,
+        4
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 120,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        18,
+        0,
+        26,
+        0
+      ],
+      "history": [
+        27
+      ],
+      "phase": 1,
+      "context": [
+        23,
+        27
+      ],
+      "ends": [
+        0,
+        2
+      ]
+    },
+    {
+      "t": 121,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        1
+      ],
+      "ends": []
+    },
+    {
+      "t": 122,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0
+      ],
+      "history": [
+        4
+      ],
+      "phase": 1,
+      "context": [
+        2,
+        0
+      ],
+      "ends": []
+    },
+    {
+      "t": 123,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        10,
+        25,
+        10,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        9,
+        25
+      ],
+      "ends": [
+        0,
+        1,
+        2,
+        6
+      ]
+    },
+    {
+      "t": 124,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        3
+      ],
+      "ends": [
+        4,
+        6
+      ]
+    },
+    {
+      "t": 125,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [
+        3
+      ],
+      "phase": 1,
+      "context": [
+        3,
+        1
+      ],
+      "ends": [
+        1
+      ]
+    },
+    {
+      "t": 126,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        22,
+        17
+      ],
+      "ends": []
+    },
+    {
+      "t": 127,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        2,
+        2
+      ],
+      "ends": [
+        2
+      ]
+    },
+    {
+      "t": 128,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        0
+      ],
+      "history": [
+        0
+      ],
+      "phase": 0,
+      "context": [
+        4,
+        0
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 129,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        9,
+        16,
+        0,
+        4,
+        0,
+        20,
+        23
+      ],
+      "history": [
+        1
+      ],
+      "phase": 1,
+      "context": [
+        22,
+        10
+      ],
+      "ends": [
+        4,
+        6
+      ]
+    },
+    {
+      "t": 130,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0,
+        2,
+        0,
+        2,
+        0
+      ],
+      "history": [
+        0,
+        1
+      ],
+      "phase": 1,
+      "context": [
+        3,
+        2
+      ],
+      "ends": [
+        0,
+        1
+      ]
+    },
+    {
+      "t": 131,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        0,
+        3
+      ],
+      "ends": [
+        2,
+        3
+      ]
+    },
+    {
+      "t": 132,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        6,
+        0,
+        0,
+        12
+      ],
+      "history": [
+        28
+      ],
+      "phase": 1,
+      "context": [
+        3,
+        22
+      ],
+      "ends": [
+        1
+      ]
+    },
+    {
+      "t": 133,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2
+      ],
+      "history": [
+        2,
+        0
+      ],
+      "phase": 1,
+      "context": [
+        2,
+        3
+      ],
+      "ends": [
+        1,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "t": 134,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        3,
+        4,
+        0,
+        1,
+        0,
+        0,
+        2
+      ],
+      "history": [
+        4
+      ],
+      "phase": 0,
+      "context": [
+        0,
+        4
+      ],
+      "ends": [
+        3,
+        6
+      ]
+    },
+    {
+      "t": 135,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        0,
+        0,
+        0,
+        25,
+        14,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        10,
+        26
+      ],
+      "ends": [
+        0,
+        1
+      ]
+    },
+    {
+      "t": 136,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        1
+      ],
+      "ends": []
+    },
+    {
+      "t": 137,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        0,
+        0
+      ],
+      "history": [
+        0,
+        1
+      ],
+      "phase": 0,
+      "context": [
+        1,
+        4
+      ],
+      "ends": []
+    },
+    {
+      "t": 138,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        0,
+        0
+      ],
+      "history": [
+        2
+      ],
+      "phase": 0,
+      "context": [
+        27,
+        7
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 139,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "history": [
+        1
+      ],
+      "phase": 1,
+      "context": [
+        2,
+        1
+      ],
+      "ends": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "t": 140,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [],
+      "history": [],
+      "phase": 0,
+      "context": [
+        0,
+        0
+      ],
+      "ends": []
+    },
+    {
+      "t": 141,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [
+        12
+      ],
+      "phase": 0,
+      "context": [
+        21,
+        17
+      ],
+      "ends": []
+    },
+    {
+      "t": 142,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0
+      ],
+      "history": [
+        0,
+        2
+      ],
+      "phase": 0,
+      "context": [
+        2,
+        1
+      ],
+      "ends": []
+    },
+    {
+      "t": 143,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [],
+      "history": [
+        0
+      ],
+      "phase": 0,
+      "context": [
+        3,
+        3
+      ],
+      "ends": []
+    },
+    {
+      "t": 144,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [
+        17
+      ],
+      "phase": 1,
+      "context": [
+        3,
+        4
+      ],
+      "ends": [
+        1
+      ]
+    },
+    {
+      "t": 145,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        2
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 146,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [],
+      "history": [
+        3,
+        3,
+        2
+      ],
+      "phase": 0,
+      "context": [
+        5,
+        0
+      ],
+      "ends": []
+    },
+    {
+      "t": 147,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        24,
+        21
+      ],
+      "ends": []
+    },
+    {
+      "t": 148,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [
+        0,
+        2
+      ],
+      "phase": 1,
+      "context": [
+        3,
+        2
+      ],
+      "ends": [
+        2,
+        4
+      ]
+    },
+    {
+      "t": 149,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        5,
+        0
+      ],
+      "ends": []
+    },
+    {
+      "t": 150,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        18,
+        3,
+        0,
+        13,
+        4
+      ],
+      "history": [
+        15
+      ],
+      "phase": 0,
+      "context": [
+        24,
+        13
+      ],
+      "ends": [
+        3
+      ]
+    },
+    {
+      "t": 151,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0
+      ],
+      "history": [
+        2
+      ],
+      "phase": 1,
+      "context": [
+        2,
+        1
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 152,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "history": [
+        1,
+        0,
+        3
+      ],
+      "phase": 0,
+      "context": [
+        1,
+        3
+      ],
+      "ends": [
+        0,
+        4,
+        6
+      ]
+    },
+    {
+      "t": 153,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        0,
+        0
+      ],
+      "history": [
+        27
+      ],
+      "phase": 1,
+      "context": [
+        11,
+        0
+      ],
+      "ends": []
+    },
+    {
+      "t": 154,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        1,
+        2,
+        0,
+        2,
+        0,
+        1
+      ],
+      "history": [
+        1,
+        0
+      ],
+      "phase": 1,
+      "context": [
+        0,
+        0
+      ],
+      "ends": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ]
+    },
+    {
+      "t": 155,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        2,
+        0,
+        4,
+        3,
+        0
+      ],
+      "history": [
+        2
+      ],
+      "phase": 0,
+      "context": [
+        4,
+        3
+      ],
+      "ends": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "t": 156,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        13,
+        0,
+        0,
+        0,
+        21,
+        0,
+        15
+      ],
+      "history": [
+        26
+      ],
+      "phase": 0,
+      "context": [
+        26,
+        3
+      ],
+      "ends": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "t": 157,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0
+      ],
+      "history": [
+        2,
+        2
+      ],
+      "phase": 0,
+      "context": [
+        3,
+        1
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 158,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        3,
+        0,
+        4
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        4,
+        0
+      ],
+      "ends": [
+        0,
+        1
+      ]
+    },
+    {
+      "t": 159,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        9,
+        11
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        4,
+        13
+      ],
+      "ends": []
+    },
+    {
+      "t": 160,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "history": [
+        2
+      ],
+      "phase": 0,
+      "context": [
+        0,
+        3
+      ],
+      "ends": []
+    },
+    {
+      "t": 161,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "history": [
+        0
+      ],
+      "phase": 1,
+      "context": [
+        4,
+        3
+      ],
+      "ends": []
+    },
+    {
+      "t": 162,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        0,
+        0,
+        19,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        26,
+        19
+      ],
+      "ends": [
+        2
+      ]
+    },
+    {
+      "t": 163,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        2,
+        0,
+        0,
+        0
+      ],
+      "history": [
+        1,
+        0
+      ],
+      "phase": 0,
+      "context": [
+        0,
+        0
+      ],
+      "ends": []
+    },
+    {
+      "t": 164,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        4
+      ],
+      "history": [
+        0,
+        0
+      ],
+      "phase": 2,
+      "context": [
+        1,
+        2
+      ],
+      "ends": [
+        1,
+        4
+      ]
+    },
+    {
+      "t": 165,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        24
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        17,
+        12
+      ],
+      "ends": [
+        0
+      ]
+    },
+    {
+      "t": 166,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        2,
+        0
+      ],
+      "history": [
+        0
+      ],
+      "phase": 1,
+      "context": [
+        0,
+        0
+      ],
+      "ends": []
+    },
+    {
+      "t": 167,
+      "known_seed": true,
+      "N": 5,
+      "k": 3,
+      "cipher": [
+        0,
+        2,
+        0,
+        0
+      ],
+      "history": [
+        4,
+        4
+      ],
+      "phase": 1,
+      "context": [
+        5,
+        5
+      ],
+      "ends": [
+        1,
+        3
+      ]
+    },
+    {
+      "t": 168,
+      "known_seed": true,
+      "N": 29,
+      "k": 1,
+      "cipher": [
+        20
+      ],
+      "history": [
+        12
+      ],
+      "phase": 0,
+      "context": [
+        17,
+        24
+      ],
+      "ends": []
+    },
+    {
+      "t": 169,
+      "known_seed": true,
+      "N": 3,
+      "k": 2,
+      "cipher": [
+        0,
+        0,
+        1,
+        2,
+        0,
+        0
+      ],
+      "history": [],
+      "phase": 0,
+      "context": [
+        3,
+        2
+      ],
+      "ends": [
+        0,
+        1,
+        3
+      ]
+    }
+  ],
+  "exhaustive_paths": 60101,
+  "blocks": [
+    1,
+    4
+  ],
+  "resource_refusals": true
+}

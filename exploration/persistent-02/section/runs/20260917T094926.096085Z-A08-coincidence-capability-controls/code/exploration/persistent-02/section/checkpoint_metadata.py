@@ -1,0 +1,7 @@
+import pathlib,json,hashlib,datetime
+O=pathlib.Path(__file__).resolve().parent;R=O.parents[2]
+paths=['exploration/persistent-02/decoder/exact.py','exploration/persistent-02/decoder/complementary.py','exploration/persistent-02/decoder/complementary-model.json','exploration/persistent-02/decoder/compare.py','exploration/persistent-01/worker-c/p03_frozen.py','exploration/persistent-01/worker-c/frozen_kbest.py','audit/parallel-01/reference/reference.py']
+versions=dict(recorded_utc=datetime.datetime.now(datetime.timezone.utc).isoformat(),note='Checkpoint hashes supplement per-run snapshots; not a claim that unrecorded loaded dependencies were independently snapshotted at every earlier start.',dependencies={p:hashlib.sha256((R/p).read_bytes()).hexdigest() for p in paths})
+(O/'dependency-versions.json').write_text(json.dumps(versions,indent=2)+'\n')
+vs=[json.loads((O/p).read_text()) for p in ['section-packet-v1-before-observation-correction.json','section-packet-v2-before-native-loop-correction.json','section-packet.json']]
+fields=['alphabet','pages','runes','explicit_ends','coordinates','heading','body','page_joins','source_hashes'];checks={k:all(v[k]==vs[0][k] for v in vs) for k in fields};assert all(checks.values());(O/'packet-version-check.json').write_text(json.dumps(dict(checks=checks,versions=[v['id'] for v in vs],result='All numerical inputs/source maps identical; observation prose/id/time corrections only.'),indent=2)+'\n');print(json.dumps(dict(dependencies=versions['dependencies'],packet_checks=checks)))

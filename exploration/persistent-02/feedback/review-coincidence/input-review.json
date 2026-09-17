@@ -1,0 +1,138 @@
+{
+  "status": "PASS",
+  "input_sha256": "edd537a91491e6e311ad65f118279358855b301c96fe2b293eb0018dc9061178",
+  "grid_sizes": {
+    "periodic": 42,
+    "finite": 4
+  },
+  "controls": [
+    {
+      "id": "periodic-lp-0_welcome",
+      "length": 515,
+      "max_segment": 143,
+      "key_length": 13,
+      "cut": 179,
+      "finite_no_exhaustion_guaranteed": false
+    },
+    {
+      "id": "periodic-lp-jpg107-167",
+      "length": 319,
+      "max_segment": 88,
+      "key_length": 13,
+      "cut": 110,
+      "finite_no_exhaustion_guaranteed": false
+    },
+    {
+      "id": "periodic-lp-p56_an_end",
+      "length": 85,
+      "max_segment": 23,
+      "key_length": 13,
+      "cut": 29,
+      "finite_no_exhaustion_guaranteed": false
+    },
+    {
+      "id": "periodic-lp-p57_parable",
+      "length": 95,
+      "max_segment": 28,
+      "key_length": 8,
+      "cut": 33,
+      "finite_no_exhaustion_guaranteed": false
+    },
+    {
+      "id": "periodic-fresh-guest-2",
+      "length": 716,
+      "max_segment": 200,
+      "key_length": 8,
+      "cut": 249,
+      "finite_no_exhaustion_guaranteed": false
+    },
+    {
+      "id": "periodic-fresh-mill-2",
+      "length": 716,
+      "max_segment": 200,
+      "key_length": 13,
+      "cut": 249,
+      "finite_no_exhaustion_guaranteed": false
+    },
+    {
+      "id": "periodic-fresh-shelley-2",
+      "length": 716,
+      "max_segment": 200,
+      "key_length": 8,
+      "cut": 249,
+      "finite_no_exhaustion_guaranteed": false
+    },
+    {
+      "id": "periodic-fresh-blake-2",
+      "length": 716,
+      "max_segment": 201,
+      "key_length": 13,
+      "cut": 249,
+      "finite_no_exhaustion_guaranteed": false
+    },
+    {
+      "id": "finite-lp-0_welcome",
+      "length": 515,
+      "max_segment": 143,
+      "key_length": 800,
+      "cut": 179,
+      "finite_no_exhaustion_guaranteed": true
+    },
+    {
+      "id": "finite-lp-jpg107-167",
+      "length": 319,
+      "max_segment": 88,
+      "key_length": 800,
+      "cut": 110,
+      "finite_no_exhaustion_guaranteed": true
+    },
+    {
+      "id": "finite-lp-p56_an_end",
+      "length": 85,
+      "max_segment": 23,
+      "key_length": 800,
+      "cut": 29,
+      "finite_no_exhaustion_guaranteed": true
+    },
+    {
+      "id": "finite-lp-p57_parable",
+      "length": 95,
+      "max_segment": 28,
+      "key_length": 800,
+      "cut": 33,
+      "finite_no_exhaustion_guaranteed": true
+    },
+    {
+      "id": "finite-fresh-guest-2",
+      "length": 716,
+      "max_segment": 200,
+      "key_length": 800,
+      "cut": 249,
+      "finite_no_exhaustion_guaranteed": true
+    },
+    {
+      "id": "finite-fresh-mill-2",
+      "length": 716,
+      "max_segment": 200,
+      "key_length": 800,
+      "cut": 249,
+      "finite_no_exhaustion_guaranteed": true
+    },
+    {
+      "id": "finite-fresh-shelley-2",
+      "length": 716,
+      "max_segment": 200,
+      "key_length": 800,
+      "cut": 249,
+      "finite_no_exhaustion_guaranteed": true
+    },
+    {
+      "id": "finite-fresh-blake-2",
+      "length": 716,
+      "max_segment": 201,
+      "key_length": 800,
+      "cut": 249,
+      "finite_no_exhaustion_guaranteed": true
+    }
+  ]
+}

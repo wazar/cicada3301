@@ -1,0 +1,200 @@
+{
+  "controls": [
+    {
+      "index": 0,
+      "construction": "excluded",
+      "id": "fresh-guest-2",
+      "planted_k": 2,
+      "rank_count_ge": 1,
+      "rank_fraction": 0.05
+    },
+    {
+      "index": 1,
+      "construction": "excluded",
+      "id": "fresh-guest-2",
+      "planted_k": 3,
+      "rank_count_ge": 1,
+      "rank_fraction": 0.05
+    },
+    {
+      "index": 2,
+      "construction": "excluded",
+      "id": "fresh-mill-2",
+      "planted_k": 2,
+      "rank_count_ge": 1,
+      "rank_fraction": 0.05
+    },
+    {
+      "index": 3,
+      "construction": "excluded",
+      "id": "fresh-mill-2",
+      "planted_k": 3,
+      "rank_count_ge": 1,
+      "rank_fraction": 0.05
+    },
+    {
+      "index": 4,
+      "construction": "excluded",
+      "id": "fresh-shelley-2",
+      "planted_k": 2,
+      "rank_count_ge": 1,
+      "rank_fraction": 0.05
+    },
+    {
+      "index": 5,
+      "construction": "excluded",
+      "id": "fresh-shelley-2",
+      "planted_k": 3,
+      "rank_count_ge": 1,
+      "rank_fraction": 0.05
+    },
+    {
+      "index": 6,
+      "construction": "excluded",
+      "id": "fresh-blake-2",
+      "planted_k": 2,
+      "rank_count_ge": 1,
+      "rank_fraction": 0.05
+    },
+    {
+      "index": 7,
+      "construction": "excluded",
+      "id": "fresh-blake-2",
+      "planted_k": 3,
+      "rank_count_ge": 1,
+      "rank_fraction": 0.05
+    },
+    {
+      "index": 8,
+      "construction": "emitted",
+      "id": "fresh-guest-2",
+      "planted_k": 2,
+      "rank_count_ge": 1,
+      "rank_fraction": 0.05
+    },
+    {
+      "index": 9,
+      "construction": "emitted",
+      "id": "fresh-guest-2",
+      "planted_k": 3,
+      "rank_count_ge": 1,
+      "rank_fraction": 0.05
+    },
+    {
+      "index": 10,
+      "construction": "emitted",
+      "id": "fresh-mill-2",
+      "planted_k": 2,
+      "rank_count_ge": 1,
+      "rank_fraction": 0.05
+    },
+    {
+      "index": 11,
+      "construction": "emitted",
+      "id": "fresh-mill-2",
+      "planted_k": 3,
+      "rank_count_ge": 1,
+      "rank_fraction": 0.05
+    },
+    {
+      "index": 12,
+      "construction": "emitted",
+      "id": "fresh-shelley-2",
+      "planted_k": 2,
+      "rank_count_ge": 1,
+      "rank_fraction": 0.05
+    },
+    {
+      "index": 13,
+      "construction": "emitted",
+      "id": "fresh-shelley-2",
+      "planted_k": 3,
+      "rank_count_ge": 1,
+      "rank_fraction": 0.05
+    },
+    {
+      "index": 14,
+      "construction": "emitted",
+      "id": "fresh-blake-2",
+      "planted_k": 2,
+      "rank_count_ge": 1,
+      "rank_fraction": 0.05
+    },
+    {
+      "index": 15,
+      "construction": "emitted",
+      "id": "fresh-blake-2",
+      "planted_k": 3,
+      "rank_count_ge": 1,
+      "rank_fraction": 0.05
+    }
+  ],
+  "gate": {
+    "excluded": {
+      "cases": 8,
+      "passing": 8
+    },
+    "emitted": {
+      "cases": 8,
+      "passing": 8
+    }
+  },
+  "proceed_to_actual": true,
+  "criterion": "atleast6/8rank<=2of20ineachconstruction; fixedbeforepower",
+  "actual_geometry": {
+    "n": 716,
+    "nonF_symbols": 683,
+    "runs": 34,
+    "run_lengths": [
+      4,
+      40,
+      2,
+      3,
+      25,
+      23,
+      24,
+      36,
+      5,
+      5,
+      8,
+      46,
+      6,
+      39,
+      6,
+      2,
+      42,
+      13,
+      38,
+      20,
+      17,
+      23,
+      24,
+      13,
+      7,
+      1,
+      66,
+      14,
+      25,
+      13,
+      4,
+      6,
+      73,
+      10
+    ],
+    "by_k": {
+      "2": {
+        "ordered_pairs": 7566,
+        "unordered_pairs": 3783,
+        "groups_with_pairs": 84,
+        "identity_edges": 585
+      },
+      "3": {
+        "ordered_pairs": 5514,
+        "unordered_pairs": 2757,
+        "groups_with_pairs": 99,
+        "identity_edges": 555
+      }
+    }
+  },
+  "actual_scores_computed": false
+}

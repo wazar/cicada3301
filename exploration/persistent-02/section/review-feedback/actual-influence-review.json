@@ -1,0 +1,104 @@
+{
+  "passed": true,
+  "records": 192,
+  "mature_collapsed": 104,
+  "full_plaintext_rank_k": 192,
+  "leaders": [
+    {
+      "model": "p03",
+      "k": 2,
+      "kind": "full",
+      "first_mature_zero": 239,
+      "final_rank": 0,
+      "fixed_mask_full_plaintext_seed_rank": 2
+    },
+    {
+      "model": "p03",
+      "k": 2,
+      "kind": "prefix",
+      "first_mature_zero": null,
+      "final_rank": 1,
+      "fixed_mask_full_plaintext_seed_rank": 2
+    },
+    {
+      "model": "p03",
+      "k": 2,
+      "kind": "continuation",
+      "first_mature_zero": 332,
+      "final_rank": 0,
+      "fixed_mask_full_plaintext_seed_rank": 2
+    },
+    {
+      "model": "p03",
+      "k": 3,
+      "kind": "full",
+      "first_mature_zero": null,
+      "final_rank": 1,
+      "fixed_mask_full_plaintext_seed_rank": 3
+    },
+    {
+      "model": "p03",
+      "k": 3,
+      "kind": "prefix",
+      "first_mature_zero": null,
+      "final_rank": 1,
+      "fixed_mask_full_plaintext_seed_rank": 3
+    },
+    {
+      "model": "p03",
+      "k": 3,
+      "kind": "continuation",
+      "first_mature_zero": null,
+      "final_rank": 1,
+      "fixed_mask_full_plaintext_seed_rank": 3
+    },
+    {
+      "model": "complementary",
+      "k": 2,
+      "kind": "full",
+      "first_mature_zero": 164,
+      "final_rank": 0,
+      "fixed_mask_full_plaintext_seed_rank": 2
+    },
+    {
+      "model": "complementary",
+      "k": 2,
+      "kind": "prefix",
+      "first_mature_zero": 164,
+      "final_rank": 0,
+      "fixed_mask_full_plaintext_seed_rank": 2
+    },
+    {
+      "model": "complementary",
+      "k": 2,
+      "kind": "continuation",
+      "first_mature_zero": 164,
+      "final_rank": 0,
+      "fixed_mask_full_plaintext_seed_rank": 2
+    },
+    {
+      "model": "complementary",
+      "k": 3,
+      "kind": "full",
+      "first_mature_zero": null,
+      "final_rank": 1,
+      "fixed_mask_full_plaintext_seed_rank": 3
+    },
+    {
+      "model": "complementary",
+      "k": 3,
+      "kind": "prefix",
+      "first_mature_zero": null,
+      "final_rank": 1,
+      "fixed_mask_full_plaintext_seed_rank": 3
+    },
+    {
+      "model": "complementary",
+      "k": 3,
+      "kind": "continuation",
+      "first_mature_zero": 705,
+      "final_rank": 0,
+      "fixed_mask_full_plaintext_seed_rank": 3
+    }
+  ]
+}

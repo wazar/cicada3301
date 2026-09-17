@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/decoder/f-free-invariant/checks.py", line 5, in <module>
+    from invariant import statistic
+ImportError: cannot import name 'statistic' from 'invariant' (/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/feedback/invariant.py)

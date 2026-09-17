@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/feedback/review-coincidence/review_core.py", line 28, in <module>
+    try:r=author.gridcase(x['cipher'],x['resets'],x['cut'],dict(key=x['key'],sign=x['sign'],id=str(x['index'])),x['periodic'])
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/section/coincidence/core.py", line 45, in gridcase
+    tail=segment(c[cut:partial['stop']],key,sign,periodic,position=st['position'],counts=st['counts'])
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/section/coincidence/core.py", line 24, in segment
+    if not rows:raise Unresolved('no legal finite-key mask')
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+author.Unresolved: no legal finite-key mask
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mikewazar/Downloads/liber-primus/exploration/persistent-02/feedback/review-coincidence/review_core.py", line 30, in <module>
+    assert not x['expected_paths'];results.append(dict(index=x['index'],no_legal=True));continue
+           ^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
