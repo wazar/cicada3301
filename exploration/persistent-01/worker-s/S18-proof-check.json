@@ -1,0 +1,33 @@
+{
+  "certificates": [
+    {
+      "page": 0,
+      "field": 2,
+      "rank_certified": 29,
+      "both_inverse_products": true
+    },
+    {
+      "page": 0,
+      "field": 3,
+      "rank_certified": 29,
+      "both_inverse_products": true
+    },
+    {
+      "page": 1,
+      "field": 2,
+      "rank_certified": 29,
+      "both_inverse_products": true
+    },
+    {
+      "page": 1,
+      "field": 3,
+      "rank_certified": 29,
+      "both_inverse_products": true
+    }
+  ],
+  "independent_S3_product_cases": 36,
+  "controls": 40,
+  "control_initial_state_closures": 7320,
+  "all_controls_emit_all_six_opcodes": true,
+  "conclusion": "Both pages admit only identity opcodes under the stated S3 word-identity model."
+}

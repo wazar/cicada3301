@@ -6,12 +6,12 @@ Start: **2026-09-16 19:30:37 UTC /21:30:37 SAST**. Fixed deadline: **2026-09-17 
 
 ## Current assignments
 
-Recorded at 2026-09-17T02:09:31.075579+00:00
+Recorded at 2026-09-17T02:32:04.184127+00:00
 
-- **persistent_p**: P29 fixed ordered digraph-codebook search over pinned Blake windows; scorer-free, no keystream, ciphertext phase0 only. Reviews50/51 complete.
-- **persistent_s**: S16 minimal-rotation unknown-order model has exact cycle obstructions, frozen. S17 assessing direct bijective substitution search with clean Latin model; cost/control pilot before actual.
-- **persistent_n**: N13 fixed Elias-delta integer framing in five-bit rune tokens; independent of labels/scorer. N12 and review52 complete. N11 historical tool task remains blocked.
-- **coordinator**: Sole direct controller, checkpoint20 publication. Fresh review53 checks N12. Replenish nonduplicate tests, preserve original deadline03:30:37UTC.
+- **persistent_p**: P30 optional nonconsuming literal-F plaintext FIFO autokey: four full controls exact; fixed162-cell real0/17/55 and19nulls each running. Existing-method lane, no seed expansion.
+- **persistent_s**: S19 word lengths as payload under shared substitution, continuous clean Latin model; raw-source/control/cost pilot before one real full panel and19nulls.
+- **persistent_n**: N15 two frozen null sensitivities for N14 circumference route: uniform exact-repeat-mask and inventory-preserving unconditional permutations. No route expansion.
+- **coordinator**: Sole direct controller: publish checkpoint21; review N14/N15 source-route evidence; original deadline03:30:37UTC unchanged.
 
 ## Evidence and allocation
 
@@ -39,10 +39,18 @@ P28's default shared 1,417-byte prefix is explained by constant-one selected bit
 
 Q08 generalizes P24's complete pair graph to shared longest-prefix dictionaries containing a binary merge with both children retained. It is not new independent ciphertext coverage. The empty initial source-control mistake is preserved; corrected 208-word control and 42,396 artificial strings pass. N12 rejects a fixed unknown-label final checksum per word on each of 0/1 through exact rank30 certificates; all60 plants pass. These remain narrowly scoped representation constraints.
 
-Next executable actions: P29 fixed digraph source membership and matched nulls; S17 control/cost pilot if session coverage is genuinely new; N13 self-delimiting integer length constraint. No reserved inputs, broader key dictionary or competing controller. Strategy outside-box-v1 remains active; original window ends05:30:37SAST.
+Checkpoint21 publishes P29, S16–S18, N13 and Q09–Q11 with reviews54–59. P29 finds no full Blake digraph-codebook match among18,323 windows, actual longest compatible prefix34/131 and nullrank.935; all four controls recover uniquely. S17 unknown Latin substitution controls recover99.4–100%, but actual0/17/55 ranks.15/.75/.75 yield no coherent candidate; finite search/register/short-page power limits remain.
+
+S16 rules out only least-rotation word emission under a fixed page alphabet order. S18 rules out nontrivial fixed three-state reversible opcodes when every word must be identity for every starting state. N13 rules out one unpadded Elias-delta integer in five-bit tokens per word due six40-bit units; the initial control-alphabet failure and deterministic pre-actual correction are retained. These are exact narrow constraints, not generic cipher exclusions.
+
+Q09 reciprocal feedback beats fitted destination prediction by+5.92nats, reversedQ10 by+12.65, combined nominalrank.01. Q11 shows both directions still lose to zero-parameter uniform nonrepeat prediction, total−12.58nats for reciprocal. Relative improvement is not useful prediction beyond that reference; no holdout reveal or nonlinear family expansion. All600 paired panels and qualifications independently replay; JS stability has weak control discrimination, so it is not misrepresented as a rejection.
+
+N14 page-onion traversal has72repeats/2440new adjacencies, original fitted-mask nullmean91.46/nominal.018. This may reflect inflated fitted marginal collision expectations; N15 is testing two prespecified sensitivities before interpretation. P30 retains the corrected literal-F arithmetic while changing periodic keying to plaintext-autokey FIFO. S19 changes the hypothesized payload to word lengths. These materially separate assumptions; no optimal-strategy claim.
+
+Next executable actions: complete fixed P30 real/null searches and fresh review; complete N15 null sensitivity and independent route check; finish S19 source-model/control pilot before fixed actual search. Original stop05:30:37SAST; no reserved inputs or competing controller.
 
 ## Integrity and limits
 
 Experiment01 remains failed. No credible candidate warrants a reserve reveal. Originals4,9,14,19,24,29,34,39,44,54 remain excluded; earlier E exposure to historical54 vision annotations is recorded as contamination, not pristine holdout. No new image50 inspection; cached corrected256-byte input used by P16/R06 is separately pinned. Exact source mapping, commands, outputs, exit codes, alternative outputs and resume commands remain in per-worker evidence.
 
-Only coordinator writes Git/shared management files. Unrelated macOS setup preserved. Reviewed checkpoint19 is verified on origin/master at `46f222f92f68323dddd976a365361b5b3c684f47`; checkpoint20 publication is in progress. Completed log metadata may normalize checkout prefixes, with original bytes and hash mapping retained locally; frozen scientific source/output bytes are not cosmetically rewritten. See numbered checkpoints for historical results and corrections.
+Only coordinator writes Git/shared management files. Unrelated macOS setup preserved. Reviewed checkpoint20 is verified on origin/master at `da17689d77e8c830bd42e8bfd66ee8ff17718605`; checkpoint21 publication is in progress. Completed log metadata may normalize checkout prefixes, with original bytes and hash mapping retained locally; frozen scientific source/output bytes are not cosmetically rewritten. See numbered checkpoints for historical results and corrections.

@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/worker-n/N13/diagnose.py", line 4, in <module>
+    exec(compile(s,str(R/'test.py'),'exec'))
+  File "<REPO_ROOT>/exploration/persistent-01/worker-n/N13/test.py", line 29, in <module>
+    runes=[labels[v] for v in chunks];recovered=''.join(format(inverse[r],'05b') for r in runes);assert len(runes)==n and recovered==bits and decode(recovered)==x;controls.append(dict(n=n,L=L,rep=rep,proposals=proposals,runes=runes,bits=bits))
+                                                                                                                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: preserved failed n=14 L=60

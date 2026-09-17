@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/review-59/check.py", line 35, in <module>
+    assert solutions==t['nontrivial_solutions'];assert not t['result']['obstructed'] or not solutions
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

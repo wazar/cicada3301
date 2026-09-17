@@ -1,0 +1,46 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-n/N13/diagnose.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "46f222f92f68323dddd976a365361b5b3c684f47",
+  "started_utc": "2026-09-17T02:09:29.299356+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N13/diagnose.py",
+      "exists": true,
+      "bytes": 377,
+      "sha256": "01fe0cabd0f1d7361c48e8146a6f6e5edb46d7e0d5a5ebe88bd6925b4ef4ce6b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N13/test.py",
+      "exists": true,
+      "bytes": 3154,
+      "sha256": "a7e3959a93083e4b4b62871f748d7fe1c93875dd8bd7c161bfed78b90d8b3720"
+    }
+  ],
+  "outcome": "NONZERO",
+  "exit_code": 1,
+  "pid": 9229,
+  "finished_utc": "2026-09-17T02:09:29.511050+00:00",
+  "duration_seconds": 0.2114902909961529
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "page": 0,
+    "contradictory_inequalities": [
+      [
+        0,
+        18
+      ],
+      [
+        18,
+        0
+      ]
+    ],
+    "source_words": [
+      55,
+      12
+    ],
+    "valid": true,
+    "shortest_possible_nontrivial_cycle": true
+  },
+  {
+    "page": 1,
+    "contradictory_inequalities": [
+      [
+        0,
+        4
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "source_words": [
+      36,
+      4
+    ],
+    "valid": true,
+    "shortest_possible_nontrivial_cycle": true
+  }
+]

@@ -1,0 +1,108 @@
+{
+  "status": "PASS",
+  "repaired_controls": 870,
+  "proposals": 5109,
+  "violating_witnesses": [
+    {
+      "page": 0,
+      "word": 0,
+      "rune_start": 0,
+      "rune_end": 8,
+      "source_char_positions": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "page": 0,
+      "word": 20,
+      "rune_start": 95,
+      "rune_end": 103,
+      "source_char_positions": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130
+      ]
+    },
+    {
+      "page": 0,
+      "word": 36,
+      "rune_start": 158,
+      "rune_end": 166,
+      "source_char_positions": [
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215
+      ]
+    },
+    {
+      "page": 0,
+      "word": 46,
+      "rune_start": 203,
+      "rune_end": 211,
+      "source_char_positions": [
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274
+      ]
+    },
+    {
+      "page": 1,
+      "word": 1,
+      "rune_start": 5,
+      "rune_end": 13,
+      "source_char_positions": [
+        352,
+        353,
+        354,
+        355,
+        356,
+        357,
+        358,
+        359
+      ]
+    },
+    {
+      "page": 1,
+      "word": 2,
+      "rune_start": 13,
+      "rune_end": 21,
+      "source_char_positions": [
+        361,
+        362,
+        363,
+        364,
+        365,
+        366,
+        367,
+        368
+      ]
+    }
+  ],
+  "excluded_control_patterns": [
+    5,
+    7,
+    19
+  ]
+}

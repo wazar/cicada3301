@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/worker-n/N13/test.py", line 27, in <module>
+    assert len(proposals)<10000
+           ^^^^^^^^^^^^^^^^^^^^
+AssertionError

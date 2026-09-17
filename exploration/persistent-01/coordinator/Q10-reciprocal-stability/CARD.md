@@ -1,0 +1,7 @@
+# Q10 — frozen reciprocal-model reverse prediction and stability
+
+Follow-up selected after Q09 actual held gain+5.9220372 nats and nominal fitted-null rank.030. This is small exploratory evidence after many campaign tests, not a candidate plaintext or untouched confirmation. Unlike P26 the gain is positive; challenge its transport before any validation reveal.
+
+Use exactly the same600 Q09 packets, source/control draws, train23/held22 page partition and exact first/equality masks. No new ciphertext, seed, model operation, field or parameter family. Fit both models on the previous22-page held subset and predict the first23 pages, using identical optimizer/qualification settings. Primary statistic: sum original and reverse held gains; disclose each direction separately. Secondary: Jensen–Shannon divergence between the two normalized reciprocal q profiles, lower means more stable; compare to the same refit full-procedure null panels. Preserve all fitted q and contributions. Controls additionally compare both q estimates with their planted source q (descriptive only).
+
+All600 reversed fits, no selecting only actual or favorable controls. Qualification failure => UNKNOWN with conservative rank intervals, no optimizer rescue. Existing Q09 model functions may be reused unchanged with hash pinned; fresh independent reviewer will check equations without importing them. Actual summary remains unchanged. No holdout, key, English score or arbitrary decoding repair. This is an adaptive same-data diagnostic, not new independent confirmatory evidence.

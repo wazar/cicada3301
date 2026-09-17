@@ -1,0 +1,5 @@
+# Single control-only correction before actual
+
+Initial0..28 bit-pattern alphabet cannot encode a mandatory delta header chunk30 for n14/L60. The original main run and exact same-seed diagnostic both stopped before actual. failed-control.json retains360completed controls and10,000 rejected proposals at that size. This failure is not evidence about actual data.
+
+Coordinator authorized a header-dictated codebook repair. Before actual classification, compute the union of5-bit chunks in the minimum-positive-integer example at every mathematically admissible frozen size n1..32. Union has24patterns; choose the three smallest absent patterns5,7,19 as excluded. Thus the one fixed29-of32 alphabet includes a complete example for every tested size. Keep seed, decoder, encoding rule, size grid,30replicates, proposal construction and10,000cap unchanged; only control chunk alphabet and its inverse mapping change. Save repairedcontrols separately. Actual necessary-length statistic is unchanged. No padding, alternatecode or actual-driven choice.

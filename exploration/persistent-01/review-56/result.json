@@ -1,0 +1,177 @@
+{
+  "status": "PASS",
+  "reverse_panels": 600,
+  "fits": 1200,
+  "max_gradient": 9.894937139581577e-07,
+  "max_objective_gradient_error": 7.993605777301127e-15,
+  "summary": [
+    {
+      "main": "control0",
+      "forward_gain": 1840.4346199384381,
+      "reverse_gain": 2156.794279643187,
+      "qualified": true,
+      "nulls": 99,
+      "unknown": 0,
+      "statistics": {
+        "combined_gain": {
+          "value": 3997.2288995816252,
+          "tail": 0.01,
+          "interval": [
+            0.01,
+            0.01
+          ]
+        },
+        "js_divergence": {
+          "value": 0.0014067560518927348,
+          "tail": 0.55,
+          "interval": [
+            0.55,
+            0.55
+          ]
+        }
+      },
+      "source_js": [
+        0.000734805570365895,
+        0.0008457704010931215
+      ]
+    },
+    {
+      "main": "control1",
+      "forward_gain": 2305.253281309522,
+      "reverse_gain": 2646.12494785723,
+      "qualified": true,
+      "nulls": 99,
+      "unknown": 0,
+      "statistics": {
+        "combined_gain": {
+          "value": 4951.378229166752,
+          "tail": 0.01,
+          "interval": [
+            0.01,
+            0.01
+          ]
+        },
+        "js_divergence": {
+          "value": 0.0011443886796766857,
+          "tail": 0.28,
+          "interval": [
+            0.28,
+            0.28
+          ]
+        }
+      },
+      "source_js": [
+        0.0003251620161539416,
+        0.0005730255654150134
+      ]
+    },
+    {
+      "main": "control2",
+      "forward_gain": 1914.2911233071463,
+      "reverse_gain": 2231.0725736911754,
+      "qualified": true,
+      "nulls": 99,
+      "unknown": 0,
+      "statistics": {
+        "combined_gain": {
+          "value": 4145.363696998322,
+          "tail": 0.01,
+          "interval": [
+            0.01,
+            0.01
+          ]
+        },
+        "js_divergence": {
+          "value": 0.0008006677169863039,
+          "tail": 0.05,
+          "interval": [
+            0.05,
+            0.05
+          ]
+        }
+      },
+      "source_js": [
+        0.00042568340803251196,
+        0.0005050796180744747
+      ]
+    },
+    {
+      "main": "control3",
+      "forward_gain": 1894.895037071532,
+      "reverse_gain": 2013.3167694621025,
+      "qualified": true,
+      "nulls": 99,
+      "unknown": 0,
+      "statistics": {
+        "combined_gain": {
+          "value": 3908.2118065336344,
+          "tail": 0.01,
+          "interval": [
+            0.01,
+            0.01
+          ]
+        },
+        "js_divergence": {
+          "value": 0.0017690620226663346,
+          "tail": 0.85,
+          "interval": [
+            0.85,
+            0.85
+          ]
+        }
+      },
+      "source_js": [
+        0.0008137586958222319,
+        0.0008869111609694925
+      ]
+    },
+    {
+      "main": "actual",
+      "forward_gain": 5.922037197289683,
+      "reverse_gain": 12.645248907516361,
+      "qualified": true,
+      "nulls": 199,
+      "unknown": 0,
+      "statistics": {
+        "combined_gain": {
+          "value": 18.567286104806044,
+          "tail": 0.01,
+          "interval": [
+            0.01,
+            0.01
+          ]
+        },
+        "js_divergence": {
+          "value": 0.0010973387690125843,
+          "tail": 0.245,
+          "interval": [
+            0.245,
+            0.245
+          ]
+        }
+      },
+      "source_js": null
+    }
+  ],
+  "actual_uniform_comparison": {
+    "name": "actual",
+    "directions": [
+      {
+        "direction": "forward",
+        "events": 4863,
+        "uniform_ll": -16204.510532982016,
+        "destination_minus_uniform": -15.458112285630705,
+        "reciprocal_minus_uniform": -9.536075088341022
+      },
+      {
+        "direction": "reverse",
+        "events": 5501,
+        "uniform_ll": -18330.457010473798,
+        "destination_minus_uniform": -15.688424215233681,
+        "reciprocal_minus_uniform": -3.04317530771732
+      }
+    ],
+    "combined_destination_minus_uniform": -31.146536500864386,
+    "combined_reciprocal_minus_uniform": -12.579250396058342
+  }
+}

@@ -1,0 +1,5 @@
+# Q11 — zero-parameter predictive reference
+
+Selected after Q09/Q10 show small positive reciprocal-vs-destination gains in both directions. Before interpreting that as source structure, compare the same frozen predictions with uniform sampling among the28 nonrepeating destinations. This has no fitted parameters and exactly the same given first symbols/equality mask. A positive relative gain can occur because one estimated model loses less than another; this diagnostic distinguishes that from beating the simpler fixed reference.
+
+For all600 saved paired Q09/Q10 packets, calculate held LL + N_nonrepeat*log28 for each model and each direction; report both and their sum. No fit, key, null generation, selection, new p-value or independent-validation claim. Source-backed control values are descriptive calibration. Existing actual outputs/results remain unchanged. If reciprocal loses to uniform, do not call its relative gain predictive evidence for a nonuniform source; report limits and redirect. If it beats uniform, fresh review still precedes any further candidate assessment.

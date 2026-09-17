@@ -1,0 +1,55 @@
+{
+  "status": "PASS",
+  "panels": 600,
+  "fits": 1200,
+  "draws": 6208036,
+  "max_gradient": 5.671913521818886e-07,
+  "max_objective_gradient_error": 1.021405182655144e-14,
+  "rows": [
+    {
+      "main": "control0",
+      "held_gain": 1840.4346199384381,
+      "unknown": 0,
+      "interval": [
+        0.01,
+        0.01
+      ]
+    },
+    {
+      "main": "control1",
+      "held_gain": 2305.253281309522,
+      "unknown": 0,
+      "interval": [
+        0.01,
+        0.01
+      ]
+    },
+    {
+      "main": "control2",
+      "held_gain": 1914.2911233071463,
+      "unknown": 0,
+      "interval": [
+        0.01,
+        0.01
+      ]
+    },
+    {
+      "main": "control3",
+      "held_gain": 1894.895037071532,
+      "unknown": 0,
+      "interval": [
+        0.01,
+        0.01
+      ]
+    },
+    {
+      "main": "actual",
+      "held_gain": 5.922037197289683,
+      "unknown": 0,
+      "interval": [
+        0.03,
+        0.03
+      ]
+    }
+  ]
+}

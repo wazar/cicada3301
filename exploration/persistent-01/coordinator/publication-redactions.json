@@ -1748,5 +1748,488 @@
     "original_sha256": "fb97bdc9fa5566c90dd85511134f9c6c6f7699b4625a49ba19e5b7fd62bb037e",
     "published_sha256": "ded473685cd062b4ddb9f5f460587bb4f8010f5fe23500b1eca35a3301a96231",
     "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/review-56/runs/20260917T021830.444039Z-reverse-fits-and-constant-reference/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/review-56/runs/20260917T021830.444039Z-reverse-fits-and-constant-reference/stderr.txt",
+    "original_sha256": "abf7d509fadd4d4f9f7f3456832b33a066b7bf23e89f38833bd677fe9480885f",
+    "published_sha256": "22bc60c33199aeb41c8ef629ba21b243e2c4b2391c3cacbf7bbf3ad074c53efa",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/review-59/runs/20260917T022432.815485Z-S18-group-certificate/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/review-59/runs/20260917T022432.815485Z-S18-group-certificate/stderr.txt",
+    "original_sha256": "50dd0be4ad3cb9e45f3bfa95f5cf0d9b80aa9c7814b48fed5c779663a8c05757",
+    "published_sha256": "cdb5e01176078bf2c0687a735760bc2bea0be26dd40cc2bb0bed7b2399961724",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/review-59/runs/20260917T022500.654500Z-S18-group-certificate-corrected-checker/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/review-59/runs/20260917T022500.654500Z-S18-group-certificate-corrected-checker/stderr.txt",
+    "original_sha256": "1674532dbe37706aa3ffece977d4c02fbdaf33cac9cdec5e48d571fa2aefb403",
+    "published_sha256": "7fa2a57b98d0680d7e87bbe1f02732694797e82eb1d02fe21262a62b63c9778f",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-n/N13/runs/20260917T020849.817746Z-exact-framing-controls-actual/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-n/N13/runs/20260917T020849.817746Z-exact-framing-controls-actual/stderr.txt",
+    "original_sha256": "3e84255a83ffd2c25c626b22611c40c61a16a378987c6900240d9ca4ff9c74c4",
+    "published_sha256": "bc4b9eaf9bcbb373067b5355385fdc98154e45786440fb7f4106ac5b85852d1a",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-n/N13/runs/20260917T020929.289972Z-failed-control-preservation/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-n/N13/runs/20260917T020929.289972Z-failed-control-preservation/stderr.txt",
+    "original_sha256": "405e54a71e6b4e26130e66603819f24387943232155f10bb39604e5068c9f6d8",
+    "published_sha256": "0d118d84541554be685c371304167c8cad5fc995a0fbc066148e880c96b0adbc",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet0-main.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet0-main.json",
+    "original_sha256": "b9221d2c2e16c398ca552e17209e1588cd2f00025ed2897e33ebddb029a178ad",
+    "published_sha256": "f9845a5d3f31a777a6af575fb8783779720a136e0110a2f0af4a2c516c7fe8ff",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet1-main.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet1-main.json",
+    "original_sha256": "a274672503f68514516453aab187e1d5e5a5f225d04115ec4502f2791b65e4a6",
+    "published_sha256": "2361cf780132f419b0bd2a9d088f57b0154787a9a259543f4f90a9eb41808a4d",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet2-main.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet2-main.json",
+    "original_sha256": "bf99846c0364198a6b94ced9b708d8841b0eccf0be883e5d2f9e8336849e25c3",
+    "published_sha256": "1449486a1c6c9315c1c07c4f40f9a5a5bb81a8839288c10c1820f29e1b37a210",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet3-main.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet3-main.json",
+    "original_sha256": "c3778de3d5c44cb94eda1a67d8764ba6c670f0771ac85abe1272d9eca1dd1461",
+    "published_sha256": "b9f013d3cab240bba6a1f33adcb6c6c84d71c8f6957414073e0478cf6628cc9c",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet4-main.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet4-main.json",
+    "original_sha256": "9a6281a27c01917a33c50188d245e48b639672f32ed68ce633cbab2793e138f7",
+    "published_sha256": "7bcb8768c07ff11e6b44cd47b1ddcdca4fe34dc581099e3bf18fe1f6ff0f54b6",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet4-null00.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet4-null00.json",
+    "original_sha256": "f26c781fe1a64337c4c76ad4914982714a034ebdf65a2941cd0a7ba61b47d41c",
+    "published_sha256": "77e1db679519c430dedaf3784586a01300d9823b0b50af379d53c8ab93a6befc",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet4-null01.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet4-null01.json",
+    "original_sha256": "80e9eed48e0f1f54497c9c3e569dbaeffe3ce85ebb962c879d6fbe4a9965a6cd",
+    "published_sha256": "14619f7700385dd1bdd96b6e1868dae9b7ec32f89e070fca3024e921680a8b18",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet4-null02.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet4-null02.json",
+    "original_sha256": "d8bcdab84a12e80e9bde27ba91063c479847a18fb0f01a555f3c26a5dd669b53",
+    "published_sha256": "6d1cca2e39c7c696371cd72b9a2218daf7696d9ed8187c9236f7acc09633abba",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet4-null03.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet4-null03.json",
+    "original_sha256": "e1f95b39d9695382e8c74143d3e1b29b3e93f4b2fc6ee37677e4d7f840153397",
+    "published_sha256": "8fd6576492a339f6080494c59b57fe2ae6832aa3ee4707efc3a20f2f0e9455f9",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet4-null04.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet4-null04.json",
+    "original_sha256": "fe616f3741b32f44227f7cba0bd6c6bf3616992feb5a63af00bf3420acfbc657",
+    "published_sha256": "f667667d18cb35fc63c11a91bb10e6768a8b719f4ac64fc009d6bad94b3f249c",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet4-null05.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet4-null05.json",
+    "original_sha256": "7d4dcd1f482e183a09933c6397545c6ffbd3a0e38e7f4626eecbda7e413fa6eb",
+    "published_sha256": "b670be0e200a7151e8d20ca4b1ddef575a38ed8a80c2dc702227f32b0690d848",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet4-null06.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet4-null06.json",
+    "original_sha256": "7ed2ef52ce326d73401867f5299f08830b4736118ed6eff65189b91a5dc5d6a7",
+    "published_sha256": "9925f4239ed0ff8354881e0eaa191741d4cee94e8ab4a2839801f76a9f028532",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet4-null07.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet4-null07.json",
+    "original_sha256": "883bae149b2aefd8cf6429a6d4a9c3694d5f1146e8222614b4da25868c0fd1ad",
+    "published_sha256": "9c81e5af307108f51a063b524b5c5b2f4f2c65ef8e7ef8bd3072d95049c86e4f",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet4-null08.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet4-null08.json",
+    "original_sha256": "34dd89a9dd0f0d3a5993a6ac20457ab3a3ddaa3b3cf261402030bce1d243958c",
+    "published_sha256": "fbd3bbad328b0fb350af7aa1ab0cd4562a135f507901215f5e7a26b9b48d55d3",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet4-null09.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet4-null09.json",
+    "original_sha256": "7a0227c6c525bd1f42d1f5e38ca4c776f4cdeb420097a297082cf45ba8f4b288",
+    "published_sha256": "737a3e87e05e3b55203ec9492315567ded2a18b9aebf42bd2ce50ec15c8f7353",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet4-null10.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet4-null10.json",
+    "original_sha256": "4cc167a465f5bb2d84d812e7a44fafcaeae02417d337f10d870d7e21136582f2",
+    "published_sha256": "4b4c862a948ad34b2a36adbeb9cda7d6966cde0754b1f4c1a65e89bb7285a67f",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet4-null11.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet4-null11.json",
+    "original_sha256": "230fe9db349924975eb2ad8e8b7359b5e3cd098568aa8bb4fa8ff18d3952bebe",
+    "published_sha256": "79d04cdccdb88e71d51f07a6ec787e1e6454ca533d1ea13a3f64ad2a41c6649b",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet4-null12.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet4-null12.json",
+    "original_sha256": "6d9c911f764c00cf16e89925a9da4ee1b3e6064537d092c2ec40e282a0c74ab8",
+    "published_sha256": "413b43de952865808105e643065b3d058e8f9d76244350ef14dd912c3bb63064",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet4-null13.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet4-null13.json",
+    "original_sha256": "7159607698f17bb9d1754a3a35e4ce23f995bb278f8a59daf20471df2ca8e7b0",
+    "published_sha256": "3e8ea0b9dfbbb1256ba6a03906e10238ffc6af16ae673364347046d3513e6d1d",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet4-null14.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet4-null14.json",
+    "original_sha256": "9a9053c6a08236f9d2c40bbe95b459a84f2d2ee213a97701bea46473ecf4dbfb",
+    "published_sha256": "37e0b74469509474d8a3bd4f3a6c418834896640a731bf188a9f4cabdd4ed8e5",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet4-null15.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet4-null15.json",
+    "original_sha256": "958c50b3e2305ef3e53d91af290f3a59a75295b1b0d45bbddf9b8f4ffeca5de2",
+    "published_sha256": "f146bf0e6f2561cfb2cdc44824825bbecf0db4a31d0826426944066b6958b04e",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet4-null16.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet4-null16.json",
+    "original_sha256": "9e3e63370a436385600536075b23ebf4384a87dc1210317b055b66e692835866",
+    "published_sha256": "65d359cb6a7442a235fd3d1b0c9565196b9a1f9866e6c75afeaa3d3255069a42",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet4-null17.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet4-null17.json",
+    "original_sha256": "ac5012914c788711ee8eddedcb0600bb51f1d057fae9d56bfa2b7af774637d3b",
+    "published_sha256": "1f0167c218669d5db9f5984a20507a781f48d3c3c2320f9017e8866f22f65483",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet4-null18.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet4-null18.json",
+    "original_sha256": "20f97f2d1a7d6ccd3f59a323e8d5a341f0e4fdc4b8096b86aa21e7d5515a9d6d",
+    "published_sha256": "3f8106e0053e9511b1897933021a85b482e5d164fccda6f9552ee9749e9718fc",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet5-main.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet5-main.json",
+    "original_sha256": "54e0cc771b819f6e81e4ac2e606e9b7f0de47f4c95cc86b49ba182ecdb6c1a57",
+    "published_sha256": "fa30fc4c078302ef5a7bcdd57775d09cf6e13f8605301b4ae80ff1af93a37f59",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet5-null00.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet5-null00.json",
+    "original_sha256": "a2808a035c32717f0c74587dbb3b89b9dc060020120c2be47de2a933e1f6e072",
+    "published_sha256": "c86b41529ad2a074d051dd884004c2d7f230f1766d4018d24ce51ad5028b7c8a",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet5-null01.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet5-null01.json",
+    "original_sha256": "bfbe883ceab6dded8e60f5bcaf3d0a4a7cae53d9e1bc88d6adfdd5871a238ddc",
+    "published_sha256": "e193e6201ef1a615cbbfde5a5af87e1da294db309b954eb4785bd07f2ff10489",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet5-null02.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet5-null02.json",
+    "original_sha256": "3013abf284c007a28acf98953471bef1409e091555119cbbd8f770bf5d6923de",
+    "published_sha256": "ad8846822708cc620e55497c1d7226c8000954ba6b403a0ecc88ba99d61663af",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet5-null03.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet5-null03.json",
+    "original_sha256": "4d11e93fe03866a96f706b21fa07528f1c44597e1d40757740e644f3cad18c59",
+    "published_sha256": "04d42b32db3de9145f9f9bc8abce3dcb48ffb6c8b00fcf03874105889fa20c13",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet5-null04.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet5-null04.json",
+    "original_sha256": "e6c4954fb9a38d7dae19a265d086c5f671c0ff4c5e4c020f60703dfab6edfddb",
+    "published_sha256": "25fe76b0bbe2fcc4d25b5a94711a96eb69e9d35036a3bae71d47d5c896e46acc",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet5-null05.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet5-null05.json",
+    "original_sha256": "3ed61dc24b8e154449c78e4692b018847df8b3b650c55f34f2fd811f8308a30d",
+    "published_sha256": "02ff3137d5f956ef490e9379fa66928525c1e8e7d2511fb0df63c4598dcdd7e9",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet5-null06.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet5-null06.json",
+    "original_sha256": "5765caffe9f81c03136ea2f8090f5b228a09018862982734e076f8551ee57c3d",
+    "published_sha256": "16348d04a326c069426f5d903b685f89a92b44bdefdca0ce1468094403d92bfc",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet5-null07.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet5-null07.json",
+    "original_sha256": "47c659b567bd382aaa0292365404fcc78f524bf37e352e2a8886f2d01bf53267",
+    "published_sha256": "be6815287044c9f4fd1f2446680e3941c727eda37c1fad75c8ebcb3914ca345f",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet5-null08.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet5-null08.json",
+    "original_sha256": "10f624ed29704e22fe56b57ed5869fc7c11b8427d3631fc093a887af3bc0d2d4",
+    "published_sha256": "21b59ca5a034d3728ed549864e8c8ede064ce6f651b5c6bf6c19e7764a477141",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet5-null09.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet5-null09.json",
+    "original_sha256": "612cf426e5fbcd586dd5dc579c6b3a95164b002ed8d1312344c76d20be17e86d",
+    "published_sha256": "a1a00cfcf038750acf58bd7a3d51242e6715b450544d90b2de1cc937907b5ddf",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet5-null10.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet5-null10.json",
+    "original_sha256": "b9c549236e06930c750c8f703b78e070620405eb5234d562b1b7e2fac008217c",
+    "published_sha256": "fdb4dbca566ed31f97366347c99fbb18292a244179d8e0401748ff1e90483632",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet5-null11.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet5-null11.json",
+    "original_sha256": "1f5743152725daaa98f5ee330e18543a0cb4fec39a9fb6d1f3d066577be40aea",
+    "published_sha256": "f6fe90cf852f2a787707f0662eca7738e1873f31b00c113b3db83682544fea80",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet5-null12.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet5-null12.json",
+    "original_sha256": "adc7c2a2b165c285d7fbf92a1d89bc068d134bb4685e2f2a040b665b7c4c4292",
+    "published_sha256": "fc0a9d2fb199e638c6235fcbb7a1d9761447352fbc7d1e5d1a26ae4e7db37fd0",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet5-null13.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet5-null13.json",
+    "original_sha256": "b7322322113088f5b687bcf1bae4f49dac6ce0f9bab3e2d4a4be5254106f4664",
+    "published_sha256": "a3dc47f39025e6edd9f4870c1d9040e310e0b05cfaa906afefc9b8b023c2645a",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet5-null14.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet5-null14.json",
+    "original_sha256": "425cd04dd1836d975c5e3e473fa25d5975f49188b8174d400a74c1e98b38ff8a",
+    "published_sha256": "144ebf336e42ca5f09d8b951041dbd9e4b7d183fe471e25d45e47bd5d120ee98",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet5-null15.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet5-null15.json",
+    "original_sha256": "429146920f412f8dda909d5ca28908af29c6c09326973e9fc2f9f0d28e4c2185",
+    "published_sha256": "f5ff62de12516107dafed8d4cf9eecc4ae6cdbfcb4b47721a618add47c4eebed",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet5-null16.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet5-null16.json",
+    "original_sha256": "1a0d114cbb959dd818171e3cfba19d5195471cae32edc205449062b769248223",
+    "published_sha256": "f877ac51612c305f3acb22c58813e74fd79ff70a3fe86f46578db68fdc4c1627",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet5-null17.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet5-null17.json",
+    "original_sha256": "92b02394548110830e93f1973edf5d2de81047de412b1902810a8ffdb2ff4c3e",
+    "published_sha256": "21cd5ef5585bf3b507cdf6dc35920e4c87927086c764bf170c78e6144de18e3e",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet5-null18.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet5-null18.json",
+    "original_sha256": "bede06db13bdf3adbd74402596aeda04cf3f93c0d1d8605f512b337903078f24",
+    "published_sha256": "252da5ecaf606c157fc0c25ca0d458481a8211c277214cb28f1f43e1cd42ad32",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet6-main.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet6-main.json",
+    "original_sha256": "3d7f751164523c1bea7670313275068a41e74309ed265876342c2f500869b409",
+    "published_sha256": "fb1e65b171913008429d28d37ffbaf1f7a9bd58b88a7bca33b5594fe12d3034c",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet6-null00.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet6-null00.json",
+    "original_sha256": "f5b08fe8cec05c88267d6d6220310fe6847616f9133130cf938618f5db6c5d3d",
+    "published_sha256": "96063d7a0761ada3d706a135c1231150ebce92482e1a9d755adb145ef1735ef7",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet6-null01.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet6-null01.json",
+    "original_sha256": "ae9ca636d8847464977bac1bc22ff7a41bf09a049bdc981f8d4ae9ae5131af66",
+    "published_sha256": "fd92ea46bbcb2901a2e4a35403371e5bbd0ee7c9e2ee73c320bfe73ed6183b01",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet6-null02.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet6-null02.json",
+    "original_sha256": "761d9e5fcf8cd615507140309c9a9b1e5048ef3a86339d663bff44711dba6d58",
+    "published_sha256": "a4bf04b06be69487dca80ed113cb128e7945cbf2575985a945033e5e95df8051",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet6-null03.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet6-null03.json",
+    "original_sha256": "407506b3b2b6f41bea2896cc30ad1741f321143888946afe8d8c58d87a728275",
+    "published_sha256": "854a25842c185b6dd9cd46ca649928d98757a76197965565e8afd9b312a30b27",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet6-null04.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet6-null04.json",
+    "original_sha256": "abf941e994869966653417ef5c0db4f8e704e38c4a62f5daa73cc51869180e03",
+    "published_sha256": "5e01444b6d7dfe040bbfe27e5154a97ed0e274e3e38d97b36e85aad0c7340f0a",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet6-null05.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet6-null05.json",
+    "original_sha256": "695ec5cfa0deed7260f78e86440de2809127fe325f4981d986dd961e7f218193",
+    "published_sha256": "0f99a7366ab40fc5973f993dd281da6b08971c24398a61b4c6c9d4ee4d2a350b",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet6-null06.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet6-null06.json",
+    "original_sha256": "7e5dbee85ac1317805e93936b3675f0c53e3adf76565a72aa6058addacc0fa38",
+    "published_sha256": "ce382a101fc4b7e82c09894462597c4fe301d20c8637e91fffc87bdb75c75870",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet6-null07.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet6-null07.json",
+    "original_sha256": "dff55b8048af564fc5248f19e333e08f84621f71e427f35efda848242ad75ea2",
+    "published_sha256": "bc5322e33708e3c3b4b36c98a7df944b7e4795a0cd18819e87c657d2b514471d",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet6-null08.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet6-null08.json",
+    "original_sha256": "7fd7fe0f8eb77210a4f4a46e75cb3268565d610810d45893123fff086aebaecb",
+    "published_sha256": "dc2601ee10403c8274c8d685b729a85c59d9329f520b9df7a066fa88b8e60747",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet6-null09.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet6-null09.json",
+    "original_sha256": "5c293d7cd86244e4b7763c1b189a04c57f4ad397a6aa277ba9dddacc812f30c9",
+    "published_sha256": "2566a9f8e853a5366409ac0c08b25814f8a03b77a9c7664924e89ee160b6b078",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet6-null10.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet6-null10.json",
+    "original_sha256": "2cae150a79a7e9e9bcef9ba56eca1cb5baff2423b26fb3ce22e583613756744b",
+    "published_sha256": "436070e3efaf47811ba454784108462ac72fa677654b1232e2c85f7b481e3979",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet6-null11.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet6-null11.json",
+    "original_sha256": "081e9358eb5784982108ac1321b9386dbb7753956c7a87513e8059ae4061261a",
+    "published_sha256": "1638849fb0f4a43c41dd767551226781dd505137eae4eb8c0f9e3a96faa4371e",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet6-null12.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet6-null12.json",
+    "original_sha256": "764a2f169a4d2ed6d688d0e130a9c12f5c95972285d5b9147febb677a927c7b5",
+    "published_sha256": "ef5cc1f7671136a834be0a954349a3d32454c3e1e32dfcbf099ad3a4884f2ff6",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet6-null13.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet6-null13.json",
+    "original_sha256": "d243256f0007c97ea08bc8bd8c44b1fdd7f2a40b08c345d948db6ee81a6fe6f8",
+    "published_sha256": "d98a8faf9f8e37e998c18b0017d3057bae03a4b5fe4556be1c629e46609407ab",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet6-null14.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet6-null14.json",
+    "original_sha256": "0aea50ce4821a63747753e9b96405682ed1ea5a6987c099669e20fe62d9fd80f",
+    "published_sha256": "f1e79cc0365788de225a90de42fd8add9cd86335bfc0c9ddbb1016ea880be332",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet6-null15.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet6-null15.json",
+    "original_sha256": "a1b70f83d7e40cd289ef7009b55bf5df716e4d3ab005acdffc623e2c740ae313",
+    "published_sha256": "27a4bfbfcb997fe07a643d0ae9ab4d843c92dd0c5c2ef42f0fc3b579c924e59d",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet6-null16.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet6-null16.json",
+    "original_sha256": "1fac1b4aa83533bdedc23e9f1450a99200df2c8e811afaa9dcb43408e415f352",
+    "published_sha256": "478e32fe0a9f73da24d999cb11a84ea1c67e3c0edc0039d85e46af75632c0f2e",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet6-null17.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet6-null17.json",
+    "original_sha256": "7a7ae0341dd7ed28137597e983790f94cec6a21a0d09ce1c126f6e6fd91be52b",
+    "published_sha256": "afafc7554ad239dcf8c995d6ca39c0dae1778e0ce47a170dcfeeefd0784bd98b",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S17/packet6-null18.json",
+    "private_original": "exploration/persistent-01/private-originals/worker-s/S17/packet6-null18.json",
+    "original_sha256": "10dd1766723268d209835f0181b55328fb339028c189fbdff0a22af45b4268c8",
+    "published_sha256": "186027e6c3d5d6e9ccf59f2b14a920f995ecbcd0f869e6196c21f40e7f3f3a1d",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
   }
 ]

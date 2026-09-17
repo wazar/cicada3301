@@ -1,0 +1,70 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-58/check.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "da17689d77e8c830bd42e8bfd66ee8ff17718605",
+  "started_utc": "2026-09-17T02:25:43.281050+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-58/check.py",
+      "exists": true,
+      "bytes": 7951,
+      "sha256": "cf001d9174b1b084b033cc0741578243e1ae4265fc7aab32a383f39af88a4acf"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P17/pg45315.txt",
+      "exists": true,
+      "bytes": 46701,
+      "sha256": "fc9a76619fcb76c58273d7fc9e034108b0d7fffed3780ad5b8226954a12b289a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P29/CARD.md",
+      "exists": true,
+      "bytes": 3754,
+      "sha256": "9db7edba78d2328c70d55fb0df434b70d5c721a484280f247cb18b6475425e76"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P29/REPORT.md",
+      "exists": true,
+      "bytes": 6390,
+      "sha256": "c1e1b88cf069d42b4e3c8ba6df4884592bffa35f7056c6bf48bd3bf96469dd9c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P29/source-maps.json.gz",
+      "exists": true,
+      "bytes": 215495,
+      "sha256": "7e63dc11d2ecf2bd1415ccc68c47bcb73bb9e351d9d98dfaa25cfe9b4362a5f8"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 10811,
+  "finished_utc": "2026-09-17T02:25:44.718959+00:00",
+  "duration_seconds": 1.4377147920022253
+}

@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-56/check.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "da17689d77e8c830bd42e8bfd66ee8ff17718605",
+  "started_utc": "2026-09-17T02:18:30.454118+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q10-reciprocal-stability/CARD.md",
+      "exists": true,
+      "bytes": 1566,
+      "sha256": "bbb61b3e49f0845d1c553aa9d2bef85311e1e804700820ce6bd091b3ff0c6740"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q10-reciprocal-stability/test.py",
+      "exists": true,
+      "bytes": 2363,
+      "sha256": "1c78d1979a61e4edcdc08023128898f83a70716f21a025a31d81e8392b9315f6"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/check.py",
+      "exists": true,
+      "bytes": 5971,
+      "sha256": "bdccccbd204bfca09e3b1a6282be465cc7a35ddd24aa069f995ae6a2ac8ea4ba"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    }
+  ],
+  "outcome": "NONZERO",
+  "exit_code": 1,
+  "pid": 10308,
+  "finished_utc": "2026-09-17T02:18:30.534727+00:00",
+  "duration_seconds": 0.08034274999954505
+}

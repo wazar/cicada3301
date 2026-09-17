@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/review-56/check.py", line 45, in <module>
+    r=dict(old,train_counts=old['held_counts'],held_counts=old['train_counts'],fits=n['fits'],held_ll=n['reverse_held_ll'],held_gain=n['reverse_gain'],qualified=all(f['qualified'] for f in n['fits']));audit(r);assert n['qualified']==(old['qualified'] and r['qualified']);assert n['forward_gain']==old['held_gain'] and n['combined_gain']==old['held_gain']+n['reverse_gain']
+                                                                                                                                                                                                         ^^^^^^^^
+  File "<REPO_ROOT>/exploration/persistent-01/review-56/check.py", line 27, in audit
+    assert C[0].tolist()==r['train_counts'] and C[1].tolist()==r['held_counts'];held=[]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

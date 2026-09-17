@@ -1,0 +1,198 @@
+[
+  {
+    "page": 0,
+    "word_count": 59,
+    "constraints": 203,
+    "feasible": false,
+    "cycle": [
+      0,
+      18,
+      0
+    ],
+    "witness": [
+      {
+        "word_index": 55,
+        "rotation": 2,
+        "mismatch": 0,
+        "a": 0,
+        "b": 18,
+        "word_map": {
+          "start": 245,
+          "end": 254,
+          "source_lines": [
+            11
+          ],
+          "raw_positions": [
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318,
+            319
+          ],
+          "source_char_positions": [
+            322,
+            323,
+            324,
+            325,
+            326,
+            327,
+            328,
+            329,
+            330
+          ]
+        },
+        "runes": [
+          0,
+          3,
+          18,
+          7,
+          28,
+          22,
+          20,
+          0,
+          25
+        ],
+        "source_a": 322,
+        "source_b": 324
+      },
+      {
+        "word_index": 12,
+        "rotation": 2,
+        "mismatch": 0,
+        "a": 18,
+        "b": 0,
+        "word_map": {
+          "start": 56,
+          "end": 62,
+          "source_lines": [
+            2
+          ],
+          "raw_positions": [
+            70,
+            71,
+            72,
+            73,
+            74,
+            75
+          ],
+          "source_char_positions": [
+            72,
+            73,
+            74,
+            75,
+            76,
+            77
+          ]
+        },
+        "runes": [
+          18,
+          27,
+          0,
+          14,
+          6,
+          0
+        ],
+        "source_a": 72,
+        "source_b": 74
+      }
+    ]
+  },
+  {
+    "page": 1,
+    "word_count": 63,
+    "constraints": 203,
+    "feasible": false,
+    "cycle": [
+      0,
+      4,
+      0
+    ],
+    "witness": [
+      {
+        "word_index": 36,
+        "rotation": 1,
+        "mismatch": 0,
+        "a": 0,
+        "b": 4,
+        "word_map": {
+          "start": 157,
+          "end": 163,
+          "source_lines": [
+            6,
+            7
+          ],
+          "raw_positions": [
+            200,
+            201,
+            203,
+            204,
+            205,
+            206
+          ],
+          "source_char_positions": [
+            551,
+            552,
+            555,
+            556,
+            557,
+            558
+          ]
+        },
+        "runes": [
+          0,
+          4,
+          23,
+          21,
+          18,
+          1
+        ],
+        "source_a": 551,
+        "source_b": 552
+      },
+      {
+        "word_index": 4,
+        "rotation": 5,
+        "mismatch": 0,
+        "a": 4,
+        "b": 0,
+        "word_map": {
+          "start": 25,
+          "end": 31,
+          "source_lines": [
+            1
+          ],
+          "raw_positions": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "source_char_positions": [
+            377,
+            378,
+            379,
+            380,
+            381,
+            382
+          ]
+        },
+        "runes": [
+          4,
+          17,
+          3,
+          23,
+          2,
+          0
+        ],
+        "source_a": 377,
+        "source_b": 382
+      }
+    ]
+  }
+]

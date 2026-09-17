@@ -1,0 +1,150 @@
+{
+  "CARD.md": {
+    "sha256": "d73f24f463f3b67986f8e992a5668876e95a7961dedc07df97cdd15eae160107",
+    "bytes": 2624
+  },
+  "CONTROL-AMENDMENT.md": {
+    "sha256": "cfa119553bb02ee1b82a99e13be21e0485d6d19fc93b7167d0ce669684543e3e",
+    "bytes": 1046
+  },
+  "REPORT.md": {
+    "sha256": "dfccbd51d6db83c282b972fe333345af40950136d2b743e93a022b3966ca1762",
+    "bytes": 3905
+  },
+  "actual.json": {
+    "sha256": "208683ba9cdd2294778a38bdbcb019ddadf21660b9a00f4504c2ac2a6230cc35",
+    "bytes": 82663
+  },
+  "check-result.json": {
+    "sha256": "366dc51b45befae24adf1f37e3f2aa733719b7aca6403c8937a9e2e445bfd552",
+    "bytes": 1572
+  },
+  "check.py": {
+    "sha256": "23bc76b0acef15a5c904d396ab5ec4ea1395b3172236354a2fa6354b086c3977",
+    "bytes": 2567
+  },
+  "controls-repaired.json.gz": {
+    "sha256": "d9af1f34e8e2929cddff368a469cae88df0d1dd2ab1790cb0a4e2ba905f334a5",
+    "bytes": 356875
+  },
+  "diagnose.py": {
+    "sha256": "01fe0cabd0f1d7361c48e8146a6f6e5edb46d7e0d5a5ebe88bd6925b4ef4ce6b",
+    "bytes": 377
+  },
+  "failed-control.json": {
+    "sha256": "e3cbdf4ad8d9782e0137c48ed78222c4d7e3baa61e53a74d0bd4c416e9b09f54",
+    "bytes": 3526105
+  },
+  "runs/20260917T020849.817746Z-exact-framing-controls-actual/code/exploration/persistent-01/run_logged.py": {
+    "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+    "bytes": 3045
+  },
+  "runs/20260917T020849.817746Z-exact-framing-controls-actual/code/exploration/persistent-01/worker-n/N13/test.py": {
+    "sha256": "a7e3959a93083e4b4b62871f748d7fe1c93875dd8bd7c161bfed78b90d8b3720",
+    "bytes": 3154
+  },
+  "runs/20260917T020849.817746Z-exact-framing-controls-actual/command.json": {
+    "sha256": "0ef74523743f262ad39fd5a790ba96f920a27b2d13f1fc9edfe5ceac64f93096",
+    "bytes": 1561
+  },
+  "runs/20260917T020849.817746Z-exact-framing-controls-actual/stderr.txt": {
+    "sha256": "3e84255a83ffd2c25c626b22611c40c61a16a378987c6900240d9ca4ff9c74c4",
+    "bytes": 232
+  },
+  "runs/20260917T020849.817746Z-exact-framing-controls-actual/stdout.txt": {
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+  },
+  "runs/20260917T020929.289972Z-failed-control-preservation/code/exploration/persistent-01/run_logged.py": {
+    "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+    "bytes": 3045
+  },
+  "runs/20260917T020929.289972Z-failed-control-preservation/code/exploration/persistent-01/worker-n/N13/diagnose.py": {
+    "sha256": "01fe0cabd0f1d7361c48e8146a6f6e5edb46d7e0d5a5ebe88bd6925b4ef4ce6b",
+    "bytes": 377
+  },
+  "runs/20260917T020929.289972Z-failed-control-preservation/code/exploration/persistent-01/worker-n/N13/test.py": {
+    "sha256": "a7e3959a93083e4b4b62871f748d7fe1c93875dd8bd7c161bfed78b90d8b3720",
+    "bytes": 3154
+  },
+  "runs/20260917T020929.289972Z-failed-control-preservation/command.json": {
+    "sha256": "eea9ffb29d1da5b03aa8a516abdc611c411314097616df1a3ee0991344229e38",
+    "bytes": 1361
+  },
+  "runs/20260917T020929.289972Z-failed-control-preservation/stderr.txt": {
+    "sha256": "405e54a71e6b4e26130e66603819f24387943232155f10bb39604e5068c9f6d8",
+    "bytes": 791
+  },
+  "runs/20260917T020929.289972Z-failed-control-preservation/stdout.txt": {
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+  },
+  "runs/20260917T021030.179710Z-repaired-codebook-controls-actual/code/exploration/persistent-01/run_logged.py": {
+    "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+    "bytes": 3045
+  },
+  "runs/20260917T021030.179710Z-repaired-codebook-controls-actual/code/exploration/persistent-01/worker-n/N13/diagnose.py": {
+    "sha256": "01fe0cabd0f1d7361c48e8146a6f6e5edb46d7e0d5a5ebe88bd6925b4ef4ce6b",
+    "bytes": 377
+  },
+  "runs/20260917T021030.179710Z-repaired-codebook-controls-actual/code/exploration/persistent-01/worker-n/N13/test.py": {
+    "sha256": "a7e3959a93083e4b4b62871f748d7fe1c93875dd8bd7c161bfed78b90d8b3720",
+    "bytes": 3154
+  },
+  "runs/20260917T021030.179710Z-repaired-codebook-controls-actual/code/exploration/persistent-01/worker-n/N13/test_repaired.py": {
+    "sha256": "3e6b38546eb78a78e7ad15864911f71a83f4ce5e64582084d52968744e1739eb",
+    "bytes": 3526
+  },
+  "runs/20260917T021030.179710Z-repaired-codebook-controls-actual/command.json": {
+    "sha256": "1ba7ee25b424071d93cfed22e0055aed5cc8941ebed36a33c51230723dd06769",
+    "bytes": 1994
+  },
+  "runs/20260917T021030.179710Z-repaired-codebook-controls-actual/stderr.txt": {
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+  },
+  "runs/20260917T021030.179710Z-repaired-codebook-controls-actual/stdout.txt": {
+    "sha256": "be5091e6bef96ba7af7763df74e05cf92a4a85da27635af14cf746799fc41cd7",
+    "bytes": 305
+  },
+  "runs/20260917T021112.393255Z-independent-control-and-source-replay/code/exploration/persistent-01/run_logged.py": {
+    "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b",
+    "bytes": 3045
+  },
+  "runs/20260917T021112.393255Z-independent-control-and-source-replay/code/exploration/persistent-01/worker-n/N13/check.py": {
+    "sha256": "23bc76b0acef15a5c904d396ab5ec4ea1395b3172236354a2fa6354b086c3977",
+    "bytes": 2567
+  },
+  "runs/20260917T021112.393255Z-independent-control-and-source-replay/code/exploration/persistent-01/worker-n/N13/diagnose.py": {
+    "sha256": "01fe0cabd0f1d7361c48e8146a6f6e5edb46d7e0d5a5ebe88bd6925b4ef4ce6b",
+    "bytes": 377
+  },
+  "runs/20260917T021112.393255Z-independent-control-and-source-replay/code/exploration/persistent-01/worker-n/N13/test.py": {
+    "sha256": "a7e3959a93083e4b4b62871f748d7fe1c93875dd8bd7c161bfed78b90d8b3720",
+    "bytes": 3154
+  },
+  "runs/20260917T021112.393255Z-independent-control-and-source-replay/code/exploration/persistent-01/worker-n/N13/test_repaired.py": {
+    "sha256": "3e6b38546eb78a78e7ad15864911f71a83f4ce5e64582084d52968744e1739eb",
+    "bytes": 3526
+  },
+  "runs/20260917T021112.393255Z-independent-control-and-source-replay/command.json": {
+    "sha256": "6bee65572b882dc80bf13d11a0a4ae06c057a71f0891794a600f88349f6b95e4",
+    "bytes": 2203
+  },
+  "runs/20260917T021112.393255Z-independent-control-and-source-replay/stderr.txt": {
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+  },
+  "runs/20260917T021112.393255Z-independent-control-and-source-replay/stdout.txt": {
+    "sha256": "e047ea4b286850809996fea1d5b353bfff84a50d4fbbf07610440a3d5c2e8406",
+    "bytes": 749
+  },
+  "test.py": {
+    "sha256": "a7e3959a93083e4b4b62871f748d7fe1c93875dd8bd7c161bfed78b90d8b3720",
+    "bytes": 3154
+  },
+  "test_repaired.py": {
+    "sha256": "3e6b38546eb78a78e7ad15864911f71a83f4ce5e64582084d52968744e1739eb",
+    "bytes": 3526
+  }
+}

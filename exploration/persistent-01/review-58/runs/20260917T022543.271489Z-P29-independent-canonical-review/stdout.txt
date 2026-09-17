@@ -1,0 +1,300 @@
+{
+  "status": "PASS",
+  "source_runes": 18584,
+  "source_words": 4580,
+  "source_sha256": "fc9a76619fcb76c58273d7fc9e034108b0d7fffed3780ad5b8226954a12b289a",
+  "panels": 600,
+  "windows": 10993800,
+  "all_first_conflicts_verified": true,
+  "method": "first-occurrence canonical labels for compatibility; direct parity-independent source/cipher prior-index checks for first conflict witnesses",
+  "control_codes": [
+    {
+      "id": 0,
+      "source_start": 0,
+      "observed_assignments": 88
+    },
+    {
+      "id": 1,
+      "source_start": 4096,
+      "observed_assignments": 92
+    },
+    {
+      "id": 2,
+      "source_start": 8192,
+      "observed_assignments": 89
+    },
+    {
+      "id": 3,
+      "source_start": 12288,
+      "observed_assignments": 97
+    }
+  ],
+  "malformed_cases": 8,
+  "unique_null_seeds": 595,
+  "actual_reason_counts": {
+    "1": 13894,
+    "2": 4429
+  },
+  "tails": [
+    {
+      "panel": "control-0",
+      "tail": 0.01,
+      "range": [
+        5,
+        39
+      ]
+    },
+    {
+      "panel": "control-1",
+      "tail": 0.01,
+      "range": [
+        5,
+        40
+      ]
+    },
+    {
+      "panel": "control-2",
+      "tail": 0.01,
+      "range": [
+        7,
+        35
+      ]
+    },
+    {
+      "panel": "control-3",
+      "tail": 0.01,
+      "range": [
+        9,
+        42
+      ]
+    },
+    {
+      "panel": "actual",
+      "tail": 0.935,
+      "range": [
+        17,
+        59
+      ]
+    }
+  ],
+  "actual_maximal_examples": [
+    {
+      "source_start": 2416,
+      "conflict_pair": 34,
+      "earlier_pair": 25,
+      "reason": 2,
+      "source_pair_values": [
+        [
+          10,
+          21
+        ],
+        [
+          20,
+          23
+        ]
+      ],
+      "source_char_positions": [
+        [
+          [
+            4921
+          ],
+          [
+            4922,
+            4923
+          ]
+        ],
+        [
+          [
+            4947
+          ],
+          [
+            4950
+          ]
+        ]
+      ],
+      "cipher_pair_values": [
+        [
+          21,
+          26
+        ],
+        [
+          21,
+          26
+        ]
+      ],
+      "cipher_source_positions": [
+        [
+          64,
+          65
+        ],
+        [
+          87,
+          88
+        ]
+      ]
+    },
+    {
+      "source_start": 3174,
+      "conflict_pair": 34,
+      "earlier_pair": 25,
+      "reason": 2,
+      "source_pair_values": [
+        [
+          5,
+          16
+        ],
+        [
+          18,
+          9
+        ]
+      ],
+      "source_char_positions": [
+        [
+          [
+            5999
+          ],
+          [
+            6000
+          ]
+        ],
+        [
+          [
+            6021
+          ],
+          [
+            6022
+          ]
+        ]
+      ],
+      "cipher_pair_values": [
+        [
+          21,
+          26
+        ],
+        [
+          21,
+          26
+        ]
+      ],
+      "cipher_source_positions": [
+        [
+          64,
+          65
+        ],
+        [
+          87,
+          88
+        ]
+      ]
+    },
+    {
+      "source_start": 14457,
+      "conflict_pair": 34,
+      "earlier_pair": 29,
+      "reason": 1,
+      "source_pair_values": [
+        [
+          18,
+          7
+        ],
+        [
+          18,
+          7
+        ]
+      ],
+      "source_char_positions": [
+        [
+          [
+            21924
+          ],
+          [
+            21926
+          ]
+        ],
+        [
+          [
+            21937
+          ],
+          [
+            21938
+          ]
+        ]
+      ],
+      "cipher_pair_values": [
+        [
+          0,
+          14
+        ],
+        [
+          21,
+          26
+        ]
+      ],
+      "cipher_source_positions": [
+        [
+          74,
+          75
+        ],
+        [
+          87,
+          88
+        ]
+      ]
+    },
+    {
+      "source_start": 17300,
+      "conflict_pair": 34,
+      "earlier_pair": 25,
+      "reason": 2,
+      "source_pair_values": [
+        [
+          1,
+          18
+        ],
+        [
+          9,
+          23
+        ]
+      ],
+      "source_char_positions": [
+        [
+          [
+            25888
+          ],
+          [
+            25889
+          ]
+        ],
+        [
+          [
+            25922
+          ],
+          [
+            25923
+          ]
+        ]
+      ],
+      "cipher_pair_values": [
+        [
+          21,
+          26
+        ],
+        [
+          21,
+          26
+        ]
+      ],
+      "cipher_source_positions": [
+        [
+          64,
+          65
+        ],
+        [
+          87,
+          88
+        ]
+      ]
+    }
+  ],
+  "array_bytes": 9654874
+}

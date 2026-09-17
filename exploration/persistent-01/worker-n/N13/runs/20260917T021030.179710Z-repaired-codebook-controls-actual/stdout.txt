@@ -1,0 +1,21 @@
+CONTROLS 870 PASS
+[
+  {
+    "page": 0,
+    "units": 59,
+    "violations": 4,
+    "bad_lengths": [
+      8
+    ],
+    "disposition": "EXACT_FORMAT_EXCLUSION"
+  },
+  {
+    "page": 1,
+    "units": 63,
+    "violations": 2,
+    "bad_lengths": [
+      8
+    ],
+    "disposition": "EXACT_FORMAT_EXCLUSION"
+  }
+]

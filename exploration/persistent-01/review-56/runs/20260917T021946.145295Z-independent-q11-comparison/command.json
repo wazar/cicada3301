@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-56/compare_q11.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "da17689d77e8c830bd42e8bfd66ee8ff17718605",
+  "started_utc": "2026-09-17T02:19:46.154741+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q11-uniform-reference/all-panels.json",
+      "exists": true,
+      "bytes": 330170,
+      "sha256": "c74f642b096f93174c8d511aad90b8cb6b099b5a809bebe167b678942e5ccced"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/check.py",
+      "exists": true,
+      "bytes": 5971,
+      "sha256": "5893f9d24ec339dcc0424d2366acc108c5176deb7b217c6fa0d14f5893072c35"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/compare_q11.py",
+      "exists": true,
+      "bytes": 1245,
+      "sha256": "13cb5540793db86443fe4c6252e5460d05e5e31d9c0ee4bb6e4c06c31e0150b1"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 10390,
+  "finished_utc": "2026-09-17T02:19:46.179709+00:00",
+  "duration_seconds": 0.024737040999752935
+}

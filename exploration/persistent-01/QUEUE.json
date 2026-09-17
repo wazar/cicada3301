@@ -949,19 +949,19 @@
   {
     "id": "P29",
     "owner": "persistent_p",
-    "status": "running",
+    "status": "completed_reviewed",
     "title": "P29 fixed ordered digraph-codebook search over pinned Blake windows; scorer-free, no keystream, ciphertext phase0 only. Reviews50/51 complete."
   },
   {
     "id": "S16",
     "owner": "persistent_s",
-    "status": "completed_pending_review",
+    "status": "completed_reviewed",
     "title": "Exact minimum-rotation order cycles on0/1."
   },
   {
     "id": "S17",
     "owner": "persistent_s",
-    "status": "pilot",
+    "status": "completed_reviewed",
     "title": "S16 minimal-rotation unknown-order model has exact cycle obstructions, frozen. S17 assessing direct bijective substitution search with clean Latin model; cost/control pilot before actual."
   },
   {
@@ -979,7 +979,7 @@
   {
     "id": "N13",
     "owner": "persistent_n",
-    "status": "running",
+    "status": "completed_reviewed",
     "title": "N13 fixed Elias-delta integer framing in five-bit rune tokens; independent of labels/scorer. N12 and review52 complete. N11 historical tool task remains blocked."
   },
   {
@@ -987,5 +987,41 @@
     "owner": "coordinator",
     "status": "completed_reviewed",
     "title": "Longest-prefix binary-merge dictionary theorem and source certificate, review52."
+  },
+  {
+    "id": "P30",
+    "owner": "persistent_p",
+    "status": "running",
+    "title": "P30 optional nonconsuming literal-F plaintext FIFO autokey: four full controls exact; fixed162-cell real0/17/55 and19nulls each running. Existing-method lane, no seed expansion."
+  },
+  {
+    "id": "S18",
+    "owner": "persistent_s",
+    "status": "completed_reviewed",
+    "title": "Exact S3 identity-word bound, review59."
+  },
+  {
+    "id": "S19",
+    "owner": "persistent_s",
+    "status": "pilot",
+    "title": "S19 word lengths as payload under shared substitution, continuous clean Latin model; raw-source/control/cost pilot before one real full panel and19nulls."
+  },
+  {
+    "id": "N14",
+    "owner": "persistent_n",
+    "status": "completed_pending_review",
+    "title": "Onion route weak deficit, null sensitivity required."
+  },
+  {
+    "id": "N15",
+    "owner": "persistent_n",
+    "status": "running",
+    "title": "N15 two frozen null sensitivities for N14 circumference route: uniform exact-repeat-mask and inventory-preserving unconditional permutations. No route expansion."
+  },
+  {
+    "id": "Q09-Q11",
+    "owner": "coordinator",
+    "status": "completed_reviewed",
+    "title": "Reciprocal relative gain loses to uniform, reviews54/56; redirected."
   }
 ]

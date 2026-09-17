@@ -1,0 +1,70 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-n/N13/check.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "da17689d77e8c830bd42e8bfd66ee8ff17718605",
+  "started_utc": "2026-09-17T02:11:12.408089+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N13/actual.json",
+      "exists": true,
+      "bytes": 82663,
+      "sha256": "208683ba9cdd2294778a38bdbcb019ddadf21660b9a00f4504c2ac2a6230cc35"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N13/check.py",
+      "exists": true,
+      "bytes": 2567,
+      "sha256": "23bc76b0acef15a5c904d396ab5ec4ea1395b3172236354a2fa6354b086c3977"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N13/controls-repaired.json.gz",
+      "exists": true,
+      "bytes": 356875,
+      "sha256": "d9af1f34e8e2929cddff368a469cae88df0d1dd2ab1790cb0a4e2ba905f334a5"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N13/diagnose.py",
+      "exists": true,
+      "bytes": 377,
+      "sha256": "01fe0cabd0f1d7361c48e8146a6f6e5edb46d7e0d5a5ebe88bd6925b4ef4ce6b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N13/test.py",
+      "exists": true,
+      "bytes": 3154,
+      "sha256": "a7e3959a93083e4b4b62871f748d7fe1c93875dd8bd7c161bfed78b90d8b3720"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N13/test_repaired.py",
+      "exists": true,
+      "bytes": 3526,
+      "sha256": "3e6b38546eb78a78e7ad15864911f71a83f4ce5e64582084d52968744e1739eb"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 9469,
+  "finished_utc": "2026-09-17T02:11:12.496067+00:00",
+  "duration_seconds": 0.08775491599953966
+}

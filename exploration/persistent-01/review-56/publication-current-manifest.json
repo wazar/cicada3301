@@ -1,0 +1,180 @@
+{
+  "scope": "Current publication bytes; previous manifests are original snapshot identities.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/review-56/MANIFEST.json",
+      "bytes": 5969,
+      "sha256": "28d6e7dc2203c37809ce465cfbbbe783c82c29a0125e38fe2e14c743571ae315"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/REPORT.md",
+      "bytes": 4066,
+      "sha256": "fb4c55ff040a97240fd7e35f17d05ef638f273adb104c49232c40387d50c91cc"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/check.py",
+      "bytes": 5971,
+      "sha256": "5893f9d24ec339dcc0424d2366acc108c5176deb7b217c6fa0d14f5893072c35"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/compare_q11.py",
+      "bytes": 1245,
+      "sha256": "13cb5540793db86443fe4c6252e5460d05e5e31d9c0ee4bb6e4c06c31e0150b1"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/constant-reference.json",
+      "bytes": 387169,
+      "sha256": "dd47b14d951c2b8075e9498aba8badf145b060a55827a2fc8f47dc4550a4ef79"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/inputs.json",
+      "bytes": 87162,
+      "sha256": "a06f03227a4605cdc89c62f26de4c040c9cc3a74a1347cd73ee37ebaf759624f"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/q11-result.json",
+      "bytes": 98,
+      "sha256": "0663f1f53472eb56fe24bd3edb12bb209434a0336a5e93ccb960825b801835bf"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/result.json",
+      "bytes": 4045,
+      "sha256": "3b33759fb8b3e44724f15c1534579dd4fce5be5dc3aabb5889fb86a44cdb8cef"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/runs/20260917T021830.444039Z-reverse-fits-and-constant-reference/code/exploration/persistent-01/coordinator/Q10-reciprocal-stability/test.py",
+      "bytes": 2363,
+      "sha256": "1c78d1979a61e4edcdc08023128898f83a70716f21a025a31d81e8392b9315f6"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/runs/20260917T021830.444039Z-reverse-fits-and-constant-reference/code/exploration/persistent-01/review-56/check.py",
+      "bytes": 5971,
+      "sha256": "bdccccbd204bfca09e3b1a6282be465cc7a35ddd24aa069f995ae6a2ac8ea4ba"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/runs/20260917T021830.444039Z-reverse-fits-and-constant-reference/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/runs/20260917T021830.444039Z-reverse-fits-and-constant-reference/command.json",
+      "bytes": 1603,
+      "sha256": "2c8ac0cf279eccd1b7be0948361bb0c5f6a935dbb91cd6182219f1a12de4da7b"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/runs/20260917T021830.444039Z-reverse-fits-and-constant-reference/stderr.txt",
+      "bytes": 974,
+      "sha256": "22bc60c33199aeb41c8ef629ba21b243e2c4b2391c3cacbf7bbf3ad074c53efa"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/runs/20260917T021830.444039Z-reverse-fits-and-constant-reference/stdout.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/runs/20260917T021847.402076Z-corrected-reverse-count-split/code/exploration/persistent-01/coordinator/Q10-reciprocal-stability/test.py",
+      "bytes": 2363,
+      "sha256": "1c78d1979a61e4edcdc08023128898f83a70716f21a025a31d81e8392b9315f6"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/runs/20260917T021847.402076Z-corrected-reverse-count-split/code/exploration/persistent-01/review-56/check.py",
+      "bytes": 5971,
+      "sha256": "5893f9d24ec339dcc0424d2366acc108c5176deb7b217c6fa0d14f5893072c35"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/runs/20260917T021847.402076Z-corrected-reverse-count-split/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/runs/20260917T021847.402076Z-corrected-reverse-count-split/command.json",
+      "bytes": 1371,
+      "sha256": "6c7e2663d6c7f48af36865d96850465da60ad24f663689d52f42d2bffa194db8"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/runs/20260917T021847.402076Z-corrected-reverse-count-split/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/runs/20260917T021847.402076Z-corrected-reverse-count-split/stdout.txt",
+      "bytes": 501,
+      "sha256": "04f33c5843ae3015857bd8861084dc3c2800141fa0a6272f390966c34c0342dc"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/runs/20260917T021946.145295Z-independent-q11-comparison/code/exploration/persistent-01/review-56/check.py",
+      "bytes": 5971,
+      "sha256": "5893f9d24ec339dcc0424d2366acc108c5176deb7b217c6fa0d14f5893072c35"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/runs/20260917T021946.145295Z-independent-q11-comparison/code/exploration/persistent-01/review-56/compare_q11.py",
+      "bytes": 1245,
+      "sha256": "13cb5540793db86443fe4c6252e5460d05e5e31d9c0ee4bb6e4c06c31e0150b1"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/runs/20260917T021946.145295Z-independent-q11-comparison/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/runs/20260917T021946.145295Z-independent-q11-comparison/command.json",
+      "bytes": 1594,
+      "sha256": "28739d3dd46d9df2d3f8b4541c48d2bec367830d715ebbd79616f4aba0d8215b"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/runs/20260917T021946.145295Z-independent-q11-comparison/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/runs/20260917T021946.145295Z-independent-q11-comparison/stdout.txt",
+      "bytes": 4,
+      "sha256": "51ff0d2f0d3a5d61edec31785532ea0d570f8c348d58b15b94ff9c2ca6e926a4"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/snapshots/Q10-reciprocal-stability-CARD.md",
+      "bytes": 1566,
+      "sha256": "bbb61b3e49f0845d1c553aa9d2bef85311e1e804700820ce6bd091b3ff0c6740"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/snapshots/Q10-reciprocal-stability-REPORT.md",
+      "bytes": 1687,
+      "sha256": "6214ebb9d3407c0b5a74a39e9405035e357a33ef61d68338866805ae9e86865c"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/snapshots/Q10-reciprocal-stability-summary.json",
+      "bytes": 3328,
+      "sha256": "d1debdbe6e6943f5bf52f0da25250dd73f0f13a99784732b8fb137560f08665a"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/snapshots/Q10-reciprocal-stability-test.py",
+      "bytes": 2363,
+      "sha256": "1c78d1979a61e4edcdc08023128898f83a70716f21a025a31d81e8392b9315f6"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/snapshots/Q11-uniform-reference-CARD.md",
+      "bytes": 1090,
+      "sha256": "2f0b3d4362e821bd189ed1f752af10fd212eae64ca88393da1fcf5cdcef05e84"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/snapshots/Q11-uniform-reference-REPORT.md",
+      "bytes": 1567,
+      "sha256": "d7e5af20f130f5d9b1d9949cfef22b710c1b7443450ca253e3336180d51a90a2"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/snapshots/Q11-uniform-reference-all-panels.json",
+      "bytes": 330170,
+      "sha256": "c74f642b096f93174c8d511aad90b8cb6b099b5a809bebe167b678942e5ccced"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/snapshots/Q11-uniform-reference-summary.json",
+      "bytes": 2710,
+      "sha256": "61684216adfb89c2924baae56b683315f41848ba1a970fd10a65005f9113496a"
+    },
+    {
+      "path": "exploration/persistent-01/review-56/snapshots/Q11-uniform-reference-test.py",
+      "bytes": 952,
+      "sha256": "f247691e1a198c32eaf24b00bee6fb8f27463b0a6343e5e330961e28d9b3df24"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# Review55 — N13 and S16 exact certificates
+
+Independently verify the named necessary conditions and every actual source-unit witness, without importing production algorithms or rerunning a scientific search. Rebuild N13 code lengths and streaming integer round trips; replay all repaired proposal RNG/maps and the retained failed-control evidence. Preserve amendment/failure chronology. Reconstruct S16 first-unequal rotation inequalities and direct two-edge contradictions; replay40 source-shaped controls and tiny all-order counts. Snapshot code/results/inputs, retain audit failures. These bounds are the specified record grammar and per-page canonical rotation rule, not language/cipher-family exclusions. No reserves/new images/toolversion/crash work/Git.
