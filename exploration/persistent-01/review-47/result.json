@@ -1,0 +1,109 @@
+{
+  "status": "PASS",
+  "panels": 600,
+  "candidates": 7034,
+  "max_gradient": 6.266562952440236e-07,
+  "max_baseline_error": 6.661338147750939e-15,
+  "max_eigen_residual": 9.992007221626409e-16,
+  "rows": [
+    {
+      "name": "control-0",
+      "forward": 686.1838737758444,
+      "reverse": 720.3157299188097,
+      "sum_gain": 1406.499603694654,
+      "agreement": {
+        "maximum_matches": 10,
+        "affine_maps": [
+          [
+            6,
+            28
+          ]
+        ],
+        "anchored_maximum_matches": 4,
+        "exact": false
+      },
+      "tail": 0.01,
+      "secondary": 0.01
+    },
+    {
+      "name": "control-1",
+      "forward": 1314.9967163648125,
+      "reverse": 1327.7778267482827,
+      "sum_gain": 2642.774543113095,
+      "agreement": {
+        "maximum_matches": 18,
+        "affine_maps": [
+          [
+            1,
+            0
+          ]
+        ],
+        "anchored_maximum_matches": 18,
+        "exact": false
+      },
+      "tail": 0.01,
+      "secondary": 0.01
+    },
+    {
+      "name": "control-2",
+      "forward": 1145.2772357875438,
+      "reverse": 1168.7700229322618,
+      "sum_gain": 2314.0472587198055,
+      "agreement": {
+        "maximum_matches": 12,
+        "affine_maps": [
+          [
+            1,
+            0
+          ]
+        ],
+        "anchored_maximum_matches": 12,
+        "exact": false
+      },
+      "tail": 0.01,
+      "secondary": 0.01
+    },
+    {
+      "name": "control-3",
+      "forward": 801.6557861074325,
+      "reverse": 690.465842944941,
+      "sum_gain": 1492.1216290523735,
+      "agreement": {
+        "maximum_matches": 9,
+        "affine_maps": [
+          [
+            2,
+            2
+          ]
+        ],
+        "anchored_maximum_matches": 5,
+        "exact": false
+      },
+      "tail": 0.01,
+      "secondary": 0.01
+    },
+    {
+      "name": "actual",
+      "forward": -7.586799850470925,
+      "reverse": -27.86087866789967,
+      "sum_gain": -35.447678518370594,
+      "agreement": {
+        "maximum_matches": 5,
+        "affine_maps": [
+          [
+            7,
+            14
+          ],
+          [
+            17,
+            1
+          ]
+        ],
+        "anchored_maximum_matches": 4,
+        "exact": false
+      },
+      "tail": 0.03,
+      "secondary": 0.97
+    }
+  ]
+}

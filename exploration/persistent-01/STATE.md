@@ -6,12 +6,12 @@ Start: **2026-09-16 19:30:37 UTC /21:30:37 SAST**. Fixed deadline: **2026-09-17 
 
 ## Current assignments
 
-Recorded at 2026-09-17T01:46:50.663504+00:00
+Recorded at 2026-09-17T01:55:30.976971+00:00
 
-- **persistent_p**: P28 actual OutGuess0.4 compatibility/control/extraction on images0/26, fixeddefault+7historicallyspecifiedpassphrases. Localbuild/sourceinspection, noinstall; archiveversion/tool limits. P26/P27 frozen and reviewed, no predictive improvement/order stability.
-- **persistent_s**: S14 fixed1944-cell power-conjugated keyfamily on0/17/55 and19nulls each. Four fullcontrols exact; page0tail1.00, page17batchfinishing, page55next. No scope expansion.
-- **persistent_n**: Locate one existing historical OutGuesscarrier+expectedpayload for P28compatibility; independently inspect coefficient/length handling for proposedblankcontrol. Reviews42–47 complete.
-- **coordinator**: Sole direct controller: publish checkpoint18. Q07twoEd25519arrayformats failed and independently reviewed; no newformat afterpartialpointacceptance. Maintain originaldeadline03:30:37UTC.
+- **persistent_p**: Independent review50 of S14 power-conjugated key search; P26/P27/P28 frozen. No key expansion.
+- **persistent_s**: S15 actual OutGuess coefficient-path tracing on 0/26, historical and planted controls. New causal image-channel test; no English scorer or additive-key assumption.
+- **persistent_n**: Independent review49 of P28 extraction, prefix mechanism and bounded source diagnosis of four SIGBUS failures. No silent repair.
+- **coordinator**: Publish reviewed P26/P27/Q07 as checkpoint19; sole direct coordinator, original deadline unchanged.
 
 ## Evidence and allocation
 
@@ -25,7 +25,7 @@ Checkpoint16 publishes S01–S08 and P20–P22 with reviews30–37. Tested alter
 
 Checkpoint17 publishes P23/P24, S09–S11 and reviews38–41. Six0/1units fail the exact greedy GP renderer; all812directed nonself pairs occur inside admitted words, preventing even an unknown shared bijection from hiding its forbiddenpairs. S10 excludes only a word-reset Fibonacci exposed-state model through exact full-rank certificates. S11 excludes balanced14/15 binary homophones for fixed5bit codes0–25 with independentpage phases; its complete refutation is checked. None rejects all Latin-first formats, recurrences or binary encodings.
 
-S09 confirms grayscale top-loop identity across1/2 and bottom identity across0/1/2. The p0top variant does not recur in the small eligible sample;3/5/6 have different ornaments. This source observation did not justify more nuisance fitting. S12 tests externalstyle-group weights and finds heldgain−4.96, rank .495; S13 finds exact postfix one-result-word inconsistencies. Both await fresh review. RootQ06 shows arbitrary deterministic last-two-printed-rune functions fail on43/45pages, or41/45 when also given withinwordposition; hidden state remains outside scope.
+S09 confirms grayscale top-loop identity across1/2 and bottom identity across0/1/2. The p0top variant does not recur in the small eligible sample;3/5/6 have different ornaments. This source observation did not justify more nuisance fitting. S12 tests externalstyle-group weights and finds heldgain−4.96, rank .495; S13 finds exact postfix one-result-word inconsistencies. Both passed fresh review44. RootQ06 shows arbitrary deterministic last-two-printed-rune functions fail on43/45pages, or41/45 when also given withinwordposition; hidden state remains outside scope.
 
 Checkpoint18 publishes original/clean Latinmodels and identical P25search comparison plus S12/S13/Q06, with reviews42–44. OriginalLatintraining contained16Englishfooterfragments. Correctedsource removes only75tokens but changes a rare logprobability by18.61nats; all45,360cells/673,920retainedpaths were checked across bothversions. Allfourcontrols remain exact; clean actualtailson0/17/55 are .20/1.00/.95, no coherentLatin. Beam64 limitsremain: maximaare overretainedpaths, not exhaustiveFpathDP.
 
@@ -33,10 +33,12 @@ S12 style-group prediction loses onbothheldpages, total−4.96/rank.495. S13 exa
 
 P26 unknowncyclicorder increments had heldgain−7.59 despite plug-in rank.020. FrozenreversefitP27 also loses: combined−35.45; independentlyfitorders agreeonly5/29, secondaryrank.970. Controls showpositiveprediction andgreaterstability. Both results reviewed45/47 and remainunsupported, notpromisingcandidates. No order/optimizer expansion follows. RootQ07 complete8key/4signatureEd25519packings fail; oneindividualpoint passing doesnotestablishcryptographiccontent. Review46 passes.
 
-Next executable actions: finish unchanged S14page17/55 nullfamilies then independentreview; P28 localOutGuesscontrols beforefixedreal0/26 extraction, supported by independent historicalcarrier/sourcecheck. This tests an omittedimagechannel; authenticity/metadata are notnostego proofs. No broaderkeydictionary, sourceimage50 or reserve use. Currentallocations span scalar-keydecoding and a materiallydifferent imagechannel; priorlanguage-free modeltestsremainrecorded withoutclaiming an optimalstrategy.
+S14 completed all 124,416 nominal cells, with four exact controls and actual null tails 1.00/1.00/.45 on 0/17/55. No coherent output; independent review50 underway. P28 historical carrier and eight planted messages pass, but four of sixteen real extraction commands crash and remain UNKNOWN. The full shared 1,417-byte default prefix matches the independently predicted complement of the encryption stream: a constant-one input explanation. It does not authenticate remaining bytes or exclude stego. Review49 checks this; S15 now traces the actual coefficient locations without changing keys or image geometry.
+
+Next executable actions: finish S15 controls and real coefficient trace; complete reviews49/50 and determine whether the crash diagnosis supports one bounded implementation correction. Alternative image-channel work remains separate from the completed conjugate-additive S14 test. Strategy outside-box-v1 remains loaded and executed; no new reserve use or deadline extension.
 
 ## Integrity and limits
 
 Experiment01 remains failed. No credible candidate warrants a reserve reveal. Originals4,9,14,19,24,29,34,39,44,54 remain excluded; earlier E exposure to historical54 vision annotations is recorded as contamination, not pristine holdout. No new image50 inspection; cached corrected256-byte input used by P16/R06 is separately pinned. Exact source mapping, commands, outputs, exit codes, alternative outputs and resume commands remain in per-worker evidence.
 
-Only coordinator writes Git/shared management files. Unrelated macOS setup preserved. Reviewed checkpoint17 is verified on origin/master at `1308d91f82b4aa5bf954e43500855b1eee3d2ccf`; checkpoint18 publication is in progress. Completed log metadata may normalize checkout prefixes, with original bytes and hash mapping retained locally; frozen scientific source/output bytes are not cosmetically rewritten. See numbered checkpoints for historical results and corrections.
+Only coordinator writes Git/shared management files. Unrelated macOS setup preserved. Reviewed checkpoint18 is verified on origin/master at `c24c56cd314feebbfa555aa121277fd0c2ed8fb0`; checkpoint19 publication is in progress. Completed log metadata may normalize checkout prefixes, with original bytes and hash mapping retained locally; frozen scientific source/output bytes are not cosmetically rewritten. See numbered checkpoints for historical results and corrections.

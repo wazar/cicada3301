@@ -1,0 +1,463 @@
+{
+  "positive": [
+    {
+      "public_test_seed": "9d61b19deffd5a60ba844af492ec2cc44449c5697b326919703bac031cae7f60",
+      "message_hex": "",
+      "public": {
+        "hex": "d75a980182b10ab7d54bfed3c964073a0ee172f3daa62325af021a68f707511a",
+        "y": 11903303657706407974989296177215005343713679411332034699907763981919547054807,
+        "sign": 0,
+        "canonical": true,
+        "curve": true,
+        "prime_subgroup": true,
+        "nonidentity": true,
+        "x": 38815646466658113194383306759739515082307681141926459231621296960732224964046,
+        "l_times": [
+          0,
+          1
+        ],
+        "reason": "decoded"
+      },
+      "signature": {
+        "hex": "e5564300c360ac729086e2cc806e828a84877f1eb8e5d974d873e065224901555fb8821590a33bacc61e39701cf9b46bd25bf5f0595bbe24655141438e7a100b",
+        "R": {
+          "hex": "e5564300c360ac729086e2cc806e828a84877f1eb8e5d974d873e06522490155",
+          "y": 38448863731492799660668882834560725606410712239157980760146247592118262650597,
+          "sign": 0,
+          "canonical": true,
+          "curve": true,
+          "prime_subgroup": true,
+          "nonidentity": true,
+          "x": 44370630452101398467924320556439323233869374150616132215183787387252341590058,
+          "l_times": [
+            0,
+            1
+          ],
+          "reason": "decoded"
+        },
+        "S": 5004556735901913393272427758925840403246877222315506387332009764265656498271,
+        "scalar_canonical": true,
+        "necessary_format": true
+      }
+    },
+    {
+      "public_test_seed": "4ccd089b28ff96da9db6c346ec114e0f5b8a319f35aba624da8cf6ed4fb8a6fb",
+      "message_hex": "72",
+      "public": {
+        "hex": "3d4017c3e843895a92b70aa74d1b7ebc9c982ccf2ec4968cc0cd55f12af4660c",
+        "y": 5609657767448528674903586191599477543993232845525898641911799861560072421437,
+        "sign": 0,
+        "canonical": true,
+        "curve": true,
+        "prime_subgroup": true,
+        "nonidentity": true,
+        "x": 52774231920053734232574595727734981596546427020284349182563870143297718469550,
+        "l_times": [
+          0,
+          1
+        ],
+        "reason": "decoded"
+      },
+      "signature": {
+        "hex": "92a009a9f0d4cab8720e820b5f642540a2b27b5416503f8fb3762223ebdb69da085ac1e43e15996e458f3613d0f11d8c387b2eaeb4302aeeb00d291612bb0c00",
+        "R": {
+          "hex": "92a009a9f0d4cab8720e820b5f642540a2b27b5416503f8fb3762223ebdb69da",
+          "y": 40895193136033226965014799556713247533209654337761990128738905002094921097362,
+          "sign": 1,
+          "canonical": true,
+          "curve": true,
+          "prime_subgroup": true,
+          "nonidentity": true,
+          "x": 9723755734215906320098229349078520107637843343703680356978966424352572363457,
+          "l_times": [
+            0,
+            1
+          ],
+          "reason": "decoded"
+        },
+        "S": 22493278956989295319831480986006851106061907369804654499116800046813764104,
+        "scalar_canonical": true,
+        "necessary_format": true
+      }
+    },
+    {
+      "public_test_seed": "9b9e8ae31adc44d38c63748cd70e91b66eaf13a7f4235dc4bc1593be99df25b2",
+      "message_hex": "513037207075626c696320636f6e74726f6c206d6573736167652030",
+      "public": {
+        "hex": "c7c98d7e6ea2c14b7f8e15de312f0349ea4fcdcb2d70675bd6182ad9987fd244",
+        "y": 31129192229833595929079625055527757782458611759950638170683825888792459200967,
+        "sign": 0,
+        "canonical": true,
+        "curve": true,
+        "prime_subgroup": true,
+        "nonidentity": true,
+        "x": 10252297021051871233076519618891402472494168266537101947434033232942333456816,
+        "l_times": [
+          0,
+          1
+        ],
+        "reason": "decoded"
+      },
+      "signature": {
+        "hex": "2dee6b0fae9b0fe71f37db992fe4f2576d9e5f982161e3bec84a8cf6e470938e917c067a094bd7ab4ddbf4961fbd1e82e6666d8766881b69c3fe8090ee9ea305",
+        "R": {
+          "hex": "2dee6b0fae9b0fe71f37db992fe4f2576d9e5f982161e3bec84a8cf6e470938e",
+          "y": 6592885567111369170652846299614093583200300413030134311043124741762177560109,
+          "sign": 1,
+          "canonical": true,
+          "curve": true,
+          "prime_subgroup": true,
+          "nonidentity": true,
+          "x": 5567080240388836490545492692106119428187315637655465861835885233148030669081,
+          "l_times": [
+            0,
+            1
+          ],
+          "reason": "decoded"
+        },
+        "S": 2550657222083343813501207405896983794810943916704559440024681356461928250513,
+        "scalar_canonical": true,
+        "necessary_format": true
+      }
+    },
+    {
+      "public_test_seed": "f649cb49be48d84d0637623d4550b72880a3acf6811e317e0dd0f75b40baeeb1",
+      "message_hex": "513037207075626c696320636f6e74726f6c206d6573736167652031",
+      "public": {
+        "hex": "03a615f54d1ec2347b1338c2e7d98bf57207f3067498a3d9e5bd4486c835d6c9",
+        "y": 33397314417126859742936462063190499191449321068320954424494502357968912492035,
+        "sign": 1,
+        "canonical": true,
+        "curve": true,
+        "prime_subgroup": true,
+        "nonidentity": true,
+        "x": 19347072703646158432013320873321115617910897360238196425914889668796640354193,
+        "l_times": [
+          0,
+          1
+        ],
+        "reason": "decoded"
+      },
+      "signature": {
+        "hex": "13e19ae973077bdc1e60d43259ac9311147380a7cda2a6b177893f63f889ecceafb7e9b0c9cf423c0b1f749e645c353574ba1f0679c401bd4214539b07710d09",
+        "R": {
+          "hex": "13e19ae973077bdc1e60d43259ac9311147380a7cda2a6b177893f63f889ecce",
+          "y": 35698330332550815229306618739852070740380235544062307046339216995839521775891,
+          "sign": 1,
+          "canonical": true,
+          "curve": true,
+          "prime_subgroup": true,
+          "nonidentity": true,
+          "x": 44934329176405011341885761075345893898879561175150790454200534127213226261819,
+          "l_times": [
+            0,
+            1
+          ],
+          "reason": "decoded"
+        },
+        "S": 4094564751505912481281773483913902636404879870888769989404723031251144521647,
+        "scalar_canonical": true,
+        "necessary_format": true
+      }
+    },
+    {
+      "public_test_seed": "19f099d91ba5798d11188e61dcc07ad233270a6b78e3d011176ef55764dcc1aa",
+      "message_hex": "513037207075626c696320636f6e74726f6c206d6573736167652032",
+      "public": {
+        "hex": "d8da0fe13b3730a5c526d4e3b04c678e4c1b54c7b8aa62045ec4f97548bdce74",
+        "y": 52833567314603238008527856184729103349281889223242330618487951524030237891288,
+        "sign": 0,
+        "canonical": true,
+        "curve": true,
+        "prime_subgroup": true,
+        "nonidentity": true,
+        "x": 34780086539038413470413407363060036622714826867414888022249273936981509854978,
+        "l_times": [
+          0,
+          1
+        ],
+        "reason": "decoded"
+      },
+      "signature": {
+        "hex": "9f3d0507798b29ac3a4b88f68024b971e14b0efa36877f47fb47da2a87647a865eef9f65b42b6a76a216c48e444e8fc3dc440aa7e0b5c7ef356ab7003317a508",
+        "R": {
+          "hex": "9f3d0507798b29ac3a4b88f68024b971e14b0efa36877f47fb47da2a87647a86",
+          "y": 2930126252142952258524438260465975355749382693071942694138357789404093037983,
+          "sign": 1,
+          "canonical": true,
+          "curve": true,
+          "prime_subgroup": true,
+          "nonidentity": true,
+          "x": 2156115723386739638961411904757529322135010001864222621070334387989128665715,
+          "l_times": [
+            0,
+            1
+          ],
+          "reason": "decoded"
+        },
+        "S": 3910192669553273236513497911469101335308515644340454810598909875019071876958,
+        "scalar_canonical": true,
+        "necessary_format": true
+      }
+    },
+    {
+      "public_test_seed": "b70839c64c8c78f5b251b5fc0bd5add1377aa880d6eb29640610e1b058f711c4",
+      "message_hex": "513037207075626c696320636f6e74726f6c206d6573736167652033",
+      "public": {
+        "hex": "faaca6576917bf20030523368b6139d2b93b1f97b9789a2d503c96c8e98d1be2",
+        "y": 44375343480935855027257586353240035369025175992664262053076786155564241956090,
+        "sign": 1,
+        "canonical": true,
+        "curve": true,
+        "prime_subgroup": true,
+        "nonidentity": true,
+        "x": 53474851837287937680137614672818091230459112949164491597874664051854185779403,
+        "l_times": [
+          0,
+          1
+        ],
+        "reason": "decoded"
+      },
+      "signature": {
+        "hex": "ecbad06e0e38eb1457d602ed5b92eacf8ca8fa10b64a22659b2cfaf422d9c7ae2c4808a6c038086ebc1fe49a5cfc4830b0290c98a51b011d84a49a629216ed05",
+        "R": {
+          "hex": "ecbad06e0e38eb1457d602ed5b92eacf8ca8fa10b64a22659b2cfaf422d9c7ae",
+          "y": 21159492222115707464888656544372268591022651961026969469243868788696751848172,
+          "sign": 1,
+          "canonical": true,
+          "curve": true,
+          "prime_subgroup": true,
+          "nonidentity": true,
+          "x": 45589798634536702430853981961100991510805651912073989831949836460477740044635,
+          "l_times": [
+            0,
+            1
+          ],
+          "reason": "decoded"
+        },
+        "S": 2680462782224872700477938224954364699368913730609680531107793371310366148652,
+        "scalar_canonical": true,
+        "necessary_format": true
+      }
+    },
+    {
+      "public_test_seed": "fe6983f1277b673d6a499ffaf7ee4e50b22853fd04e1fae891c2b24487779c30",
+      "message_hex": "513037207075626c696320636f6e74726f6c206d6573736167652034",
+      "public": {
+        "hex": "9890daa98ed54afeddfa86c062f768437f4693cad55ff3f0cc289a65c89a6f98",
+        "y": 11052696661815492106434509929687431021500372583261262938344177339238159388824,
+        "sign": 1,
+        "canonical": true,
+        "curve": true,
+        "prime_subgroup": true,
+        "nonidentity": true,
+        "x": 54929887401878052146959740618668227732070706309134443953506785344615105255795,
+        "l_times": [
+          0,
+          1
+        ],
+        "reason": "decoded"
+      },
+      "signature": {
+        "hex": "ca1457d423c1dd361a898e57095b4555b7fd68f9ce7f55dbb43809785d8f6db5078c2a9a58d4930140c2db14cbb4e2affff4c6ac41cf56f865ca4dac5e132908",
+        "R": {
+          "hex": "ca1457d423c1dd361a898e57095b4555b7fd68f9ce7f55dbb43809785d8f6db5",
+          "y": 24166156774617862080609543558773959959416819706450681713539290316243127964874,
+          "sign": 1,
+          "canonical": true,
+          "curve": true,
+          "prime_subgroup": true,
+          "nonidentity": true,
+          "x": 31994440211240020766852715644879615793290117113359427297605839864637610934595,
+          "l_times": [
+            0,
+            1
+          ],
+          "reason": "decoded"
+        },
+        "S": 3691077203883335968653352370123315075835722421501140672974732656429314509831,
+        "scalar_canonical": true,
+        "necessary_format": true
+      }
+    },
+    {
+      "public_test_seed": "493288fab8e3434a2bd2565d137d268de214be79eadc563d3125bb9946e222da",
+      "message_hex": "513037207075626c696320636f6e74726f6c206d6573736167652035",
+      "public": {
+        "hex": "112ee014f0cdc199da7d2621d32a833c9b8228c0d496e6f01254e2019080df70",
+        "y": 51053933242734542866013926617913458189763927614996624426383610265759675067921,
+        "sign": 0,
+        "canonical": true,
+        "curve": true,
+        "prime_subgroup": true,
+        "nonidentity": true,
+        "x": 35430216603194661683919957402678788152823101345160569954618377672964198528574,
+        "l_times": [
+          0,
+          1
+        ],
+        "reason": "decoded"
+      },
+      "signature": {
+        "hex": "2a4da71d58d24d630669f30e69e4e0278d479e9aa0824d213a4329fa66979f31b9ca858ff4030da1dd0851e361ac4479cc71e429ab1cf7eef4291e18031a700e",
+        "R": {
+          "hex": "2a4da71d58d24d630669f30e69e4e0278d479e9aa0824d213a4329fa66979f31",
+          "y": 22445303203837788931783076551160650664567974218480713942614529299797506477354,
+          "sign": 0,
+          "canonical": true,
+          "curve": true,
+          "prime_subgroup": true,
+          "nonidentity": true,
+          "x": 39255261626934411898543320744573657326536613508559078565259529014133834505566,
+          "l_times": [
+            0,
+            1
+          ],
+          "reason": "decoded"
+        },
+        "S": 6530446280245668744407591475145991236026869849193593189579966848671548820153,
+        "scalar_canonical": true,
+        "necessary_format": true
+      }
+    },
+    {
+      "public_test_seed": "38367ee2ac74c283e4d103b85df992a4375f3147f520c22472d40db6bfbf2df2",
+      "message_hex": "513037207075626c696320636f6e74726f6c206d6573736167652036",
+      "public": {
+        "hex": "05f619e5d0175d1e65cca7044faaaed7a5cd39a4fca302111ae6e8d46b7dba7a",
+        "y": 55511666706636935929870598174249526162316743780295344472280047970037293250053,
+        "sign": 0,
+        "canonical": true,
+        "curve": true,
+        "prime_subgroup": true,
+        "nonidentity": true,
+        "x": 23063650952446961023696466127071814586633373050957933599556550625036462071628,
+        "l_times": [
+          0,
+          1
+        ],
+        "reason": "decoded"
+      },
+      "signature": {
+        "hex": "a09c6cfcf8e7be89960b1d115dcd35321f158de582425377193be1b13d642b423b294066dc06a7855ad55f4f9f046684d5da51248868e142fafae6b86d5fb50a",
+        "R": {
+          "hex": "a09c6cfcf8e7be89960b1d115dcd35321f158de582425377193be1b13d642b42",
+          "y": 29929314268205408137261188081118705250816429895126399869487626419781709372576,
+          "sign": 0,
+          "canonical": true,
+          "curve": true,
+          "prime_subgroup": true,
+          "nonidentity": true,
+          "x": 136438943419764139149140542739832024401083881386625005215177277386325711308,
+          "l_times": [
+            0,
+            1
+          ],
+          "reason": "decoded"
+        },
+        "S": 4843586428567164754854257783816773988408082067478940586466837539371639384379,
+        "scalar_canonical": true,
+        "necessary_format": true
+      }
+    },
+    {
+      "public_test_seed": "0c518bc0509c4317859dc8d0903e03aec104c9700682f9832f9e6de628fe340c",
+      "message_hex": "513037207075626c696320636f6e74726f6c206d6573736167652037",
+      "public": {
+        "hex": "993e5a18eb67278d6c1e88d6eb854aebc6fe9ae41d3c2ab8b08ee0807a30bb66",
+        "y": 46466645543117219706424202595522124220055609251173203930348425184868455562905,
+        "sign": 0,
+        "canonical": true,
+        "curve": true,
+        "prime_subgroup": true,
+        "nonidentity": true,
+        "x": 17129279483719833225675491132086327014040815891615899160264211810286997029956,
+        "l_times": [
+          0,
+          1
+        ],
+        "reason": "decoded"
+      },
+      "signature": {
+        "hex": "fc404bf64cd99df3e6a565f34bd108a161550e74568a14e3c46a125c100353d8ebd9276dfafaa1cfc6a45a47bedfa4523bfc70e1ef7b34afa92069eff0faf604",
+        "R": {
+          "hex": "fc404bf64cd99df3e6a565f34bd108a161550e74568a14e3c46a125c100353d8",
+          "y": 39950200127998542297637368182527289561621889183237939124682788176505613271292,
+          "sign": 1,
+          "canonical": true,
+          "curve": true,
+          "prime_subgroup": true,
+          "nonidentity": true,
+          "x": 34107562366240521256994734406246635920041281190395264636788211858176881293681,
+          "l_times": [
+            0,
+            1
+          ],
+          "reason": "decoded"
+        },
+        "S": 2245627704455330546229670577721332763780198910681933529690590692984559753707,
+        "scalar_canonical": true,
+        "necessary_format": true
+      }
+    }
+  ],
+  "negative": [
+    {
+      "hex": "edffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7f",
+      "y": 57896044618658097711785492504343953926634992332820282019728792003956564819949,
+      "sign": 0,
+      "canonical": false,
+      "curve": false,
+      "prime_subgroup": false,
+      "nonidentity": false,
+      "reason": "noncanonical_y"
+    },
+    {
+      "hex": "0100000000000000000000000000000000000000000000000000000000000080",
+      "y": 1,
+      "sign": 1,
+      "canonical": false,
+      "curve": false,
+      "prime_subgroup": false,
+      "nonidentity": false,
+      "reason": "noncanonical_zero_x_sign"
+    },
+    {
+      "hex": "ecffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7f",
+      "y": 57896044618658097711785492504343953926634992332820282019728792003956564819948,
+      "sign": 0,
+      "canonical": true,
+      "curve": true,
+      "prime_subgroup": false,
+      "nonidentity": true,
+      "x": 0,
+      "l_times": [
+        0,
+        57896044618658097711785492504343953926634992332820282019728792003956564819948
+      ],
+      "reason": "decoded"
+    },
+    {
+      "hex": "e5564300c360ac729086e2cc806e828a84877f1eb8e5d974d873e06522490155edd3f55c1a631258d69cf7a2def9de1400000000000000000000000000000010",
+      "R": {
+        "hex": "e5564300c360ac729086e2cc806e828a84877f1eb8e5d974d873e06522490155",
+        "y": 38448863731492799660668882834560725606410712239157980760146247592118262650597,
+        "sign": 0,
+        "canonical": true,
+        "curve": true,
+        "prime_subgroup": true,
+        "nonidentity": true,
+        "x": 44370630452101398467924320556439323233869374150616132215183787387252341590058,
+        "l_times": [
+          0,
+          1
+        ],
+        "reason": "decoded"
+      },
+      "S": 7237005577332262213973186563042994240857116359379907606001950938285454250989,
+      "scalar_canonical": false,
+      "necessary_format": false
+    }
+  ],
+  "cryptography_version": "50.0.1"
+}

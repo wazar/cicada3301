@@ -1,0 +1,158 @@
+{
+  "panels": 600,
+  "all_full_eigenbases": true,
+  "min_singular_value": 0.0059345418732765194,
+  "controls": [
+    {
+      "control": 0,
+      "old": {
+        "maximum_matches": 18,
+        "multipliers": [
+          10
+        ],
+        "exact": false
+      },
+      "corrected": {
+        "maximum_matches": 18,
+        "affine_maps": [
+          [
+            10,
+            0
+          ]
+        ],
+        "anchored_maximum_matches": 18,
+        "exact": false
+      }
+    },
+    {
+      "control": 1,
+      "old": {
+        "maximum_matches": 23,
+        "multipliers": [
+          4
+        ],
+        "exact": false
+      },
+      "corrected": {
+        "maximum_matches": 23,
+        "affine_maps": [
+          [
+            4,
+            0
+          ]
+        ],
+        "anchored_maximum_matches": 23,
+        "exact": false
+      }
+    },
+    {
+      "control": 2,
+      "old": {
+        "maximum_matches": 19,
+        "multipliers": [
+          18
+        ],
+        "exact": false
+      },
+      "corrected": {
+        "maximum_matches": 19,
+        "affine_maps": [
+          [
+            18,
+            0
+          ]
+        ],
+        "anchored_maximum_matches": 19,
+        "exact": false
+      }
+    },
+    {
+      "control": 3,
+      "old": {
+        "maximum_matches": 4,
+        "multipliers": [
+          2
+        ],
+        "exact": false
+      },
+      "corrected": {
+        "maximum_matches": 16,
+        "affine_maps": [
+          [
+            2,
+            28
+          ]
+        ],
+        "anchored_maximum_matches": 4,
+        "exact": false
+      }
+    }
+  ],
+  "gauge_counterexample": {
+    "f": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      1
+    ],
+    "g": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "best": 27,
+    "anchored": 3
+  },
+  "exact_equivalence": "If f(0)=g(0)=0 and every rune matches, b must be zero; this does not apply to partial matches."
+}

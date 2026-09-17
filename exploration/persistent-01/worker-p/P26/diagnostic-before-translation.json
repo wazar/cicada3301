@@ -1,0 +1,430 @@
+{
+  "reason": "Partial-match translation must be optimized even though exact equality gauge fixes it; no scores/orders/selection changed.",
+  "previous": {
+    "control-0.json": [
+      {
+        "maximum_matches": 18,
+        "multipliers": [
+          10
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 5,
+        "multipliers": [
+          27
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 5,
+        "multipliers": [
+          14
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 13,
+        "multipliers": [
+          4
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 4,
+        "multipliers": [
+          9,
+          11,
+          15,
+          17
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 8,
+        "multipliers": [
+          18
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 5,
+        "multipliers": [
+          22
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 7,
+        "multipliers": [
+          2
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 4,
+        "multipliers": [
+          1,
+          4,
+          14
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 7,
+        "multipliers": [
+          23
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 4,
+        "multipliers": [
+          21
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 9,
+        "multipliers": [
+          15
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 6,
+        "multipliers": [
+          24
+        ],
+        "exact": false
+      }
+    ],
+    "control-0-summary.json": {
+      "maximum_matches": 18,
+      "multipliers": [
+        10
+      ],
+      "exact": false
+    },
+    "control-1.json": [
+      {
+        "maximum_matches": 6,
+        "multipliers": [
+          24
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 5,
+        "multipliers": [
+          10
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 6,
+        "multipliers": [
+          28
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 5,
+        "multipliers": [
+          8
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 9,
+        "multipliers": [
+          15
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 5,
+        "multipliers": [
+          23
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 15,
+        "multipliers": [
+          23
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 6,
+        "multipliers": [
+          18
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 5,
+        "multipliers": [
+          13
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 4,
+        "multipliers": [
+          10,
+          12,
+          26
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 5,
+        "multipliers": [
+          8,
+          12
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 23,
+        "multipliers": [
+          4
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 15,
+        "multipliers": [
+          2
+        ],
+        "exact": false
+      }
+    ],
+    "control-1-summary.json": {
+      "maximum_matches": 23,
+      "multipliers": [
+        4
+      ],
+      "exact": false
+    },
+    "control-2.json": [
+      {
+        "maximum_matches": 4,
+        "multipliers": [
+          20
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 19,
+        "multipliers": [
+          18
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 4,
+        "multipliers": [
+          1
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 12,
+        "multipliers": [
+          7
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 7,
+        "multipliers": [
+          4
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 4,
+        "multipliers": [
+          11,
+          18,
+          25
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 3,
+        "multipliers": [
+          1,
+          6,
+          9,
+          10,
+          14,
+          18,
+          23
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 4,
+        "multipliers": [
+          10
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 7,
+        "multipliers": [
+          16
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 6,
+        "multipliers": [
+          23
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 7,
+        "multipliers": [
+          5
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 4,
+        "multipliers": [
+          26
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 10,
+        "multipliers": [
+          21
+        ],
+        "exact": false
+      }
+    ],
+    "control-2-summary.json": {
+      "maximum_matches": 19,
+      "multipliers": [
+        18
+      ],
+      "exact": false
+    },
+    "control-3.json": [
+      {
+        "maximum_matches": 8,
+        "multipliers": [
+          23
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 5,
+        "multipliers": [
+          22
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 16,
+        "multipliers": [
+          18
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 8,
+        "multipliers": [
+          10
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 6,
+        "multipliers": [
+          15
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 3,
+        "multipliers": [
+          4,
+          9,
+          10,
+          12,
+          15,
+          21,
+          22
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 18,
+        "multipliers": [
+          13
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 4,
+        "multipliers": [
+          20
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 4,
+        "multipliers": [
+          2
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 6,
+        "multipliers": [
+          1
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 4,
+        "multipliers": [
+          12,
+          18
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 4,
+        "multipliers": [
+          7,
+          23,
+          24
+        ],
+        "exact": false
+      },
+      {
+        "maximum_matches": 4,
+        "multipliers": [
+          22
+        ],
+        "exact": false
+      }
+    ],
+    "control-3-summary.json": {
+      "maximum_matches": 4,
+      "multipliers": [
+        2
+      ],
+      "exact": false
+    }
+  }
+}

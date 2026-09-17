@@ -1,0 +1,26 @@
+{
+  "main_qualified": true,
+  "held_gain": 1314.9967163648125,
+  "unknown_nulls": 0,
+  "nulls": 99,
+  "tail": 0.01,
+  "tail_interval": [
+    0.01,
+    0.01
+  ],
+  "selected": 11,
+  "candidate_count": 13,
+  "baseline_gradient": 2.741981048194164e-08,
+  "selected_order_recovery": {
+    "maximum_matches": 23,
+    "affine_maps": [
+      [
+        4,
+        0
+      ]
+    ],
+    "anchored_maximum_matches": 23,
+    "exact": false
+  },
+  "any_exact_order": false
+}

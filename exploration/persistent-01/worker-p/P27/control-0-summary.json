@@ -1,0 +1,37 @@
+{
+  "name": "control-0",
+  "qualified": true,
+  "forward_gain": 686.1838737758444,
+  "reverse_gain": 720.3157299188097,
+  "sum_gain": 1406.499603694654,
+  "agreement": {
+    "maximum_matches": 10,
+    "affine_maps": [
+      [
+        6,
+        28
+      ]
+    ],
+    "anchored_maximum_matches": 4,
+    "exact": false
+  },
+  "nulls": 99,
+  "unknown": 0,
+  "tail": 0.01,
+  "tail_interval": [
+    0.01,
+    0.01
+  ],
+  "secondary_agreement_tail": 0.01,
+  "reverse_selected_truth_agreement": {
+    "maximum_matches": 16,
+    "affine_maps": [
+      [
+        2,
+        28
+      ]
+    ],
+    "anchored_maximum_matches": 5,
+    "exact": false
+  }
+}

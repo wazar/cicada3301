@@ -1,0 +1,186 @@
+{
+  "source": "exploration/persistent-01/worker-p/P16/input.bin",
+  "sha256": "3b9b07d9a26e6d55c432d94d2661fdff3c2b348daed06821f2bdb23184a4b290",
+  "eight_keys": false,
+  "four_signatures": false,
+  "keys": [
+    {
+      "offset": 0,
+      "hex": "cbe7a7ba61ed7eb75cf99cdef704b7d479ca0f2166893b576dc6ad1996428d85",
+      "y": 2511149241005266606037666185728374801381110599083651257058846987109723006923,
+      "sign": 1,
+      "canonical": true,
+      "curve": true,
+      "prime_subgroup": true,
+      "nonidentity": true,
+      "x": 45768437126503028013746518244242992167730624048149332127218662966356247306093,
+      "l_times": [
+        0,
+        1
+      ],
+      "reason": "decoded"
+    },
+    {
+      "offset": 32,
+      "hex": "7372c5273650850550541c49e66bc74cfd102f3b56ab9c50fe7692456ac47c33",
+      "y": 23288399921144223388900349986963176644454266780973973605579597380171052970611,
+      "sign": 0,
+      "canonical": false,
+      "curve": false,
+      "prime_subgroup": false,
+      "nonidentity": false,
+      "reason": "nonsquare_x2"
+    },
+    {
+      "offset": 64,
+      "hex": "7aff19c0c749a96ca44fcdb172902e528e3ac9c1ad1c6f41d3dcc631ec543823",
+      "y": 15930479250524566590221489099646183809821451845310423104380356543787883429754,
+      "sign": 0,
+      "canonical": false,
+      "curve": false,
+      "prime_subgroup": false,
+      "nonidentity": false,
+      "reason": "nonsquare_x2"
+    },
+    {
+      "offset": 96,
+      "hex": "de96482253e520ce7a3f1fda0eb82073498fc5f736ab23b82aed56360d14a3c1",
+      "y": 29688469620600057584776553474637613945283355137901269627773412403453306115806,
+      "sign": 1,
+      "canonical": false,
+      "curve": false,
+      "prime_subgroup": false,
+      "nonidentity": false,
+      "reason": "nonsquare_x2"
+    },
+    {
+      "offset": 128,
+      "hex": "c9b35678a98d48ab0a81e90df52ea0987dd25cadf6ae99bde7210e7034fbf9f8",
+      "y": 54719220501172845842653032765066409827851556637291579895265264644699702342601,
+      "sign": 1,
+      "canonical": true,
+      "curve": true,
+      "prime_subgroup": false,
+      "nonidentity": true,
+      "x": 42404129468082848668049547055498894456903801349004554853538492397308176130775,
+      "l_times": [
+        38214883241950591754978413199355411911188925816896391856984770930832735035197,
+        0
+      ],
+      "reason": "decoded"
+    },
+    {
+      "offset": 160,
+      "hex": "e9d9c0526912faf8f0e4fe369475d112eb83a6af9028a751809c135126c0aa21",
+      "y": 15228014172575036551926816735490089447881386846378098391732113713511052401129,
+      "sign": 0,
+      "canonical": false,
+      "curve": false,
+      "prime_subgroup": false,
+      "nonidentity": false,
+      "reason": "nonsquare_x2"
+    },
+    {
+      "offset": 192,
+      "hex": "009b9f59b073692f6e4ad144c24c7f1539af063d4696fb548edb943b3a343397",
+      "y": 10493665178480426027378927592457290047933563080717871404734557859474520906496,
+      "sign": 1,
+      "canonical": false,
+      "curve": false,
+      "prime_subgroup": false,
+      "nonidentity": false,
+      "reason": "nonsquare_x2"
+    },
+    {
+      "offset": 224,
+      "hex": "443449f9900075af6aeac479ee2081ad908d2ad61638c6c0719eace6b424bd50",
+      "y": 36519215321856148645551952472942820158558404647386748956625457612555991725124,
+      "sign": 0,
+      "canonical": false,
+      "curve": false,
+      "prime_subgroup": false,
+      "nonidentity": false,
+      "reason": "nonsquare_x2"
+    }
+  ],
+  "signatures": [
+    {
+      "offset": 0,
+      "hex": "cbe7a7ba61ed7eb75cf99cdef704b7d479ca0f2166893b576dc6ad1996428d857372c5273650850550541c49e66bc74cfd102f3b56ab9c50fe7692456ac47c33",
+      "R": {
+        "hex": "cbe7a7ba61ed7eb75cf99cdef704b7d479ca0f2166893b576dc6ad1996428d85",
+        "y": 2511149241005266606037666185728374801381110599083651257058846987109723006923,
+        "sign": 1,
+        "canonical": true,
+        "curve": true,
+        "prime_subgroup": true,
+        "nonidentity": true,
+        "x": 45768437126503028013746518244242992167730624048149332127218662966356247306093,
+        "l_times": [
+          0,
+          1
+        ],
+        "reason": "decoded"
+      },
+      "S": 23288399921144223388900349986963176644454266780973973605579597380171052970611,
+      "scalar_canonical": false,
+      "necessary_format": false
+    },
+    {
+      "offset": 64,
+      "hex": "7aff19c0c749a96ca44fcdb172902e528e3ac9c1ad1c6f41d3dcc631ec543823de96482253e520ce7a3f1fda0eb82073498fc5f736ab23b82aed56360d14a3c1",
+      "R": {
+        "hex": "7aff19c0c749a96ca44fcdb172902e528e3ac9c1ad1c6f41d3dcc631ec543823",
+        "y": 15930479250524566590221489099646183809821451845310423104380356543787883429754,
+        "sign": 0,
+        "canonical": false,
+        "curve": false,
+        "prime_subgroup": false,
+        "nonidentity": false,
+        "reason": "nonsquare_x2"
+      },
+      "S": 87584514239258155296562045978981567871918347470721551647502204407409870935774,
+      "scalar_canonical": false,
+      "necessary_format": false
+    },
+    {
+      "offset": 128,
+      "hex": "c9b35678a98d48ab0a81e90df52ea0987dd25cadf6ae99bde7210e7034fbf9f8e9d9c0526912faf8f0e4fe369475d112eb83a6af9028a751809c135126c0aa21",
+      "R": {
+        "hex": "c9b35678a98d48ab0a81e90df52ea0987dd25cadf6ae99bde7210e7034fbf9f8",
+        "y": 54719220501172845842653032765066409827851556637291579895265264644699702342601,
+        "sign": 1,
+        "canonical": true,
+        "curve": true,
+        "prime_subgroup": false,
+        "nonidentity": true,
+        "x": 42404129468082848668049547055498894456903801349004554853538492397308176130775,
+        "l_times": [
+          38214883241950591754978413199355411911188925816896391856984770930832735035197,
+          0
+        ],
+        "reason": "decoded"
+      },
+      "S": 15228014172575036551926816735490089447881386846378098391732113713511052401129,
+      "scalar_canonical": false,
+      "necessary_format": false
+    },
+    {
+      "offset": 192,
+      "hex": "009b9f59b073692f6e4ad144c24c7f1539af063d4696fb548edb943b3a343397443449f9900075af6aeac479ee2081ad908d2ad61638c6c0719eace6b424bd50",
+      "R": {
+        "hex": "009b9f59b073692f6e4ad144c24c7f1539af063d4696fb548edb943b3a343397",
+        "y": 10493665178480426027378927592457290047933563080717871404734557859474520906496,
+        "sign": 1,
+        "canonical": false,
+        "curve": false,
+        "prime_subgroup": false,
+        "nonidentity": false,
+        "reason": "nonsquare_x2"
+      },
+      "S": 36519215321856148645551952472942820158558404647386748956625457612555991725124,
+      "scalar_canonical": false,
+      "necessary_format": false
+    }
+  ]
+}

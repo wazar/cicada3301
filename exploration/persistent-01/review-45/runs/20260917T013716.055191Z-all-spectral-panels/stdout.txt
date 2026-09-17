@@ -1,0 +1,6 @@
+control-0 [0.01, 0.01]
+control-1 [0.01, 0.01]
+control-2 [0.01, 0.01]
+control-3 [0.01, 0.01]
+actual [0.02, 0.02]
+{'status': 'PASS', 'panels': 600, 'candidates': 7037, 'max_gradient': 4.3924416623690774e-07, 'max_baseline_error': np.float64(9.325873406851315e-15), 'max_eigen_residual': 8.881784197001252e-16, 'rows': [{'name': 'control-0', 'gain': 686.1838737758444, 'tail_interval': [0.01, 0.01], 'unknown': 0, 'candidates': 13}, {'name': 'control-1', 'gain': 1314.9967163648125, 'tail_interval': [0.01, 0.01], 'unknown': 0, 'candidates': 13}, {'name': 'control-2', 'gain': 1145.2772357875438, 'tail_interval': [0.01, 0.01], 'unknown': 0, 'candidates': 13}, {'name': 'control-3', 'gain': 801.6557861074325, 'tail_interval': [0.01, 0.01], 'unknown': 0, 'candidates': 13}, {'name': 'actual', 'gain': -7.586799850470925, 'tail_interval': [0.02, 0.02], 'unknown': 0, 'candidates': 11}]}
