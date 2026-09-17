@@ -1,0 +1,15 @@
+# Review67 — N17 scoped PASS
+
+All769 frozen adjacent-unequal swaps are present exactly once in deterministic control/position order:386/223/75/85 for the four carriers. Stable sorted-rotation source-rune and source-character coordinates reproduce exactly; each changed array differs at precisely its named pair and preserves the entire inventory. No equal/no-op, circular-end or actual-page swap appears.
+
+Independent stable occurrence ordering reconstructs each LF permutation. All four baseline inventories have gcd1 and all baseline LF permutations have one cycle. For every swap, the new LF equals the old LF with exactly the two named outgoing destinations exchanged; the resulting two cycle lengths agree with structural.json.
+
+The structural argument is sound. A nonprimitive source is a k-fold repetition with k>1, making all symbol counts divisible by k. BWT preserves inventory, so gcd1 rules that out for any possible preimage. Distinct primitive rotations form one cycle under the LF predecessor operation. Exchanging two outgoing destinations in a single cycle splits it in two, contradicting necessary primitive-BWT membership. Adjacency and unequal symbols ensure their occurrence ranks are unchanged and only those destinations exchange. This explanation is restricted to these conditions; it is not a general theorem about arbitrary damage or periodic carriers.
+
+All284,377 stored primary candidates were reconstructed independently with a vector recurrence from these permutations. Every stored primary-to-group alias was checked for full cyclic equivalence, and all266,751 stored groups were accounted for. First and last group's complete forward column were separately recomputed for each job:1,538 samples pass. The other stored forward columns were not recomputed in this fresh review; all769 incompatibility outcomes are instead independently certified by the gcd/cycle proof. All validity flags and zero original-necklace-retention counts agree. The untouched source necklace also cannot map to a changed column because its deterministic forward transform is the original column.
+
+Small complete forward controls cover1,602 binary/ternary words, including1,133 gcd1 cases and2,958 adjacent-unequal swaps. They reproduce the single-cycle baseline and two-cycle transposition identity. These are finite corroboration of the argument, not new actual-data searches or probabilistic trials.
+
+Logged run `20260917T031005.301543Z-review67-swap-structure` passed in1.276seconds; all frozen input hashes remained unchanged. No audit execution failure or scientific edit occurred. Preliminary read-only inventory/JSON output was unnecessarily large and one report read preceded the author's freeze; the later audit snapshots the completed report and scientific artifacts. No reserve/image/Git operation or actual repair search occurred.
+
+All769 outcomes are structurally related, not769 independent error-rate observations. P31 remains an exact-format test on unchanged inputs; this controlled fragility result supplies no evidence of actual transcription damage and no justification for searching repairs. No candidate is advanced.

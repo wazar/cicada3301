@@ -1,0 +1,67 @@
+{
+  "pass_all": true,
+  "panels": 140,
+  "insertions": 32640,
+  "tiny_insertions": 1314,
+  "controls": [
+    {
+      "packet": 0,
+      "valid": 15,
+      "distinct": 15
+    },
+    {
+      "packet": 1,
+      "valid": 7,
+      "distinct": 7
+    },
+    {
+      "packet": 2,
+      "valid": 6,
+      "distinct": 6
+    },
+    {
+      "packet": 3,
+      "valid": 4,
+      "distinct": 4
+    }
+  ],
+  "results": [
+    {
+      "packet": 0,
+      "valid_main": 15,
+      "null_compatible": 2
+    },
+    {
+      "packet": 1,
+      "valid_main": 7,
+      "null_compatible": 3
+    },
+    {
+      "packet": 2,
+      "valid_main": 6,
+      "null_compatible": 7
+    },
+    {
+      "packet": 3,
+      "valid_main": 4,
+      "null_compatible": 6
+    },
+    {
+      "packet": 4,
+      "valid_main": 1,
+      "null_compatible": 3
+    },
+    {
+      "packet": 5,
+      "valid_main": 0,
+      "null_compatible": 1
+    },
+    {
+      "packet": 6,
+      "valid_main": 0,
+      "null_compatible": 3
+    }
+  ],
+  "actual_valid_outputs": 1,
+  "limits": "Exact format compatibility only; omitted sentinel position is unknown and controls have multiple alternatives. Paired index permutations reused, not independent new confirmation."
+}

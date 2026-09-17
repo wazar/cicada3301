@@ -1,0 +1,83 @@
+{
+  "status": "PASS",
+  "actual_units": 2355,
+  "actual_support": 14,
+  "sources": [
+    {
+      "name": "caesar-clean",
+      "runes": 120854,
+      "windows": 118500,
+      "minimum": 23,
+      "maximum": 26,
+      "support_histogram": {
+        "23": 3540,
+        "24": 39233,
+        "25": 70732,
+        "26": 4995
+      },
+      "minimizing_windows": 3540,
+      "passing_windows": 0
+    },
+    {
+      "name": "virgil-I",
+      "runes": 27183,
+      "windows": 24829,
+      "minimum": 25,
+      "maximum": 27,
+      "support_histogram": {
+        "25": 355,
+        "26": 5271,
+        "27": 19203
+      },
+      "minimizing_windows": 355,
+      "passing_windows": 0
+    },
+    {
+      "name": "virgil-IV",
+      "runes": 25577,
+      "windows": 23223,
+      "minimum": 24,
+      "maximum": 27,
+      "support_histogram": {
+        "24": 416,
+        "25": 2346,
+        "26": 4609,
+        "27": 15852
+      },
+      "minimizing_windows": 416,
+      "passing_windows": 0
+    },
+    {
+      "name": "virgil-VII",
+      "runes": 29555,
+      "windows": 27201,
+      "minimum": 24,
+      "maximum": 27,
+      "support_histogram": {
+        "24": 930,
+        "25": 2241,
+        "26": 7582,
+        "27": 16448
+      },
+      "minimizing_windows": 930,
+      "passing_windows": 0
+    },
+    {
+      "name": "virgil-X",
+      "runes": 33074,
+      "windows": 30720,
+      "minimum": 25,
+      "maximum": 27,
+      "support_histogram": {
+        "25": 4205,
+        "26": 11844,
+        "27": 14671
+      },
+      "minimizing_windows": 4205,
+      "passing_windows": 0
+    }
+  ],
+  "total_windows": 224473,
+  "total_passing": 0,
+  "seconds": 0.47596599999815226
+}

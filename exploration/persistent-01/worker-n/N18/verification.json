@@ -1,0 +1,82 @@
+{
+  "PASS": true,
+  "inputs": 140,
+  "insertion_positions": 32640,
+  "admitted_outputs": 125,
+  "tiny_columns": 1314,
+  "rows": [
+    {
+      "packet": 0,
+      "main_positions": [
+        18,
+        26,
+        114,
+        146,
+        148,
+        150,
+        156,
+        158,
+        160,
+        162,
+        164,
+        166,
+        168,
+        170,
+        172
+      ],
+      "null_compatible": 2
+    },
+    {
+      "packet": 1,
+      "main_positions": [
+        48,
+        58,
+        60,
+        280,
+        282,
+        284,
+        288
+      ],
+      "null_compatible": 3
+    },
+    {
+      "packet": 2,
+      "main_positions": [
+        26,
+        28,
+        30,
+        32,
+        34,
+        80
+      ],
+      "null_compatible": 7
+    },
+    {
+      "packet": 3,
+      "main_positions": [
+        52,
+        54,
+        56,
+        78
+      ],
+      "null_compatible": 6
+    },
+    {
+      "packet": 4,
+      "main_positions": [
+        239
+      ],
+      "null_compatible": 3
+    },
+    {
+      "packet": 5,
+      "main_positions": [],
+      "null_compatible": 1
+    },
+    {
+      "packet": 6,
+      "main_positions": [],
+      "null_compatible": 3
+    }
+  ]
+}

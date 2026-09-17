@@ -526,12 +526,13 @@
   },
   {
     "id": "READY-LINK",
-    "status": "ready",
+    "status": "superseded",
     "title": "Page-to-page numeric unit relations",
     "input": "F06 explicitunits from adjacentdiscovery0/1/2/3only",
     "first_step": "Freeze same-position unitlength recurrence or reversedlist relationship beforetesting; source-preserving maxnull and copied/reversed control",
     "expected_cost": "Cheap<=900s",
-    "decision": "Does an interpage numerical carrier persist without requiring sharedrunes? Distinct from N03 rune equalitycopies."
+    "decision": "Does an interpage numerical carrier persist without requiring sharedrunes? Distinct from N03 rune equalitycopies.",
+    "reason": "N08 already executed cross-page word-length relationships; do not rerun stale queue as new work."
   },
   {
     "id": "READY-CHECKFIELD",
@@ -1045,19 +1046,31 @@
   {
     "id": "N17",
     "owner": "persistent_n",
-    "status": "completed_pending_review",
+    "status": "completed_reviewed",
     "title": "Control adjacent-swap format fragility; review67 running."
   },
   {
     "id": "N18",
     "owner": "persistent_n",
-    "status": "running",
+    "status": "completed_reviewed",
     "title": "N18 exact standard BWT with omitted unique sentinel: exhaustive insertion metadata positions, no changed runes/order/alphabet; controls and full same-null search."
   },
   {
     "id": "S20",
     "owner": "persistent_s",
-    "status": "running",
+    "status": "completed_reviewed",
     "title": "S20 exact Latin source-support obstruction for2355 word-length labels versus fixed existing source windows; no scorer or new key search."
+  },
+  {
+    "id": "S21",
+    "owner": "persistent_s",
+    "status": "completed_pending_review",
+    "title": "Top14 source-mass error bound, exact sameS20sources."
+  },
+  {
+    "id": "N19",
+    "owner": "persistent_n",
+    "status": "running",
+    "title": "Fixed zlib-level9 metadata selection gate on4N18controls before anyactualscore."
   }
 ]

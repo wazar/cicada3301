@@ -1,0 +1,13 @@
+# Review68 — N18 scoped PASS
+
+All140 inputs and32,640 sentinel insertion positions pass independent replay, including every complete inverse candidate, LF permutation, sentinel-cycle length, forward column, validity flag and125 admitted outputs. The independent inverse uses stable-rank Psi and an explicit LF^n endpoint alignment for invalid multicycle inputs; the forward check packs symbols into fixed-width five-bit integers and sorts every cyclic integer rotation. No production module was imported.
+
+All four forward control carriers and original source-character maps were reconstructed from the pinned raw solved-source packets. The correct source/metadata pair appears among15/7/6/4 admitted insertion positions. These are also distinct complete output arrays: metadata omission causes real ambiguity, not unique recovery. All133 permutation RNG streams replay; actual main/null arrays are byte-identical to the corresponding P31 inputs. Control carriers differ under the sentinel convention, although their index-permutation seeds are intentionally reused.
+
+Original0 has exactly one valid insertion,239, and its complete262rune output retransforms exactly. Originals17/55 have none. Actual inventory-null acceptance counts are3/19,1/19,3/19. These are paired descriptive format frequencies, not independent replication or pvalues. Inventory permutations preserve neither equality masks nor plaintext boundaries.
+
+All1,314 tiny augmented columns were independently compared with exhaustive forward image sets, including periodic rune sources and all insertion positions. Membership, full retransform and the unique-sentinel one-cycle criterion agree. The mathematical distinction from P31 is valid: a unique smallest sentinel makes the augmented source primitive, and omitted sentinel metadata is a different serialization convention. No input rune was repaired or reordered in the actual tests.
+
+The one complete actual output was read in both rune and unspaced canonical transliteration, without correction or fragment selection. No obvious coherent complete reading was apparent. This subjective observation is not a language-universal rejection; exact format compatibility alone supplies no decoded-message or puzzle-relevance claim. The full output is retained in `actual-full-output.json`.
+
+Logged run `20260917T031347.626807Z-review68-sentinel-format` passed in11.799seconds. All snapshotted frozen scientific files remained unchanged. No failed audit attempt, new alphabet, extra serialization search, English scoring, actual modification, reserve/image/Git operation or production rerun occurred. The result preserves both the format-compatible page and its limited interpretation. No candidate is advanced.

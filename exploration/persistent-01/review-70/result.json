@@ -1,0 +1,59 @@
+{
+  "pass_all": true,
+  "words": 41062,
+  "normalized_runes": 236243,
+  "actual_units": 2355,
+  "actual_support": 14,
+  "total_windows": 224473,
+  "all_counts_checked": true,
+  "minimizing_and_endpoint_set_checks": 9456,
+  "tiny_panels": 22862,
+  "sources": [
+    {
+      "name": "caesar-clean",
+      "runes": 120854,
+      "windows": 118500,
+      "minimum": 23,
+      "maximum": 26,
+      "minimizers": 3540,
+      "passing": 0
+    },
+    {
+      "name": "virgil-I",
+      "runes": 27183,
+      "windows": 24829,
+      "minimum": 25,
+      "maximum": 27,
+      "minimizers": 355,
+      "passing": 0
+    },
+    {
+      "name": "virgil-IV",
+      "runes": 25577,
+      "windows": 23223,
+      "minimum": 24,
+      "maximum": 27,
+      "minimizers": 416,
+      "passing": 0
+    },
+    {
+      "name": "virgil-VII",
+      "runes": 29555,
+      "windows": 27201,
+      "minimum": 24,
+      "maximum": 27,
+      "minimizers": 930,
+      "passing": 0
+    },
+    {
+      "name": "virgil-X",
+      "runes": 33074,
+      "windows": 30720,
+      "minimum": 25,
+      "maximum": 27,
+      "minimizers": 4205,
+      "passing": 0
+    }
+  ],
+  "limits": "Only exact2355rune contiguous windows in fixedfive streams under a bijection; not Latin in general or arbitrary source assembly."
+}
