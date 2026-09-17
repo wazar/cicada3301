@@ -1,0 +1,2 @@
+<REPO_ROOT>/exploration/persistent-01/review-22/check.py:81: RuntimeWarning: Unrecognized options detected: {'threads'}. These will be passed to HiGHS verbatim.
+  res=milp(obj,integrality=np.ones(len(obj)),bounds=Bounds(0,1),constraints=LinearConstraint(csc_matrix(A),np.ones(30),np.ones(30)),options={'time_limit':5.,'mip_rel_gap':0.,'threads':1})

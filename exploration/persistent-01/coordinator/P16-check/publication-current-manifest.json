@@ -1,0 +1,45 @@
+{
+  "scope": "Currentpublicbytes; previous manifests remain originalsnapshot records; completedmetadata redactions separately mapped.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/coordinator/P16-check/BOUND.md",
+      "bytes": 1968,
+      "sha256": "435e2adc5dabf4ea5f0cea371d09c6c563470c57932b32ccc71a353a2c4be8de"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/P16-check/check.py",
+      "bytes": 1545,
+      "sha256": "d102f2fa96a7a78af11a355e43d1b3ca5f3f086241c0b46a36f485c7ea05af7f"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/P16-check/results.json",
+      "bytes": 2529,
+      "sha256": "fbcce4fb6a530dd1bf45624d59214978c31684dcdf6a9bc6e6bbde47562080b0"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/P16-check/runs/20260916T235324.016728Z-independent-parity-and-field-replay/code/exploration/persistent-01/coordinator/P16-check/check.py",
+      "bytes": 1545,
+      "sha256": "d102f2fa96a7a78af11a355e43d1b3ca5f3f086241c0b46a36f485c7ea05af7f"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/P16-check/runs/20260916T235324.016728Z-independent-parity-and-field-replay/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/P16-check/runs/20260916T235324.016728Z-independent-parity-and-field-replay/command.json",
+      "bytes": 1580,
+      "sha256": "32b50d995ffeb5299f97b892afa58fefb113d0f5c6c5347487840ac1122f8e32"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/P16-check/runs/20260916T235324.016728Z-independent-parity-and-field-replay/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/P16-check/runs/20260916T235324.016728Z-independent-parity-and-field-replay/stdout.txt",
+      "bytes": 44,
+      "sha256": "8412fb90362a5e9e105d9797ed2c858c383f84304eaec959165d55a137991616"
+    }
+  ]
+}

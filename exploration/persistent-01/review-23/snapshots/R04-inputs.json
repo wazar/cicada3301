@@ -1,0 +1,88 @@
+{
+  "n": 418,
+  "eligible_instances": 393,
+  "eligible_held": 196,
+  "shape_classes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "eligible": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "bank_candidates": 3393,
+  "files": [
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/inputs.npz",
+      "sha256": "920a9e8a05fe6a8f9213e8042dfc592811aa48e1467c706f69bf4fea56157929"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/maps.json",
+      "sha256": "57cafee92085e7cc4644d773e255ccfbe4fd5ee73e2b4602cc21458da715b0f2"
+    },
+    {
+      "path": "exploration/persistent-01/worker-i/route-mapping.json",
+      "sha256": "04c06f78df9f33860e39a89c6e3df157d2f7a3eea737c6b2ec693d0294b5e4d8"
+    },
+    {
+      "path": "liber-primus/data/relikd/p0.jpg",
+      "sha256": "197e1e153958b9a2736b09c10eea7d8bb00e0632fd22a8d9606840becc79942e"
+    },
+    {
+      "path": "liber-primus/data/relikd/p1.jpg",
+      "sha256": "f804fae06a68315eb6206158a2b34f55fe157c7d663fa961639fbe8dfc52a39f"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/coordinator/Q03/experiment.py",
+    "simulate",
+    "20",
+    "500"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "9b43bd11a0657ed7fe5b996d1ebf48285c7c8fe0",
+  "started_utc": "2026-09-16T23:41:37.336874+00:00",
+  "timeout_seconds": 120,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_welcome.txt",
+      "exists": true,
+      "bytes": 1934,
+      "sha256": "95caaffb0ae764801bb023ba8eda15b49366cb3258aab9e26922e89e884c7b73"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_jpg107-167.txt",
+      "exists": true,
+      "bytes": 1236,
+      "sha256": "2dd885e1785ffee22692901167edb1a37a0fae87c7d765bf53f799b108663b6c"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_p56_an_end.txt",
+      "exists": true,
+      "bytes": 467,
+      "sha256": "3b82bf89e740dde1d1f8261ddf17e028f7d4bbc8933a1e972a564822f4e4d511"
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_p57_parable.txt",
+      "exists": true,
+      "bytes": 348,
+      "sha256": "63c685205fcc753364d12ea72f7e120c6eba4031ab658cdf6fbf3da1d8749f25"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/experiment.py",
+      "exists": true,
+      "bytes": 4527,
+      "sha256": "87a527b5cf0183d56b5fadadef6cc5a8c37f5668d3484d7cb160902628395a3b"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/p03_frozen.py",
+      "exists": true,
+      "bytes": 6350,
+      "sha256": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 77856,
+  "finished_utc": "2026-09-16T23:41:53.335569+00:00",
+  "duration_seconds": 15.998439875002077
+}

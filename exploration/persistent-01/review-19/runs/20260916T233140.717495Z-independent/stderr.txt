@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/review-19/check.py", line 76, in <module>
+    for row in z['rows']:
+               ~^^^^^^^^
+TypeError: list indices must be integers or slices, not str

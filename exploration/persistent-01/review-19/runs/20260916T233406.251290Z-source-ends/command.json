@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-19/source_ends.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "9b43bd11a0657ed7fe5b996d1ebf48285c7c8fe0",
+  "started_utc": "2026-09-16T23:34:06.260648+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-19/accounting.py",
+      "exists": true,
+      "bytes": 2983,
+      "sha256": "5e01352f8d418b57bc349f9df552953e7f8491272ff0d09672f7ab12d7dfc529"
+    },
+    {
+      "path": "exploration/persistent-01/review-19/check.py",
+      "exists": true,
+      "bytes": 6084,
+      "sha256": "d330363ffd0b659b4132a828387a1cba1b6d19bc1cd571e3751e787c41a9f2c1"
+    },
+    {
+      "path": "exploration/persistent-01/review-19/source_ends.py",
+      "exists": true,
+      "bytes": 1103,
+      "sha256": "4485bbb2ca96f9e08bacf7a463fdcdd3380187a9dd1d80f30ec24dc12abc963b"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 77333,
+  "finished_utc": "2026-09-16T23:34:06.304625+00:00",
+  "duration_seconds": 0.043789290997665375
+}

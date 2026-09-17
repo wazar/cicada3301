@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-23/check.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "9b43bd11a0657ed7fe5b996d1ebf48285c7c8fe0",
+  "started_utc": "2026-09-16T23:50:03.765503+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-23/check.py",
+      "exists": true,
+      "bytes": 8185,
+      "sha256": "2888e62cbfcef0159f2dba63b8845768179e9e7a696635526e6c7536399c3d77"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R04-card.md",
+      "exists": true,
+      "bytes": 4742,
+      "sha256": "3d7b0fe46fb0d7b0ab8093f195d84709602c484680a50b5d84901e7827ce8b3c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R04.py",
+      "exists": true,
+      "bytes": 8438,
+      "sha256": "c54a3c2bf3b0cf91f07ff001702c4d2d222413eda92e3a67ccdf921dd0d8d4d8"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 78513,
+  "finished_utc": "2026-09-16T23:50:07.689986+00:00",
+  "duration_seconds": 3.924225667000428
+}

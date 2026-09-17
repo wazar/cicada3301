@@ -1,0 +1,65 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-21/review.py",
+    "controls"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "9b43bd11a0657ed7fe5b996d1ebf48285c7c8fe0",
+  "started_utc": "2026-09-16T23:44:07.846427+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/CARD.md",
+      "exists": true,
+      "bytes": 2939,
+      "sha256": "e53db678a5d6f82118c45c47bf0dfc39ba9785fd534ccff13b0d13f39227459c"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/experiment.py",
+      "exists": true,
+      "bytes": 4527,
+      "sha256": "87a527b5cf0183d56b5fadadef6cc5a8c37f5668d3484d7cb160902628395a3b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/source.json",
+      "exists": true,
+      "bytes": 263,
+      "sha256": "0093c2ac580895f82d8f51eb2cc397fa9f72fb144565f63b110034d1ba021e35"
+    },
+    {
+      "path": "exploration/persistent-01/review-21/CARD.md",
+      "exists": true,
+      "bytes": 1117,
+      "sha256": "6e807f75ce3d79eaebc8fd63c85c4699897cb9dcdb6c1cc3f9e7c5b792f778a6"
+    },
+    {
+      "path": "exploration/persistent-01/review-21/review.py",
+      "exists": true,
+      "bytes": 5724,
+      "sha256": "0220ebcd7f152f4fe5b8ad113cfd570bfb8bbe333f39ff8cfc68fde3ffeaf938"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 78036,
+  "finished_utc": "2026-09-16T23:44:08.157243+00:00",
+  "duration_seconds": 0.310605334
+}

@@ -1,0 +1,5 @@
+# Independent review21: Q03 Chaocipher29
+
+Read full Moshe Rubin primary algorithm text, then Q03 card and implementation; this is not strong code blinding. Independently implement updates through explicit position permutations, not imported coordinator codec, slice/pop or deque. Validate published26 fixture, both one-step alphabets, full published pre-step trace; size29 is explicitly an adaptation with nadir14, not stated by the historical source.
+
+Check random26/29 roundtrips, equality invariance under left relabel, inverse equivariance under right relabel, all fixed-state plaintext doublets; reconstruct four source parses/maps/hashes; validate all saved simulation offsets/alphabets/RNG/circular-wrap and every output/count; independently count actual45 discovery pages and recompute both rank tails. Do not read reserves/50, change keys/sampler, search unknown alphabets or interpret a specified-source simulation miss as a family negative. Source/PDF remain private, report URLs/hashes only. One thread, standard logs<=900s, STOP/deadline applies. Preserve failures if any; no edits to coordinator files.

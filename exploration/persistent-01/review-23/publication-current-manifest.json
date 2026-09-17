@@ -1,0 +1,240 @@
+{
+  "scope": "Currentpublicbytes; previous manifests remain originalsnapshot records; completedmetadata redactions separately mapped.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/review-23/CARD-PROVENANCE.md",
+      "bytes": 842,
+      "sha256": "706e8674f5d8be513c1c80972c7cc7b052d3a701c6974613aeea1c81cb778b5f"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/MANIFEST.json",
+      "bytes": 7699,
+      "sha256": "f6fb95484ca41ab9cd0ccc8538bde04803588c3d927ace10e1e8ac46de8154d4"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/PROTOCOL.md",
+      "bytes": 1575,
+      "sha256": "0479044b42b698c369baa97480591b98f1146e1db9da2a6115c04aa86f4c7075"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/REPORT.md",
+      "bytes": 4872,
+      "sha256": "3b2bda3be0930f9c18d5476931564545f8fd877a7d9fc72ce0bc762ce7a0e754"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/actual-inputs.json",
+      "bytes": 551,
+      "sha256": "982673e0b9fcfc7e40c980e7e80b8a80f2895fa172974db423d946180ec1323f"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/actual-result.json",
+      "bytes": 954,
+      "sha256": "1aaec22477a61ff1ae45c55c18754812d11ecf322755aa342394a450fbf5264b"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/actual.py",
+      "bytes": 4119,
+      "sha256": "980ffccb8dff8ab3264e29b7a8438df1d1944f225dff0026e513a6a8d8c57b55"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/check.py",
+      "bytes": 8185,
+      "sha256": "2888e62cbfcef0159f2dba63b8845768179e9e7a696635526e6c7536399c3d77"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/inputs.json",
+      "bytes": 5319,
+      "sha256": "b2a5518337ceecc1cd779c3a4f0a851987cc022eea2ef7caa4876cef53d99983"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/result.json",
+      "bytes": 2528,
+      "sha256": "de642a1940a6e9d1ab439df9e7efef08ce3a9a293f62406df7800c8a756846f5"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/runs/20260916T235003.755824Z-pixels-bank-controls/code/exploration/persistent-01/review-23/check.py",
+      "bytes": 8185,
+      "sha256": "2888e62cbfcef0159f2dba63b8845768179e9e7a696635526e6c7536399c3d77"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/runs/20260916T235003.755824Z-pixels-bank-controls/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/runs/20260916T235003.755824Z-pixels-bank-controls/code/exploration/persistent-01/worker-r/R04.py",
+      "bytes": 8438,
+      "sha256": "c54a3c2bf3b0cf91f07ff001702c4d2d222413eda92e3a67ccdf921dd0d8d4d8"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/runs/20260916T235003.755824Z-pixels-bank-controls/command.json",
+      "bytes": 1545,
+      "sha256": "c5f268644ad1530e83058a90208205e4cc7de61ad1f302f34d35fbc341c29cba"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/runs/20260916T235003.755824Z-pixels-bank-controls/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/runs/20260916T235003.755824Z-pixels-bank-controls/stdout.txt",
+      "bytes": 1925,
+      "sha256": "c78936892fe48bd92ce027be419778f4a57676642d9251025e88811defade6e5"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/runs/20260916T235120.670696Z-actual-pixels-and-gates/code/exploration/persistent-01/review-23/actual.py",
+      "bytes": 4119,
+      "sha256": "980ffccb8dff8ab3264e29b7a8438df1d1944f225dff0026e513a6a8d8c57b55"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/runs/20260916T235120.670696Z-actual-pixels-and-gates/code/exploration/persistent-01/review-23/check.py",
+      "bytes": 8185,
+      "sha256": "2888e62cbfcef0159f2dba63b8845768179e9e7a696635526e6c7536399c3d77"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/runs/20260916T235120.670696Z-actual-pixels-and-gates/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/runs/20260916T235120.670696Z-actual-pixels-and-gates/command.json",
+      "bytes": 1782,
+      "sha256": "181118d496497f57b082a271000a0dc68829c3a8945e34246b853ae08284cab6"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/runs/20260916T235120.670696Z-actual-pixels-and-gates/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/runs/20260916T235120.670696Z-actual-pixels-and-gates/stdout.txt",
+      "bytes": 736,
+      "sha256": "b23cd0b25d5c413a8c93d6f9cf24f8527bf403739b4aecd88b79422e5a00d78b"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/20260916T234658.696768Z-R04-joint-bank-command.json",
+      "bytes": 3183,
+      "sha256": "5a94edfee1bede33705faf5e2889a734d92ca0f1a20dc9fc100f9cd021e3ef52"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/20260916T234725.182466Z-R04-old-and-fresh-controls-command.json",
+      "bytes": 3830,
+      "sha256": "0df00eb65a9762ad2790a8caf0a248a71f78ca6669a9e3b7d46f22dfd94c0ba4"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/Q06-REPORT.md",
+      "bytes": 5738,
+      "sha256": "17354774e5937d4f28ba0dfb3c76844ef70f6ed9c11f675228a3d7986029acab"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/Q06-controls-summary.json",
+      "bytes": 2096,
+      "sha256": "07fe3e4198fdb434d38583fe09bc9201aa64ded9598791331b5edb3a2f92edd5"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/Q06-maps.json",
+      "bytes": 199519,
+      "sha256": "57cafee92085e7cc4644d773e255ccfbe4fd5ee73e2b4602cc21458da715b0f2"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/R04-COUNT-CORRECTION.md",
+      "bytes": 836,
+      "sha256": "dcafcf1f84afb2d4f6f66850ee2416b6808f474ca58dfeac1a6cff800da58700"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/R04-REPORT.md",
+      "bytes": 3776,
+      "sha256": "aced145db582823622e0374324ef231b7e99a154db00cfa9312b0436b58fc973"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/R04-actual-raster-0.json",
+      "bytes": 4207,
+      "sha256": "c37c57bef9c86d57969a6773e682b1f3c30f3966ed68ba64e33b7d97121ada8d"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/R04-actual-raster-1.json",
+      "bytes": 4208,
+      "sha256": "c3ca4f0b88ca1f878c5ae0bff54f83b3165ff750ea5f2d4f410cde6cebd16979"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/R04-actual-summary.json",
+      "bytes": 14861,
+      "sha256": "cc1dfff03c2234a4b1f480d4dd14788c334516d88ea71704fe008280bcc07b11"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/R04-actual.json",
+      "bytes": 4164,
+      "sha256": "9298004e3ff9033032ed3a7dcfca5e40483de3f44d143a82443184c7b18e3174"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/R04-card-original-restored.md",
+      "bytes": 4284,
+      "sha256": "6b5d055e9ddfe427651b81a303f389a81aade38c07624bfb2d745fa1f5db1a04"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/R04-card-with-preactual-annotation.md",
+      "bytes": 4742,
+      "sha256": "3d7b0fe46fb0d7b0ab8093f195d84709602c484680a50b5d84901e7827ce8b3c"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/R04-card.md",
+      "bytes": 4742,
+      "sha256": "3d7b0fe46fb0d7b0ab8093f195d84709602c484680a50b5d84901e7827ce8b3c"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/R04-controls-summary.json",
+      "bytes": 41650,
+      "sha256": "138366c7a0484966e1eb20ca614bbbd27e852401b956c3e4ab022506477b46d7"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/R04-fresh-positive-0.json",
+      "bytes": 4362,
+      "sha256": "9febbc372d23c691fff7f2b92163435414e1b469324c1cd936782a59d9cf3838"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/R04-fresh-positive-1.json",
+      "bytes": 4362,
+      "sha256": "3199ec326c4565de7aaa1406a4b52e3ad412d13529e558d8ed2d2912e080084c"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/R04-fresh-raster-null-0.json",
+      "bytes": 4222,
+      "sha256": "d7f52453c7a6746a0036f2d4d3ae75f6d81b93bf6a777bdba2074326be682c7f"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/R04-fresh-raster-null-1.json",
+      "bytes": 4240,
+      "sha256": "2bfbd4c35b5b58118dc0fdefd3e33c3f57d433514a1111595543693dad58cdf9"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/R04-inputs.json",
+      "bytes": 1370,
+      "sha256": "8398edcfde8db272cf0c134859a3a37f8e03330e3bd072a0584848f5da78c524"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/R04-legacy-positive-0.json",
+      "bytes": 4325,
+      "sha256": "2cfd24721bff4f52b7847926d0e38bbb23ccb2a953b020e437d62bd36090bb3f"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/R04-legacy-positive-1.json",
+      "bytes": 4312,
+      "sha256": "1560964997d7b25f7f128312b1e4d70bca87141316260d11b8d91553f95e4e0b"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/R04-legacy-raster-null-0.json",
+      "bytes": 4223,
+      "sha256": "3ef845cf7e9912b4d9c8cfcb40de23bc9cd5a6b855522b75c47c5fa9e8dbafeb"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/R04-legacy-raster-null-1.json",
+      "bytes": 4223,
+      "sha256": "40160a52ba41f798a639024a5b2d2ed8e3df9629ac2927095b13ec6197481f33"
+    },
+    {
+      "path": "exploration/persistent-01/review-23/snapshots/R04.py",
+      "bytes": 8438,
+      "sha256": "c54a3c2bf3b0cf91f07ff001702c4d2d222413eda92e3a67ccdf921dd0d8d4d8"
+    }
+  ]
+}

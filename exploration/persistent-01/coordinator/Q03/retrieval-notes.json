@@ -1,0 +1,20 @@
+{
+  "scope": "Read-only source retrieval/extraction before scientific experiment. Recorded from the tool invocation; not a retroactive standard-logger record.",
+  "source_url": "https://www.chaocipher.com/ActualChaocipher/Chaocipher-Revealed-Algorithm.pdf",
+  "retrieval": "urllib.request.urlopen(url, timeout=25).read()",
+  "extract_command": [
+    "<RUNTIME>/native/poppler/poppler/bin/pdftotext",
+    "-layout",
+    "<LOCAL_ONLY>/algorithm.pdf",
+    "<LOCAL_ONLY>/algorithm.txt"
+  ],
+  "extract_exit": 0,
+  "extract_stdout": "",
+  "extract_stderr": "",
+  "source_mtime_utc": "2026-09-16T23:38:04.722867+00:00",
+  "text_sha256": "326bd9b6e850da84156d3269a61ca923e68c37c8384b937809de01243a8177d6",
+  "web_failures": [
+    "Two web.open line170 retrievals returned (400) Timeout fetching; direct urllib retrieval subsequently succeeded."
+  ],
+  "wall_duration_seconds": null
+}

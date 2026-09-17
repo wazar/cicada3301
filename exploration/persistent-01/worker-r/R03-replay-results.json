@@ -1,0 +1,24 @@
+{
+  "panels_checked": 880,
+  "null_records": 863,
+  "max_scalar_error": 7.105427357601002e-15,
+  "real_witnesses": 203,
+  "files": [
+    {
+      "path": "R03-pilot-full.jsonl.gz",
+      "sha256": "927626b986a91fbbc1e470913dd54aa4d8b7f329ecf51a25621b38477651d226"
+    },
+    {
+      "path": "R03-controls-0-12-full.jsonl.gz",
+      "sha256": "feb90cb2264524c308fd8e4edfb36892c5b3415ec2f240000c476c8f5d777b95"
+    },
+    {
+      "path": "R03-stress-full.jsonl.gz",
+      "sha256": "789d87eeaab418781de17c4333e02d72b3f9daaf1c44e956cb95d61733284667"
+    },
+    {
+      "path": "R03-real-full.jsonl.gz",
+      "sha256": "35720f2df7a525674bb64f655d6ebb9d8fe1d22130e40eec215d6f941576f677"
+    }
+  ]
+}

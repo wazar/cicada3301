@@ -1,0 +1,7 @@
+# Review23 protocol — independently declared R04 detector repair
+
+Read frozen R04 card/code before evaluating its outputs. Q06 remains a failed instrument with58% positive-control held coverage and no actual orientation test; R04 is a new repair, never a relabeling of Q06 evidence. Only original0/1 mapped pixels and fixed inherited identity classes/split are allowed. Confirm exact393 eligible/196 held scope or explicitly declared departure.
+
+Trace classifier inputs: target truth identity and planted state must not select its class/template/angle. Frozen training labels may build training-only templates. Audit rotation before normalized feature extraction, retention of orientation signal and angle sign convention, unchanged .16 identity cutoff, unknown/rejected/misclassified instances in full denominator, and low/high state assignment fixed before truth comparison. Actual state fitting/gating must not inspect planted labels or flip them for accuracy.
+
+Replay bounded subsets of real pixel transformations, template construction and independent nearest-template/argmin/state/gate arithmetic. Full paired old controls and fresh±1.5/±2 raster controls must be retained, with full-array evidence and seed replay where feasible. Actual test only after new frozen gates pass. Template-derived raster fixtures measure sensitivity, not independent clean-font nulls or calibrated image significance. Preserve warnings/errors; no scientific tuning or shared modifications. One thread/logged900s maximum/original deadline; no reserves, Git mutations or nested workers.

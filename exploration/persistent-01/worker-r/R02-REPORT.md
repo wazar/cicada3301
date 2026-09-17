@@ -1,0 +1,11 @@
+# R02: fresh outgoing inventories fail on training artifact
+
+Originals0/1 contain49/38 repeated nonloop directed-edge pairs, despite a maximum of18/15 departures from any predecessor. A fresh28-successor deck cannot repeat a successor this early. Source-coordinate witnesses include page0 edge0→15 at rune offsets7 and61. Exact records retain all87collision pairs via ordered per-source departures;80duplicate-event witnesses accompany them. This contradiction was observed before the experiment card; these pages are training/diagnostic material, not held confirmation. No other real pages were examined by this test.
+
+Each simulated stream preserves the exact original adjacent-equality mask; loops consume no deck item. All999 uniform and999 marginal-weighted two-page deck panels satisfy the zero-collision invariant. Ordinary Markov controls have total-collision means82.91 (uniform) and98.64 (weighted), with upper-tail ranks.336 and.867 for real total87. These numbers calibrate the chosen controls only. They do not identify a Markov generator. Weighted controls use observed page histograms plus0.5 pseudocount, rather than attributing global symbol frequency differences to inventory memory.
+
+Three exact departure-list fixtures test refill counting; every simulated mask is asserted exactly. R02-controls.jsonl.gz retains all3,996 full two-page streams, seeds, scores, per-predecessor visits andscores. R02-results.json retains every simulated score, exact actual ordered departures/sourcecoordinates, input hash and runtime. Logged run exited0 in8.01s. No softened/bypass model was tested after seeing the contradiction. Unknown initial deck phases and carry-over states are outside this fresh-reset construction; broader rotor ciphers are not excluded.
+
+After narrow coordinator duplicate check, compared worker-l/L1-CONDITIONAL-CARD.md: that test conditions the same stutter mask but tests global symbol bags, not per-predecessor successor inventories. Shared source transcription and conditioning are acknowledged; this is a different exact constraint, not independent confirmation of the earlier lane.
+
+Next mechanism R03 tests a reversible-command inverse relation, not inventory depletion or a softened deck. Freeze its solver, full-procedure marginal-sensitive calibration and23/22training split before reading its held statistic.

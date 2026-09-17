@@ -1,0 +1,227 @@
+{
+  "centers": [
+    -0.013157894736842105,
+    0.5
+  ],
+  "separation": 0.5131578947368421,
+  "training_minority": 0.03553299492385787,
+  "held_mse_gain": 0.4427772441477452,
+  "eligible_held": 196,
+  "active_held": 196,
+  "correct_identity_held": 196,
+  "held_predicted_coverage": 1.0,
+  "held_correct_identity_coverage": 1.0,
+  "held_identity_accuracy": 1.0,
+  "rejected_held": 0,
+  "misclassified_held": 0,
+  "both_state_classes": 6,
+  "per_class": [
+    {
+      "shape": 1,
+      "held": 7,
+      "correct": 7,
+      "predicted_state0": 13,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 2,
+      "held": 8,
+      "correct": 8,
+      "predicted_state0": 15,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 3,
+      "held": 7,
+      "correct": 7,
+      "predicted_state0": 12,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 4,
+      "held": 0,
+      "correct": 0,
+      "predicted_state0": 0,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 5,
+      "held": 8,
+      "correct": 8,
+      "predicted_state0": 15,
+      "predicted_state1": 1
+    },
+    {
+      "shape": 6,
+      "held": 14,
+      "correct": 14,
+      "predicted_state0": 21,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 7,
+      "held": 7,
+      "correct": 7,
+      "predicted_state0": 11,
+      "predicted_state1": 2
+    },
+    {
+      "shape": 8,
+      "held": 5,
+      "correct": 5,
+      "predicted_state0": 9,
+      "predicted_state1": 3
+    },
+    {
+      "shape": 9,
+      "held": 10,
+      "correct": 10,
+      "predicted_state0": 20,
+      "predicted_state1": 2
+    },
+    {
+      "shape": 10,
+      "held": 9,
+      "correct": 9,
+      "predicted_state0": 17,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 11,
+      "held": 0,
+      "correct": 0,
+      "predicted_state0": 0,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 12,
+      "held": 5,
+      "correct": 5,
+      "predicted_state0": 13,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 13,
+      "held": 8,
+      "correct": 8,
+      "predicted_state0": 12,
+      "predicted_state1": 1
+    },
+    {
+      "shape": 14,
+      "held": 6,
+      "correct": 6,
+      "predicted_state0": 14,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 15,
+      "held": 6,
+      "correct": 6,
+      "predicted_state0": 12,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 16,
+      "held": 7,
+      "correct": 7,
+      "predicted_state0": 11,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 17,
+      "held": 4,
+      "correct": 4,
+      "predicted_state0": 12,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 18,
+      "held": 6,
+      "correct": 6,
+      "predicted_state0": 12,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 19,
+      "held": 13,
+      "correct": 13,
+      "predicted_state0": 20,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 20,
+      "held": 11,
+      "correct": 11,
+      "predicted_state0": 24,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 21,
+      "held": 5,
+      "correct": 5,
+      "predicted_state0": 11,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 22,
+      "held": 6,
+      "correct": 6,
+      "predicted_state0": 11,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 23,
+      "held": 6,
+      "correct": 6,
+      "predicted_state0": 15,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 24,
+      "held": 7,
+      "correct": 7,
+      "predicted_state0": 12,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 25,
+      "held": 7,
+      "correct": 7,
+      "predicted_state0": 17,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 26,
+      "held": 6,
+      "correct": 6,
+      "predicted_state0": 12,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 27,
+      "held": 7,
+      "correct": 7,
+      "predicted_state0": 16,
+      "predicted_state1": 1
+    },
+    {
+      "shape": 28,
+      "held": 4,
+      "correct": 4,
+      "predicted_state0": 10,
+      "predicted_state1": 0
+    },
+    {
+      "shape": 29,
+      "held": 7,
+      "correct": 7,
+      "predicted_state0": 16,
+      "predicted_state1": 0
+    }
+  ],
+  "channel_gate": false,
+  "kind": "raster-null",
+  "origin": "legacy",
+  "rep": 1
+}

@@ -1,0 +1,4557 @@
+{
+  "status": "PASS",
+  "pages": 45,
+  "panels": 500,
+  "outputs_recomputed": 22500,
+  "source": [
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_welcome.txt",
+      "sha256": "95caaffb0ae764801bb023ba8eda15b49366cb3258aab9e26922e89e884c7b73",
+      "start": 0,
+      "length": 515
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_jpg107-167.txt",
+      "sha256": "2dd885e1785ffee22692901167edb1a37a0fae87c7d765bf53f799b108663b6c",
+      "start": 515,
+      "length": 319
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_p56_an_end.txt",
+      "sha256": "3b82bf89e740dde1d1f8261ddf17e028f7d4bbc8933a1e972a564822f4e4d511",
+      "start": 834,
+      "length": 85
+    },
+    {
+      "path": "audit/parallel-01/reference/sources/solved_p57_parable.txt",
+      "sha256": "63c685205fcc753364d12ea72f7e120c6eba4031ab658cdf6fbf3da1d8749f25",
+      "start": 919,
+      "length": 95
+    }
+  ],
+  "comparisons": [
+    {
+      "actual": 57,
+      "minimum": 308,
+      "maximum": 422,
+      "mean": 362.342,
+      "lower_rank": 0.001996007984031936,
+      "upper_rank": 1.0,
+      "two_sided": 0.003992015968063872,
+      "bonferroni2": 0.007984031936127744
+    },
+    {
+      "actual": 357,
+      "minimum": 296,
+      "maximum": 404,
+      "mean": 349.648,
+      "lower_rank": 0.6986027944111777,
+      "upper_rank": 0.3313373253493014,
+      "two_sided": 0.6626746506986028,
+      "bonferroni2": 1
+    }
+  ],
+  "checks": [
+    {
+      "rep": 0,
+      "counts": [
+        331,
+        330
+      ],
+      "source_seams": 32,
+      "wraps": 8
+    },
+    {
+      "rep": 1,
+      "counts": [
+        364,
+        359
+      ],
+      "source_seams": 42,
+      "wraps": 9
+    },
+    {
+      "rep": 2,
+      "counts": [
+        369,
+        373
+      ],
+      "source_seams": 43,
+      "wraps": 7
+    },
+    {
+      "rep": 3,
+      "counts": [
+        363,
+        330
+      ],
+      "source_seams": 41,
+      "wraps": 11
+    },
+    {
+      "rep": 4,
+      "counts": [
+        341,
+        368
+      ],
+      "source_seams": 31,
+      "wraps": 11
+    },
+    {
+      "rep": 5,
+      "counts": [
+        362,
+        342
+      ],
+      "source_seams": 52,
+      "wraps": 15
+    },
+    {
+      "rep": 6,
+      "counts": [
+        373,
+        349
+      ],
+      "source_seams": 46,
+      "wraps": 14
+    },
+    {
+      "rep": 7,
+      "counts": [
+        368,
+        360
+      ],
+      "source_seams": 49,
+      "wraps": 15
+    },
+    {
+      "rep": 8,
+      "counts": [
+        368,
+        335
+      ],
+      "source_seams": 38,
+      "wraps": 6
+    },
+    {
+      "rep": 9,
+      "counts": [
+        360,
+        348
+      ],
+      "source_seams": 50,
+      "wraps": 9
+    },
+    {
+      "rep": 10,
+      "counts": [
+        369,
+        333
+      ],
+      "source_seams": 41,
+      "wraps": 12
+    },
+    {
+      "rep": 11,
+      "counts": [
+        368,
+        392
+      ],
+      "source_seams": 50,
+      "wraps": 14
+    },
+    {
+      "rep": 12,
+      "counts": [
+        347,
+        340
+      ],
+      "source_seams": 33,
+      "wraps": 14
+    },
+    {
+      "rep": 13,
+      "counts": [
+        370,
+        346
+      ],
+      "source_seams": 48,
+      "wraps": 15
+    },
+    {
+      "rep": 14,
+      "counts": [
+        375,
+        322
+      ],
+      "source_seams": 43,
+      "wraps": 14
+    },
+    {
+      "rep": 15,
+      "counts": [
+        367,
+        355
+      ],
+      "source_seams": 44,
+      "wraps": 13
+    },
+    {
+      "rep": 16,
+      "counts": [
+        363,
+        349
+      ],
+      "source_seams": 40,
+      "wraps": 11
+    },
+    {
+      "rep": 17,
+      "counts": [
+        378,
+        339
+      ],
+      "source_seams": 45,
+      "wraps": 11
+    },
+    {
+      "rep": 18,
+      "counts": [
+        336,
+        338
+      ],
+      "source_seams": 43,
+      "wraps": 10
+    },
+    {
+      "rep": 19,
+      "counts": [
+        374,
+        361
+      ],
+      "source_seams": 45,
+      "wraps": 14
+    },
+    {
+      "rep": 20,
+      "counts": [
+        374,
+        337
+      ],
+      "source_seams": 45,
+      "wraps": 11
+    },
+    {
+      "rep": 21,
+      "counts": [
+        310,
+        357
+      ],
+      "source_seams": 34,
+      "wraps": 9
+    },
+    {
+      "rep": 22,
+      "counts": [
+        379,
+        365
+      ],
+      "source_seams": 37,
+      "wraps": 11
+    },
+    {
+      "rep": 23,
+      "counts": [
+        347,
+        359
+      ],
+      "source_seams": 36,
+      "wraps": 9
+    },
+    {
+      "rep": 24,
+      "counts": [
+        374,
+        342
+      ],
+      "source_seams": 41,
+      "wraps": 9
+    },
+    {
+      "rep": 25,
+      "counts": [
+        381,
+        375
+      ],
+      "source_seams": 53,
+      "wraps": 12
+    },
+    {
+      "rep": 26,
+      "counts": [
+        349,
+        345
+      ],
+      "source_seams": 33,
+      "wraps": 12
+    },
+    {
+      "rep": 27,
+      "counts": [
+        357,
+        346
+      ],
+      "source_seams": 37,
+      "wraps": 10
+    },
+    {
+      "rep": 28,
+      "counts": [
+        395,
+        331
+      ],
+      "source_seams": 50,
+      "wraps": 11
+    },
+    {
+      "rep": 29,
+      "counts": [
+        377,
+        339
+      ],
+      "source_seams": 42,
+      "wraps": 13
+    },
+    {
+      "rep": 30,
+      "counts": [
+        342,
+        347
+      ],
+      "source_seams": 40,
+      "wraps": 11
+    },
+    {
+      "rep": 31,
+      "counts": [
+        365,
+        329
+      ],
+      "source_seams": 36,
+      "wraps": 8
+    },
+    {
+      "rep": 32,
+      "counts": [
+        356,
+        332
+      ],
+      "source_seams": 36,
+      "wraps": 7
+    },
+    {
+      "rep": 33,
+      "counts": [
+        342,
+        362
+      ],
+      "source_seams": 33,
+      "wraps": 6
+    },
+    {
+      "rep": 34,
+      "counts": [
+        381,
+        337
+      ],
+      "source_seams": 40,
+      "wraps": 8
+    },
+    {
+      "rep": 35,
+      "counts": [
+        366,
+        347
+      ],
+      "source_seams": 46,
+      "wraps": 10
+    },
+    {
+      "rep": 36,
+      "counts": [
+        374,
+        354
+      ],
+      "source_seams": 46,
+      "wraps": 12
+    },
+    {
+      "rep": 37,
+      "counts": [
+        332,
+        338
+      ],
+      "source_seams": 58,
+      "wraps": 20
+    },
+    {
+      "rep": 38,
+      "counts": [
+        397,
+        369
+      ],
+      "source_seams": 43,
+      "wraps": 14
+    },
+    {
+      "rep": 39,
+      "counts": [
+        349,
+        383
+      ],
+      "source_seams": 40,
+      "wraps": 12
+    },
+    {
+      "rep": 40,
+      "counts": [
+        308,
+        361
+      ],
+      "source_seams": 42,
+      "wraps": 11
+    },
+    {
+      "rep": 41,
+      "counts": [
+        354,
+        352
+      ],
+      "source_seams": 41,
+      "wraps": 4
+    },
+    {
+      "rep": 42,
+      "counts": [
+        403,
+        396
+      ],
+      "source_seams": 39,
+      "wraps": 8
+    },
+    {
+      "rep": 43,
+      "counts": [
+        352,
+        348
+      ],
+      "source_seams": 38,
+      "wraps": 11
+    },
+    {
+      "rep": 44,
+      "counts": [
+        389,
+        337
+      ],
+      "source_seams": 33,
+      "wraps": 8
+    },
+    {
+      "rep": 45,
+      "counts": [
+        350,
+        391
+      ],
+      "source_seams": 40,
+      "wraps": 8
+    },
+    {
+      "rep": 46,
+      "counts": [
+        323,
+        335
+      ],
+      "source_seams": 39,
+      "wraps": 10
+    },
+    {
+      "rep": 47,
+      "counts": [
+        382,
+        345
+      ],
+      "source_seams": 36,
+      "wraps": 7
+    },
+    {
+      "rep": 48,
+      "counts": [
+        338,
+        356
+      ],
+      "source_seams": 51,
+      "wraps": 15
+    },
+    {
+      "rep": 49,
+      "counts": [
+        375,
+        345
+      ],
+      "source_seams": 43,
+      "wraps": 11
+    },
+    {
+      "rep": 50,
+      "counts": [
+        330,
+        357
+      ],
+      "source_seams": 49,
+      "wraps": 17
+    },
+    {
+      "rep": 51,
+      "counts": [
+        352,
+        371
+      ],
+      "source_seams": 51,
+      "wraps": 16
+    },
+    {
+      "rep": 52,
+      "counts": [
+        378,
+        365
+      ],
+      "source_seams": 43,
+      "wraps": 10
+    },
+    {
+      "rep": 53,
+      "counts": [
+        388,
+        350
+      ],
+      "source_seams": 50,
+      "wraps": 17
+    },
+    {
+      "rep": 54,
+      "counts": [
+        370,
+        327
+      ],
+      "source_seams": 37,
+      "wraps": 7
+    },
+    {
+      "rep": 55,
+      "counts": [
+        374,
+        344
+      ],
+      "source_seams": 46,
+      "wraps": 10
+    },
+    {
+      "rep": 56,
+      "counts": [
+        338,
+        328
+      ],
+      "source_seams": 38,
+      "wraps": 7
+    },
+    {
+      "rep": 57,
+      "counts": [
+        372,
+        356
+      ],
+      "source_seams": 42,
+      "wraps": 11
+    },
+    {
+      "rep": 58,
+      "counts": [
+        314,
+        349
+      ],
+      "source_seams": 35,
+      "wraps": 9
+    },
+    {
+      "rep": 59,
+      "counts": [
+        366,
+        306
+      ],
+      "source_seams": 43,
+      "wraps": 9
+    },
+    {
+      "rep": 60,
+      "counts": [
+        352,
+        347
+      ],
+      "source_seams": 37,
+      "wraps": 9
+    },
+    {
+      "rep": 61,
+      "counts": [
+        355,
+        308
+      ],
+      "source_seams": 44,
+      "wraps": 8
+    },
+    {
+      "rep": 62,
+      "counts": [
+        335,
+        360
+      ],
+      "source_seams": 37,
+      "wraps": 9
+    },
+    {
+      "rep": 63,
+      "counts": [
+        356,
+        373
+      ],
+      "source_seams": 39,
+      "wraps": 8
+    },
+    {
+      "rep": 64,
+      "counts": [
+        373,
+        350
+      ],
+      "source_seams": 34,
+      "wraps": 9
+    },
+    {
+      "rep": 65,
+      "counts": [
+        318,
+        346
+      ],
+      "source_seams": 42,
+      "wraps": 9
+    },
+    {
+      "rep": 66,
+      "counts": [
+        372,
+        350
+      ],
+      "source_seams": 38,
+      "wraps": 9
+    },
+    {
+      "rep": 67,
+      "counts": [
+        352,
+        355
+      ],
+      "source_seams": 42,
+      "wraps": 9
+    },
+    {
+      "rep": 68,
+      "counts": [
+        387,
+        366
+      ],
+      "source_seams": 42,
+      "wraps": 12
+    },
+    {
+      "rep": 69,
+      "counts": [
+        361,
+        343
+      ],
+      "source_seams": 41,
+      "wraps": 10
+    },
+    {
+      "rep": 70,
+      "counts": [
+        357,
+        337
+      ],
+      "source_seams": 44,
+      "wraps": 7
+    },
+    {
+      "rep": 71,
+      "counts": [
+        381,
+        369
+      ],
+      "source_seams": 43,
+      "wraps": 11
+    },
+    {
+      "rep": 72,
+      "counts": [
+        335,
+        375
+      ],
+      "source_seams": 38,
+      "wraps": 9
+    },
+    {
+      "rep": 73,
+      "counts": [
+        368,
+        346
+      ],
+      "source_seams": 43,
+      "wraps": 10
+    },
+    {
+      "rep": 74,
+      "counts": [
+        377,
+        404
+      ],
+      "source_seams": 42,
+      "wraps": 9
+    },
+    {
+      "rep": 75,
+      "counts": [
+        358,
+        367
+      ],
+      "source_seams": 42,
+      "wraps": 7
+    },
+    {
+      "rep": 76,
+      "counts": [
+        361,
+        365
+      ],
+      "source_seams": 44,
+      "wraps": 13
+    },
+    {
+      "rep": 77,
+      "counts": [
+        356,
+        375
+      ],
+      "source_seams": 47,
+      "wraps": 11
+    },
+    {
+      "rep": 78,
+      "counts": [
+        373,
+        376
+      ],
+      "source_seams": 39,
+      "wraps": 10
+    },
+    {
+      "rep": 79,
+      "counts": [
+        347,
+        350
+      ],
+      "source_seams": 43,
+      "wraps": 11
+    },
+    {
+      "rep": 80,
+      "counts": [
+        383,
+        389
+      ],
+      "source_seams": 36,
+      "wraps": 6
+    },
+    {
+      "rep": 81,
+      "counts": [
+        345,
+        359
+      ],
+      "source_seams": 35,
+      "wraps": 8
+    },
+    {
+      "rep": 82,
+      "counts": [
+        381,
+        342
+      ],
+      "source_seams": 39,
+      "wraps": 4
+    },
+    {
+      "rep": 83,
+      "counts": [
+        320,
+        352
+      ],
+      "source_seams": 36,
+      "wraps": 9
+    },
+    {
+      "rep": 84,
+      "counts": [
+        364,
+        332
+      ],
+      "source_seams": 33,
+      "wraps": 12
+    },
+    {
+      "rep": 85,
+      "counts": [
+        347,
+        368
+      ],
+      "source_seams": 40,
+      "wraps": 11
+    },
+    {
+      "rep": 86,
+      "counts": [
+        353,
+        369
+      ],
+      "source_seams": 38,
+      "wraps": 12
+    },
+    {
+      "rep": 87,
+      "counts": [
+        345,
+        343
+      ],
+      "source_seams": 36,
+      "wraps": 12
+    },
+    {
+      "rep": 88,
+      "counts": [
+        354,
+        376
+      ],
+      "source_seams": 42,
+      "wraps": 13
+    },
+    {
+      "rep": 89,
+      "counts": [
+        342,
+        352
+      ],
+      "source_seams": 52,
+      "wraps": 15
+    },
+    {
+      "rep": 90,
+      "counts": [
+        348,
+        333
+      ],
+      "source_seams": 45,
+      "wraps": 10
+    },
+    {
+      "rep": 91,
+      "counts": [
+        340,
+        357
+      ],
+      "source_seams": 43,
+      "wraps": 14
+    },
+    {
+      "rep": 92,
+      "counts": [
+        345,
+        357
+      ],
+      "source_seams": 39,
+      "wraps": 7
+    },
+    {
+      "rep": 93,
+      "counts": [
+        355,
+        347
+      ],
+      "source_seams": 42,
+      "wraps": 8
+    },
+    {
+      "rep": 94,
+      "counts": [
+        384,
+        338
+      ],
+      "source_seams": 41,
+      "wraps": 10
+    },
+    {
+      "rep": 95,
+      "counts": [
+        376,
+        354
+      ],
+      "source_seams": 37,
+      "wraps": 8
+    },
+    {
+      "rep": 96,
+      "counts": [
+        369,
+        364
+      ],
+      "source_seams": 33,
+      "wraps": 4
+    },
+    {
+      "rep": 97,
+      "counts": [
+        342,
+        339
+      ],
+      "source_seams": 40,
+      "wraps": 8
+    },
+    {
+      "rep": 98,
+      "counts": [
+        415,
+        339
+      ],
+      "source_seams": 50,
+      "wraps": 12
+    },
+    {
+      "rep": 99,
+      "counts": [
+        377,
+        335
+      ],
+      "source_seams": 42,
+      "wraps": 10
+    },
+    {
+      "rep": 100,
+      "counts": [
+        371,
+        346
+      ],
+      "source_seams": 41,
+      "wraps": 10
+    },
+    {
+      "rep": 101,
+      "counts": [
+        377,
+        337
+      ],
+      "source_seams": 36,
+      "wraps": 10
+    },
+    {
+      "rep": 102,
+      "counts": [
+        373,
+        361
+      ],
+      "source_seams": 35,
+      "wraps": 9
+    },
+    {
+      "rep": 103,
+      "counts": [
+        355,
+        379
+      ],
+      "source_seams": 49,
+      "wraps": 11
+    },
+    {
+      "rep": 104,
+      "counts": [
+        318,
+        332
+      ],
+      "source_seams": 52,
+      "wraps": 15
+    },
+    {
+      "rep": 105,
+      "counts": [
+        325,
+        340
+      ],
+      "source_seams": 41,
+      "wraps": 7
+    },
+    {
+      "rep": 106,
+      "counts": [
+        348,
+        349
+      ],
+      "source_seams": 40,
+      "wraps": 10
+    },
+    {
+      "rep": 107,
+      "counts": [
+        379,
+        353
+      ],
+      "source_seams": 35,
+      "wraps": 7
+    },
+    {
+      "rep": 108,
+      "counts": [
+        356,
+        371
+      ],
+      "source_seams": 34,
+      "wraps": 7
+    },
+    {
+      "rep": 109,
+      "counts": [
+        370,
+        329
+      ],
+      "source_seams": 36,
+      "wraps": 8
+    },
+    {
+      "rep": 110,
+      "counts": [
+        353,
+        395
+      ],
+      "source_seams": 45,
+      "wraps": 10
+    },
+    {
+      "rep": 111,
+      "counts": [
+        369,
+        357
+      ],
+      "source_seams": 46,
+      "wraps": 17
+    },
+    {
+      "rep": 112,
+      "counts": [
+        352,
+        329
+      ],
+      "source_seams": 46,
+      "wraps": 12
+    },
+    {
+      "rep": 113,
+      "counts": [
+        393,
+        363
+      ],
+      "source_seams": 48,
+      "wraps": 11
+    },
+    {
+      "rep": 114,
+      "counts": [
+        398,
+        367
+      ],
+      "source_seams": 38,
+      "wraps": 11
+    },
+    {
+      "rep": 115,
+      "counts": [
+        349,
+        365
+      ],
+      "source_seams": 37,
+      "wraps": 8
+    },
+    {
+      "rep": 116,
+      "counts": [
+        353,
+        373
+      ],
+      "source_seams": 35,
+      "wraps": 4
+    },
+    {
+      "rep": 117,
+      "counts": [
+        360,
+        376
+      ],
+      "source_seams": 49,
+      "wraps": 11
+    },
+    {
+      "rep": 118,
+      "counts": [
+        360,
+        343
+      ],
+      "source_seams": 44,
+      "wraps": 13
+    },
+    {
+      "rep": 119,
+      "counts": [
+        365,
+        348
+      ],
+      "source_seams": 42,
+      "wraps": 13
+    },
+    {
+      "rep": 120,
+      "counts": [
+        330,
+        367
+      ],
+      "source_seams": 46,
+      "wraps": 9
+    },
+    {
+      "rep": 121,
+      "counts": [
+        358,
+        328
+      ],
+      "source_seams": 44,
+      "wraps": 16
+    },
+    {
+      "rep": 122,
+      "counts": [
+        389,
+        330
+      ],
+      "source_seams": 45,
+      "wraps": 14
+    },
+    {
+      "rep": 123,
+      "counts": [
+        394,
+        323
+      ],
+      "source_seams": 34,
+      "wraps": 4
+    },
+    {
+      "rep": 124,
+      "counts": [
+        373,
+        361
+      ],
+      "source_seams": 39,
+      "wraps": 8
+    },
+    {
+      "rep": 125,
+      "counts": [
+        395,
+        324
+      ],
+      "source_seams": 51,
+      "wraps": 11
+    },
+    {
+      "rep": 126,
+      "counts": [
+        367,
+        392
+      ],
+      "source_seams": 48,
+      "wraps": 11
+    },
+    {
+      "rep": 127,
+      "counts": [
+        384,
+        322
+      ],
+      "source_seams": 46,
+      "wraps": 14
+    },
+    {
+      "rep": 128,
+      "counts": [
+        349,
+        344
+      ],
+      "source_seams": 45,
+      "wraps": 12
+    },
+    {
+      "rep": 129,
+      "counts": [
+        402,
+        332
+      ],
+      "source_seams": 43,
+      "wraps": 10
+    },
+    {
+      "rep": 130,
+      "counts": [
+        351,
+        346
+      ],
+      "source_seams": 47,
+      "wraps": 13
+    },
+    {
+      "rep": 131,
+      "counts": [
+        380,
+        352
+      ],
+      "source_seams": 42,
+      "wraps": 8
+    },
+    {
+      "rep": 132,
+      "counts": [
+        380,
+        346
+      ],
+      "source_seams": 35,
+      "wraps": 7
+    },
+    {
+      "rep": 133,
+      "counts": [
+        343,
+        358
+      ],
+      "source_seams": 41,
+      "wraps": 9
+    },
+    {
+      "rep": 134,
+      "counts": [
+        348,
+        350
+      ],
+      "source_seams": 37,
+      "wraps": 11
+    },
+    {
+      "rep": 135,
+      "counts": [
+        388,
+        356
+      ],
+      "source_seams": 36,
+      "wraps": 10
+    },
+    {
+      "rep": 136,
+      "counts": [
+        380,
+        360
+      ],
+      "source_seams": 40,
+      "wraps": 10
+    },
+    {
+      "rep": 137,
+      "counts": [
+        351,
+        360
+      ],
+      "source_seams": 38,
+      "wraps": 6
+    },
+    {
+      "rep": 138,
+      "counts": [
+        377,
+        397
+      ],
+      "source_seams": 44,
+      "wraps": 13
+    },
+    {
+      "rep": 139,
+      "counts": [
+        344,
+        340
+      ],
+      "source_seams": 45,
+      "wraps": 15
+    },
+    {
+      "rep": 140,
+      "counts": [
+        389,
+        341
+      ],
+      "source_seams": 36,
+      "wraps": 8
+    },
+    {
+      "rep": 141,
+      "counts": [
+        332,
+        311
+      ],
+      "source_seams": 32,
+      "wraps": 7
+    },
+    {
+      "rep": 142,
+      "counts": [
+        361,
+        333
+      ],
+      "source_seams": 35,
+      "wraps": 9
+    },
+    {
+      "rep": 143,
+      "counts": [
+        346,
+        333
+      ],
+      "source_seams": 46,
+      "wraps": 11
+    },
+    {
+      "rep": 144,
+      "counts": [
+        355,
+        379
+      ],
+      "source_seams": 42,
+      "wraps": 9
+    },
+    {
+      "rep": 145,
+      "counts": [
+        363,
+        345
+      ],
+      "source_seams": 39,
+      "wraps": 7
+    },
+    {
+      "rep": 146,
+      "counts": [
+        372,
+        374
+      ],
+      "source_seams": 37,
+      "wraps": 7
+    },
+    {
+      "rep": 147,
+      "counts": [
+        348,
+        376
+      ],
+      "source_seams": 40,
+      "wraps": 10
+    },
+    {
+      "rep": 148,
+      "counts": [
+        379,
+        328
+      ],
+      "source_seams": 42,
+      "wraps": 8
+    },
+    {
+      "rep": 149,
+      "counts": [
+        350,
+        360
+      ],
+      "source_seams": 37,
+      "wraps": 10
+    },
+    {
+      "rep": 150,
+      "counts": [
+        394,
+        332
+      ],
+      "source_seams": 47,
+      "wraps": 13
+    },
+    {
+      "rep": 151,
+      "counts": [
+        384,
+        339
+      ],
+      "source_seams": 42,
+      "wraps": 9
+    },
+    {
+      "rep": 152,
+      "counts": [
+        384,
+        351
+      ],
+      "source_seams": 38,
+      "wraps": 8
+    },
+    {
+      "rep": 153,
+      "counts": [
+        321,
+        351
+      ],
+      "source_seams": 42,
+      "wraps": 12
+    },
+    {
+      "rep": 154,
+      "counts": [
+        372,
+        348
+      ],
+      "source_seams": 33,
+      "wraps": 6
+    },
+    {
+      "rep": 155,
+      "counts": [
+        352,
+        326
+      ],
+      "source_seams": 42,
+      "wraps": 10
+    },
+    {
+      "rep": 156,
+      "counts": [
+        362,
+        353
+      ],
+      "source_seams": 39,
+      "wraps": 8
+    },
+    {
+      "rep": 157,
+      "counts": [
+        359,
+        355
+      ],
+      "source_seams": 47,
+      "wraps": 16
+    },
+    {
+      "rep": 158,
+      "counts": [
+        360,
+        374
+      ],
+      "source_seams": 39,
+      "wraps": 9
+    },
+    {
+      "rep": 159,
+      "counts": [
+        367,
+        330
+      ],
+      "source_seams": 46,
+      "wraps": 10
+    },
+    {
+      "rep": 160,
+      "counts": [
+        358,
+        352
+      ],
+      "source_seams": 35,
+      "wraps": 7
+    },
+    {
+      "rep": 161,
+      "counts": [
+        336,
+        345
+      ],
+      "source_seams": 42,
+      "wraps": 7
+    },
+    {
+      "rep": 162,
+      "counts": [
+        369,
+        354
+      ],
+      "source_seams": 49,
+      "wraps": 14
+    },
+    {
+      "rep": 163,
+      "counts": [
+        349,
+        355
+      ],
+      "source_seams": 43,
+      "wraps": 7
+    },
+    {
+      "rep": 164,
+      "counts": [
+        371,
+        351
+      ],
+      "source_seams": 30,
+      "wraps": 7
+    },
+    {
+      "rep": 165,
+      "counts": [
+        350,
+        325
+      ],
+      "source_seams": 47,
+      "wraps": 11
+    },
+    {
+      "rep": 166,
+      "counts": [
+        334,
+        350
+      ],
+      "source_seams": 46,
+      "wraps": 13
+    },
+    {
+      "rep": 167,
+      "counts": [
+        369,
+        365
+      ],
+      "source_seams": 38,
+      "wraps": 11
+    },
+    {
+      "rep": 168,
+      "counts": [
+        345,
+        325
+      ],
+      "source_seams": 48,
+      "wraps": 14
+    },
+    {
+      "rep": 169,
+      "counts": [
+        399,
+        342
+      ],
+      "source_seams": 44,
+      "wraps": 10
+    },
+    {
+      "rep": 170,
+      "counts": [
+        377,
+        377
+      ],
+      "source_seams": 44,
+      "wraps": 8
+    },
+    {
+      "rep": 171,
+      "counts": [
+        364,
+        307
+      ],
+      "source_seams": 49,
+      "wraps": 16
+    },
+    {
+      "rep": 172,
+      "counts": [
+        361,
+        359
+      ],
+      "source_seams": 45,
+      "wraps": 10
+    },
+    {
+      "rep": 173,
+      "counts": [
+        363,
+        353
+      ],
+      "source_seams": 36,
+      "wraps": 7
+    },
+    {
+      "rep": 174,
+      "counts": [
+        362,
+        382
+      ],
+      "source_seams": 46,
+      "wraps": 15
+    },
+    {
+      "rep": 175,
+      "counts": [
+        363,
+        376
+      ],
+      "source_seams": 44,
+      "wraps": 8
+    },
+    {
+      "rep": 176,
+      "counts": [
+        364,
+        375
+      ],
+      "source_seams": 37,
+      "wraps": 10
+    },
+    {
+      "rep": 177,
+      "counts": [
+        354,
+        359
+      ],
+      "source_seams": 46,
+      "wraps": 12
+    },
+    {
+      "rep": 178,
+      "counts": [
+        365,
+        383
+      ],
+      "source_seams": 37,
+      "wraps": 8
+    },
+    {
+      "rep": 179,
+      "counts": [
+        370,
+        339
+      ],
+      "source_seams": 40,
+      "wraps": 12
+    },
+    {
+      "rep": 180,
+      "counts": [
+        338,
+        354
+      ],
+      "source_seams": 44,
+      "wraps": 12
+    },
+    {
+      "rep": 181,
+      "counts": [
+        375,
+        367
+      ],
+      "source_seams": 46,
+      "wraps": 11
+    },
+    {
+      "rep": 182,
+      "counts": [
+        332,
+        350
+      ],
+      "source_seams": 49,
+      "wraps": 12
+    },
+    {
+      "rep": 183,
+      "counts": [
+        374,
+        370
+      ],
+      "source_seams": 38,
+      "wraps": 12
+    },
+    {
+      "rep": 184,
+      "counts": [
+        372,
+        335
+      ],
+      "source_seams": 38,
+      "wraps": 12
+    },
+    {
+      "rep": 185,
+      "counts": [
+        349,
+        366
+      ],
+      "source_seams": 41,
+      "wraps": 7
+    },
+    {
+      "rep": 186,
+      "counts": [
+        373,
+        311
+      ],
+      "source_seams": 38,
+      "wraps": 10
+    },
+    {
+      "rep": 187,
+      "counts": [
+        324,
+        355
+      ],
+      "source_seams": 33,
+      "wraps": 6
+    },
+    {
+      "rep": 188,
+      "counts": [
+        354,
+        373
+      ],
+      "source_seams": 38,
+      "wraps": 9
+    },
+    {
+      "rep": 189,
+      "counts": [
+        394,
+        345
+      ],
+      "source_seams": 45,
+      "wraps": 14
+    },
+    {
+      "rep": 190,
+      "counts": [
+        376,
+        331
+      ],
+      "source_seams": 46,
+      "wraps": 14
+    },
+    {
+      "rep": 191,
+      "counts": [
+        363,
+        345
+      ],
+      "source_seams": 43,
+      "wraps": 8
+    },
+    {
+      "rep": 192,
+      "counts": [
+        376,
+        378
+      ],
+      "source_seams": 41,
+      "wraps": 12
+    },
+    {
+      "rep": 193,
+      "counts": [
+        380,
+        349
+      ],
+      "source_seams": 33,
+      "wraps": 6
+    },
+    {
+      "rep": 194,
+      "counts": [
+        371,
+        366
+      ],
+      "source_seams": 42,
+      "wraps": 8
+    },
+    {
+      "rep": 195,
+      "counts": [
+        378,
+        330
+      ],
+      "source_seams": 41,
+      "wraps": 8
+    },
+    {
+      "rep": 196,
+      "counts": [
+        382,
+        349
+      ],
+      "source_seams": 34,
+      "wraps": 8
+    },
+    {
+      "rep": 197,
+      "counts": [
+        369,
+        340
+      ],
+      "source_seams": 40,
+      "wraps": 13
+    },
+    {
+      "rep": 198,
+      "counts": [
+        378,
+        348
+      ],
+      "source_seams": 41,
+      "wraps": 9
+    },
+    {
+      "rep": 199,
+      "counts": [
+        341,
+        342
+      ],
+      "source_seams": 41,
+      "wraps": 11
+    },
+    {
+      "rep": 200,
+      "counts": [
+        367,
+        337
+      ],
+      "source_seams": 41,
+      "wraps": 8
+    },
+    {
+      "rep": 201,
+      "counts": [
+        378,
+        323
+      ],
+      "source_seams": 49,
+      "wraps": 11
+    },
+    {
+      "rep": 202,
+      "counts": [
+        373,
+        337
+      ],
+      "source_seams": 36,
+      "wraps": 11
+    },
+    {
+      "rep": 203,
+      "counts": [
+        394,
+        371
+      ],
+      "source_seams": 52,
+      "wraps": 6
+    },
+    {
+      "rep": 204,
+      "counts": [
+        375,
+        346
+      ],
+      "source_seams": 35,
+      "wraps": 8
+    },
+    {
+      "rep": 205,
+      "counts": [
+        343,
+        326
+      ],
+      "source_seams": 36,
+      "wraps": 10
+    },
+    {
+      "rep": 206,
+      "counts": [
+        377,
+        368
+      ],
+      "source_seams": 47,
+      "wraps": 8
+    },
+    {
+      "rep": 207,
+      "counts": [
+        352,
+        378
+      ],
+      "source_seams": 38,
+      "wraps": 9
+    },
+    {
+      "rep": 208,
+      "counts": [
+        370,
+        354
+      ],
+      "source_seams": 36,
+      "wraps": 6
+    },
+    {
+      "rep": 209,
+      "counts": [
+        370,
+        359
+      ],
+      "source_seams": 39,
+      "wraps": 9
+    },
+    {
+      "rep": 210,
+      "counts": [
+        332,
+        361
+      ],
+      "source_seams": 40,
+      "wraps": 7
+    },
+    {
+      "rep": 211,
+      "counts": [
+        345,
+        356
+      ],
+      "source_seams": 35,
+      "wraps": 8
+    },
+    {
+      "rep": 212,
+      "counts": [
+        351,
+        338
+      ],
+      "source_seams": 36,
+      "wraps": 9
+    },
+    {
+      "rep": 213,
+      "counts": [
+        385,
+        319
+      ],
+      "source_seams": 40,
+      "wraps": 12
+    },
+    {
+      "rep": 214,
+      "counts": [
+        374,
+        323
+      ],
+      "source_seams": 47,
+      "wraps": 10
+    },
+    {
+      "rep": 215,
+      "counts": [
+        360,
+        360
+      ],
+      "source_seams": 37,
+      "wraps": 6
+    },
+    {
+      "rep": 216,
+      "counts": [
+        361,
+        325
+      ],
+      "source_seams": 38,
+      "wraps": 10
+    },
+    {
+      "rep": 217,
+      "counts": [
+        375,
+        332
+      ],
+      "source_seams": 47,
+      "wraps": 8
+    },
+    {
+      "rep": 218,
+      "counts": [
+        382,
+        350
+      ],
+      "source_seams": 37,
+      "wraps": 12
+    },
+    {
+      "rep": 219,
+      "counts": [
+        328,
+        378
+      ],
+      "source_seams": 37,
+      "wraps": 10
+    },
+    {
+      "rep": 220,
+      "counts": [
+        347,
+        354
+      ],
+      "source_seams": 39,
+      "wraps": 11
+    },
+    {
+      "rep": 221,
+      "counts": [
+        369,
+        316
+      ],
+      "source_seams": 40,
+      "wraps": 10
+    },
+    {
+      "rep": 222,
+      "counts": [
+        376,
+        360
+      ],
+      "source_seams": 44,
+      "wraps": 12
+    },
+    {
+      "rep": 223,
+      "counts": [
+        330,
+        399
+      ],
+      "source_seams": 40,
+      "wraps": 10
+    },
+    {
+      "rep": 224,
+      "counts": [
+        351,
+        331
+      ],
+      "source_seams": 33,
+      "wraps": 9
+    },
+    {
+      "rep": 225,
+      "counts": [
+        347,
+        396
+      ],
+      "source_seams": 37,
+      "wraps": 11
+    },
+    {
+      "rep": 226,
+      "counts": [
+        385,
+        344
+      ],
+      "source_seams": 32,
+      "wraps": 6
+    },
+    {
+      "rep": 227,
+      "counts": [
+        395,
+        340
+      ],
+      "source_seams": 32,
+      "wraps": 7
+    },
+    {
+      "rep": 228,
+      "counts": [
+        353,
+        360
+      ],
+      "source_seams": 43,
+      "wraps": 10
+    },
+    {
+      "rep": 229,
+      "counts": [
+        362,
+        297
+      ],
+      "source_seams": 43,
+      "wraps": 8
+    },
+    {
+      "rep": 230,
+      "counts": [
+        366,
+        357
+      ],
+      "source_seams": 54,
+      "wraps": 15
+    },
+    {
+      "rep": 231,
+      "counts": [
+        366,
+        341
+      ],
+      "source_seams": 34,
+      "wraps": 4
+    },
+    {
+      "rep": 232,
+      "counts": [
+        386,
+        354
+      ],
+      "source_seams": 36,
+      "wraps": 7
+    },
+    {
+      "rep": 233,
+      "counts": [
+        359,
+        350
+      ],
+      "source_seams": 55,
+      "wraps": 15
+    },
+    {
+      "rep": 234,
+      "counts": [
+        351,
+        362
+      ],
+      "source_seams": 44,
+      "wraps": 11
+    },
+    {
+      "rep": 235,
+      "counts": [
+        357,
+        315
+      ],
+      "source_seams": 44,
+      "wraps": 7
+    },
+    {
+      "rep": 236,
+      "counts": [
+        380,
+        349
+      ],
+      "source_seams": 36,
+      "wraps": 6
+    },
+    {
+      "rep": 237,
+      "counts": [
+        364,
+        332
+      ],
+      "source_seams": 42,
+      "wraps": 14
+    },
+    {
+      "rep": 238,
+      "counts": [
+        370,
+        343
+      ],
+      "source_seams": 47,
+      "wraps": 14
+    },
+    {
+      "rep": 239,
+      "counts": [
+        397,
+        348
+      ],
+      "source_seams": 37,
+      "wraps": 9
+    },
+    {
+      "rep": 240,
+      "counts": [
+        368,
+        338
+      ],
+      "source_seams": 45,
+      "wraps": 10
+    },
+    {
+      "rep": 241,
+      "counts": [
+        358,
+        329
+      ],
+      "source_seams": 31,
+      "wraps": 7
+    },
+    {
+      "rep": 242,
+      "counts": [
+        364,
+        338
+      ],
+      "source_seams": 40,
+      "wraps": 9
+    },
+    {
+      "rep": 243,
+      "counts": [
+        369,
+        369
+      ],
+      "source_seams": 35,
+      "wraps": 7
+    },
+    {
+      "rep": 244,
+      "counts": [
+        384,
+        338
+      ],
+      "source_seams": 32,
+      "wraps": 8
+    },
+    {
+      "rep": 245,
+      "counts": [
+        361,
+        356
+      ],
+      "source_seams": 47,
+      "wraps": 6
+    },
+    {
+      "rep": 246,
+      "counts": [
+        375,
+        308
+      ],
+      "source_seams": 44,
+      "wraps": 14
+    },
+    {
+      "rep": 247,
+      "counts": [
+        352,
+        390
+      ],
+      "source_seams": 33,
+      "wraps": 12
+    },
+    {
+      "rep": 248,
+      "counts": [
+        367,
+        371
+      ],
+      "source_seams": 46,
+      "wraps": 12
+    },
+    {
+      "rep": 249,
+      "counts": [
+        337,
+        347
+      ],
+      "source_seams": 42,
+      "wraps": 11
+    },
+    {
+      "rep": 250,
+      "counts": [
+        369,
+        378
+      ],
+      "source_seams": 47,
+      "wraps": 12
+    },
+    {
+      "rep": 251,
+      "counts": [
+        355,
+        356
+      ],
+      "source_seams": 45,
+      "wraps": 11
+    },
+    {
+      "rep": 252,
+      "counts": [
+        374,
+        337
+      ],
+      "source_seams": 45,
+      "wraps": 13
+    },
+    {
+      "rep": 253,
+      "counts": [
+        348,
+        330
+      ],
+      "source_seams": 51,
+      "wraps": 12
+    },
+    {
+      "rep": 254,
+      "counts": [
+        360,
+        353
+      ],
+      "source_seams": 39,
+      "wraps": 11
+    },
+    {
+      "rep": 255,
+      "counts": [
+        361,
+        327
+      ],
+      "source_seams": 42,
+      "wraps": 9
+    },
+    {
+      "rep": 256,
+      "counts": [
+        380,
+        320
+      ],
+      "source_seams": 26,
+      "wraps": 5
+    },
+    {
+      "rep": 257,
+      "counts": [
+        355,
+        332
+      ],
+      "source_seams": 30,
+      "wraps": 6
+    },
+    {
+      "rep": 258,
+      "counts": [
+        383,
+        348
+      ],
+      "source_seams": 43,
+      "wraps": 9
+    },
+    {
+      "rep": 259,
+      "counts": [
+        382,
+        375
+      ],
+      "source_seams": 32,
+      "wraps": 9
+    },
+    {
+      "rep": 260,
+      "counts": [
+        332,
+        362
+      ],
+      "source_seams": 40,
+      "wraps": 8
+    },
+    {
+      "rep": 261,
+      "counts": [
+        370,
+        370
+      ],
+      "source_seams": 35,
+      "wraps": 8
+    },
+    {
+      "rep": 262,
+      "counts": [
+        364,
+        334
+      ],
+      "source_seams": 36,
+      "wraps": 13
+    },
+    {
+      "rep": 263,
+      "counts": [
+        377,
+        337
+      ],
+      "source_seams": 39,
+      "wraps": 18
+    },
+    {
+      "rep": 264,
+      "counts": [
+        380,
+        326
+      ],
+      "source_seams": 42,
+      "wraps": 9
+    },
+    {
+      "rep": 265,
+      "counts": [
+        374,
+        327
+      ],
+      "source_seams": 39,
+      "wraps": 8
+    },
+    {
+      "rep": 266,
+      "counts": [
+        356,
+        366
+      ],
+      "source_seams": 37,
+      "wraps": 9
+    },
+    {
+      "rep": 267,
+      "counts": [
+        346,
+        317
+      ],
+      "source_seams": 41,
+      "wraps": 11
+    },
+    {
+      "rep": 268,
+      "counts": [
+        361,
+        323
+      ],
+      "source_seams": 41,
+      "wraps": 10
+    },
+    {
+      "rep": 269,
+      "counts": [
+        357,
+        348
+      ],
+      "source_seams": 38,
+      "wraps": 12
+    },
+    {
+      "rep": 270,
+      "counts": [
+        341,
+        351
+      ],
+      "source_seams": 39,
+      "wraps": 10
+    },
+    {
+      "rep": 271,
+      "counts": [
+        362,
+        356
+      ],
+      "source_seams": 37,
+      "wraps": 10
+    },
+    {
+      "rep": 272,
+      "counts": [
+        356,
+        357
+      ],
+      "source_seams": 41,
+      "wraps": 11
+    },
+    {
+      "rep": 273,
+      "counts": [
+        378,
+        339
+      ],
+      "source_seams": 36,
+      "wraps": 8
+    },
+    {
+      "rep": 274,
+      "counts": [
+        383,
+        355
+      ],
+      "source_seams": 43,
+      "wraps": 15
+    },
+    {
+      "rep": 275,
+      "counts": [
+        358,
+        357
+      ],
+      "source_seams": 47,
+      "wraps": 12
+    },
+    {
+      "rep": 276,
+      "counts": [
+        360,
+        377
+      ],
+      "source_seams": 41,
+      "wraps": 11
+    },
+    {
+      "rep": 277,
+      "counts": [
+        359,
+        335
+      ],
+      "source_seams": 45,
+      "wraps": 12
+    },
+    {
+      "rep": 278,
+      "counts": [
+        351,
+        379
+      ],
+      "source_seams": 45,
+      "wraps": 14
+    },
+    {
+      "rep": 279,
+      "counts": [
+        367,
+        348
+      ],
+      "source_seams": 49,
+      "wraps": 16
+    },
+    {
+      "rep": 280,
+      "counts": [
+        351,
+        321
+      ],
+      "source_seams": 36,
+      "wraps": 6
+    },
+    {
+      "rep": 281,
+      "counts": [
+        340,
+        344
+      ],
+      "source_seams": 36,
+      "wraps": 6
+    },
+    {
+      "rep": 282,
+      "counts": [
+        362,
+        358
+      ],
+      "source_seams": 39,
+      "wraps": 5
+    },
+    {
+      "rep": 283,
+      "counts": [
+        365,
+        358
+      ],
+      "source_seams": 42,
+      "wraps": 10
+    },
+    {
+      "rep": 284,
+      "counts": [
+        336,
+        351
+      ],
+      "source_seams": 43,
+      "wraps": 11
+    },
+    {
+      "rep": 285,
+      "counts": [
+        350,
+        340
+      ],
+      "source_seams": 38,
+      "wraps": 8
+    },
+    {
+      "rep": 286,
+      "counts": [
+        331,
+        331
+      ],
+      "source_seams": 43,
+      "wraps": 13
+    },
+    {
+      "rep": 287,
+      "counts": [
+        330,
+        325
+      ],
+      "source_seams": 43,
+      "wraps": 10
+    },
+    {
+      "rep": 288,
+      "counts": [
+        384,
+        333
+      ],
+      "source_seams": 47,
+      "wraps": 8
+    },
+    {
+      "rep": 289,
+      "counts": [
+        346,
+        370
+      ],
+      "source_seams": 44,
+      "wraps": 10
+    },
+    {
+      "rep": 290,
+      "counts": [
+        391,
+        354
+      ],
+      "source_seams": 42,
+      "wraps": 9
+    },
+    {
+      "rep": 291,
+      "counts": [
+        365,
+        363
+      ],
+      "source_seams": 38,
+      "wraps": 8
+    },
+    {
+      "rep": 292,
+      "counts": [
+        377,
+        345
+      ],
+      "source_seams": 42,
+      "wraps": 9
+    },
+    {
+      "rep": 293,
+      "counts": [
+        350,
+        351
+      ],
+      "source_seams": 36,
+      "wraps": 11
+    },
+    {
+      "rep": 294,
+      "counts": [
+        383,
+        345
+      ],
+      "source_seams": 35,
+      "wraps": 11
+    },
+    {
+      "rep": 295,
+      "counts": [
+        364,
+        333
+      ],
+      "source_seams": 28,
+      "wraps": 6
+    },
+    {
+      "rep": 296,
+      "counts": [
+        356,
+        368
+      ],
+      "source_seams": 38,
+      "wraps": 7
+    },
+    {
+      "rep": 297,
+      "counts": [
+        362,
+        338
+      ],
+      "source_seams": 45,
+      "wraps": 11
+    },
+    {
+      "rep": 298,
+      "counts": [
+        359,
+        356
+      ],
+      "source_seams": 29,
+      "wraps": 8
+    },
+    {
+      "rep": 299,
+      "counts": [
+        326,
+        331
+      ],
+      "source_seams": 44,
+      "wraps": 8
+    },
+    {
+      "rep": 300,
+      "counts": [
+        355,
+        335
+      ],
+      "source_seams": 27,
+      "wraps": 9
+    },
+    {
+      "rep": 301,
+      "counts": [
+        332,
+        342
+      ],
+      "source_seams": 38,
+      "wraps": 11
+    },
+    {
+      "rep": 302,
+      "counts": [
+        352,
+        345
+      ],
+      "source_seams": 43,
+      "wraps": 12
+    },
+    {
+      "rep": 303,
+      "counts": [
+        381,
+        357
+      ],
+      "source_seams": 41,
+      "wraps": 11
+    },
+    {
+      "rep": 304,
+      "counts": [
+        336,
+        320
+      ],
+      "source_seams": 32,
+      "wraps": 7
+    },
+    {
+      "rep": 305,
+      "counts": [
+        383,
+        360
+      ],
+      "source_seams": 36,
+      "wraps": 9
+    },
+    {
+      "rep": 306,
+      "counts": [
+        362,
+        296
+      ],
+      "source_seams": 44,
+      "wraps": 14
+    },
+    {
+      "rep": 307,
+      "counts": [
+        380,
+        330
+      ],
+      "source_seams": 39,
+      "wraps": 8
+    },
+    {
+      "rep": 308,
+      "counts": [
+        380,
+        367
+      ],
+      "source_seams": 39,
+      "wraps": 11
+    },
+    {
+      "rep": 309,
+      "counts": [
+        371,
+        349
+      ],
+      "source_seams": 54,
+      "wraps": 13
+    },
+    {
+      "rep": 310,
+      "counts": [
+        347,
+        343
+      ],
+      "source_seams": 42,
+      "wraps": 14
+    },
+    {
+      "rep": 311,
+      "counts": [
+        392,
+        337
+      ],
+      "source_seams": 45,
+      "wraps": 11
+    },
+    {
+      "rep": 312,
+      "counts": [
+        340,
+        355
+      ],
+      "source_seams": 36,
+      "wraps": 5
+    },
+    {
+      "rep": 313,
+      "counts": [
+        380,
+        341
+      ],
+      "source_seams": 36,
+      "wraps": 8
+    },
+    {
+      "rep": 314,
+      "counts": [
+        370,
+        326
+      ],
+      "source_seams": 42,
+      "wraps": 12
+    },
+    {
+      "rep": 315,
+      "counts": [
+        383,
+        346
+      ],
+      "source_seams": 39,
+      "wraps": 8
+    },
+    {
+      "rep": 316,
+      "counts": [
+        402,
+        318
+      ],
+      "source_seams": 45,
+      "wraps": 12
+    },
+    {
+      "rep": 317,
+      "counts": [
+        377,
+        333
+      ],
+      "source_seams": 43,
+      "wraps": 12
+    },
+    {
+      "rep": 318,
+      "counts": [
+        360,
+        353
+      ],
+      "source_seams": 40,
+      "wraps": 11
+    },
+    {
+      "rep": 319,
+      "counts": [
+        382,
+        370
+      ],
+      "source_seams": 41,
+      "wraps": 10
+    },
+    {
+      "rep": 320,
+      "counts": [
+        358,
+        338
+      ],
+      "source_seams": 37,
+      "wraps": 12
+    },
+    {
+      "rep": 321,
+      "counts": [
+        352,
+        355
+      ],
+      "source_seams": 40,
+      "wraps": 11
+    },
+    {
+      "rep": 322,
+      "counts": [
+        339,
+        355
+      ],
+      "source_seams": 44,
+      "wraps": 8
+    },
+    {
+      "rep": 323,
+      "counts": [
+        351,
+        336
+      ],
+      "source_seams": 30,
+      "wraps": 4
+    },
+    {
+      "rep": 324,
+      "counts": [
+        378,
+        365
+      ],
+      "source_seams": 38,
+      "wraps": 11
+    },
+    {
+      "rep": 325,
+      "counts": [
+        356,
+        363
+      ],
+      "source_seams": 49,
+      "wraps": 13
+    },
+    {
+      "rep": 326,
+      "counts": [
+        342,
+        332
+      ],
+      "source_seams": 42,
+      "wraps": 10
+    },
+    {
+      "rep": 327,
+      "counts": [
+        348,
+        323
+      ],
+      "source_seams": 40,
+      "wraps": 9
+    },
+    {
+      "rep": 328,
+      "counts": [
+        393,
+        376
+      ],
+      "source_seams": 39,
+      "wraps": 9
+    },
+    {
+      "rep": 329,
+      "counts": [
+        365,
+        332
+      ],
+      "source_seams": 37,
+      "wraps": 9
+    },
+    {
+      "rep": 330,
+      "counts": [
+        379,
+        344
+      ],
+      "source_seams": 40,
+      "wraps": 10
+    },
+    {
+      "rep": 331,
+      "counts": [
+        381,
+        345
+      ],
+      "source_seams": 39,
+      "wraps": 10
+    },
+    {
+      "rep": 332,
+      "counts": [
+        373,
+        355
+      ],
+      "source_seams": 43,
+      "wraps": 13
+    },
+    {
+      "rep": 333,
+      "counts": [
+        361,
+        348
+      ],
+      "source_seams": 40,
+      "wraps": 7
+    },
+    {
+      "rep": 334,
+      "counts": [
+        362,
+        350
+      ],
+      "source_seams": 40,
+      "wraps": 9
+    },
+    {
+      "rep": 335,
+      "counts": [
+        339,
+        362
+      ],
+      "source_seams": 45,
+      "wraps": 11
+    },
+    {
+      "rep": 336,
+      "counts": [
+        343,
+        345
+      ],
+      "source_seams": 42,
+      "wraps": 11
+    },
+    {
+      "rep": 337,
+      "counts": [
+        374,
+        318
+      ],
+      "source_seams": 41,
+      "wraps": 12
+    },
+    {
+      "rep": 338,
+      "counts": [
+        390,
+        388
+      ],
+      "source_seams": 37,
+      "wraps": 10
+    },
+    {
+      "rep": 339,
+      "counts": [
+        360,
+        334
+      ],
+      "source_seams": 42,
+      "wraps": 11
+    },
+    {
+      "rep": 340,
+      "counts": [
+        367,
+        316
+      ],
+      "source_seams": 35,
+      "wraps": 7
+    },
+    {
+      "rep": 341,
+      "counts": [
+        376,
+        355
+      ],
+      "source_seams": 35,
+      "wraps": 5
+    },
+    {
+      "rep": 342,
+      "counts": [
+        370,
+        354
+      ],
+      "source_seams": 46,
+      "wraps": 6
+    },
+    {
+      "rep": 343,
+      "counts": [
+        356,
+        342
+      ],
+      "source_seams": 46,
+      "wraps": 11
+    },
+    {
+      "rep": 344,
+      "counts": [
+        358,
+        355
+      ],
+      "source_seams": 43,
+      "wraps": 12
+    },
+    {
+      "rep": 345,
+      "counts": [
+        362,
+        375
+      ],
+      "source_seams": 37,
+      "wraps": 13
+    },
+    {
+      "rep": 346,
+      "counts": [
+        343,
+        377
+      ],
+      "source_seams": 33,
+      "wraps": 5
+    },
+    {
+      "rep": 347,
+      "counts": [
+        365,
+        316
+      ],
+      "source_seams": 36,
+      "wraps": 11
+    },
+    {
+      "rep": 348,
+      "counts": [
+        352,
+        345
+      ],
+      "source_seams": 47,
+      "wraps": 19
+    },
+    {
+      "rep": 349,
+      "counts": [
+        346,
+        378
+      ],
+      "source_seams": 41,
+      "wraps": 6
+    },
+    {
+      "rep": 350,
+      "counts": [
+        357,
+        375
+      ],
+      "source_seams": 47,
+      "wraps": 16
+    },
+    {
+      "rep": 351,
+      "counts": [
+        360,
+        358
+      ],
+      "source_seams": 39,
+      "wraps": 10
+    },
+    {
+      "rep": 352,
+      "counts": [
+        378,
+        315
+      ],
+      "source_seams": 48,
+      "wraps": 9
+    },
+    {
+      "rep": 353,
+      "counts": [
+        350,
+        364
+      ],
+      "source_seams": 30,
+      "wraps": 8
+    },
+    {
+      "rep": 354,
+      "counts": [
+        348,
+        355
+      ],
+      "source_seams": 46,
+      "wraps": 10
+    },
+    {
+      "rep": 355,
+      "counts": [
+        356,
+        310
+      ],
+      "source_seams": 50,
+      "wraps": 16
+    },
+    {
+      "rep": 356,
+      "counts": [
+        351,
+        376
+      ],
+      "source_seams": 48,
+      "wraps": 13
+    },
+    {
+      "rep": 357,
+      "counts": [
+        321,
+        366
+      ],
+      "source_seams": 38,
+      "wraps": 10
+    },
+    {
+      "rep": 358,
+      "counts": [
+        331,
+        339
+      ],
+      "source_seams": 42,
+      "wraps": 11
+    },
+    {
+      "rep": 359,
+      "counts": [
+        372,
+        384
+      ],
+      "source_seams": 27,
+      "wraps": 7
+    },
+    {
+      "rep": 360,
+      "counts": [
+        382,
+        346
+      ],
+      "source_seams": 31,
+      "wraps": 6
+    },
+    {
+      "rep": 361,
+      "counts": [
+        383,
+        398
+      ],
+      "source_seams": 35,
+      "wraps": 7
+    },
+    {
+      "rep": 362,
+      "counts": [
+        367,
+        325
+      ],
+      "source_seams": 42,
+      "wraps": 12
+    },
+    {
+      "rep": 363,
+      "counts": [
+        346,
+        367
+      ],
+      "source_seams": 48,
+      "wraps": 11
+    },
+    {
+      "rep": 364,
+      "counts": [
+        375,
+        352
+      ],
+      "source_seams": 34,
+      "wraps": 11
+    },
+    {
+      "rep": 365,
+      "counts": [
+        326,
+        345
+      ],
+      "source_seams": 41,
+      "wraps": 12
+    },
+    {
+      "rep": 366,
+      "counts": [
+        339,
+        345
+      ],
+      "source_seams": 43,
+      "wraps": 12
+    },
+    {
+      "rep": 367,
+      "counts": [
+        351,
+        307
+      ],
+      "source_seams": 44,
+      "wraps": 11
+    },
+    {
+      "rep": 368,
+      "counts": [
+        409,
+        340
+      ],
+      "source_seams": 47,
+      "wraps": 16
+    },
+    {
+      "rep": 369,
+      "counts": [
+        380,
+        353
+      ],
+      "source_seams": 48,
+      "wraps": 9
+    },
+    {
+      "rep": 370,
+      "counts": [
+        373,
+        346
+      ],
+      "source_seams": 42,
+      "wraps": 11
+    },
+    {
+      "rep": 371,
+      "counts": [
+        354,
+        351
+      ],
+      "source_seams": 44,
+      "wraps": 11
+    },
+    {
+      "rep": 372,
+      "counts": [
+        385,
+        353
+      ],
+      "source_seams": 38,
+      "wraps": 6
+    },
+    {
+      "rep": 373,
+      "counts": [
+        381,
+        324
+      ],
+      "source_seams": 43,
+      "wraps": 12
+    },
+    {
+      "rep": 374,
+      "counts": [
+        320,
+        358
+      ],
+      "source_seams": 39,
+      "wraps": 7
+    },
+    {
+      "rep": 375,
+      "counts": [
+        403,
+        379
+      ],
+      "source_seams": 42,
+      "wraps": 9
+    },
+    {
+      "rep": 376,
+      "counts": [
+        323,
+        326
+      ],
+      "source_seams": 36,
+      "wraps": 10
+    },
+    {
+      "rep": 377,
+      "counts": [
+        371,
+        340
+      ],
+      "source_seams": 42,
+      "wraps": 10
+    },
+    {
+      "rep": 378,
+      "counts": [
+        391,
+        355
+      ],
+      "source_seams": 43,
+      "wraps": 9
+    },
+    {
+      "rep": 379,
+      "counts": [
+        375,
+        376
+      ],
+      "source_seams": 39,
+      "wraps": 10
+    },
+    {
+      "rep": 380,
+      "counts": [
+        367,
+        347
+      ],
+      "source_seams": 36,
+      "wraps": 10
+    },
+    {
+      "rep": 381,
+      "counts": [
+        353,
+        353
+      ],
+      "source_seams": 46,
+      "wraps": 15
+    },
+    {
+      "rep": 382,
+      "counts": [
+        382,
+        308
+      ],
+      "source_seams": 48,
+      "wraps": 11
+    },
+    {
+      "rep": 383,
+      "counts": [
+        365,
+        340
+      ],
+      "source_seams": 33,
+      "wraps": 10
+    },
+    {
+      "rep": 384,
+      "counts": [
+        367,
+        364
+      ],
+      "source_seams": 41,
+      "wraps": 8
+    },
+    {
+      "rep": 385,
+      "counts": [
+        372,
+        375
+      ],
+      "source_seams": 57,
+      "wraps": 14
+    },
+    {
+      "rep": 386,
+      "counts": [
+        344,
+        342
+      ],
+      "source_seams": 41,
+      "wraps": 10
+    },
+    {
+      "rep": 387,
+      "counts": [
+        341,
+        328
+      ],
+      "source_seams": 34,
+      "wraps": 8
+    },
+    {
+      "rep": 388,
+      "counts": [
+        324,
+        325
+      ],
+      "source_seams": 40,
+      "wraps": 12
+    },
+    {
+      "rep": 389,
+      "counts": [
+        386,
+        333
+      ],
+      "source_seams": 39,
+      "wraps": 11
+    },
+    {
+      "rep": 390,
+      "counts": [
+        332,
+        317
+      ],
+      "source_seams": 45,
+      "wraps": 9
+    },
+    {
+      "rep": 391,
+      "counts": [
+        394,
+        352
+      ],
+      "source_seams": 45,
+      "wraps": 13
+    },
+    {
+      "rep": 392,
+      "counts": [
+        356,
+        360
+      ],
+      "source_seams": 43,
+      "wraps": 10
+    },
+    {
+      "rep": 393,
+      "counts": [
+        369,
+        337
+      ],
+      "source_seams": 41,
+      "wraps": 5
+    },
+    {
+      "rep": 394,
+      "counts": [
+        340,
+        353
+      ],
+      "source_seams": 31,
+      "wraps": 9
+    },
+    {
+      "rep": 395,
+      "counts": [
+        352,
+        367
+      ],
+      "source_seams": 32,
+      "wraps": 7
+    },
+    {
+      "rep": 396,
+      "counts": [
+        382,
+        336
+      ],
+      "source_seams": 46,
+      "wraps": 15
+    },
+    {
+      "rep": 397,
+      "counts": [
+        383,
+        357
+      ],
+      "source_seams": 43,
+      "wraps": 8
+    },
+    {
+      "rep": 398,
+      "counts": [
+        349,
+        360
+      ],
+      "source_seams": 39,
+      "wraps": 12
+    },
+    {
+      "rep": 399,
+      "counts": [
+        405,
+        319
+      ],
+      "source_seams": 45,
+      "wraps": 12
+    },
+    {
+      "rep": 400,
+      "counts": [
+        361,
+        354
+      ],
+      "source_seams": 45,
+      "wraps": 10
+    },
+    {
+      "rep": 401,
+      "counts": [
+        350,
+        372
+      ],
+      "source_seams": 48,
+      "wraps": 11
+    },
+    {
+      "rep": 402,
+      "counts": [
+        353,
+        348
+      ],
+      "source_seams": 35,
+      "wraps": 7
+    },
+    {
+      "rep": 403,
+      "counts": [
+        372,
+        350
+      ],
+      "source_seams": 44,
+      "wraps": 10
+    },
+    {
+      "rep": 404,
+      "counts": [
+        325,
+        350
+      ],
+      "source_seams": 41,
+      "wraps": 14
+    },
+    {
+      "rep": 405,
+      "counts": [
+        363,
+        363
+      ],
+      "source_seams": 33,
+      "wraps": 6
+    },
+    {
+      "rep": 406,
+      "counts": [
+        362,
+        362
+      ],
+      "source_seams": 38,
+      "wraps": 12
+    },
+    {
+      "rep": 407,
+      "counts": [
+        398,
+        354
+      ],
+      "source_seams": 52,
+      "wraps": 14
+    },
+    {
+      "rep": 408,
+      "counts": [
+        354,
+        362
+      ],
+      "source_seams": 37,
+      "wraps": 7
+    },
+    {
+      "rep": 409,
+      "counts": [
+        366,
+        350
+      ],
+      "source_seams": 41,
+      "wraps": 14
+    },
+    {
+      "rep": 410,
+      "counts": [
+        341,
+        350
+      ],
+      "source_seams": 35,
+      "wraps": 6
+    },
+    {
+      "rep": 411,
+      "counts": [
+        365,
+        339
+      ],
+      "source_seams": 44,
+      "wraps": 11
+    },
+    {
+      "rep": 412,
+      "counts": [
+        362,
+        347
+      ],
+      "source_seams": 42,
+      "wraps": 9
+    },
+    {
+      "rep": 413,
+      "counts": [
+        368,
+        352
+      ],
+      "source_seams": 48,
+      "wraps": 12
+    },
+    {
+      "rep": 414,
+      "counts": [
+        328,
+        342
+      ],
+      "source_seams": 38,
+      "wraps": 13
+    },
+    {
+      "rep": 415,
+      "counts": [
+        372,
+        315
+      ],
+      "source_seams": 37,
+      "wraps": 9
+    },
+    {
+      "rep": 416,
+      "counts": [
+        359,
+        360
+      ],
+      "source_seams": 36,
+      "wraps": 9
+    },
+    {
+      "rep": 417,
+      "counts": [
+        363,
+        369
+      ],
+      "source_seams": 41,
+      "wraps": 10
+    },
+    {
+      "rep": 418,
+      "counts": [
+        382,
+        338
+      ],
+      "source_seams": 46,
+      "wraps": 12
+    },
+    {
+      "rep": 419,
+      "counts": [
+        326,
+        365
+      ],
+      "source_seams": 39,
+      "wraps": 8
+    },
+    {
+      "rep": 420,
+      "counts": [
+        368,
+        360
+      ],
+      "source_seams": 44,
+      "wraps": 14
+    },
+    {
+      "rep": 421,
+      "counts": [
+        364,
+        339
+      ],
+      "source_seams": 34,
+      "wraps": 9
+    },
+    {
+      "rep": 422,
+      "counts": [
+        352,
+        332
+      ],
+      "source_seams": 40,
+      "wraps": 11
+    },
+    {
+      "rep": 423,
+      "counts": [
+        385,
+        336
+      ],
+      "source_seams": 46,
+      "wraps": 12
+    },
+    {
+      "rep": 424,
+      "counts": [
+        352,
+        322
+      ],
+      "source_seams": 45,
+      "wraps": 8
+    },
+    {
+      "rep": 425,
+      "counts": [
+        331,
+        369
+      ],
+      "source_seams": 37,
+      "wraps": 7
+    },
+    {
+      "rep": 426,
+      "counts": [
+        385,
+        370
+      ],
+      "source_seams": 48,
+      "wraps": 11
+    },
+    {
+      "rep": 427,
+      "counts": [
+        374,
+        362
+      ],
+      "source_seams": 45,
+      "wraps": 12
+    },
+    {
+      "rep": 428,
+      "counts": [
+        385,
+        357
+      ],
+      "source_seams": 40,
+      "wraps": 6
+    },
+    {
+      "rep": 429,
+      "counts": [
+        376,
+        358
+      ],
+      "source_seams": 47,
+      "wraps": 11
+    },
+    {
+      "rep": 430,
+      "counts": [
+        368,
+        340
+      ],
+      "source_seams": 48,
+      "wraps": 14
+    },
+    {
+      "rep": 431,
+      "counts": [
+        390,
+        352
+      ],
+      "source_seams": 43,
+      "wraps": 9
+    },
+    {
+      "rep": 432,
+      "counts": [
+        369,
+        349
+      ],
+      "source_seams": 37,
+      "wraps": 11
+    },
+    {
+      "rep": 433,
+      "counts": [
+        375,
+        354
+      ],
+      "source_seams": 38,
+      "wraps": 12
+    },
+    {
+      "rep": 434,
+      "counts": [
+        355,
+        335
+      ],
+      "source_seams": 41,
+      "wraps": 9
+    },
+    {
+      "rep": 435,
+      "counts": [
+        362,
+        346
+      ],
+      "source_seams": 35,
+      "wraps": 9
+    },
+    {
+      "rep": 436,
+      "counts": [
+        395,
+        345
+      ],
+      "source_seams": 48,
+      "wraps": 5
+    },
+    {
+      "rep": 437,
+      "counts": [
+        407,
+        335
+      ],
+      "source_seams": 38,
+      "wraps": 9
+    },
+    {
+      "rep": 438,
+      "counts": [
+        346,
+        341
+      ],
+      "source_seams": 49,
+      "wraps": 14
+    },
+    {
+      "rep": 439,
+      "counts": [
+        353,
+        357
+      ],
+      "source_seams": 41,
+      "wraps": 11
+    },
+    {
+      "rep": 440,
+      "counts": [
+        364,
+        337
+      ],
+      "source_seams": 31,
+      "wraps": 7
+    },
+    {
+      "rep": 441,
+      "counts": [
+        354,
+        376
+      ],
+      "source_seams": 42,
+      "wraps": 16
+    },
+    {
+      "rep": 442,
+      "counts": [
+        397,
+        337
+      ],
+      "source_seams": 43,
+      "wraps": 13
+    },
+    {
+      "rep": 443,
+      "counts": [
+        329,
+        348
+      ],
+      "source_seams": 52,
+      "wraps": 13
+    },
+    {
+      "rep": 444,
+      "counts": [
+        363,
+        370
+      ],
+      "source_seams": 50,
+      "wraps": 13
+    },
+    {
+      "rep": 445,
+      "counts": [
+        329,
+        349
+      ],
+      "source_seams": 41,
+      "wraps": 11
+    },
+    {
+      "rep": 446,
+      "counts": [
+        331,
+        381
+      ],
+      "source_seams": 36,
+      "wraps": 10
+    },
+    {
+      "rep": 447,
+      "counts": [
+        351,
+        349
+      ],
+      "source_seams": 44,
+      "wraps": 8
+    },
+    {
+      "rep": 448,
+      "counts": [
+        376,
+        345
+      ],
+      "source_seams": 42,
+      "wraps": 12
+    },
+    {
+      "rep": 449,
+      "counts": [
+        351,
+        375
+      ],
+      "source_seams": 39,
+      "wraps": 9
+    },
+    {
+      "rep": 450,
+      "counts": [
+        311,
+        357
+      ],
+      "source_seams": 43,
+      "wraps": 14
+    },
+    {
+      "rep": 451,
+      "counts": [
+        346,
+        346
+      ],
+      "source_seams": 47,
+      "wraps": 11
+    },
+    {
+      "rep": 452,
+      "counts": [
+        344,
+        349
+      ],
+      "source_seams": 46,
+      "wraps": 14
+    },
+    {
+      "rep": 453,
+      "counts": [
+        350,
+        371
+      ],
+      "source_seams": 45,
+      "wraps": 14
+    },
+    {
+      "rep": 454,
+      "counts": [
+        361,
+        403
+      ],
+      "source_seams": 34,
+      "wraps": 7
+    },
+    {
+      "rep": 455,
+      "counts": [
+        402,
+        362
+      ],
+      "source_seams": 40,
+      "wraps": 11
+    },
+    {
+      "rep": 456,
+      "counts": [
+        368,
+        389
+      ],
+      "source_seams": 42,
+      "wraps": 9
+    },
+    {
+      "rep": 457,
+      "counts": [
+        338,
+        361
+      ],
+      "source_seams": 43,
+      "wraps": 12
+    },
+    {
+      "rep": 458,
+      "counts": [
+        369,
+        355
+      ],
+      "source_seams": 30,
+      "wraps": 7
+    },
+    {
+      "rep": 459,
+      "counts": [
+        332,
+        380
+      ],
+      "source_seams": 51,
+      "wraps": 14
+    },
+    {
+      "rep": 460,
+      "counts": [
+        355,
+        355
+      ],
+      "source_seams": 34,
+      "wraps": 9
+    },
+    {
+      "rep": 461,
+      "counts": [
+        396,
+        341
+      ],
+      "source_seams": 42,
+      "wraps": 12
+    },
+    {
+      "rep": 462,
+      "counts": [
+        372,
+        340
+      ],
+      "source_seams": 33,
+      "wraps": 5
+    },
+    {
+      "rep": 463,
+      "counts": [
+        359,
+        327
+      ],
+      "source_seams": 40,
+      "wraps": 9
+    },
+    {
+      "rep": 464,
+      "counts": [
+        382,
+        338
+      ],
+      "source_seams": 37,
+      "wraps": 9
+    },
+    {
+      "rep": 465,
+      "counts": [
+        370,
+        355
+      ],
+      "source_seams": 38,
+      "wraps": 14
+    },
+    {
+      "rep": 466,
+      "counts": [
+        354,
+        341
+      ],
+      "source_seams": 48,
+      "wraps": 14
+    },
+    {
+      "rep": 467,
+      "counts": [
+        358,
+        334
+      ],
+      "source_seams": 43,
+      "wraps": 14
+    },
+    {
+      "rep": 468,
+      "counts": [
+        422,
+        361
+      ],
+      "source_seams": 38,
+      "wraps": 5
+    },
+    {
+      "rep": 469,
+      "counts": [
+        372,
+        379
+      ],
+      "source_seams": 39,
+      "wraps": 10
+    },
+    {
+      "rep": 470,
+      "counts": [
+        395,
+        354
+      ],
+      "source_seams": 39,
+      "wraps": 9
+    },
+    {
+      "rep": 471,
+      "counts": [
+        376,
+        353
+      ],
+      "source_seams": 36,
+      "wraps": 9
+    },
+    {
+      "rep": 472,
+      "counts": [
+        387,
+        330
+      ],
+      "source_seams": 51,
+      "wraps": 14
+    },
+    {
+      "rep": 473,
+      "counts": [
+        356,
+        365
+      ],
+      "source_seams": 39,
+      "wraps": 11
+    },
+    {
+      "rep": 474,
+      "counts": [
+        335,
+        357
+      ],
+      "source_seams": 38,
+      "wraps": 7
+    },
+    {
+      "rep": 475,
+      "counts": [
+        341,
+        346
+      ],
+      "source_seams": 42,
+      "wraps": 10
+    },
+    {
+      "rep": 476,
+      "counts": [
+        392,
+        335
+      ],
+      "source_seams": 44,
+      "wraps": 9
+    },
+    {
+      "rep": 477,
+      "counts": [
+        361,
+        319
+      ],
+      "source_seams": 40,
+      "wraps": 12
+    },
+    {
+      "rep": 478,
+      "counts": [
+        376,
+        349
+      ],
+      "source_seams": 42,
+      "wraps": 11
+    },
+    {
+      "rep": 479,
+      "counts": [
+        359,
+        356
+      ],
+      "source_seams": 37,
+      "wraps": 10
+    },
+    {
+      "rep": 480,
+      "counts": [
+        377,
+        384
+      ],
+      "source_seams": 45,
+      "wraps": 13
+    },
+    {
+      "rep": 481,
+      "counts": [
+        325,
+        354
+      ],
+      "source_seams": 45,
+      "wraps": 10
+    },
+    {
+      "rep": 482,
+      "counts": [
+        354,
+        318
+      ],
+      "source_seams": 39,
+      "wraps": 9
+    },
+    {
+      "rep": 483,
+      "counts": [
+        349,
+        351
+      ],
+      "source_seams": 46,
+      "wraps": 13
+    },
+    {
+      "rep": 484,
+      "counts": [
+        311,
+        402
+      ],
+      "source_seams": 41,
+      "wraps": 16
+    },
+    {
+      "rep": 485,
+      "counts": [
+        356,
+        363
+      ],
+      "source_seams": 48,
+      "wraps": 11
+    },
+    {
+      "rep": 486,
+      "counts": [
+        362,
+        344
+      ],
+      "source_seams": 40,
+      "wraps": 7
+    },
+    {
+      "rep": 487,
+      "counts": [
+        363,
+        318
+      ],
+      "source_seams": 49,
+      "wraps": 12
+    },
+    {
+      "rep": 488,
+      "counts": [
+        371,
+        312
+      ],
+      "source_seams": 39,
+      "wraps": 13
+    },
+    {
+      "rep": 489,
+      "counts": [
+        381,
+        336
+      ],
+      "source_seams": 42,
+      "wraps": 15
+    },
+    {
+      "rep": 490,
+      "counts": [
+        361,
+        354
+      ],
+      "source_seams": 44,
+      "wraps": 9
+    },
+    {
+      "rep": 491,
+      "counts": [
+        357,
+        355
+      ],
+      "source_seams": 26,
+      "wraps": 4
+    },
+    {
+      "rep": 492,
+      "counts": [
+        358,
+        334
+      ],
+      "source_seams": 40,
+      "wraps": 9
+    },
+    {
+      "rep": 493,
+      "counts": [
+        391,
+        344
+      ],
+      "source_seams": 49,
+      "wraps": 11
+    },
+    {
+      "rep": 494,
+      "counts": [
+        350,
+        322
+      ],
+      "source_seams": 36,
+      "wraps": 12
+    },
+    {
+      "rep": 495,
+      "counts": [
+        349,
+        355
+      ],
+      "source_seams": 43,
+      "wraps": 13
+    },
+    {
+      "rep": 496,
+      "counts": [
+        377,
+        335
+      ],
+      "source_seams": 33,
+      "wraps": 10
+    },
+    {
+      "rep": 497,
+      "counts": [
+        354,
+        326
+      ],
+      "source_seams": 32,
+      "wraps": 6
+    },
+    {
+      "rep": 498,
+      "counts": [
+        360,
+        371
+      ],
+      "source_seams": 40,
+      "wraps": 8
+    },
+    {
+      "rep": 499,
+      "counts": [
+        342,
+        354
+      ],
+      "source_seams": 35,
+      "wraps": 9
+    }
+  ],
+  "seconds": 6.4813024579998455
+}

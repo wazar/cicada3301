@@ -1,0 +1,40 @@
+{
+  "scope": "Currentpublicbytes; previous manifests remain originalsnapshot records; completedmetadata redactions separately mapped.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/coordinator/R01-R02-check/check.py",
+      "bytes": 2965,
+      "sha256": "5ed221871dbf8ec8ec24ad46ad85bb0c5a5db393317f3c0f81c6cd0e143b3e0c"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/R01-R02-check/results.json",
+      "bytes": 558,
+      "sha256": "25a973da831521104a2f79a8f64b625ee906420c1368fdff48b2119fd6974526"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/R01-R02-check/runs/20260916T234905.162056Z-independent-selection-and-deck-witnesses/code/exploration/persistent-01/coordinator/R01-R02-check/check.py",
+      "bytes": 2965,
+      "sha256": "5ed221871dbf8ec8ec24ad46ad85bb0c5a5db393317f3c0f81c6cd0e143b3e0c"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/R01-R02-check/runs/20260916T234905.162056Z-independent-selection-and-deck-witnesses/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/R01-R02-check/runs/20260916T234905.162056Z-independent-selection-and-deck-witnesses/command.json",
+      "bytes": 1597,
+      "sha256": "2e362716e57076538b24c24f9d111e20c1218c271c807933ea79ffcd83e5e9d6"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/R01-R02-check/runs/20260916T234905.162056Z-independent-selection-and-deck-witnesses/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/R01-R02-check/runs/20260916T234905.162056Z-independent-selection-and-deck-witnesses/stdout.txt",
+      "bytes": 470,
+      "sha256": "8faca541dd556d71dc80f48c04c9790d4ab392c37fcf269e7e39a616473f7c12"
+    }
+  ]
+}

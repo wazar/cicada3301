@@ -1,0 +1,215 @@
+{
+  "status": "PASS",
+  "nulls": 19,
+  "null_scores": [
+    -4.71009008949043,
+    -4.7324614188231795,
+    -4.736150953242514,
+    -4.717343817206572,
+    -4.733336431470704,
+    -4.705934319483173,
+    -4.684320220813348,
+    -4.7070123806993225,
+    -4.741278714453464,
+    -4.715980562626476,
+    -4.702593192036087,
+    -4.6578303536689445,
+    -4.762085354143784,
+    -4.696993738375135,
+    -4.7232828562786064,
+    -4.74319996486941,
+    -4.755413072056679,
+    -4.714284741483298,
+    -4.691194883848055
+  ],
+  "tail": 0.25,
+  "cross_cut_repeat_mask": [
+    false,
+    false,
+    false
+  ],
+  "null_cut_masks": [
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ]
+  ],
+  "prefix_identity": [
+    {
+      "id": "prime_minus_one:-1",
+      "max_queried": 273,
+      "identical": true
+    },
+    {
+      "id": "prime_minus_one:1",
+      "max_queried": 287,
+      "identical": true
+    },
+    {
+      "id": "integer_phi:-1",
+      "max_queried": 287,
+      "identical": true
+    },
+    {
+      "id": "integer_phi:1",
+      "max_queried": 277,
+      "identical": true
+    }
+  ],
+  "controls": [
+    {
+      "ix": 0,
+      "errors": [],
+      "full_truth_path_rank": [
+        1
+      ]
+    },
+    {
+      "ix": 1,
+      "errors": [],
+      "full_truth_path_rank": [
+        1
+      ]
+    },
+    {
+      "ix": 2,
+      "errors": [
+        290
+      ],
+      "full_truth_path_rank": [
+        2
+      ]
+    },
+    {
+      "ix": 3,
+      "errors": [],
+      "full_truth_path_rank": [
+        1
+      ]
+    }
+  ],
+  "finite_cap_probe": {
+    "feasible": true,
+    "alternatives": [
+      {
+        "score": -3.3869773401585612,
+        "total": -10.160932020475684,
+        "used": 2,
+        "plain": [
+          3,
+          2
+        ],
+        "reject_counts": [
+          0,
+          0
+        ]
+      }
+    ],
+    "history": [
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ],
+    "cap_excluded": 1,
+    "max_queried": 1,
+    "max_terminal_used": 2
+  }
+}

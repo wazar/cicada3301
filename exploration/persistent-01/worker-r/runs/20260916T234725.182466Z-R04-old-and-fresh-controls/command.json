@@ -1,0 +1,119 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-r/R04.py",
+    "controls"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "9b43bd11a0657ed7fe5b996d1ebf48285c7c8fe0",
+  "started_utc": "2026-09-16T23:47:25.196801+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/inputs.npz",
+      "exists": true,
+      "bytes": 631713,
+      "sha256": "920a9e8a05fe6a8f9213e8042dfc592811aa48e1467c706f69bf4fea56157929"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/positive-0.npz",
+      "exists": true,
+      "bytes": 1279460,
+      "sha256": "ae753521fc8ee630a939fe595fbaad393ec74fb8cf349f2b297b9e8d9f12070d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/positive-1.npz",
+      "exists": true,
+      "bytes": 1281768,
+      "sha256": "8c43a53057f6ed6706dde6084bc412b033e3402fbc82f0a8ed274b4c1d211907"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/raster-null-0.npz",
+      "exists": true,
+      "bytes": 1274516,
+      "sha256": "04d586af9dda81aca3c6f14b488b06e4b91180c6c164165b46cf6b17ffbb299b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-q/Q06/raster-null-1.npz",
+      "exists": true,
+      "bytes": 1274915,
+      "sha256": "743095f0e66dac06b21de1277bdd6b836f8585dc2e21361c935b4a87114c5b51"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R01-retain.py",
+      "exists": true,
+      "bytes": 951,
+      "sha256": "bd14ca4d046c24b586d824e237fee4f8e70c2bda7f41bbdd1200de1dc04e78ea"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R01.py",
+      "exists": true,
+      "bytes": 3985,
+      "sha256": "f3cd2f0564d2dcb543fd358a975fe2e950307ffb28f6a5cfeac8bc7e8663ab54"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R02.py",
+      "exists": true,
+      "bytes": 3386,
+      "sha256": "afe50a76248b946e92fe21d1fb1b0de18f7266349899ad527a3cedf56f41011d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R03-replay.py",
+      "exists": true,
+      "bytes": 2228,
+      "sha256": "558629f229a83bd4c5e96ed7a0d256082c25ad79861307bf95a1b3fcf96a5c2e"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R03-stress.py",
+      "exists": true,
+      "bytes": 674,
+      "sha256": "f7e1d8b57d32a0671c61efcfdb58ff609a5f8f901d9e81a5701f1f74bfa72e68"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R03.py",
+      "exists": true,
+      "bytes": 5615,
+      "sha256": "45c872ff733ab3b8539c0077c755714ec87beb3b186477ef93bdbc1efa5a3636"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R04-bank.npz",
+      "exists": true,
+      "bytes": 5334765,
+      "sha256": "78b9e0231bd438a78e6b7f7ac0ddd29e9735e65ba80ff7d96121463170ae0789"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R04-card.md",
+      "exists": true,
+      "bytes": 4284,
+      "sha256": "6b5d055e9ddfe427651b81a303f389a81aade38c07624bfb2d745fa1f5db1a04"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R04.py",
+      "exists": true,
+      "bytes": 8438,
+      "sha256": "c54a3c2bf3b0cf91f07ff001702c4d2d222413eda92e3a67ccdf921dd0d8d4d8"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 78312,
+  "finished_utc": "2026-09-16T23:47:31.784405+00:00",
+  "duration_seconds": 6.587393042
+}

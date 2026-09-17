@@ -1,0 +1,165 @@
+{
+  "scope": "Currentpublicbytes; previous manifests remain originalsnapshot records; completedmetadata redactions separately mapped.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/CARD.md",
+      "bytes": 2939,
+      "sha256": "e53db678a5d6f82118c45c47bf0dfc39ba9785fd534ccff13b0d13f39227459c"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/REPORT.md",
+      "bytes": 4377,
+      "sha256": "15a78833a8bd5487595ef5364cec020c5c385f3f0443338161e866be21292d6b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/controls.json.gz",
+      "bytes": 43136,
+      "sha256": "e2dc3100662e48793a15836c0fb9394e54034940d2ac89e00747a1e3b3ed1d04"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/experiment.py",
+      "bytes": 4527,
+      "sha256": "87a527b5cf0183d56b5fadadef6cc5a8c37f5668d3484d7cb160902628395a3b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/panels-0-20.json.gz",
+      "bytes": 234318,
+      "sha256": "38693c13beaf2a39ed45da0ac73d15d30a26916c540ad0ed343726f389f0f6ba"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/panels-20-500.json.gz",
+      "bytes": 5586845,
+      "sha256": "31fe498f9b48197935b01ccc7d2a1eb29ac049fd82e558a954c58510e4a37e04"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/results.json",
+      "bytes": 5122,
+      "sha256": "731275facf2cfbe016b4accc068de27d384d04043406ffa559381705e96b72dc"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/retrieval-notes.json",
+      "bytes": 877,
+      "sha256": "01b757f301d1de762d21afa3b839c7324d73a5d0e6b2989f9e22bb2156534db4"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234051.929180Z-source-and-independent-codec-controls/code/exploration/persistent-01/coordinator/Q03/experiment.py",
+      "bytes": 4527,
+      "sha256": "87a527b5cf0183d56b5fadadef6cc5a8c37f5668d3484d7cb160902628395a3b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234051.929180Z-source-and-independent-codec-controls/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234051.929180Z-source-and-independent-codec-controls/code/exploration/persistent-01/worker-c/p03_frozen.py",
+      "bytes": 6350,
+      "sha256": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234051.929180Z-source-and-independent-codec-controls/command.json",
+      "bytes": 1595,
+      "sha256": "19b13d8a368ec732140ab8a09a8fac34c93ca624c09ca4924c3e348875846491"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234051.929180Z-source-and-independent-codec-controls/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234051.929180Z-source-and-independent-codec-controls/stdout.txt",
+      "bytes": 23,
+      "sha256": "11a228347b30093de48bd30506c9aaa9b02ea2c005fd3ed0d1c424c76bfd90fe"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234123.216778Z-twenty-panel-cost-pilot/code/exploration/persistent-01/coordinator/Q03/experiment.py",
+      "bytes": 4527,
+      "sha256": "87a527b5cf0183d56b5fadadef6cc5a8c37f5668d3484d7cb160902628395a3b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234123.216778Z-twenty-panel-cost-pilot/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234123.216778Z-twenty-panel-cost-pilot/code/exploration/persistent-01/worker-c/p03_frozen.py",
+      "bytes": 6350,
+      "sha256": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234123.216778Z-twenty-panel-cost-pilot/command.json",
+      "bytes": 2468,
+      "sha256": "acd04ec5c8f0cdc9378ac12a8b50cba2f321c8d1dcfe58311936a8b40d0f82bd"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234123.216778Z-twenty-panel-cost-pilot/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234123.216778Z-twenty-panel-cost-pilot/stdout.txt",
+      "bytes": 39,
+      "sha256": "de733f3e339b9a2f01b75befc5d1b249da74d3c0c99ddba00dc12e7db4c4773a"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234137.323657Z-remaining480-frozen-panels/code/exploration/persistent-01/coordinator/Q03/experiment.py",
+      "bytes": 4527,
+      "sha256": "87a527b5cf0183d56b5fadadef6cc5a8c37f5668d3484d7cb160902628395a3b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234137.323657Z-remaining480-frozen-panels/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234137.323657Z-remaining480-frozen-panels/code/exploration/persistent-01/worker-c/p03_frozen.py",
+      "bytes": 6350,
+      "sha256": "c67395df4b002059f39c243ca977a8c565977daa47881a6c156876e5ccadbf05"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234137.323657Z-remaining480-frozen-panels/command.json",
+      "bytes": 2470,
+      "sha256": "08627b9eaa1c255b513916b982566c5179a264553bf77de2a9f6ff633e0e58ec"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234137.323657Z-remaining480-frozen-panels/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234137.323657Z-remaining480-frozen-panels/stdout.txt",
+      "bytes": 41,
+      "sha256": "0df8c1c3208155979fda1331063018ec48675efc8bbbf116b4d874360de05e5f"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234316.084921Z-frozen-actual-structural-comparison/code/exploration/persistent-01/coordinator/Q03/experiment.py",
+      "bytes": 4527,
+      "sha256": "87a527b5cf0183d56b5fadadef6cc5a8c37f5668d3484d7cb160902628395a3b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234316.084921Z-frozen-actual-structural-comparison/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234316.084921Z-frozen-actual-structural-comparison/command.json",
+      "bytes": 1388,
+      "sha256": "194fd0b806f402a8babef4d9ed9bcda56c75127f38ba5d022daab37f720261b4"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234316.084921Z-frozen-actual-structural-comparison/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/runs/20260916T234316.084921Z-frozen-actual-structural-comparison/stdout.txt",
+      "bytes": 447,
+      "sha256": "a5a0029fd8fea7d814c80ea3d3dc8686878af02aa40027659540dcf2a0722d75"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q03/source.json",
+      "bytes": 263,
+      "sha256": "0093c2ac580895f82d8f51eb2cc397fa9f72fb144565f63b110034d1ba021e35"
+    }
+  ]
+}
