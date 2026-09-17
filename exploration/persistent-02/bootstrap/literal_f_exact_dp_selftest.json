@@ -1,0 +1,31 @@
+{
+  "scope": "Publisher-side synthetic checks only. Not run on the owner Mac or on puzzle inputs.",
+  "source_path": "exploration/persistent-02/bootstrap/literal_f_exact_dp.py",
+  "source_sha256": "8288d54fcd8fca4711222b9bdaf38568b0bd0e72977ec2f32a21e2c23aca1edb",
+  "reproduce_from_repository_root": [
+    "python3",
+    "-S",
+    "exploration/persistent-02/bootstrap/literal_f_exact_dp.py",
+    "--selftest"
+  ],
+  "executed_command": [
+    "/opt/pyvenv/bin/python3",
+    "-S",
+    "/mnt/data/literal_f_exact_dp.py",
+    "--selftest"
+  ],
+  "started_at_utc": "2026-09-17T08:06:56.464022+00:00",
+  "finished_at_utc": "2026-09-17T08:06:56.705726+00:00",
+  "duration_seconds": 0.241042,
+  "python_version": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "exit_code": 0,
+  "results": {
+    "random_cases_passed": 300,
+    "exhaustive_paths_checked": 15984,
+    "maximum_live_dp_states_in_test": 36,
+    "finite_key_fixture_passed": true,
+    "scope": "Synthetic exact-objective checks; no puzzle or language-model validation."
+  },
+  "stdout": "{\n  \"random_cases_passed\": 300,\n  \"exhaustive_paths_checked\": 15984,\n  \"maximum_live_dp_states_in_test\": 36,\n  \"finite_key_fixture_passed\": true,\n  \"scope\": \"Synthetic exact-objective checks; no puzzle or language-model validation.\"\n}\n",
+  "stderr": ""
+}
