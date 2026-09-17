@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/review-61/audit.py", line 38, in <module>
+    offset=p['source_char_positions'][0]-pos[0];assert [v+offset for v in pos]==p['source_char_positions']
+                                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

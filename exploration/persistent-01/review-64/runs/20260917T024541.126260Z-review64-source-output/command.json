@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-64/audit.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "131367dda364258dfaf16f9c916453dfd04bbc48",
+  "started_utc": "2026-09-17T02:45:41.135838+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-64/audit.py",
+      "exists": true,
+      "bytes": 7757,
+      "sha256": "6eb9e8c58edb0f7ba17f95fb1fa06f876830f8704891586e69947fb29c17ddb7"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-s/S19-CARD.md",
+      "exists": true,
+      "bytes": 3188,
+      "sha256": "88b87cdaa4dc37284159bb6100601bb37adb63dfc1c652d34f33531bb23480c5"
+    },
+    {
+      "path": "exploration/persistent-01/worker-s/S19/engine.cpp",
+      "exists": true,
+      "bytes": 3707,
+      "sha256": "a7ee888fc37e109db142b587d8e96f01120e5751eaf1adc38be508ce154accc1"
+    }
+  ],
+  "outcome": "NONZERO",
+  "exit_code": 1,
+  "pid": 17084,
+  "finished_utc": "2026-09-17T02:45:41.280604+00:00",
+  "duration_seconds": 0.144501458
+}

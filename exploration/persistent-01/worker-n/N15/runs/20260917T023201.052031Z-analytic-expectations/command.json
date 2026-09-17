@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-n/N15/expectation.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "da17689d77e8c830bd42e8bfd66ee8ff17718605",
+  "started_utc": "2026-09-17T02:32:01.061793+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N15/CARD.md",
+      "exists": true,
+      "bytes": 1252,
+      "sha256": "5e75c67dc4c313dd41dd00aa630851c4ac93cf09d7c8d9c725bda7389c32ba8e"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N15/expectation.py",
+      "exists": true,
+      "bytes": 938,
+      "sha256": "338879e4aae58378bde87fd523f27be3311b806eec838b15ed5c6bb28c3edd72"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N15/n15.py",
+      "exists": true,
+      "bytes": 1690,
+      "sha256": "a4a27865e144780e5ee7085d0a7db72547b2481628c43356c3efb9f02e18288c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N15/verify.py",
+      "exists": true,
+      "bytes": 1674,
+      "sha256": "f35c12ca51379bae3e706f68a38fbb027ab37a414ef6e7ea8346464c7e70ec5c"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 15376,
+  "finished_utc": "2026-09-17T02:32:01.151277+00:00",
+  "duration_seconds": 0.08928645800187951
+}

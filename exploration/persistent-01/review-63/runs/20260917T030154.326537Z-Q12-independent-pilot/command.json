@@ -1,0 +1,77 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-63/check.py",
+    "pilot"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "131367dda364258dfaf16f9c916453dfd04bbc48",
+  "started_utc": "2026-09-17T03:01:54.339541+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q12-sum-autokey/CARD.md",
+      "exists": true,
+      "bytes": 2465,
+      "sha256": "84802a163e0ee1bffd2c5f6b5eb5e88856b6fa2d8fd219f9ece437004237c847"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q12-sum-autokey/control0.json",
+      "exists": true,
+      "bytes": 102068,
+      "sha256": "33b049828b81e47e0c58240b1494ba503dffdd0ac7dca58f20a15db56225ba5c"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q12-sum-autokey/control0.npz",
+      "exists": true,
+      "bytes": 7348041,
+      "sha256": "61f4fd32fd948bf49d670a0aaef4bb3bbfe2195eb507779524f47849d1a6073b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q12-sum-autokey/model.json",
+      "exists": true,
+      "bytes": 1071,
+      "sha256": "c0b4b5bc235d00de7bcbeeb74d00de481b22e9f24f85cf3e8687024d8d24a169"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q12-sum-autokey/model.npz",
+      "exists": true,
+      "bytes": 61390,
+      "sha256": "3ab668261cf02fb95e9b6a4d70361bafd2bbb9c71f295fe921054c1818ddcef2"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q12-sum-autokey/test.py",
+      "exists": true,
+      "bytes": 6753,
+      "sha256": "aabb5dd9e171136f7464d07ad4ccf3f33aefcd9ee683e69c0702d36832f366b6"
+    },
+    {
+      "path": "exploration/persistent-01/review-63/check.py",
+      "exists": true,
+      "bytes": 8732,
+      "sha256": "188ef54ab9b8db90f16b8bc11ff5248fc00c0e1300a4df6b3d3c108b44de0a6f"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 18587,
+  "finished_utc": "2026-09-17T03:01:56.958572+00:00",
+  "duration_seconds": 2.6188251250059693
+}

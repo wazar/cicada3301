@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/review-63/aggregate.py", line 19, in <module>
+    controls.append(dict(name=r['name'],length=r['rune_count'],seed=r['control']['seed'],seed_draws=r['independent_seed_draws'],global_seed_rank=r['control']['global_seed_rank'],selected_errors=r['control']['selected_errors'],best_equal_seed_errors=min(x['errors'] for x in diag),best_scoring_equal_seed_errors=max(diag,key=lambda x:x['score'])['errors']))
+                                                                                                    ~^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'independent_seed_draws'

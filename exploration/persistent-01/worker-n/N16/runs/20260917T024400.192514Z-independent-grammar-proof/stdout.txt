@@ -1,0 +1,337 @@
+{
+  "PASS": true,
+  "independent_automaton_exhaustive_assignments": 378,
+  "proof_nodes_verified": 50208,
+  "rows": [
+    {
+      "name": "actual-0.json.gz",
+      "status": "SAT",
+      "nodes": 526,
+      "seconds": 0.30115254200063646,
+      "second_status": "SAT"
+    },
+    {
+      "name": "actual-1.json.gz",
+      "status": "SAT",
+      "nodes": 435,
+      "seconds": 0.25522225000167964,
+      "second_status": "SAT"
+    },
+    {
+      "name": "control-0.json.gz",
+      "status": "SAT",
+      "nodes": 27,
+      "seconds": 0.1883037500010687,
+      "second_status": null
+    },
+    {
+      "name": "control-1.json.gz",
+      "status": "SAT",
+      "nodes": 35,
+      "seconds": 0.12865520800551167,
+      "second_status": null
+    },
+    {
+      "name": "control-2.json.gz",
+      "status": "SAT",
+      "nodes": 200,
+      "seconds": 0.26857108299736865,
+      "second_status": null
+    },
+    {
+      "name": "control-3.json.gz",
+      "status": "SAT",
+      "nodes": 482,
+      "seconds": 0.4339837500010617,
+      "second_status": null
+    },
+    {
+      "name": "null-0-0.json.gz",
+      "status": "SAT",
+      "nodes": 108,
+      "seconds": 0.059556832995440345,
+      "second_status": null
+    },
+    {
+      "name": "null-0-1.json.gz",
+      "status": "UNSAT",
+      "nodes": 409,
+      "seconds": 0.28281958399747964,
+      "second_status": null
+    },
+    {
+      "name": "null-1-0.json.gz",
+      "status": "SAT",
+      "nodes": 130,
+      "seconds": 0.10098804200242739,
+      "second_status": null
+    },
+    {
+      "name": "null-1-1.json.gz",
+      "status": "SAT",
+      "nodes": 323,
+      "seconds": 0.19798716600053012,
+      "second_status": null
+    },
+    {
+      "name": "null-10-0.json.gz",
+      "status": "SAT",
+      "nodes": 65,
+      "seconds": 0.04694937499880325,
+      "second_status": null
+    },
+    {
+      "name": "null-10-1.json.gz",
+      "status": "UNSAT",
+      "nodes": 751,
+      "seconds": 0.519437167000433,
+      "second_status": null
+    },
+    {
+      "name": "null-11-0.json.gz",
+      "status": "UNSAT",
+      "nodes": 892,
+      "seconds": 0.5926292499934789,
+      "second_status": null
+    },
+    {
+      "name": "null-11-1.json.gz",
+      "status": "UNSAT",
+      "nodes": 2662,
+      "seconds": 1.8451770419997047,
+      "second_status": null
+    },
+    {
+      "name": "null-12-0.json.gz",
+      "status": "UNSAT",
+      "nodes": 1465,
+      "seconds": 0.8709946660019341,
+      "second_status": null
+    },
+    {
+      "name": "null-12-1.json.gz",
+      "status": "SAT",
+      "nodes": 3113,
+      "seconds": 1.8756347500020638,
+      "second_status": null
+    },
+    {
+      "name": "null-13-0.json.gz",
+      "status": "UNSAT",
+      "nodes": 1505,
+      "seconds": 1.0426663750040461,
+      "second_status": null
+    },
+    {
+      "name": "null-13-1.json.gz",
+      "status": "UNSAT",
+      "nodes": 349,
+      "seconds": 0.259990624996135,
+      "second_status": null
+    },
+    {
+      "name": "null-14-0.json.gz",
+      "status": "SAT",
+      "nodes": 65,
+      "seconds": 0.05631895799888298,
+      "second_status": null
+    },
+    {
+      "name": "null-14-1.json.gz",
+      "status": "SAT",
+      "nodes": 225,
+      "seconds": 0.1901801659987541,
+      "second_status": null
+    },
+    {
+      "name": "null-15-0.json.gz",
+      "status": "SAT",
+      "nodes": 534,
+      "seconds": 0.362345458001073,
+      "second_status": null
+    },
+    {
+      "name": "null-15-1.json.gz",
+      "status": "UNSAT",
+      "nodes": 2947,
+      "seconds": 1.6041796659992542,
+      "second_status": null
+    },
+    {
+      "name": "null-16-0.json.gz",
+      "status": "SAT",
+      "nodes": 49,
+      "seconds": 0.04683729200041853,
+      "second_status": null
+    },
+    {
+      "name": "null-16-1.json.gz",
+      "status": "UNSAT",
+      "nodes": 1425,
+      "seconds": 1.061893375001091,
+      "second_status": null
+    },
+    {
+      "name": "null-17-0.json.gz",
+      "status": "SAT",
+      "nodes": 109,
+      "seconds": 0.07707208299689228,
+      "second_status": null
+    },
+    {
+      "name": "null-17-1.json.gz",
+      "status": "SAT",
+      "nodes": 1271,
+      "seconds": 0.817359166998358,
+      "second_status": null
+    },
+    {
+      "name": "null-18-0.json.gz",
+      "status": "UNSAT",
+      "nodes": 3354,
+      "seconds": 2.3300236249997397,
+      "second_status": null
+    },
+    {
+      "name": "null-18-1.json.gz",
+      "status": "UNSAT",
+      "nodes": 2788,
+      "seconds": 1.8636145829950692,
+      "second_status": null
+    },
+    {
+      "name": "null-2-0.json.gz",
+      "status": "SAT",
+      "nodes": 460,
+      "seconds": 0.2835018330006278,
+      "second_status": null
+    },
+    {
+      "name": "null-2-1.json.gz",
+      "status": "UNSAT",
+      "nodes": 2260,
+      "seconds": 1.7938654170066002,
+      "second_status": null
+    },
+    {
+      "name": "null-3-0.json.gz",
+      "status": "UNSAT",
+      "nodes": 367,
+      "seconds": 0.28152870800113305,
+      "second_status": null
+    },
+    {
+      "name": "null-3-1.json.gz",
+      "status": "SAT",
+      "nodes": 772,
+      "seconds": 0.5577987919969019,
+      "second_status": null
+    },
+    {
+      "name": "null-4-0.json.gz",
+      "status": "SAT",
+      "nodes": 94,
+      "seconds": 0.07448475000273902,
+      "second_status": null
+    },
+    {
+      "name": "null-4-1.json.gz",
+      "status": "SAT",
+      "nodes": 31,
+      "seconds": 0.030739750000066124,
+      "second_status": null
+    },
+    {
+      "name": "null-5-0.json.gz",
+      "status": "UNSAT",
+      "nodes": 3013,
+      "seconds": 1.921845459000906,
+      "second_status": null
+    },
+    {
+      "name": "null-5-1.json.gz",
+      "status": "UNSAT",
+      "nodes": 3999,
+      "seconds": 2.5703211250001914,
+      "second_status": null
+    },
+    {
+      "name": "null-6-0.json.gz",
+      "status": "SAT",
+      "nodes": 1014,
+      "seconds": 0.6047097499977099,
+      "second_status": null
+    },
+    {
+      "name": "null-6-1.json.gz",
+      "status": "UNSAT",
+      "nodes": 3703,
+      "seconds": 2.411809750003158,
+      "second_status": null
+    },
+    {
+      "name": "null-7-0.json.gz",
+      "status": "UNSAT",
+      "nodes": 664,
+      "seconds": 0.40650337499391753,
+      "second_status": null
+    },
+    {
+      "name": "null-7-1.json.gz",
+      "status": "UNSAT",
+      "nodes": 295,
+      "seconds": 0.24598358299408574,
+      "second_status": null
+    },
+    {
+      "name": "null-8-0.json.gz",
+      "status": "SAT",
+      "nodes": 24,
+      "seconds": 0.028439500005333684,
+      "second_status": null
+    },
+    {
+      "name": "null-8-1.json.gz",
+      "status": "SAT",
+      "nodes": 2100,
+      "seconds": 1.3840977090003435,
+      "second_status": null
+    },
+    {
+      "name": "null-9-0.json.gz",
+      "status": "UNSAT",
+      "nodes": 1975,
+      "seconds": 1.3335054170020157,
+      "second_status": null
+    },
+    {
+      "name": "null-9-1.json.gz",
+      "status": "UNSAT",
+      "nodes": 2207,
+      "seconds": 1.8045341249962803,
+      "second_status": null
+    }
+  ],
+  "controls": [
+    {
+      "name": "control-0.json.gz",
+      "map_errors": 10,
+      "trit_errors": 587
+    },
+    {
+      "name": "control-1.json.gz",
+      "map_errors": 10,
+      "trit_errors": 283
+    },
+    {
+      "name": "control-2.json.gz",
+      "map_errors": 10,
+      "trit_errors": 76
+    },
+    {
+      "name": "control-3.json.gz",
+      "map_errors": 10,
+      "trit_errors": 88
+    }
+  ]
+}

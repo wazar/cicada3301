@@ -1,0 +1,289 @@
+{
+  "pass_all": true,
+  "pages": 45,
+  "novel_edges": 2440,
+  "control_events": 128255,
+  "all_null_panels": 7761,
+  "N14_random_variates": 34808149,
+  "scalar_interval_checks": 266502,
+  "expectations": {
+    "A": 84.13780065594086,
+    "B": 83.046273611535
+  },
+  "records": [
+    {
+      "family": "N14",
+      "name": "actual",
+      "actual": 72,
+      "tail": 0.018,
+      "mean": 91.46246246246247
+    },
+    {
+      "family": "N14",
+      "name": "control-0",
+      "actual": 18,
+      "tail": 0.005,
+      "mean": 152.3467336683417
+    },
+    {
+      "family": "N14",
+      "name": "control-1",
+      "actual": 14,
+      "tail": 0.005,
+      "mean": 151.35175879396985
+    },
+    {
+      "family": "N14",
+      "name": "control-2",
+      "actual": 10,
+      "tail": 0.005,
+      "mean": 153.66834170854273
+    },
+    {
+      "family": "N14",
+      "name": "control-3",
+      "actual": 20,
+      "tail": 0.005,
+      "mean": 134.43718592964825
+    },
+    {
+      "family": "N14",
+      "name": "control-4",
+      "actual": 13,
+      "tail": 0.005,
+      "mean": 132.63819095477388
+    },
+    {
+      "family": "N14",
+      "name": "control-5",
+      "actual": 22,
+      "tail": 0.005,
+      "mean": 132.96984924623115
+    },
+    {
+      "family": "N14",
+      "name": "control-6",
+      "actual": 11,
+      "tail": 0.005,
+      "mean": 154.42211055276383
+    },
+    {
+      "family": "N14",
+      "name": "control-7",
+      "actual": 6,
+      "tail": 0.005,
+      "mean": 150.59798994974875
+    },
+    {
+      "family": "N14",
+      "name": "control-8",
+      "actual": 8,
+      "tail": 0.005,
+      "mean": 150.74874371859298
+    },
+    {
+      "family": "N14",
+      "name": "control-9",
+      "actual": 5,
+      "tail": 0.005,
+      "mean": 158.17587939698493
+    },
+    {
+      "family": "N14",
+      "name": "control-10",
+      "actual": 5,
+      "tail": 0.005,
+      "mean": 158.95979899497488
+    },
+    {
+      "family": "N14",
+      "name": "control-11",
+      "actual": 6,
+      "tail": 0.005,
+      "mean": 158.36180904522612
+    },
+    {
+      "family": "N15A",
+      "name": "actual",
+      "actual": 72,
+      "tail": 0.098,
+      "mean": 84.5905905905906
+    },
+    {
+      "family": "N15B",
+      "name": "actual",
+      "actual": 72,
+      "tail": 0.127,
+      "mean": 82.77177177177177
+    },
+    {
+      "family": "N15A",
+      "name": "control-0",
+      "actual": 18,
+      "tail": 0.01,
+      "mean": 84.25252525252525
+    },
+    {
+      "family": "N15B",
+      "name": "control-0",
+      "actual": 18,
+      "tail": 0.01,
+      "mean": 159.72727272727272
+    },
+    {
+      "family": "N15A",
+      "name": "control-1",
+      "actual": 14,
+      "tail": 0.01,
+      "mean": 85.25252525252525
+    },
+    {
+      "family": "N15B",
+      "name": "control-1",
+      "actual": 14,
+      "tail": 0.01,
+      "mean": 162.94949494949495
+    },
+    {
+      "family": "N15A",
+      "name": "control-2",
+      "actual": 10,
+      "tail": 0.01,
+      "mean": 83.11111111111111
+    },
+    {
+      "family": "N15B",
+      "name": "control-2",
+      "actual": 10,
+      "tail": 0.01,
+      "mean": 162.24242424242425
+    },
+    {
+      "family": "N15A",
+      "name": "control-3",
+      "actual": 20,
+      "tail": 0.01,
+      "mean": 82.54545454545455
+    },
+    {
+      "family": "N15B",
+      "name": "control-3",
+      "actual": 20,
+      "tail": 0.01,
+      "mean": 134.53535353535352
+    },
+    {
+      "family": "N15A",
+      "name": "control-4",
+      "actual": 13,
+      "tail": 0.01,
+      "mean": 84.1919191919192
+    },
+    {
+      "family": "N15B",
+      "name": "control-4",
+      "actual": 13,
+      "tail": 0.01,
+      "mean": 132.75757575757575
+    },
+    {
+      "family": "N15A",
+      "name": "control-5",
+      "actual": 22,
+      "tail": 0.01,
+      "mean": 84.97979797979798
+    },
+    {
+      "family": "N15B",
+      "name": "control-5",
+      "actual": 22,
+      "tail": 0.01,
+      "mean": 134.93939393939394
+    },
+    {
+      "family": "N15A",
+      "name": "control-6",
+      "actual": 11,
+      "tail": 0.01,
+      "mean": 83.06060606060606
+    },
+    {
+      "family": "N15B",
+      "name": "control-6",
+      "actual": 11,
+      "tail": 0.01,
+      "mean": 158.23232323232324
+    },
+    {
+      "family": "N15A",
+      "name": "control-7",
+      "actual": 6,
+      "tail": 0.01,
+      "mean": 85.57575757575758
+    },
+    {
+      "family": "N15B",
+      "name": "control-7",
+      "actual": 6,
+      "tail": 0.01,
+      "mean": 156.0909090909091
+    },
+    {
+      "family": "N15A",
+      "name": "control-8",
+      "actual": 8,
+      "tail": 0.01,
+      "mean": 83.01010101010101
+    },
+    {
+      "family": "N15B",
+      "name": "control-8",
+      "actual": 8,
+      "tail": 0.01,
+      "mean": 157.9090909090909
+    },
+    {
+      "family": "N15A",
+      "name": "control-9",
+      "actual": 5,
+      "tail": 0.01,
+      "mean": 83.8989898989899
+    },
+    {
+      "family": "N15B",
+      "name": "control-9",
+      "actual": 5,
+      "tail": 0.01,
+      "mean": 168.53535353535352
+    },
+    {
+      "family": "N15A",
+      "name": "control-10",
+      "actual": 5,
+      "tail": 0.01,
+      "mean": 84.15151515151516
+    },
+    {
+      "family": "N15B",
+      "name": "control-10",
+      "actual": 5,
+      "tail": 0.01,
+      "mean": 166.8181818181818
+    },
+    {
+      "family": "N15A",
+      "name": "control-11",
+      "actual": 6,
+      "tail": 0.01,
+      "mean": 84.8080808080808
+    },
+    {
+      "family": "N15B",
+      "name": "control-11",
+      "actual": 6,
+      "tail": 0.01,
+      "mean": 166.6060606060606
+    }
+  ],
+  "scope": "Complete saved arrays, full RNG replay/law checks; source skips and routes rebuilt. No scientific route search, optimizer or image read."
+}

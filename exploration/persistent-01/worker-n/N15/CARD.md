@@ -1,0 +1,6 @@
+# N15 — fixed N14 null sensitivities
+Frozen before execution. No route, page, edge or cipher changes: N14 all45 F06 discovery arrays, exactly2440 novel edges. Original N14 actual72 and fitted-mask nominaltail.018 remain unchanged.
+Two predeclared comparison mechanisms, both published:
+A. Fix page-first rune and exact ordinary repeated/nonrepeated edge mask. On repeat copy; otherwise uniform among28 other destinations. No estimated marginal weights. Does not preserve inventory.
+B. Independently uniformly permute all rune positions within each page, preserving exact inventory. Does not condition ordinary repeat mask or first rune, hence not a substitute for an exact inventory+mask null.
+Actual999 panels each; same12 existing N14 strong source-backed plants99 panels each/model. No new plants. Seeds A actual615900,B actual615901; controlk A616000+2k,B616001+2k. Independent PCG64 NumPy generators. Lower-tail add-one repeat count, same2440 edges and full-panel aggregation. Store all generated arrays/counts/input hashes; no favorable model selection. These are sensitivity checks and exploratory ranks, not holdouts or candidate validation. If null assumptions disagree, uncertainty remains; no MCMC framework, new routes or further family.

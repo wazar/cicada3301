@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-62/check.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "131367dda364258dfaf16f9c916453dfd04bbc48",
+  "started_utc": "2026-09-17T02:35:00.418920+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-62/PROTOCOL.md",
+      "exists": true,
+      "bytes": 527,
+      "sha256": "81ae18ea35d332fc3afeb4699a4cbf98908ae2e6f7c75255504bc4254fb97a8f"
+    },
+    {
+      "path": "exploration/persistent-01/review-62/check.py",
+      "exists": true,
+      "bytes": 8135,
+      "sha256": "543094121ce5414d5cf8dba30edde36992e1839c6c1f78c77aba6cbaf4f63e3b"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P30/MANIFEST.json",
+      "exists": true,
+      "bytes": 16398,
+      "sha256": "338069c21c0503319af0abac07f7576ad460678f53078a1abb279f28ec048941"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 15903,
+  "finished_utc": "2026-09-17T02:35:05.502991+00:00",
+  "duration_seconds": 5.083848374997615
+}

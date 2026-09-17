@@ -1,0 +1,22 @@
+--- S17
++++ S19
+@@ -9,16 +9,16 @@
+ #include <random>
+ #include <vector>
+ using namespace std;
+-vector<double> lm; vector<int> tokens; array<vector<int>,29> positions;
++vector<double> lm; vector<int> tokens,pre1,pre2; array<vector<int>,29> positions;
+ int mapped(int i,const array<int,29>&m){return i<0?29:(tokens[i]==29?29:m[tokens[i]]);}
+-double term(int i,const array<int,29>&m){return lm[(mapped(i-2,m)*30+mapped(i-1,m))*30+mapped(i,m)];}
++double term(int i,const array<int,29>&m){if(tokens[i]==29)return 0;return lm[(mapped(pre2[i],m)*30+mapped(pre1[i],m))*30+mapped(i,m)];}
+ double score(const array<int,29>&m){double s=0;for(int i=0;i<(int)tokens.size();i++)s+=term(i,m);return s;}
+ vector<int> affected(int a,int b){vector<int> v;for(int c:{a,b})for(int p:positions[c])for(int i=p;i<min(p+3,(int)tokens.size());i++)v.push_back(i);sort(v.begin(),v.end());v.erase(unique(v.begin(),v.end()),v.end());return v;}
+ double delta(array<int,29>&m,int a,int b,const vector<int>&v){double d=0;for(int i:v)d-=term(i,m);swap(m[a],m[b]);for(int i:v)d+=term(i,m);swap(m[a],m[b]);return d;}
+ void arr(const array<int,29>&m){cout<<"[";for(int i=0;i<29;i++){if(i)cout<<",";cout<<m[i];}cout<<"]";}
+ int main(int argc,char**argv){
+  ifstream mod(argv[1],ios::binary);lm.resize(27000);mod.read((char*)lm.data(),27000*sizeof(double));if(mod.gcount()!=27000*sizeof(double))return 3;
+- ifstream in(argv[2]);int n;unsigned long long seed;time_t deadline;in>>n>>seed>>deadline;array<int,29> freq;for(int&i:freq)in>>i;tokens.resize(n);for(int&i:tokens)in>>i;for(int i=0;i<n;i++)if(tokens[i]!=29)positions[tokens[i]].push_back(i);
++ ifstream in(argv[2]);int n;unsigned long long seed;time_t deadline;in>>n>>seed>>deadline;array<int,29> freq;for(int&i:freq)in>>i;tokens.resize(n);for(int&i:tokens)in>>i;pre1.resize(n);pre2.resize(n);int last1=-1,last2=-1;for(int i=0;i<n;i++){pre1[i]=last1;pre2[i]=last2;if(tokens[i]==29){last1=-1;last2=-1;}else{positions[tokens[i]].push_back(i);last2=last1;last1=i;}}
+  mt19937_64 rng(seed);uniform_real_distribution<double> unif(0.,1.);uniform_int_distribution<int> pick29(0,28),pick28(0,27);array<array<vector<int>,29>,29> aff;for(int a=0;a<29;a++)for(int b=a+1;b<29;b++)aff[a][b]=affected(a,b);
+  cout<<setprecision(17)<<"{\"seed\":"<<seed<<",\"probes\":[";
+  for(int t=0;t<32;t++){array<int,29> m; iota(m.begin(),m.end(),0);shuffle(m.begin(),m.end(),rng);int a=pick29(rng),b=pick28(rng);if(b>=a)b++;if(a>b)swap(a,b);double old=score(m),d=delta(m,a,b,aff[a][b]);if(t)cout<<",";cout<<"{\"map\":";arr(m);cout<<",\"a\":"<<a<<",\"b\":"<<b<<",\"before\":"<<old<<",\"delta\":"<<d;swap(m[a],m[b]);double after=score(m);if(abs(after-old-d)>1e-8)return 4;cout<<",\"after\":"<<after<<"}";}

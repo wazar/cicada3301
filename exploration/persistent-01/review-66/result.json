@@ -1,0 +1,35 @@
+{
+  "pass_all": true,
+  "proof_nodes": 50191,
+  "tiny_assignments": 378,
+  "binary_all_dot_strings": 2046,
+  "SAT_extensions": 24,
+  "null_statuses": {
+    "SAT": 18,
+    "UNSAT": 20
+  },
+  "control_recovery": [
+    {
+      "control": 0,
+      "role_errors": 10,
+      "trit_errors": 587
+    },
+    {
+      "control": 1,
+      "role_errors": 10,
+      "trit_errors": 283
+    },
+    {
+      "control": 2,
+      "role_errors": 10,
+      "trit_errors": 76
+    },
+    {
+      "control": 3,
+      "role_errors": 10,
+      "trit_errors": 88
+    }
+  ],
+  "lemma": "Full feasibility iff binary gap relaxation because dot runs1..5 are E/I/S/H/5 and every code has<=5 marks; partial-edge framing preserved.",
+  "limits": "No requirement both mark classes occur; no new feasibility coverage or plaintext recovery; tiny existence exhaustive, tiny proof trees not replayed."
+}

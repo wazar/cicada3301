@@ -6,12 +6,12 @@ Start: **2026-09-16 19:30:37 UTC /21:30:37 SAST**. Fixed deadline: **2026-09-17 
 
 ## Current assignments
 
-Recorded at 2026-09-17T02:32:04.184127+00:00
+Recorded at 2026-09-17T03:11:47.038778+00:00
 
-- **persistent_p**: P30 optional nonconsuming literal-F plaintext FIFO autokey: four full controls exact; fixed162-cell real0/17/55 and19nulls each running. Existing-method lane, no seed expansion.
-- **persistent_s**: S19 word lengths as payload under shared substitution, continuous clean Latin model; raw-source/control/cost pilot before one real full panel and19nulls.
-- **persistent_n**: N15 two frozen null sensitivities for N14 circumference route: uniform exact-repeat-mask and inventory-preserving unconditional permutations. No route expansion.
-- **coordinator**: Sole direct controller: publish checkpoint21; review N14/N15 source-route evidence; original deadline03:30:37UTC unchanged.
+- **persistent_p**: Fresh review67 of N17 control-damage sensitivity, then N18 sentinel serialization review.
+- **persistent_n**: N18 exact standard BWT with omitted unique sentinel: exhaustive insertion metadata positions, no changed runes/order/alphabet; controls and full same-null search.
+- **persistent_s**: S20 exact Latin source-support obstruction for2355 word-length labels versus fixed existing source windows; no scorer or new key search.
+- **coordinator**: Single direct controller: publish checkpoint22, inspect full Q12 outputs, prepare final report for review. Original03:30:37UTC deadline unchanged.
 
 ## Evidence and allocation
 
@@ -47,10 +47,14 @@ Q09 reciprocal feedback beats fitted destination prediction by+5.92nats, reverse
 
 N14 page-onion traversal has72repeats/2440new adjacencies, original fitted-mask nullmean91.46/nominal.018. This may reflect inflated fitted marginal collision expectations; N15 is testing two prespecified sensitivities before interpretation. P30 retains the corrected literal-F arithmetic while changing periodic keying to plaintext-autokey FIFO. S19 changes the hypothesized payload to word lengths. These materially separate assumptions; no optimal-strategy claim.
 
-Next executable actions: complete fixed P30 real/null searches and fresh review; complete N15 null sensitivity and independent route check; finish S19 source-model/control pilot before fixed actual search. Original stop05:30:37SAST; no reserved inputs or competing controller.
+Checkpoint22: Q12 exact arbitrary seeds for sum-feedback k2/3/4 recover all four complete controls, but actual0/17/55 tails.20/.90/.25 yield no candidate. Every46,880,704 score independently replayed. The inherited claim that wrong seeds lock on is false for this recurrence; errors are periodic. P30 optional-F FIFO autokey also recovers four controls exactly, actual tails.80/.25/.25. Neither miss authorizes key-space expansion.
+
+S19 word-length payload Latin substitution gives actualtail.65. Controls recover99.53–99.79% but use27 labels versusactual14 and unequal filler totals; these limits motivate a direct source-support test, not more annealing. N14 circumference traversal means ragged transcription rows, not independently certified image geometry. N15 sensitivitytails.098/.127 remove support for the initial.018 fitted-null result. N16 full Morse reduces exactly to the prior gap grammar via all-dot codes and is recorded as redundant, not new coverage. P31 whole-page cyclicBWT fails exactformat on0/17/55; N17 sensitivity shows all769 control swaps fail for a structural cycle reason, not769 independent tests. N17review and separate missing-sentinel convention N18 remain active.
+
+Next executable actions: finish N18 fixed standard sentinel serialization and fresh review; finish S20 exact fixed-source support comparison. Final report review runs beside these tests. Original stop05:30:37SAST; no reserved input, new image50 or competing controller.
 
 ## Integrity and limits
 
 Experiment01 remains failed. No credible candidate warrants a reserve reveal. Originals4,9,14,19,24,29,34,39,44,54 remain excluded; earlier E exposure to historical54 vision annotations is recorded as contamination, not pristine holdout. No new image50 inspection; cached corrected256-byte input used by P16/R06 is separately pinned. Exact source mapping, commands, outputs, exit codes, alternative outputs and resume commands remain in per-worker evidence.
 
-Only coordinator writes Git/shared management files. Unrelated macOS setup preserved. Reviewed checkpoint20 is verified on origin/master at `da17689d77e8c830bd42e8bfd66ee8ff17718605`; checkpoint21 publication is in progress. Completed log metadata may normalize checkout prefixes, with original bytes and hash mapping retained locally; frozen scientific source/output bytes are not cosmetically rewritten. See numbered checkpoints for historical results and corrections.
+Only coordinator writes Git/shared management files. Unrelated macOS setup preserved. Reviewed checkpoint21 is verified on origin/master at `131367dda364258dfaf16f9c916453dfd04bbc48`; checkpoint22 publication is in progress. Completed log metadata may normalize checkout prefixes, with original bytes and hash mapping retained locally; frozen scientific source/output bytes are not cosmetically rewritten. See numbered checkpoints for historical results and corrections.

@@ -1,0 +1,42 @@
+{
+  "name": "actual17-null07",
+  "inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q12-sum-autokey/actual17-null07.json",
+      "sha256": "8e33ea95788d12b70cebda2cd1fefc121aaa3575457764d6f80068602f492249"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q12-sum-autokey/actual17-null07.npz",
+      "sha256": "f1de89aa0e7b19320e38b5a8de7b93c306fd56547101dccd711ba616290f41a7"
+    }
+  ],
+  "rune_count": 273,
+  "checks": [
+    {
+      "k": 2,
+      "all_seed_scores": 841,
+      "maximum": -4.688903365997927,
+      "max_score_error": 1.0658141036401503e-14,
+      "max_factor_error": 0.0,
+      "score_sha256": "ca0d3e0bf55cacfc95ca76f56972f2dc72a4060ab2dd56e77eeafbe877978bec"
+    },
+    {
+      "k": 3,
+      "all_seed_scores": 24389,
+      "maximum": -4.568903446190225,
+      "max_score_error": 1.0658141036401503e-14,
+      "max_factor_error": 0.0,
+      "score_sha256": "45d21b2e35c1a6f0c69b58c7ce8763de7f9b687a52e870dcb8f2cb8985387917"
+    },
+    {
+      "k": 4,
+      "all_seed_scores": 707281,
+      "maximum": -4.5333989369359555,
+      "max_score_error": 1.4210854715202004e-14,
+      "max_factor_error": 0.0,
+      "score_sha256": "1f6f8b94bef9487eed81699974c62035959ddbbee1753e2ab90fd50ad406c6cb"
+    }
+  ],
+  "maximum": -4.5333989369359555,
+  "seconds": 1.4517839170002844
+}

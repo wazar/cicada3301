@@ -1,0 +1,2 @@
+# Review62 P30
+Independent no-production-import replay: source parsing via character state, frozen162grid; ring-buffer arithmetic for all139968retained paths and LM reconstruction; all57nullRNG/masks/global selection/tails. Independently heap-ranked beam subset includes4controltruecells and3actualselectedcells, fulltiny path enumeration. This does not certify unretained global optima or every beam history. Verify saved prior float-equality checker failure preserved. No scientific changes, reserve reads or broader search.

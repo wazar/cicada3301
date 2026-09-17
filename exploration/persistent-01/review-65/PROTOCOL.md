@@ -1,0 +1,2 @@
+# Review65 P31
+No production imports. Independent inverse via stable sorted occurrence pairs/Psi and forward traversal; compare all candidate multisets and primary-row mapping. Independent forward transform via fixed-width base32 integer rotations and numeric order, not string rotation sorting. Replay all140inputs/32500primaryrows, group/alias completeness, periodic exhaustive image sets, source controls and133inventory shuffles. Scope exact canonical cyclic no-sentinel format only; no alphabet/route changes.

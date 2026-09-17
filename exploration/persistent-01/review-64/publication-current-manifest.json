@@ -1,0 +1,110 @@
+{
+  "scope": "Current publication bytes; previous manifests are original snapshot identities.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/review-64/CARD.md",
+      "bytes": 731,
+      "sha256": "6653d623de5d3370c481a9582cd85ca1c08c29e036aad3cd5169cc7be94fd2b2"
+    },
+    {
+      "path": "exploration/persistent-01/review-64/MANIFEST.json",
+      "bytes": 4099,
+      "sha256": "6f35c2baba621375efac99317d37918424dbaa663ec6df8c7e5aad7bfe7f5375"
+    },
+    {
+      "path": "exploration/persistent-01/review-64/REPORT.md",
+      "bytes": 3089,
+      "sha256": "e5069a874674544b5709f716489ed63bb79b30836beb7b187844ce48e7265f8c"
+    },
+    {
+      "path": "exploration/persistent-01/review-64/audit.py",
+      "bytes": 7749,
+      "sha256": "68a2a9bb2731db6e26e30e932a2842666cf31b0ea68a8f0084ce252c875e4bd4"
+    },
+    {
+      "path": "exploration/persistent-01/review-64/compile.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-64/inputs.json",
+      "bytes": 16954,
+      "sha256": "7ffbe09621144668e2a04114895ab5c03d952265f2e5ad12e0f53c378dbd610a"
+    },
+    {
+      "path": "exploration/persistent-01/review-64/kernel",
+      "bytes": 58408,
+      "sha256": "cca56e82af7683264a2663d601acade56a6a9fd5a1eb99e12543aec91548d7a7"
+    },
+    {
+      "path": "exploration/persistent-01/review-64/kernel.cpp",
+      "bytes": 1222,
+      "sha256": "364dbee91bfeccb1ea11b314c5ae93d238bbc13990773016f71b4f923e2b2fa2"
+    },
+    {
+      "path": "exploration/persistent-01/review-64/kernel.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-64/kernel.stdout",
+      "bytes": 52,
+      "sha256": "7c1c1c79c210cbdc541678824b784beea7434a46ef1e5be79bc21fe2fb66a9a1"
+    },
+    {
+      "path": "exploration/persistent-01/review-64/result.json",
+      "bytes": 827,
+      "sha256": "115d58f9acf5fa8468df4c811b383732ce56adb801ac99a7ac4f98e6ce09f31d"
+    },
+    {
+      "path": "exploration/persistent-01/review-64/runs/20260917T024541.126260Z-review64-source-output/code/exploration/persistent-01/review-64/audit.py",
+      "bytes": 7757,
+      "sha256": "6eb9e8c58edb0f7ba17f95fb1fa06f876830f8704891586e69947fb29c17ddb7"
+    },
+    {
+      "path": "exploration/persistent-01/review-64/runs/20260917T024541.126260Z-review64-source-output/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-64/runs/20260917T024541.126260Z-review64-source-output/command.json",
+      "bytes": 1550,
+      "sha256": "2d01566ce65b652881e5eb6ce0f0e8ffe305501a65e93ec20da4e384c0ae2845"
+    },
+    {
+      "path": "exploration/persistent-01/review-64/runs/20260917T024541.126260Z-review64-source-output/stderr.txt",
+      "bytes": 509,
+      "sha256": "b1565c202146c044ba83843ca7811c164e85c348a4996d50d46a83dd0b4e4553"
+    },
+    {
+      "path": "exploration/persistent-01/review-64/runs/20260917T024541.126260Z-review64-source-output/stdout.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-64/runs/20260917T024607.507675Z-review64-original-case-fix/code/exploration/persistent-01/review-64/audit.py",
+      "bytes": 7749,
+      "sha256": "68a2a9bb2731db6e26e30e932a2842666cf31b0ea68a8f0084ce252c875e4bd4"
+    },
+    {
+      "path": "exploration/persistent-01/review-64/runs/20260917T024607.507675Z-review64-original-case-fix/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-64/runs/20260917T024607.507675Z-review64-original-case-fix/command.json",
+      "bytes": 1547,
+      "sha256": "52cea23b8ae3c94cc8a3516b4a0e08ee3eab624ba7dab352d0c50bbe9d776853"
+    },
+    {
+      "path": "exploration/persistent-01/review-64/runs/20260917T024607.507675Z-review64-original-case-fix/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-64/runs/20260917T024607.507675Z-review64-original-case-fix/stdout.txt",
+      "bytes": 664,
+      "sha256": "0621c11c3cdeda96ffd976b226bb823ff214f01aa364f16778417f005008074c"
+    }
+  ]
+}

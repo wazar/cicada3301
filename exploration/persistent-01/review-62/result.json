@@ -1,0 +1,80 @@
+{
+  "pass": true,
+  "cells": 10368,
+  "paths": 139968,
+  "expansions": 79062804,
+  "max_score_error": 9.769962616701378e-15,
+  "beam_replays": [
+    {
+      "packet": 0,
+      "id": "clue:000:0:-1",
+      "diagnostics": {
+        "expanded": 31728,
+        "first_truth_pruned": null
+      }
+    },
+    {
+      "packet": 1,
+      "id": "clue:005:1:1",
+      "diagnostics": {
+        "expanded": 2730,
+        "first_truth_pruned": null
+      }
+    },
+    {
+      "packet": 2,
+      "id": "clue:010:2:-1",
+      "diagnostics": {
+        "expanded": 4474,
+        "first_truth_pruned": null
+      }
+    },
+    {
+      "packet": 3,
+      "id": "clue:015:3:1",
+      "diagnostics": {
+        "expanded": 750,
+        "first_truth_pruned": null
+      }
+    },
+    {
+      "packet": 4,
+      "id": "clue:002:1:-1",
+      "diagnostics": {
+        "expanded": 12567,
+        "first_truth_pruned": null
+      }
+    },
+    {
+      "packet": 5,
+      "id": "clue:010:1:-1",
+      "diagnostics": {
+        "expanded": 9472,
+        "first_truth_pruned": null
+      }
+    },
+    {
+      "packet": 6,
+      "id": "clue:002:2:-1",
+      "diagnostics": {
+        "expanded": 379,
+        "first_truth_pruned": null
+      }
+    }
+  ],
+  "tiny_cases": 100,
+  "actual": [
+    {
+      "packet": 4,
+      "tail": 0.8
+    },
+    {
+      "packet": 5,
+      "tail": 0.25
+    },
+    {
+      "packet": 6,
+      "tail": 0.25
+    }
+  ]
+}

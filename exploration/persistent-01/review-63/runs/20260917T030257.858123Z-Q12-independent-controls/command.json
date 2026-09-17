@@ -1,0 +1,71 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-63/check.py",
+    "controls"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "131367dda364258dfaf16f9c916453dfd04bbc48",
+  "started_utc": "2026-09-17T03:02:57.867105+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q12-sum-autokey/CARD.md",
+      "exists": true,
+      "bytes": 2465,
+      "sha256": "84802a163e0ee1bffd2c5f6b5eb5e88856b6fa2d8fd219f9ece437004237c847"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q12-sum-autokey/CONTROL-AMENDMENT.md",
+      "exists": true,
+      "bytes": 563,
+      "sha256": "336253478d79d53f968e05c87ba32008d18d0ef0382ee19cd5e92ab57ed4db55"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q12-sum-autokey/model.json",
+      "exists": true,
+      "bytes": 1071,
+      "sha256": "c0b4b5bc235d00de7bcbeeb74d00de481b22e9f24f85cf3e8687024d8d24a169"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q12-sum-autokey/model.npz",
+      "exists": true,
+      "bytes": 61390,
+      "sha256": "3ab668261cf02fb95e9b6a4d70361bafd2bbb9c71f295fe921054c1818ddcef2"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q12-sum-autokey/test.py",
+      "exists": true,
+      "bytes": 6753,
+      "sha256": "aabb5dd9e171136f7464d07ad4ccf3f33aefcd9ee683e69c0702d36832f366b6"
+    },
+    {
+      "path": "exploration/persistent-01/review-63/check.py",
+      "exists": true,
+      "bytes": 8979,
+      "sha256": "9ac091bafcd50ae76840aae975b3b8bef90c1a12e89ab08b8d0e30d08be06b71"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 18654,
+  "finished_utc": "2026-09-17T03:03:00.592482+00:00",
+  "duration_seconds": 2.725189707998652
+}

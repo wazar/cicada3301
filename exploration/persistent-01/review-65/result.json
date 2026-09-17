@@ -1,0 +1,1006 @@
+{
+  "PASS": true,
+  "inputs": 140,
+  "primary_rows": 32500,
+  "groups": 29591,
+  "tiny_inputs": 617,
+  "periodic": [
+    {
+      "plain": [
+        0
+      ],
+      "last": [
+        0
+      ],
+      "psi": [
+        0
+      ]
+    },
+    {
+      "plain": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "last": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "psi": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "plain": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "last": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "psi": [
+        4,
+        5,
+        6,
+        7,
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "plain": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "last": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "psi": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "plain": [
+        0,
+        1,
+        2,
+        0,
+        1,
+        2,
+        0,
+        1,
+        2,
+        0,
+        1,
+        2
+      ],
+      "last": [
+        2,
+        2,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ],
+      "psi": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "name": "packet-0-main",
+      "compatible": true,
+      "groups": 1,
+      "primary_rows": 515
+    },
+    {
+      "name": "packet-0-null-00",
+      "compatible": false,
+      "groups": 489,
+      "primary_rows": 515
+    },
+    {
+      "name": "packet-0-null-01",
+      "compatible": false,
+      "groups": 491,
+      "primary_rows": 515
+    },
+    {
+      "name": "packet-0-null-02",
+      "compatible": false,
+      "groups": 482,
+      "primary_rows": 515
+    },
+    {
+      "name": "packet-0-null-03",
+      "compatible": false,
+      "groups": 486,
+      "primary_rows": 515
+    },
+    {
+      "name": "packet-0-null-04",
+      "compatible": false,
+      "groups": 480,
+      "primary_rows": 515
+    },
+    {
+      "name": "packet-0-null-05",
+      "compatible": false,
+      "groups": 483,
+      "primary_rows": 515
+    },
+    {
+      "name": "packet-0-null-06",
+      "compatible": false,
+      "groups": 487,
+      "primary_rows": 515
+    },
+    {
+      "name": "packet-0-null-07",
+      "compatible": false,
+      "groups": 489,
+      "primary_rows": 515
+    },
+    {
+      "name": "packet-0-null-08",
+      "compatible": false,
+      "groups": 485,
+      "primary_rows": 515
+    },
+    {
+      "name": "packet-0-null-09",
+      "compatible": false,
+      "groups": 487,
+      "primary_rows": 515
+    },
+    {
+      "name": "packet-0-null-10",
+      "compatible": false,
+      "groups": 494,
+      "primary_rows": 515
+    },
+    {
+      "name": "packet-0-null-11",
+      "compatible": false,
+      "groups": 486,
+      "primary_rows": 515
+    },
+    {
+      "name": "packet-0-null-12",
+      "compatible": false,
+      "groups": 487,
+      "primary_rows": 515
+    },
+    {
+      "name": "packet-0-null-13",
+      "compatible": false,
+      "groups": 478,
+      "primary_rows": 515
+    },
+    {
+      "name": "packet-0-null-14",
+      "compatible": false,
+      "groups": 481,
+      "primary_rows": 515
+    },
+    {
+      "name": "packet-0-null-15",
+      "compatible": false,
+      "groups": 485,
+      "primary_rows": 515
+    },
+    {
+      "name": "packet-0-null-16",
+      "compatible": false,
+      "groups": 487,
+      "primary_rows": 515
+    },
+    {
+      "name": "packet-0-null-17",
+      "compatible": false,
+      "groups": 484,
+      "primary_rows": 515
+    },
+    {
+      "name": "packet-0-null-18",
+      "compatible": false,
+      "groups": 487,
+      "primary_rows": 515
+    },
+    {
+      "name": "packet-1-main",
+      "compatible": true,
+      "groups": 1,
+      "primary_rows": 319
+    },
+    {
+      "name": "packet-1-null-00",
+      "compatible": false,
+      "groups": 293,
+      "primary_rows": 319
+    },
+    {
+      "name": "packet-1-null-01",
+      "compatible": false,
+      "groups": 286,
+      "primary_rows": 319
+    },
+    {
+      "name": "packet-1-null-02",
+      "compatible": false,
+      "groups": 288,
+      "primary_rows": 319
+    },
+    {
+      "name": "packet-1-null-03",
+      "compatible": false,
+      "groups": 272,
+      "primary_rows": 319
+    },
+    {
+      "name": "packet-1-null-04",
+      "compatible": false,
+      "groups": 290,
+      "primary_rows": 319
+    },
+    {
+      "name": "packet-1-null-05",
+      "compatible": false,
+      "groups": 305,
+      "primary_rows": 319
+    },
+    {
+      "name": "packet-1-null-06",
+      "compatible": false,
+      "groups": 296,
+      "primary_rows": 319
+    },
+    {
+      "name": "packet-1-null-07",
+      "compatible": false,
+      "groups": 294,
+      "primary_rows": 319
+    },
+    {
+      "name": "packet-1-null-08",
+      "compatible": false,
+      "groups": 294,
+      "primary_rows": 319
+    },
+    {
+      "name": "packet-1-null-09",
+      "compatible": false,
+      "groups": 293,
+      "primary_rows": 319
+    },
+    {
+      "name": "packet-1-null-10",
+      "compatible": false,
+      "groups": 294,
+      "primary_rows": 319
+    },
+    {
+      "name": "packet-1-null-11",
+      "compatible": false,
+      "groups": 295,
+      "primary_rows": 319
+    },
+    {
+      "name": "packet-1-null-12",
+      "compatible": false,
+      "groups": 284,
+      "primary_rows": 319
+    },
+    {
+      "name": "packet-1-null-13",
+      "compatible": false,
+      "groups": 303,
+      "primary_rows": 319
+    },
+    {
+      "name": "packet-1-null-14",
+      "compatible": false,
+      "groups": 293,
+      "primary_rows": 319
+    },
+    {
+      "name": "packet-1-null-15",
+      "compatible": false,
+      "groups": 296,
+      "primary_rows": 319
+    },
+    {
+      "name": "packet-1-null-16",
+      "compatible": false,
+      "groups": 294,
+      "primary_rows": 319
+    },
+    {
+      "name": "packet-1-null-17",
+      "compatible": false,
+      "groups": 298,
+      "primary_rows": 319
+    },
+    {
+      "name": "packet-1-null-18",
+      "compatible": false,
+      "groups": 294,
+      "primary_rows": 319
+    },
+    {
+      "name": "packet-2-main",
+      "compatible": true,
+      "groups": 1,
+      "primary_rows": 85
+    },
+    {
+      "name": "packet-2-null-00",
+      "compatible": false,
+      "groups": 81,
+      "primary_rows": 85
+    },
+    {
+      "name": "packet-2-null-01",
+      "compatible": false,
+      "groups": 72,
+      "primary_rows": 85
+    },
+    {
+      "name": "packet-2-null-02",
+      "compatible": false,
+      "groups": 76,
+      "primary_rows": 85
+    },
+    {
+      "name": "packet-2-null-03",
+      "compatible": false,
+      "groups": 80,
+      "primary_rows": 85
+    },
+    {
+      "name": "packet-2-null-04",
+      "compatible": false,
+      "groups": 79,
+      "primary_rows": 85
+    },
+    {
+      "name": "packet-2-null-05",
+      "compatible": false,
+      "groups": 74,
+      "primary_rows": 85
+    },
+    {
+      "name": "packet-2-null-06",
+      "compatible": false,
+      "groups": 67,
+      "primary_rows": 85
+    },
+    {
+      "name": "packet-2-null-07",
+      "compatible": false,
+      "groups": 79,
+      "primary_rows": 85
+    },
+    {
+      "name": "packet-2-null-08",
+      "compatible": false,
+      "groups": 70,
+      "primary_rows": 85
+    },
+    {
+      "name": "packet-2-null-09",
+      "compatible": false,
+      "groups": 76,
+      "primary_rows": 85
+    },
+    {
+      "name": "packet-2-null-10",
+      "compatible": false,
+      "groups": 76,
+      "primary_rows": 85
+    },
+    {
+      "name": "packet-2-null-11",
+      "compatible": false,
+      "groups": 79,
+      "primary_rows": 85
+    },
+    {
+      "name": "packet-2-null-12",
+      "compatible": false,
+      "groups": 82,
+      "primary_rows": 85
+    },
+    {
+      "name": "packet-2-null-13",
+      "compatible": false,
+      "groups": 78,
+      "primary_rows": 85
+    },
+    {
+      "name": "packet-2-null-14",
+      "compatible": false,
+      "groups": 78,
+      "primary_rows": 85
+    },
+    {
+      "name": "packet-2-null-15",
+      "compatible": false,
+      "groups": 78,
+      "primary_rows": 85
+    },
+    {
+      "name": "packet-2-null-16",
+      "compatible": false,
+      "groups": 78,
+      "primary_rows": 85
+    },
+    {
+      "name": "packet-2-null-17",
+      "compatible": false,
+      "groups": 79,
+      "primary_rows": 85
+    },
+    {
+      "name": "packet-2-null-18",
+      "compatible": false,
+      "groups": 79,
+      "primary_rows": 85
+    },
+    {
+      "name": "packet-3-main",
+      "compatible": true,
+      "groups": 1,
+      "primary_rows": 95
+    },
+    {
+      "name": "packet-3-null-00",
+      "compatible": false,
+      "groups": 86,
+      "primary_rows": 95
+    },
+    {
+      "name": "packet-3-null-01",
+      "compatible": false,
+      "groups": 88,
+      "primary_rows": 95
+    },
+    {
+      "name": "packet-3-null-02",
+      "compatible": false,
+      "groups": 91,
+      "primary_rows": 95
+    },
+    {
+      "name": "packet-3-null-03",
+      "compatible": false,
+      "groups": 90,
+      "primary_rows": 95
+    },
+    {
+      "name": "packet-3-null-04",
+      "compatible": false,
+      "groups": 86,
+      "primary_rows": 95
+    },
+    {
+      "name": "packet-3-null-05",
+      "compatible": false,
+      "groups": 89,
+      "primary_rows": 95
+    },
+    {
+      "name": "packet-3-null-06",
+      "compatible": false,
+      "groups": 89,
+      "primary_rows": 95
+    },
+    {
+      "name": "packet-3-null-07",
+      "compatible": false,
+      "groups": 89,
+      "primary_rows": 95
+    },
+    {
+      "name": "packet-3-null-08",
+      "compatible": false,
+      "groups": 91,
+      "primary_rows": 95
+    },
+    {
+      "name": "packet-3-null-09",
+      "compatible": false,
+      "groups": 87,
+      "primary_rows": 95
+    },
+    {
+      "name": "packet-3-null-10",
+      "compatible": false,
+      "groups": 93,
+      "primary_rows": 95
+    },
+    {
+      "name": "packet-3-null-11",
+      "compatible": false,
+      "groups": 92,
+      "primary_rows": 95
+    },
+    {
+      "name": "packet-3-null-12",
+      "compatible": false,
+      "groups": 90,
+      "primary_rows": 95
+    },
+    {
+      "name": "packet-3-null-13",
+      "compatible": false,
+      "groups": 72,
+      "primary_rows": 95
+    },
+    {
+      "name": "packet-3-null-14",
+      "compatible": false,
+      "groups": 88,
+      "primary_rows": 95
+    },
+    {
+      "name": "packet-3-null-15",
+      "compatible": false,
+      "groups": 89,
+      "primary_rows": 95
+    },
+    {
+      "name": "packet-3-null-16",
+      "compatible": false,
+      "groups": 91,
+      "primary_rows": 95
+    },
+    {
+      "name": "packet-3-null-17",
+      "compatible": false,
+      "groups": 89,
+      "primary_rows": 95
+    },
+    {
+      "name": "packet-3-null-18",
+      "compatible": false,
+      "groups": 93,
+      "primary_rows": 95
+    },
+    {
+      "name": "packet-4-main",
+      "compatible": false,
+      "groups": 250,
+      "primary_rows": 262
+    },
+    {
+      "name": "packet-4-null-00",
+      "compatible": false,
+      "groups": 258,
+      "primary_rows": 262
+    },
+    {
+      "name": "packet-4-null-01",
+      "compatible": false,
+      "groups": 254,
+      "primary_rows": 262
+    },
+    {
+      "name": "packet-4-null-02",
+      "compatible": false,
+      "groups": 250,
+      "primary_rows": 262
+    },
+    {
+      "name": "packet-4-null-03",
+      "compatible": false,
+      "groups": 254,
+      "primary_rows": 262
+    },
+    {
+      "name": "packet-4-null-04",
+      "compatible": false,
+      "groups": 254,
+      "primary_rows": 262
+    },
+    {
+      "name": "packet-4-null-05",
+      "compatible": false,
+      "groups": 250,
+      "primary_rows": 262
+    },
+    {
+      "name": "packet-4-null-06",
+      "compatible": false,
+      "groups": 248,
+      "primary_rows": 262
+    },
+    {
+      "name": "packet-4-null-07",
+      "compatible": false,
+      "groups": 252,
+      "primary_rows": 262
+    },
+    {
+      "name": "packet-4-null-08",
+      "compatible": false,
+      "groups": 254,
+      "primary_rows": 262
+    },
+    {
+      "name": "packet-4-null-09",
+      "compatible": false,
+      "groups": 255,
+      "primary_rows": 262
+    },
+    {
+      "name": "packet-4-null-10",
+      "compatible": false,
+      "groups": 249,
+      "primary_rows": 262
+    },
+    {
+      "name": "packet-4-null-11",
+      "compatible": false,
+      "groups": 248,
+      "primary_rows": 262
+    },
+    {
+      "name": "packet-4-null-12",
+      "compatible": false,
+      "groups": 251,
+      "primary_rows": 262
+    },
+    {
+      "name": "packet-4-null-13",
+      "compatible": false,
+      "groups": 257,
+      "primary_rows": 262
+    },
+    {
+      "name": "packet-4-null-14",
+      "compatible": false,
+      "groups": 255,
+      "primary_rows": 262
+    },
+    {
+      "name": "packet-4-null-15",
+      "compatible": false,
+      "groups": 249,
+      "primary_rows": 262
+    },
+    {
+      "name": "packet-4-null-16",
+      "compatible": false,
+      "groups": 255,
+      "primary_rows": 262
+    },
+    {
+      "name": "packet-4-null-17",
+      "compatible": false,
+      "groups": 256,
+      "primary_rows": 262
+    },
+    {
+      "name": "packet-4-null-18",
+      "compatible": false,
+      "groups": 251,
+      "primary_rows": 262
+    },
+    {
+      "name": "packet-5-main",
+      "compatible": false,
+      "groups": 269,
+      "primary_rows": 273
+    },
+    {
+      "name": "packet-5-null-00",
+      "compatible": false,
+      "groups": 270,
+      "primary_rows": 273
+    },
+    {
+      "name": "packet-5-null-01",
+      "compatible": false,
+      "groups": 263,
+      "primary_rows": 273
+    },
+    {
+      "name": "packet-5-null-02",
+      "compatible": false,
+      "groups": 264,
+      "primary_rows": 273
+    },
+    {
+      "name": "packet-5-null-03",
+      "compatible": false,
+      "groups": 263,
+      "primary_rows": 273
+    },
+    {
+      "name": "packet-5-null-04",
+      "compatible": false,
+      "groups": 263,
+      "primary_rows": 273
+    },
+    {
+      "name": "packet-5-null-05",
+      "compatible": false,
+      "groups": 258,
+      "primary_rows": 273
+    },
+    {
+      "name": "packet-5-null-06",
+      "compatible": false,
+      "groups": 253,
+      "primary_rows": 273
+    },
+    {
+      "name": "packet-5-null-07",
+      "compatible": false,
+      "groups": 263,
+      "primary_rows": 273
+    },
+    {
+      "name": "packet-5-null-08",
+      "compatible": false,
+      "groups": 260,
+      "primary_rows": 273
+    },
+    {
+      "name": "packet-5-null-09",
+      "compatible": false,
+      "groups": 264,
+      "primary_rows": 273
+    },
+    {
+      "name": "packet-5-null-10",
+      "compatible": false,
+      "groups": 261,
+      "primary_rows": 273
+    },
+    {
+      "name": "packet-5-null-11",
+      "compatible": false,
+      "groups": 262,
+      "primary_rows": 273
+    },
+    {
+      "name": "packet-5-null-12",
+      "compatible": false,
+      "groups": 263,
+      "primary_rows": 273
+    },
+    {
+      "name": "packet-5-null-13",
+      "compatible": false,
+      "groups": 260,
+      "primary_rows": 273
+    },
+    {
+      "name": "packet-5-null-14",
+      "compatible": false,
+      "groups": 254,
+      "primary_rows": 273
+    },
+    {
+      "name": "packet-5-null-15",
+      "compatible": false,
+      "groups": 262,
+      "primary_rows": 273
+    },
+    {
+      "name": "packet-5-null-16",
+      "compatible": false,
+      "groups": 266,
+      "primary_rows": 273
+    },
+    {
+      "name": "packet-5-null-17",
+      "compatible": false,
+      "groups": 261,
+      "primary_rows": 273
+    },
+    {
+      "name": "packet-5-null-18",
+      "compatible": false,
+      "groups": 261,
+      "primary_rows": 273
+    },
+    {
+      "name": "packet-6-main",
+      "compatible": false,
+      "groups": 74,
+      "primary_rows": 76
+    },
+    {
+      "name": "packet-6-null-00",
+      "compatible": false,
+      "groups": 73,
+      "primary_rows": 76
+    },
+    {
+      "name": "packet-6-null-01",
+      "compatible": false,
+      "groups": 70,
+      "primary_rows": 76
+    },
+    {
+      "name": "packet-6-null-02",
+      "compatible": false,
+      "groups": 73,
+      "primary_rows": 76
+    },
+    {
+      "name": "packet-6-null-03",
+      "compatible": false,
+      "groups": 71,
+      "primary_rows": 76
+    },
+    {
+      "name": "packet-6-null-04",
+      "compatible": false,
+      "groups": 72,
+      "primary_rows": 76
+    },
+    {
+      "name": "packet-6-null-05",
+      "compatible": false,
+      "groups": 74,
+      "primary_rows": 76
+    },
+    {
+      "name": "packet-6-null-06",
+      "compatible": false,
+      "groups": 72,
+      "primary_rows": 76
+    },
+    {
+      "name": "packet-6-null-07",
+      "compatible": false,
+      "groups": 71,
+      "primary_rows": 76
+    },
+    {
+      "name": "packet-6-null-08",
+      "compatible": false,
+      "groups": 73,
+      "primary_rows": 76
+    },
+    {
+      "name": "packet-6-null-09",
+      "compatible": false,
+      "groups": 74,
+      "primary_rows": 76
+    },
+    {
+      "name": "packet-6-null-10",
+      "compatible": false,
+      "groups": 58,
+      "primary_rows": 76
+    },
+    {
+      "name": "packet-6-null-11",
+      "compatible": false,
+      "groups": 69,
+      "primary_rows": 76
+    },
+    {
+      "name": "packet-6-null-12",
+      "compatible": false,
+      "groups": 74,
+      "primary_rows": 76
+    },
+    {
+      "name": "packet-6-null-13",
+      "compatible": false,
+      "groups": 70,
+      "primary_rows": 76
+    },
+    {
+      "name": "packet-6-null-14",
+      "compatible": false,
+      "groups": 74,
+      "primary_rows": 76
+    },
+    {
+      "name": "packet-6-null-15",
+      "compatible": false,
+      "groups": 74,
+      "primary_rows": 76
+    },
+    {
+      "name": "packet-6-null-16",
+      "compatible": false,
+      "groups": 72,
+      "primary_rows": 76
+    },
+    {
+      "name": "packet-6-null-17",
+      "compatible": false,
+      "groups": 74,
+      "primary_rows": 76
+    },
+    {
+      "name": "packet-6-null-18",
+      "compatible": true,
+      "groups": 1,
+      "primary_rows": 76
+    }
+  ],
+  "seconds": 5.885343074798584
+}

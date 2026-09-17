@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/worker-s/s19_summary.py", line 14, in <module>
+    assert raw[w['start']:w['end']]==w['text'];ids,spans=parse(w['text'],w['start']);assert ids==w['runes'] and spans==w['rune_char_spans'];flat+=ids
+                                                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

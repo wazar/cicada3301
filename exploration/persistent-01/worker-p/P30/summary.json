@@ -1,0 +1,97 @@
+{
+  "controls": [
+    {
+      "truth_id": "clue:000:0:-1",
+      "truth_key_rank": 1,
+      "truth_score": -2.2641914903243716,
+      "truth_path_rank_in_correct_cell": 1,
+      "first_truth_pruned": null,
+      "selected_rune_errors": 0,
+      "correct_cell_errors": 0,
+      "selected_id": "clue:000:0:-1",
+      "name": "0_welcome",
+      "length": 515,
+      "doublets": 22
+    },
+    {
+      "truth_id": "clue:005:1:1",
+      "truth_key_rank": 1,
+      "truth_score": -2.0614024146659866,
+      "truth_path_rank_in_correct_cell": 1,
+      "first_truth_pruned": null,
+      "selected_rune_errors": 0,
+      "correct_cell_errors": 0,
+      "selected_id": "clue:005:1:1",
+      "name": "jpg107-167",
+      "length": 319,
+      "doublets": 12
+    },
+    {
+      "truth_id": "clue:010:2:-1",
+      "truth_key_rank": 1,
+      "truth_score": -2.475484466936424,
+      "truth_path_rank_in_correct_cell": 1,
+      "first_truth_pruned": null,
+      "selected_rune_errors": 0,
+      "correct_cell_errors": 0,
+      "selected_id": "clue:010:2:-1",
+      "name": "p56_an_end",
+      "length": 85,
+      "doublets": 6
+    },
+    {
+      "truth_id": "clue:015:3:1",
+      "truth_key_rank": 1,
+      "truth_score": -2.287929477802066,
+      "truth_path_rank_in_correct_cell": 1,
+      "first_truth_pruned": null,
+      "selected_rune_errors": 0,
+      "correct_cell_errors": 0,
+      "selected_id": "clue:015:3:1",
+      "name": "p57_parable",
+      "length": 95,
+      "doublets": 5
+    }
+  ],
+  "actual": [
+    {
+      "packet": 4,
+      "name": "original0",
+      "n": 262,
+      "boundaries": 59,
+      "nulls": 19,
+      "maximum": -4.505815693543427,
+      "tail": 0.8,
+      "control": null,
+      "seconds": 24.29700987499382
+    },
+    {
+      "packet": 5,
+      "name": "original17",
+      "n": 273,
+      "boundaries": 69,
+      "nulls": 19,
+      "maximum": -4.48776028732758,
+      "tail": 0.25,
+      "control": null,
+      "seconds": 19.557707374995516
+    },
+    {
+      "packet": 6,
+      "name": "original55",
+      "n": 76,
+      "boundaries": 17,
+      "nulls": 19,
+      "maximum": -4.361763913766497,
+      "tail": 0.25,
+      "control": null,
+      "seconds": 1.3010309999954188
+    }
+  ],
+  "searches": 64,
+  "cells": 10368,
+  "paths": 139968,
+  "expansions": 79062804,
+  "search_seconds": 48.66873858297913,
+  "compressed_bytes": 11462463
+}

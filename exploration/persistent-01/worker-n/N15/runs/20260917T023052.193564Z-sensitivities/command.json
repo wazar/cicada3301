@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-n/N15/n15.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "da17689d77e8c830bd42e8bfd66ee8ff17718605",
+  "started_utc": "2026-09-17T02:30:52.202766+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N14/MANIFEST.json",
+      "exists": true,
+      "bytes": 10979,
+      "sha256": "c035f0aa26cb3c36fc48a62bc4c31b291c2355a97e8b0ef432bdf65548f64c93"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N14/maps.json",
+      "exists": true,
+      "bytes": 178295,
+      "sha256": "1ffa351deabaede19689ab0a47984c27133a1247578c6d884a94fb1cb77b9681"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N15/CARD.md",
+      "exists": true,
+      "bytes": 1252,
+      "sha256": "5e75c67dc4c313dd41dd00aa630851c4ac93cf09d7c8d9c725bda7389c32ba8e"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N15/n15.py",
+      "exists": true,
+      "bytes": 1690,
+      "sha256": "a4a27865e144780e5ee7085d0a7db72547b2481628c43356c3efb9f02e18288c"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 15306,
+  "finished_utc": "2026-09-17T02:30:53.575783+00:00",
+  "duration_seconds": 1.3728079170032288
+}

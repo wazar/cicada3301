@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/review-64/audit.py", line 20, in <module>
+    a=start+m.start();b=start+m.end();p,sp=parse(m.group(),a);assert (a,b)==(w['start'],w['end']) and m.group().upper()==w['text'] and p==w['runes'] and sp==w['rune_char_spans'];flat.extend(p)
+                                                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

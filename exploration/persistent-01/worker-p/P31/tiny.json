@@ -1,0 +1,74 @@
+[
+  {
+    "alphabet": 2,
+    "n": 1,
+    "inputs": 2,
+    "valid": 2
+  },
+  {
+    "alphabet": 2,
+    "n": 2,
+    "inputs": 4,
+    "valid": 3
+  },
+  {
+    "alphabet": 2,
+    "n": 3,
+    "inputs": 8,
+    "valid": 4
+  },
+  {
+    "alphabet": 2,
+    "n": 4,
+    "inputs": 16,
+    "valid": 6
+  },
+  {
+    "alphabet": 2,
+    "n": 5,
+    "inputs": 32,
+    "valid": 8
+  },
+  {
+    "alphabet": 2,
+    "n": 6,
+    "inputs": 64,
+    "valid": 14
+  },
+  {
+    "alphabet": 2,
+    "n": 7,
+    "inputs": 128,
+    "valid": 20
+  },
+  {
+    "alphabet": 3,
+    "n": 1,
+    "inputs": 3,
+    "valid": 3
+  },
+  {
+    "alphabet": 3,
+    "n": 2,
+    "inputs": 9,
+    "valid": 6
+  },
+  {
+    "alphabet": 3,
+    "n": 3,
+    "inputs": 27,
+    "valid": 11
+  },
+  {
+    "alphabet": 3,
+    "n": 4,
+    "inputs": 81,
+    "valid": 24
+  },
+  {
+    "alphabet": 3,
+    "n": 5,
+    "inputs": 243,
+    "valid": 51
+  }
+]

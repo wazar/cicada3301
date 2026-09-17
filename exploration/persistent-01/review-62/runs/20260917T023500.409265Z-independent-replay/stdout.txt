@@ -1,0 +1,8 @@
+packet 0 paths 2592
+packet 1 paths 5184
+packet 2 paths 7776
+packet 3 paths 10368
+packet 4 paths 62208
+packet 5 paths 114048
+packet 6 paths 139968
+{'pass': True, 'cells': 10368, 'paths': 139968, 'expansions': 79062804, 'max_score_error': 9.769962616701378e-15, 'beam_replays': [{'packet': 0, 'id': 'clue:000:0:-1', 'diagnostics': {'expanded': 31728, 'first_truth_pruned': None}}, {'packet': 1, 'id': 'clue:005:1:1', 'diagnostics': {'expanded': 2730, 'first_truth_pruned': None}}, {'packet': 2, 'id': 'clue:010:2:-1', 'diagnostics': {'expanded': 4474, 'first_truth_pruned': None}}, {'packet': 3, 'id': 'clue:015:3:1', 'diagnostics': {'expanded': 750, 'first_truth_pruned': None}}, {'packet': 4, 'id': 'clue:002:1:-1', 'diagnostics': {'expanded': 12567, 'first_truth_pruned': None}}, {'packet': 5, 'id': 'clue:010:1:-1', 'diagnostics': {'expanded': 9472, 'first_truth_pruned': None}}, {'packet': 6, 'id': 'clue:002:2:-1', 'diagnostics': {'expanded': 379, 'first_truth_pruned': None}}], 'tiny_cases': 100, 'actual': [{'packet': 4, 'tail': 0.8}, {'packet': 5, 'tail': 0.25}, {'packet': 6, 'tail': 0.25}]}

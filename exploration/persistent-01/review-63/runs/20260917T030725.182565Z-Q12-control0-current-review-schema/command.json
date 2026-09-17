@@ -1,0 +1,60 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-63/check.py",
+    "panel",
+    "control0"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "131367dda364258dfaf16f9c916453dfd04bbc48",
+  "started_utc": "2026-09-17T03:07:25.192172+00:00",
+  "timeout_seconds": 120,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q12-sum-autokey/CONTROL-AMENDMENT.md",
+      "exists": true,
+      "bytes": 563,
+      "sha256": "336253478d79d53f968e05c87ba32008d18d0ef0382ee19cd5e92ab57ed4db55"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q12-sum-autokey/control0.json",
+      "exists": true,
+      "bytes": 102068,
+      "sha256": "33b049828b81e47e0c58240b1494ba503dffdd0ac7dca58f20a15db56225ba5c"
+    },
+    {
+      "path": "exploration/persistent-01/review-63/aggregate.py",
+      "exists": true,
+      "bytes": 2818,
+      "sha256": "b55bec90425ba00118f4079610f6a7c4170b1aad251165f2fba233e22ede8875"
+    },
+    {
+      "path": "exploration/persistent-01/review-63/check.py",
+      "exists": true,
+      "bytes": 8979,
+      "sha256": "9ac091bafcd50ae76840aae975b3b8bef90c1a12e89ab08b8d0e30d08be06b71"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 19350,
+  "finished_utc": "2026-09-17T03:07:27.808974+00:00",
+  "duration_seconds": 2.6165312499942956
+}

@@ -1,0 +1,333 @@
+{
+  "P20_witness_extensions": [
+    {
+      "page": 0,
+      "old_P20_gap_map": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1
+      ],
+      "extended_trit_map": [
+        2,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
+        2,
+        0,
+        2
+      ],
+      "trits": "..g....g.gg.....gg.g....g.gg.gg....g....g..gg.g..g.g.g.gg.g..g.g.gg..g...g.g...g.g..g...g.gg....g.....g.g..g..gg...g.g.....gg.gg.gg....g...gg...gg....g...g..g....g..gg.g....g..gg.gg..g..g.gg...g....gg.g.g....g.gg...gg....g...g..g.g..g....g.g..g.g.g.gg.gg.g..g.g.",
+      "old_status": "SAT"
+    },
+    {
+      "page": 1,
+      "old_P20_gap_map": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "extended_trit_map": [
+        0,
+        2,
+        2,
+        2,
+        0,
+        2,
+        0,
+        2,
+        0,
+        2,
+        0,
+        2,
+        2,
+        0,
+        2,
+        0,
+        2,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "trits": "g.g.g...gg....g.....gg.g...g.g..g.g....g...g.g.g.....gg.....g....g..g....g.g.gg...g.gg..gg.gg.g....g....gg.g....gg.g.g...g..g..gg....g.g..g.g....gg.g.gg..g.g.....g.g...gg..g.g.....gg..g.g.g.gg...gg.g.gg.g.gg.g..g....g.g..g....g.g..gg....g.gg.g.gg...g..gg..g.g..g..g.",
+      "old_status": "SAT"
+    }
+  ],
+  "all_SAT_extensions": [
+    {
+      "name": "actual-0.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "actual-1.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "control-0.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "control-1.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "control-2.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "control-3.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "null-0-0.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "null-1-0.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "null-1-1.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "null-10-0.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "null-12-1.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "null-14-0.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "null-14-1.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "null-15-0.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "null-16-0.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "null-17-0.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "null-17-1.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "null-2-0.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "null-3-1.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "null-4-0.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "null-4-1.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "null-6-0.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "null-8-0.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "null-8-1.json.gz",
+      "nongap_to_all_dot_extension_valid": true,
+      "used_trit_classes": [
+        0,
+        2
+      ]
+    }
+  ],
+  "lemma": "Full fixed Morse grammar feasibility iff no-three-gaps/no-six-marks feasibility when dot/dash classes need not both be nonempty; .^1..5 are all codewords."
+}

@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/coordinator/Q12-sum-autokey/test.py", line 72, in <module>
+    for i in range(4):search(packet(i))
+                             ^^^^^^^^^
+  File "<REPO_ROOT>/exploration/persistent-01/coordinator/Q12-sum-autokey/test.py", line 27, in packet
+    path=R/'audit/parallel-01/reference/sources'/('solved_'+p03.CHECK[ix]+'.txt');raw=path.read_text();p,ends=p03.parse(raw);k=[2,3,4,4][ix];rng=random.Random(612100+ix);seed=[rng.randrange(29) for _ in range(k)];assert len(set(seed))>1
+                                                                                                                                                                                                                            ^^^^^^^^^^^^^^^^
+AssertionError
