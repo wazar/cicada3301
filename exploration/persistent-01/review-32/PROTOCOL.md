@@ -1,0 +1,1 @@
+Review32: independent integer-assignment proof-tree verifier, source-window clause reconstruction, small exhaustive truth tables, known-source and RNG/emission maps. No solver rerun, dot/dash search, expanded grammar, reserves/Git/shared modifications. Standard logger oneCPU <=900seconds/original deadline.

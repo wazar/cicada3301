@@ -1,0 +1,1 @@
+Independent600panel/19200lag replay, allsourcecycled controls and exactmask RNG, prefix255sentinels and source-coordinate ranges, categoricaltraining estimates and fullheld32choice maxima. No sources/lags/signs/models expanded, no scientificrepair, reserve/Git/shared edits. OneCPU/logged<=900s/originaldeadline.

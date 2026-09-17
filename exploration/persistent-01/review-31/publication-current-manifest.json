@@ -1,0 +1,80 @@
+{
+  "scope": "Current publication bytes; previous manifests are original snapshot identities.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/review-31/MANIFEST.json",
+      "bytes": 2214,
+      "sha256": "721be123b736c7be50befb4f2c4d941ea2452be94f3873351bb947a2722046d6"
+    },
+    {
+      "path": "exploration/persistent-01/review-31/PROTOCOL.md",
+      "bytes": 229,
+      "sha256": "7cec0ac47e189bb71f15b98edcf42d1af2eef580e609cf58cb78f4864909c734"
+    },
+    {
+      "path": "exploration/persistent-01/review-31/REPORT.md",
+      "bytes": 1884,
+      "sha256": "23c3dfe7e6d685d5ddf820e43ab3942d94e0bead7bd7fcec4b64e66cfa39dab1"
+    },
+    {
+      "path": "exploration/persistent-01/review-31/check.py",
+      "bytes": 3560,
+      "sha256": "f56a6ad401223561932a3aac30a27d0bf038d0f4d644424f1d3c68833a646f9a"
+    },
+    {
+      "path": "exploration/persistent-01/review-31/inputs.json",
+      "bytes": 696,
+      "sha256": "b050b90554ad7e242dbea058ce37b9fbc18a1fa929d1ad969110d4e7a6e28be5"
+    },
+    {
+      "path": "exploration/persistent-01/review-31/result.json",
+      "bytes": 186,
+      "sha256": "17a7120e05f78c93c1dfd35d7ff2f29bd09b33007ef3bd28e0a7ae7541866bbb"
+    },
+    {
+      "path": "exploration/persistent-01/review-31/runs/20260917T003615.699224Z-endpoint-closure-and-controls/code/exploration/persistent-01/review-31/check.py",
+      "bytes": 3560,
+      "sha256": "f56a6ad401223561932a3aac30a27d0bf038d0f4d644424f1d3c68833a646f9a"
+    },
+    {
+      "path": "exploration/persistent-01/review-31/runs/20260917T003615.699224Z-endpoint-closure-and-controls/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-31/runs/20260917T003615.699224Z-endpoint-closure-and-controls/code/exploration/persistent-01/worker-s/s04.py",
+      "bytes": 4242,
+      "sha256": "45c643e7a1e43abc4cb3e8b0cef26c4afabc12c1bc52dfb5fd91ae88d5b5819d"
+    },
+    {
+      "path": "exploration/persistent-01/review-31/runs/20260917T003615.699224Z-endpoint-closure-and-controls/command.json",
+      "bytes": 1546,
+      "sha256": "d9b82f9074ae0b88855058043b6c2d67b973e110461b48652fdb66139e1f0cc1"
+    },
+    {
+      "path": "exploration/persistent-01/review-31/runs/20260917T003615.699224Z-endpoint-closure-and-controls/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-31/runs/20260917T003615.699224Z-endpoint-closure-and-controls/stdout.txt",
+      "bytes": 149,
+      "sha256": "f2d7470c79c4f9bb388cd706fe13c898a27e6be2fc855838d3a17282a0e77fe9"
+    },
+    {
+      "path": "exploration/persistent-01/review-31/snapshots/F06-maps.json",
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-01/review-31/snapshots/S04-CARD.md",
+      "bytes": 2316,
+      "sha256": "f6cbcca22cacc7626299f81cfd8eb14c18cd4f152e1ec8297c1ea8123e01013c"
+    },
+    {
+      "path": "exploration/persistent-01/review-31/snapshots/s04.py",
+      "bytes": 4242,
+      "sha256": "45c643e7a1e43abc4cb3e8b0cef26c4afabc12c1bc52dfb5fd91ae88d5b5819d"
+    }
+  ]
+}

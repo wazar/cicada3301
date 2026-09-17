@@ -1,0 +1,151 @@
+{
+  "seed": 1709202605,
+  "input_sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b",
+  "tiny_systems": 100,
+  "tiny_assignments": 1600,
+  "hidden_bijection_controls": 100,
+  "control_pages": 200,
+  "fixtures": [
+    {
+      "prime": 2,
+      "leading_zero_digits": [
+        0,
+        0,
+        2
+      ],
+      "eligible": false
+    },
+    {
+      "prime": 3,
+      "leading_zero_digits": [
+        0,
+        0,
+        3
+      ],
+      "eligible": false
+    },
+    {
+      "prime": 5,
+      "leading_zero_digits": [
+        0,
+        0,
+        5
+      ],
+      "eligible": false
+    },
+    {
+      "prime": 29,
+      "leading_zero_digits": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "eligible": false
+    },
+    {
+      "prime": 31,
+      "leading_zero_digits": [
+        0,
+        0,
+        1,
+        2
+      ],
+      "eligible": true
+    },
+    {
+      "prime": 101,
+      "leading_zero_digits": [
+        0,
+        0,
+        3,
+        14
+      ],
+      "eligible": true
+    },
+    {
+      "prime": 1009,
+      "leading_zero_digits": [
+        0,
+        0,
+        1,
+        5,
+        23
+      ],
+      "eligible": true
+    },
+    {
+      "prime": 10007,
+      "leading_zero_digits": [
+        0,
+        0,
+        11,
+        26,
+        2
+      ],
+      "eligible": true
+    },
+    {
+      "prime": 65537,
+      "leading_zero_digits": [
+        0,
+        0,
+        2,
+        19,
+        26,
+        26
+      ],
+      "eligible": true
+    }
+  ],
+  "real": [
+    {
+      "page": 0,
+      "eligible_words": 49,
+      "excluded_words": 10,
+      "rank": 29,
+      "feasible": false,
+      "witness_words": [
+        0,
+        2,
+        4,
+        6,
+        7,
+        10,
+        11,
+        12,
+        13,
+        18,
+        19,
+        20,
+        22,
+        24,
+        29,
+        31,
+        34
+      ],
+      "cardinality_test_run": false
+    },
+    {
+      "page": 1,
+      "eligible_words": 47,
+      "excluded_words": 16,
+      "rank": 29,
+      "feasible": false,
+      "witness_words": [
+        1,
+        2,
+        3,
+        4,
+        14,
+        16,
+        27,
+        28,
+        30,
+        36,
+        37
+      ],
+      "cardinality_test_run": false
+    }
+  ]
+}

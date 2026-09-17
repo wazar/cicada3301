@@ -1,0 +1,13 @@
+# Review34 — P21 literal circumference deletion
+
+PASS. Independently rebuilt the frozen rune/boundary LM from its five source texts and reconstructed all2,800 complete control/actual/null outputs, origin draws, source maps and scores. The999 two-page null maxima give759 exceedances and the reported add-one tail .760. Full replay passed in .73 seconds without failures or production imports.
+
+The decoder retains exactly the strict interior of each F06 unit, removing two endpoints when length>=3 and emitting nothing for lengths1/2. Actual page0 retains147/discards115 runes with10 empty units; page17 retains140/discards133 with19 empty units. Every original rune occurs exactly once in kept/discarded source maps. Nonempty outputs retain one final boundary token each; vanished units contribute no token. These distinctions reproduce the actual score denominators and all short-unit behavior.
+
+The independently reconstructed LM starts at boundary context(29,29), uses alphabet30 (29 runes plus boundary), unigram pseudocount .5, and interpolation strengths8/5 for bigram/trigram contexts. Scores are total natural log probability divided by rune-plus-boundary token count, not rune count alone. Training counters come only from the declared five sources; four wrapping controls are separate held groups. No scorer refit or extraction choice depends on actual scores.
+
+All four complete wrapping controls regenerate exactly and recover their original rune words and boundaries; each tail is .005 against199 independently drawn origin panels. Their carriers have original word length+2 and no length1/2 units, so they do not calibrate actual short-unit information loss. Controls validate this construction at their source lengths/registers, not all possible meanings of the parable.
+
+Actual cyclic-origin simulations preserve each full unit's length, multiset and circular ordering before applying identical trimming/scoring. The observed maximum over both pages is reproduced inside every null panel; no page is selected without accounting in that statistic. Uniform origin exchangeability remains a substantive assumption, and these are reused discovery pages. The complete saved transliterations were read: neither supplies a coherent full plaintext candidate. That qualitative inspection is not a substitute for validation and no fragments were promoted.
+
+This is one literal deletion-as-complete-decoder test under a specific English rune/boundary scorer. It does not exclude unsupported languages, encoded intermediate output, another unit granularity or the broader parable interpretation. No repeated center extraction, key operation, alternate null or post-result variant was run.

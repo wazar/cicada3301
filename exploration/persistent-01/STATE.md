@@ -6,12 +6,12 @@ Start: **2026-09-16 19:30:37 UTC /21:30:37 SAST**. Fixed deadline: **2026-09-17 
 
 ## Current assignments
 
-Recorded at 2026-09-17T00:51:49.550318+00:00
+Recorded at 2026-09-17T01:06:15.348366+00:00
 
-- **persistent_p**: P22: bounded delayed ciphertext-feedback categorical predictor, lags1–32, qualified conditional-mask nulls and source-backed controls; existing additive method extension, no new-family claim.
-- **persistent_s**: S07 ornament correspondence complete; independent review35 checks the observed page0 top-loop difference before a bounded nuisance/shape follow-up. S01–S06 exact/conditional results frozen.
-- **persistent_n**: Review35 source ornament crops, registrations and controls; reviews30–34 completed. No payload interpretation from pixel discrepancy.
-- **coordinator**: Sole direct controller: publish reviewed checkpoint15, coordinate next artifact-specific test and maintain original deadline.
+- **persistent_p**: P23 canonical greedy Latin-to-GP renderer membership, all aliases and exact impossible-pair certificates; controls/real0–1 complete, report freezing. Next different model selected after review.
+- **persistent_s**: S09 two-template loop classification completed on eligible p2 crops;3/5/6 noncomparable. S10 redirected to a new explicit generative/representation mechanism, no more ornament nuisance fitting.
+- **persistent_n**: Review38 independently checks S09 source eligibility and two-template classification; reviews30–37 completed.
+- **coordinator**: Sole direct controller: publish reviewed checkpoint16, select next discriminating tests and preserve original deadline.
 
 ## Evidence and allocation
 
@@ -21,12 +21,14 @@ Checkpoint14 includes P17 source identification/signature-length miss, P18 full 
 
 Checkpoint15 publishes reviewed R07 boundary-echo comparison (tail .23), Q04-prefix shallow binary transport mismatch (lower-tail .002,5,306 nonforced held decisions), and P19 visual-similarity model. P19's two failed null qualifications remain unknown; conservative rank interval .12–.14, no qualified exact tail. Reviews27–29 check the corresponding full records.
 
-Newer completed work awaits the next publication: S01 weak word-memory signal with limited soft-control power; S03 no shared length>=3 word bags on0/1; S04 exact one-vertex edge-graph collapse; S05 all-label prime-parity contradictions; S06 forced dictionary size44/42; P20 shared Morse-gap mapping UNSAT but each page SAT; P21 literal word-interior extraction tail .760. Reviews30–34 are complete. These are conditional/invariant bounds, not a general cipher closure.
+Checkpoint16 publishes S01–S08 and P20–P22 with reviews30–37. Tested alternatives include per-word memory, word-bag codes, runes as fixed graph edges, all-word prime representations, 2/3-rune code dictionaries, Morse-gap grammar, literal word-interior extraction, and omitted ornament structure. Exact incompatibilities are confined to each stated model; statistical misses retain control-power/null limitations. P22 is an existing additive-feedback extension, not an alternative-family claim; matched full32-lag rank .255.
 
-S07 observes closely corresponding half-turned crosses and identical cross-page bottom loops, while page0's top loop differs under the tested translations. Its initial contaminated crop and correction are preserved; this is a source-level observation awaiting independent review, not a message candidate. Next executable actions: P22 full conditional controls then frozen32-lag comparison; freeze an artifact-specific nuisance/shape test only after review35 checks the loop difference. The latter must retain the original translation-only finding and avoid treating fitted similarity as payload evidence.
+S08's prescribed rotation/half-pixel family does not explain p0's top-loop discrepancy. Independent review37 reproduces every fit; no payload inference. S09 subsequently finds exact decoded-grayscale reuse of p1/p2 top loops and all0/1/2 bottom loops; p0top variant does not recur in its small eligible set. Review38 is active; no further transform family is being added to rescue the discrepancy.
+
+Next executable actions: P23 exact full-alias rendering certificates and independent review; S10 implement a distinct falsifiable generative/representation model on F06 discovery units after a narrow prior-scope check. The image lane has been redirected because more nuisance fitting alone would not identify meaning. Both active exploratory lanes challenge assumptions outside the English scorer/additive-key model; the completed P22 retains a justified existing-method comparison. No promising candidate currently justifies concentration or reserve use.
 
 ## Integrity and limits
 
 Experiment01 remains failed. No credible candidate warrants a reserve reveal. Originals4,9,14,19,24,29,34,39,44,54 remain excluded; earlier E exposure to historical54 vision annotations is recorded as contamination, not pristine holdout. No new image50 inspection; cached corrected256-byte input used by P16/R06 is separately pinned. Exact source mapping, commands, outputs, exit codes, alternative outputs and resume commands remain in per-worker evidence.
 
-Only coordinator writes Git/shared management files. Unrelated macOS setup preserved. Reviewed checkpoint14 evidence and bookkeeping are verified on origin/master at `74e4781fadf3ad98896d80b5bae13b6f1320b6b2`; checkpoint15 publication is in progress. Completed log metadata may normalize checkout prefixes, with original bytes and hash mapping retained locally; frozen scientific source/output bytes are not cosmetically rewritten. See numbered checkpoints for historical results and corrections.
+Only coordinator writes Git/shared management files. Unrelated macOS setup preserved. Reviewed checkpoint15 is verified on origin/master at `998efa7340972cfbdbd4cfbfe6a5a7227ac697d9`; checkpoint16 publication is in progress. Completed log metadata may normalize checkout prefixes, with original bytes and hash mapping retained locally; frozen scientific source/output bytes are not cosmetically rewritten. See numbered checkpoints for historical results and corrections.

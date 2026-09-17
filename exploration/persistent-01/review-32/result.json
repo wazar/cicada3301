@@ -1,0 +1,171 @@
+{
+  "status": "PASS",
+  "small_exhaustive_cases": 200,
+  "proof_nodes_checked": 1077,
+  "proof_leaves_checked": 546,
+  "records": [
+    {
+      "file": "actual-joint.json.gz",
+      "status": "UNSAT",
+      "clauses": 1042,
+      "nodes": 33
+    },
+    {
+      "file": "actual-page-0.json.gz",
+      "status": "SAT",
+      "clauses": 517,
+      "nodes": 59
+    },
+    {
+      "file": "actual-page-1.json.gz",
+      "status": "SAT",
+      "clauses": 525,
+      "nodes": 41
+    },
+    {
+      "file": "alphabet-control.json.gz",
+      "status": "SAT",
+      "clauses": 329,
+      "nodes": 16
+    },
+    {
+      "file": "control-0.json.gz",
+      "status": "SAT",
+      "clauses": 4122,
+      "nodes": 7
+    },
+    {
+      "file": "control-1.json.gz",
+      "status": "SAT",
+      "clauses": 2450,
+      "nodes": 8
+    },
+    {
+      "file": "control-2.json.gz",
+      "status": "SAT",
+      "clauses": 646,
+      "nodes": 19
+    },
+    {
+      "file": "control-3.json.gz",
+      "status": "SAT",
+      "clauses": 710,
+      "nodes": 41
+    },
+    {
+      "file": "null-0.json.gz",
+      "status": "UNSAT",
+      "clauses": 1042,
+      "nodes": 21
+    },
+    {
+      "file": "null-1.json.gz",
+      "status": "UNSAT",
+      "clauses": 1042,
+      "nodes": 25
+    },
+    {
+      "file": "null-10.json.gz",
+      "status": "UNSAT",
+      "clauses": 1042,
+      "nodes": 29
+    },
+    {
+      "file": "null-11.json.gz",
+      "status": "UNSAT",
+      "clauses": 1042,
+      "nodes": 19
+    },
+    {
+      "file": "null-12.json.gz",
+      "status": "UNSAT",
+      "clauses": 1042,
+      "nodes": 21
+    },
+    {
+      "file": "null-13.json.gz",
+      "status": "UNSAT",
+      "clauses": 1042,
+      "nodes": 27
+    },
+    {
+      "file": "null-14.json.gz",
+      "status": "UNSAT",
+      "clauses": 1042,
+      "nodes": 17
+    },
+    {
+      "file": "null-15.json.gz",
+      "status": "UNSAT",
+      "clauses": 1042,
+      "nodes": 21
+    },
+    {
+      "file": "null-16.json.gz",
+      "status": "UNSAT",
+      "clauses": 1042,
+      "nodes": 23
+    },
+    {
+      "file": "null-17.json.gz",
+      "status": "UNSAT",
+      "clauses": 1042,
+      "nodes": 25
+    },
+    {
+      "file": "null-18.json.gz",
+      "status": "UNSAT",
+      "clauses": 1042,
+      "nodes": 29
+    },
+    {
+      "file": "null-2.json.gz",
+      "status": "UNSAT",
+      "clauses": 1042,
+      "nodes": 19
+    },
+    {
+      "file": "null-3.json.gz",
+      "status": "UNSAT",
+      "clauses": 1042,
+      "nodes": 27
+    },
+    {
+      "file": "null-4.json.gz",
+      "status": "UNSAT",
+      "clauses": 1042,
+      "nodes": 29
+    },
+    {
+      "file": "null-5.json.gz",
+      "status": "UNSAT",
+      "clauses": 1042,
+      "nodes": 27
+    },
+    {
+      "file": "null-6.json.gz",
+      "status": "UNSAT",
+      "clauses": 1042,
+      "nodes": 39
+    },
+    {
+      "file": "null-7.json.gz",
+      "status": "UNSAT",
+      "clauses": 1042,
+      "nodes": 17
+    },
+    {
+      "file": "null-8.json.gz",
+      "status": "UNSAT",
+      "clauses": 1042,
+      "nodes": 29
+    },
+    {
+      "file": "null-9.json.gz",
+      "status": "UNSAT",
+      "clauses": 1042,
+      "nodes": 31
+    }
+  ],
+  "joint_proof_distinct_source_clauses": 215
+}

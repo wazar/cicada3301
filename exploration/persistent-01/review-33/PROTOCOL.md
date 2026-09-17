@@ -1,0 +1,1 @@
+Independent S05 dense Boolean elimination and deletion-minimal XOR witnesses; S06 exhaustive cut-mask tilings and forced-token certificates; exact source maps and control RNG. No unexecuted cardinality search expansion, new bases/lengths, reserves/Git/shared edits. One CPU standard logged <=900 seconds/original deadline.

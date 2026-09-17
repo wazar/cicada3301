@@ -1,0 +1,31 @@
+{
+  "seed": 1709202604,
+  "input_sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b",
+  "tiny_cases": 30,
+  "tiny_assignments": 7680,
+  "graphs": 60,
+  "control_page_walks": 120,
+  "controls_nontrivial": 120,
+  "real": [
+    {
+      "page": 0,
+      "used_labels": 29,
+      "constraints": 203,
+      "spanning_witness_edges": 57,
+      "all_component_sizes": [
+        58
+      ],
+      "max_used_vertices": 1
+    },
+    {
+      "page": 1,
+      "used_labels": 29,
+      "constraints": 203,
+      "spanning_witness_edges": 57,
+      "all_component_sizes": [
+        58
+      ],
+      "max_used_vertices": 1
+    }
+  ]
+}

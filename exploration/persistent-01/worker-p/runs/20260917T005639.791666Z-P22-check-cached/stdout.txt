@@ -1,0 +1,31 @@
+{
+  "pass_all": true,
+  "panels": 600,
+  "lag_fits": 19200,
+  "random_draws": 6053126,
+  "maximum_score_error": 5.551115123125783e-17,
+  "actual_tail": 0.255,
+  "controls": [
+    {
+      "control": 0,
+      "tail": 0.01,
+      "selected_lag": 1
+    },
+    {
+      "control": 1,
+      "tail": 0.01,
+      "selected_lag": 8
+    },
+    {
+      "control": 2,
+      "tail": 0.01,
+      "selected_lag": 16
+    },
+    {
+      "control": 3,
+      "tail": 0.01,
+      "selected_lag": 32
+    }
+  ]
+}
+

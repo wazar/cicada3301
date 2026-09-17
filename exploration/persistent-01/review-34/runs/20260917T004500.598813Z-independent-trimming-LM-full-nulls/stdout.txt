@@ -1,0 +1,55 @@
+{
+  "status": "PASS",
+  "complete_outputs": 2800,
+  "max_score_error": 6.217248937900877e-15,
+  "control_tails": [
+    0.005,
+    0.005,
+    0.005,
+    0.005
+  ],
+  "actual": [
+    {
+      "page": 0,
+      "retained": 147,
+      "discarded": 115,
+      "empty": 10,
+      "boundary_tokens": 49,
+      "score": -4.975176948265385,
+      "denominator": 196
+    },
+    {
+      "page": 17,
+      "retained": 140,
+      "discarded": 133,
+      "empty": 19,
+      "boundary_tokens": 50,
+      "score": -4.937650381605094,
+      "denominator": 190
+    }
+  ],
+  "null_panel_exceedances": 759,
+  "tail": 0.76,
+  "training_sources": [
+    {
+      "path": "<REPO_ROOT>/audit/parallel-01/reference/sources/solved_0_warning.txt",
+      "sha256": "c6ca9c1952307bd55866e22b9f868163bca493893162baefdba71cb9e1a206d9"
+    },
+    {
+      "path": "<REPO_ROOT>/audit/parallel-01/reference/sources/solved_0_wisdom.txt",
+      "sha256": "4363dc279d01ac8866011988d0422a31bf608940abccaa37368c689099f52efe"
+    },
+    {
+      "path": "<REPO_ROOT>/audit/parallel-01/reference/sources/solved_0_koan_1.txt",
+      "sha256": "5aaae7ee19dfb46a41d5e10f975b5a252b82b6e18b49116a9f99b31a2fbee06c"
+    },
+    {
+      "path": "<REPO_ROOT>/audit/parallel-01/reference/sources/solved_0_loss_of_divinity.txt",
+      "sha256": "10954c8d61744ceb453e9b553e52cd3e01289d12b727c521e21bc0594f0e0c91"
+    },
+    {
+      "path": "<REPO_ROOT>/audit/parallel-01/reference/sources/solved_jpg229.txt",
+      "sha256": "67635c556f84b1fe8319f0300d4378d8f1dc664d779c1f0f69c4cb272c87c181"
+    }
+  ]
+}

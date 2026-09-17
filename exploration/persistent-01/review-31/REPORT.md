@@ -1,0 +1,9 @@
+# Review31 — fixed directed-edge endpoint proof
+
+PASS. Independently reconstructed every within-unit equality and source-character map on originals0/1, then computed Boolean transitive closure rather than union-find. Each page separately has 203 constraints on all58 used endpoints; each saved57-edge source-linked spanning witness proves a single component. Free resets between units and entirely separate page graphs do not avoid that conclusion.
+
+The bound is exact: every valid vertex assignment must be constant on each connected component of endpoint equalities. Conversely, assigning a distinct formal vertex to each component satisfies every equality. Thus the number of components intersecting used endpoints is the maximum possible number of used vertices. In the actual pages that number is one, forcing every used edge to be a self-loop on the same vertex. Unused external vertices cannot make this observed traversal nontrivial. A spanning forest needs n−c equalities, so57 is a minimum-size connecting certificate for58 endpoints.
+
+Regenerated all60 graph RNG fixtures and120 page walks. Direct closure never merges distinct planted vertices and all controls remain nontrivial. Independently enumerated all7,680 endpoint assignments over30 tiny sequences and confirmed the maximum-component theorem numerically. These checks supplement the proof; they are not its logical foundation.
+
+This is a deterministic incompatibility with a nontrivial fixed rune-labeled directed-edge interpretation under the given transcription and explicit unit boundaries. It does not exclude time-varying endpoints, multiple edges per rune, hidden state, different delimiters or rune-as-node models. No null significance, language inference or global cipher exclusion follows. Replay passed in .25 seconds with no failures or production edits; inputs/code snapshots and hashes retained.

@@ -1,0 +1,90 @@
+{
+  "seed": 1709202606,
+  "source_sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b",
+  "composition_checks": [
+    {
+      "length": 2,
+      "cut_masks": 2,
+      "tilings": 1
+    },
+    {
+      "length": 3,
+      "cut_masks": 4,
+      "tilings": 1
+    },
+    {
+      "length": 4,
+      "cut_masks": 8,
+      "tilings": 1
+    },
+    {
+      "length": 5,
+      "cut_masks": 16,
+      "tilings": 2
+    },
+    {
+      "length": 6,
+      "cut_masks": 32,
+      "tilings": 2
+    },
+    {
+      "length": 7,
+      "cut_masks": 64,
+      "tilings": 3
+    },
+    {
+      "length": 8,
+      "cut_masks": 128,
+      "tilings": 4
+    },
+    {
+      "length": 9,
+      "cut_masks": 256,
+      "tilings": 5
+    },
+    {
+      "length": 10,
+      "cut_masks": 512,
+      "tilings": 7
+    },
+    {
+      "length": 11,
+      "cut_masks": 1024,
+      "tilings": 9
+    },
+    {
+      "length": 12,
+      "cut_masks": 2048,
+      "tilings": 12
+    },
+    {
+      "length": 13,
+      "cut_masks": 4096,
+      "tilings": 16
+    },
+    {
+      "length": 14,
+      "cut_masks": 8192,
+      "tilings": 21
+    }
+  ],
+  "control_dictionaries": 30,
+  "control_pages": 60,
+  "all_controls_accept": true,
+  "real": [
+    {
+      "page": 0,
+      "forced_lower_bound": 44,
+      "rules_out_29": true,
+      "literal_exempt_words": 3,
+      "all_tilings_evaluated": 108
+    },
+    {
+      "page": 1,
+      "forced_lower_bound": 42,
+      "rules_out_29": true,
+      "literal_exempt_words": 1,
+      "all_tilings_evaluated": 107
+    }
+  ]
+}

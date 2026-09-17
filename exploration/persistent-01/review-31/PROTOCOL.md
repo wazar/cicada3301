@@ -1,0 +1,1 @@
+Independent equality closure, minimal spanning certificates, planted RNG walks and exhaustive tiny endpoint assignments. No graph-family expansion, reserve reads, Git/shared edits; logged one CPU <=900 seconds/original deadline.

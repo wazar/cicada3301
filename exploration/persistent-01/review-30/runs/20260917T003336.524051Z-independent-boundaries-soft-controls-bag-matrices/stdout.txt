@@ -1,0 +1,86 @@
+S01/S02 701 panels RNG/offset statistic PASS
+{
+  "status": "PASS",
+  "S01_S02_panels": 701,
+  "S01_control_summary": {
+    "markov": {
+      "p_le_05": 2,
+      "p_le_01": 0
+    },
+    "word_urn": {
+      "p_le_05": 100,
+      "p_le_01": 100
+    }
+  },
+  "S02_summary": {
+    "0": {
+      "p_le_01": 1,
+      "p_le_05": 3
+    },
+    "0.25": {
+      "p_le_01": 5,
+      "p_le_05": 11
+    },
+    "0.5": {
+      "p_le_01": 27,
+      "p_le_05": 53
+    },
+    "0.75": {
+      "p_le_01": 51,
+      "p_le_05": 88
+    },
+    "1": {
+      "p_le_01": 99,
+      "p_le_05": 100
+    }
+  },
+  "strict_witnesses": 25,
+  "strict_violating_words": 21,
+  "S03_matrices": 121,
+  "S03_cells_recomputed": 8432732,
+  "S03_control_summary": {
+    "0": {
+      "n": 30,
+      "p_le_01": 0,
+      "p_le_05": 0,
+      "observed_range": [
+        0,
+        1
+      ]
+    },
+    "2": {
+      "n": 30,
+      "p_le_01": 30,
+      "p_le_05": 30,
+      "observed_range": [
+        2,
+        3
+      ]
+    },
+    "4": {
+      "n": 30,
+      "p_le_01": 30,
+      "p_le_05": 30,
+      "observed_range": [
+        4,
+        5
+      ]
+    },
+    "8": {
+      "n": 30,
+      "p_le_01": 30,
+      "p_le_05": 30,
+      "observed_range": [
+        8,
+        9
+      ]
+    }
+  },
+  "S03_real": {
+    "observed": 0,
+    "p": 1.0,
+    "null_mean": 0.06761177753544166,
+    "null_max": 3,
+    "null_offsets": 69692
+  }
+}

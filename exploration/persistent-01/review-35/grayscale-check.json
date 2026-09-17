@@ -1,0 +1,29 @@
+{
+  "bottom_byte_identical": true,
+  "loops": [
+    {
+      "name": "crosspage-toploop",
+      "MAE": 68.8038808038808
+    },
+    {
+      "name": "crosspage-bottomloop",
+      "MAE": 0.0
+    },
+    {
+      "name": "p0-loop-rotation0",
+      "MAE": 68.91944444444445
+    },
+    {
+      "name": "p0-loop-rotation180",
+      "MAE": 158.96184340931615
+    },
+    {
+      "name": "p1-loop-rotation0",
+      "MAE": 2.9919743178170144
+    },
+    {
+      "name": "p1-loop-rotation180",
+      "MAE": 155.5614973262032
+    }
+  ]
+}

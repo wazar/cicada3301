@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/review-36/layout.py", line 6, in <module>
+    for lag,m in enumerate(row['lags'],1):assert m==dict(lag=lag,unresolved_cipher_prefix=[0,lag],decoded_suffix=[lag,n],feedback_positions=[0,n-lag]);count+=1
+                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

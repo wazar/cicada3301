@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-36/layout.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "998efa7340972cfbdbd4cfbfe6a5a7227ac697d9",
+  "started_utc": "2026-09-17T00:56:51.120457+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-36/check.py",
+      "exists": true,
+      "bytes": 5549,
+      "sha256": "022c37a28b39c630d7d3f9aae0e84c44d6f69fae70889367d0110a170a46025e"
+    },
+    {
+      "path": "exploration/persistent-01/review-36/layout.py",
+      "exists": true,
+      "bytes": 932,
+      "sha256": "fc06954afdabab36d1373166aa76f8a13e169da85409cfad638c947721914fcb"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P22/index-layout.json",
+      "exists": true,
+      "bytes": 419914,
+      "sha256": "0736cf432f959623f245916cb20f29d678867f89ffb881b3a8a1fbdc992f2599"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 88873,
+  "finished_utc": "2026-09-17T00:56:51.163848+00:00",
+  "duration_seconds": 0.04315875000611413
+}

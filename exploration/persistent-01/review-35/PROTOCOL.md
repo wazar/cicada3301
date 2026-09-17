@@ -1,0 +1,1 @@
+Independent S07/S07b frozen-ROI review: sourcepixel hashes/fullpage context, raw/paddedcrops/removedstrips, allfixedtranslation scores via rowbitsets, residualcoords and controls, boundarydistance via separate dilation. No new transforms/ROIs, runetranscription, reserves/Git/shared edits. One CPU standardlogged<=900s/original deadline.

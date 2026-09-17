@@ -1,0 +1,6 @@
+{
+  "command": "python3 supplemental grayscale check via stdin",
+  "error": "ModuleNotFoundError: No module named 'PIL'",
+  "status": "failed before reading any pixels",
+  "correction": "saved grayscale.py and ran .venv/bin/python through standard logger; PASS"
+}

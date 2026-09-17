@@ -1,0 +1,1 @@
+Review34 fixed P21 deletion only: independently parse five frozen LM sources/rebuild smoothing; exact unit rotations, kept/discarded/source maps, all controls/nulls and max-two-page tails. No extra extraction or source/register variants, reserve reads/Git/shared edits. One CPU/logged<=900seconds/original deadline.

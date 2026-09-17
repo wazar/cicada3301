@@ -1,0 +1,28 @@
+{
+  "seed": 1709202602,
+  "repetitions_each": 100,
+  "summary": {
+    "0": {
+      "p_le_01": 1,
+      "p_le_05": 3
+    },
+    "0.25": {
+      "p_le_01": 5,
+      "p_le_05": 11
+    },
+    "0.5": {
+      "p_le_01": 27,
+      "p_le_05": 53
+    },
+    "0.75": {
+      "p_le_01": 51,
+      "p_le_05": 88
+    },
+    "1": {
+      "p_le_01": 99,
+      "p_le_05": 100
+    }
+  },
+  "strict_violating_words": 21,
+  "independent_observed_counts": "PASS"
+}

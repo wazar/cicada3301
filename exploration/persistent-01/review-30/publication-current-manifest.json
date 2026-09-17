@@ -1,0 +1,125 @@
+{
+  "scope": "Current publication bytes; previous manifests are original snapshot identities.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/review-30/MANIFEST.json",
+      "bytes": 3760,
+      "sha256": "5561cc9a01996e860abee10605315bc2ffb7eb88a8a145cafb5e852d07994b59"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/PROTOCOL.md",
+      "bytes": 333,
+      "sha256": "9d5d55bf883defc8f76cc366acfcbe0f8d498e2a295da82861701ec5e9b72871"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/REPORT.md",
+      "bytes": 3443,
+      "sha256": "acb81659e691768624373d41838bcb18ed4f7d023300fcff94e3751ca40807ab"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/check.py",
+      "bytes": 6839,
+      "sha256": "b16e35a4630fd7d0b520c3d4835e5fbe9e99d86d919a01617f85e49a3fa5a37f"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/inputs.json",
+      "bytes": 2648,
+      "sha256": "860f514bf5acef5eaad1326bac162d84499b00a8126196ecafb8a8c019df635f"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/result.json",
+      "bytes": 4643,
+      "sha256": "7f6ef3da265dd439457fde727342348a6f6e0ed88380678d6a57c95f06bc5e98"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/runs/20260917T003336.524051Z-independent-boundaries-soft-controls-bag-matrices/code/exploration/persistent-01/review-30/check.py",
+      "bytes": 6839,
+      "sha256": "b16e35a4630fd7d0b520c3d4835e5fbe9e99d86d919a01617f85e49a3fa5a37f"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/runs/20260917T003336.524051Z-independent-boundaries-soft-controls-bag-matrices/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/runs/20260917T003336.524051Z-independent-boundaries-soft-controls-bag-matrices/code/exploration/persistent-01/worker-s/s01.py",
+      "bytes": 3436,
+      "sha256": "5a8bbf58c1a76c6452df6c95246b35af3dd1667c01ffad0665d1f5de55b3095d"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/runs/20260917T003336.524051Z-independent-boundaries-soft-controls-bag-matrices/code/exploration/persistent-01/worker-s/s02.py",
+      "bytes": 2052,
+      "sha256": "4fd580dcb62010ea6ff48a15768c5e69dc8b929b257c9ae1a098ef18194f11ad"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/runs/20260917T003336.524051Z-independent-boundaries-soft-controls-bag-matrices/code/exploration/persistent-01/worker-s/s03.py",
+      "bytes": 3524,
+      "sha256": "cbba172f0be0f0f70007adaf827e87cc09528bffd99a4a37ea920b5ded3ac597"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/runs/20260917T003336.524051Z-independent-boundaries-soft-controls-bag-matrices/command.json",
+      "bytes": 1739,
+      "sha256": "75f237e1581c5e4cb5231208853ba0d882cd66310f5853c1d65c3825fa57046e"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/runs/20260917T003336.524051Z-independent-boundaries-soft-controls-bag-matrices/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/runs/20260917T003336.524051Z-independent-boundaries-soft-controls-bag-matrices/stdout.txt",
+      "bytes": 1380,
+      "sha256": "f9d9b1cdfe46874ad520a3d56bf23262be34f6182cb04c325d0ce6fba9edc366"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/snapshots/F06-maps.json",
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/snapshots/S01-CARD.md",
+      "bytes": 2718,
+      "sha256": "2b33ae1232d8f08b1348f81eecccb6740aff58b7eb103703f4c804dd3c4cba6b"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/snapshots/S01-result.json",
+      "bytes": 777672,
+      "sha256": "4e77682b272f2e225f7c3a40126684f67c3cc816c7ea6312460ed383637c7f37"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/snapshots/S02-CARD.md",
+      "bytes": 1028,
+      "sha256": "5016d7a5eb81eaa77e72e396976504be8806bc07dc45cb8aeea73adddf95e98d"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/snapshots/S02-result.json",
+      "bytes": 1940342,
+      "sha256": "4298663a4e5efcce2a125d3b711abbe16563d436241569b1e74934fcc1fc78bd"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/snapshots/S03-CARD.md",
+      "bytes": 1977,
+      "sha256": "5ef0a8f1bdcc24285671c2a939c1737136540e42d9c51004693c286d7dbc2410"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/snapshots/S03-result.json",
+      "bytes": 195116,
+      "sha256": "3eea096e425dcd047b61620cacbf22cd7eb8edffb4b97eec9c393807257b2a7f"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/snapshots/s01.py",
+      "bytes": 3436,
+      "sha256": "5a8bbf58c1a76c6452df6c95246b35af3dd1667c01ffad0665d1f5de55b3095d"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/snapshots/s02.py",
+      "bytes": 2052,
+      "sha256": "4fd580dcb62010ea6ff48a15768c5e69dc8b929b257c9ae1a098ef18194f11ad"
+    },
+    {
+      "path": "exploration/persistent-01/review-30/snapshots/s03.py",
+      "bytes": 3524,
+      "sha256": "cbba172f0be0f0f70007adaf827e87cc09528bffd99a4a37ea920b5ded3ac597"
+    }
+  ]
+}

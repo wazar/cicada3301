@@ -1,0 +1,70 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-s/s04.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "74e4781fadf3ad98896d80b5bae13b6f1320b6b2",
+  "started_utc": "2026-09-17T00:31:40.435103+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-s/S04-CARD.md",
+      "exists": true,
+      "bytes": 2316,
+      "sha256": "f6cbcca22cacc7626299f81cfd8eb14c18cd4f152e1ec8297c1ea8123e01013c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-s/s01.py",
+      "exists": true,
+      "bytes": 3436,
+      "sha256": "5a8bbf58c1a76c6452df6c95246b35af3dd1667c01ffad0665d1f5de55b3095d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-s/s02.py",
+      "exists": true,
+      "bytes": 2052,
+      "sha256": "4fd580dcb62010ea6ff48a15768c5e69dc8b929b257c9ae1a098ef18194f11ad"
+    },
+    {
+      "path": "exploration/persistent-01/worker-s/s03.py",
+      "exists": true,
+      "bytes": 3524,
+      "sha256": "cbba172f0be0f0f70007adaf827e87cc09528bffd99a4a37ea920b5ded3ac597"
+    },
+    {
+      "path": "exploration/persistent-01/worker-s/s04.py",
+      "exists": true,
+      "bytes": 4242,
+      "sha256": "45c643e7a1e43abc4cb3e8b0cef26c4afabc12c1bc52dfb5fd91ae88d5b5819d"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 85948,
+  "finished_utc": "2026-09-17T00:31:40.701542+00:00",
+  "duration_seconds": 0.2662069590005558
+}

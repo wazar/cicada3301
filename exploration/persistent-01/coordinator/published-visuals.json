@@ -400,5 +400,359 @@
     "bytes": 112,
     "sha256": "38f9c648c23c0cbac4ce8d95e221229f43989a0c72ef6951e7f5fa1b7c884ea2",
     "note": "Reviewed experiment image/array retained explicitly despite generic local ignore. No new reserved image exposure."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/control-added-residual128.png",
+    "bytes": 3661,
+    "sha256": "226ef252869412377b0651a28f825120d965d2d88dc61882c3221c507707f9ad",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/control-added.png",
+    "bytes": 89942,
+    "sha256": "2eb9b44310eff3e036afcac5800159df5627094ac0c1b839e8ef462e4ba4000f",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/control-erased-residual128.png",
+    "bytes": 3662,
+    "sha256": "8d42e9be6a585f85d3a46abffc155f5c30f913fe32666036a8d5c3ac01a40914",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/control-erased.png",
+    "bytes": 89846,
+    "sha256": "a9e4819a9ad385c22fb8e5a586b21934a8703ef747152fc24629ec2434445ae4",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/control-jpeg92-residual128.png",
+    "bytes": 3645,
+    "sha256": "e050e7c61eb538d9a6c7e7c94ea84649d1b5c604c46b20ce2fb0ae3032bd14c4",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/control-shift-residual128.png",
+    "bytes": 3458,
+    "sha256": "6c8ef0131bdacecb1abfa2642620c02fc290f4c56a74a37189e3b30ba496230d",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/crosspage-bottomloop-residual128.png",
+    "bytes": 196,
+    "sha256": "2b21b0993da05d6c5dcf6d4bdb7dae4254b71a40a3fb98a2fe68445c18e3abcf",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/crosspage-leftcross-residual128.png",
+    "bytes": 9644,
+    "sha256": "0a41f6ce781a70aef7e0faa9b7b0c66322504368e1cffd53c307b2110a582fdc",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/crosspage-rightcross-residual128.png",
+    "bytes": 9574,
+    "sha256": "329990ecff02876a2ba3a9510ab9ccee0d4fad445146940eb07bf8fc0ddf314b",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/crosspage-toploop-residual128.png",
+    "bytes": 624,
+    "sha256": "44c6d57c466feee77f578e0960e0399f096fe14b53f7d3337bcfe977cb8765c0",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/p0-bottomloop.png",
+    "bytes": 3045,
+    "sha256": "e67f345074b3383ae917ad298f898af799028f02057316c9b452eb74e785bd55",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/p0-cross-rotation0-residual128.png",
+    "bytes": 14890,
+    "sha256": "cea5bc57a672d794eadb6700b361e949d43478e9c537cb2da041d64baed82ed5",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/p0-cross-rotation180-residual128.png",
+    "bytes": 6623,
+    "sha256": "76e87854510387510ac7c7ba5812fef5d513dacc469499a296d615952208ced0",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/p0-leftcross.png",
+    "bytes": 87665,
+    "sha256": "68c02a52c795865d9b03a73793c2b7a6ca6e7b5232ba3946048e6644380c3844",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/p0-loop-rotation0-residual128.png",
+    "bytes": 528,
+    "sha256": "9814348b67ccb708d1ddc3a975cec32eb40aa7194952257b9adce7816bd4f327",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/p0-loop-rotation180-residual128.png",
+    "bytes": 613,
+    "sha256": "89bbf5b8798295eb8917a36ca00b330bcae57737954cccd5df3f732202ad6149",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/p0-rightcross.png",
+    "bytes": 88100,
+    "sha256": "816aec4586723783e7682aa86478e55a2f5affec374d0b78ed6fc5598283edc7",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/p0-toploop.png",
+    "bytes": 3311,
+    "sha256": "b84a3f2c33174440f15e7b40c39f9fb6b6726ece8be864a719df9e0ba1a7a272",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/p1-bottomloop.png",
+    "bytes": 3045,
+    "sha256": "e67f345074b3383ae917ad298f898af799028f02057316c9b452eb74e785bd55",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/p1-cross-rotation0-residual128.png",
+    "bytes": 14884,
+    "sha256": "7b2698527abe697c7d4cf7d935dfde0abd52a7def78c37bc76692dc56fee1343",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/p1-cross-rotation180-residual128.png",
+    "bytes": 6731,
+    "sha256": "806613e5138926d87674f9bb66ee76165cc3d190505f57107f624eb20a479968",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/p1-leftcross.png",
+    "bytes": 88275,
+    "sha256": "c170970937dda06b6502a9333aab3ef1146782f9a19caa4736eb298dac2a822d",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/p1-loop-rotation0-residual128.png",
+    "bytes": 263,
+    "sha256": "71e033c5e3b510848b4160a64dd5e819814b6e13af844d30294ccf29afaea676",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/p1-loop-rotation180-residual128.png",
+    "bytes": 580,
+    "sha256": "04ff658d4a87eb700c0451c8c7f1227ffcbabd91d0941861ccfc20df5fab1250",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/p1-rightcross.png",
+    "bytes": 89152,
+    "sha256": "45501bae3f0de0892299578da1c47f45eb0dcea0446819c6ebb949fc1ceb87ee",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07-pixels/p1-toploop.png",
+    "bytes": 3245,
+    "sha256": "b9f152bff6f056f721edd65c4bc0621536fc41a4bbba4e835f92a2e0e23b65d1",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07b-pixels/p0-bottomloop.png",
+    "bytes": 3222,
+    "sha256": "bb6b8ccd6a36707065f1ec5eadfeb2be033f1254c906db61c87df2a93053dfb5",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07b-pixels/p0-toploop.png",
+    "bytes": 3307,
+    "sha256": "8ac20e5dde46ff74a1429af6d3beafdf75c4fe3dce4e5d53e2504bfce0e8b039",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07b-pixels/p1-bottomloop.png",
+    "bytes": 3222,
+    "sha256": "bb6b8ccd6a36707065f1ec5eadfeb2be033f1254c906db61c87df2a93053dfb5",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S07b-pixels/p1-toploop.png",
+    "bytes": 3308,
+    "sha256": "4cdda58de4b4c406b1bfe283dc7bbc63f66942b81e1df8bd194732d5274df6ca",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-add-predicted.png",
+    "bytes": 4318,
+    "sha256": "529e7bac53356044aead5acf3d9084d59ec70cbe41211d172c714e95cfc141d0",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-add-residual128.png",
+    "bytes": 519,
+    "sha256": "56342f52901b8bd9c018a668be2d9672d28046bdbe9ff59d28423643c392749f",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-add-source-edit.png",
+    "bytes": 3522,
+    "sha256": "793727f9edc174b3f26fae47fd063307837e4aec17dab363f1644a2ef614765d",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-add-target.png",
+    "bytes": 4712,
+    "sha256": "b670460c237c47e544fc75c8fda64e53128fae0082de7c88f1cd510ff1810eeb",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-copy0-predicted.png",
+    "bytes": 4227,
+    "sha256": "38dbd77fa5ff5e0314888ae80fa744693751028e53d7c09b0e8555b95840aaee",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-copy0-residual128.png",
+    "bytes": 518,
+    "sha256": "2c0874897edea9b92c12e68d83087a7edf56305412612884868d1496fba6daf0",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-copy0-target.png",
+    "bytes": 4343,
+    "sha256": "32efbb4d8c773648fe38181c54586431ef14a39a4d21bc2b1ef8431bb7390bb5",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-copy1-predicted.png",
+    "bytes": 4091,
+    "sha256": "da53482ae5e4311e641936e38807869b3007acf5211bb3bae273f76c741ae091",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-copy1-residual128.png",
+    "bytes": 519,
+    "sha256": "871f1fa033a52b89ddf5bbdda5cf343735c5368945742346f878e9dbaf51b3ac",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-copy1-target.png",
+    "bytes": 4220,
+    "sha256": "34889ba9c048b462bf8e5e1b957218b6b68e44df0d7ab0351ba47218db6d9980",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-copy2-predicted.png",
+    "bytes": 4318,
+    "sha256": "529e7bac53356044aead5acf3d9084d59ec70cbe41211d172c714e95cfc141d0",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-copy2-residual128.png",
+    "bytes": 487,
+    "sha256": "7bbdff97b2efb269a154d35b8ccc936fdc1a9ef6487f8472a1fb766b06d53dc4",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-copy2-target.png",
+    "bytes": 4349,
+    "sha256": "b2415d571fc1c1649bd50fdd36b27a111998341bc030e2b1667f56abc2c31e10",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-copy3-predicted.png",
+    "bytes": 4179,
+    "sha256": "df28a729a60a7d408f3d37fabe96a9117995083eb93bd40718af29f2ea17e27b",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-copy3-residual128.png",
+    "bytes": 537,
+    "sha256": "2886350069a4c7611528ec7c739df8d7e1940acd1cb8e82b1bdc4780dba6b8af",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-copy3-target.png",
+    "bytes": 4220,
+    "sha256": "55c1c0ab58e2175cfe270c692175485e6735b4af617b22c6f8b2ff57152844b7",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-erase-predicted.png",
+    "bytes": 4318,
+    "sha256": "529e7bac53356044aead5acf3d9084d59ec70cbe41211d172c714e95cfc141d0",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-erase-residual128.png",
+    "bytes": 564,
+    "sha256": "86a9dea87407b81dedf807e10cb98f29bcf94565d2aa4881c18cb3bcdc16c6c0",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-erase-source-edit.png",
+    "bytes": 3450,
+    "sha256": "8122133c502f8e0f88cade5922c9751c61feee24147889d5ed9455c7162097f0",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-erase-target.png",
+    "bytes": 4288,
+    "sha256": "883e455d946c46403c1ab0d6a1535f1f4b56617ee4ec7816aac67af8e8cd65d8",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-exact-predicted.png",
+    "bytes": 3512,
+    "sha256": "eb678da0969554ecee4d870da56404c1bc0b94f5bb0dee065fd819ae1bd143c4",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-exact-residual128.png",
+    "bytes": 449,
+    "sha256": "cb1213da21c53efb6c02c13e2f375d5daf4a41c2e994fa5b290659ceb36c6d6a",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/control-exact-target.png",
+    "bytes": 3512,
+    "sha256": "eb678da0969554ecee4d870da56404c1bc0b94f5bb0dee065fd819ae1bd143c4",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/p0-top-predicted.png",
+    "bytes": 3712,
+    "sha256": "02f987ad46a6bfcadc185b33e70f891ce67534a4e11274983fa5a0db17b8c461",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/p0-top-residual128.png",
+    "bytes": 912,
+    "sha256": "e2056071ae09759cfa8c3fb4d496553a3ff79b88b48c7957f0be6495a784f80c",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/p0-top-target.png",
+    "bytes": 3589,
+    "sha256": "9ea1bd08528dfc92efaf99f7b941ff2e71f42201b91bf98d47633095793f3219",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/p1-top-predicted.png",
+    "bytes": 3512,
+    "sha256": "83668d70e600880463c01636dfeb2980d5c090646cfca1644bff7624ec8dd70b",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/p1-top-residual128.png",
+    "bytes": 491,
+    "sha256": "cbd0ce81f0ffdf08f134c9bce601db2072586a7dd6fd97f8913d1d4b3b107ccb",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
+  },
+  {
+    "path": "exploration/persistent-01/worker-s/S08-pixels/p1-top-target.png",
+    "bytes": 3592,
+    "sha256": "fed2dd05e440c254de1f8e300b3467be6a8f4c31125999d4e408b17f7bb3e8a0",
+    "note": "Explicit reviewed discovery-only ornament crop/control/residual or numerical evidence; no reserved source."
   }
 ]

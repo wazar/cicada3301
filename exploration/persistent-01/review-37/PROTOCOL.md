@@ -1,0 +1,1 @@
+Independent frozen S08 cropped-source/control reconstruction; same specified PIL geometry, full zero-padded linear convolution for all grids, direct signed residuals and winner semantics; view actual/control full crops. No new transform, affine/warp fitting, reserves/Git/shared edits. OneCPU/logged<=900s/original deadline.

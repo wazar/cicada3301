@@ -1,0 +1,229 @@
+{
+  "status": "PASS",
+  "S01_S02_panels": 701,
+  "S01_real": {
+    "p": 0.9448,
+    "max_z": 0.650374372116888,
+    "distance_z": [
+      -0.23005954068556533,
+      0.633657593664039,
+      0.30102034041523346,
+      -0.3239646999252404,
+      0.04746392849017155,
+      0.2658951104971912,
+      0.650374372116888
+    ],
+    "contrast": [
+      0.0031845960734593042,
+      -0.012000739295877094,
+      -0.004941953722124004,
+      0.007517772890799563,
+      -0.0011512861171510784,
+      -0.013181979845880262,
+      -0.04774618253689948
+    ],
+    "null_center": [
+      -9.271771282933599e-07,
+      -2.0488214107714515e-06,
+      2.5260118501974247e-05,
+      9.520734434644343e-06,
+      8.867890105965012e-05,
+      -0.00041043329435928394,
+      0.000303512307553148
+    ],
+    "null_sd": [
+      0.01384651660650502,
+      0.01893560590836689,
+      0.016501256472483235,
+      0.023176142826973303,
+      0.026124365547775728,
+      0.048032273055490765,
+      0.0738800557101548
+    ],
+    "details": [
+      [
+        {
+          "distance": 2,
+          "within_pairs": 147,
+          "across_pairs": 113,
+          "within_equal": 3,
+          "across_equal": 1
+        },
+        {
+          "distance": 3,
+          "within_pairs": 98,
+          "across_pairs": 161,
+          "within_equal": 4,
+          "across_equal": 7
+        },
+        {
+          "distance": 4,
+          "within_pairs": 65,
+          "across_pairs": 193,
+          "within_equal": 2,
+          "across_equal": 8
+        },
+        {
+          "distance": 5,
+          "within_pairs": 43,
+          "across_pairs": 214,
+          "within_equal": 0,
+          "across_equal": 6
+        },
+        {
+          "distance": 6,
+          "within_pairs": 26,
+          "across_pairs": 230,
+          "within_equal": 0,
+          "across_equal": 5
+        },
+        {
+          "distance": 7,
+          "within_pairs": 14,
+          "across_pairs": 241,
+          "within_equal": 1,
+          "across_equal": 12
+        },
+        {
+          "distance": 8,
+          "within_pairs": 7,
+          "across_pairs": 247,
+          "within_equal": 0,
+          "across_equal": 9
+        }
+      ],
+      [
+        {
+          "distance": 2,
+          "within_pairs": 141,
+          "across_pairs": 123,
+          "within_equal": 5,
+          "across_equal": 5
+        },
+        {
+          "distance": 3,
+          "within_pairs": 94,
+          "across_pairs": 169,
+          "within_equal": 3,
+          "across_equal": 9
+        },
+        {
+          "distance": 4,
+          "within_pairs": 63,
+          "across_pairs": 199,
+          "within_equal": 1,
+          "across_equal": 3
+        },
+        {
+          "distance": 5,
+          "within_pairs": 38,
+          "across_pairs": 223,
+          "within_equal": 3,
+          "across_equal": 8
+        },
+        {
+          "distance": 6,
+          "within_pairs": 19,
+          "across_pairs": 241,
+          "within_equal": 1,
+          "across_equal": 8
+        },
+        {
+          "distance": 7,
+          "within_pairs": 9,
+          "across_pairs": 250,
+          "within_equal": 0,
+          "across_equal": 12
+        },
+        {
+          "distance": 8,
+          "within_pairs": 4,
+          "across_pairs": 254,
+          "within_equal": 0,
+          "across_equal": 15
+        }
+      ]
+    ]
+  },
+  "S01_control_summary": {
+    "markov": {
+      "p_le_05": 2,
+      "p_le_01": 0
+    },
+    "word_urn": {
+      "p_le_05": 100,
+      "p_le_01": 100
+    }
+  },
+  "S02_summary": {
+    "0": {
+      "p_le_01": 1,
+      "p_le_05": 3
+    },
+    "0.25": {
+      "p_le_01": 5,
+      "p_le_05": 11
+    },
+    "0.5": {
+      "p_le_01": 27,
+      "p_le_05": 53
+    },
+    "0.75": {
+      "p_le_01": 51,
+      "p_le_05": 88
+    },
+    "1": {
+      "p_le_01": 99,
+      "p_le_05": 100
+    }
+  },
+  "strict_witnesses": 25,
+  "strict_violating_words": 21,
+  "S03_matrices": 121,
+  "S03_cells_recomputed": 8432732,
+  "S03_control_summary": {
+    "0": {
+      "n": 30,
+      "p_le_01": 0,
+      "p_le_05": 0,
+      "observed_range": [
+        0,
+        1
+      ]
+    },
+    "2": {
+      "n": 30,
+      "p_le_01": 30,
+      "p_le_05": 30,
+      "observed_range": [
+        2,
+        3
+      ]
+    },
+    "4": {
+      "n": 30,
+      "p_le_01": 30,
+      "p_le_05": 30,
+      "observed_range": [
+        4,
+        5
+      ]
+    },
+    "8": {
+      "n": 30,
+      "p_le_01": 30,
+      "p_le_05": 30,
+      "observed_range": [
+        8,
+        9
+      ]
+    }
+  },
+  "S03_real": {
+    "observed": 0,
+    "p": 1.0,
+    "null_mean": 0.06761177753544166,
+    "null_max": 3,
+    "null_offsets": 69692
+  }
+}

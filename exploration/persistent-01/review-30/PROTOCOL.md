@@ -1,0 +1,1 @@
+Independent review S01/S02/S03 only. Reconstruct original0/1 F06 intervals, all simulation RNG, boundary-shift statistics, strict equality witnesses, and all complete bag-collision matrices. No S04 data, reserves, Git/shared modifications, extra distances or model variants. One CPU, standard logger <=900 seconds/original deadline.
