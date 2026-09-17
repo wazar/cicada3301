@@ -1,0 +1,229 @@
+{
+  "status": "PASS_IMPLEMENTATION_WITH_UNQUALIFIED_NULLS",
+  "panels": 239,
+  "regenerated": 238,
+  "metric_mean": 0.6027757746465969,
+  "metric_sd": 0.1213730344550494,
+  "bank_selection": [
+    {
+      "shape": 1,
+      "rune": 10,
+      "index": 58
+    },
+    {
+      "shape": 2,
+      "rune": 22,
+      "index": 175
+    },
+    {
+      "shape": 3,
+      "rune": 11,
+      "index": 292
+    },
+    {
+      "shape": 4,
+      "rune": 9,
+      "index": 409
+    },
+    {
+      "shape": 5,
+      "rune": 28,
+      "index": 526
+    },
+    {
+      "shape": 6,
+      "rune": 14,
+      "index": 643
+    },
+    {
+      "shape": 7,
+      "rune": 16,
+      "index": 760
+    },
+    {
+      "shape": 8,
+      "rune": 12,
+      "index": 877
+    },
+    {
+      "shape": 9,
+      "rune": 21,
+      "index": 994
+    },
+    {
+      "shape": 10,
+      "rune": 6,
+      "index": 1111
+    },
+    {
+      "shape": 11,
+      "rune": 27,
+      "index": 1228
+    },
+    {
+      "shape": 12,
+      "rune": 15,
+      "index": 1345
+    },
+    {
+      "shape": 13,
+      "rune": 8,
+      "index": 1462
+    },
+    {
+      "shape": 14,
+      "rune": 23,
+      "index": 1579
+    },
+    {
+      "shape": 15,
+      "rune": 19,
+      "index": 1696
+    },
+    {
+      "shape": 16,
+      "rune": 18,
+      "index": 1813
+    },
+    {
+      "shape": 17,
+      "rune": 17,
+      "index": 1930
+    },
+    {
+      "shape": 18,
+      "rune": 4,
+      "index": 2047
+    },
+    {
+      "shape": 19,
+      "rune": 2,
+      "index": 2164
+    },
+    {
+      "shape": 20,
+      "rune": 0,
+      "index": 2281
+    },
+    {
+      "shape": 21,
+      "rune": 3,
+      "index": 2398
+    },
+    {
+      "shape": 22,
+      "rune": 24,
+      "index": 2515
+    },
+    {
+      "shape": 23,
+      "rune": 25,
+      "index": 2632
+    },
+    {
+      "shape": 24,
+      "rune": 7,
+      "index": 2749
+    },
+    {
+      "shape": 25,
+      "rune": 20,
+      "index": 2866
+    },
+    {
+      "shape": 26,
+      "rune": 1,
+      "index": 2983
+    },
+    {
+      "shape": 27,
+      "rune": 26,
+      "index": 3100
+    },
+    {
+      "shape": 28,
+      "rune": 5,
+      "index": 3217
+    },
+    {
+      "shape": 29,
+      "rune": 13,
+      "index": 3334
+    }
+  ],
+  "max_gradient_difference": 3.38415179295629e-16,
+  "max_loglik_difference": 2.7569058147491887e-12,
+  "unqualified": [
+    {
+      "file": "actual-null-090.json",
+      "baseline_gradient": 1.3218030851078331e-08,
+      "visual_gradient": 2.3005351246228045e-06,
+      "gain": -0.6365215862065554
+    },
+    {
+      "file": "actual-null-095.json",
+      "baseline_gradient": 6.606809571949738e-09,
+      "visual_gradient": 2.660156683408127e-06,
+      "gain": -0.06650018784236522
+    }
+  ],
+  "actual_gain": 0.28681727970831616,
+  "qualified_null_exceedances": 11,
+  "unknown_nulls": 2,
+  "conservative_rank_interval": [
+    0.12,
+    0.14
+  ],
+  "controls": {
+    "moderate": {
+      "tails": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "power_at_05": 20
+    },
+    "strong": {
+      "tails": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "power_at_05": 20
+    }
+  }
+}

@@ -1,0 +1,1 @@
+The frozen card’s per-emission statistic is implemented per nonforced decision: page starts plus nonrepeat slots. Forced-repeat slots contribute exactlyzero to both log likelihoods. Real denominator5306. Original raw actual_emissions field is retained with this clarification. No numerical result changed.

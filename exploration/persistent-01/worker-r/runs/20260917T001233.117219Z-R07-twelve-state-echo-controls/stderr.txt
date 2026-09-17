@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/worker-r/R07.py", line 70, in <module>
+    rate=[1,.25,0][c if args.mode=='pilot' else c//4];seed=479100+c if args.mode=='pilot' else 480000+1000*c;base=479500+100*c if args.mode=='pilot' else 500000+1000*c;vs,truth=plant(seed,rate);z=experiment(vs,base,19 if args.mode=='pilot' else 99,f,str(c),truth);z['control']=c;out['panels'].append(z);print('CONTROL',c,rate,z['true_pi_recovered'],z['held_match_rate'],z['p_upper'],flush=True)
+                                                                                                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<REPO_ROOT>/exploration/persistent-01/worker-r/R07.py", line 59, in experiment
+    ns,_=generate(np.array(probs),base+i);q,_=fit(ns);null.append(q['score']);f.write(json.dumps(dict(kind='null',tag=tag,seed=base+i,streams=ns,fit=q))+'\n')
+                                              ^^^^^^^
+  File "<REPO_ROOT>/exploration/persistent-01/worker-r/R07.py", line 29, in fit
+    for s in [0,1]:f,pr=fitweights(tr[s]);fits.append(f);probs.append(pr)
+                        ^^^^^^^^^^^^^^^^^
+  File "<REPO_ROOT>/exploration/persistent-01/worker-r/R07.py", line 18, in fitweights
+    prior=np.full((29,29),.5/28);np.fill_diagonal(prior,0);A=C+prior;initial=np.log(A.sum(0));initial-=initial[-1];r=minimize(obj,initial[:-1],args=(A,),jac=True,method='L-BFGS-B',options=dict(maxiter=300,gtol=1e-9,ftol=1e-14,maxls=40));val,g=obj(r.x,A);theta=np.r_[r.x,0.];lp=np.broadcast_to(theta,(29,29)).copy();np.fill_diagonal(lp,-np.inf);lp-=logsumexp(lp,axis=1)[:,None];pr=np.exp(lp);ok=bool(r.success and max(abs(g))<=1e-7 and np.isfinite(val));assert ok,(r.message,max(abs(g)));assert np.allclose(pr.sum(1),1,atol=1e-12) and np.all(np.diag(pr)==0)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ^^
+AssertionError: ('CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH', np.float64(1.0985025882489715e-07))

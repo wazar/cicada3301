@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-29/derivative.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "74e4781fadf3ad98896d80b5bae13b6f1320b6b2",
+  "started_utc": "2026-09-17T00:30:44.323425+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-29/check.py",
+      "exists": true,
+      "bytes": 5536,
+      "sha256": "01b37607122a8324be15b00a8a27a89b6d917c473ac091682cf373ba435e9fcd"
+    },
+    {
+      "path": "exploration/persistent-01/review-29/derivative.py",
+      "exists": true,
+      "bytes": 1272,
+      "sha256": "fdfb2b10ecb67cee2c46a66196f2ef3f61d6bfc2c53bd3cf00df681563d5d3c4"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P19/disposition.json",
+      "exists": true,
+      "bytes": 239,
+      "sha256": "17f914573cc2b184fd9476ca2377e724b8267fa77cb0178e6f66022688543221"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 85847,
+  "finished_utc": "2026-09-17T00:30:44.470363+00:00",
+  "duration_seconds": 0.14674337500036927
+}

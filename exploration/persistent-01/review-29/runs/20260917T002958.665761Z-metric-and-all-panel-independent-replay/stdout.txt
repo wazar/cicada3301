@@ -1,0 +1,82 @@
+{
+  "status": "PASS_IMPLEMENTATION_WITH_UNQUALIFIED_NULLS",
+  "panels": 239,
+  "regenerated": 238,
+  "metric_mean": 0.6027757746465969,
+  "metric_sd": 0.1213730344550494,
+  "max_gradient_difference": 3.38415179295629e-16,
+  "max_loglik_difference": 2.7569058147491887e-12,
+  "unqualified": [
+    {
+      "file": "actual-null-090.json",
+      "baseline_gradient": 1.3218030851078331e-08,
+      "visual_gradient": 2.3005351246228045e-06,
+      "gain": -0.6365215862065554
+    },
+    {
+      "file": "actual-null-095.json",
+      "baseline_gradient": 6.606809571949738e-09,
+      "visual_gradient": 2.660156683408127e-06,
+      "gain": -0.06650018784236522
+    }
+  ],
+  "actual_gain": 0.28681727970831616,
+  "qualified_null_exceedances": 11,
+  "unknown_nulls": 2,
+  "conservative_rank_interval": [
+    0.12,
+    0.14
+  ],
+  "controls": {
+    "moderate": {
+      "tails": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "power_at_05": 20
+    },
+    "strong": {
+      "tails": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "power_at_05": 20
+    }
+  }
+}

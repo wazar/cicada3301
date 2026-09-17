@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/review-28/check.py", line 20, in <module>
+    assert g['text']=='-';h.add(g['previous']);gaps+=1
+           ^^^^^^^^^^^^^^
+AssertionError

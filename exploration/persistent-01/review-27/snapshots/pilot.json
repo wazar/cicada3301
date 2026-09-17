@@ -1,0 +1,335 @@
+{
+  "name": "pilot",
+  "seed": 610000,
+  "source_multiplier": 2,
+  "source_high": [
+    0,
+    7,
+    19
+  ],
+  "fit": {
+    "best": {
+      "multiplier": 2,
+      "high": [
+        0,
+        7,
+        19
+      ],
+      "train_ll": -16851.554481704246,
+      "held_gain": 0.031731083274030965
+    },
+    "profiles": [
+      {
+        "multiplier": 2,
+        "high": [
+          0,
+          7,
+          19
+        ],
+        "train_ll": -16851.554481704246,
+        "held_gain": 0.031731083274030965
+      },
+      {
+        "multiplier": 4,
+        "high": [
+          7
+        ],
+        "train_ll": -17028.939047785112,
+        "held_gain": -0.012062635881397936
+      }
+    ]
+  },
+  "lower_tail": 0.6,
+  "null_seed_start": 619000,
+  "nulls": [
+    {
+      "best": {
+        "multiplier": 2,
+        "high": [
+          0,
+          7,
+          19
+        ],
+        "train_ll": -16819.580463732575,
+        "held_gain": 0.031202365116272817
+      },
+      "profiles": [
+        {
+          "multiplier": 2,
+          "high": [
+            0,
+            7,
+            19
+          ],
+          "train_ll": -16819.580463732575,
+          "held_gain": 0.031202365116272817
+        },
+        {
+          "multiplier": 4,
+          "high": [
+            19
+          ],
+          "train_ll": -17037.867510117692,
+          "held_gain": -0.006434418051977098
+        }
+      ]
+    },
+    {
+      "best": {
+        "multiplier": 2,
+        "high": [
+          0,
+          7,
+          19
+        ],
+        "train_ll": -16843.50359502139,
+        "held_gain": 0.030785742267993136
+      },
+      "profiles": [
+        {
+          "multiplier": 2,
+          "high": [
+            0,
+            7,
+            19
+          ],
+          "train_ll": -16843.50359502139,
+          "held_gain": 0.030785742267993136
+        },
+        {
+          "multiplier": 4,
+          "high": [
+            19
+          ],
+          "train_ll": -17048.2840495057,
+          "held_gain": -0.007855859433707216
+        }
+      ]
+    },
+    {
+      "best": {
+        "multiplier": 2,
+        "high": [
+          0,
+          7,
+          19
+        ],
+        "train_ll": -16860.298515567665,
+        "held_gain": 0.023938844418017465
+      },
+      "profiles": [
+        {
+          "multiplier": 2,
+          "high": [
+            0,
+            7,
+            19
+          ],
+          "train_ll": -16860.298515567665,
+          "held_gain": 0.023938844418017465
+        },
+        {
+          "multiplier": 4,
+          "high": [
+            0
+          ],
+          "train_ll": -17046.89775514458,
+          "held_gain": -0.013484077263128053
+        }
+      ]
+    },
+    {
+      "best": {
+        "multiplier": 2,
+        "high": [
+          0,
+          7,
+          19
+        ],
+        "train_ll": -16842.21567012874,
+        "held_gain": 0.029672688084892238
+      },
+      "profiles": [
+        {
+          "multiplier": 2,
+          "high": [
+            0,
+            7,
+            19
+          ],
+          "train_ll": -16842.21567012874,
+          "held_gain": 0.029672688084892238
+        },
+        {
+          "multiplier": 4,
+          "high": [
+            7
+          ],
+          "train_ll": -17049.87390925544,
+          "held_gain": -0.008697214723244811
+        }
+      ]
+    },
+    {
+      "best": {
+        "multiplier": 2,
+        "high": [
+          0,
+          7,
+          19
+        ],
+        "train_ll": -16808.063841146915,
+        "held_gain": 0.029286964051938175
+      },
+      "profiles": [
+        {
+          "multiplier": 2,
+          "high": [
+            0,
+            7,
+            19
+          ],
+          "train_ll": -16808.063841146915,
+          "held_gain": 0.029286964051938175
+        },
+        {
+          "multiplier": 4,
+          "high": [
+            19
+          ],
+          "train_ll": -17012.773765564005,
+          "held_gain": -0.013726163894641515
+        }
+      ]
+    },
+    {
+      "best": {
+        "multiplier": 2,
+        "high": [
+          0,
+          7,
+          19
+        ],
+        "train_ll": -16863.862620938933,
+        "held_gain": 0.03952950189310835
+      },
+      "profiles": [
+        {
+          "multiplier": 2,
+          "high": [
+            0,
+            7,
+            19
+          ],
+          "train_ll": -16863.862620938933,
+          "held_gain": 0.03952950189310835
+        },
+        {
+          "multiplier": 4,
+          "high": [
+            0
+          ],
+          "train_ll": -17063.063037365686,
+          "held_gain": -0.008716397289078479
+        }
+      ]
+    },
+    {
+      "best": {
+        "multiplier": 2,
+        "high": [
+          0,
+          7,
+          19
+        ],
+        "train_ll": -16832.745699261937,
+        "held_gain": 0.035288256679223966
+      },
+      "profiles": [
+        {
+          "multiplier": 2,
+          "high": [
+            0,
+            7,
+            19
+          ],
+          "train_ll": -16832.745699261937,
+          "held_gain": 0.035288256679223966
+        },
+        {
+          "multiplier": 4,
+          "high": [
+            0
+          ],
+          "train_ll": -17027.55275342399,
+          "held_gain": -0.010940828828680227
+        }
+      ]
+    },
+    {
+      "best": {
+        "multiplier": 2,
+        "high": [
+          0,
+          7,
+          19
+        ],
+        "train_ll": -16837.06853145941,
+        "held_gain": 0.0326949635692632
+      },
+      "profiles": [
+        {
+          "multiplier": 2,
+          "high": [
+            0,
+            7,
+            19
+          ],
+          "train_ll": -16837.06853145941,
+          "held_gain": 0.0326949635692632
+        },
+        {
+          "multiplier": 4,
+          "high": [
+            7
+          ],
+          "train_ll": -17015.54635428624,
+          "held_gain": -0.012884808605103234
+        }
+      ]
+    },
+    {
+      "best": {
+        "multiplier": 2,
+        "high": [
+          0,
+          7,
+          19
+        ],
+        "train_ll": -16850.79575487804,
+        "held_gain": 0.032427514608851495
+      },
+      "profiles": [
+        {
+          "multiplier": 2,
+          "high": [
+            0,
+            7,
+            19
+          ],
+          "train_ll": -16850.79575487804,
+          "held_gain": 0.032427514608851495
+        },
+        {
+          "multiplier": 4,
+          "high": [
+            19
+          ],
+          "train_ll": -17055.72443478285,
+          "held_gain": -0.01232390507874438
+        }
+      ]
+    }
+  ],
+  "actual_emissions": 5306
+}

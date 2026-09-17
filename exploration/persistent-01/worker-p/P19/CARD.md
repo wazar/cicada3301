@@ -1,0 +1,16 @@
+# P19 frozen card — shape-dependent successor selection
+Frozen before actual transition fitting. Challenge: suppressed exact repeats might be one part of avoiding visually similar successor glyphs. This is a generative transition prediction, not a key search, English score or authorship test.
+
+Inputs: F06 discovery-only maps (45 pages, no reserves or50); R04 frozen bank of29 training-only mean templates from original0/1 and I route-mapping bijection from shape classes to canonical rune IDs. Use exactly angle0/translation(0,0) bank features: tight black-pixel crop then32x64 bilinear grayscale/255. Pairwise RMS, standardized by population mean/SD of812 ordered off-diagonal pairs. No alternate metric/alignment.
+
+Train first23 sorted discovery pages; predict remaining22. Original0/1 template ancestors are training pages. These are reused campaign discovery data, not pristine validation. Narrow prior check: R04 detects orientation/identity; R02 tests successor inventory cycles, neither fits this shape-dependent transition law. No exhaustive absence claim.
+
+For nonrepeat i->j, P(j|i)=exp(a_j+beta*D_ij)/sum(k!=i)exp(a_k+beta*D_ik). Gauge a_28=0. Baseline beta0; alternative beta>=0. Both jointly fit nuisance weights on train, never held. Condition every generated page on actual first symbol and exact observed repeat mask: copy previous at repeats, sample law otherwise. No page joins; first/repeat events excluded from likelihood.
+
+Primary statistic: total held nonrepeat conditional log-likelihood gain alternative minus baseline. Fit convex mean NLL with analytic gradient, L-BFGS-B ftol1e-12, gtol1e-8, maxiter2000,maxls50; baseline zeros and alternative baseline/beta0 starts. Save status, gradients, objective, iterations and parameters. Qualification requires success, projected gradient infinity<=2e-6 and alternative train NLL no worse than baseline+1e-9. Failure is UNKNOWN, not negative. No alternate optimizer after actual.
+
+Controls: fixed a_j=sin(j)/4 (subtract a_28 gauge), beta0.25 and1,20 panels each, seeds519100+i and519200+i. Shared99 full-procedure beta0 controls, seeds519000+i, SAME fixed nuisance law. Each panel refits BOTH models and predicts held. Control tail=(1+number null gains>=plant gain)/100, report power at<=.05 and all outcomes. Controls share this reference, not independent99 per plant.
+
+Actual:99 separate plug-in parametric baseline null panels, seeds519300+i, generated from actual TRAIN-fitted baseline weights, fixed masks/first states. Refit both models and predict held. Tail formula as above; approximate composite-null bootstrap, not exact conditional calibration or true-image/cipher-generator null. Nulls do not preserve symbol histograms. One metric/beta direction/statistic/split; no variants after outcome.
+
+First run: prepare metric, analytic-gradient finite differences, direct scalar probability checks, costpilot of first2 shared-null and first2 panels at each planted beta (six panels). Reuse those panels in full controls; do not count twice. Forecast before full panels. Resource-only replica adjustment allowed prospectively before actual; otherwise fixed counts99+40+99. One thread,900s max per logged batch, STOP/deadline apply. Retain every complete sequence, fit and per-page likelihood. Control weakness quantifies sensitivity, not whole-family exclusion.

@@ -1,0 +1,5 @@
+# R07 pre-actual numerical refinement
+
+Originalmaincontrolrun exited1 during control3 nullseed503019. L-BFGS reported successfulrelative-objective convergence but normalizedgradient1.0985025882489715e−7 exceeded frozen1e−7qualification. Realwasnotrun. Preservefailedlog andR07-controls-initial-failed-full.jsonl.gz; R07-failure-location.json identifiesexactnextseed andparentbaseline. Firstthreecomplete controls had29/29trueπrecovery,100%heldmatches and.01tails; no failedpaneliscountedaspassing.
+
+Agreedwithcoordinator beforeactual: append exactlyone analyticNewtonstep on SAME augmentedconditional objective to EVERYweightfit (notjustfailedfits). H=(diag(rows@P)−P.T@diag(rows)@P)/total, fixcoordinate28. SolveH*step=gradient; newtheta=oldtheta−step. Requireobjective nonincrease within1e−12 and unchanged optimizer-success/gradient<=1e−7qualification. Storepre/postobjective/gradient andstepmax. No model, prior, matching, seed, score, significance gate orrealdatafilterchanges. CheckHagainst finite differences and reconstructfailedpanel beforecomplete maincontrolrerun withidenticalcorrectedseeds. This is a numericalinstrumentrepair, not relaxinganobservedfailure.

@@ -1,0 +1,221 @@
+{
+  "status": "PASS",
+  "panels": 1600,
+  "gaps": 2176,
+  "max_gradient": 7.510315656973316e-14,
+  "max_score_expected_difference": 2.2737367544323206e-13,
+  "max_objective_increase": 8.881784197001252e-16,
+  "distinct_main_generation_and_bootstrap_seeds": 1599,
+  "assignment_lp": [
+    {
+      "mode": "controls",
+      "tag": "0",
+      "objective": 1028.4698382230733,
+      "status": 0,
+      "fractionality": 0.0
+    },
+    {
+      "mode": "controls",
+      "tag": "1",
+      "objective": 1027.3546589870082,
+      "status": 0,
+      "fractionality": 0.0
+    },
+    {
+      "mode": "controls",
+      "tag": "2",
+      "objective": 1028.2338538670374,
+      "status": 0,
+      "fractionality": 0.0
+    },
+    {
+      "mode": "controls",
+      "tag": "3",
+      "objective": 1028.376027152139,
+      "status": 0,
+      "fractionality": 0.0
+    },
+    {
+      "mode": "controls",
+      "tag": "4",
+      "objective": 260.88840575320626,
+      "status": 0,
+      "fractionality": 0.0
+    },
+    {
+      "mode": "controls",
+      "tag": "5",
+      "objective": 257.04415920452135,
+      "status": 0,
+      "fractionality": 0.0
+    },
+    {
+      "mode": "controls",
+      "tag": "6",
+      "objective": 241.83276092351682,
+      "status": 0,
+      "fractionality": 0.0
+    },
+    {
+      "mode": "controls",
+      "tag": "7",
+      "objective": 271.57943569828075,
+      "status": 0,
+      "fractionality": 0.0
+    },
+    {
+      "mode": "controls",
+      "tag": "8",
+      "objective": 58.69043547252829,
+      "status": 0,
+      "fractionality": 0.0
+    },
+    {
+      "mode": "controls",
+      "tag": "9",
+      "objective": 68.3302660095734,
+      "status": 0,
+      "fractionality": 0.0
+    },
+    {
+      "mode": "controls",
+      "tag": "10",
+      "objective": 73.60788495566678,
+      "status": 0,
+      "fractionality": 0.0
+    },
+    {
+      "mode": "controls",
+      "tag": "11",
+      "objective": 73.75999136058155,
+      "status": 0,
+      "fractionality": 0.0
+    },
+    {
+      "mode": "real",
+      "tag": "real",
+      "objective": 72.7380991096853,
+      "status": 0,
+      "fractionality": 0.0
+    }
+  ],
+  "summaries": [
+    {
+      "mode": "controls",
+      "tag": "0",
+      "tail": 0.01,
+      "score": 0.9584831747209915,
+      "held_matches": 1089,
+      "expected": 45.21182272884016,
+      "nulls": 99
+    },
+    {
+      "mode": "controls",
+      "tag": "1",
+      "tail": 0.01,
+      "score": 0.9565829548579126,
+      "held_matches": 1089,
+      "expected": 47.28116215973327,
+      "nulls": 99
+    },
+    {
+      "mode": "controls",
+      "tag": "2",
+      "tail": 0.01,
+      "score": 0.9578452595534954,
+      "held_matches": 1089,
+      "expected": 45.90651234624343,
+      "nulls": 99
+    },
+    {
+      "mode": "controls",
+      "tag": "3",
+      "tail": 0.01,
+      "score": 0.957814690232092,
+      "held_matches": 1089,
+      "expected": 45.93980233725177,
+      "nulls": 99
+    },
+    {
+      "mode": "controls",
+      "tag": "4",
+      "tail": 0.01,
+      "score": 0.25439837762757306,
+      "held_matches": 316,
+      "expected": 38.960166763572964,
+      "nulls": 99
+    },
+    {
+      "mode": "controls",
+      "tag": "5",
+      "tail": 0.01,
+      "score": 0.22655172484555808,
+      "held_matches": 289,
+      "expected": 42.285171643187255,
+      "nulls": 99
+    },
+    {
+      "mode": "controls",
+      "tag": "6",
+      "tail": 0.01,
+      "score": 0.2521652765560427,
+      "held_matches": 315,
+      "expected": 40.39201383046947,
+      "nulls": 99
+    },
+    {
+      "mode": "controls",
+      "tag": "7",
+      "tail": 0.01,
+      "score": 0.2467030727144243,
+      "held_matches": 310,
+      "expected": 41.34035381399194,
+      "nulls": 99
+    },
+    {
+      "mode": "controls",
+      "tag": "8",
+      "tail": 0.2,
+      "score": 0.00302163086766647,
+      "held_matches": 44,
+      "expected": 40.709443985111214,
+      "nulls": 99
+    },
+    {
+      "mode": "controls",
+      "tag": "9",
+      "tail": 0.53,
+      "score": -0.0011958267586955297,
+      "held_matches": 39,
+      "expected": 40.30225534021943,
+      "nulls": 99
+    },
+    {
+      "mode": "controls",
+      "tag": "10",
+      "tail": 0.55,
+      "score": -0.0007290991351038144,
+      "held_matches": 40,
+      "expected": 40.793988958128054,
+      "nulls": 99
+    },
+    {
+      "mode": "controls",
+      "tag": "11",
+      "tail": 0.81,
+      "score": -0.005428057976841161,
+      "held_matches": 32,
+      "expected": 37.911155136780025,
+      "nulls": 99
+    },
+    {
+      "mode": "real",
+      "tag": "real",
+      "tail": 0.23,
+      "score": 0.0038426309113007116,
+      "held_matches": 43,
+      "expected": 38.815374937593525,
+      "nulls": 399
+    }
+  ]
+}

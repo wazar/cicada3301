@@ -1,0 +1,1 @@
+Independent bounded review: scalar conditional counts/probabilities/gradients, full stored RNG/tail accounting, independent assignment LP on thirteen originals, derivative finite differences and failed-run preservation. No full optimizer rerun or extra family. One CPU, logged <=900 seconds, original deadline; no reserves/Git/shared edits.

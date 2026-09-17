@@ -1,0 +1,144 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-r/R07.py",
+    "--mode",
+    "real"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "0a673bc51c2091a695604fe6e5ece3631c24a46a",
+  "started_utc": "2026-09-17T00:16:48.927177+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R01-input.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R01-retain.py",
+      "exists": true,
+      "bytes": 951,
+      "sha256": "bd14ca4d046c24b586d824e237fee4f8e70c2bda7f41bbdd1200de1dc04e78ea"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R01.py",
+      "exists": true,
+      "bytes": 3985,
+      "sha256": "f3cd2f0564d2dcb543fd358a975fe2e950307ffb28f6a5cfeac8bc7e8663ab54"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R02.py",
+      "exists": true,
+      "bytes": 3386,
+      "sha256": "afe50a76248b946e92fe21d1fb1b0de18f7266349899ad527a3cedf56f41011d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R03-replay.py",
+      "exists": true,
+      "bytes": 2228,
+      "sha256": "558629f229a83bd4c5e96ed7a0d256082c25ad79861307bf95a1b3fcf96a5c2e"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R03-stress.py",
+      "exists": true,
+      "bytes": 674,
+      "sha256": "f7e1d8b57d32a0671c61efcfdb58ff609a5f8f901d9e81a5701f1f74bfa72e68"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R03.py",
+      "exists": true,
+      "bytes": 5615,
+      "sha256": "45c872ff733ab3b8539c0077c755714ec87beb3b186477ef93bdbc1efa5a3636"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R04.py",
+      "exists": true,
+      "bytes": 8438,
+      "sha256": "c54a3c2bf3b0cf91f07ff001702c4d2d222413eda92e3a67ccdf921dd0d8d4d8"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R05-diagnose.py",
+      "exists": true,
+      "bytes": 1368,
+      "sha256": "49a2280110d67ec11197538d7730338ef38003aa741ed8e0f55a58970c3e7105"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R05.py",
+      "exists": true,
+      "bytes": 6828,
+      "sha256": "4b4764b88eef4fd5e9950dc9c118885c786458cc0c6c30ae0dd49cefe5ff33fd"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R06-check.py",
+      "exists": true,
+      "bytes": 1699,
+      "sha256": "94fddec9f03bf3efdb17ad3ebe2c6770ff31ce7a812c0c5f681a5dc870797eaa"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R06.py",
+      "exists": true,
+      "bytes": 4340,
+      "sha256": "bfa9a62475eac9a423c9a2fefe6ee6adeff6310e66cc1a702542f2842588b8ca"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R07-NUMERICAL-REPAIR.md",
+      "exists": true,
+      "bytes": 1185,
+      "sha256": "4389a46189e1b3eb0b27891e6f8f74f22995f5c2978766b0d36bf2d7c3c6664a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R07-SEED-CORRECTION.md",
+      "exists": true,
+      "bytes": 901,
+      "sha256": "e6cdf24bb4b7a755c17b2a24f65a20094a10406542a823b804244bd88eca277f"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R07-card.md",
+      "exists": true,
+      "bytes": 4176,
+      "sha256": "5adfa823ec025ed9ee4150ef5e7652c6d4f325dbcfc03bc20228215c4a6af1ca"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R07-controls-results.json",
+      "exists": true,
+      "bytes": 746639,
+      "sha256": "5f27cec45db0939d58a5927b2fd15b51d55ed9c96568ec3d2bd807d4dfbb10c7"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R07-repair-check.py",
+      "exists": true,
+      "bytes": 1264,
+      "sha256": "e856f987ec7bdceaf0054147477f0a9391a631dd434ac17cd9c2295c4f00ae64"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R07.py",
+      "exists": true,
+      "bytes": 6415,
+      "sha256": "a5adf7e242311675e4e89297c0acb97b3932446aeb7558ab75995b01dbeb8de4"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 82989,
+  "finished_utc": "2026-09-17T00:17:02.634667+00:00",
+  "duration_seconds": 13.707901208000001
+}

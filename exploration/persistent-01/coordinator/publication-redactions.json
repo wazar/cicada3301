@@ -782,5 +782,47 @@
     "original_sha256": "3d9ea9532c72b6a807c74b2f24cb9aa0b28af3a5674854d9939affce9f2250a7",
     "published_sha256": "ad3c00eccd5c1ee9af2bc8368017fd7ea48babe95e5ed6e80ada836829f5a689",
     "change": "Only checkoutprefix normalized in completed metadata/output. Original scientific/source bytes retained."
+  },
+  {
+    "path": "exploration/persistent-01/review-27/inputs.json",
+    "private_original": "exploration/persistent-01/private-originals/review-27/inputs.json",
+    "original_sha256": "0c298a16cbbed0b3a96067504fd48858fd00a9b93c0b5fbe3c2ec73f70ada26c",
+    "published_sha256": "b301d53f13b9a06c485d122952affacce795d7894aabe148c9ceb98ccdad4957",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/review-27/runs/20260917T002129.670326Z-rational-code-and-full-replay/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/review-27/runs/20260917T002129.670326Z-rational-code-and-full-replay/stderr.txt",
+    "original_sha256": "8197799c47a5ea6bc0281e5ec3d28763961fa46a01f5961af242caf35ddb34f6",
+    "published_sha256": "aed008353abfda90f7e5810e85424656f090c9eec562215e1b0386930d3e8272",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/review-28/inputs.json",
+    "private_original": "exploration/persistent-01/private-originals/review-28/inputs.json",
+    "original_sha256": "8af54af22b6a59dd2b090d8f4d123fad383906e12fdd2bfeac5de82d0736760e",
+    "published_sha256": "addf48e8dc1d644974eaebef500cda75573368286c74001cc1d756b8b158d89c",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/review-28/runs/20260917T002632.414697Z-independent-scalar-all-panels/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/review-28/runs/20260917T002632.414697Z-independent-scalar-all-panels/stderr.txt",
+    "original_sha256": "da9375c4b7cdf155633018568fd32e6ee07f6c249dc8e276ccb0e97fb8718962",
+    "published_sha256": "478131b0613b869762fd9d522ab83cd5ac089c6f4ddeafb6e2d73fbf47ce19bb",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/review-29/inputs.json",
+    "private_original": "exploration/persistent-01/private-originals/review-29/inputs.json",
+    "original_sha256": "5400f8c40d414c2b9016651afd355c8c84050eeb44b86a16f795eb6c786127f3",
+    "published_sha256": "ab59bba5c285607f96aed35b11b6423ee00a741f292e3f0b3d2d557ebcd4a5f1",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/worker-r/runs/20260917T001233.117219Z-R07-twelve-state-echo-controls/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/worker-r/runs/20260917T001233.117219Z-R07-twelve-state-echo-controls/stderr.txt",
+    "original_sha256": "daf02aa363ef42bc04c48c333c260dc8b4563cac445b50c63fb31bedde9ff253",
+    "published_sha256": "6958466459eb1848a18751261a40c611166123c2ec53095581654f96cb7ed9fe",
+    "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
   }
 ]

@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/review-27/check.py", line 40, in <module>
+    assert out==accepted;conditional.append([str(x) for x in masses])
+           ^^^^^^^^^^^^^
+AssertionError
