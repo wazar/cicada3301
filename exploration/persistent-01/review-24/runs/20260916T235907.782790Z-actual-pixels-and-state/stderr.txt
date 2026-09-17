@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/review-24/actual.py", line 16, in <module>
+    for i in range(418):assert np.array_equal(render(D['pixels'][i],0,blur[i],gamma[i],offsets[i]),z['pixels'][i])
+                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "review24-functions", line 48, in render
+  File "pixelhelpers", line 25, in transform
+NameError: name 'io' is not defined. Did you mean: 'im'? Or did you forget to import 'io'?

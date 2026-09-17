@@ -1,0 +1,263 @@
+{
+  "status": "PASS",
+  "name": "control-2",
+  "cells": 37006,
+  "feasible": 37006,
+  "threshold": -4.116065826419429,
+  "eligible_rerun_cells": 16,
+  "scalar_paths_checked": 59,
+  "best_score": -2.475484466936424,
+  "aliases": [
+    {
+      "score": -2.475484466936424,
+      "aliases": [
+        {
+          "offset": 8192,
+          "sign": -1
+        }
+      ],
+      "retained_aliases": [
+        {
+          "offset": 8192,
+          "sign": -1
+        }
+      ]
+    },
+    {
+      "score": -2.6721567782954945,
+      "aliases": [
+        {
+          "offset": 8192,
+          "sign": -1
+        }
+      ],
+      "retained_aliases": [
+        {
+          "offset": 8192,
+          "sign": -1
+        }
+      ]
+    },
+    {
+      "score": -2.6825635407308006,
+      "aliases": [
+        {
+          "offset": 8193,
+          "sign": -1
+        }
+      ],
+      "retained_aliases": [
+        {
+          "offset": 8193,
+          "sign": -1
+        }
+      ]
+    },
+    {
+      "score": -2.879235852089872,
+      "aliases": [
+        {
+          "offset": 8193,
+          "sign": -1
+        }
+      ],
+      "retained_aliases": [
+        {
+          "offset": 8193,
+          "sign": -1
+        }
+      ]
+    },
+    {
+      "score": -2.9545021840537697,
+      "aliases": [
+        {
+          "offset": 8192,
+          "sign": -1
+        }
+      ],
+      "retained_aliases": [
+        {
+          "offset": 8192,
+          "sign": -1
+        }
+      ]
+    },
+    {
+      "score": -3.161581257848147,
+      "aliases": [
+        {
+          "offset": 8193,
+          "sign": -1
+        }
+      ],
+      "retained_aliases": [
+        {
+          "offset": 8193,
+          "sign": -1
+        }
+      ]
+    },
+    {
+      "score": -3.202910136510628,
+      "aliases": [
+        {
+          "offset": 8192,
+          "sign": -1
+        }
+      ],
+      "retained_aliases": [
+        {
+          "offset": 8192,
+          "sign": -1
+        }
+      ]
+    },
+    {
+      "score": -3.409989210305005,
+      "aliases": [
+        {
+          "offset": 8193,
+          "sign": -1
+        }
+      ],
+      "retained_aliases": [
+        {
+          "offset": 8193,
+          "sign": -1
+        }
+      ]
+    },
+    {
+      "score": -3.9574681116723887,
+      "aliases": [
+        {
+          "offset": 5360,
+          "sign": -1
+        }
+      ],
+      "retained_aliases": [
+        {
+          "offset": 5360,
+          "sign": -1
+        }
+      ]
+    },
+    {
+      "score": -4.012591083100658,
+      "aliases": [
+        {
+          "offset": 5359,
+          "sign": -1
+        }
+      ],
+      "retained_aliases": [
+        {
+          "offset": 5359,
+          "sign": -1
+        }
+      ]
+    },
+    {
+      "score": -4.038151599218454,
+      "aliases": [
+        {
+          "offset": 15539,
+          "sign": -1
+        }
+      ],
+      "retained_aliases": [
+        {
+          "offset": 15539,
+          "sign": -1
+        }
+      ]
+    },
+    {
+      "score": -4.040351916591717,
+      "aliases": [
+        {
+          "offset": 1813,
+          "sign": -1
+        }
+      ],
+      "retained_aliases": [
+        {
+          "offset": 1813,
+          "sign": -1
+        }
+      ]
+    },
+    {
+      "score": -4.044163821596593,
+      "aliases": [
+        {
+          "offset": 15539,
+          "sign": -1
+        }
+      ],
+      "retained_aliases": [
+        {
+          "offset": 15539,
+          "sign": -1
+        }
+      ]
+    },
+    {
+      "score": -4.0742133749280285,
+      "aliases": [
+        {
+          "offset": 6656,
+          "sign": -1
+        }
+      ],
+      "retained_aliases": [
+        {
+          "offset": 6656,
+          "sign": -1
+        }
+      ]
+    },
+    {
+      "score": -4.0782533003209736,
+      "aliases": [
+        {
+          "offset": 15538,
+          "sign": -1
+        }
+      ],
+      "retained_aliases": [
+        {
+          "offset": 15538,
+          "sign": -1
+        }
+      ]
+    },
+    {
+      "score": -4.081637927033886,
+      "aliases": [
+        {
+          "offset": 1814,
+          "sign": -1
+        }
+      ],
+      "retained_aliases": [
+        {
+          "offset": 1814,
+          "sign": -1
+        }
+      ]
+    }
+  ],
+  "inputs": {
+    "<REPO_ROOT>/exploration/persistent-01/worker-p/P18/control-2-0-37006.jsonl.gz": {
+      "bytes": 2717087,
+      "sha256": "0a9398ff62c036334f556147e8a88c91bdee93d23fa34eea584980cb9f43be51"
+    }
+  },
+  "best_errors": 0,
+  "truth_rank": 1,
+  "truth_global_ranks": [
+    1
+  ]
+}

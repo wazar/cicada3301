@@ -1,0 +1,277 @@
+{
+  "status": "PASS",
+  "finite_boundary_cases": [
+    {
+      "cipher": [
+        0
+      ],
+      "key": [],
+      "sign": -1,
+      "valid_paths": 1,
+      "scores": [
+        -3.462735011954467
+      ]
+    },
+    {
+      "cipher": [
+        0
+      ],
+      "key": [],
+      "sign": 1,
+      "valid_paths": 1,
+      "scores": [
+        -3.462735011954467
+      ]
+    },
+    {
+      "cipher": [
+        1
+      ],
+      "key": [],
+      "sign": -1,
+      "valid_paths": 0,
+      "scores": []
+    },
+    {
+      "cipher": [
+        1
+      ],
+      "key": [],
+      "sign": 1,
+      "valid_paths": 0,
+      "scores": []
+    },
+    {
+      "cipher": [
+        0,
+        1
+      ],
+      "key": [
+        2
+      ],
+      "sign": -1,
+      "valid_paths": 1,
+      "scores": [
+        -5.021320011056896
+      ]
+    },
+    {
+      "cipher": [
+        0,
+        1
+      ],
+      "key": [
+        2
+      ],
+      "sign": 1,
+      "valid_paths": 1,
+      "scores": [
+        -2.525407599149814
+      ]
+    },
+    {
+      "cipher": [
+        1,
+        0
+      ],
+      "key": [
+        2
+      ],
+      "sign": -1,
+      "valid_paths": 1,
+      "scores": [
+        -4.521628676353298
+      ]
+    },
+    {
+      "cipher": [
+        1,
+        0
+      ],
+      "key": [
+        2
+      ],
+      "sign": 1,
+      "valid_paths": 1,
+      "scores": [
+        -1.910681387861035
+      ]
+    },
+    {
+      "cipher": [
+        0,
+        0
+      ],
+      "key": [
+        0
+      ],
+      "sign": -1,
+      "valid_paths": 3,
+      "scores": [
+        -3.2099279407045778,
+        -3.2099279407045778,
+        -3.2099279407045778
+      ]
+    },
+    {
+      "cipher": [
+        0,
+        0
+      ],
+      "key": [
+        0
+      ],
+      "sign": 1,
+      "valid_paths": 3,
+      "scores": [
+        -3.2099279407045778,
+        -3.2099279407045778,
+        -3.2099279407045778
+      ]
+    },
+    {
+      "cipher": [
+        1,
+        0,
+        2
+      ],
+      "key": [
+        3,
+        4
+      ],
+      "sign": -1,
+      "valid_paths": 1,
+      "scores": [
+        -6.168669281846389
+      ]
+    },
+    {
+      "cipher": [
+        1,
+        0,
+        2
+      ],
+      "key": [
+        3,
+        4
+      ],
+      "sign": 1,
+      "valid_paths": 1,
+      "scores": [
+        -5.410739461790931
+      ]
+    },
+    {
+      "cipher": [
+        0
+      ],
+      "key": [
+        0
+      ],
+      "sign": -1,
+      "valid_paths": 2,
+      "scores": [
+        -3.462735011954467,
+        -3.462735011954467
+      ]
+    },
+    {
+      "cipher": [
+        0
+      ],
+      "key": [
+        0
+      ],
+      "sign": 1,
+      "valid_paths": 2,
+      "scores": [
+        -3.462735011954467,
+        -3.462735011954467
+      ]
+    },
+    {
+      "cipher": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "key": [
+        8
+      ],
+      "sign": -1,
+      "valid_paths": 1,
+      "scores": [
+        -4.925603135977618
+      ]
+    },
+    {
+      "cipher": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "key": [
+        8
+      ],
+      "sign": 1,
+      "valid_paths": 1,
+      "scores": [
+        -3.8467385285214073
+      ]
+    }
+  ],
+  "controls": [
+    {
+      "ix": 0,
+      "cells": 36176,
+      "last_offset": 18087,
+      "used": 508,
+      "true_prefix_aliases": [
+        {
+          "offset": 0,
+          "sign": -1
+        }
+      ]
+    },
+    {
+      "ix": 1,
+      "cells": 36582,
+      "last_offset": 18290,
+      "used": 319,
+      "true_prefix_aliases": [
+        {
+          "offset": 4096,
+          "sign": 1
+        }
+      ]
+    },
+    {
+      "ix": 2,
+      "cells": 37006,
+      "last_offset": 18502,
+      "used": 84,
+      "true_prefix_aliases": [
+        {
+          "offset": 8192,
+          "sign": -1
+        }
+      ]
+    },
+    {
+      "ix": 3,
+      "cells": 37000,
+      "last_offset": 18499,
+      "used": 93,
+      "true_prefix_aliases": [
+        {
+          "offset": 12288,
+          "sign": 1
+        }
+      ]
+    }
+  ],
+  "pilot_paths": 256,
+  "key_length": 18584
+}

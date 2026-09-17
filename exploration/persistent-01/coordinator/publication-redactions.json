@@ -670,5 +670,117 @@
     "original_sha256": "49a6eba9d307775bf1829d1edab5461b3ac4622feceb4748931f55d7f2d087ce",
     "published_sha256": "b2a5518337ceecc1cd779c3a4f0a851987cc022eea2ef7caa4876cef53d99983",
     "change": "Only checkoutprefix normalized in completed metadata/output. Exact originals retained locally; scientific binary/source data unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/coordinator/P17-source-check/runs/20260917T001030.001717Z-signed-source-image-replay/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/coordinator/P17-source-check/runs/20260917T001030.001717Z-signed-source-image-replay/stderr.txt",
+    "original_sha256": "03131fd69c7347fc6e54e617423bb6b0a7b354ba9b00ba2bcf59931586e8a300",
+    "published_sha256": "dc1755bb06db35981b6991a3c227ffc48e637380bc7db7d988c7659790f3c9aa",
+    "change": "Only checkoutprefix normalized in completed metadata/output. Original scientific/source bytes retained."
+  },
+  {
+    "path": "exploration/persistent-01/review-24/actual-inputs.json",
+    "private_original": "exploration/persistent-01/private-originals/review-24/actual-inputs.json",
+    "original_sha256": "e61647292c51ed143b6e3eb93d193f57cdcf45017cb1467825da0706871d086d",
+    "published_sha256": "e48c723437f7e5d1b78f0d4bc042f5d64973d8334242bd3523ec222427e8b3eb",
+    "change": "Only checkoutprefix normalized in completed metadata/output. Original scientific/source bytes retained."
+  },
+  {
+    "path": "exploration/persistent-01/review-24/inputs.json",
+    "private_original": "exploration/persistent-01/private-originals/review-24/inputs.json",
+    "original_sha256": "dab6a3e1565830a63933ea115847f571289a2108366b1b4485c76ee6180cc08d",
+    "published_sha256": "7c4320176e90289c513d6dfcc1891384e8dc4bae006a9a142ea62562532c70a5",
+    "change": "Only checkoutprefix normalized in completed metadata/output. Original scientific/source bytes retained."
+  },
+  {
+    "path": "exploration/persistent-01/review-24/runs/20260916T235706.594744Z-morphology-bank-controls/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/review-24/runs/20260916T235706.594744Z-morphology-bank-controls/stderr.txt",
+    "original_sha256": "d92948a313fcef4146761d438d4437e8743f18d63ce12e17e62d98ea084ffc47",
+    "published_sha256": "5715300fe24426a5fa6f00a97fed98a912bbdf8d3becb0052000d14a7164c21d",
+    "change": "Only checkoutprefix normalized in completed metadata/output. Original scientific/source bytes retained."
+  },
+  {
+    "path": "exploration/persistent-01/review-24/runs/20260916T235907.782790Z-actual-pixels-and-state/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/review-24/runs/20260916T235907.782790Z-actual-pixels-and-state/stderr.txt",
+    "original_sha256": "f25c19849b6d27e0326bc62d937f86590ea1d0fd57d11467fa6c9e981078a4b5",
+    "published_sha256": "bbd9cdc077885f56ce3a8d937c526797014c60a2a921942dbd5e69a0c6c5c387",
+    "change": "Only checkoutprefix normalized in completed metadata/output. Original scientific/source bytes retained."
+  },
+  {
+    "path": "exploration/persistent-01/review-25/control-0-audit.json",
+    "private_original": "exploration/persistent-01/private-originals/review-25/control-0-audit.json",
+    "original_sha256": "0d1cdf2d45d4b92f318448cb3e5c0811fbfd5b79d36bbbbde52adc28efaee1c0",
+    "published_sha256": "876540676bfca390074adaa2f3ffec6516e5a2c606170d05eba323f9457d6a58",
+    "change": "Only checkoutprefix normalized in completed metadata/output. Original scientific/source bytes retained."
+  },
+  {
+    "path": "exploration/persistent-01/review-25/control-1-audit.json",
+    "private_original": "exploration/persistent-01/private-originals/review-25/control-1-audit.json",
+    "original_sha256": "8bacd0d4ededc290a0677f0c2784409c1a8330abd78df3b81a57eaf2a7b574b9",
+    "published_sha256": "9aa2ffd6ae0ea05afe1007776d5740c78a76833f10bd9220fc6b348588bfcc7e",
+    "change": "Only checkoutprefix normalized in completed metadata/output. Original scientific/source bytes retained."
+  },
+  {
+    "path": "exploration/persistent-01/review-25/control-2-audit.json",
+    "private_original": "exploration/persistent-01/private-originals/review-25/control-2-audit.json",
+    "original_sha256": "93731ab10f20f74d462964c21814a8dc37e5da02ef67f784a704035b6ec7378f",
+    "published_sha256": "edaa8cddcef7d38582e9d323058753e6362a7d5456c54461c77740021443ddfd",
+    "change": "Only checkoutprefix normalized in completed metadata/output. Original scientific/source bytes retained."
+  },
+  {
+    "path": "exploration/persistent-01/review-25/control-3-audit.json",
+    "private_original": "exploration/persistent-01/private-originals/review-25/control-3-audit.json",
+    "original_sha256": "25401c1f926698ef964f7542bb2ee0f0451bc3704086e09dc427c8cc42e778d4",
+    "published_sha256": "456c2050575699018ffc1a2e576486d80ee5a6adedb61cb52e7b51bfd2340904",
+    "change": "Only checkoutprefix normalized in completed metadata/output. Original scientific/source bytes retained."
+  },
+  {
+    "path": "exploration/persistent-01/review-25/null-0-audit.json",
+    "private_original": "exploration/persistent-01/private-originals/review-25/null-0-audit.json",
+    "original_sha256": "b2382a8b802446a99be57cc2467b4e4779312b82ba853679501f4f4514da6ecd",
+    "published_sha256": "99fa2aff8da8557ddf95ccbe6e08c3b908a47b066f3c3a280f5c54fac11a73c7",
+    "change": "Only checkoutprefix normalized in completed metadata/output. Original scientific/source bytes retained."
+  },
+  {
+    "path": "exploration/persistent-01/review-25/null-17-audit.json",
+    "private_original": "exploration/persistent-01/private-originals/review-25/null-17-audit.json",
+    "original_sha256": "f7540bf2d3fc8ee93d832f8a69d29bf158e9bdbb5a975e957d7f80b98f7bd43b",
+    "published_sha256": "b2093046906e8fd1f9e6450250f1270a3d78ac3d245ad75455e2c0e112efef09",
+    "change": "Only checkoutprefix normalized in completed metadata/output. Original scientific/source bytes retained."
+  },
+  {
+    "path": "exploration/persistent-01/review-25/precheck-inputs.json",
+    "private_original": "exploration/persistent-01/private-originals/review-25/precheck-inputs.json",
+    "original_sha256": "6ed3a06c8b89f56ab71b0bf67c738969f9a7f40af31712ee658ddd5969db5735",
+    "published_sha256": "59298eff0e9af81f50f1c8d7fde5cf3b291bb0b8a39379a9efb4c044712eb0b8",
+    "change": "Only checkoutprefix normalized in completed metadata/output. Original scientific/source bytes retained."
+  },
+  {
+    "path": "exploration/persistent-01/review-25/real-0-audit.json",
+    "private_original": "exploration/persistent-01/private-originals/review-25/real-0-audit.json",
+    "original_sha256": "2979306298f73f44cc3c33577eef6fa4b7fbc43b3fa9b5e536e32abb014b4a03",
+    "published_sha256": "1601079c0547c63cfb5b63822dfeb0d5ecef96dcce5b50b216669bd8b8cbdf8b",
+    "change": "Only checkoutprefix normalized in completed metadata/output. Original scientific/source bytes retained."
+  },
+  {
+    "path": "exploration/persistent-01/review-25/real-17-audit.json",
+    "private_original": "exploration/persistent-01/private-originals/review-25/real-17-audit.json",
+    "original_sha256": "91534e01bd7869f6816d45cb31d3b6e6f9f6b0421ea20c419b1a32781612a8a5",
+    "published_sha256": "312a1ed2a2fba97178f9b911c698421ce177aa609ada359e56cc1d6435d4ab67",
+    "change": "Only checkoutprefix normalized in completed metadata/output. Original scientific/source bytes retained."
+  },
+  {
+    "path": "exploration/persistent-01/review-26/inputs.json",
+    "private_original": "exploration/persistent-01/private-originals/review-26/inputs.json",
+    "original_sha256": "a48bd2c19ea5d0ed23e736958abc96dbfe70687cc81654358d130ae45c0d6c16",
+    "published_sha256": "8b8bd4fb42a30092c9959f9d3f952dccba0338d940e09d2580e2de2ee3d5563f",
+    "change": "Only checkoutprefix normalized in completed metadata/output. Original scientific/source bytes retained."
+  },
+  {
+    "path": "exploration/persistent-01/review-26/runs/20260917T001339.797834Z-full-rng-raster-statistic/stderr.txt",
+    "private_original": "exploration/persistent-01/private-originals/review-26/runs/20260917T001339.797834Z-full-rng-raster-statistic/stderr.txt",
+    "original_sha256": "3d9ea9532c72b6a807c74b2f24cb9aa0b28af3a5674854d9939affce9f2250a7",
+    "published_sha256": "ad3c00eccd5c1ee9af2bc8368017fd7ea48babe95e5ed6e80ada836829f5a689",
+    "change": "Only checkoutprefix normalized in completed metadata/output. Original scientific/source bytes retained."
   }
 ]

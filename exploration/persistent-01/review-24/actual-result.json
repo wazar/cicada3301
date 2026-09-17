@@ -1,0 +1,73 @@
+{
+  "status": "PASS",
+  "direct_candidate_scores_checked": 2748330,
+  "panels": [
+    {
+      "name": "R05-actual",
+      "coverage": 1.0,
+      "joint": null,
+      "centers": [
+        -1.5,
+        0.023195876288659795
+      ],
+      "minority": 0.015228426395939087,
+      "gain": 0.49389313854188077,
+      "both": 1,
+      "gate": false,
+      "lower_grid_bound_instances": [
+        {
+          "id": 63,
+          "shape": 1,
+          "train": false,
+          "weight": -1.5
+        },
+        {
+          "id": 78,
+          "shape": 1,
+          "train": true,
+          "weight": -1.5
+        },
+        {
+          "id": 100,
+          "shape": 1,
+          "train": true,
+          "weight": -1.5
+        },
+        {
+          "id": 254,
+          "shape": 1,
+          "train": true,
+          "weight": -1.5
+        }
+      ]
+    },
+    {
+      "name": "R05-actual-raster-0",
+      "coverage": 1.0,
+      "joint": null,
+      "centers": [
+        -0.2647058823529412,
+        0.029166666666666667
+      ],
+      "minority": 0.08629441624365482,
+      "gain": 0.3777809149721987,
+      "both": 13,
+      "gate": false,
+      "lower_grid_bound_instances": []
+    },
+    {
+      "name": "R05-actual-raster-1",
+      "coverage": 1.0,
+      "joint": null,
+      "centers": [
+        -0.029069767441860465,
+        0.25
+      ],
+      "minority": 0.12690355329949238,
+      "gain": 0.40584104076666927,
+      "both": 22,
+      "gate": false,
+      "lower_grid_bound_instances": []
+    }
+  ]
+}

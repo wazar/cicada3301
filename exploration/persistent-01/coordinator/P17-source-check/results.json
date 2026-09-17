@@ -1,0 +1,69 @@
+{
+  "commands": [
+    {
+      "command": [
+        "/opt/homebrew/bin/gpg",
+        "--no-options",
+        "--no-autostart",
+        "--homedir",
+        "<ISOLATED_TEMP_HOME>",
+        "--batch",
+        "--import",
+        "corpus/A-primary-artifacts/pgp/keys/cicada-3301-pubkey.keyserver.ubuntu.com.asc"
+      ],
+      "exit_code": 0,
+      "stdout": "",
+      "stderr": "gpg: keybox '<ISOLATED_TEMP_HOME>/pubring.kbx' created\ngpg: key 181F01E57A35090F: 313 signatures not checked due to missing keys\ngpg: <ISOLATED_TEMP_HOME>/trustdb.gpg: trustdb created\ngpg: key 181F01E57A35090F: public key \"Cicada 3301 (845145127)\" imported\ngpg: no gpg-agent running in this session\ngpg: Total number processed: 1\ngpg:               imported: 1\ngpg: no ultimately trusted keys found\n"
+    },
+    {
+      "command": [
+        "/opt/homebrew/bin/gpg",
+        "--no-options",
+        "--no-autostart",
+        "--homedir",
+        "<ISOLATED_TEMP_HOME>",
+        "--batch",
+        "--status-fd",
+        "1",
+        "--verify",
+        "corpus/A-primary-artifacts/pgp/messages/2012-01-second-chance.asc"
+      ],
+      "exit_code": 0,
+      "stdout": "[GNUPG:] NEWSIG\n[GNUPG:] KEY_CONSIDERED 6D854CD7933322A601C3286D181F01E57A35090F 0\n[GNUPG:] SIG_ID aP4fFyfYb/O/uWVIb5jtFN7P/dE 2012-01-11 1326266538\n[GNUPG:] GOODSIG 181F01E57A35090F Cicada 3301 (845145127)\n[GNUPG:] VALIDSIG 6D854CD7933322A601C3286D181F01E57A35090F 2012-01-11 1326266538 0 4 0 1 2 01 6D854CD7933322A601C3286D181F01E57A35090F\n[GNUPG:] TRUST_UNDEFINED 0 pgp\n",
+      "stderr": "gpg: Signature made Wed Jan 11 09:22:18 2012 SAST\ngpg:                using RSA key 181F01E57A35090F\ngpg: Good signature from \"Cicada 3301 (845145127)\" [unknown]\ngpg: WARNING: This key is not certified with a trusted signature!\ngpg:          There is no indication that the signature belongs to the owner.\n      6D854CD7933322A601C3286D181F01E57A35090F\n"
+    }
+  ],
+  "files": [
+    {
+      "path": "corpus/A-primary-artifacts/pgp/messages/2012-01-second-chance.asc",
+      "sha256": "82b49ba4fe46ac32a80382ccd49d49f29371b787bc84409378ff25e2d45729cc"
+    },
+    {
+      "path": "corpus/A-primary-artifacts/pgp/keys/cicada-3301-pubkey.keyserver.ubuntu.com.asc",
+      "sha256": "8ddb7c873fd569c5378305dcc4b0dbc79289fed54d276713453b4b8c17357cc9"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P17/hkdgl.png",
+      "sha256": "f4be4b74b1cc1479f9482d0e670375450b43d1b500a991de644f1cc9dea00217"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P17/mhh4.jpg",
+      "sha256": "e5d920d84de01f9976aff90ff15dd199a5aa03daa70bcf46c813a5ed306eaf32"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P17/pg45315.txt",
+      "sha256": "fc9a76619fcb76c58273d7fc9e034108b0d7fffed3780ad5b8226954a12b289a"
+    }
+  ],
+  "crop": [
+    5,
+    360,
+    368,
+    496
+  ],
+  "pixel_exact_fraction": 0.48284313725490197,
+  "mean_abs_channel_difference": 0.6419407983579106,
+  "max_channel_difference": 21,
+  "grayscale_correlation": 0.9999999764128169,
+  "signed_url_only": true
+}

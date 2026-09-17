@@ -1,0 +1,5 @@
+# Review24 — R05 stroke-weight detector
+
+Inspect frozen R05 card/code before scoring. Verify physical source-pixel signed-distance dilation/erosion precedes bounding-box normalization, including exact definition of grayscale interpolation, radius-zero identity and monotonic ink. Check joint identity/weight/orientation nuisance search, fixed ±1degree orientation limit, unchanged393eligible/196held scope, training-only templates and no truth-supplied target identity or state. Fixed low/high state direction, all rejects/mislabels count in control denominator. Fresh±.75/±1.25 controls include declared blur/gamma/phase/JPEG nuisance; ordinary blur/gamma panels must fail channel gate. Audit actual only if fixed gates pass. No scientific retuning, reserves, Git/shared writes, or new images; one CPU/logged<=900s/deadline.
+
+Sidecheck P16: logically verify complete-field evaluation parity lemma and independently recount corrected256 input bytes only, without duplicating field-product sweep. Bound concerns unweighted complete GF256 evaluations of degree<=254 and invertible linear byte coordinates, excludes column multipliers/puncturing/nonlinear labels/damage.

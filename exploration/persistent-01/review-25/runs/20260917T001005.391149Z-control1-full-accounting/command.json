@@ -1,0 +1,65 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-25/audit_packet.py",
+    "control-1"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "0a673bc51c2091a695604fe6e5ece3631c24a46a",
+  "started_utc": "2026-09-17T00:10:05.400833+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-25/audit_packet.py",
+      "exists": true,
+      "bytes": 4795,
+      "sha256": "5da387d573fd62d5879f95a47eea6c16724ed415a2bbea51440cd856cab91868"
+    },
+    {
+      "path": "exploration/persistent-01/review-25/precheck.py",
+      "exists": true,
+      "bytes": 4558,
+      "sha256": "7f0f63de269902056676fd7067405d40c1abfaa780c66850a419e7e0727b82cd"
+    },
+    {
+      "path": "exploration/persistent-01/review-25/source.py",
+      "exists": true,
+      "bytes": 1871,
+      "sha256": "18af475f8e65c72a54b00ff6c673cc993e029edd69571044c920ad9628cd6687"
+    },
+    {
+      "path": "exploration/persistent-01/review-25/top16_bound.py",
+      "exists": true,
+      "bytes": 1550,
+      "sha256": "ac484d24ccb614828b572b68b42b30e06216ff99edb3e1bfe64d2a6ce041e546"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P18/control-1-aggregate.json.gz",
+      "exists": true,
+      "bytes": 2985,
+      "sha256": "fe128337c4cc9cde5df1e65db008a8239ecf50b2a6f4399dff2bd289874daf08"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 82259,
+  "finished_utc": "2026-09-17T00:10:06.062855+00:00",
+  "duration_seconds": 0.6617708339981618
+}

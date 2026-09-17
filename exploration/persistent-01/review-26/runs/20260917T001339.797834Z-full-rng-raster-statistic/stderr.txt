@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/review-26/check.py", line 41, in <module>
+    assert upper==floatupper and (upper+1)/(n+1)==meta['p_upper'];assert abs(np.mean(counts)/27776-meta['null_mean'])<2e-16
+                                                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

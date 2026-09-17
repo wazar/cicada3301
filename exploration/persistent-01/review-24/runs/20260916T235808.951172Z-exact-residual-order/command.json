@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-24/check.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "9b43bd11a0657ed7fe5b996d1ebf48285c7c8fe0",
+  "started_utc": "2026-09-16T23:58:08.960038+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-24/check.py",
+      "exists": true,
+      "bytes": 8018,
+      "sha256": "d2a2ebabd7403c82d540a91b8e7be58f7579f16e723bbee5c81a2c8c1bee5648"
+    },
+    {
+      "path": "exploration/persistent-01/review-24/parity.py",
+      "exists": true,
+      "bytes": 555,
+      "sha256": "fe83bafad6bdb9cfa8ac62dcbfd9df0d010b0a68b99380f47d230f262961a751"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R05-card.md",
+      "exists": true,
+      "bytes": 3726,
+      "sha256": "c601ee514ea6b7c422aa493a00a963adf24414c330103f34b5e9e73283490f09"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R05.py",
+      "exists": true,
+      "bytes": 6828,
+      "sha256": "4b4764b88eef4fd5e9950dc9c118885c786458cc0c6c30ae0dd49cefe5ff33fd"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 80268,
+  "finished_utc": "2026-09-16T23:58:23.564354+00:00",
+  "duration_seconds": 14.604112625002017
+}

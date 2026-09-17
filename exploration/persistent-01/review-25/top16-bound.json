@@ -1,0 +1,510 @@
+{
+  "status": "PASS",
+  "random_alias_tie_cases": [
+    {
+      "seed": 0,
+      "cutoff": 8,
+      "rerun_cells": 29
+    },
+    {
+      "seed": 1,
+      "cutoff": 0,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 2,
+      "cutoff": 7,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 3,
+      "cutoff": 7,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 4,
+      "cutoff": 1,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 5,
+      "cutoff": 7,
+      "rerun_cells": 28
+    },
+    {
+      "seed": 6,
+      "cutoff": 8,
+      "rerun_cells": 28
+    },
+    {
+      "seed": 7,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 8,
+      "cutoff": 4,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 9,
+      "cutoff": 8,
+      "rerun_cells": 28
+    },
+    {
+      "seed": 10,
+      "cutoff": 7,
+      "rerun_cells": 29
+    },
+    {
+      "seed": 11,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 12,
+      "cutoff": 7,
+      "rerun_cells": 29
+    },
+    {
+      "seed": 13,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 14,
+      "cutoff": 8,
+      "rerun_cells": 23
+    },
+    {
+      "seed": 15,
+      "cutoff": 4,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 16,
+      "cutoff": 6,
+      "rerun_cells": 27
+    },
+    {
+      "seed": 17,
+      "cutoff": 6,
+      "rerun_cells": 26
+    },
+    {
+      "seed": 18,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 19,
+      "cutoff": 7,
+      "rerun_cells": 29
+    },
+    {
+      "seed": 20,
+      "cutoff": 8,
+      "rerun_cells": 29
+    },
+    {
+      "seed": 21,
+      "cutoff": 1,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 22,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 23,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 24,
+      "cutoff": 7,
+      "rerun_cells": 28
+    },
+    {
+      "seed": 25,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 26,
+      "cutoff": 6,
+      "rerun_cells": 29
+    },
+    {
+      "seed": 27,
+      "cutoff": 7,
+      "rerun_cells": 27
+    },
+    {
+      "seed": 28,
+      "cutoff": 4,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 29,
+      "cutoff": 6,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 30,
+      "cutoff": 9,
+      "rerun_cells": 28
+    },
+    {
+      "seed": 31,
+      "cutoff": 2,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 32,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 33,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 34,
+      "cutoff": 7,
+      "rerun_cells": 29
+    },
+    {
+      "seed": 35,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 36,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 37,
+      "cutoff": 4,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 38,
+      "cutoff": 0,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 39,
+      "cutoff": 7,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 40,
+      "cutoff": 7,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 41,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 42,
+      "cutoff": 9,
+      "rerun_cells": 25
+    },
+    {
+      "seed": 43,
+      "cutoff": 5,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 44,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 45,
+      "cutoff": 1,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 46,
+      "cutoff": 8,
+      "rerun_cells": 27
+    },
+    {
+      "seed": 47,
+      "cutoff": 7,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 48,
+      "cutoff": 7,
+      "rerun_cells": 28
+    },
+    {
+      "seed": 49,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 50,
+      "cutoff": 2,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 51,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 52,
+      "cutoff": 8,
+      "rerun_cells": 29
+    },
+    {
+      "seed": 53,
+      "cutoff": 7,
+      "rerun_cells": 29
+    },
+    {
+      "seed": 54,
+      "cutoff": 6,
+      "rerun_cells": 27
+    },
+    {
+      "seed": 55,
+      "cutoff": 7,
+      "rerun_cells": 29
+    },
+    {
+      "seed": 56,
+      "cutoff": 7,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 57,
+      "cutoff": 6,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 58,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 59,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 60,
+      "cutoff": 7,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 61,
+      "cutoff": 8,
+      "rerun_cells": 25
+    },
+    {
+      "seed": 62,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 63,
+      "cutoff": 7,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 64,
+      "cutoff": 6,
+      "rerun_cells": 27
+    },
+    {
+      "seed": 65,
+      "cutoff": 7,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 66,
+      "cutoff": 6,
+      "rerun_cells": 29
+    },
+    {
+      "seed": 67,
+      "cutoff": 6,
+      "rerun_cells": 29
+    },
+    {
+      "seed": 68,
+      "cutoff": 2,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 69,
+      "cutoff": 8,
+      "rerun_cells": 29
+    },
+    {
+      "seed": 70,
+      "cutoff": 8,
+      "rerun_cells": 27
+    },
+    {
+      "seed": 71,
+      "cutoff": 5,
+      "rerun_cells": 29
+    },
+    {
+      "seed": 72,
+      "cutoff": 6,
+      "rerun_cells": 29
+    },
+    {
+      "seed": 73,
+      "cutoff": 7,
+      "rerun_cells": 28
+    },
+    {
+      "seed": 74,
+      "cutoff": 7,
+      "rerun_cells": 28
+    },
+    {
+      "seed": 75,
+      "cutoff": 8,
+      "rerun_cells": 27
+    },
+    {
+      "seed": 76,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 77,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 78,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 79,
+      "cutoff": 4,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 80,
+      "cutoff": 6,
+      "rerun_cells": 28
+    },
+    {
+      "seed": 81,
+      "cutoff": 6,
+      "rerun_cells": 27
+    },
+    {
+      "seed": 82,
+      "cutoff": 9,
+      "rerun_cells": 27
+    },
+    {
+      "seed": 83,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 84,
+      "cutoff": 6,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 85,
+      "cutoff": 5,
+      "rerun_cells": 28
+    },
+    {
+      "seed": 86,
+      "cutoff": 8,
+      "rerun_cells": 29
+    },
+    {
+      "seed": 87,
+      "cutoff": 8,
+      "rerun_cells": 29
+    },
+    {
+      "seed": 88,
+      "cutoff": 8,
+      "rerun_cells": 27
+    },
+    {
+      "seed": 89,
+      "cutoff": 7,
+      "rerun_cells": 29
+    },
+    {
+      "seed": 90,
+      "cutoff": 7,
+      "rerun_cells": 28
+    },
+    {
+      "seed": 91,
+      "cutoff": 0,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 92,
+      "cutoff": 6,
+      "rerun_cells": 28
+    },
+    {
+      "seed": 93,
+      "cutoff": 8,
+      "rerun_cells": 26
+    },
+    {
+      "seed": 94,
+      "cutoff": 8,
+      "rerun_cells": 28
+    },
+    {
+      "seed": 95,
+      "cutoff": 4,
+      "rerun_cells": 28
+    },
+    {
+      "seed": 96,
+      "cutoff": -Infinity,
+      "rerun_cells": 30
+    },
+    {
+      "seed": 97,
+      "cutoff": 7,
+      "rerun_cells": 28
+    },
+    {
+      "seed": 98,
+      "cutoff": 7,
+      "rerun_cells": 29
+    },
+    {
+      "seed": 99,
+      "cutoff": 5,
+      "rerun_cells": 29
+    }
+  ],
+  "fallback_case": {
+    "unique_top1": 2,
+    "cutoff": "-inf",
+    "rerun_cells": 21
+  }
+}

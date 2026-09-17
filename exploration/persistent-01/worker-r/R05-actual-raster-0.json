@@ -1,0 +1,19 @@
+{
+  "centers": [
+    -0.2647058823529412,
+    0.029166666666666667
+  ],
+  "separation": 0.29387254901960785,
+  "training_minority": 0.08629441624365482,
+  "held_mse_gain": 0.3777809149722,
+  "eligible_held": 196,
+  "active_held": 196,
+  "correct_identity_held": 196,
+  "held_predicted_coverage": 1.0,
+  "held_correct_identity_coverage": 1.0,
+  "rejected_held": 0,
+  "misclassified_held": 0,
+  "both_state_classes": 13,
+  "channel_gate": false,
+  "held_state_agreement": 0.8520408163265306
+}

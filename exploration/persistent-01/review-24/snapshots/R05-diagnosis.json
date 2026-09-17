@@ -1,0 +1,2413 @@
+{
+  "R05-positive-0": [
+    {
+      "shape": 1,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 4,
+      "state1": 3,
+      "weights": [
+        0.25,
+        -0.75,
+        0.25,
+        -0.75,
+        1.25,
+        -0.75,
+        -1.25
+      ],
+      "joint_correct_state": 7
+    },
+    {
+      "shape": 2,
+      "held": 8,
+      "correct_identity": 8,
+      "state0": 4,
+      "state1": 4,
+      "weights": [
+        0.5,
+        0.5,
+        -0.75,
+        -0.75,
+        -0.75,
+        -0.75,
+        0.5,
+        0.5
+      ],
+      "joint_correct_state": 8
+    },
+    {
+      "shape": 3,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 4,
+      "state1": 3,
+      "weights": [
+        -1.25,
+        0.5,
+        -1.0,
+        -1.25,
+        -1.25,
+        0.75,
+        0.75
+      ],
+      "joint_correct_state": 7
+    },
+    {
+      "shape": 5,
+      "held": 8,
+      "correct_identity": 8,
+      "state0": 4,
+      "state1": 4,
+      "weights": [
+        0.5,
+        0.5,
+        -1.25,
+        0.5,
+        -0.75,
+        -0.75,
+        0.5,
+        -1.25
+      ],
+      "joint_correct_state": 8
+    },
+    {
+      "shape": 6,
+      "held": 14,
+      "correct_identity": 14,
+      "state0": 7,
+      "state1": 7,
+      "weights": [
+        -0.5,
+        -0.75,
+        0.75,
+        0.75,
+        -0.75,
+        -0.5,
+        0.75,
+        0.75,
+        -0.75,
+        0.75,
+        1.25,
+        0.5,
+        -0.5,
+        -0.5
+      ],
+      "joint_correct_state": 14
+    },
+    {
+      "shape": 7,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 4,
+      "state1": 3,
+      "weights": [
+        0.5,
+        0.5,
+        0.5,
+        -1.25,
+        -0.5,
+        -0.75,
+        -1.0
+      ],
+      "joint_correct_state": 7
+    },
+    {
+      "shape": 8,
+      "held": 5,
+      "correct_identity": 5,
+      "state0": 3,
+      "state1": 2,
+      "weights": [
+        1.25,
+        -0.5,
+        -0.5,
+        -0.5,
+        0.75
+      ],
+      "joint_correct_state": 5
+    },
+    {
+      "shape": 9,
+      "held": 10,
+      "correct_identity": 10,
+      "state0": 5,
+      "state1": 5,
+      "weights": [
+        0.75,
+        0.5,
+        -0.75,
+        0.75,
+        -0.5,
+        0.75,
+        -0.5,
+        -0.75,
+        0.75,
+        -0.75
+      ],
+      "joint_correct_state": 10
+    },
+    {
+      "shape": 10,
+      "held": 9,
+      "correct_identity": 9,
+      "state0": 5,
+      "state1": 4,
+      "weights": [
+        -0.75,
+        -1.0,
+        0.75,
+        0.75,
+        0.75,
+        -0.75,
+        -0.75,
+        0.75,
+        -0.5
+      ],
+      "joint_correct_state": 9
+    },
+    {
+      "shape": 12,
+      "held": 5,
+      "correct_identity": 5,
+      "state0": 3,
+      "state1": 2,
+      "weights": [
+        -0.75,
+        -0.75,
+        -0.75,
+        0.5,
+        0.75
+      ],
+      "joint_correct_state": 5
+    },
+    {
+      "shape": 13,
+      "held": 8,
+      "correct_identity": 8,
+      "state0": 4,
+      "state1": 4,
+      "weights": [
+        -1.25,
+        0.5,
+        0.5,
+        -1.25,
+        -0.75,
+        0.75,
+        -1.25,
+        0.75
+      ],
+      "joint_correct_state": 8
+    },
+    {
+      "shape": 14,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 3,
+      "state1": 3,
+      "weights": [
+        0.75,
+        -0.75,
+        0.5,
+        -0.75,
+        -0.75,
+        0.5
+      ],
+      "joint_correct_state": 6
+    },
+    {
+      "shape": 15,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 3,
+      "state1": 3,
+      "weights": [
+        -0.75,
+        0.5,
+        -0.75,
+        0.5,
+        0.75,
+        -0.75
+      ],
+      "joint_correct_state": 6
+    },
+    {
+      "shape": 16,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 4,
+      "state1": 3,
+      "weights": [
+        0.75,
+        -0.5,
+        -0.75,
+        0.5,
+        -0.75,
+        -0.5,
+        0.5
+      ],
+      "joint_correct_state": 7
+    },
+    {
+      "shape": 17,
+      "held": 4,
+      "correct_identity": 4,
+      "state0": 2,
+      "state1": 2,
+      "weights": [
+        0.75,
+        0.75,
+        -0.75,
+        -0.5
+      ],
+      "joint_correct_state": 4
+    },
+    {
+      "shape": 18,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 3,
+      "state1": 3,
+      "weights": [
+        -0.75,
+        0.5,
+        0.75,
+        -0.75,
+        -0.5,
+        0.75
+      ],
+      "joint_correct_state": 6
+    },
+    {
+      "shape": 19,
+      "held": 13,
+      "correct_identity": 13,
+      "state0": 7,
+      "state1": 6,
+      "weights": [
+        -0.75,
+        -0.25,
+        -0.25,
+        1.5,
+        -0.5,
+        -0.25,
+        -0.25,
+        -0.5,
+        0.75,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "joint_correct_state": 13
+    },
+    {
+      "shape": 20,
+      "held": 11,
+      "correct_identity": 11,
+      "state0": 6,
+      "state1": 5,
+      "weights": [
+        -1.25,
+        -1.25,
+        -1.25,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        -1.25,
+        -1.25,
+        -0.75,
+        1.0
+      ],
+      "joint_correct_state": 11
+    },
+    {
+      "shape": 21,
+      "held": 5,
+      "correct_identity": 5,
+      "state0": 3,
+      "state1": 2,
+      "weights": [
+        0.5,
+        0.75,
+        -1.0,
+        -0.5,
+        -0.5
+      ],
+      "joint_correct_state": 5
+    },
+    {
+      "shape": 22,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 3,
+      "state1": 3,
+      "weights": [
+        0.25,
+        -0.5,
+        0.5,
+        -0.75,
+        0.5,
+        -0.75
+      ],
+      "joint_correct_state": 6
+    },
+    {
+      "shape": 23,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 3,
+      "state1": 3,
+      "weights": [
+        0.75,
+        -0.75,
+        -0.5,
+        0.5,
+        -0.75,
+        1.25
+      ],
+      "joint_correct_state": 6
+    },
+    {
+      "shape": 24,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 4,
+      "state1": 3,
+      "weights": [
+        -0.75,
+        0.5,
+        -0.5,
+        -0.75,
+        0.5,
+        0.5,
+        -0.5
+      ],
+      "joint_correct_state": 7
+    },
+    {
+      "shape": 25,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 4,
+      "state1": 3,
+      "weights": [
+        1.5,
+        -0.75,
+        1.5,
+        -0.75,
+        -0.5,
+        0.75,
+        -0.75
+      ],
+      "joint_correct_state": 7
+    },
+    {
+      "shape": 26,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 3,
+      "state1": 3,
+      "weights": [
+        0.75,
+        0.75,
+        -0.5,
+        -0.75,
+        0.5,
+        -0.5
+      ],
+      "joint_correct_state": 6
+    },
+    {
+      "shape": 27,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 4,
+      "state1": 3,
+      "weights": [
+        -0.75,
+        -0.5,
+        0.75,
+        -0.5,
+        0.5,
+        -0.5,
+        0.5
+      ],
+      "joint_correct_state": 7
+    },
+    {
+      "shape": 28,
+      "held": 4,
+      "correct_identity": 4,
+      "state0": 2,
+      "state1": 2,
+      "weights": [
+        1.25,
+        -0.5,
+        0.75,
+        -0.5
+      ],
+      "joint_correct_state": 4
+    },
+    {
+      "shape": 29,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 4,
+      "state1": 3,
+      "weights": [
+        0.75,
+        0.75,
+        -0.75,
+        1.0,
+        -1.0,
+        -0.75,
+        -0.75
+      ],
+      "joint_correct_state": 7
+    }
+  ],
+  "R05-positive-1": [
+    {
+      "shape": 1,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 1,
+      "state1": 6,
+      "weights": [
+        0.5,
+        0.5,
+        0.5,
+        0.25,
+        -0.25,
+        0.5,
+        0.5
+      ],
+      "joint_correct_state": 4
+    },
+    {
+      "shape": 2,
+      "held": 8,
+      "correct_identity": 8,
+      "state0": 4,
+      "state1": 4,
+      "weights": [
+        1.25,
+        -1.0,
+        -1.25,
+        1.5,
+        -1.5,
+        1.25,
+        -1.25,
+        1.5
+      ],
+      "joint_correct_state": 8
+    },
+    {
+      "shape": 3,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 4,
+      "state1": 3,
+      "weights": [
+        -1.5,
+        0.75,
+        -1.0,
+        -1.5,
+        0.75,
+        -1.25,
+        1.25
+      ],
+      "joint_correct_state": 7
+    },
+    {
+      "shape": 5,
+      "held": 8,
+      "correct_identity": 8,
+      "state0": 4,
+      "state1": 4,
+      "weights": [
+        -1.5,
+        1.0,
+        -1.5,
+        0.75,
+        1.0,
+        -1.25,
+        -1.5,
+        1.0
+      ],
+      "joint_correct_state": 8
+    },
+    {
+      "shape": 6,
+      "held": 14,
+      "correct_identity": 14,
+      "state0": 7,
+      "state1": 7,
+      "weights": [
+        -1.0,
+        1.5,
+        -1.25,
+        1.25,
+        1.25,
+        -0.75,
+        -1.25,
+        -1.25,
+        -1.25,
+        1.25,
+        1.5,
+        -1.25,
+        1.5,
+        1.5
+      ],
+      "joint_correct_state": 14
+    },
+    {
+      "shape": 7,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 4,
+      "state1": 3,
+      "weights": [
+        1.0,
+        1.0,
+        -1.5,
+        -1.5,
+        0.75,
+        -1.5,
+        -1.5
+      ],
+      "joint_correct_state": 7
+    },
+    {
+      "shape": 8,
+      "held": 5,
+      "correct_identity": 5,
+      "state0": 3,
+      "state1": 2,
+      "weights": [
+        -0.5,
+        0.75,
+        -0.5,
+        -0.5,
+        0.75
+      ],
+      "joint_correct_state": 5
+    },
+    {
+      "shape": 9,
+      "held": 10,
+      "correct_identity": 10,
+      "state0": 5,
+      "state1": 5,
+      "weights": [
+        1.25,
+        -1.25,
+        -1.25,
+        1.5,
+        1.25,
+        0.75,
+        1.25,
+        -1.25,
+        -1.0,
+        -0.75
+      ],
+      "joint_correct_state": 10
+    },
+    {
+      "shape": 10,
+      "held": 9,
+      "correct_identity": 9,
+      "state0": 5,
+      "state1": 4,
+      "weights": [
+        1.25,
+        1.5,
+        1.25,
+        -1.25,
+        -1.25,
+        -1.25,
+        -1.0,
+        1.25,
+        -1.25
+      ],
+      "joint_correct_state": 9
+    },
+    {
+      "shape": 12,
+      "held": 5,
+      "correct_identity": 5,
+      "state0": 3,
+      "state1": 2,
+      "weights": [
+        1.25,
+        -1.25,
+        1.25,
+        -1.25,
+        -1.25
+      ],
+      "joint_correct_state": 5
+    },
+    {
+      "shape": 13,
+      "held": 8,
+      "correct_identity": 8,
+      "state0": 4,
+      "state1": 4,
+      "weights": [
+        0.75,
+        -1.5,
+        0.75,
+        -1.5,
+        -1.5,
+        1.25,
+        0.75,
+        -1.25
+      ],
+      "joint_correct_state": 8
+    },
+    {
+      "shape": 14,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 3,
+      "state1": 3,
+      "weights": [
+        1.25,
+        -1.25,
+        -1.5,
+        1.25,
+        1.25,
+        -1.25
+      ],
+      "joint_correct_state": 6
+    },
+    {
+      "shape": 15,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 3,
+      "state1": 3,
+      "weights": [
+        -1.25,
+        0.75,
+        1.25,
+        -1.25,
+        1.25,
+        -1.25
+      ],
+      "joint_correct_state": 6
+    },
+    {
+      "shape": 16,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 4,
+      "state1": 3,
+      "weights": [
+        -1.25,
+        1.25,
+        -1.5,
+        1.25,
+        -1.5,
+        1.25,
+        -1.5
+      ],
+      "joint_correct_state": 7
+    },
+    {
+      "shape": 17,
+      "held": 4,
+      "correct_identity": 4,
+      "state0": 2,
+      "state1": 2,
+      "weights": [
+        -1.0,
+        1.5,
+        -1.25,
+        1.25
+      ],
+      "joint_correct_state": 4
+    },
+    {
+      "shape": 18,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 3,
+      "state1": 3,
+      "weights": [
+        -0.75,
+        0.75,
+        -1.25,
+        0.75,
+        0.75,
+        -0.75
+      ],
+      "joint_correct_state": 6
+    },
+    {
+      "shape": 19,
+      "held": 13,
+      "correct_identity": 13,
+      "state0": 7,
+      "state1": 6,
+      "weights": [
+        -1.25,
+        1.5,
+        -0.75,
+        -0.75,
+        1.0,
+        1.5,
+        1.5,
+        -0.5,
+        -1.25,
+        -1.25,
+        0.75,
+        -1.0,
+        1.25
+      ],
+      "joint_correct_state": 13
+    },
+    {
+      "shape": 20,
+      "held": 11,
+      "correct_identity": 11,
+      "state0": 6,
+      "state1": 5,
+      "weights": [
+        -1.5,
+        -1.5,
+        0.75,
+        0.75,
+        -1.5,
+        -1.5,
+        -1.5,
+        -1.5,
+        0.75,
+        0.5,
+        1.25
+      ],
+      "joint_correct_state": 11
+    },
+    {
+      "shape": 21,
+      "held": 5,
+      "correct_identity": 5,
+      "state0": 3,
+      "state1": 2,
+      "weights": [
+        -1.25,
+        1.25,
+        -1.0,
+        -1.0,
+        1.25
+      ],
+      "joint_correct_state": 5
+    },
+    {
+      "shape": 22,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 3,
+      "state1": 3,
+      "weights": [
+        -1.0,
+        -0.5,
+        1.5,
+        1.25,
+        -0.75,
+        0.75
+      ],
+      "joint_correct_state": 6
+    },
+    {
+      "shape": 23,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 3,
+      "state1": 3,
+      "weights": [
+        -1.25,
+        1.25,
+        -0.75,
+        1.0,
+        -1.25,
+        1.5
+      ],
+      "joint_correct_state": 6
+    },
+    {
+      "shape": 24,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 4,
+      "state1": 3,
+      "weights": [
+        -1.25,
+        -1.25,
+        1.5,
+        -1.25,
+        -1.0,
+        1.5,
+        1.5
+      ],
+      "joint_correct_state": 7
+    },
+    {
+      "shape": 25,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 4,
+      "state1": 3,
+      "weights": [
+        -0.75,
+        -1.25,
+        -1.0,
+        1.25,
+        -0.75,
+        1.0,
+        1.25
+      ],
+      "joint_correct_state": 7
+    },
+    {
+      "shape": 26,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 3,
+      "state1": 3,
+      "weights": [
+        -1.0,
+        1.25,
+        -1.25,
+        1.25,
+        -1.25,
+        1.25
+      ],
+      "joint_correct_state": 6
+    },
+    {
+      "shape": 27,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 4,
+      "state1": 3,
+      "weights": [
+        -1.5,
+        1.25,
+        1.25,
+        -1.25,
+        -1.5,
+        -1.25,
+        0.75
+      ],
+      "joint_correct_state": 7
+    },
+    {
+      "shape": 28,
+      "held": 4,
+      "correct_identity": 4,
+      "state0": 2,
+      "state1": 2,
+      "weights": [
+        1.5,
+        1.5,
+        -1.25,
+        -1.0
+      ],
+      "joint_correct_state": 4
+    },
+    {
+      "shape": 29,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 4,
+      "state1": 3,
+      "weights": [
+        -1.0,
+        1.25,
+        -1.0,
+        1.25,
+        -1.25,
+        1.25,
+        -1.0
+      ],
+      "joint_correct_state": 7
+    }
+  ],
+  "R05-actual": [
+    {
+      "shape": 1,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 1,
+      "state1": 6,
+      "weights": [
+        0.0,
+        0.0,
+        -1.5,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "shape": 2,
+      "held": 8,
+      "correct_identity": 8,
+      "state0": 0,
+      "state1": 8,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "shape": 3,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 0,
+      "state1": 7,
+      "weights": [
+        -0.25,
+        -0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "shape": 5,
+      "held": 8,
+      "correct_identity": 8,
+      "state0": 0,
+      "state1": 8,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "shape": 6,
+      "held": 14,
+      "correct_identity": 14,
+      "state0": 0,
+      "state1": 14,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.25,
+        0.0,
+        0.25,
+        0.0
+      ]
+    },
+    {
+      "shape": 7,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 0,
+      "state1": 7,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.25,
+        -0.25
+      ]
+    },
+    {
+      "shape": 8,
+      "held": 5,
+      "correct_identity": 5,
+      "state0": 0,
+      "state1": 5,
+      "weights": [
+        0.25,
+        0.25,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "shape": 9,
+      "held": 10,
+      "correct_identity": 10,
+      "state0": 0,
+      "state1": 10,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "shape": 10,
+      "held": 9,
+      "correct_identity": 9,
+      "state0": 0,
+      "state1": 9,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "shape": 12,
+      "held": 5,
+      "correct_identity": 5,
+      "state0": 0,
+      "state1": 5,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "shape": 13,
+      "held": 8,
+      "correct_identity": 8,
+      "state0": 0,
+      "state1": 8,
+      "weights": [
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25,
+        -0.25,
+        0.0,
+        -0.25,
+        0.0
+      ]
+    },
+    {
+      "shape": 14,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 0,
+      "state1": 6,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "shape": 15,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 0,
+      "state1": 6,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "shape": 16,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 0,
+      "state1": 7,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "shape": 17,
+      "held": 4,
+      "correct_identity": 4,
+      "state0": 0,
+      "state1": 4,
+      "weights": [
+        0.25,
+        0.25,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "shape": 18,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 0,
+      "state1": 6,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "shape": 19,
+      "held": 13,
+      "correct_identity": 13,
+      "state0": 0,
+      "state1": 13,
+      "weights": [
+        0.0,
+        0.25,
+        0.25,
+        0.25,
+        0.0,
+        0.25,
+        0.25,
+        0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "shape": 20,
+      "held": 11,
+      "correct_identity": 11,
+      "state0": 0,
+      "state1": 11,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "shape": 21,
+      "held": 5,
+      "correct_identity": 5,
+      "state0": 0,
+      "state1": 5,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.25,
+        0.0
+      ]
+    },
+    {
+      "shape": 22,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 0,
+      "state1": 6,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "shape": 23,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 0,
+      "state1": 6,
+      "weights": [
+        0.0,
+        0.0,
+        0.25,
+        0.0,
+        0.0,
+        0.25
+      ]
+    },
+    {
+      "shape": 24,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 0,
+      "state1": 7,
+      "weights": [
+        0.0,
+        0.0,
+        0.25,
+        -0.25,
+        -0.25,
+        -0.25,
+        0.25
+      ]
+    },
+    {
+      "shape": 25,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 0,
+      "state1": 7,
+      "weights": [
+        0.25,
+        0.0,
+        0.25,
+        0.0,
+        0.25,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "shape": 26,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 0,
+      "state1": 6,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "shape": 27,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 0,
+      "state1": 7,
+      "weights": [
+        0.0,
+        0.25,
+        0.25,
+        0.0,
+        0.0,
+        0.25,
+        0.0
+      ]
+    },
+    {
+      "shape": 28,
+      "held": 4,
+      "correct_identity": 4,
+      "state0": 0,
+      "state1": 4,
+      "weights": [
+        0.25,
+        0.25,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "shape": 29,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 0,
+      "state1": 7,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "R05-actual-raster-0": [
+    {
+      "shape": 1,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 0,
+      "state1": 7,
+      "weights": [
+        0.5,
+        0.5,
+        0.75,
+        0.75,
+        0.75,
+        0.5,
+        0.5
+      ],
+      "joint_correct_state": 0
+    },
+    {
+      "shape": 2,
+      "held": 8,
+      "correct_identity": 8,
+      "state0": 0,
+      "state1": 8,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.25,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 0
+    },
+    {
+      "shape": 3,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 1,
+      "state1": 6,
+      "weights": [
+        0.0,
+        0.0,
+        -0.25,
+        0.0,
+        0.0,
+        0.25,
+        0.0
+      ],
+      "joint_correct_state": 1
+    },
+    {
+      "shape": 5,
+      "held": 8,
+      "correct_identity": 8,
+      "state0": 0,
+      "state1": 8,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 0
+    },
+    {
+      "shape": 6,
+      "held": 14,
+      "correct_identity": 14,
+      "state0": 3,
+      "state1": 11,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        -0.25,
+        0.0,
+        0.0,
+        0.0,
+        -0.25,
+        0.0,
+        0.0,
+        0.25,
+        -0.25,
+        0.25,
+        0.0
+      ],
+      "joint_correct_state": 3
+    },
+    {
+      "shape": 7,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 1,
+      "state1": 6,
+      "weights": [
+        -0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 1
+    },
+    {
+      "shape": 8,
+      "held": 5,
+      "correct_identity": 5,
+      "state0": 0,
+      "state1": 5,
+      "weights": [
+        0.25,
+        0.25,
+        0.0,
+        0.25,
+        0.0
+      ],
+      "joint_correct_state": 0
+    },
+    {
+      "shape": 9,
+      "held": 10,
+      "correct_identity": 10,
+      "state0": 0,
+      "state1": 10,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 0
+    },
+    {
+      "shape": 10,
+      "held": 9,
+      "correct_identity": 9,
+      "state0": 2,
+      "state1": 7,
+      "weights": [
+        0.0,
+        0.0,
+        -0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.25,
+        0.0
+      ],
+      "joint_correct_state": 2
+    },
+    {
+      "shape": 12,
+      "held": 5,
+      "correct_identity": 5,
+      "state0": 0,
+      "state1": 5,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 0
+    },
+    {
+      "shape": 13,
+      "held": 8,
+      "correct_identity": 8,
+      "state0": 6,
+      "state1": 2,
+      "weights": [
+        -0.25,
+        -0.5,
+        -0.25,
+        -0.5,
+        -0.25,
+        0.0,
+        -0.25,
+        0.0
+      ],
+      "joint_correct_state": 6
+    },
+    {
+      "shape": 14,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 0,
+      "state1": 6,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 0
+    },
+    {
+      "shape": 15,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 0,
+      "state1": 6,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 0
+    },
+    {
+      "shape": 16,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 0,
+      "state1": 7,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 0
+    },
+    {
+      "shape": 17,
+      "held": 4,
+      "correct_identity": 4,
+      "state0": 0,
+      "state1": 4,
+      "weights": [
+        0.25,
+        0.25,
+        0.0,
+        0.25
+      ],
+      "joint_correct_state": 0
+    },
+    {
+      "shape": 18,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 2,
+      "state1": 4,
+      "weights": [
+        0.25,
+        -0.25,
+        0.0,
+        0.0,
+        -0.25,
+        0.0
+      ],
+      "joint_correct_state": 2
+    },
+    {
+      "shape": 19,
+      "held": 13,
+      "correct_identity": 13,
+      "state0": 2,
+      "state1": 11,
+      "weights": [
+        -0.25,
+        0.0,
+        0.0,
+        0.25,
+        0.0,
+        0.0,
+        0.25,
+        0.0,
+        -0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 2
+    },
+    {
+      "shape": 20,
+      "held": 11,
+      "correct_identity": 11,
+      "state0": 4,
+      "state1": 7,
+      "weights": [
+        0.0,
+        -0.25,
+        -0.25,
+        -0.25,
+        0.0,
+        -0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.25
+      ],
+      "joint_correct_state": 4
+    },
+    {
+      "shape": 21,
+      "held": 5,
+      "correct_identity": 5,
+      "state0": 0,
+      "state1": 5,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.25,
+        0.0
+      ],
+      "joint_correct_state": 0
+    },
+    {
+      "shape": 22,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 2,
+      "state1": 4,
+      "weights": [
+        -0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.25,
+        -0.25
+      ],
+      "joint_correct_state": 2
+    },
+    {
+      "shape": 23,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 1,
+      "state1": 5,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.25,
+        0.25
+      ],
+      "joint_correct_state": 1
+    },
+    {
+      "shape": 24,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 2,
+      "state1": 5,
+      "weights": [
+        -0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.25,
+        0.0
+      ],
+      "joint_correct_state": 2
+    },
+    {
+      "shape": 25,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 2,
+      "state1": 5,
+      "weights": [
+        0.25,
+        0.0,
+        0.5,
+        0.0,
+        0.25,
+        -0.25,
+        -0.25
+      ],
+      "joint_correct_state": 2
+    },
+    {
+      "shape": 26,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 0,
+      "state1": 6,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 0
+    },
+    {
+      "shape": 27,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 0,
+      "state1": 7,
+      "weights": [
+        0.0,
+        0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 0
+    },
+    {
+      "shape": 28,
+      "held": 4,
+      "correct_identity": 4,
+      "state0": 0,
+      "state1": 4,
+      "weights": [
+        0.25,
+        0.25,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 0
+    },
+    {
+      "shape": 29,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 0,
+      "state1": 7,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.25,
+        0.0,
+        0.0,
+        0.25
+      ],
+      "joint_correct_state": 0
+    }
+  ],
+  "R05-actual-raster-1": [
+    {
+      "shape": 1,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 3,
+      "state1": 4,
+      "weights": [
+        -0.25,
+        0.25,
+        0.5,
+        0.75,
+        -0.5,
+        0.25,
+        -1.25
+      ],
+      "joint_correct_state": 3
+    },
+    {
+      "shape": 2,
+      "held": 8,
+      "correct_identity": 8,
+      "state0": 7,
+      "state1": 1,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.25
+      ],
+      "joint_correct_state": 7
+    },
+    {
+      "shape": 3,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 7,
+      "state1": 0,
+      "weights": [
+        0.0,
+        -0.25,
+        0.0,
+        -0.25,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 7
+    },
+    {
+      "shape": 5,
+      "held": 8,
+      "correct_identity": 8,
+      "state0": 8,
+      "state1": 0,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.25
+      ],
+      "joint_correct_state": 8
+    },
+    {
+      "shape": 6,
+      "held": 14,
+      "correct_identity": 14,
+      "state0": 12,
+      "state1": 2,
+      "weights": [
+        0.0,
+        0.25,
+        0.0,
+        -0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.25,
+        0.0
+      ],
+      "joint_correct_state": 12
+    },
+    {
+      "shape": 7,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 7,
+      "state1": 0,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.25,
+        0.0
+      ],
+      "joint_correct_state": 7
+    },
+    {
+      "shape": 8,
+      "held": 5,
+      "correct_identity": 5,
+      "state0": 3,
+      "state1": 2,
+      "weights": [
+        0.25,
+        0.25,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 3
+    },
+    {
+      "shape": 9,
+      "held": 10,
+      "correct_identity": 10,
+      "state0": 10,
+      "state1": 0,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 10
+    },
+    {
+      "shape": 10,
+      "held": 9,
+      "correct_identity": 9,
+      "state0": 9,
+      "state1": 0,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 9
+    },
+    {
+      "shape": 12,
+      "held": 5,
+      "correct_identity": 5,
+      "state0": 5,
+      "state1": 0,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 5
+    },
+    {
+      "shape": 13,
+      "held": 8,
+      "correct_identity": 8,
+      "state0": 7,
+      "state1": 1,
+      "weights": [
+        -0.25,
+        -0.5,
+        -0.25,
+        -0.25,
+        -0.25,
+        0.0,
+        -0.25,
+        0.25
+      ],
+      "joint_correct_state": 7
+    },
+    {
+      "shape": 14,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 5,
+      "state1": 1,
+      "weights": [
+        0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 5
+    },
+    {
+      "shape": 15,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 6,
+      "state1": 0,
+      "weights": [
+        0.0,
+        -0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 6
+    },
+    {
+      "shape": 16,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 7,
+      "state1": 0,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 7
+    },
+    {
+      "shape": 17,
+      "held": 4,
+      "correct_identity": 4,
+      "state0": 1,
+      "state1": 3,
+      "weights": [
+        0.25,
+        0.25,
+        0.0,
+        0.25
+      ],
+      "joint_correct_state": 1
+    },
+    {
+      "shape": 18,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 6,
+      "state1": 0,
+      "weights": [
+        0.0,
+        -0.25,
+        0.0,
+        -0.25,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 6
+    },
+    {
+      "shape": 19,
+      "held": 13,
+      "correct_identity": 13,
+      "state0": 10,
+      "state1": 3,
+      "weights": [
+        -0.25,
+        0.0,
+        0.25,
+        0.0,
+        0.0,
+        0.25,
+        0.0,
+        0.25,
+        -0.25,
+        0.0,
+        0.0,
+        0.0,
+        -0.25
+      ],
+      "joint_correct_state": 10
+    },
+    {
+      "shape": 20,
+      "held": 11,
+      "correct_identity": 11,
+      "state0": 10,
+      "state1": 1,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.25
+      ],
+      "joint_correct_state": 10
+    },
+    {
+      "shape": 21,
+      "held": 5,
+      "correct_identity": 5,
+      "state0": 4,
+      "state1": 1,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.25,
+        -0.25
+      ],
+      "joint_correct_state": 4
+    },
+    {
+      "shape": 22,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 6,
+      "state1": 0,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 6
+    },
+    {
+      "shape": 23,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 4,
+      "state1": 2,
+      "weights": [
+        0.0,
+        -0.25,
+        0.25,
+        0.0,
+        0.0,
+        0.25
+      ],
+      "joint_correct_state": 4
+    },
+    {
+      "shape": 24,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 7,
+      "state1": 0,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        -0.25,
+        -0.25,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 7
+    },
+    {
+      "shape": 25,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 5,
+      "state1": 2,
+      "weights": [
+        0.0,
+        0.0,
+        0.25,
+        -0.25,
+        0.25,
+        0.0,
+        -0.25
+      ],
+      "joint_correct_state": 5
+    },
+    {
+      "shape": 26,
+      "held": 6,
+      "correct_identity": 6,
+      "state0": 6,
+      "state1": 0,
+      "weights": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 6
+    },
+    {
+      "shape": 27,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 6,
+      "state1": 1,
+      "weights": [
+        0.0,
+        0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 6
+    },
+    {
+      "shape": 28,
+      "held": 4,
+      "correct_identity": 4,
+      "state0": 2,
+      "state1": 2,
+      "weights": [
+        0.25,
+        0.25,
+        0.0,
+        0.0
+      ],
+      "joint_correct_state": 2
+    },
+    {
+      "shape": 29,
+      "held": 7,
+      "correct_identity": 7,
+      "state0": 6,
+      "state1": 1,
+      "weights": [
+        0.0,
+        0.25,
+        0.0,
+        0.0,
+        0.0,
+        -0.25,
+        0.0
+      ],
+      "joint_correct_state": 6
+    }
+  ],
+  "actual_low_state_details": [
+    {
+      "index": 63,
+      "shape": 1,
+      "train": false,
+      "weight": -1.5,
+      "identity_weight_mse": [
+        3.153835063437142e-07,
+        0.00026816608996539724,
+        3.8296568627451026e-07,
+        3.8296568627451026e-07,
+        3.8296568627451026e-07,
+        0.0007041162053056505,
+        6.532944059976946e-07,
+        0.011587700643983043,
+        0.002322093665897731,
+        0.005084049704440596,
+        3.3791089965397955e-07,
+        3.3791089965397955e-07,
+        3.3791089965397955e-07
+      ],
+      "tied_minimum_weights": [
+        -1.5
+      ]
+    },
+    {
+      "index": 78,
+      "shape": 1,
+      "train": true,
+      "weight": -1.5,
+      "identity_weight_mse": [
+        6.23257881584007e-07,
+        0.00026486958141099545,
+        6.307670126874287e-07,
+        6.307670126874287e-07,
+        6.307670126874287e-07,
+        0.0007016907559592461,
+        6.307670126874288e-07,
+        0.011596073325163362,
+        0.0023076235702614357,
+        0.00507780961649365,
+        6.457852748942723e-07,
+        6.457852748942723e-07,
+        6.457852748942723e-07
+      ],
+      "tied_minimum_weights": [
+        -1.5
+      ]
+    },
+    {
+      "index": 100,
+      "shape": 1,
+      "train": true,
+      "weight": -1.5,
+      "identity_weight_mse": [
+        2.170138888888888e-06,
+        0.0002415161836793546,
+        2.1776480199923096e-06,
+        2.1776480199923096e-06,
+        2.1776480199923096e-06,
+        0.0006722249255094207,
+        2.207684544405996e-06,
+        0.011502629697712397,
+        0.0022037722871011125,
+        0.005085964532871959,
+        2.1926662821991528e-06,
+        2.1926662821991528e-06,
+        2.1926662821991528e-06
+      ],
+      "tied_minimum_weights": [
+        -1.5
+      ]
+    },
+    {
+      "index": 254,
+      "shape": 1,
+      "train": true,
+      "weight": -1.5,
+      "identity_weight_mse": [
+        6.833309304113811e-07,
+        0.00026378826653210264,
+        7.509131103421772e-07,
+        7.509131103421772e-07,
+        7.509131103421772e-07,
+        0.000697515679065743,
+        8.410226835832388e-07,
+        0.011575753616397502,
+        0.002298537521626297,
+        0.005087541450403685,
+        7.058583237216464e-07,
+        7.058583237216464e-07,
+        7.058583237216464e-07
+      ],
+      "tied_minimum_weights": [
+        -1.5
+      ]
+    }
+  ]
+}

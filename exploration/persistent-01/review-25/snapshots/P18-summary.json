@@ -1,0 +1,362 @@
+{
+  "status": "PASS",
+  "key_sha256": "e987eed6a8b7aa6af1cf361ea0af03b0c47275b04464f1a9828a5560aa6e0785",
+  "key_length": 18584,
+  "packets": [
+    {
+      "name": "control-0",
+      "n": 515,
+      "cipher_F": 18,
+      "adjacent_repeats": 18,
+      "cells": 36176,
+      "feasible": 36176,
+      "best_score": -2.2641914903243716,
+      "rerun_cells": 16,
+      "seconds": 130.40772695800115,
+      "compressed_bytes": 6449278,
+      "best_source_maps": [
+        {
+          "offset": 0,
+          "sign": -1,
+          "consumed": 508,
+          "key_rune_interval": [
+            0,
+            508
+          ],
+          "first": {
+            "word": 0,
+            "rune_in_word": 0,
+            "char_span": [
+              1328,
+              1331
+            ]
+          },
+          "last": {
+            "word": 128,
+            "rune_in_word": 4,
+            "char_span": [
+              2133,
+              2139
+            ]
+          }
+        }
+      ],
+      "literal_F_count": 7,
+      "truth_job_score_rank": 1,
+      "best_errors": 0,
+      "key_recovered": true,
+      "literal_path_recovered": true,
+      "truth_global_ranks": [
+        1
+      ]
+    },
+    {
+      "name": "control-1",
+      "n": 319,
+      "cipher_F": 25,
+      "adjacent_repeats": 7,
+      "cells": 36582,
+      "feasible": 36582,
+      "best_score": -2.0614024146659866,
+      "rerun_cells": 16,
+      "seconds": 113.42056879099982,
+      "compressed_bytes": 3938520,
+      "best_source_maps": [
+        {
+          "offset": 4096,
+          "sign": 1,
+          "consumed": 319,
+          "key_rune_interval": [
+            4096,
+            4415
+          ],
+          "first": {
+            "word": 1031,
+            "rune_in_word": 0,
+            "char_span": [
+              7258,
+              7260
+            ]
+          },
+          "last": {
+            "word": 1115,
+            "rune_in_word": 5,
+            "char_span": [
+              7725,
+              7733
+            ]
+          }
+        }
+      ],
+      "literal_F_count": 0,
+      "truth_job_score_rank": 1,
+      "best_errors": 0,
+      "key_recovered": true,
+      "literal_path_recovered": true,
+      "truth_global_ranks": [
+        1
+      ]
+    },
+    {
+      "name": "control-2",
+      "n": 85,
+      "cipher_F": 3,
+      "adjacent_repeats": 1,
+      "cells": 37006,
+      "feasible": 37006,
+      "best_score": -2.475484466936424,
+      "rerun_cells": 16,
+      "seconds": 6.80619129200204,
+      "compressed_bytes": 2717087,
+      "best_source_maps": [
+        {
+          "offset": 8192,
+          "sign": -1,
+          "consumed": 84,
+          "key_rune_interval": [
+            8192,
+            8276
+          ],
+          "first": {
+            "word": 2022,
+            "rune_in_word": 0,
+            "char_span": [
+              13030,
+              13033
+            ]
+          },
+          "last": {
+            "word": 2044,
+            "rune_in_word": 1,
+            "char_span": [
+              13143,
+              13146
+            ]
+          }
+        }
+      ],
+      "literal_F_count": 1,
+      "truth_job_score_rank": 1,
+      "best_errors": 0,
+      "key_recovered": true,
+      "literal_path_recovered": true,
+      "truth_global_ranks": [
+        1
+      ]
+    },
+    {
+      "name": "control-3",
+      "n": 95,
+      "cipher_F": 10,
+      "adjacent_repeats": 4,
+      "cells": 37000,
+      "feasible": 37000,
+      "best_score": -2.2678361338317727,
+      "rerun_cells": 16,
+      "seconds": 16.82396337499813,
+      "compressed_bytes": 2558449,
+      "best_source_maps": [
+        {
+          "offset": 12288,
+          "sign": 1,
+          "consumed": 93,
+          "key_rune_interval": [
+            12288,
+            12381
+          ],
+          "first": {
+            "word": 3039,
+            "rune_in_word": 0,
+            "char_span": [
+              18798,
+              18804
+            ]
+          },
+          "last": {
+            "word": 3061,
+            "rune_in_word": 1,
+            "char_span": [
+              18918,
+              18922
+            ]
+          }
+        }
+      ],
+      "literal_F_count": 2,
+      "truth_job_score_rank": 1,
+      "best_errors": 2,
+      "key_recovered": true,
+      "literal_path_recovered": false,
+      "truth_global_ranks": [
+        2
+      ]
+    },
+    {
+      "name": "real-0",
+      "n": 262,
+      "cipher_F": 14,
+      "adjacent_repeats": 2,
+      "cells": 36674,
+      "feasible": 36674,
+      "best_score": -4.307774067844759,
+      "rerun_cells": 16,
+      "seconds": 54.257781042000715,
+      "compressed_bytes": 4156343,
+      "best_source_maps": [
+        {
+          "offset": 3003,
+          "sign": -1,
+          "consumed": 250,
+          "key_rune_interval": [
+            3003,
+            3253
+          ],
+          "first": {
+            "word": 744,
+            "rune_in_word": 3,
+            "char_span": [
+              5667,
+              5674
+            ]
+          },
+          "last": {
+            "word": 805,
+            "rune_in_word": 1,
+            "char_span": [
+              6038,
+              6042
+            ]
+          }
+        }
+      ],
+      "literal_F_count": 12
+    },
+    {
+      "name": "null-0",
+      "n": 262,
+      "cipher_F": 9,
+      "adjacent_repeats": 2,
+      "cells": 36664,
+      "feasible": 36664,
+      "best_score": -4.428268376817218,
+      "rerun_cells": 16,
+      "seconds": 46.8903278329999,
+      "compressed_bytes": 4110009,
+      "best_source_maps": [
+        {
+          "offset": 14351,
+          "sign": -1,
+          "consumed": 256,
+          "key_rune_interval": [
+            14351,
+            14607
+          ],
+          "first": {
+            "word": 3567,
+            "rune_in_word": 0,
+            "char_span": [
+              21653,
+              21657
+            ]
+          },
+          "last": {
+            "word": 3626,
+            "rune_in_word": 0,
+            "char_span": [
+              22049,
+              22053
+            ]
+          }
+        }
+      ],
+      "literal_F_count": 6
+    },
+    {
+      "name": "real-17",
+      "n": 273,
+      "cipher_F": 12,
+      "adjacent_repeats": 0,
+      "cells": 36648,
+      "feasible": 36648,
+      "best_score": -4.361632903176001,
+      "rerun_cells": 16,
+      "seconds": 43.41613112500272,
+      "compressed_bytes": 5014823,
+      "best_source_maps": [
+        {
+          "offset": 13184,
+          "sign": -1,
+          "consumed": 270,
+          "key_rune_interval": [
+            13184,
+            13454
+          ],
+          "first": {
+            "word": 3269,
+            "rune_in_word": 2,
+            "char_span": [
+              20031,
+              20038
+            ]
+          },
+          "last": {
+            "word": 3336,
+            "rune_in_word": 2,
+            "char_span": [
+              20400,
+              20405
+            ]
+          }
+        }
+      ],
+      "literal_F_count": 3
+    },
+    {
+      "name": "null-17",
+      "n": 273,
+      "cipher_F": 5,
+      "adjacent_repeats": 0,
+      "cells": 36634,
+      "feasible": 36634,
+      "best_score": -4.42302069672335,
+      "rerun_cells": 16,
+      "seconds": 30.24004112500188,
+      "compressed_bytes": 5620521,
+      "best_source_maps": [
+        {
+          "offset": 1252,
+          "sign": -1,
+          "consumed": 271,
+          "key_rune_interval": [
+            1252,
+            1523
+          ],
+          "first": {
+            "word": 306,
+            "rune_in_word": 2,
+            "char_span": [
+              3198,
+              3203
+            ]
+          },
+          "last": {
+            "word": 373,
+            "rune_in_word": 4,
+            "char_span": [
+              3580,
+              3586
+            ]
+          }
+        }
+      ],
+      "literal_F_count": 2
+    }
+  ],
+  "total_cells": 293384,
+  "total_bytes": 34565030,
+  "total_main_seconds": 442.26273154100636,
+  "total_top16_rerun_cells": 128,
+  "null_rng_verified": true,
+  "null_count_perpage": 1,
+  "inference": "descriptive fullsearch comparison only; no empirical significance tail"
+}

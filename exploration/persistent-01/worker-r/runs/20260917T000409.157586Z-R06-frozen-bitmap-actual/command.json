@@ -1,0 +1,113 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-r/R06.py",
+    "actual"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "9b43bd11a0657ed7fe5b996d1ebf48285c7c8fe0",
+  "started_utc": "2026-09-17T00:04:09.170357+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P16/input.bin",
+      "exists": true,
+      "bytes": 256,
+      "sha256": "3b9b07d9a26e6d55c432d94d2661fdff3c2b348daed06821f2bdb23184a4b290"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R01-retain.py",
+      "exists": true,
+      "bytes": 951,
+      "sha256": "bd14ca4d046c24b586d824e237fee4f8e70c2bda7f41bbdd1200de1dc04e78ea"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R01.py",
+      "exists": true,
+      "bytes": 3985,
+      "sha256": "f3cd2f0564d2dcb543fd358a975fe2e950307ffb28f6a5cfeac8bc7e8663ab54"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R02.py",
+      "exists": true,
+      "bytes": 3386,
+      "sha256": "afe50a76248b946e92fe21d1fb1b0de18f7266349899ad527a3cedf56f41011d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R03-replay.py",
+      "exists": true,
+      "bytes": 2228,
+      "sha256": "558629f229a83bd4c5e96ed7a0d256082c25ad79861307bf95a1b3fcf96a5c2e"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R03-stress.py",
+      "exists": true,
+      "bytes": 674,
+      "sha256": "f7e1d8b57d32a0671c61efcfdb58ff609a5f8f901d9e81a5701f1f74bfa72e68"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R03.py",
+      "exists": true,
+      "bytes": 5615,
+      "sha256": "45c872ff733ab3b8539c0077c755714ec87beb3b186477ef93bdbc1efa5a3636"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R04.py",
+      "exists": true,
+      "bytes": 8438,
+      "sha256": "c54a3c2bf3b0cf91f07ff001702c4d2d222413eda92e3a67ccdf921dd0d8d4d8"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R05-diagnose.py",
+      "exists": true,
+      "bytes": 1368,
+      "sha256": "49a2280110d67ec11197538d7730338ef38003aa741ed8e0f55a58970c3e7105"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R05.py",
+      "exists": true,
+      "bytes": 6828,
+      "sha256": "4b4764b88eef4fd5e9950dc9c118885c786458cc0c6c30ae0dd49cefe5ff33fd"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R06-card.md",
+      "exists": true,
+      "bytes": 3680,
+      "sha256": "eb3394c97e4c4198899cd41e83bab66d40b259782de29e26bac4693430ec77ff"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R06.py",
+      "exists": true,
+      "bytes": 4340,
+      "sha256": "bfa9a62475eac9a423c9a2fefe6ee6adeff6310e66cc1a702542f2842588b8ca"
+    },
+    {
+      "path": "exploration/persistent-01/worker-r/R06/controls-summary.json",
+      "exists": true,
+      "bytes": 21311,
+      "sha256": "92f0b0603c8cbcbcfeea0f91c4282245f750dd620ee5c854ed03b2a480a82d6c"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 80655,
+  "finished_utc": "2026-09-17T00:04:09.369570+00:00",
+  "duration_seconds": 0.198796542
+}

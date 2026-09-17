@@ -1,0 +1,22 @@
+--- pilot-code
++++ post-alias-bookkeeping
+@@ -84,6 +84,19 @@
+    if k not in candidates:candidates[k]=dict(**a,aliases=[])
+    candidates[k]['aliases'].append(row['job'])
+  best=sorted(candidates.values(),key=lambda a:a['score'],reverse=True)[:16]
++ # Exhaustive aliases, including sourcewindows hidden by tied localtop16 paths.
++ for a in best:
++  a['retained_grid_aliases']=a['aliases'];a['aliases']=[];lit=set(a['literal_positions'])
++  for sign in [-1,1]:
++   required=bytes((sign*(p-v))%29 for i,(p,v) in enumerate(zip(a['plain'],f['cipher'])) if i not in lit)
++   if required:
++    start=0
++    while True:
++     offset=bytes(KEY).find(required,start)
++     if offset<0:break
++     a['aliases'].append(dict(offset=offset,sign=sign));start=offset+1
++   else:a['aliases'].extend(dict(offset=o,sign=sign) for o in range(len(KEY)+1))
++  assert all(x in a['aliases'] for x in a['retained_grid_aliases'])
+  result=dict(name=name,cells=len(rows),feasible=len(good),infeasible=len(rows)-len(good),threshold=threshold,rerun_cells=len(eligible),top16=best,best_score=best[0]['score'] if best else None,packet=f)
+  if 'truth' in f:
+   truth=f['truth'];tr=next(r for r in rows if r['job']==dict(offset=truth['offset'],sign=truth['sign']));ta=cell(f,tr['job'],16);truthscore=lm.score(truth['plain'],set(f['ends']))

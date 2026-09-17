@@ -1,0 +1,421 @@
+{
+  "status": "PASS",
+  "panels": 50000,
+  "permutations": 49959,
+  "input_panels": 41,
+  "pixel_map_entries": 2048,
+  "rows": [
+    {
+      "name": "LP_glyphs",
+      "seed": 476004,
+      "nulls": 999,
+      "H": 185,
+      "V": 1906,
+      "integer_statistic": 24812,
+      "upper_count": 0,
+      "tail": 0.001
+    },
+    {
+      "name": "actual",
+      "seed": 478000,
+      "nulls": 9999,
+      "H": 114,
+      "V": 1024,
+      "integer_statistic": 14236,
+      "upper_count": 2208,
+      "tail": 0.2209
+    },
+    {
+      "name": "blank",
+      "seed": 476006,
+      "nulls": 999,
+      "H": 224,
+      "V": 1984,
+      "integer_statistic": 27776,
+      "upper_count": 999,
+      "tail": 1.0
+    },
+    {
+      "name": "box_connector",
+      "seed": 476005,
+      "nulls": 999,
+      "H": 224,
+      "V": 1728,
+      "integer_statistic": 25984,
+      "upper_count": 0,
+      "tail": 0.001
+    },
+    {
+      "name": "checkerboard",
+      "seed": 476009,
+      "nulls": 999,
+      "H": 0,
+      "V": 0,
+      "integer_statistic": 0,
+      "upper_count": 999,
+      "tail": 1.0
+    },
+    {
+      "name": "diamond_outline",
+      "seed": 476003,
+      "nulls": 999,
+      "H": 212,
+      "V": 1888,
+      "integer_statistic": 26360,
+      "upper_count": 999,
+      "tail": 1.0
+    },
+    {
+      "name": "eight_points",
+      "seed": 476008,
+      "nulls": 999,
+      "H": 223,
+      "V": 1968,
+      "integer_statistic": 27602,
+      "upper_count": 235,
+      "tail": 0.236
+    },
+    {
+      "name": "filled_rectangle",
+      "seed": 476002,
+      "nulls": 999,
+      "H": 192,
+      "V": 1920,
+      "integer_statistic": 25344,
+      "upper_count": 0,
+      "tail": 0.001
+    },
+    {
+      "name": "horizontal_rows",
+      "seed": 476000,
+      "nulls": 999,
+      "H": 224,
+      "V": 1600,
+      "integer_statistic": 25088,
+      "upper_count": 0,
+      "tail": 0.001
+    },
+    {
+      "name": "ordinary-00",
+      "seed": 477000,
+      "nulls": 999,
+      "H": 203,
+      "V": 1804,
+      "integer_statistic": 25214,
+      "upper_count": 557,
+      "tail": 0.558
+    },
+    {
+      "name": "ordinary-01",
+      "seed": 477001,
+      "nulls": 999,
+      "H": 200,
+      "V": 1825,
+      "integer_statistic": 25175,
+      "upper_count": 999,
+      "tail": 1.0
+    },
+    {
+      "name": "ordinary-02",
+      "seed": 477002,
+      "nulls": 999,
+      "H": 205,
+      "V": 1805,
+      "integer_statistic": 25345,
+      "upper_count": 335,
+      "tail": 0.336
+    },
+    {
+      "name": "ordinary-03",
+      "seed": 477003,
+      "nulls": 999,
+      "H": 197,
+      "V": 1775,
+      "integer_statistic": 24639,
+      "upper_count": 360,
+      "tail": 0.361
+    },
+    {
+      "name": "ordinary-04",
+      "seed": 477004,
+      "nulls": 999,
+      "H": 207,
+      "V": 1800,
+      "integer_statistic": 25434,
+      "upper_count": 395,
+      "tail": 0.396
+    },
+    {
+      "name": "ordinary-05",
+      "seed": 477005,
+      "nulls": 999,
+      "H": 204,
+      "V": 1801,
+      "integer_statistic": 25255,
+      "upper_count": 453,
+      "tail": 0.454
+    },
+    {
+      "name": "ordinary-06",
+      "seed": 477006,
+      "nulls": 999,
+      "H": 198,
+      "V": 1791,
+      "integer_statistic": 24813,
+      "upper_count": 560,
+      "tail": 0.561
+    },
+    {
+      "name": "ordinary-07",
+      "seed": 477007,
+      "nulls": 999,
+      "H": 205,
+      "V": 1797,
+      "integer_statistic": 25289,
+      "upper_count": 682,
+      "tail": 0.683
+    },
+    {
+      "name": "ordinary-08",
+      "seed": 477008,
+      "nulls": 999,
+      "H": 190,
+      "V": 1764,
+      "integer_statistic": 24128,
+      "upper_count": 916,
+      "tail": 0.917
+    },
+    {
+      "name": "ordinary-09",
+      "seed": 477009,
+      "nulls": 999,
+      "H": 199,
+      "V": 1787,
+      "integer_statistic": 24847,
+      "upper_count": 764,
+      "tail": 0.765
+    },
+    {
+      "name": "ordinary-10",
+      "seed": 477010,
+      "nulls": 999,
+      "H": 117,
+      "V": 974,
+      "integer_statistic": 14072,
+      "upper_count": 348,
+      "tail": 0.349
+    },
+    {
+      "name": "ordinary-11",
+      "seed": 477011,
+      "nulls": 999,
+      "H": 115,
+      "V": 979,
+      "integer_statistic": 13983,
+      "upper_count": 413,
+      "tail": 0.414
+    },
+    {
+      "name": "ordinary-12",
+      "seed": 477012,
+      "nulls": 999,
+      "H": 112,
+      "V": 1004,
+      "integer_statistic": 13972,
+      "upper_count": 429,
+      "tail": 0.43
+    },
+    {
+      "name": "ordinary-13",
+      "seed": 477013,
+      "nulls": 999,
+      "H": 116,
+      "V": 980,
+      "integer_statistic": 14052,
+      "upper_count": 363,
+      "tail": 0.364
+    },
+    {
+      "name": "ordinary-14",
+      "seed": 477014,
+      "nulls": 999,
+      "H": 119,
+      "V": 995,
+      "integer_statistic": 14343,
+      "upper_count": 182,
+      "tail": 0.183
+    },
+    {
+      "name": "ordinary-15",
+      "seed": 477015,
+      "nulls": 999,
+      "H": 117,
+      "V": 1060,
+      "integer_statistic": 14674,
+      "upper_count": 50,
+      "tail": 0.051
+    },
+    {
+      "name": "ordinary-16",
+      "seed": 477016,
+      "nulls": 999,
+      "H": 108,
+      "V": 1005,
+      "integer_statistic": 13731,
+      "upper_count": 621,
+      "tail": 0.622
+    },
+    {
+      "name": "ordinary-17",
+      "seed": 477017,
+      "nulls": 999,
+      "H": 111,
+      "V": 997,
+      "integer_statistic": 13861,
+      "upper_count": 504,
+      "tail": 0.505
+    },
+    {
+      "name": "ordinary-18",
+      "seed": 477018,
+      "nulls": 999,
+      "H": 120,
+      "V": 936,
+      "integer_statistic": 13992,
+      "upper_count": 487,
+      "tail": 0.488
+    },
+    {
+      "name": "ordinary-19",
+      "seed": 477019,
+      "nulls": 999,
+      "H": 101,
+      "V": 967,
+      "integer_statistic": 13031,
+      "upper_count": 959,
+      "tail": 0.96
+    },
+    {
+      "name": "ordinary-20",
+      "seed": 477020,
+      "nulls": 999,
+      "H": 207,
+      "V": 1821,
+      "integer_statistic": 25581,
+      "upper_count": 557,
+      "tail": 0.558
+    },
+    {
+      "name": "ordinary-21",
+      "seed": 477021,
+      "nulls": 999,
+      "H": 201,
+      "V": 1817,
+      "integer_statistic": 25181,
+      "upper_count": 646,
+      "tail": 0.647
+    },
+    {
+      "name": "ordinary-22",
+      "seed": 477022,
+      "nulls": 999,
+      "H": 202,
+      "V": 1780,
+      "integer_statistic": 24984,
+      "upper_count": 994,
+      "tail": 0.995
+    },
+    {
+      "name": "ordinary-23",
+      "seed": 477023,
+      "nulls": 999,
+      "H": 193,
+      "V": 1800,
+      "integer_statistic": 24566,
+      "upper_count": 959,
+      "tail": 0.96
+    },
+    {
+      "name": "ordinary-24",
+      "seed": 477024,
+      "nulls": 999,
+      "H": 195,
+      "V": 1752,
+      "integer_statistic": 24354,
+      "upper_count": 443,
+      "tail": 0.444
+    },
+    {
+      "name": "ordinary-25",
+      "seed": 477025,
+      "nulls": 999,
+      "H": 208,
+      "V": 1818,
+      "integer_statistic": 25622,
+      "upper_count": 895,
+      "tail": 0.896
+    },
+    {
+      "name": "ordinary-26",
+      "seed": 477026,
+      "nulls": 999,
+      "H": 199,
+      "V": 1802,
+      "integer_statistic": 24952,
+      "upper_count": 793,
+      "tail": 0.794
+    },
+    {
+      "name": "ordinary-27",
+      "seed": 477027,
+      "nulls": 999,
+      "H": 202,
+      "V": 1782,
+      "integer_statistic": 24998,
+      "upper_count": 101,
+      "tail": 0.102
+    },
+    {
+      "name": "ordinary-28",
+      "seed": 477028,
+      "nulls": 999,
+      "H": 203,
+      "V": 1785,
+      "integer_statistic": 25081,
+      "upper_count": 743,
+      "tail": 0.744
+    },
+    {
+      "name": "ordinary-29",
+      "seed": 477029,
+      "nulls": 999,
+      "H": 202,
+      "V": 1803,
+      "integer_statistic": 25145,
+      "upper_count": 613,
+      "tail": 0.614
+    },
+    {
+      "name": "single_pixel",
+      "seed": 476007,
+      "nulls": 999,
+      "H": 223,
+      "V": 1982,
+      "integer_statistic": 27700,
+      "upper_count": 999,
+      "tail": 1.0
+    },
+    {
+      "name": "vertical_bars",
+      "seed": 476001,
+      "nulls": 999,
+      "H": 160,
+      "V": 1984,
+      "integer_statistic": 23808,
+      "upper_count": 0,
+      "tail": 0.001
+    }
+  ],
+  "integer_statistic": "62*H+7*V; S=T/27776",
+  "rational_and_float_tail_counts_agree": true
+}

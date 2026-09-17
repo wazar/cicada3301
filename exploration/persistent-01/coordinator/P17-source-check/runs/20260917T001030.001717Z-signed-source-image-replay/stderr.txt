@@ -1,0 +1,4 @@
+<REPO_ROOT>/exploration/persistent-01/coordinator/P17-source-check/check.py:17: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  a=list(hint.getdata());b=list(crop.getdata());diff=[abs(x-y) for p,q in zip(a,b) for x,y in zip(p,q)]
+<REPO_ROOT>/exploration/persistent-01/coordinator/P17-source-check/check.py:18: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  ag=list(hint.convert('L').getdata());bg=list(crop.convert('L').getdata());n=len(ag)

@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/coordinator/P17-source-check/check.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "0a673bc51c2091a695604fe6e5ece3631c24a46a",
+  "started_utc": "2026-09-17T00:10:30.011278+00:00",
+  "timeout_seconds": 120,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/P17-source-check/check.py",
+      "exists": true,
+      "bytes": 2136,
+      "sha256": "4e58aa5fe5c787772da070675b7165fc9b7394a707b93460ee3f811dbf761391"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P17/hkdgl.png",
+      "exists": true,
+      "bytes": 86736,
+      "sha256": "f4be4b74b1cc1479f9482d0e670375450b43d1b500a991de644f1cc9dea00217"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P17/mhh4.jpg",
+      "exists": true,
+      "bytes": 33097,
+      "sha256": "e5d920d84de01f9976aff90ff15dd199a5aa03daa70bcf46c813a5ed306eaf32"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P17/provenance.json.gz",
+      "exists": true,
+      "bytes": 995,
+      "sha256": "260c33e4e81c1e320eddaa6cd06fdc7e5827332007734f8b5ad5e1933355a4ba"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 82304,
+  "finished_utc": "2026-09-17T00:10:30.102980+00:00",
+  "duration_seconds": 0.09149429199896986
+}

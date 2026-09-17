@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/review-24/check.py", line 31, in <module>
+    a=stroke(x,t,True);assert np.array_equal(a,subject.stroke(x,t));outs.append(a)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

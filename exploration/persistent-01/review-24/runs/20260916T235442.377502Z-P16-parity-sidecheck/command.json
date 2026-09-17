@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-24/parity.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "9b43bd11a0657ed7fe5b996d1ebf48285c7c8fe0",
+  "started_utc": "2026-09-16T23:54:42.386803+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/P16-check/check.py",
+      "exists": true,
+      "bytes": 1545,
+      "sha256": "d102f2fa96a7a78af11a355e43d1b3ca5f3f086241c0b46a36f485c7ea05af7f"
+    },
+    {
+      "path": "exploration/persistent-01/review-24/parity.py",
+      "exists": true,
+      "bytes": 555,
+      "sha256": "fe83bafad6bdb9cfa8ac62dcbfd9df0d010b0a68b99380f47d230f262961a751"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P16/input.bin",
+      "exists": true,
+      "bytes": 256,
+      "sha256": "3b9b07d9a26e6d55c432d94d2661fdff3c2b348daed06821f2bdb23184a4b290"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 78896,
+  "finished_utc": "2026-09-16T23:54:42.412276+00:00",
+  "duration_seconds": 0.02524387499943259
+}

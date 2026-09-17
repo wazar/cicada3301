@@ -1,0 +1,60 @@
+{
+  "actual": {
+    "centers": [
+      -1.5,
+      0.023195876288659795
+    ],
+    "separation": 1.5231958762886597,
+    "training_minority": 0.015228426395939087,
+    "held_mse_gain": 0.4938931385418791,
+    "eligible_held": 196,
+    "active_held": 196,
+    "correct_identity_held": 196,
+    "held_predicted_coverage": 1.0,
+    "held_correct_identity_coverage": 1.0,
+    "rejected_held": 0,
+    "misclassified_held": 0,
+    "both_state_classes": 1,
+    "channel_gate": false
+  },
+  "raster": [
+    {
+      "centers": [
+        -0.2647058823529412,
+        0.029166666666666667
+      ],
+      "separation": 0.29387254901960785,
+      "training_minority": 0.08629441624365482,
+      "held_mse_gain": 0.3777809149722,
+      "eligible_held": 196,
+      "active_held": 196,
+      "correct_identity_held": 196,
+      "held_predicted_coverage": 1.0,
+      "held_correct_identity_coverage": 1.0,
+      "rejected_held": 0,
+      "misclassified_held": 0,
+      "both_state_classes": 13,
+      "channel_gate": false,
+      "held_state_agreement": 0.8520408163265306
+    },
+    {
+      "centers": [
+        -0.029069767441860465,
+        0.25
+      ],
+      "separation": 0.27906976744186046,
+      "training_minority": 0.12690355329949238,
+      "held_mse_gain": 0.40584104076667016,
+      "eligible_held": 196,
+      "active_held": 196,
+      "correct_identity_held": 196,
+      "held_predicted_coverage": 1.0,
+      "held_correct_identity_coverage": 1.0,
+      "rejected_held": 0,
+      "misclassified_held": 0,
+      "both_state_classes": 22,
+      "channel_gate": false,
+      "held_state_agreement": 0.1326530612244898
+    }
+  ]
+}

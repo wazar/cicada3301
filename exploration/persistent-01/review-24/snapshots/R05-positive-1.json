@@ -1,0 +1,23 @@
+{
+  "centers": [
+    -1.1785714285714286,
+    1.1576086956521738
+  ],
+  "separation": 2.3361801242236027,
+  "training_minority": 0.467005076142132,
+  "held_mse_gain": 0.9347891306695052,
+  "eligible_held": 196,
+  "active_held": 196,
+  "correct_identity_held": 196,
+  "held_predicted_coverage": 1.0,
+  "held_correct_identity_coverage": 1.0,
+  "rejected_held": 0,
+  "misclassified_held": 0,
+  "both_state_classes": 27,
+  "channel_gate": true,
+  "positive": true,
+  "seed": 475601,
+  "amplitude": 1.25,
+  "held_joint_state_accuracy": 0.9846938775510204,
+  "control_pass": true
+}

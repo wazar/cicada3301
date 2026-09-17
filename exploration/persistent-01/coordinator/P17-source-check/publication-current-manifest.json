@@ -1,0 +1,45 @@
+{
+  "scope": "Currentpublicbytes; historical manifests remain snapshot identities. Private keyring/cache and rebuildable binaries excluded.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/coordinator/P17-source-check/REPORT.md",
+      "bytes": 1767,
+      "sha256": "a0baf244105828c06069619cd666617089189dcbd63ef0c6b81ed5cdbd221bca"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/P17-source-check/check.py",
+      "bytes": 2136,
+      "sha256": "4e58aa5fe5c787772da070675b7165fc9b7394a707b93460ee3f811dbf761391"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/P17-source-check/results.json",
+      "bytes": 3060,
+      "sha256": "d08f0b79ba00fc0a6c2bd96fc1aa55498b80a6a43bf55b328d63d730e54d6d9b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/P17-source-check/runs/20260917T001030.001717Z-signed-source-image-replay/code/exploration/persistent-01/coordinator/P17-source-check/check.py",
+      "bytes": 2136,
+      "sha256": "4e58aa5fe5c787772da070675b7165fc9b7394a707b93460ee3f811dbf761391"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/P17-source-check/runs/20260917T001030.001717Z-signed-source-image-replay/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/P17-source-check/runs/20260917T001030.001717Z-signed-source-image-replay/command.json",
+      "bytes": 1808,
+      "sha256": "d75b1ff7e59278a2481ccdd3ce2173e730192c9f0e484a68276e7f26e4376e58"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/P17-source-check/runs/20260917T001030.001717Z-signed-source-image-replay/stderr.txt",
+      "bytes": 616,
+      "sha256": "dc1755bb06db35981b6991a3c227ffc48e637380bc7db7d988c7659790f3c9aa"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/P17-source-check/runs/20260917T001030.001717Z-signed-source-image-replay/stdout.txt",
+      "bytes": 225,
+      "sha256": "3fc4e0cd630868532643c20979fa6b87f54dbeee2b8c6aad25e3f352e956afc7"
+    }
+  ]
+}

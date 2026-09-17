@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-25/source.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "9b43bd11a0657ed7fe5b996d1ebf48285c7c8fe0",
+  "started_utc": "2026-09-17T00:02:53.060258+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-25/source.py",
+      "exists": true,
+      "bytes": 1871,
+      "sha256": "18af475f8e65c72a54b00ff6c673cc993e029edd69571044c920ad9628cd6687"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P17/pg45315.txt",
+      "exists": true,
+      "bytes": 46701,
+      "sha256": "fc9a76619fcb76c58273d7fc9e034108b0d7fffed3780ad5b8226954a12b289a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P17/source.json.gz",
+      "exists": true,
+      "bytes": 75172,
+      "sha256": "a52dffc742e5d64ba2aef5c7574e8cac49a6b5ed0b2789902d0a25c7dbe3dd4f"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 80561,
+  "finished_utc": "2026-09-17T00:02:53.269583+00:00",
+  "duration_seconds": 0.20912912499989034
+}
