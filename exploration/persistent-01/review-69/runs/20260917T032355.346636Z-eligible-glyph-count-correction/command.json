@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-69/check_glyph_pool.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "728d4f29b76b54e0cf030ad8d97c82d1d2b457a7",
+  "started_utc": "2026-09-17T03:23:55.356189+00:00",
+  "timeout_seconds": 60,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-69/check_glyph_pool.py",
+      "exists": true,
+      "bytes": 1778,
+      "sha256": "3259b644fab0039e9bf3fd03d8cd9b66cd1fcababe7f112bc57cc74ed2f9d2d4"
+    },
+    {
+      "path": "exploration/persistent-01/review-69/check_links.py",
+      "exists": true,
+      "bytes": 1324,
+      "sha256": "c7929f5e01c74f7a9fee2c78c87e3ddb9a42e32a25395077785a9f0e262153c4"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P06/geometry-audit.json",
+      "exists": true,
+      "bytes": 49661,
+      "sha256": "2824238705b508f1164e8e1e934c4a02d67d917a765ff402415d0bcab90415bd"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P06/selection.json",
+      "exists": true,
+      "bytes": 23594,
+      "sha256": "cd55cbbee832ae005bf83af4c3ae49a993df2b8065e9979f2b5e5d7f01828a5f"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 30000,
+  "finished_utc": "2026-09-17T03:23:55.382040+00:00",
+  "duration_seconds": 0.02562283400038723
+}

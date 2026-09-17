@@ -1,0 +1,41 @@
+{
+  "PASS": true,
+  "metadata_records_excluding_two_dropcaps": 178,
+  "black_eligible": 168,
+  "excluded_heading_records": 10,
+  "selected": 100,
+  "eligible_remaining": 68,
+  "eligible_by_page": {
+    "56": 80,
+    "57": 88
+  },
+  "selected_by_page": {
+    "56": 41,
+    "57": 59
+  },
+  "remaining_by_page": {
+    "56": 39,
+    "57": 29
+  },
+  "selection_rng_replay": true,
+  "source_quote": "The declared black/normal-height pool excludes two red dropcaps and ten red heading glyphs:168eligible (80on56,88on57). Seed130106selects100withoutreplacement,41on56and59on57;68remain. Selection.json maps every numbered crop to page,row,pixelbox,runeoffset and original source-character position. Fixed padding leaves thin neighboring stroke edges in some crops; no crop was discarded after revealing labels. This pool alone cannot supply300new independent glyphs.",
+  "read_no_images_or_truth_label_files": true,
+  "sources": [
+    {
+      "path": "exploration/persistent-01/worker-p/P06/geometry-audit.json",
+      "sha256": "2824238705b508f1164e8e1e934c4a02d67d917a765ff402415d0bcab90415bd"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P06/selection.json",
+      "sha256": "cd55cbbee832ae005bf83af4c3ae49a993df2b8065e9979f2b5e5d7f01828a5f"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P06/REPORT.md",
+      "sha256": "180ad033e8497c7cc3dbb742996280815881bae75e8e47cedbc36b946e414b0e"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p06_prepare.py",
+      "sha256": "3f39e260fe6b4b881dabd4a040d6f011d4198cc883e445630dbc23630e1abda9"
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "api": {
+    "signature": "(data, /, level=-1, wbits=15)",
+    "doc": "Returns a bytes object containing compressed data.\n\n  data\n    Binary data to be compressed.\n  level\n    Compression level, in 0-9 or -1.\n  wbits\n    The window buffer size and container format.",
+    "build_version": "1.2.12",
+    "runtime_version": "1.2.12"
+  },
+  "rows": [
+    {
+      "control": 0,
+      "packet_sha256": "7c1647f23fe44c8c0bfcdd8c97c155606e29d32f8b97c91e3b43f2a183698b86",
+      "outputs_sha256": "104d0a78df724d1b44f500995c49592e7bec2c76813672663bd91783afcf8019",
+      "truth_position": 172,
+      "items": [
+        {
+          "sentinel_position": 18,
+          "is_truth": false,
+          "bytes": 515,
+          "size": 298,
+          "input_sha256": "53ef5be101db28ae4e0a2d9128927c78d1f0870842fa42236648330c0f935853",
+          "compressed_sha256": "2df927e2e3253ef36901e2170a29ff722939325391d45e04ecc716321fd5a0dd",
+          "file": "control-0-position-18.zlib"
+        },
+        {
+          "sentinel_position": 26,
+          "is_truth": false,
+          "bytes": 515,
+          "size": 295,
+          "input_sha256": "72b9a0710457d4377d7f5c23b1370fa38256c1dcef19e7db55a7ab90a5658561",
+          "compressed_sha256": "fae3ce545f34b428b374979f3bdca834507c2246e23fbaadee91b31525f6fb73",
+          "file": "control-0-position-26.zlib"
+        },
+        {
+          "sentinel_position": 114,
+          "is_truth": false,
+          "bytes": 515,
+          "size": 294,
+          "input_sha256": "9b486c262e712796618fe74d4a974afb2a9465a0bd4a4aaf8b163a806b9636cb",
+          "compressed_sha256": "549ebb05e6bddede42bab294e796961ec3ae85237188422744afa86c1decbce8",
+          "file": "control-0-position-114.zlib"
+        },
+        {
+          "sentinel_position": 146,
+          "is_truth": false,
+          "bytes": 515,
+          "size": 288,
+          "input_sha256": "c7d9ff438ce9d13ff0b7b364ca03e98aafb2c34983f633086da9382ae7365563",
+          "compressed_sha256": "d57258f05d377832dc92f0fa57a03c16573b5dcfa5edc1d00082f0b49b2c1f9a",
+          "file": "control-0-position-146.zlib"
+        },
+        {
+          "sentinel_position": 148,
+          "is_truth": false,
+          "bytes": 515,
+          "size": 288,
+          "input_sha256": "cbd20c2bfbf7501e78e5625677e811123ae848b91b93b7ec92f6ec4b373cd247",
+          "compressed_sha256": "7ef2a32d86b092ff566a5b0d8235f05dd5bf925011798b6cfb191a51c101584f",
+          "file": "control-0-position-148.zlib"
+        },
+        {
+          "sentinel_position": 150,
+          "is_truth": false,
+          "bytes": 515,
+          "size": 286,
+          "input_sha256": "09a803cf159aa5942376cb73dbb113c1aa0f7791daceb19185ddeeb20ac6f8a0",
+          "compressed_sha256": "9863a65f42f2daa3eac109d0ec843d0e520dd76116ca59082a599321757f519c",
+          "file": "control-0-position-150.zlib"
+        },
+        {
+          "sentinel_position": 156,
+          "is_truth": false,
+          "bytes": 515,
+          "size": 288,
+          "input_sha256": "334a575ee7ed2c23e207a9a95bfa2b3a1b582f11b1c354eba131a9100ff32ac6",
+          "compressed_sha256": "5c7a04b89bc0f4507565d5a8b4e71ce8acc772d978a9db324355cef8ae5d0278",
+          "file": "control-0-position-156.zlib"
+        },
+        {
+          "sentinel_position": 158,
+          "is_truth": false,
+          "bytes": 515,
+          "size": 287,
+          "input_sha256": "7a99e49dfff68a128e04b94f32c1d7f7dbf58c192137f5e98788531fb3d18c62",
+          "compressed_sha256": "8845978ead6c29a4a849c5d3ea217bb47297e85831e581593e3c28c93fbcd85f",
+          "file": "control-0-position-158.zlib"
+        },
+        {
+          "sentinel_position": 160,
+          "is_truth": false,
+          "bytes": 515,
+          "size": 287,
+          "input_sha256": "dc1bfab375a7179baba0084cca85622f6881c297d521733e502909889181a16b",
+          "compressed_sha256": "2b62cb2c87568c0f33a23d23a8d5e199d50508c44a2d5407bd1a2c8d90395525",
+          "file": "control-0-position-160.zlib"
+        },
+        {
+          "sentinel_position": 162,
+          "is_truth": false,
+          "bytes": 515,
+          "size": 289,
+          "input_sha256": "c80a8c9ec7813cfaf38868278ece6e488bcd3d12010cf64062a6d4cbc70cc4b7",
+          "compressed_sha256": "5a6bc03bcfd6d1c077abd323f481620082f0a3a49e1459495e9a1424df966537",
+          "file": "control-0-position-162.zlib"
+        },
+        {
+          "sentinel_position": 164,
+          "is_truth": false,
+          "bytes": 515,
+          "size": 289,
+          "input_sha256": "de604cabc0becbaf18b75307736d82d1f666fcca7236645a7004497389482670",
+          "compressed_sha256": "e14e4de78e55716a0739697e7f05a9ad576e9b3eba916e8bea6f5f78af576a15",
+          "file": "control-0-position-164.zlib"
+        },
+        {
+          "sentinel_position": 166,
+          "is_truth": false,
+          "bytes": 515,
+          "size": 292,
+          "input_sha256": "7694b5039b97637fa827d175e0a2aa5292a5957548385ddffe1a0019e29fd24d",
+          "compressed_sha256": "ea9e3d5283e084c56cf412d57379b0a52ca9cee2bb142594747f161a75a9b8c3",
+          "file": "control-0-position-166.zlib"
+        },
+        {
+          "sentinel_position": 168,
+          "is_truth": false,
+          "bytes": 515,
+          "size": 290,
+          "input_sha256": "d14abd31cf704b1fd1bc64cf121cf2eb04794b35c3fa0081c68b316b7b9afb34",
+          "compressed_sha256": "a6895c077ac32360fb5211b3afb24b6200feafc35582431227d40e77db2f388a",
+          "file": "control-0-position-168.zlib"
+        },
+        {
+          "sentinel_position": 170,
+          "is_truth": false,
+          "bytes": 515,
+          "size": 288,
+          "input_sha256": "539ddf1a3b7849db76eb124d8d74bb2123f0217021db4c8102c1e2fd404c7b79",
+          "compressed_sha256": "388f7d5226b86195199ed5b16bc128b46937ef4f3665a17ca1db42dca48303e3",
+          "file": "control-0-position-170.zlib"
+        },
+        {
+          "sentinel_position": 172,
+          "is_truth": true,
+          "bytes": 515,
+          "size": 289,
+          "input_sha256": "f44327c57ea5a9140cc24bb4d0345180397b8267310adb70ca1c4714f9dae94b",
+          "compressed_sha256": "db6ca69733e13c015e2056a842cd8ea659aaf642c8d875ead05cd915030fc8be",
+          "file": "control-0-position-172.zlib"
+        }
+      ],
+      "truth_competition_rank": 8,
+      "truth_ties": [
+        162,
+        164,
+        172
+      ],
+      "shortest_positions": [
+        150
+      ],
+      "gate_pass": false
+    },
+    {
+      "control": 1,
+      "packet_sha256": "b2414f1de38fdc6057feabaa3105ac3315221c5485626b4ed4e54cfd2085b8cc",
+      "outputs_sha256": "96723e776c6aac13abd2b394dad879d483c3582a9f69677225643db4a7d252ea",
+      "truth_position": 288,
+      "items": [
+        {
+          "sentinel_position": 48,
+          "is_truth": false,
+          "bytes": 319,
+          "size": 193,
+          "input_sha256": "0f462b0bc7b251b23469fa42d28b210d3170f16cfb1bfb29d5957900a562f369",
+          "compressed_sha256": "866bbab9de49d296ee53a7ead4a10a39ea291652c003d115e391fb818a896260",
+          "file": "control-1-position-48.zlib"
+        },
+        {
+          "sentinel_position": 58,
+          "is_truth": false,
+          "bytes": 319,
+          "size": 192,
+          "input_sha256": "5fc9e3c001f795b2bcb3e4012c41092c44dc2ba5fd618de1115fb7be4d02227d",
+          "compressed_sha256": "a4ae87f2eaf2e62e47cbe77b033f80106dbf1f229f4be1da4a9fa1da33be701f",
+          "file": "control-1-position-58.zlib"
+        },
+        {
+          "sentinel_position": 60,
+          "is_truth": false,
+          "bytes": 319,
+          "size": 192,
+          "input_sha256": "ff5190b390f74ffeccbc842849288c831c72cfdb5fb884a1a1e5332b353b9299",
+          "compressed_sha256": "d6736f578a13da1f22c30327834c84beb22c2f2b057e9414238c97cc80c22756",
+          "file": "control-1-position-60.zlib"
+        },
+        {
+          "sentinel_position": 280,
+          "is_truth": false,
+          "bytes": 319,
+          "size": 180,
+          "input_sha256": "1a3fa629351859efe524802090a3670fc4c3d955cdbb91cbe839b87a63ab602d",
+          "compressed_sha256": "368230b88b6cf471d77c7b604b69c02a0151cb23e0e2d62b1cdc7563fc31b4b9",
+          "file": "control-1-position-280.zlib"
+        },
+        {
+          "sentinel_position": 282,
+          "is_truth": false,
+          "bytes": 319,
+          "size": 180,
+          "input_sha256": "576b3bd41049c9ded418e77d6e28b9c109937b69f0335da6059d18f61093a375",
+          "compressed_sha256": "e7c14b8ed3ab30274ed86fd0fc433312e4e3ce9f7510b37d2bb8117b58d7523a",
+          "file": "control-1-position-282.zlib"
+        },
+        {
+          "sentinel_position": 284,
+          "is_truth": false,
+          "bytes": 319,
+          "size": 180,
+          "input_sha256": "6e396299f3d0f1613adc25a3082a9602d078aeedf8511d8b6a28daf9211fe20e",
+          "compressed_sha256": "6e3005cfa4db478653362645f3db0e8b7d65b892064fd2de3e44f76fd70ee462",
+          "file": "control-1-position-284.zlib"
+        },
+        {
+          "sentinel_position": 288,
+          "is_truth": true,
+          "bytes": 319,
+          "size": 180,
+          "input_sha256": "ddd8465e755737c8c0b8d27fad15656fad6ba34dd15c2fdc0fcab507df436221",
+          "compressed_sha256": "d89014a323f57a7ba7817cbab54bcb8a213437656d8f8d7a4d0fa85943b9034a",
+          "file": "control-1-position-288.zlib"
+        }
+      ],
+      "truth_competition_rank": 1,
+      "truth_ties": [
+        280,
+        282,
+        284,
+        288
+      ],
+      "shortest_positions": [
+        280,
+        282,
+        284,
+        288
+      ],
+      "gate_pass": false
+    },
+    {
+      "control": 2,
+      "packet_sha256": "668d18f84d511449fc1fce8ffce53c2868422cbde3fc63953fd7f14bba778bcc",
+      "outputs_sha256": "cf14f06dab1b300bf8f098a7f00520240f0d74ca0480f2e871d3de3d94d68495",
+      "truth_position": 80,
+      "items": [
+        {
+          "sentinel_position": 26,
+          "is_truth": false,
+          "bytes": 85,
+          "size": 73,
+          "input_sha256": "0a5a58b11c920a9a556c00265e91796c03d2b3317e4d7b70fbea0bbfc49a3f6c",
+          "compressed_sha256": "49cad7cfd487626df0c5e969ead4625b1ca8181aa0eef7a580b48b829e7c46d8",
+          "file": "control-2-position-26.zlib"
+        },
+        {
+          "sentinel_position": 28,
+          "is_truth": false,
+          "bytes": 85,
+          "size": 74,
+          "input_sha256": "e7b88b81a674a6eb461d4f6f9939a659ecb768c130ce3c681c712736a0ce6812",
+          "compressed_sha256": "3c2f84a0a90a0e6b1e7a8457a1d3b65decbf6aba67d6d22c9ca4b9dd8b6dbbf3",
+          "file": "control-2-position-28.zlib"
+        },
+        {
+          "sentinel_position": 30,
+          "is_truth": false,
+          "bytes": 85,
+          "size": 73,
+          "input_sha256": "3f32867488bd0c888ebac536fc2e492c95651cc3ecc50db04931e2e6431e2092",
+          "compressed_sha256": "65a52f6fa87f20239b0bb0d985dfe7f584a0f3438676801c2c2b3f72b873dc3f",
+          "file": "control-2-position-30.zlib"
+        },
+        {
+          "sentinel_position": 32,
+          "is_truth": false,
+          "bytes": 85,
+          "size": 74,
+          "input_sha256": "8abe76498202bb7224b009ba00f8f0476b66a12ec102411faefc46ff34772386",
+          "compressed_sha256": "3b759a2cc31b24906ed5443a9eefc58b36f61486056a2539a7c7f997e8bd9a45",
+          "file": "control-2-position-32.zlib"
+        },
+        {
+          "sentinel_position": 34,
+          "is_truth": false,
+          "bytes": 85,
+          "size": 74,
+          "input_sha256": "7382cc7e429416ec23a9861eb155b17748ec77b112b3f14d8f9691621247f6cb",
+          "compressed_sha256": "dd757cecae9da62f2a416ece05b346540c1e3e2798f66e7d793a790818c34195",
+          "file": "control-2-position-34.zlib"
+        },
+        {
+          "sentinel_position": 80,
+          "is_truth": true,
+          "bytes": 85,
+          "size": 73,
+          "input_sha256": "055635e1cf2c9117f581c57f8550bb354168ee4863bf4beaee705d50cdd1969e",
+          "compressed_sha256": "fe777298ca910b1b863fe0049c4aad026cc21d8caac5848cc4ad32407fc4d0bd",
+          "file": "control-2-position-80.zlib"
+        }
+      ],
+      "truth_competition_rank": 1,
+      "truth_ties": [
+        26,
+        30,
+        80
+      ],
+      "shortest_positions": [
+        26,
+        30,
+        80
+      ],
+      "gate_pass": false
+    },
+    {
+      "control": 3,
+      "packet_sha256": "789660c6de6a9ab22c182fd90f8c0844fd4411c4f988a6ed517e0cc2ed6d80a3",
+      "outputs_sha256": "c403b730abc63d96e43f8b5fd37914f652279bc04a89369f2e787f7a7a9dba07",
+      "truth_position": 52,
+      "items": [
+        {
+          "sentinel_position": 52,
+          "is_truth": true,
+          "bytes": 95,
+          "size": 78,
+          "input_sha256": "b3dd80b3cbce4ee1b18fd33ba9ae1b569e47beeda8d1be21da47a07e589a542a",
+          "compressed_sha256": "d1278a971dffdcbd6515c749efeb34fe529c7a6c8b31fddf7d9bf2158570c14f",
+          "file": "control-3-position-52.zlib"
+        },
+        {
+          "sentinel_position": 54,
+          "is_truth": false,
+          "bytes": 95,
+          "size": 78,
+          "input_sha256": "6049af280836c1c6770a845de88167757ef38534a7d176a8b397832d5ffcc7aa",
+          "compressed_sha256": "8d0cb38888a41dd5a56fa3f34571d769db9768863e70d4a560edb06fc6b40200",
+          "file": "control-3-position-54.zlib"
+        },
+        {
+          "sentinel_position": 56,
+          "is_truth": false,
+          "bytes": 95,
+          "size": 78,
+          "input_sha256": "a4003b3118d516a7dc87b48d95affe53913b62d0c68e644367b0879335d5d9fe",
+          "compressed_sha256": "ebdc47b6e39efb13bee51acfd8181fbd5f0b42d206f30bcdaa556a3b96726dd9",
+          "file": "control-3-position-56.zlib"
+        },
+        {
+          "sentinel_position": 78,
+          "is_truth": false,
+          "bytes": 95,
+          "size": 78,
+          "input_sha256": "f24ae9e967f53cba8a38d767a648112d0504cef15806e1d95bc7435b845b8e8e",
+          "compressed_sha256": "9973149638e3e85f34102ff1926e3367345c6c704a251b69ce84a1546cd3820d",
+          "file": "control-3-position-78.zlib"
+        }
+      ],
+      "truth_competition_rank": 1,
+      "truth_ties": [
+        52,
+        54,
+        56,
+        78
+      ],
+      "shortest_positions": [
+        52,
+        54,
+        56,
+        78
+      ],
+      "gate_pass": false
+    }
+  ],
+  "gate_pass": false,
+  "actual_or_null_scored": false,
+  "scope": "All four controls only; full size vectors preserved."
+}

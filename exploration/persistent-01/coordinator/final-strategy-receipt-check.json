@@ -1,0 +1,30 @@
+{
+  "time_utc": "2026-09-17T03:25:52.246577+00:00",
+  "strategy": "outside-box-v1",
+  "hashes": {
+    "RESEARCH-STRATEGY.md": "eac5f90b963597464862cadbd2f8245375c844d2d0b6f9e52f418bcad617517c",
+    "CICADA-CONTINUOUS-RESEARCH.md": "638c4ed1f85cad5cd55887df7cefeb1896cb73eb0afaf8b8e7d7a6b9f3e2a240"
+  },
+  "acknowledgements": [
+    {
+      "path": "exploration/persistent-01/worker-a/publication/cycle1/strategy-ack.json",
+      "sha256": "36b001b6a2bd533b40cca00dcac0ca276392446f987fa21fcd54c443919c64c3",
+      "declared_role": "ONE existing-method lane; not an alternative-model worker",
+      "executed_evidence": "CHECKPOINT-01.md and CHECKPOINT-02.md, with per-worker result artifacts"
+    },
+    {
+      "path": "exploration/persistent-01/worker-c/strategy-ack.json",
+      "sha256": "3256e3cdb4da0be05dfe01da3a140a85277e53f89c481624453979afdf6453cb",
+      "declared_role": "OB-C nonadditive rank-deletion finite-state encoder; second prediction successor-rank entropy beyond doublet deficit",
+      "executed_evidence": "CHECKPOINT-01.md and CHECKPOINT-02.md, with per-worker result artifacts"
+    },
+    {
+      "path": "exploration/persistent-01/worker-e/strategy-ack.json",
+      "sha256": "f6f717b5071f2fc2d74a82be0bd829e02f465ead12de4ace84bd733da2cb737b",
+      "declared_role": "OB-E fresh finite-grid representation/operator test; writes worker-e only; no nested agents or git; 30min compute cap",
+      "executed_evidence": "CHECKPOINT-01.md and CHECKPOINT-02.md, with per-worker result artifacts"
+    }
+  ],
+  "deadline_utc": "2026-09-17T03:30:37Z",
+  "scope": "Historical loaded-prompt receipts match current strategy/contract; actual execution documented by experiments, not inferred from Git pull."
+}

@@ -1,0 +1,86 @@
+{
+  "status": "PASS",
+  "gate_pass": false,
+  "actual_or_null_scored": false,
+  "control_outputs": 32,
+  "rows": [
+    {
+      "control": 0,
+      "outputs": 15,
+      "sizes": [
+        298,
+        295,
+        294,
+        288,
+        288,
+        286,
+        288,
+        287,
+        287,
+        289,
+        289,
+        292,
+        290,
+        288,
+        289
+      ],
+      "truth_size": 289,
+      "rank": 8,
+      "ties": 3,
+      "gate_pass": false
+    },
+    {
+      "control": 1,
+      "outputs": 7,
+      "sizes": [
+        193,
+        192,
+        192,
+        180,
+        180,
+        180,
+        180
+      ],
+      "truth_size": 180,
+      "rank": 1,
+      "ties": 4,
+      "gate_pass": false
+    },
+    {
+      "control": 2,
+      "outputs": 6,
+      "sizes": [
+        73,
+        74,
+        73,
+        74,
+        74,
+        73
+      ],
+      "truth_size": 73,
+      "rank": 1,
+      "ties": 3,
+      "gate_pass": false
+    },
+    {
+      "control": 3,
+      "outputs": 4,
+      "sizes": [
+        78,
+        78,
+        78,
+        78
+      ],
+      "truth_size": 78,
+      "rank": 1,
+      "ties": 4,
+      "gate_pass": false
+    }
+  ],
+  "tiny_sizes": [
+    17,
+    342
+  ],
+  "build_version": "1.2.12",
+  "runtime_version": "1.2.12"
+}

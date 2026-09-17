@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-72/check.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "728d4f29b76b54e0cf030ad8d97c82d1d2b457a7",
+  "started_utc": "2026-09-17T03:22:46.785872+00:00",
+  "timeout_seconds": 60,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-72/check.py",
+      "exists": true,
+      "bytes": 4600,
+      "sha256": "d4de48577edc0d2c342a96d6224b6f4d530e877dfed6502565f38b26b645353e"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N19/CARD.md",
+      "exists": true,
+      "bytes": 1947,
+      "sha256": "00cc10baddf37ece9d723cd858e7909c074131402aee21771a01f5164e1e463b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N19/n19.py",
+      "exists": true,
+      "bytes": 2916,
+      "sha256": "d4495fefd2892853cbf440060c32c1d2ee63b2e08b94a00d2aff6aac9eae5e66"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N19/result.json",
+      "exists": true,
+      "bytes": 14314,
+      "sha256": "9e31849c931fccb2e99cc5e2fa958c87e332593b8fcfd9cc871a739473e3e171"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 29905,
+  "finished_utc": "2026-09-17T03:22:46.833419+00:00",
+  "duration_seconds": 0.04733637499884935
+}

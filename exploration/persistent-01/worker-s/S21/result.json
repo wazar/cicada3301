@@ -1,0 +1,66 @@
+{
+  "status": "PASS",
+  "window_length": 2355,
+  "type_cap": 14,
+  "controls": 768,
+  "total_windows": 224473,
+  "source_results": [
+    {
+      "name": "caesar-clean",
+      "windows": 118500,
+      "minimum_errors": 119,
+      "minimum_error_fraction": 0.0505307855626327,
+      "maximum_lower_bound": 215,
+      "achieving_windows": 7,
+      "achieving_support_set": [
+        23
+      ]
+    },
+    {
+      "name": "virgil-I",
+      "windows": 24829,
+      "minimum_errors": 163,
+      "minimum_error_fraction": 0.06921443736730361,
+      "maximum_lower_bound": 228,
+      "achieving_windows": 45,
+      "achieving_support_set": [
+        26,
+        27
+      ]
+    },
+    {
+      "name": "virgil-IV",
+      "windows": 23223,
+      "minimum_errors": 149,
+      "minimum_error_fraction": 0.06326963906581741,
+      "maximum_lower_bound": 204,
+      "achieving_windows": 3,
+      "achieving_support_set": [
+        26
+      ]
+    },
+    {
+      "name": "virgil-VII",
+      "windows": 27201,
+      "minimum_errors": 152,
+      "minimum_error_fraction": 0.06454352441613588,
+      "maximum_lower_bound": 226,
+      "achieving_windows": 4,
+      "achieving_support_set": [
+        24
+      ]
+    },
+    {
+      "name": "virgil-X",
+      "windows": 30720,
+      "minimum_errors": 149,
+      "minimum_error_fraction": 0.06326963906581741,
+      "maximum_lower_bound": 214,
+      "achieving_windows": 43,
+      "achieving_support_set": [
+        26
+      ]
+    }
+  ],
+  "seconds": 0.3651251669944031
+}

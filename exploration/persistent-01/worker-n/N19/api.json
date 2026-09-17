@@ -1,0 +1,6 @@
+{
+  "signature": "(data, /, level=-1, wbits=15)",
+  "doc": "Returns a bytes object containing compressed data.\n\n  data\n    Binary data to be compressed.\n  level\n    Compression level, in 0-9 or -1.\n  wbits\n    The window buffer size and container format.",
+  "build_version": "1.2.12",
+  "runtime_version": "1.2.12"
+}

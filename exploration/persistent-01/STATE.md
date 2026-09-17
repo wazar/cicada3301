@@ -6,12 +6,12 @@ Start: **2026-09-16 19:30:37 UTC /21:30:37 SAST**. Fixed deadline: **2026-09-17 
 
 ## Current assignments
 
-Recorded at 2026-09-17T03:11:47.038778+00:00
+Recorded at 2026-09-17T03:27:06.600347+00:00
 
-- **persistent_p**: Fresh review67 of N17 control-damage sensitivity, then N18 sentinel serialization review.
-- **persistent_n**: N18 exact standard BWT with omitted unique sentinel: exhaustive insertion metadata positions, no changed runes/order/alphabet; controls and full same-null search.
-- **persistent_s**: S20 exact Latin source-support obstruction for2355 word-length labels versus fixed existing source windows; no scorer or new key search.
-- **coordinator**: Single direct controller: publish checkpoint22, inspect full Q12 outputs, prepare final report for review. Original03:30:37UTC deadline unchanged.
+- **persistent_n**: N19 and review69 correction complete; no active search.
+- **persistent_p**: Reviews71/73 complete; no active search.
+- **persistent_s**: S21 and review72 complete; no active search.
+- **coordinator**: Final reviewed evidence publication and deadline closure; original window remains active until03:30:37UTC.
 
 ## Evidence and allocation
 
@@ -53,10 +53,12 @@ S19 word-length payload Latin substitution gives actualtail.65. Controls recover
 
 Checkpoint23 completes N17/N18/S20 with reviews67/68/70. N18 admits page0 at239 but not17/55, and3/19ofits paired inventory comparators also pass; completeoutput not coherent. Controlmetadata remains ambiguous15/7/6/4ways. S20 all224,473 fixed-source windows have≥23types versus14actual, an exact bijection obstruction restricted to those sources. S21 measures lost mass; N19 gates one fixed zlib-level9 metadata criterion on controls before any actualranking. Neither is a wider key or serialization search.
 
-Next executable actions: finish S21 independentreview71; finish N19 controlselection test and review72. Final report consistency review69 has passed with specified deadline/publication closure still pending. Original stop05:30:37SAST, no reserve or competingcontroller.
+S21/review71 quantifies minimum119/2355errors even for arbitrary14-type outputs. N19/review72 fails fixedcompressor metadata selection on allfourcontrols, so no actual/null score ran. Finalreportreviews69/73 confirm scope and expose/correct68eligible futureglyphs, not80. All worker scientific jobs complete without orphans; coordinator is performing final publication checks and fixed-deadline closure.
+
+Next actions within this window: verify reviewed checkpoint24 on origin/master; at03:30:37UTC record actual worker/process shutdown and close final report. Prospective next-window tests are in finalreport/review69, explicitly unexecuted and not an extension of current deadline.
 
 ## Integrity and limits
 
 Experiment01 remains failed. No credible candidate warrants a reserve reveal. Originals4,9,14,19,24,29,34,39,44,54 remain excluded; earlier E exposure to historical54 vision annotations is recorded as contamination, not pristine holdout. No new image50 inspection; cached corrected256-byte input used by P16/R06 is separately pinned. Exact source mapping, commands, outputs, exit codes, alternative outputs and resume commands remain in per-worker evidence.
 
-Only coordinator writes Git/shared management files. Unrelated macOS setup preserved. Reviewed checkpoint22 is verified on origin/master at `01e894f054c460eb330c5bc2882014aa65a273be`; checkpoint23 publication is in progress. Completed log metadata may normalize checkout prefixes, with original bytes and hash mapping retained locally; frozen scientific source/output bytes are not cosmetically rewritten. See numbered checkpoints for historical results and corrections.
+Only coordinator writes Git/shared management files. Unrelated macOS setup preserved. Reviewed checkpoint23 is verified on origin/master at `728d4f29b76b54e0cf030ad8d97c82d1d2b457a7`; checkpoint24 publication is in progress. Completed log metadata may normalize checkout prefixes, with original bytes and hash mapping retained locally; frozen scientific source/output bytes are not cosmetically rewritten. See numbered checkpoints for historical results and corrections.

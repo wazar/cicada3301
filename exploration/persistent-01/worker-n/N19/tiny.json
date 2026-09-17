@@ -1,0 +1,17 @@
+{
+  "seed": 619001,
+  "periodic": {
+    "bytes": 512,
+    "size": 17,
+    "input_sha256": "611bb1c8e224624c80c87b4b691583c0bb0a0ba66bd51a47841d05a532aed7d7",
+    "compressed_sha256": "ddde0c0963b6d056de13e76d3bc3601a526cb0acd8202cf563f1c7952b5bc396",
+    "file": "tiny-periodic.zlib"
+  },
+  "aperiodic": {
+    "bytes": 512,
+    "size": 342,
+    "input_sha256": "3fb35b86392021ea34139f406a52a5a2790d158556bbeeaadb75f28ce0639bd6",
+    "compressed_sha256": "f07285e959e6ffdf24d4af4f791d7517a2d1e184ab798e7b918b4787a2fd76c3",
+    "file": "tiny-aperiodic.zlib"
+  }
+}

@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/review-71/audit.py", line 10, in <module>
+    for p in js(D/'inputs.json'):assert sha(Path(p['path']))==p['sha256']
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
