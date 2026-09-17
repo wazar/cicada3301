@@ -1,0 +1,26 @@
+--- jpeg-6b-steg/jdcoefct.c
++++ jpeg-6b-steg/jdcoefct.c-trace
+@@ -200,8 +200,21 @@
+ 		/* Retrieve LSB from DCT coefficient */
+ 		JBLOCKROW block = coef->MCU_buffer[blkn + xindex];
+ 		int k;
+-		for (k = 0; k < DCTSIZE2; k++)
+-		  steg_use_bit((JCOEF) (*block)[k]);
++        for (k = 0; k < DCTSIZE2; k++) {
++          unsigned short s15v=(JCOEF)(*block)[k];
++          if ((s15v & 1) != s15v) {
++            static FILE *s15f=NULL; int row[9];
++            if(!s15f && getenv("S15_MAP")) s15f=fopen(getenv("S15_MAP"),"wb");
++            row[0]=compptr->component_index;
++            row[1]=MCU_col_num*compptr->MCU_width+xindex;
++            row[2]=cinfo->input_iMCU_row*compptr->v_samp_factor+yoffset+yindex;
++            row[3]=k; row[4]=(JCOEF)(*block)[k];
++            row[5]=compptr->h_samp_factor;row[6]=compptr->v_samp_factor;
++            row[7]=cinfo->max_h_samp_factor;row[8]=cinfo->max_v_samp_factor;
++            if(s15f) fwrite(row,sizeof(int),9,s15f);
++          }
++          steg_use_bit((JCOEF) (*block)[k]);
++        }
+ 	      }   
+ 	      (*inverse_DCT) (cinfo, compptr,
+ 			      (JCOEFPTR) coef->MCU_buffer[blkn+xindex],

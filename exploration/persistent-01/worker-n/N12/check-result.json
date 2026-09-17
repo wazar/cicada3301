@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "raw_certificates": [
+    {
+      "page": 0,
+      "exact_determinant": 324,
+      "mod29": 5,
+      "source_rows_checked": 30
+    },
+    {
+      "page": 1,
+      "exact_determinant": -165348,
+      "mod29": 10,
+      "source_rows_checked": 30
+    }
+  ],
+  "control_rng_panels": 60
+}

@@ -1,0 +1,32 @@
+{
+  "label": "line-art",
+  "command": [
+    "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+    "-r",
+    "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/line-art.jpg",
+    "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/line-art.bin"
+  ],
+  "binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+  "exit_code": 0,
+  "status": "EXIT",
+  "seconds": 0.04159958299715072,
+  "input": "exploration/persistent-01/worker-p/P28/line-art.jpg",
+  "input_sha256": "578e753384704ca3061293ca7ee180a3250ed398687267b9ed150e3e78e1e616",
+  "key": null,
+  "output_exists": true,
+  "output_bytes": 58152,
+  "output_sha256": "8909d9c0c3b914776cbcc68a66e2f61d8d290cd7c1881c70bfa29d25de1657ae",
+  "format": {
+    "checksum_frame": false,
+    "compression": {
+      "zlib": {
+        "valid_complete": false
+      },
+      "gzip": {
+        "valid_complete": false
+      }
+    },
+    "complete_pgp_armor_shape": false,
+    "authenticated": false
+  }
+}

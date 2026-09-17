@@ -1,0 +1,145 @@
+{
+  "scope": "Current publication bytes; previous manifests are original snapshot identities.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/CARD.md",
+      "bytes": 2044,
+      "sha256": "01b8036760fdf4959f0e49bfb9ee13f45a2f093a51002876c155aa8b10ec8bd0"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/CORRECTION.md",
+      "bytes": 524,
+      "sha256": "57052675460b78c0a4f756979150130d892bbc1d9d96aa99e881373825b5f3a3"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/REPORT.md",
+      "bytes": 2857,
+      "sha256": "5643e9a5e2c796e030e8c5c738c696bfce94969317b0906bc07bcff395eb1545"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/check.json",
+      "bytes": 258,
+      "sha256": "d6bd586e91fd09cdfe4a32a5b11a13ddbf94bd11dbd1a518de0f1c2cb65b8662"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/check.py",
+      "bytes": 1942,
+      "sha256": "94f265137fd0cf9ee7855a363d1f2bcc91fa83321f682916f05926f5fc34a4b2"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/controls.json.gz",
+      "bytes": 212404,
+      "sha256": "1b57746902ad31f22ab0079425ef78871d9aad8ac275d2189805ce8c5c5c2863"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/initial-empty-source-control/controls.json.gz",
+      "bytes": 210553,
+      "sha256": "435df6427453ab14383eb543d8b2e663a9bb783cf9ddac7b46b972f17e20051c"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/initial-empty-source-control/result.json",
+      "bytes": 226742,
+      "sha256": "26390984c031446d399e775491e4e88014e512f58a01c8247206a80638a5c21f"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/initial-empty-source-control/test.py",
+      "bytes": 3408,
+      "sha256": "d596f0a976d98f81ea4b8467a64e64fbefd1a9d0a8dd6ba31c0bc01eff103558"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/result.json",
+      "bytes": 226744,
+      "sha256": "c844287f184b17bcd003e028d2e103e1ea74473902333f965674766d2413bd07"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/runs/20260917T020038.076842Z-Q08-token-grammar/code/exploration/persistent-01/coordinator/Q08-token-grammar/test.py",
+      "bytes": 3408,
+      "sha256": "d596f0a976d98f81ea4b8467a64e64fbefd1a9d0a8dd6ba31c0bc01eff103558"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/runs/20260917T020038.076842Z-Q08-token-grammar/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/runs/20260917T020038.076842Z-Q08-token-grammar/command.json",
+      "bytes": 1389,
+      "sha256": "c57cd343fe5aa73cd1da2e5a8777c67e4f51a82e6f815f9832f931546c5ff09a"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/runs/20260917T020038.076842Z-Q08-token-grammar/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/runs/20260917T020038.076842Z-Q08-token-grammar/stdout.txt",
+      "bytes": 543,
+      "sha256": "a6c05acef6c4ace7a345e80a7396b2f618835e02ad7742ea358c3a3f9c84d7f9"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/runs/20260917T020151.103536Z-Q08-source-control-corrected/code/exploration/persistent-01/coordinator/Q08-token-grammar/test.py",
+      "bytes": 3801,
+      "sha256": "fdf9288b6cd718d6ba4dbbe978145e5614ceca98284895479ebd4bd0ec076dcd"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/runs/20260917T020151.103536Z-Q08-source-control-corrected/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/runs/20260917T020151.103536Z-Q08-source-control-corrected/code/liber-primus/src/lp/gematria.py",
+      "bytes": 4283,
+      "sha256": "7b4f5c30137741ab3c33638fb91076c4b1f228229dc3634ba2e6ef232cd47f04"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/runs/20260917T020151.103536Z-Q08-source-control-corrected/command.json",
+      "bytes": 1789,
+      "sha256": "2ed120650bacae5fad0c11a86c035c41ba5454a5f5843b62f96ccb43a00e8033"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/runs/20260917T020151.103536Z-Q08-source-control-corrected/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/runs/20260917T020151.103536Z-Q08-source-control-corrected/stdout.txt",
+      "bytes": 545,
+      "sha256": "9492da8d75c97fa0ad5461cb60aeec61c25d2068dac19efbb581008915054aab"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/runs/20260917T020225.020273Z-Q08-independent-check/code/exploration/persistent-01/coordinator/Q08-token-grammar/check.py",
+      "bytes": 1942,
+      "sha256": "94f265137fd0cf9ee7855a363d1f2bcc91fa83321f682916f05926f5fc34a4b2"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/runs/20260917T020225.020273Z-Q08-independent-check/code/exploration/persistent-01/coordinator/Q08-token-grammar/test.py",
+      "bytes": 3801,
+      "sha256": "fdf9288b6cd718d6ba4dbbe978145e5614ceca98284895479ebd4bd0ec076dcd"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/runs/20260917T020225.020273Z-Q08-independent-check/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/runs/20260917T020225.020273Z-Q08-independent-check/command.json",
+      "bytes": 1611,
+      "sha256": "bf9224db7b294971d66264edc09e1609835fae712364d44e04b703aa9b14a11f"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/runs/20260917T020225.020273Z-Q08-independent-check/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/runs/20260917T020225.020273Z-Q08-independent-check/stdout.txt",
+      "bytes": 242,
+      "sha256": "e706edc6158bfdfd22fb975a58fe1db7eea7b10013a722aa22e102caaee64cdd"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/test.py",
+      "bytes": 3801,
+      "sha256": "fdf9288b6cd718d6ba4dbbe978145e5614ceca98284895479ebd4bd0ec076dcd"
+    }
+  ]
+}

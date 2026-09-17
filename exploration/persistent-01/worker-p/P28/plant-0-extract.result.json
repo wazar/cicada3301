@@ -1,0 +1,32 @@
+{
+  "label": "plant-0-extract",
+  "command": [
+    "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+    "-r",
+    "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/plant-0.jpg",
+    "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/plant-0-extract.bin"
+  ],
+  "binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+  "exit_code": 0,
+  "status": "EXIT",
+  "seconds": 0.04112412500398932,
+  "input": "exploration/persistent-01/worker-p/P28/plant-0.jpg",
+  "input_sha256": "8a72565b560680f7d0875d278f37e55fae823d3595ea2728f093539b4d9034bc",
+  "key": null,
+  "output_exists": true,
+  "output_bytes": 304,
+  "output_sha256": "2d397ee15b388dd1965a6f832e7c8ce752407d35ec2d79cd8e8b0287d1840468",
+  "format": {
+    "checksum_frame": true,
+    "compression": {
+      "zlib": {
+        "valid_complete": false
+      },
+      "gzip": {
+        "valid_complete": false
+      }
+    },
+    "complete_pgp_armor_shape": false,
+    "authenticated": false
+  }
+}

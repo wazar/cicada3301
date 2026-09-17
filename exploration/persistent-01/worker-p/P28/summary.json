@@ -1,0 +1,696 @@
+{
+  "actual": [
+    {
+      "label": "actual-0-key-0",
+      "command": [
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+        "-r",
+        "<REPO_ROOT>/liber-primus/data/relikd/p0.jpg",
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/actual-0-key-0.bin"
+      ],
+      "binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+      "exit_code": 0,
+      "status": "EXIT",
+      "seconds": 0.0419459159966209,
+      "input": "liber-primus/data/relikd/p0.jpg",
+      "input_sha256": "197e1e153958b9a2736b09c10eea7d8bb00e0632fd22a8d9606840becc79942e",
+      "key": null,
+      "output_exists": true,
+      "output_bytes": 58152,
+      "output_sha256": "cbf1ccddc6c4bb2fd96d449e0667eb5be6c2a542de4e0f43e7ca188df7f289b1",
+      "format": {
+        "checksum_frame": false,
+        "compression": {
+          "zlib": {
+            "valid_complete": false
+          },
+          "gzip": {
+            "valid_complete": false
+          }
+        },
+        "complete_pgp_armor_shape": false,
+        "authenticated": false
+      }
+    },
+    {
+      "label": "actual-0-key-1",
+      "command": [
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+        "-k",
+        "3301",
+        "-r",
+        "<REPO_ROOT>/liber-primus/data/relikd/p0.jpg",
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/actual-0-key-1.bin"
+      ],
+      "binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+      "exit_code": 0,
+      "status": "EXIT",
+      "seconds": 0.0421684169996297,
+      "input": "liber-primus/data/relikd/p0.jpg",
+      "input_sha256": "197e1e153958b9a2736b09c10eea7d8bb00e0632fd22a8d9606840becc79942e",
+      "key": "3301",
+      "output_exists": true,
+      "output_bytes": 54051,
+      "output_sha256": "08869e70574359a4bcd642bd7977bc78fb3f35dd4b9648e1f77dc0738462c2df",
+      "format": {
+        "checksum_frame": false,
+        "compression": {
+          "zlib": {
+            "valid_complete": false
+          },
+          "gzip": {
+            "valid_complete": false
+          }
+        },
+        "complete_pgp_armor_shape": false,
+        "authenticated": false
+      }
+    },
+    {
+      "label": "actual-0-key-2",
+      "command": [
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+        "-k",
+        "33011033",
+        "-r",
+        "<REPO_ROOT>/liber-primus/data/relikd/p0.jpg",
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/actual-0-key-2.bin"
+      ],
+      "binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+      "exit_code": 0,
+      "status": "EXIT",
+      "seconds": 0.042914875004498754,
+      "input": "liber-primus/data/relikd/p0.jpg",
+      "input_sha256": "197e1e153958b9a2736b09c10eea7d8bb00e0632fd22a8d9606840becc79942e",
+      "key": "33011033",
+      "output_exists": true,
+      "output_bytes": 24438,
+      "output_sha256": "7dd5131a04418dd8f43634873ac54a38755fb619969417392708b7db51433aa3",
+      "format": {
+        "checksum_frame": false,
+        "compression": {
+          "zlib": {
+            "valid_complete": false
+          },
+          "gzip": {
+            "valid_complete": false
+          }
+        },
+        "complete_pgp_armor_shape": false,
+        "authenticated": false
+      }
+    },
+    {
+      "label": "actual-0-key-3",
+      "command": [
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+        "-k",
+        "circumference",
+        "-r",
+        "<REPO_ROOT>/liber-primus/data/relikd/p0.jpg",
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/actual-0-key-3.bin"
+      ],
+      "binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+      "exit_code": -10,
+      "status": "EXIT",
+      "seconds": 0.054820749995997176,
+      "input": "liber-primus/data/relikd/p0.jpg",
+      "input_sha256": "197e1e153958b9a2736b09c10eea7d8bb00e0632fd22a8d9606840becc79942e",
+      "key": "circumference",
+      "output_exists": true,
+      "output_bytes": 0,
+      "output_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "format": {
+        "checksum_frame": false,
+        "compression": {
+          "zlib": {
+            "valid_complete": false,
+            "decoded_bytes": 0,
+            "decoded_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          },
+          "gzip": {
+            "valid_complete": false,
+            "decoded_bytes": 0,
+            "decoded_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          }
+        },
+        "complete_pgp_armor_shape": false,
+        "authenticated": false
+      }
+    },
+    {
+      "label": "actual-0-key-4",
+      "command": [
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+        "-k",
+        "firfumferenfe",
+        "-r",
+        "<REPO_ROOT>/liber-primus/data/relikd/p0.jpg",
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/actual-0-key-4.bin"
+      ],
+      "binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+      "exit_code": 0,
+      "status": "EXIT",
+      "seconds": 0.042962749997968785,
+      "input": "liber-primus/data/relikd/p0.jpg",
+      "input_sha256": "197e1e153958b9a2736b09c10eea7d8bb00e0632fd22a8d9606840becc79942e",
+      "key": "firfumferenfe",
+      "output_exists": true,
+      "output_bytes": 53874,
+      "output_sha256": "98d276f84b88e80bdaee1463d2ae3645b41e66855c14b19d2e332456549ed702",
+      "format": {
+        "checksum_frame": false,
+        "compression": {
+          "zlib": {
+            "valid_complete": false
+          },
+          "gzip": {
+            "valid_complete": false
+          }
+        },
+        "complete_pgp_armor_shape": false,
+        "authenticated": false
+      }
+    },
+    {
+      "label": "actual-0-key-5",
+      "command": [
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+        "-k",
+        "welcome",
+        "-r",
+        "<REPO_ROOT>/liber-primus/data/relikd/p0.jpg",
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/actual-0-key-5.bin"
+      ],
+      "binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+      "exit_code": 0,
+      "status": "EXIT",
+      "seconds": 0.043741624998801854,
+      "input": "liber-primus/data/relikd/p0.jpg",
+      "input_sha256": "197e1e153958b9a2736b09c10eea7d8bb00e0632fd22a8d9606840becc79942e",
+      "key": "welcome",
+      "output_exists": true,
+      "output_bytes": 53479,
+      "output_sha256": "713202e0b3d5796123e64acaa23c5a681d20e7a43ce55fcdb5fb61a855b50f6a",
+      "format": {
+        "checksum_frame": false,
+        "compression": {
+          "zlib": {
+            "valid_complete": false
+          },
+          "gzip": {
+            "valid_complete": false
+          }
+        },
+        "complete_pgp_armor_shape": false,
+        "authenticated": false
+      }
+    },
+    {
+      "label": "actual-0-key-6",
+      "command": [
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+        "-k",
+        "instar",
+        "-r",
+        "<REPO_ROOT>/liber-primus/data/relikd/p0.jpg",
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/actual-0-key-6.bin"
+      ],
+      "binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+      "exit_code": 0,
+      "status": "EXIT",
+      "seconds": 0.04155804200127022,
+      "input": "liber-primus/data/relikd/p0.jpg",
+      "input_sha256": "197e1e153958b9a2736b09c10eea7d8bb00e0632fd22a8d9606840becc79942e",
+      "key": "instar",
+      "output_exists": true,
+      "output_bytes": 36324,
+      "output_sha256": "fbdf67565d029940a8d8a38ce0f37b99360f89b832ce1d755961b603d47c1db1",
+      "format": {
+        "checksum_frame": false,
+        "compression": {
+          "zlib": {
+            "valid_complete": false
+          },
+          "gzip": {
+            "valid_complete": false
+          }
+        },
+        "complete_pgp_armor_shape": false,
+        "authenticated": false
+      }
+    },
+    {
+      "label": "actual-0-key-7",
+      "command": [
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+        "-k",
+        "pilgrim",
+        "-r",
+        "<REPO_ROOT>/liber-primus/data/relikd/p0.jpg",
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/actual-0-key-7.bin"
+      ],
+      "binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+      "exit_code": -10,
+      "status": "EXIT",
+      "seconds": 0.05347200000687735,
+      "input": "liber-primus/data/relikd/p0.jpg",
+      "input_sha256": "197e1e153958b9a2736b09c10eea7d8bb00e0632fd22a8d9606840becc79942e",
+      "key": "pilgrim",
+      "output_exists": true,
+      "output_bytes": 0,
+      "output_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "format": {
+        "checksum_frame": false,
+        "compression": {
+          "zlib": {
+            "valid_complete": false,
+            "decoded_bytes": 0,
+            "decoded_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          },
+          "gzip": {
+            "valid_complete": false,
+            "decoded_bytes": 0,
+            "decoded_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          }
+        },
+        "complete_pgp_armor_shape": false,
+        "authenticated": false
+      }
+    },
+    {
+      "label": "actual-26-key-0",
+      "command": [
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+        "-r",
+        "<REPO_ROOT>/liber-primus/data/relikd/p26.jpg",
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/actual-26-key-0.bin"
+      ],
+      "binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+      "exit_code": 0,
+      "status": "EXIT",
+      "seconds": 0.04472558399720583,
+      "input": "liber-primus/data/relikd/p26.jpg",
+      "input_sha256": "ed88f5fcdca3d1f846538caa8be979aa28cde969eb99c9464d60daa26c1f9af7",
+      "key": null,
+      "output_exists": true,
+      "output_bytes": 58152,
+      "output_sha256": "0a318b3e9e195fdea9e941b7b458ae9cddef5147eec646b6da231b7d6615fe43",
+      "format": {
+        "checksum_frame": false,
+        "compression": {
+          "zlib": {
+            "valid_complete": false
+          },
+          "gzip": {
+            "valid_complete": false
+          }
+        },
+        "complete_pgp_armor_shape": false,
+        "authenticated": false
+      }
+    },
+    {
+      "label": "actual-26-key-1",
+      "command": [
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+        "-k",
+        "3301",
+        "-r",
+        "<REPO_ROOT>/liber-primus/data/relikd/p26.jpg",
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/actual-26-key-1.bin"
+      ],
+      "binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+      "exit_code": 0,
+      "status": "EXIT",
+      "seconds": 0.04301091699744575,
+      "input": "liber-primus/data/relikd/p26.jpg",
+      "input_sha256": "ed88f5fcdca3d1f846538caa8be979aa28cde969eb99c9464d60daa26c1f9af7",
+      "key": "3301",
+      "output_exists": true,
+      "output_bytes": 54051,
+      "output_sha256": "27acf3f94bfe8f1abbdd94c7cdf6d230836e8bad7aaa18ba444789f350c4d759",
+      "format": {
+        "checksum_frame": false,
+        "compression": {
+          "zlib": {
+            "valid_complete": false
+          },
+          "gzip": {
+            "valid_complete": false
+          }
+        },
+        "complete_pgp_armor_shape": false,
+        "authenticated": false
+      }
+    },
+    {
+      "label": "actual-26-key-2",
+      "command": [
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+        "-k",
+        "33011033",
+        "-r",
+        "<REPO_ROOT>/liber-primus/data/relikd/p26.jpg",
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/actual-26-key-2.bin"
+      ],
+      "binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+      "exit_code": 0,
+      "status": "EXIT",
+      "seconds": 0.04312437499902444,
+      "input": "liber-primus/data/relikd/p26.jpg",
+      "input_sha256": "ed88f5fcdca3d1f846538caa8be979aa28cde969eb99c9464d60daa26c1f9af7",
+      "key": "33011033",
+      "output_exists": true,
+      "output_bytes": 24438,
+      "output_sha256": "b91bb1630888ba37d36084963d0b162828dab6c48d8d94bed99f6bc42d3a9027",
+      "format": {
+        "checksum_frame": false,
+        "compression": {
+          "zlib": {
+            "valid_complete": false
+          },
+          "gzip": {
+            "valid_complete": false
+          }
+        },
+        "complete_pgp_armor_shape": false,
+        "authenticated": false
+      }
+    },
+    {
+      "label": "actual-26-key-3",
+      "command": [
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+        "-k",
+        "circumference",
+        "-r",
+        "<REPO_ROOT>/liber-primus/data/relikd/p26.jpg",
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/actual-26-key-3.bin"
+      ],
+      "binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+      "exit_code": -10,
+      "status": "EXIT",
+      "seconds": 0.053036208999401424,
+      "input": "liber-primus/data/relikd/p26.jpg",
+      "input_sha256": "ed88f5fcdca3d1f846538caa8be979aa28cde969eb99c9464d60daa26c1f9af7",
+      "key": "circumference",
+      "output_exists": true,
+      "output_bytes": 0,
+      "output_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "format": {
+        "checksum_frame": false,
+        "compression": {
+          "zlib": {
+            "valid_complete": false,
+            "decoded_bytes": 0,
+            "decoded_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          },
+          "gzip": {
+            "valid_complete": false,
+            "decoded_bytes": 0,
+            "decoded_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          }
+        },
+        "complete_pgp_armor_shape": false,
+        "authenticated": false
+      }
+    },
+    {
+      "label": "actual-26-key-4",
+      "command": [
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+        "-k",
+        "firfumferenfe",
+        "-r",
+        "<REPO_ROOT>/liber-primus/data/relikd/p26.jpg",
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/actual-26-key-4.bin"
+      ],
+      "binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+      "exit_code": 0,
+      "status": "EXIT",
+      "seconds": 0.04258362499967916,
+      "input": "liber-primus/data/relikd/p26.jpg",
+      "input_sha256": "ed88f5fcdca3d1f846538caa8be979aa28cde969eb99c9464d60daa26c1f9af7",
+      "key": "firfumferenfe",
+      "output_exists": true,
+      "output_bytes": 53874,
+      "output_sha256": "25dbd7d458ed9ecdf2393985381ae058b70ba8b23136d4ec925a06ecaf3cebf2",
+      "format": {
+        "checksum_frame": false,
+        "compression": {
+          "zlib": {
+            "valid_complete": false
+          },
+          "gzip": {
+            "valid_complete": false
+          }
+        },
+        "complete_pgp_armor_shape": false,
+        "authenticated": false
+      }
+    },
+    {
+      "label": "actual-26-key-5",
+      "command": [
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+        "-k",
+        "welcome",
+        "-r",
+        "<REPO_ROOT>/liber-primus/data/relikd/p26.jpg",
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/actual-26-key-5.bin"
+      ],
+      "binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+      "exit_code": 0,
+      "status": "EXIT",
+      "seconds": 0.04340737500024261,
+      "input": "liber-primus/data/relikd/p26.jpg",
+      "input_sha256": "ed88f5fcdca3d1f846538caa8be979aa28cde969eb99c9464d60daa26c1f9af7",
+      "key": "welcome",
+      "output_exists": true,
+      "output_bytes": 53479,
+      "output_sha256": "5da4e5a5f1c9181b83476f50c46cb5b34b8465608b5fb2e53de2318d91af8c9e",
+      "format": {
+        "checksum_frame": false,
+        "compression": {
+          "zlib": {
+            "valid_complete": false
+          },
+          "gzip": {
+            "valid_complete": false
+          }
+        },
+        "complete_pgp_armor_shape": false,
+        "authenticated": false
+      }
+    },
+    {
+      "label": "actual-26-key-6",
+      "command": [
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+        "-k",
+        "instar",
+        "-r",
+        "<REPO_ROOT>/liber-primus/data/relikd/p26.jpg",
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/actual-26-key-6.bin"
+      ],
+      "binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+      "exit_code": 0,
+      "status": "EXIT",
+      "seconds": 0.04345070899580605,
+      "input": "liber-primus/data/relikd/p26.jpg",
+      "input_sha256": "ed88f5fcdca3d1f846538caa8be979aa28cde969eb99c9464d60daa26c1f9af7",
+      "key": "instar",
+      "output_exists": true,
+      "output_bytes": 36324,
+      "output_sha256": "0165348bd2f3683111fb981e664184c6228d9d9663b495741f6ff65a7460fd55",
+      "format": {
+        "checksum_frame": false,
+        "compression": {
+          "zlib": {
+            "valid_complete": false
+          },
+          "gzip": {
+            "valid_complete": false
+          }
+        },
+        "complete_pgp_armor_shape": false,
+        "authenticated": false
+      }
+    },
+    {
+      "label": "actual-26-key-7",
+      "command": [
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+        "-k",
+        "pilgrim",
+        "-r",
+        "<REPO_ROOT>/liber-primus/data/relikd/p26.jpg",
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/actual-26-key-7.bin"
+      ],
+      "binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+      "exit_code": -10,
+      "status": "EXIT",
+      "seconds": 0.054019750001316424,
+      "input": "liber-primus/data/relikd/p26.jpg",
+      "input_sha256": "ed88f5fcdca3d1f846538caa8be979aa28cde969eb99c9464d60daa26c1f9af7",
+      "key": "pilgrim",
+      "output_exists": true,
+      "output_bytes": 0,
+      "output_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "format": {
+        "checksum_frame": false,
+        "compression": {
+          "zlib": {
+            "valid_complete": false,
+            "decoded_bytes": 0,
+            "decoded_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          },
+          "gzip": {
+            "valid_complete": false,
+            "decoded_bytes": 0,
+            "decoded_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          }
+        },
+        "complete_pgp_armor_shape": false,
+        "authenticated": false
+      }
+    }
+  ],
+  "surrogates": [
+    {
+      "label": "blank",
+      "command": [
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+        "-r",
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/blank.jpg",
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/blank.bin"
+      ],
+      "binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+      "exit_code": 1,
+      "status": "EXIT",
+      "seconds": 0.03409704099613009,
+      "input": "exploration/persistent-01/worker-p/P28/blank.jpg",
+      "input_sha256": "7b5c9b6704622fb1e64aaae831e9f1d81fd00a2b56d4ba2b8bb0da524f8022a6",
+      "key": null,
+      "output_exists": true,
+      "output_bytes": 0,
+      "output_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "format": {
+        "checksum_frame": false,
+        "compression": {
+          "zlib": {
+            "valid_complete": false,
+            "decoded_bytes": 0,
+            "decoded_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          },
+          "gzip": {
+            "valid_complete": false,
+            "decoded_bytes": 0,
+            "decoded_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          }
+        },
+        "complete_pgp_armor_shape": false,
+        "authenticated": false
+      }
+    },
+    {
+      "label": "line-art",
+      "command": [
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+        "-r",
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/line-art.jpg",
+        "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/line-art.bin"
+      ],
+      "binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+      "exit_code": 0,
+      "status": "EXIT",
+      "seconds": 0.04159958299715072,
+      "input": "exploration/persistent-01/worker-p/P28/line-art.jpg",
+      "input_sha256": "578e753384704ca3061293ca7ee180a3250ed398687267b9ed150e3e78e1e616",
+      "key": null,
+      "output_exists": true,
+      "output_bytes": 58152,
+      "output_sha256": "8909d9c0c3b914776cbcc68a66e2f61d8d290cd7c1881c70bfa29d25de1657ae",
+      "format": {
+        "checksum_frame": false,
+        "compression": {
+          "zlib": {
+            "valid_complete": false
+          },
+          "gzip": {
+            "valid_complete": false
+          }
+        },
+        "complete_pgp_armor_shape": false,
+        "authenticated": false
+      }
+    }
+  ],
+  "prefix_comparisons": [
+    {
+      "a": "actual-0-key-0.bin",
+      "b": "actual-26-key-0.bin",
+      "common_prefix": 1417,
+      "bytes_a": 58152,
+      "bytes_b": 58152,
+      "full_equal": false,
+      "position_equal": 4430
+    },
+    {
+      "a": "actual-0-key-0.bin",
+      "b": "blank.bin",
+      "common_prefix": 0,
+      "bytes_a": 58152,
+      "bytes_b": 0,
+      "full_equal": false,
+      "position_equal": 0
+    },
+    {
+      "a": "actual-0-key-0.bin",
+      "b": "line-art.bin",
+      "common_prefix": 1087,
+      "bytes_a": 58152,
+      "bytes_b": 58152,
+      "full_equal": false,
+      "position_equal": 3169
+    },
+    {
+      "a": "actual-26-key-0.bin",
+      "b": "blank.bin",
+      "common_prefix": 0,
+      "bytes_a": 58152,
+      "bytes_b": 0,
+      "full_equal": false,
+      "position_equal": 0
+    },
+    {
+      "a": "actual-26-key-0.bin",
+      "b": "line-art.bin",
+      "common_prefix": 1087,
+      "bytes_a": 58152,
+      "bytes_b": 58152,
+      "full_equal": false,
+      "position_equal": 3051
+    },
+    {
+      "a": "blank.bin",
+      "b": "line-art.bin",
+      "common_prefix": 0,
+      "bytes_a": 0,
+      "bytes_b": 58152,
+      "full_equal": false,
+      "position_equal": 0
+    }
+  ],
+  "original_hashes": [
+    {
+      "page": 0,
+      "sha256": "197e1e153958b9a2736b09c10eea7d8bb00e0632fd22a8d9606840becc79942e"
+    },
+    {
+      "page": 26,
+      "sha256": "ed88f5fcdca3d1f846538caa8be979aa28cde969eb99c9464d60daa26c1f9af7"
+    }
+  ]
+}

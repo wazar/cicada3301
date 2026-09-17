@@ -1,0 +1,57 @@
+{
+  "name": "actual26",
+  "source": "liber-primus/data/relikd/p26.jpg",
+  "source_sha256": "ed88f5fcdca3d1f846538caa8be979aa28cde969eb99c9464d60daa26c1f9af7",
+  "expected_sha256": "0a318b3e9e195fdea9e941b7b458ae9cddef5147eec646b6da231b7d6615fe43",
+  "payload_sha256": "0a318b3e9e195fdea9e941b7b458ae9cddef5147eec646b6da231b7d6615fe43",
+  "exits": [
+    0,
+    0
+  ],
+  "dimensions": [
+    2400,
+    3600
+  ],
+  "usable_coefficients": 692534,
+  "selected_bits": 465248,
+  "payload_bytes": 58152,
+  "header_seed": 41408,
+  "header_length": 58152,
+  "initial_body_ones_bits": 16480,
+  "first_nonone_coefficient": [
+    0,
+    75,
+    84,
+    1,
+    286,
+    2,
+    2,
+    2,
+    2
+  ],
+  "first_nonone_bitmap_index": 25350,
+  "checks": {
+    "unchanged_payload": true,
+    "independent_randomaccess_mapping": true,
+    "all_selected_parities": true,
+    "scalar_body_decrypt": true
+  },
+  "map_format": "native little-endian int32 nine columns; row index is usable bitmap index",
+  "selected_columns": [
+    "bitmap_index",
+    "bit"
+  ],
+  "selected_format": "native little-endian int32 two columns; first32 header then body",
+  "actual26.map.bin": {
+    "sha256": "7f43b6c0f84d92807fd3849b97b75d52e28abd562cb42f299dd3aa0b965e7741",
+    "bytes": 24931224
+  },
+  "actual26.selected.bin": {
+    "sha256": "12a25605aae5ddf40ad7e8e2f61d8578baf952dfe34f09c9b5dcd6408a2d8240",
+    "bytes": 3721984
+  },
+  "actual26.randomaccess.bin": {
+    "sha256": "2989a2d06dd4f79032809c892f15a4cccd5fb7cc8a831052e1ecac16e18e336b",
+    "bytes": 24931224
+  }
+}

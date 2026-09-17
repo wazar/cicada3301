@@ -1,0 +1,14 @@
+--- outguess.c
++++ outguess.c-trace
+@@ -344,6 +344,11 @@
+ 	u_int32_t tmp = 0;
+ 
+ 	for (where = 0; where < bits; where++) {
++        { static FILE *s15f = NULL; int pair[2];
++          if (!s15f && getenv("S15_SELECT")) s15f=fopen(getenv("S15_SELECT"),"wb");
++          pair[0]=i; pair[1]=TEST_BIT(bitmap->bitmap,i)?1:0;
++          if(s15f) fwrite(pair,sizeof(int),2,s15f);
++        }
+ 		tmp |= (TEST_BIT(bitmap->bitmap, i) ? 1 : 0) << where;
+ 
+ 		i = iterator_next(iter, bitmap);

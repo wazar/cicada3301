@@ -1,0 +1,114 @@
+{
+  "name": "historical",
+  "source": "exploration/persistent-01/review-48/4gq25.jpg",
+  "source_sha256": "a8340ad04b83fb3130e7ed9172867a440812e87089d6aa2b932d97c6ae38aebe",
+  "expected_sha256": "fe89e77519dfaca998a257ed39c2861303029de2a49183db00eea0fda3a28010",
+  "payload_sha256": "fe89e77519dfaca998a257ed39c2861303029de2a49183db00eea0fda3a28010",
+  "exits": [
+    0,
+    0
+  ],
+  "dimensions": [
+    563,
+    569
+  ],
+  "usable_coefficients": 25229,
+  "selected_bits": 9120,
+  "payload_bytes": 1136,
+  "header_seed": 230,
+  "header_length": 1136,
+  "initial_body_ones_bits": 0,
+  "first_nonone_coefficient": [
+    0,
+    5,
+    6,
+    3,
+    -22,
+    2,
+    2,
+    2,
+    2
+  ],
+  "first_nonone_bitmap_index": 547,
+  "checks": {
+    "unchanged_payload": true,
+    "independent_randomaccess_mapping": true,
+    "all_selected_parities": true,
+    "scalar_body_decrypt": true
+  },
+  "map_format": "native little-endian int32 nine columns; row index is usable bitmap index",
+  "selected_columns": [
+    "bitmap_index",
+    "bit"
+  ],
+  "selected_format": "native little-endian int32 two columns; first32 header then body",
+  "historical.map.bin": {
+    "sha256": "c192f841d87b38e96fcc0d8624a2f0940b249be582d8c8017896f32dbecf7764",
+    "bytes": 908244
+  },
+  "historical.selected.bin": {
+    "sha256": "b43d392cc5be13c3f250a87336c607c9f883d1eb5c4b4badf5d7d0ada3956ca9",
+    "bytes": 72960
+  },
+  "historical.randomaccess.bin": {
+    "sha256": "d2a89bedb350cd326ac98ad52f63f310de19c8b33c42f4b48b7ca5f60fbe7470",
+    "bytes": 908244
+  }
+}
+{
+  "name": "plant0",
+  "source": "exploration/persistent-01/worker-p/P28/plant-0.jpg",
+  "source_sha256": "8a72565b560680f7d0875d278f37e55fae823d3595ea2728f093539b4d9034bc",
+  "expected_sha256": "2d397ee15b388dd1965a6f832e7c8ce752407d35ec2d79cd8e8b0287d1840468",
+  "payload_sha256": "2d397ee15b388dd1965a6f832e7c8ce752407d35ec2d79cd8e8b0287d1840468",
+  "exits": [
+    0,
+    0
+  ],
+  "dimensions": [
+    2400,
+    3600
+  ],
+  "usable_coefficients": 717016,
+  "selected_bits": 2464,
+  "payload_bytes": 304,
+  "header_seed": 141,
+  "header_length": 304,
+  "initial_body_ones_bits": 4,
+  "first_nonone_coefficient": [
+    0,
+    144,
+    4,
+    0,
+    338,
+    2,
+    2,
+    2,
+    2
+  ],
+  "first_nonone_bitmap_index": 1488,
+  "checks": {
+    "unchanged_payload": true,
+    "independent_randomaccess_mapping": true,
+    "all_selected_parities": true,
+    "scalar_body_decrypt": true
+  },
+  "map_format": "native little-endian int32 nine columns; row index is usable bitmap index",
+  "selected_columns": [
+    "bitmap_index",
+    "bit"
+  ],
+  "selected_format": "native little-endian int32 two columns; first32 header then body",
+  "plant0.map.bin": {
+    "sha256": "2b53f0210c086cd9af086240026b3af54776bc68566ef863993a0b2dc667e5ba",
+    "bytes": 25812576
+  },
+  "plant0.selected.bin": {
+    "sha256": "73733538537132067d1bfd65d94e5fed3284977c327f4115b733c1bbce32ce1c",
+    "bytes": 19712
+  },
+  "plant0.randomaccess.bin": {
+    "sha256": "e9db1b1c5d2dd0c5d8ed673a2bf4628c93d26473482f6a1fbc9d823fff657d56",
+    "bytes": 25812576
+  }
+}

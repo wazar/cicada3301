@@ -1,0 +1,16 @@
+OutGuess 0.4 Universal Stego 1999-2021 Niels Provos and others
+
+<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess [options] [<input file> [<output file>]]
+	-h           print this usage help text and exit
+	-[sS] <n>    iteration start, capital letter for 2nd dataset
+	-[iI] <n>    iteration limit
+	-[kK] <key>  key
+	-[dD] <name> filename of dataset
+	-[eE]        use error correcting encoding
+	-p <param>   parameter passed to destination data handler
+	-r           retrieve message from data
+	-x <n>       number of key derivations to be tried
+	-m           mark pixels that have been modified
+	-t           collect statistic information
+	-F[+-]       turns statistical steganalysis foiling on/off.
+	             The default is on.

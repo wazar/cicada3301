@@ -1,0 +1,92 @@
+{
+  "controls": [
+    {
+      "packet": 0,
+      "name": "0_welcome",
+      "n": 515,
+      "truth_id": "e3|clue:000:0:-1",
+      "truth_key_map_rank": 1,
+      "truth_score": -2.2641914903243716,
+      "truth_path_top16_rank": 1,
+      "first_truth_pruned": null,
+      "selected_rune_errors": 0,
+      "correct_cell_rune_errors": 0,
+      "selected_id": "e3|clue:000:0:-1",
+      "maximum": -2.2641914903243716
+    },
+    {
+      "packet": 1,
+      "name": "jpg107-167",
+      "n": 319,
+      "truth_id": "e5|clue:005:1:1",
+      "truth_key_map_rank": 1,
+      "truth_score": -2.0614024146659866,
+      "truth_path_top16_rank": 1,
+      "first_truth_pruned": null,
+      "selected_rune_errors": 0,
+      "correct_cell_rune_errors": 0,
+      "selected_id": "e5|clue:005:1:1",
+      "maximum": -2.0614024146659866
+    },
+    {
+      "packet": 2,
+      "name": "p56_an_end",
+      "n": 85,
+      "truth_id": "e9|clue:010:2:-1",
+      "truth_key_map_rank": 1,
+      "truth_score": -2.475484466936424,
+      "truth_path_top16_rank": 1,
+      "first_truth_pruned": null,
+      "selected_rune_errors": 0,
+      "correct_cell_rune_errors": 0,
+      "selected_id": "e9|clue:010:2:-1",
+      "maximum": -2.475484466936424
+    },
+    {
+      "packet": 3,
+      "name": "p57_parable",
+      "n": 95,
+      "truth_id": "e11|clue:015:3:1",
+      "truth_key_map_rank": 1,
+      "truth_score": -2.287929477802066,
+      "truth_path_top16_rank": 1,
+      "first_truth_pruned": null,
+      "selected_rune_errors": 0,
+      "correct_cell_rune_errors": 0,
+      "selected_id": "e11|clue:015:3:1",
+      "maximum": -2.287929477802066
+    }
+  ],
+  "actual": [
+    {
+      "packet": 4,
+      "name": "original0",
+      "n": 262,
+      "maximum": -4.537799357207784,
+      "tail": 1.0,
+      "best_id": "e25|clue:013:1:1"
+    },
+    {
+      "packet": 5,
+      "name": "original17",
+      "n": 273,
+      "maximum": -4.539039846793354,
+      "tail": 1.0,
+      "best_id": "e9|clue:005:3:-1"
+    },
+    {
+      "packet": 6,
+      "name": "original55",
+      "n": 76,
+      "maximum": -4.242550072892993,
+      "tail": 0.45,
+      "best_id": "e9|clue:007:1:-1"
+    }
+  ],
+  "nominal_cells": 124416,
+  "beam_nodes_expanded": 960042456,
+  "sum_search_seconds_including_checkpoint_archives": 609.4823290460263,
+  "family": "power-conjugate additive with optional literalF",
+  "scorer": "frozenP03 English-rune/boundary LM",
+  "beam": "width64, max over beam-retained paths, not exactFDP"
+}

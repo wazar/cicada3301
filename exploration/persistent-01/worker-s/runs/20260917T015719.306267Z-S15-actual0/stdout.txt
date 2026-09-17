@@ -1,0 +1,57 @@
+{
+  "name": "actual0",
+  "source": "liber-primus/data/relikd/p0.jpg",
+  "source_sha256": "197e1e153958b9a2736b09c10eea7d8bb00e0632fd22a8d9606840becc79942e",
+  "expected_sha256": "cbf1ccddc6c4bb2fd96d449e0667eb5be6c2a542de4e0f43e7ca188df7f289b1",
+  "payload_sha256": "cbf1ccddc6c4bb2fd96d449e0667eb5be6c2a542de4e0f43e7ca188df7f289b1",
+  "exits": [
+    0,
+    0
+  ],
+  "dimensions": [
+    2400,
+    3600
+  ],
+  "usable_coefficients": 714405,
+  "selected_bits": 465248,
+  "payload_bytes": 58152,
+  "header_seed": 41408,
+  "header_length": 58152,
+  "initial_body_ones_bits": 11338,
+  "first_nonone_coefficient": [
+    0,
+    142,
+    77,
+    4,
+    -2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "first_nonone_bitmap_index": 23090,
+  "checks": {
+    "unchanged_payload": true,
+    "independent_randomaccess_mapping": true,
+    "all_selected_parities": true,
+    "scalar_body_decrypt": true
+  },
+  "map_format": "native little-endian int32 nine columns; row index is usable bitmap index",
+  "selected_columns": [
+    "bitmap_index",
+    "bit"
+  ],
+  "selected_format": "native little-endian int32 two columns; first32 header then body",
+  "actual0.map.bin": {
+    "sha256": "6d453f2f682e52d602e3dbf5c214f8ef5da7be20953c8e987b79a44675a2a523",
+    "bytes": 25718580
+  },
+  "actual0.selected.bin": {
+    "sha256": "c0ec2f9ed429518b28412341c8a0b5dbc574f487bf4fc42786e4fbe1b235ed2c",
+    "bytes": 3721984
+  },
+  "actual0.randomaccess.bin": {
+    "sha256": "00d9fc33e7d7607de5e176674063d275d1cecc8818af8719bfdbf171c824353d",
+    "bytes": 25718580
+  }
+}

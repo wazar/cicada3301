@@ -1,0 +1,34 @@
+[
+  {
+    "label": "actual-0-key-3",
+    "random_word": 2122019690,
+    "next_unsigned_bit_index": 2122733953,
+    "next_read_byte_offset": 265341744,
+    "bitmap_bytes": 89301,
+    "mechanism": "UDIV zero gives0; MSUB returns randomword; ADD wraps32bits; next unchecked LDRB far outsidebitmap"
+  },
+  {
+    "label": "actual-0-key-7",
+    "random_word": 1349457429,
+    "next_unsigned_bit_index": 1350171692,
+    "next_read_byte_offset": 168771461,
+    "bitmap_bytes": 89301,
+    "mechanism": "UDIV zero gives0; MSUB returns randomword; ADD wraps32bits; next unchecked LDRB far outsidebitmap"
+  },
+  {
+    "label": "actual-26-key-3",
+    "random_word": 818552740,
+    "next_unsigned_bit_index": 819245022,
+    "next_read_byte_offset": 102405627,
+    "bitmap_bytes": 86567,
+    "mechanism": "UDIV zero gives0; MSUB returns randomword; ADD wraps32bits; next unchecked LDRB far outsidebitmap"
+  },
+  {
+    "label": "actual-26-key-7",
+    "random_word": 928428398,
+    "next_unsigned_bit_index": 929120680,
+    "next_read_byte_offset": 116140085,
+    "bitmap_bytes": 86567,
+    "mechanism": "UDIV zero gives0; MSUB returns randomword; ADD wraps32bits; next unchecked LDRB far outsidebitmap"
+  }
+]

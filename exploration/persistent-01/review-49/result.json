@@ -1,0 +1,258 @@
+{
+  "status": "PASS",
+  "actual_queries": 16,
+  "surrogates": 2,
+  "historical_controls": 1,
+  "own_controls": 8,
+  "records": [
+    {
+      "label": "actual-0-key-0",
+      "exit_code": 0,
+      "usable_bits": 714405,
+      "seed": 41408,
+      "length": 58152,
+      "iterator_first_failure": null,
+      "min_skipmod": 1
+    },
+    {
+      "label": "actual-0-key-1",
+      "exit_code": 0,
+      "usable_bits": 714405,
+      "seed": 62079,
+      "length": 54051,
+      "iterator_first_failure": null,
+      "min_skipmod": 1
+    },
+    {
+      "label": "actual-0-key-2",
+      "exit_code": 0,
+      "usable_bits": 714405,
+      "seed": 42487,
+      "length": 24438,
+      "iterator_first_failure": null,
+      "min_skipmod": 5
+    },
+    {
+      "label": "actual-0-key-3",
+      "exit_code": -10,
+      "usable_bits": 714405,
+      "seed": 56996,
+      "length": 62183,
+      "iterator_first_failure": {
+        "kind": "zero_skip_modulus",
+        "body_byte": 62165,
+        "bit_offset": 714262,
+        "remaining_bits": 143,
+        "remaining_payload_bytes": 18,
+        "skipmod": 0
+      },
+      "min_skipmod": 0
+    },
+    {
+      "label": "actual-0-key-4",
+      "exit_code": 0,
+      "usable_bits": 714405,
+      "seed": 6384,
+      "length": 53874,
+      "iterator_first_failure": null,
+      "min_skipmod": 1
+    },
+    {
+      "label": "actual-0-key-5",
+      "exit_code": 0,
+      "usable_bits": 714405,
+      "seed": 64214,
+      "length": 53479,
+      "iterator_first_failure": null,
+      "min_skipmod": 1
+    },
+    {
+      "label": "actual-0-key-6",
+      "exit_code": 0,
+      "usable_bits": 714405,
+      "seed": 60955,
+      "length": 36324,
+      "iterator_first_failure": null,
+      "min_skipmod": 2
+    },
+    {
+      "label": "actual-0-key-7",
+      "exit_code": -10,
+      "usable_bits": 714405,
+      "seed": 16215,
+      "length": 64808,
+      "iterator_first_failure": {
+        "kind": "zero_skip_modulus",
+        "body_byte": 64790,
+        "bit_offset": 714262,
+        "remaining_bits": 143,
+        "remaining_payload_bytes": 18,
+        "skipmod": 0
+      },
+      "min_skipmod": 0
+    },
+    {
+      "label": "actual-26-key-0",
+      "exit_code": 0,
+      "usable_bits": 692534,
+      "seed": 41408,
+      "length": 58152,
+      "iterator_first_failure": null,
+      "min_skipmod": 1
+    },
+    {
+      "label": "actual-26-key-1",
+      "exit_code": 0,
+      "usable_bits": 692534,
+      "seed": 62079,
+      "length": 54051,
+      "iterator_first_failure": null,
+      "min_skipmod": 1
+    },
+    {
+      "label": "actual-26-key-2",
+      "exit_code": 0,
+      "usable_bits": 692534,
+      "seed": 42487,
+      "length": 24438,
+      "iterator_first_failure": null,
+      "min_skipmod": 5
+    },
+    {
+      "label": "actual-26-key-3",
+      "exit_code": -10,
+      "usable_bits": 692534,
+      "seed": 56996,
+      "length": 62183,
+      "iterator_first_failure": {
+        "kind": "zero_skip_modulus",
+        "body_byte": 62151,
+        "bit_offset": 692281,
+        "remaining_bits": 253,
+        "remaining_payload_bytes": 32,
+        "skipmod": 0
+      },
+      "min_skipmod": 0
+    },
+    {
+      "label": "actual-26-key-4",
+      "exit_code": 0,
+      "usable_bits": 692534,
+      "seed": 6384,
+      "length": 53874,
+      "iterator_first_failure": null,
+      "min_skipmod": 1
+    },
+    {
+      "label": "actual-26-key-5",
+      "exit_code": 0,
+      "usable_bits": 692534,
+      "seed": 64214,
+      "length": 53479,
+      "iterator_first_failure": null,
+      "min_skipmod": 1
+    },
+    {
+      "label": "actual-26-key-6",
+      "exit_code": 0,
+      "usable_bits": 692534,
+      "seed": 60955,
+      "length": 36324,
+      "iterator_first_failure": null,
+      "min_skipmod": 2
+    },
+    {
+      "label": "actual-26-key-7",
+      "exit_code": -10,
+      "usable_bits": 692534,
+      "seed": 16215,
+      "length": 64808,
+      "iterator_first_failure": {
+        "kind": "zero_skip_modulus",
+        "body_byte": 64776,
+        "bit_offset": 692281,
+        "remaining_bits": 253,
+        "remaining_payload_bytes": 32,
+        "skipmod": 0
+      },
+      "min_skipmod": 0
+    },
+    {
+      "label": "blank",
+      "exit_code": 1,
+      "usable_bits": 135000,
+      "seed": 41408,
+      "length": 58152,
+      "iterator_first_failure": {
+        "kind": "initial_capacity_rejection",
+        "length": 58152,
+        "capacity": 16875
+      },
+      "min_skipmod": 4294967296
+    },
+    {
+      "label": "line-art",
+      "exit_code": 0,
+      "usable_bits": 948360,
+      "seed": 41408,
+      "length": 58152,
+      "iterator_first_failure": null,
+      "min_skipmod": 2
+    }
+  ],
+  "prefixes": [
+    {
+      "label": "actual-0-key-0",
+      "ones_prefix_bytes": 1417
+    },
+    {
+      "label": "actual-0-key-1",
+      "ones_prefix_bytes": 1407
+    },
+    {
+      "label": "actual-0-key-2",
+      "ones_prefix_bytes": 704
+    },
+    {
+      "label": "actual-0-key-4",
+      "ones_prefix_bytes": 1407
+    },
+    {
+      "label": "actual-0-key-5",
+      "ones_prefix_bytes": 1409
+    },
+    {
+      "label": "actual-0-key-6",
+      "ones_prefix_bytes": 1130
+    },
+    {
+      "label": "actual-26-key-0",
+      "ones_prefix_bytes": 2060
+    },
+    {
+      "label": "actual-26-key-1",
+      "ones_prefix_bytes": 1551
+    },
+    {
+      "label": "actual-26-key-2",
+      "ones_prefix_bytes": 775
+    },
+    {
+      "label": "actual-26-key-4",
+      "ones_prefix_bytes": 1549
+    },
+    {
+      "label": "actual-26-key-5",
+      "ones_prefix_bytes": 1553
+    },
+    {
+      "label": "actual-26-key-6",
+      "ones_prefix_bytes": 1241
+    },
+    {
+      "label": "line-art",
+      "ones_prefix_bytes": 1087
+    }
+  ],
+  "scope": "Independent scalar path simulation; no executable rerun and no claim exact faulting PC without runtime trace"
+}

@@ -1,0 +1,32 @@
+{
+  "label": "actual-26-key-0",
+  "command": [
+    "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+    "-r",
+    "<REPO_ROOT>/liber-primus/data/relikd/p26.jpg",
+    "<REPO_ROOT>/exploration/persistent-01/worker-p/P28/actual-26-key-0.bin"
+  ],
+  "binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+  "exit_code": 0,
+  "status": "EXIT",
+  "seconds": 0.04472558399720583,
+  "input": "liber-primus/data/relikd/p26.jpg",
+  "input_sha256": "ed88f5fcdca3d1f846538caa8be979aa28cde969eb99c9464d60daa26c1f9af7",
+  "key": null,
+  "output_exists": true,
+  "output_bytes": 58152,
+  "output_sha256": "0a318b3e9e195fdea9e941b7b458ae9cddef5147eec646b6da231b7d6615fe43",
+  "format": {
+    "checksum_frame": false,
+    "compression": {
+      "zlib": {
+        "valid_complete": false
+      },
+      "gzip": {
+        "valid_complete": false
+      }
+    },
+    "complete_pgp_armor_shape": false,
+    "authenticated": false
+  }
+}

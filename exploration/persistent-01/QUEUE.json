@@ -544,7 +544,7 @@
   },
   {
     "id": "READY-TOKEN",
-    "status": "ready",
+    "status": "completed_reviewed",
     "title": "Context-dependent plaintext token capacity",
     "input": "J03 sourcevectors and exactO02countobstructions",
     "first_step": "Specify one reversible prefix-free replacement rule for naturalGP multi-character units; derive countrelation before fitting unknownmaps; actualsourcecontrol andrealnecessarytest",
@@ -883,7 +883,7 @@
   {
     "id": "S14",
     "owner": "persistent_s",
-    "status": "completed_pending_review",
+    "status": "completed_reviewed",
     "title": "S14 bounded power-conjugated cyclic-key arithmetic proposal/pilot, explicitly still conjugate-additive; S12 section prediction and S13 postfix-format tests complete, awaiting review."
   },
   {
@@ -913,7 +913,7 @@
   {
     "id": "P28",
     "owner": "persistent_p",
-    "status": "completed_pending_review",
+    "status": "completed_reviewed",
     "title": "P28 actual OutGuess0.4 compatibility/control/extraction on images0/26, fixeddefault+7historicallyspecifiedpassphrases. Localbuild/sourceinspection, noinstall; archiveversion/tool limits. P26/P27 frozen and reviewed, no predictive improvement/order stability."
   },
   {
@@ -931,19 +931,61 @@
   {
     "id": "S15",
     "owner": "persistent_s",
-    "status": "running",
+    "status": "completed_reviewed",
     "title": "S15 actual OutGuess coefficient-path tracing on 0/26, historical and planted controls. New causal image-channel test; no English scorer or additive-key assumption."
   },
   {
     "id": "REVIEW49",
     "owner": "persistent_n",
-    "status": "running",
+    "status": "completed_reviewed",
     "title": "Independent review49 of P28 extraction, prefix mechanism and bounded source diagnosis of four SIGBUS failures. No silent repair."
   },
   {
     "id": "REVIEW50",
     "owner": "persistent_p",
-    "status": "running",
+    "status": "completed_reviewed",
     "title": "Independent review50 of S14 power-conjugated key search; P26/P27/P28 frozen. No key expansion."
+  },
+  {
+    "id": "P29",
+    "owner": "persistent_p",
+    "status": "running",
+    "title": "P29 fixed ordered digraph-codebook search over pinned Blake windows; scorer-free, no keystream, ciphertext phase0 only. Reviews50/51 complete."
+  },
+  {
+    "id": "S16",
+    "owner": "persistent_s",
+    "status": "completed_pending_review",
+    "title": "Exact minimum-rotation order cycles on0/1."
+  },
+  {
+    "id": "S17",
+    "owner": "persistent_s",
+    "status": "pilot",
+    "title": "S16 minimal-rotation unknown-order model has exact cycle obstructions, frozen. S17 assessing direct bijective substitution search with clean Latin model; cost/control pilot before actual."
+  },
+  {
+    "id": "N11",
+    "owner": "persistent_n",
+    "status": "blocked",
+    "title": "Historical OutGuess compatibility stopped after automatic review rejection; no bypass/retry."
+  },
+  {
+    "id": "N12",
+    "owner": "persistent_n",
+    "status": "completed_reviewed",
+    "title": "Unknown-label terminal checksum exact rank30 on0/1; review53."
+  },
+  {
+    "id": "N13",
+    "owner": "persistent_n",
+    "status": "running",
+    "title": "N13 fixed Elias-delta integer framing in five-bit rune tokens; independent of labels/scorer. N12 and review52 complete. N11 historical tool task remains blocked."
+  },
+  {
+    "id": "Q08",
+    "owner": "coordinator",
+    "status": "completed_reviewed",
+    "title": "Longest-prefix binary-merge dictionary theorem and source certificate, review52."
   }
 ]

@@ -1,0 +1,47 @@
+[
+  {
+    "label": "build-jpeg",
+    "command": [
+      "make",
+      "-j1",
+      "-f",
+      "makefile.ansi",
+      "CC=cc",
+      "CFLAGS=-O2 -DHAVE_STDC_HEADERS",
+      "libjpeg.a"
+    ],
+    "cwd": "exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/jpeg-6b-steg",
+    "exit": 0
+  },
+  {
+    "label": "build-outguess",
+    "command": [
+      "cc",
+      "-O2",
+      "-std=gnu99",
+      "-I.",
+      "outguess.c",
+      "golay.c",
+      "arc.c",
+      "pnm.c",
+      "jpg.c",
+      "iterator.c",
+      "md5.c",
+      "jpeg-6b-steg/libjpeg.a",
+      "-lm",
+      "-o",
+      "outguess"
+    ],
+    "cwd": "exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src",
+    "exit": 0
+  },
+  {
+    "label": "version",
+    "command": [
+      "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess",
+      "-h"
+    ],
+    "cwd": "exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src",
+    "exit": 0
+  }
+]

@@ -1,0 +1,92 @@
+jdhuff.c:454:13: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  454 |   { 0, ((-1)<<1) + 1, ((-1)<<2) + 1, ((-1)<<3) + 1, ((-1)<<4) + 1,
+      |         ~~~~^
+jdhuff.c:454:28: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  454 |   { 0, ((-1)<<1) + 1, ((-1)<<2) + 1, ((-1)<<3) + 1, ((-1)<<4) + 1,
+      |                        ~~~~^
+jdhuff.c:454:43: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  454 |   { 0, ((-1)<<1) + 1, ((-1)<<2) + 1, ((-1)<<3) + 1, ((-1)<<4) + 1,
+      |                                       ~~~~^
+jdhuff.c:454:58: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  454 |   { 0, ((-1)<<1) + 1, ((-1)<<2) + 1, ((-1)<<3) + 1, ((-1)<<4) + 1,
+      |                                                      ~~~~^
+jdhuff.c:455:10: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  455 |     ((-1)<<5) + 1, ((-1)<<6) + 1, ((-1)<<7) + 1, ((-1)<<8) + 1,
+      |      ~~~~^
+jdhuff.c:455:25: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  455 |     ((-1)<<5) + 1, ((-1)<<6) + 1, ((-1)<<7) + 1, ((-1)<<8) + 1,
+      |                     ~~~~^
+jdhuff.c:455:40: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  455 |     ((-1)<<5) + 1, ((-1)<<6) + 1, ((-1)<<7) + 1, ((-1)<<8) + 1,
+      |                                    ~~~~^
+jdhuff.c:455:55: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  455 |     ((-1)<<5) + 1, ((-1)<<6) + 1, ((-1)<<7) + 1, ((-1)<<8) + 1,
+      |                                                   ~~~~^
+jdhuff.c:456:10: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  456 |     ((-1)<<9) + 1, ((-1)<<10) + 1, ((-1)<<11) + 1, ((-1)<<12) + 1,
+      |      ~~~~^
+jdhuff.c:456:25: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  456 |     ((-1)<<9) + 1, ((-1)<<10) + 1, ((-1)<<11) + 1, ((-1)<<12) + 1,
+      |                     ~~~~^
+jdhuff.c:456:41: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  456 |     ((-1)<<9) + 1, ((-1)<<10) + 1, ((-1)<<11) + 1, ((-1)<<12) + 1,
+      |                                     ~~~~^
+jdhuff.c:456:57: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  456 |     ((-1)<<9) + 1, ((-1)<<10) + 1, ((-1)<<11) + 1, ((-1)<<12) + 1,
+      |                                                     ~~~~^
+jdhuff.c:457:10: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  457 |     ((-1)<<13) + 1, ((-1)<<14) + 1, ((-1)<<15) + 1 };
+      |      ~~~~^
+jdhuff.c:457:26: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  457 |     ((-1)<<13) + 1, ((-1)<<14) + 1, ((-1)<<15) + 1 };
+      |                      ~~~~^
+jdhuff.c:457:42: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  457 |     ((-1)<<13) + 1, ((-1)<<14) + 1, ((-1)<<15) + 1 };
+      |                                      ~~~~^
+15 warnings generated.
+jdphuff.c:214:13: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  214 |   { 0, ((-1)<<1) + 1, ((-1)<<2) + 1, ((-1)<<3) + 1, ((-1)<<4) + 1,
+      |         ~~~~^
+jdphuff.c:214:28: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  214 |   { 0, ((-1)<<1) + 1, ((-1)<<2) + 1, ((-1)<<3) + 1, ((-1)<<4) + 1,
+      |                        ~~~~^
+jdphuff.c:214:43: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  214 |   { 0, ((-1)<<1) + 1, ((-1)<<2) + 1, ((-1)<<3) + 1, ((-1)<<4) + 1,
+      |                                       ~~~~^
+jdphuff.c:214:58: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  214 |   { 0, ((-1)<<1) + 1, ((-1)<<2) + 1, ((-1)<<3) + 1, ((-1)<<4) + 1,
+      |                                                      ~~~~^
+jdphuff.c:215:10: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  215 |     ((-1)<<5) + 1, ((-1)<<6) + 1, ((-1)<<7) + 1, ((-1)<<8) + 1,
+      |      ~~~~^
+jdphuff.c:215:25: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  215 |     ((-1)<<5) + 1, ((-1)<<6) + 1, ((-1)<<7) + 1, ((-1)<<8) + 1,
+      |                     ~~~~^
+jdphuff.c:215:40: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  215 |     ((-1)<<5) + 1, ((-1)<<6) + 1, ((-1)<<7) + 1, ((-1)<<8) + 1,
+      |                                    ~~~~^
+jdphuff.c:215:55: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  215 |     ((-1)<<5) + 1, ((-1)<<6) + 1, ((-1)<<7) + 1, ((-1)<<8) + 1,
+      |                                                   ~~~~^
+jdphuff.c:216:10: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  216 |     ((-1)<<9) + 1, ((-1)<<10) + 1, ((-1)<<11) + 1, ((-1)<<12) + 1,
+      |      ~~~~^
+jdphuff.c:216:25: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  216 |     ((-1)<<9) + 1, ((-1)<<10) + 1, ((-1)<<11) + 1, ((-1)<<12) + 1,
+      |                     ~~~~^
+jdphuff.c:216:41: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  216 |     ((-1)<<9) + 1, ((-1)<<10) + 1, ((-1)<<11) + 1, ((-1)<<12) + 1,
+      |                                     ~~~~^
+jdphuff.c:216:57: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  216 |     ((-1)<<9) + 1, ((-1)<<10) + 1, ((-1)<<11) + 1, ((-1)<<12) + 1,
+      |                                                     ~~~~^
+jdphuff.c:217:10: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  217 |     ((-1)<<13) + 1, ((-1)<<14) + 1, ((-1)<<15) + 1 };
+      |      ~~~~^
+jdphuff.c:217:26: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  217 |     ((-1)<<13) + 1, ((-1)<<14) + 1, ((-1)<<15) + 1 };
+      |                      ~~~~^
+jdphuff.c:217:42: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+  217 |     ((-1)<<13) + 1, ((-1)<<14) + 1, ((-1)<<15) + 1 };
+      |                                      ~~~~^
+15 warnings generated.

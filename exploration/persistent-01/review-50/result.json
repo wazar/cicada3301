@@ -1,0 +1,492 @@
+{
+  "pass_all": true,
+  "files": 64,
+  "cells": 124416,
+  "retained_paths": 1656288,
+  "maximum_score_error": 1.2434497875801753e-14,
+  "scalar_selected_positions": 13234,
+  "scalar_predicates": 585336,
+  "tiny_path_counts": [
+    8,
+    4,
+    4,
+    4,
+    16,
+    2,
+    32,
+    4,
+    8,
+    2,
+    2,
+    1,
+    1,
+    2,
+    16,
+    4,
+    2,
+    2,
+    32,
+    8,
+    1,
+    4,
+    2,
+    2
+  ],
+  "tails": [
+    1.0,
+    1.0,
+    0.45
+  ],
+  "expansions_accounted": 960042456,
+  "panels": [
+    {
+      "file": "S14-packet0-main.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -2.2641914903243716,
+      "seconds": 1.762371875003737
+    },
+    {
+      "file": "S14-packet1-main.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -2.0614024146659866,
+      "seconds": 1.2685476249971543
+    },
+    {
+      "file": "S14-packet2-main.json.gz",
+      "cells": 1944,
+      "paths": 7776,
+      "maximum": -2.475484466936424,
+      "seconds": 0.15579533299751347
+    },
+    {
+      "file": "S14-packet3-main.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -2.287929477802066,
+      "seconds": 0.45059679199766833
+    },
+    {
+      "file": "S14-packet4-main.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.537799357207784,
+      "seconds": 0.9858410410015495
+    },
+    {
+      "file": "S14-packet4-null00.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.491092562504129,
+      "seconds": 1.0800353339946014
+    },
+    {
+      "file": "S14-packet4-null01.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.493903944371876,
+      "seconds": 1.028268707996176
+    },
+    {
+      "file": "S14-packet4-null02.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.471893416263555,
+      "seconds": 1.0018641670030775
+    },
+    {
+      "file": "S14-packet4-null03.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.530807623468909,
+      "seconds": 1.1103096250008093
+    },
+    {
+      "file": "S14-packet4-null04.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.521187826885066,
+      "seconds": 0.9636678750030114
+    },
+    {
+      "file": "S14-packet4-null05.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.411686618923832,
+      "seconds": 1.007316292001633
+    },
+    {
+      "file": "S14-packet4-null06.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.497657269747672,
+      "seconds": 1.1119526250040508
+    },
+    {
+      "file": "S14-packet4-null07.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.507673789878506,
+      "seconds": 1.0347689999980503
+    },
+    {
+      "file": "S14-packet4-null08.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.468462411037048,
+      "seconds": 1.0128846669977065
+    },
+    {
+      "file": "S14-packet4-null09.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.488085631631277,
+      "seconds": 1.1182784170014202
+    },
+    {
+      "file": "S14-packet4-null10.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.488351289318229,
+      "seconds": 1.0141507079970324
+    },
+    {
+      "file": "S14-packet4-null11.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.503291148701942,
+      "seconds": 1.0456532919997699
+    },
+    {
+      "file": "S14-packet4-null12.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.492560856563147,
+      "seconds": 1.1259976250003092
+    },
+    {
+      "file": "S14-packet4-null13.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.509723151716944,
+      "seconds": 1.021751457999926
+    },
+    {
+      "file": "S14-packet4-null14.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.498574141790326,
+      "seconds": 1.023342832995695
+    },
+    {
+      "file": "S14-packet4-null15.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.535869484190159,
+      "seconds": 1.0837184169940883
+    },
+    {
+      "file": "S14-packet4-null16.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.426735395325398,
+      "seconds": 1.0214780410024105
+    },
+    {
+      "file": "S14-packet4-null17.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.491369805176976,
+      "seconds": 1.017447042002459
+    },
+    {
+      "file": "S14-packet4-null18.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.499410011932963,
+      "seconds": 1.1354427080004825
+    },
+    {
+      "file": "S14-packet5-main.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.539039846793354,
+      "seconds": 1.0560225000008359
+    },
+    {
+      "file": "S14-packet5-null00.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.455803653948789,
+      "seconds": 1.0511585410058615
+    },
+    {
+      "file": "S14-packet5-null01.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.428646062207266,
+      "seconds": 1.1588077499982319
+    },
+    {
+      "file": "S14-packet5-null02.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.5020963542758645,
+      "seconds": 1.0085737080007675
+    },
+    {
+      "file": "S14-packet5-null03.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.468846856049164,
+      "seconds": 1.052707292001287
+    },
+    {
+      "file": "S14-packet5-null04.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.481383873929479,
+      "seconds": 1.1828619169973535
+    },
+    {
+      "file": "S14-packet5-null05.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.483515613008065,
+      "seconds": 1.0540089170026476
+    },
+    {
+      "file": "S14-packet5-null06.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.436273105740115,
+      "seconds": 1.0542741250028485
+    },
+    {
+      "file": "S14-packet5-null07.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.52408429629235,
+      "seconds": 1.1586918749962933
+    },
+    {
+      "file": "S14-packet5-null08.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.491839290656222,
+      "seconds": 1.050367208001262
+    },
+    {
+      "file": "S14-packet5-null09.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.494988276046581,
+      "seconds": 1.065602292001131
+    },
+    {
+      "file": "S14-packet5-null10.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.423882565270073,
+      "seconds": 1.1668242500018096
+    },
+    {
+      "file": "S14-packet5-null11.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.521873268051184,
+      "seconds": 1.0604993339948123
+    },
+    {
+      "file": "S14-packet5-null12.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.478437582332654,
+      "seconds": 1.0589512080041459
+    },
+    {
+      "file": "S14-packet5-null13.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.451063203400185,
+      "seconds": 1.1328332500052056
+    },
+    {
+      "file": "S14-packet5-null14.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.47979741358125,
+      "seconds": 1.080855624997639
+    },
+    {
+      "file": "S14-packet5-null15.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.506438486953269,
+      "seconds": 1.1754244170006132
+    },
+    {
+      "file": "S14-packet5-null16.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.426523389515182,
+      "seconds": 1.0571880000061356
+    },
+    {
+      "file": "S14-packet5-null17.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.447684198579029,
+      "seconds": 1.0707401250037947
+    },
+    {
+      "file": "S14-packet5-null18.json.gz",
+      "cells": 1944,
+      "paths": 31104,
+      "maximum": -4.447131683887298,
+      "seconds": 1.1728079580061603
+    },
+    {
+      "file": "S14-packet6-main.json.gz",
+      "cells": 1944,
+      "paths": 15552,
+      "maximum": -4.242550072892993,
+      "seconds": 0.2424075000017183
+    },
+    {
+      "file": "S14-packet6-null00.json.gz",
+      "cells": 1944,
+      "paths": 15552,
+      "maximum": -4.2894418878650535,
+      "seconds": 0.2129544579947833
+    },
+    {
+      "file": "S14-packet6-null01.json.gz",
+      "cells": 1944,
+      "paths": 15552,
+      "maximum": -4.205528764656402,
+      "seconds": 0.21824366700457176
+    },
+    {
+      "file": "S14-packet6-null02.json.gz",
+      "cells": 1944,
+      "paths": 15552,
+      "maximum": -4.2780211261684675,
+      "seconds": 0.20621362500241958
+    },
+    {
+      "file": "S14-packet6-null03.json.gz",
+      "cells": 1944,
+      "paths": 15552,
+      "maximum": -4.273694740387233,
+      "seconds": 0.2139878750022035
+    },
+    {
+      "file": "S14-packet6-null04.json.gz",
+      "cells": 1944,
+      "paths": 15552,
+      "maximum": -4.327242829302322,
+      "seconds": 0.2517969170003198
+    },
+    {
+      "file": "S14-packet6-null05.json.gz",
+      "cells": 1944,
+      "paths": 15552,
+      "maximum": -4.251148831783139,
+      "seconds": 0.21195533299760427
+    },
+    {
+      "file": "S14-packet6-null06.json.gz",
+      "cells": 1944,
+      "paths": 15552,
+      "maximum": -4.291859856948979,
+      "seconds": 0.2154800000062096
+    },
+    {
+      "file": "S14-packet6-null07.json.gz",
+      "cells": 1944,
+      "paths": 15552,
+      "maximum": -4.192072785534017,
+      "seconds": 0.21509070900356164
+    },
+    {
+      "file": "S14-packet6-null08.json.gz",
+      "cells": 1944,
+      "paths": 15552,
+      "maximum": -4.289105276383062,
+      "seconds": 0.21877425000275252
+    },
+    {
+      "file": "S14-packet6-null09.json.gz",
+      "cells": 1944,
+      "paths": 15552,
+      "maximum": -3.982836610855567,
+      "seconds": 0.22102729099424323
+    },
+    {
+      "file": "S14-packet6-null10.json.gz",
+      "cells": 1944,
+      "paths": 15552,
+      "maximum": -4.244952224136566,
+      "seconds": 0.2608833750055055
+    },
+    {
+      "file": "S14-packet6-null11.json.gz",
+      "cells": 1944,
+      "paths": 15552,
+      "maximum": -4.208686572752713,
+      "seconds": 0.22331712499726564
+    },
+    {
+      "file": "S14-packet6-null12.json.gz",
+      "cells": 1944,
+      "paths": 15552,
+      "maximum": -4.237130200705562,
+      "seconds": 0.21124712500022724
+    },
+    {
+      "file": "S14-packet6-null13.json.gz",
+      "cells": 1944,
+      "paths": 15552,
+      "maximum": -4.201822899296191,
+      "seconds": 0.2183654589971411
+    },
+    {
+      "file": "S14-packet6-null14.json.gz",
+      "cells": 1944,
+      "paths": 15552,
+      "maximum": -4.296748140479889,
+      "seconds": 0.22029766700143227
+    },
+    {
+      "file": "S14-packet6-null15.json.gz",
+      "cells": 1944,
+      "paths": 15552,
+      "maximum": -4.307389959933681,
+      "seconds": 0.22408112500124844
+    },
+    {
+      "file": "S14-packet6-null16.json.gz",
+      "cells": 1944,
+      "paths": 15552,
+      "maximum": -4.212668971730976,
+      "seconds": 0.24120166600187076
+    },
+    {
+      "file": "S14-packet6-null17.json.gz",
+      "cells": 1944,
+      "paths": 15552,
+      "maximum": -4.271536666841693,
+      "seconds": 0.2205303750015446
+    },
+    {
+      "file": "S14-packet6-null18.json.gz",
+      "cells": 1944,
+      "paths": 15552,
+      "maximum": -4.165682890863862,
+      "seconds": 0.21667191699816613
+    }
+  ],
+  "beam_limit": "No full search rerun; final retained paths and grid/selection/calibration verified. No exhaustive long-page optimum or independent historical pruning-trace proof."
+}

@@ -1,0 +1,9 @@
+# S15 frozen coefficient spatial trace
+
+Follow-up selected after P28 and review48 established the shared 1,417 output bytes equal complement of default encryption stream. Spatial origin remains unmeasured. Default no-key extraction only, originals 0 and 26. This product includes software developed by Niels Provos.
+
+Copy pinned P28 source/build into worker-s; preserve original hashes and an exact instrumentation diff. Add observation-only usable-coefficient and retrieval-index logs, without iterator, PRNG, coefficients or extraction repair. Preserve full usable mapping. Validate historical 4gq25 and P28 plant-0 payloads byte-for-byte and every traced bit against mapped coefficient parity. Independently use libjpeg's random-access jpeg_read_coefficients API and natural component/block arrays to check coordinate/value mapping, rather than reuse instrumented streaming traversal.
+
+Record component, block x/y, natural DCT index, signed coefficient, component sampling and full-image footprint. White-blank definition fixed before actual trace: every decoded RGB pixel in the support footprint is at least 250 in every channel. Report DC/AC separately, footprint bbox, and fixed raw bit ranges: 32 header bits, first 1,417 body bytes, complete initial body all-one run and its first differing bit. All coefficients remain mapped, but no new geometry tuning, hidden messages, language model, key or repair. Complete initial runs are deterministic diagnostics of the already-known constant mechanism, not significance tests. JPEG footprints locate blocks, not individual causal pixels for AC.
+
+Controls first, actual second, logged one thread jobs <=900 seconds; honor STOP and deadline 2026-09-17 03:30:37 UTC. If observation changes extraction, do not interpret actual tracing until resolved and disclosed. No other images or shared source edits.

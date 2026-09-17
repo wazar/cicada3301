@@ -1,0 +1,9 @@
+{
+  "command": [
+    "/usr/bin/otool",
+    "-tvV",
+    "<REPO_ROOT>/exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/outguess"
+  ],
+  "exit_code": 0,
+  "scope": "Static inspection only; no extractor rerun"
+}

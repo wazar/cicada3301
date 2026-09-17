@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-48/mechanism.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "c24c56cd314feebbfa555aa121277fd0c2ed8fb0",
+  "started_utc": "2026-09-17T01:47:21.612088+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-48/carrier.py",
+      "exists": true,
+      "bytes": 1113,
+      "sha256": "2f991de48a40b2b3f67b78d496efcd279c2c915217bc1181df72ac6496654d38"
+    },
+    {
+      "path": "exploration/persistent-01/review-48/mechanism.py",
+      "exists": true,
+      "bytes": 1154,
+      "sha256": "730073b9446c257c6eaa50152b7b2fa9504c44ee2cafb3a3da1c0404ad242034"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/arc.c",
+      "exists": true,
+      "bytes": 3515,
+      "sha256": "7dbe656e3c83946c9c2ffcb04f57adee5ebdaece8db954615fd71a540c93ef13"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/jpg.c",
+      "exists": true,
+      "bytes": 24932,
+      "sha256": "ac3cc79438bc78a92f5a6d4afbd13c3b6cae15b5d2e4e21badae311402a5405c"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 2189,
+  "finished_utc": "2026-09-17T01:47:21.636761+00:00",
+  "duration_seconds": 0.024470416996337008
+}

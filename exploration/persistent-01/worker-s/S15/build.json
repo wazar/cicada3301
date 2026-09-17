@@ -1,0 +1,65 @@
+{
+  "files": [
+    {
+      "file": "outguess.c",
+      "original_sha256": "9b31f2925167092166dc7af976b854d100e8a115737b89501834c00c6c1bc4b5",
+      "instrumented_sha256": "0d73d9b116d8ccd8f6ba6b5574970016a2a72d88d3cb53d7be9605b7f9917906"
+    },
+    {
+      "file": "jpeg-6b-steg/jdcoefct.c",
+      "original_sha256": "a07a8daf986b2cae0fd91f5238c9bd6a13cb370d8ffe46ff01097e10a4ec8491",
+      "instrumented_sha256": "96673a752065ec3b1d6696f84972c94001b22c3de23d7f5e422daebff56a695c"
+    }
+  ],
+  "commands": [
+    {
+      "cmd": [
+        "make",
+        "-j1",
+        "-f",
+        "makefile.ansi",
+        "CC=cc",
+        "CFLAGS=-O2 -DHAVE_STDC_HEADERS",
+        "libjpeg.a"
+      ],
+      "cwd": "exploration/persistent-01/worker-s/S15/source/jpeg-6b-steg",
+      "exit": 0
+    },
+    {
+      "cmd": [
+        "cc",
+        "-O2",
+        "-std=gnu99",
+        "-I.",
+        "outguess.c",
+        "golay.c",
+        "arc.c",
+        "pnm.c",
+        "jpg.c",
+        "iterator.c",
+        "md5.c",
+        "jpeg-6b-steg/libjpeg.a",
+        "-lm",
+        "-o",
+        "outguess"
+      ],
+      "cwd": "exploration/persistent-01/worker-s/S15/source",
+      "exit": 0
+    },
+    {
+      "cmd": [
+        "cc",
+        "-O2",
+        "-Iexploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/jpeg-6b-steg",
+        "exploration/persistent-01/worker-s/S15/coeff_reader.c",
+        "exploration/persistent-01/worker-p/private-P28/resurrecting-open-source-projects-outguess-24810e1/src/jpeg-6b-steg/libjpeg.a",
+        "-o",
+        "exploration/persistent-01/worker-s/S15/coeff_reader"
+      ],
+      "cwd": ".",
+      "exit": 0
+    }
+  ],
+  "original_binary_sha256": "1ad05d1cea85667b567cb790e7fb144f64150b866dcb1c3217194680615bed44",
+  "trace_binary_sha256": "f2dd5a38b46571ac8e653c9eb64e825f4a6a12831ef90b96788e1fe984c62dd6"
+}

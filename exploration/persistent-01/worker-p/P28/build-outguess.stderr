@@ -1,0 +1,240 @@
+outguess.c:369:20: warning: passing 'u_int *' (aka 'unsigned int *') to parameter of type 'int *' converts between pointers to integer types with different sign [-Wpointer-sign]
+  369 |         encode_data(NULL, &datalen, NULL, flags);
+      |                           ^~~~~~~~
+./outguess.h:96:36: note: passing argument to parameter here
+   96 | u_char *encode_data(u_char *, int *, struct arc4_stream *, int);
+      |                                    ^
+outguess.c:375:29: warning: passing 'u_int *' (aka 'unsigned int *') to parameter of type 'int *' converts between pointers to integer types with different sign [-Wpointer-sign]
+  375 |         buf = decode_data (tmpbuf, &datalen, as, flags);
+      |                                    ^~~~~~~~
+./outguess.h:97:36: note: passing argument to parameter here
+   97 | u_char *decode_data(u_char *, int *, struct arc4_stream *, int);
+      |                                    ^
+outguess.c:410:9: warning: returning 'u_char *' (aka 'unsigned char *') from a function with result type 'char *' converts between pointers to integer types where one is of the unique plain 'char' type and the other is not [-Wpointer-sign]
+  410 |         return buf;
+      |                ^~~
+outguess.c:697:12: warning: passing 'u_char *' (aka 'unsigned char *') to parameter of type 'char *' converts between pointers to integer types where one is of the unique plain 'char' type and the other is not [-Wpointer-sign]
+  697 |         mmap_file(filename, &data, &datalen);
+      |                   ^~~~~~~~
+./outguess.h:109:22: note: passing argument to parameter 'name' here
+  109 | void mmap_file(char *name, u_char **data, int *size);
+      |                      ^
+outguess.c:697:29: warning: passing 'u_int *' (aka 'unsigned int *') to parameter of type 'int *' converts between pointers to integer types with different sign [-Wpointer-sign]
+  697 |         mmap_file(filename, &data, &datalen);
+      |                                    ^~~~~~~~
+./outguess.h:109:48: note: passing argument to parameter 'size' here
+  109 | void mmap_file(char *name, u_char **data, int *size);
+      |                                                ^
+outguess.c:700:30: warning: passing 'u_int *' (aka 'unsigned int *') to parameter of type 'int *' converts between pointers to integer types with different sign [-Wpointer-sign]
+  700 |         encdata = encode_data(data, &enclen, &tas, cfg->flags);
+      |                                     ^~~~~~~
+outguess.c:533:32: note: passing argument to parameter 'len' here
+  533 | encode_data(u_char *data, int *len, struct arc4_stream *as, int flags)
+      |                                ^
+outguess.c:766:8: warning: assigning to 'u_char *' (aka 'unsigned char *') from 'char *' converts between pointers to integer types where one is of the unique plain 'char' type and the other is not [-Wpointer-sign]
+  766 |         *data = p;
+      |               ^ ~
+outguess.c:896:9: warning: assigning to 'u_char *' (aka 'unsigned char *') from 'char *' converts between pointers to integer types where one is of the unique plain 'char' type and the other is not [-Wpointer-sign]
+  896 |                         data = optarg;
+      |                              ^ ~~~~~~
+outguess.c:899:10: warning: assigning to 'u_char *' (aka 'unsigned char *') from 'char *' converts between pointers to integer types where one is of the unique plain 'char' type and the other is not [-Wpointer-sign]
+  899 |                         data2 = optarg;
+      |                               ^ ~~~~~~
+outguess.c:1003:27: warning: passing 'char *' to parameter of type 'u_char *' (aka 'unsigned char *') converts between pointers to integer types where one is of the unique plain 'char' type and the other is not [-Wpointer-sign]
+ 1003 |                 do_embed(&bitmap, data, key, strlen(key), &cfg1, &cumres);
+      |                                         ^~~
+outguess.c:680:52: note: passing argument to parameter 'key' here
+  680 | do_embed(bitmap *bitmap, u_char *filename, u_char *key, u_int klen,
+      |                                                    ^
+outguess.c:1026:11: warning: passing 'char[128]' to parameter of type 'u_char *' (aka 'unsigned char *') converts between pointers to integer types where one is of the unique plain 'char' type and the other is not [-Wpointer-sign]
+ 1026 |                                              derivekey, strlen(derivekey),
+      |                                              ^~~~~~~~~
+outguess.c:680:52: note: passing argument to parameter 'key' here
+  680 | do_embed(bitmap *bitmap, u_char *filename, u_char *key, u_int klen,
+      |                                                    ^
+outguess.c:1045:12: warning: initializing 'u_char *' (aka 'unsigned char *') with an expression of type 'char *' converts between pointers to integer types where one is of the unique plain 'char' type and the other is not [-Wpointer-sign]
+ 1045 |                         u_char *bdata = bitmap.data;
+      |                                 ^       ~~~~~~~~~~~
+outguess.c:1112:36: warning: passing 'char *' to parameter of type 'u_char *' (aka 'unsigned char *') converts between pointers to integer types where one is of the unique plain 'char' type and the other is not [-Wpointer-sign]
+ 1112 |                 arc4_initkey(&as,  "Encryption", key, strlen(key));
+      |                                                  ^~~
+./arc.h:56:63: note: passing argument to parameter 'key' here
+   56 | void arc4_initkey(struct arc4_stream *as, char *type, u_char *key, int keylen);
+      |                                                               ^
+outguess.c:1115:33: warning: passing 'char *' to parameter of type 'u_char *' (aka 'unsigned char *') converts between pointers to integer types where one is of the unique plain 'char' type and the other is not [-Wpointer-sign]
+ 1115 |                 iterator_init(&iter, &bitmap, key, strlen(key));
+      |                                               ^~~
+./iterator.h:52:59: note: passing argument to parameter 'key' here
+   52 | void iterator_init(iterator *, struct _bitmap *,  u_char *key, u_int klen);
+      |                                                           ^
+outguess.c:1117:11: warning: assigning to 'unsigned char *' from 'char *' converts between pointers to integer types where one is of the unique plain 'char' type and the other is not [-Wpointer-sign]
+ 1117 |                 encdata = steg_retrieve(&datalen, &bitmap, &iter, &as,
+      |                         ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 1118 |                                         cfg1.flags);
+      |                                         ~~~~~~~~~~~
+15 warnings generated.
+arc.c:81:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+   81 | arc4_getword(as)
+      | ^
+arc.c:116:19: warning: passing 'char *' to parameter of type 'const unsigned char *' converts between pointers to integer types where one is of the unique plain 'char' type and the other is not [-Wpointer-sign]
+  116 |   MD5Update(&ctx, type, strlen(type));
+      |                   ^~~~
+./md5.h:20:65: note: passing argument to parameter 'buf' here
+   20 | void MD5Update(struct MD5Context *context, unsigned char const *buf, unsigned len);
+      |                                                                 ^
+2 warnings generated.
+In file included from jpg.c:51:
+./jpeg-6b-steg/jmorecfg.h:59:23: warning: redefinition of typedef 'JSAMPLE' is a C11 feature [-Wtypedef-redefinition]
+   59 | typedef unsigned char JSAMPLE;
+      |                       ^
+./jpeg-6b-steg/jpeglib.h:26:10: note: './jpeg-6b-steg/jmorecfg.h' included multiple times, additional include site here
+   26 | #include "jmorecfg.h"           /* seldom changed options */
+      |          ^
+jpg.c:51:10: note: './jpeg-6b-steg/jmorecfg.h' included multiple times, additional include site here
+   51 | #include "jpeg-6b-steg/jmorecfg.h"
+      |          ^
+./jpeg-6b-steg/jmorecfg.h:59:23: note: unguarded header; consider using #ifdef guards or #pragma once
+   59 | typedef unsigned char JSAMPLE;
+      |                       ^
+In file included from jpg.c:51:
+./jpeg-6b-steg/jmorecfg.h:99:15: warning: redefinition of typedef 'JCOEF' is a C11 feature [-Wtypedef-redefinition]
+   99 | typedef short JCOEF;
+      |               ^
+./jpeg-6b-steg/jpeglib.h:26:10: note: './jpeg-6b-steg/jmorecfg.h' included multiple times, additional include site here
+   26 | #include "jmorecfg.h"           /* seldom changed options */
+      |          ^
+jpg.c:51:10: note: './jpeg-6b-steg/jmorecfg.h' included multiple times, additional include site here
+   51 | #include "jpeg-6b-steg/jmorecfg.h"
+      |          ^
+./jpeg-6b-steg/jmorecfg.h:99:15: note: unguarded header; consider using #ifdef guards or #pragma once
+   99 | typedef short JCOEF;
+      |               ^
+In file included from jpg.c:51:
+./jpeg-6b-steg/jmorecfg.h:110:23: warning: redefinition of typedef 'JOCTET' is a C11 feature [-Wtypedef-redefinition]
+  110 | typedef unsigned char JOCTET;
+      |                       ^
+./jpeg-6b-steg/jpeglib.h:26:10: note: './jpeg-6b-steg/jmorecfg.h' included multiple times, additional include site here
+   26 | #include "jmorecfg.h"           /* seldom changed options */
+      |          ^
+jpg.c:51:10: note: './jpeg-6b-steg/jmorecfg.h' included multiple times, additional include site here
+   51 | #include "jpeg-6b-steg/jmorecfg.h"
+      |          ^
+./jpeg-6b-steg/jmorecfg.h:110:23: note: unguarded header; consider using #ifdef guards or #pragma once
+  110 | typedef unsigned char JOCTET;
+      |                       ^
+In file included from jpg.c:51:
+./jpeg-6b-steg/jmorecfg.h:135:23: warning: redefinition of typedef 'UINT8' is a C11 feature [-Wtypedef-redefinition]
+  135 | typedef unsigned char UINT8;
+      |                       ^
+./jpeg-6b-steg/jpeglib.h:26:10: note: './jpeg-6b-steg/jmorecfg.h' included multiple times, additional include site here
+   26 | #include "jmorecfg.h"           /* seldom changed options */
+      |          ^
+jpg.c:51:10: note: './jpeg-6b-steg/jmorecfg.h' included multiple times, additional include site here
+   51 | #include "jpeg-6b-steg/jmorecfg.h"
+      |          ^
+./jpeg-6b-steg/jmorecfg.h:135:23: note: unguarded header; consider using #ifdef guards or #pragma once
+  135 | typedef unsigned char UINT8;
+      |                       ^
+In file included from jpg.c:51:
+./jpeg-6b-steg/jmorecfg.h:147:24: warning: redefinition of typedef 'UINT16' is a C11 feature [-Wtypedef-redefinition]
+  147 | typedef unsigned short UINT16;
+      |                        ^
+./jpeg-6b-steg/jpeglib.h:26:10: note: './jpeg-6b-steg/jmorecfg.h' included multiple times, additional include site here
+   26 | #include "jmorecfg.h"           /* seldom changed options */
+      |          ^
+jpg.c:51:10: note: './jpeg-6b-steg/jmorecfg.h' included multiple times, additional include site here
+   51 | #include "jpeg-6b-steg/jmorecfg.h"
+      |          ^
+./jpeg-6b-steg/jmorecfg.h:147:24: note: unguarded header; consider using #ifdef guards or #pragma once
+  147 | typedef unsigned short UINT16;
+      |                        ^
+In file included from jpg.c:51:
+./jpeg-6b-steg/jmorecfg.h:155:15: warning: redefinition of typedef 'INT16' is a C11 feature [-Wtypedef-redefinition]
+  155 | typedef short INT16;
+      |               ^
+./jpeg-6b-steg/jpeglib.h:26:10: note: './jpeg-6b-steg/jmorecfg.h' included multiple times, additional include site here
+   26 | #include "jmorecfg.h"           /* seldom changed options */
+      |          ^
+jpg.c:51:10: note: './jpeg-6b-steg/jmorecfg.h' included multiple times, additional include site here
+   51 | #include "jpeg-6b-steg/jmorecfg.h"
+      |          ^
+./jpeg-6b-steg/jmorecfg.h:155:15: note: unguarded header; consider using #ifdef guards or #pragma once
+  155 | typedef short INT16;
+      |               ^
+In file included from jpg.c:51:
+./jpeg-6b-steg/jmorecfg.h:161:14: warning: redefinition of typedef 'INT32' is a C11 feature [-Wtypedef-redefinition]
+  161 | typedef long INT32;
+      |              ^
+./jpeg-6b-steg/jpeglib.h:26:10: note: './jpeg-6b-steg/jmorecfg.h' included multiple times, additional include site here
+   26 | #include "jmorecfg.h"           /* seldom changed options */
+      |          ^
+jpg.c:51:10: note: './jpeg-6b-steg/jmorecfg.h' included multiple times, additional include site here
+   51 | #include "jpeg-6b-steg/jmorecfg.h"
+      |          ^
+./jpeg-6b-steg/jmorecfg.h:161:14: note: unguarded header; consider using #ifdef guards or #pragma once
+  161 | typedef long INT32;
+      |              ^
+In file included from jpg.c:51:
+./jpeg-6b-steg/jmorecfg.h:171:22: warning: redefinition of typedef 'JDIMENSION' is a C11 feature [-Wtypedef-redefinition]
+  171 | typedef unsigned int JDIMENSION;
+      |                      ^
+./jpeg-6b-steg/jpeglib.h:26:10: note: './jpeg-6b-steg/jmorecfg.h' included multiple times, additional include site here
+   26 | #include "jmorecfg.h"           /* seldom changed options */
+      |          ^
+jpg.c:51:10: note: './jpeg-6b-steg/jmorecfg.h' included multiple times, additional include site here
+   51 | #include "jpeg-6b-steg/jmorecfg.h"
+      |          ^
+./jpeg-6b-steg/jmorecfg.h:171:22: note: unguarded header; consider using #ifdef guards or #pragma once
+  171 | typedef unsigned int JDIMENSION;
+      |                      ^
+In file included from jpg.c:51:
+./jpeg-6b-steg/jmorecfg.h:227:13: warning: redefinition of typedef 'boolean' is a C11 feature [-Wtypedef-redefinition]
+  227 | typedef int boolean;
+      |             ^
+./jpeg-6b-steg/jpeglib.h:26:10: note: './jpeg-6b-steg/jmorecfg.h' included multiple times, additional include site here
+   26 | #include "jmorecfg.h"           /* seldom changed options */
+      |          ^
+jpg.c:51:10: note: './jpeg-6b-steg/jmorecfg.h' included multiple times, additional include site here
+   51 | #include "jpeg-6b-steg/jmorecfg.h"
+      |          ^
+./jpeg-6b-steg/jmorecfg.h:227:13: note: unguarded header; consider using #ifdef guards or #pragma once
+  227 | typedef int boolean;
+      |             ^
+jpg.c:120:8: warning: initializing 'char *' with an expression of type 'u_char *' (aka 'unsigned char *') converts between pointers to integer types where one is of the unique plain 'char' type and the other is not [-Wpointer-sign]
+  120 |         char *pbits = bitmap->bitmap;
+      |               ^       ~~~~~~~~~~~~~~
+jpg.c:121:8: warning: initializing 'char *' with an expression of type 'u_char *' (aka 'unsigned char *') converts between pointers to integer types where one is of the unique plain 'char' type and the other is not [-Wpointer-sign]
+  121 |         char *plock = bitmap->locked;
+      |               ^       ~~~~~~~~~~~~~~
+jpg.c:122:8: warning: initializing 'char *' with an expression of type 'u_char *' (aka 'unsigned char *') converts between pointers to integer types where one is of the unique plain 'char' type and the other is not [-Wpointer-sign]
+  122 |         char *pmetalock = bitmap->metalock;
+      |               ^           ~~~~~~~~~~~~~~~~
+jpg.c:326:17: warning: assigning to 'char *' from 'u_char *' (aka 'unsigned char *') converts between pointers to integer types where one is of the unique plain 'char' type and the other is not [-Wpointer-sign]
+  326 |                         tbitmap.data = buf;
+      |                                      ^ ~~~
+jpg.c:776:30: warning: assigning to 'JOCTET *' (aka 'unsigned char *') from 'char[256]' converts between pointers to integer types where one is of the unique plain 'char' type and the other is not [-Wpointer-sign]
+  776 |   dest->pub.next_output_byte = dummy_buf;
+      |                              ^ ~~~~~~~~~
+jpg.c:785:30: warning: assigning to 'JOCTET *' (aka 'unsigned char *') from 'char[256]' converts between pointers to integer types where one is of the unique plain 'char' type and the other is not [-Wpointer-sign]
+  785 |   dest->pub.next_output_byte = dummy_buf;
+      |                              ^ ~~~~~~~~~
+15 warnings generated.
+md5.c:40:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+   40 | getu32 (addr)
+      | ^
+md5.c:48:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+   48 | putu32 (data, addr)
+      | ^
+md5.c:63:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+   63 | MD5Init(ctx)
+      | ^
+md5.c:80:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+   80 | MD5Update(ctx, buf, len)
+      | ^
+md5.c:131:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  131 | MD5Final(digest, ctx)
+      | ^
+md5.c:194:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  194 | MD5Transform(buf, inraw)
+      | ^
+6 warnings generated.

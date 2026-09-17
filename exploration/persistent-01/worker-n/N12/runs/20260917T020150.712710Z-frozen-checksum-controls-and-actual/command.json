@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-n/N12/test.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "46f222f92f68323dddd976a365361b5b3c684f47",
+  "started_utc": "2026-09-17T02:01:50.722419+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N12/CARD.md",
+      "exists": true,
+      "bytes": 2734,
+      "sha256": "67802b82c640c47085b4430e7ea821cb50b36add88ee57ff966dd87156ae08e8"
+    },
+    {
+      "path": "exploration/persistent-01/worker-n/N12/test.py",
+      "exists": true,
+      "bytes": 4036,
+      "sha256": "f09b9bf407cfc9d5d6c006af1314dd77fbbb767f02f2f0c797147762a61a0ae3"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 6401,
+  "finished_utc": "2026-09-17T02:01:50.927588+00:00",
+  "duration_seconds": 0.20498104199941736
+}

@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-49/arm_next.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "46f222f92f68323dddd976a365361b5b3c684f47",
+  "started_utc": "2026-09-17T01:55:59.333114+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-49/arm_next.py",
+      "exists": true,
+      "bytes": 1393,
+      "sha256": "b797dc62596d6fd4f988fdbd55eb0df9d0910e7f8b16a38674890374411f00e8"
+    },
+    {
+      "path": "exploration/persistent-01/review-49/check.py",
+      "exists": true,
+      "bytes": 4861,
+      "sha256": "ea6704faa3a0d6be44c7774f75a6db2538fb4a4088eda5e811bbce5bf2c5ad8c"
+    },
+    {
+      "path": "exploration/persistent-01/review-49/disassemble.py",
+      "exists": true,
+      "bytes": 791,
+      "sha256": "74a298c3c05371a5937c5a0d04549bfdc35bc987ec935e8f47511ed5ae417257"
+    },
+    {
+      "path": "exploration/persistent-01/review-49/iterator-disassembly.txt",
+      "exists": true,
+      "bytes": 2589,
+      "sha256": "8e8415523916d4850d03c78391a72dc41cc4850066380abff11aa3ef1e70db1a"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 5836,
+  "finished_utc": "2026-09-17T01:56:00.986882+00:00",
+  "duration_seconds": 1.6536140419993899
+}

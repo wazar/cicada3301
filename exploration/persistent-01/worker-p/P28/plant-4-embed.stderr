@@ -1,0 +1,18 @@
+Reading <REPO_ROOT>/exploration/persistent-01/worker-p/P28/original0-copy.jpg....
+JPEG compression quality set to 92
+Extracting usable bits:   717016 bits
+Correctable message size: 18446744073709551060 bits, 2572710374801408.00%
+Encoded '<REPO_ROOT>/exploration/persistent-01/worker-p/P28/known-message.bin': 2432 bits, 304 bytes
+Finding best embedding...
+    0:  1226(49.8%)[50.4%], bias   352(0.29), saved:    -1, total:  0.17%
+    1:  1205(48.9%)[49.5%], bias   309(0.26), saved:     1, total:  0.17%
+    3:  1196(48.5%)[49.2%], bias   305(0.26), saved:     2, total:  0.17%
+    5:  1180(47.9%)[48.5%], bias   292(0.25), saved:     4, total:  0.16%
+   10:  1155(46.9%)[47.5%], bias   273(0.24), saved:     7, total:  0.16%
+  137:  1164(47.2%)[47.9%], bias   214(0.18), saved:     6, total:  0.16%
+137, 1378: Embedding data: 2432 in 717016
+Bits embedded: 2464, changed: 1164(47.2%)[47.9%], bias: 214, tot: 715225, skip: 712761
+Foiling statistics: corrections: 912, failed: 2, offset: 437.778462 +- 434.529745
+Total bits changed: 1378 (change 1164 + bias 214)
+Storing bitmap into data...
+Writing <REPO_ROOT>/exploration/persistent-01/worker-p/P28/plant-4.jpg....

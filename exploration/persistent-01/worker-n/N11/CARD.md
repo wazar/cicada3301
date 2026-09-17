@@ -1,0 +1,9 @@
+# N11 — historical OutGuess0.2 comparison
+
+Freeze one historical source archive only: author Niels Provos's documented https://www.provos.org/uploads/outguess-0.2.tar.gz, author download page https://www.provos.org/p/outguess-and-stegdetect-downloads/ publishes MD5 321f23dc0badaba4350fa66b59829064 and SHA1 d8d7ff3d8f492c3fbb075ecd2c6e87ce7cf13b80. Fetch and verify before inspection/build. Preserve bytes, response metadata, all errors. No alternate source hunt after failure within this budget.
+
+First inspect source differences in iterator_adapt/next, retrieve/header/length/bit bounds, ARC4 and coefficient filtering against pinned0.4. Report feasibility before build. Setup/build at most10min, total15min; one thread, logged900s maximum, no install/shared changes/Git. Any portability edits must be build declarations only, separate and recorded; no algorithm or clamp modifications. If such edits are not straightforward, stop with source-comparison bound.
+
+If historical binary is feasible, test the already frozen known historical carrier and8 P28 keyed planted carriers before actual. Expected exact payloads unchanged. Then only the same16 page0/26 extraction commands with fixed8keys, no new images/keys/offsets. Preserve every status/output/crash; no authenticated-payload claim from arbitrary binary. Reproduce crash statuses only as incidental fixed-panel outcomes, no separate forced-crash probing. If controls fail, do not run actual. Comparison is specific to historical0.2 source built on today'splatform, not original2001binary/platform equivalence.
+
+Do not duplicate S15 coefficient tracing. Guard-only diagnosis is a separate optional task only if historical source comparison cannot resolve relevant logic; no clamping/recovery semantics. Original P28/review48/49 unchanged. Hard coordinator deadline03:30:37UTC applies.

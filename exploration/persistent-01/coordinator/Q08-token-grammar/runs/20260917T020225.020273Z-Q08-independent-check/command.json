@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/coordinator/Q08-token-grammar/check.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "46f222f92f68323dddd976a365361b5b3c684f47",
+  "started_utc": "2026-09-17T02:02:25.030049+00:00",
+  "timeout_seconds": 120,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/check.py",
+      "exists": true,
+      "bytes": 1942,
+      "sha256": "94f265137fd0cf9ee7855a363d1f2bcc91fa83321f682916f05926f5fc34a4b2"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/test.py",
+      "exists": true,
+      "bytes": 3801,
+      "sha256": "fdf9288b6cd718d6ba4dbbe978145e5614ceca98284895479ebd4bd0ec076dcd"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 6467,
+  "finished_utc": "2026-09-17T02:02:25.178149+00:00",
+  "duration_seconds": 0.1478520419987035
+}

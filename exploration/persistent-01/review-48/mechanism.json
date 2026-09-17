@@ -1,0 +1,52 @@
+{
+  "headers": [
+    {
+      "constant_usable_bit": false,
+      "raw_header_hex": "00000000",
+      "decoded_header_hex": "3f5ed71c",
+      "seed": 24127,
+      "length": 7383
+    },
+    {
+      "constant_usable_bit": true,
+      "raw_header_hex": "ffffffff",
+      "decoded_header_hex": "c0a128e3",
+      "seed": 41408,
+      "length": 58152
+    }
+  ],
+  "coefficient_filter": [
+    {
+      "coefficient": -2,
+      "unsigned": 65534,
+      "retained": true,
+      "bit": 0
+    },
+    {
+      "coefficient": -1,
+      "unsigned": 65535,
+      "retained": true,
+      "bit": 1
+    },
+    {
+      "coefficient": 0,
+      "unsigned": 0,
+      "retained": false,
+      "bit": 0
+    },
+    {
+      "coefficient": 1,
+      "unsigned": 1,
+      "retained": false,
+      "bit": 1
+    },
+    {
+      "coefficient": 2,
+      "unsigned": 2,
+      "retained": true,
+      "bit": 0
+    }
+  ],
+  "default_keystream_sha256": "38f7e863e734c7b8ad3d374e873e4afbe666761410f1b613d1ee54ce6c69bf31",
+  "scope": "Scalar replay of inspected0.4 source, not image coefficient trace or complete extractor"
+}

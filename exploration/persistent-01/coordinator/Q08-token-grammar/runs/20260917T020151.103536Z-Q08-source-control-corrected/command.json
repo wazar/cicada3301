@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/coordinator/Q08-token-grammar/test.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "46f222f92f68323dddd976a365361b5b3c684f47",
+  "started_utc": "2026-09-17T02:01:51.114010+00:00",
+  "timeout_seconds": 120,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "audit/parallel-01/reference/sources/solved_0_koan_1.txt",
+      "exists": true,
+      "bytes": 3001,
+      "sha256": "5aaae7ee19dfb46a41d5e10f975b5a252b82b6e18b49116a9f99b31a2fbee06c"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q08-token-grammar/test.py",
+      "exists": true,
+      "bytes": 3801,
+      "sha256": "fdf9288b6cd718d6ba4dbbe978145e5614ceca98284895479ebd4bd0ec076dcd"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "liber-primus/src/lp/gematria.py",
+      "exists": true,
+      "bytes": 4283,
+      "sha256": "7b4f5c30137741ab3c33638fb91076c4b1f228229dc3634ba2e6ef232cd47f04"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 6411,
+  "finished_utc": "2026-09-17T02:01:51.618224+00:00",
+  "duration_seconds": 0.5039863339989097
+}
