@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/coordinator/Q06-context/test.py", line 26, in <module>
+    for w in p['units']:
+             ~^^^^^^^^^
+KeyError: 'units'

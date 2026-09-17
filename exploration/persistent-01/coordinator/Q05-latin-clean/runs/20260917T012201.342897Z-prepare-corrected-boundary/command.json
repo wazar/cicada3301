@@ -1,0 +1,70 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/coordinator/Q05-latin-clean/prepare.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "c9bfde286fbb0daa19f576b9f971ee52d475cc8d",
+  "started_utc": "2026-09-17T01:22:01.352417+00:00",
+  "timeout_seconds": 120,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/CARD.md",
+      "exists": true,
+      "bytes": 940,
+      "sha256": "d8126e8c8881275df59994316affb96a06d6bd1e34a5fc5c1a80a254644f491c"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/check.py",
+      "exists": true,
+      "bytes": 3040,
+      "sha256": "e566356051b9e1dd76d005af8a59c6a23084f0e620a16856b81372c96363353e"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/pg218.txt",
+      "exists": true,
+      "bytes": 169899,
+      "sha256": "84ac8411841a4d8f5f4a49b6a2cd1f466917c6a5af72916d5e0b2b1ecb2f659c"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/pg227.txt",
+      "exists": true,
+      "bytes": 495876,
+      "sha256": "2620ba82c00964d1a1f0458c8cf171946f158a06de0d0e764594170602c4c7b8"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/prepare.py",
+      "exists": true,
+      "bytes": 3931,
+      "sha256": "093a4ee74dae87ac8be9ba589db5d7f793c82a5310331ff76096bba15446bc9c"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "liber-primus/src/lp/gematria.py",
+      "exists": true,
+      "bytes": 4283,
+      "sha256": "7b4f5c30137741ab3c33638fb91076c4b1f228229dc3634ba2e6ef232cd47f04"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 93989,
+  "finished_utc": "2026-09-17T01:22:02.308958+00:00",
+  "duration_seconds": 0.9563518750001094
+}

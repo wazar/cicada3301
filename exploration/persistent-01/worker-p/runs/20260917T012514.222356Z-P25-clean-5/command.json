@@ -1,0 +1,389 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/worker-p/p25_clean.py",
+    "5"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "c9bfde286fbb0daa19f576b9f971ee52d475cc8d",
+  "started_utc": "2026-09-17T01:25:14.237484+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/model.npz",
+      "exists": true,
+      "bytes": 99821,
+      "sha256": "f4667652da86ab021af47cfcba098226454415a809ff3b1ecce84a1b4023e92e"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/P25-clean/CARD.md",
+      "exists": true,
+      "bytes": 1558,
+      "sha256": "15f09584b38ee34373e13d23b91d58c1f405b4a5b118a13e7a8f2d167e2bee57"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p01.py",
+      "exists": true,
+      "bytes": 2888,
+      "sha256": "54015c957edb9cdee7de5e7404f3bc04defda6ff8f69d928db1dc3a708484315"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p02.py",
+      "exists": true,
+      "bytes": 4168,
+      "sha256": "7b62ea4589c9b726abd70dad9736a7834ae6fbd185ca4a0a9765a351b68ed454"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p02_verify.py",
+      "exists": true,
+      "bytes": 1971,
+      "sha256": "86a94961a27ac9d4db4e047b4b90404ceb7090d666b2aec2995a449ffd29da8b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p03.py",
+      "exists": true,
+      "bytes": 6457,
+      "sha256": "71b05f7c6e2ca97e5d392b5eec108c560f359e9316d99e2f38e0a02013df923c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p03_check.py",
+      "exists": true,
+      "bytes": 3957,
+      "sha256": "4415f83206c627ab13dfef69140adf422e468acef37e6b48293c2334eaa4cd76"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p04_milp.py",
+      "exists": true,
+      "bytes": 4484,
+      "sha256": "4b69d5f83ab450dc845c9aed83928f5f8bdc3c2d69530523e1b4b71b8be32eba"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p04_support.py",
+      "exists": true,
+      "bytes": 1381,
+      "sha256": "21914ce95800555ab03ebf178e8cb80a89f8c2d7d164fc5f282792d57b55181c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p05.py",
+      "exists": true,
+      "bytes": 9594,
+      "sha256": "6ace0403433307d67aa77c540c6318e9676245c98ed3aac512d18e203e207900"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p05_emission.py",
+      "exists": true,
+      "bytes": 2914,
+      "sha256": "07bd1b06c942f95a2169b63c76fbb4af0a7fdccd566ad772ed76e362aa0070ee"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p06_compare.py",
+      "exists": true,
+      "bytes": 3136,
+      "sha256": "97eb05a63e8bfca762305954838f50eff92265b02a323555eb06da0c4bcb9226"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p06_prepare.py",
+      "exists": true,
+      "bytes": 3482,
+      "sha256": "3f39e260fe6b4b881dabd4a040d6f011d4198cc883e445630dbc23630e1abda9"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p07.py",
+      "exists": true,
+      "bytes": 4233,
+      "sha256": "c6941f12bbfda04e05120bdf537e84fd7d13929fcfb25aa68b1748ce0ef706f4"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p07_check.py",
+      "exists": true,
+      "bytes": 1470,
+      "sha256": "2e6b06a7983c0e82284867c9f2f991a8b05978dee071e48355eac9f2ed5b6d6a"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p08.py",
+      "exists": true,
+      "bytes": 7475,
+      "sha256": "09836f783370454d0f3132c25f0cc4c16b2910fde033497cdb1093fd990f858b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p08_batch.py",
+      "exists": true,
+      "bytes": 2052,
+      "sha256": "e741dd8a235fbca45c17080cc877378c1e1094ebe898710cc34b3cd26ec204f0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p08_check.py",
+      "exists": true,
+      "bytes": 3817,
+      "sha256": "8ea4a2ea37eb9868cca73da0e88bda5f25eaf5d8a2d412d030953f4c748180a3"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p09.py",
+      "exists": true,
+      "bytes": 2555,
+      "sha256": "873a380904c0720379af79ea61a93e91333fd425477c7470940380bf78da4e73"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p09_check.py",
+      "exists": true,
+      "bytes": 2548,
+      "sha256": "93f007c553b770b6f17658cc87b653ea73408574437bd60fc1de4b76916c38b8"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p10.py",
+      "exists": true,
+      "bytes": 6710,
+      "sha256": "4dabd0416d47098753fb62200d507582ecff05bcda249daa3121e382b5a03924"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p10_run.py",
+      "exists": true,
+      "bytes": 5670,
+      "sha256": "d534afd22327110b7bdaf11e2bac86cdf0a93de0428d507888dc44a15b507f91"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p11.py",
+      "exists": true,
+      "bytes": 8002,
+      "sha256": "0779adba3159f3ed5f455cf55010d4c4f54c9fc382aa61c298b8abb63a817a61"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p11_build.py",
+      "exists": true,
+      "bytes": 940,
+      "sha256": "452c3072aaefc45759e85ffdd06977141b69edcdee8a6e188f151b4c5415ac07"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p11_prepare.py",
+      "exists": true,
+      "bytes": 1278,
+      "sha256": "91ab6e09e10c7cf4dc558707df33d4ff8effcead7b09ad81d16c47d6d1c1164f"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p12.py",
+      "exists": true,
+      "bytes": 3432,
+      "sha256": "f5ce0569d4b53bb3ede0b53eb96314601460dc3a975a741e362c50a35aeee976"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p12_check.py",
+      "exists": true,
+      "bytes": 1892,
+      "sha256": "1a5aa8358c2ecb7bc0885be1ff3183e0aea1ac291cd44f2b591fb0523346e559"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p12_inventory.py",
+      "exists": true,
+      "bytes": 2844,
+      "sha256": "b6e76f1e8dd1c1b51faf444d5a62ede356dce6a15badd2472d96bde376217cec"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p13.py",
+      "exists": true,
+      "bytes": 6752,
+      "sha256": "9dadb2325284cafe114d304e26aca92dbd25a42e249da2ef0c8811c2c699b796"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p13_build.py",
+      "exists": true,
+      "bytes": 1083,
+      "sha256": "d4ef757af8da93415859d3cadd7826c608886cecf387f7c6739b7f5313e2f531"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p13_check.py",
+      "exists": true,
+      "bytes": 1475,
+      "sha256": "506ee1859ff55665f5fc193686ed6b2634143b385a8521491e2b821db486e776"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p14.py",
+      "exists": true,
+      "bytes": 9354,
+      "sha256": "a160936f9f8de324b8be80e6202ff4699e37e82dd30d3bde0885427f91a3147c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p14_check.py",
+      "exists": true,
+      "bytes": 3565,
+      "sha256": "7fd7ee7559dae0ac4cd56b69800f616ea2d8617550daec39b7690ac2037440e6"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p15.py",
+      "exists": true,
+      "bytes": 8790,
+      "sha256": "b2830f7d5d9eb0527575c5251669e455c5138bcc865050aff6cc32ac75c5644c"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p15_check.py",
+      "exists": true,
+      "bytes": 3466,
+      "sha256": "881e6677a2fe5f97a1becfce8e3cce66b0966263f846ad3d8e98af5a71a8aa46"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p16.py",
+      "exists": true,
+      "bytes": 4530,
+      "sha256": "2c1a34d9755a8d4f4dd5208210e4f6f50851b2c971515bbf9860eca53bad3783"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p17.py",
+      "exists": true,
+      "bytes": 6405,
+      "sha256": "9d8fcbaad95a8fd4e0eecedd52c83567460a0fdae9a72756d0e850bb4c345f75"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p17_check.py",
+      "exists": true,
+      "bytes": 2832,
+      "sha256": "261b5c185eed3eb21dea0f6a2b19833d79d9082d2a1fabc30c22d217cb238c9b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p18.py",
+      "exists": true,
+      "bytes": 8255,
+      "sha256": "2a1a28d2cb089a18e54345f8cc6fa8e5899821c9918c70242d8cb97a0138fdc2"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p18_check.py",
+      "exists": true,
+      "bytes": 2146,
+      "sha256": "ded88908911bc62062ecfdf9ffe980f25c24ba3dfe53900d01ce5cfb95cb08bc"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p18_summarize.py",
+      "exists": true,
+      "bytes": 2550,
+      "sha256": "54157a2ab35e2d961fa76d48867e670ff3ca7982bfb7321ed65c57fe48fc7857"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p19.py",
+      "exists": true,
+      "bytes": 7744,
+      "sha256": "1139182e65fe73c787c2c49228eab321bb872e946e5e96d1de4f32f754f2ed0b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p19_check.py",
+      "exists": true,
+      "bytes": 3929,
+      "sha256": "b50e5e465609b555e9144f3321fe95ab00f3a98d70a62b47f05d52cf01fde53d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p20.py",
+      "exists": true,
+      "bytes": 7074,
+      "sha256": "4bf1a5e3a169fcbef5c326fc98463beed24516630881700c32ff09e5e20e9180"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p20_check.py",
+      "exists": true,
+      "bytes": 4038,
+      "sha256": "3dfb8c04cc7cf2366ec29b64a93854571ec1fa57021f5bdc962dae203de82a11"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p21.py",
+      "exists": true,
+      "bytes": 4608,
+      "sha256": "2bf80786a44557f6fd97e4c3b2bfd5ab1e0dc9b1e7e7f341cff2efe91579f423"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p21_check.py",
+      "exists": true,
+      "bytes": 3866,
+      "sha256": "118305e663abd3c702bea4af366a04880c81664a5de15c512f7ccaf60b024bfa"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p22.py",
+      "exists": true,
+      "bytes": 5005,
+      "sha256": "5842c5c4bcfa7551a4d7632d8ddb609428e9a750e7c5aed240ff7f587d184249"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p22_check.py",
+      "exists": true,
+      "bytes": 4207,
+      "sha256": "16965cf49181ca4583438264f761d92a0bfa1418e86452add662992f632e36aa"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p23.py",
+      "exists": true,
+      "bytes": 5959,
+      "sha256": "3e824e17ac9102474dfdd64e0612b7a2bf06df42e55bf7313c5bca83b9bcf171"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p23_check.py",
+      "exists": true,
+      "bytes": 3907,
+      "sha256": "314f98a7e89207fb3c8710cd605b35914ccc78bbc7e54d0af1fd864c77a81d75"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p24.py",
+      "exists": true,
+      "bytes": 6559,
+      "sha256": "5a4fb122a824a0a696dcfa3091c202d430b0b5d5c66f0904d8af45aa1840e1d0"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p24_check.py",
+      "exists": true,
+      "bytes": 3467,
+      "sha256": "385cb7704a332798d9e836523a0b870cee11946adf55f2e54c80866e2a28d3cd"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p25.py",
+      "exists": true,
+      "bytes": 6626,
+      "sha256": "97d59530ab3a61dc169ed51c2d65f14a32791695a5015237330c29418923baed"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p25_check.py",
+      "exists": true,
+      "bytes": 4582,
+      "sha256": "415ef62c3a4dfe92109da59783fc8f503f74fc58aae9bfbf8fce1527b199148d"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p25_clean.py",
+      "exists": true,
+      "bytes": 1282,
+      "sha256": "fc9c48f16e28d55f209d42fe51673449631778fea7124ca2c9d7b96e65f15c81"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p25_clean_check.py",
+      "exists": true,
+      "bytes": 4594,
+      "sha256": "14b9fec8aa8850bbcc417c1e70362a613f952eb4a0d0762236311aedfa273f2f"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/p25_compare.py",
+      "exists": true,
+      "bytes": 3638,
+      "sha256": "5e68b5bcc1560c43068a5b85a4a1987436cef6b2458a5202b2ae7d24b0f60491"
+    },
+    {
+      "path": "exploration/persistent-01/worker-p/replay.py",
+      "exists": true,
+      "bytes": 1297,
+      "sha256": "4556416f404e4e3737101b6c41d693f212b6cdebedb646ba0c8c907d56a19d05"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 94551,
+  "finished_utc": "2026-09-17T01:25:25.403418+00:00",
+  "duration_seconds": 11.165599875
+}

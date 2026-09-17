@@ -1,0 +1,72 @@
+{
+  "train_source": "https://www.gutenberg.org/cache/epub/218/pg218.txt",
+  "held_source": "https://www.gutenberg.org/cache/epub/227/pg227.txt",
+  "train_words": 20500,
+  "train_runes": 120913,
+  "train_tokens": 141413,
+  "train_body": [
+    1116,
+    150971
+  ],
+  "excluded_headings": [
+    [
+      59945,
+      60003
+    ],
+    [
+      90620,
+      90677
+    ],
+    [
+      117467,
+      117524
+    ]
+  ],
+  "normalization": "ASCII words; canonical greedy GP with aliases; punctuation/numbers delimit words; three internal chapter-heading lines omitted; abbreviations/Roman numerals in body retained.",
+  "model": "P03 interpolated unigram .5, bigram8, trigram5; boundary29; no training on held Virgil",
+  "controls": [
+    {
+      "id": "virgil-book-I",
+      "words": 60,
+      "runes": 303,
+      "source_span": [
+        869,
+        1284
+      ]
+    },
+    {
+      "id": "virgil-book-IV",
+      "words": 60,
+      "runes": 339,
+      "source_span": [
+        110613,
+        111059
+      ]
+    },
+    {
+      "id": "virgil-book-VII",
+      "words": 60,
+      "runes": 331,
+      "source_span": [
+        230382,
+        230823
+      ]
+    },
+    {
+      "id": "virgil-book-X",
+      "words": 60,
+      "runes": 383,
+      "source_span": [
+        343299,
+        343788
+      ]
+    }
+  ],
+  "hashes": {
+    "pg218.txt": "84ac8411841a4d8f5f4a49b6a2cd1f466917c6a5af72916d5e0b2b1ecb2f659c",
+    "pg227.txt": "2620ba82c00964d1a1f0458c8cf171946f158a06de0d0e764594170602c4c7b8",
+    "model.npz": "16f491d53007cc4492d1bb94b42fed16aca136bca0f62ba7ebe1b8ba769c3b93",
+    "train-maps.json.gz": "8907d735c195ceba473fd100f6beea0dbe6eadd856d5944a4b4338b00ec51d6f",
+    "held-controls.json.gz": "0b1cec296e75b8ab8a58ea3df4b4d06adc32633dcd809cc53fe4241c603e6381"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "seed": 1709202613,
+  "source_sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b",
+  "tiny_planted": 20,
+  "tiny_contradictions": 20,
+  "control_operator_maps": 10,
+  "control_page_panels": 20,
+  "control_ranks": [
+    28,
+    29
+  ],
+  "real": [
+    {
+      "page": 0,
+      "word_equations": 59,
+      "consistent": false,
+      "rank_at_contradiction": 26,
+      "certificate_words": 23,
+      "weighted_rhs": 1
+    },
+    {
+      "page": 1,
+      "word_equations": 63,
+      "consistent": false,
+      "rank_at_contradiction": 29,
+      "certificate_words": 28,
+      "weighted_rhs": 46
+    }
+  ]
+}

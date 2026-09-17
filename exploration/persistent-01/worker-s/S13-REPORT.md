@@ -1,0 +1,15 @@
+# S13 — exact obstruction to per-word postfix expression grammar
+Source observation used: explicitdelimiter units mightbe complete structuredobjects, ratherthan encryptednatural-languagewords. Frozenhypothesis: each word is a postfixexpression leavingoneresult fromanempty stack, eachrune hasonefixedunknownoperatorarity, separatemapperpage. NecessaryinvariantΣcount_r*(1−arity_r)=1. Testedthegenerousrelaxationwitharbitraryrationalweights, not merelynonnegativeintegerarity.
+
+Bothpagesareinconsistent. Original0:59wordequations,firstcontradictionafterrank26; anintegercombinationof23sourcewordscancelseveryrunecountwhileRHS=1. Original1:63equations,rank29atcontradiction;28sourcewordscancelallrunecountswhileRHS=46. Theseexactcertificatesruleoutthefixedarity/one-result-per-unit representation on theseinputs. Certificatesneednotminimumsupport. Noarityorstack-prefixsearchwasperformedaftercontradiction.
+
+Independentcertificatearithmetic reconstructstheweightedrune-countvector directlyfromoriginalindices/wordmaps, notstoredmatrixrows, andchecksall29totalszero plusnonzeroRHS. Allintegermultipliers/sourcewordmaps/runes saved inS13-result.json. ThedetectorpreservesexactFractionsduringelimination, then clearsdenominators/gcdnormalizescertificateweights; nofloatinginfeasibilitytolerance.
+
+Controlsbeforeactual:10random29operatorpartitions(13leaves,8unary,8binary),20actual-word-length pagepanels. Everyexplicitgeneratedtree emitsvalidpostorder, recordedstackneverunderflows andends1; truearityweightssatisfyallequations andrationaldetectoracceptsall20. Acceptedranks28/29. Twentyknowntinyconsistentsystems and20duplicate-row/different-RHScontradictions validatecertificatearithmetic. Fulltrees,operatorlabels,emittedrunes andstacktracesinS13-controls.json.gz. Thesesyntheticgrammarcontrolsneednotmatchrealrepeatmasks andsupplynoinferenceaboutactualplaintextregister.
+
+Limits: allwordsmustbeone-resultprograms withfixedper-pageruneoperators. Headers/literalvalues/parameterpayloads/context-specificoperators/changingarity/multipleexpressionsorresults remainoutside. Consistencyalonewouldnothaveprovedwellformedness. Otherproposedpush/pop/noopinterpretationwasnotrunbecauseallnoopdegeneracyprovidesweakdiscrimination. NoEnglish,keystream,prime,graphorreadabilityscore.
+
+Priorcheckforpostfix/stackmachine/operatorarity/Dyck/parenthesescardsfoundnomatch, withoutclaimingexhaustiveliteraturenovelty. S13-CARD frozenbeforeexecution. Run20260917T012357.718592Z-S13 PASS.497s; code/card/sourcehashesandcommandinloggerarchive. EarlierS01–12filesunchanged.
+
+Reproduction:
+`.venv/bin/python exploration/persistent-01/run_logged.py --owner exploration/persistent-01/worker-s --label S13 --seconds 300 --input exploration/persistent-01/worker-f/F06-maps.json --input exploration/persistent-01/worker-s/S13-CARD.md -- .venv/bin/python exploration/persistent-01/worker-s/s13.py`

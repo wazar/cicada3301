@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-42/clean_check.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "c9bfde286fbb0daa19f576b9f971ee52d475cc8d",
+  "started_utc": "2026-09-17T01:26:30.370445+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/model.npz",
+      "exists": true,
+      "bytes": 99821,
+      "sha256": "f4667652da86ab021af47cfcba098226454415a809ff3b1ecce84a1b4023e92e"
+    },
+    {
+      "path": "exploration/persistent-01/review-42/check.py",
+      "exists": true,
+      "bytes": 6961,
+      "sha256": "def20945ef6cd342c7e7b585000c631b6e508cc37e9db042d9fa0f0d7d9345b3"
+    },
+    {
+      "path": "exploration/persistent-01/review-42/clean_check.py",
+      "exists": true,
+      "bytes": 2383,
+      "sha256": "f5907a3a985462e2775e89ea14e6b2e04beba9f8814a6fc8e11656cd486362c0"
+    },
+    {
+      "path": "exploration/persistent-01/review-42/independent-clean-expected.npz",
+      "exists": true,
+      "bytes": 99821,
+      "sha256": "f4667652da86ab021af47cfcba098226454415a809ff3b1ecce84a1b4023e92e"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 94981,
+  "finished_utc": "2026-09-17T01:26:30.636810+00:00",
+  "duration_seconds": 0.2661422500023036
+}

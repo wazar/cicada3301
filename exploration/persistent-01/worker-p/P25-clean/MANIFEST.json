@@ -1,0 +1,832 @@
+[
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/CARD.md",
+    "bytes": 1558,
+    "sha256": "15f09584b38ee34373e13d23b91d58c1f405b4a5b118a13e7a8f2d167e2bee57"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/REPORT.md",
+    "bytes": 5481,
+    "sha256": "12039cc648a834d1fefe46aaeea25183b17436ee35ff6aaf4dd5fb776547fd7c"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/all-cell-comparison.json.gz",
+    "bytes": 893914,
+    "sha256": "dd7e3ac6c1ca3fd9049232a01c5370b0e41be57c363e9adb4cfa7675da374983"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/all-packet-comparison.json.gz",
+    "bytes": 5948,
+    "sha256": "87835f7b30726d7614872451ee380e343122806f0f5f8e47f7d86e26806f968b"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/comparison-summary.json",
+    "bytes": 42791,
+    "sha256": "b425df8bc11e670d7df6d9b53d6fadb881d7d290e35e196de49efcf3560f97ac"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/independent-check.json",
+    "bytes": 980,
+    "sha256": "00856e59c64887d8cfcb2b3f00fe47cdde0c9d7d4bb4a87f425fbbdc3a6abc21"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/keys.json",
+    "bytes": 13738,
+    "sha256": "7a501dae43695eee243b78f7c0ba9cb403f0ae941ea8ae115eb41604e859c1f3"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0-main.json.gz",
+    "bytes": 103654,
+    "sha256": "cdebfe4981622da65c6574ee783656b86ed6a12a59cb8eeef765e72d25118088"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0-null-00.json.gz",
+    "bytes": 105558,
+    "sha256": "f55c419e180f29a8e125978cffd0b1de1b4cdcac3ab6163b88217a6373889afa"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0-null-01.json.gz",
+    "bytes": 102777,
+    "sha256": "0cece5b0f3271ff1d497df5a61997ef7d2181940c4743c0a62bef8e340fd124a"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0-null-02.json.gz",
+    "bytes": 104019,
+    "sha256": "37ab8a800f36b4142a02c824de6014dad769f32e84a4314affaa2a1ac00f6360"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0-null-03.json.gz",
+    "bytes": 102831,
+    "sha256": "bf37ad576c9f1b68195ebcf3a556b582ecfe28f40bdb88b501ad38faada51c76"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0-null-04.json.gz",
+    "bytes": 103342,
+    "sha256": "99e01e844a1570af6684652562896d55afff380a4fa4594927dfb3608ac9e37c"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0-null-05.json.gz",
+    "bytes": 105640,
+    "sha256": "006ac01c92ad82f33a1233989be5dfa476c89801804b5625080523bf820df4ca"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0-null-06.json.gz",
+    "bytes": 103257,
+    "sha256": "d10402a10d34265a015af1e6a72521c91d776c4c0e76d4086e848d937296e962"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0-null-07.json.gz",
+    "bytes": 103415,
+    "sha256": "15ef2113d466a5956b71973af5a1f9c7e5c8c0b78904715b52b77e5034155000"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0-null-08.json.gz",
+    "bytes": 105396,
+    "sha256": "001366216d718ee8dbd8ea328f7f87dbda48fa74e8b6001f2a6a1b0bd0d5e948"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0-null-09.json.gz",
+    "bytes": 103957,
+    "sha256": "192987cf6c4fac343eaf58243b8167bdfe77d14d9b640edd60fcb4e94ede22f6"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0-null-10.json.gz",
+    "bytes": 102313,
+    "sha256": "48eca6845639372b0394edd48adad83002039c30424ad85cf9ca011de15d422d"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0-null-11.json.gz",
+    "bytes": 104801,
+    "sha256": "a43d7efdcda31d8ba4426df5ce39f10931673ea8bbbdcccbd81f7d73e8dc61bb"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0-null-12.json.gz",
+    "bytes": 102285,
+    "sha256": "3cc6673183e4797abca4a78eb98fe946267616e5fef3366b235114ff590da190"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0-null-13.json.gz",
+    "bytes": 104382,
+    "sha256": "e108f6391b66b979606fbf1a9a6a6e40a2687d0774f967a82ba6f6caa4f44ada"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0-null-14.json.gz",
+    "bytes": 105435,
+    "sha256": "3686c5cdd9fb6c4e3598b403c360866beb852d405122f523f5c574b4b73ad5a7"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0-null-15.json.gz",
+    "bytes": 102664,
+    "sha256": "51eac38190f341d28e7bd394c24a18c930a4e6b8af39cb166853d7e6a905cef2"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0-null-16.json.gz",
+    "bytes": 102626,
+    "sha256": "205a7575c59c2d36fc41339c8ee06844d361c742a41b5d8ac834f0c45c67fc90"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0-null-17.json.gz",
+    "bytes": 103225,
+    "sha256": "dacb4070150ad5061949f5da118a35532b119ca9883420c5b88ad41862d5f085"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0-null-18.json.gz",
+    "bytes": 102242,
+    "sha256": "2fe43927f9017ef5c1c7890b1fe34c43852d3e289f6865e8a57a1565c9858b3b"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0-summary.json",
+    "bytes": 1201,
+    "sha256": "39c927194eed9cae9f5160bf873886efbc936ca09fcb04ceae77d41639d96996"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-0.json",
+    "bytes": 15010,
+    "sha256": "38f0c0b3f351b7266cb1d66eed3f6c5955b3492bf7cfc5ffa14cb8d6c915e94c"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1-main.json.gz",
+    "bytes": 96182,
+    "sha256": "43a2bb8713c506e1b09366b4b94cf2a576d3198276c122e22446e6533d354c11"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1-null-00.json.gz",
+    "bytes": 96250,
+    "sha256": "87b7ca5d7b1adc5de12fb6cfc4a07ea944cba33581981776ef8775d4f370a86b"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1-null-01.json.gz",
+    "bytes": 96036,
+    "sha256": "a2358939e8697c3582c4c0abfb11f0f914f26a06fc904d4b67a32d0e751b93ec"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1-null-02.json.gz",
+    "bytes": 96199,
+    "sha256": "23724e6f7ff1deed20201263a938404cd0dccc02ae585cbbc8e4d5396ab89c00"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1-null-03.json.gz",
+    "bytes": 96452,
+    "sha256": "cd973ba7915bece27b0cd40b529a95ce9c1016adda7a513e20c059c1ef71f02f"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1-null-04.json.gz",
+    "bytes": 96668,
+    "sha256": "2909231e319872a066001172c53743eeec3c6558e12e674a884d6a04e03049fd"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1-null-05.json.gz",
+    "bytes": 96751,
+    "sha256": "a2487d743206862c1c8f5888ba71ad669da7ce511bc5dff2a3559e76bebe8545"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1-null-06.json.gz",
+    "bytes": 93067,
+    "sha256": "7e5fa65ffea4f56c59d870c9cad0220011e313e31b1c6a0c3861d71ed78612c9"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1-null-07.json.gz",
+    "bytes": 95493,
+    "sha256": "b3d776c31e9518423ba1addaf4c68baf7e5dc8f89a73897731f037ee23374b0e"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1-null-08.json.gz",
+    "bytes": 97515,
+    "sha256": "0e4732cc13231a71ace85799fc9061452a0b0cd5d64cfbe87075ca765cf06615"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1-null-09.json.gz",
+    "bytes": 96656,
+    "sha256": "063c2e1635f89cbd3dade882eba895614bc168bfc1eaf5626921929966a5b6f3"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1-null-10.json.gz",
+    "bytes": 95693,
+    "sha256": "c9345d7a5dd86ad3564b6ee10250b3913f62e9016409caa82912e2f46630d54a"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1-null-11.json.gz",
+    "bytes": 93896,
+    "sha256": "25123ef7aa982a9b51fd611fb6f2fe969f7204ee00c9a49ceb3e87690df1c3ea"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1-null-12.json.gz",
+    "bytes": 92400,
+    "sha256": "a7588314b83045559bf5f21d79fb08045a1fed20a7f698a9331aac6c1a5b4c7b"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1-null-13.json.gz",
+    "bytes": 94442,
+    "sha256": "d90a351e2029325a6f99892891bebdf9e13bc2f03ff21009217095a6d4d15774"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1-null-14.json.gz",
+    "bytes": 93373,
+    "sha256": "2caa4fd5e73fb4cec7e12b8bbe0e13dfcef78671ae4fc4e3c0eb088d76f57816"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1-null-15.json.gz",
+    "bytes": 95148,
+    "sha256": "616eaf7f0e216c7921d5d826fc077aad234a85c087339cca8fcf6fe39c3042b9"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1-null-16.json.gz",
+    "bytes": 96543,
+    "sha256": "7879e15840eb3fb80d48128ea2050c8b4dcc5afa3c68a9d4211bda252afe339e"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1-null-17.json.gz",
+    "bytes": 94978,
+    "sha256": "13c50e5afdc32750666a022f94544607f4e676596a9a6a7353087938ef631a80"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1-null-18.json.gz",
+    "bytes": 96558,
+    "sha256": "a3abfb3cbedb0dd4d3af53269bfe281e4b144ba3bd5c38cdd8d7a79742af379e"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1-summary.json",
+    "bytes": 1281,
+    "sha256": "c7a994274361ca11a8b2dc27cf13ef8c11844bbeb3b6314e2b217b91a1892fe6"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-1.json",
+    "bytes": 19608,
+    "sha256": "129ed19bf431908e24b3f38cc881752e05e448b61365181a2cb1d5c7608db5cb"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2-main.json.gz",
+    "bytes": 112053,
+    "sha256": "7af6e7bdd037fff3ebff802567a41fdfcc8cb17446fccd8c9559eedd25f64ecb"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2-null-00.json.gz",
+    "bytes": 110574,
+    "sha256": "af364d3c0d0f23b2905ff7a8a03e8a8d04ea46fa667c6712aaf8cd23150661de"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2-null-01.json.gz",
+    "bytes": 112834,
+    "sha256": "6f84f8cb42e002a6da883eb4e255899d04416be82a2555217c3777e7671b7073"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2-null-02.json.gz",
+    "bytes": 108835,
+    "sha256": "4f7553c0eec98516dd82d04fc25aa19b3920adf294e1cc18ad59bf3a5dfd55b9"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2-null-03.json.gz",
+    "bytes": 109875,
+    "sha256": "8f11b0730e92f4a6e52d611f34189fd201a21d502abf6c6fb688859d840617ae"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2-null-04.json.gz",
+    "bytes": 108809,
+    "sha256": "0c62a2ed254fb0ccc18619fc3a04c1c83e2401523f172eac78c224ba2f920c91"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2-null-05.json.gz",
+    "bytes": 113868,
+    "sha256": "a21770e9fd02761a90c6aed7ad65ee6519c8c5d58a0fa9b0c6158bb5c84ec721"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2-null-06.json.gz",
+    "bytes": 111799,
+    "sha256": "a4e0e20e09f5e002ceb7532212b81cb6d2b1481acde7179e6cba607288a5fad5"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2-null-07.json.gz",
+    "bytes": 109532,
+    "sha256": "aeb948548ec7ac4c793de336428da06f7e71b528aa11e9d95f3991dce8689966"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2-null-08.json.gz",
+    "bytes": 112024,
+    "sha256": "20bed6988850d308a8b7bc43b702780d91874da4da368e0c1b8dbab82b18c95d"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2-null-09.json.gz",
+    "bytes": 109521,
+    "sha256": "715bce184faca0e9bce7aad1e1a77c6ce7fd7deee55275518c78605ac8f0c479"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2-null-10.json.gz",
+    "bytes": 108753,
+    "sha256": "286bf3e719854ca0567a0b7708a5d74de0905cf62db02fa7ea5e999a420da442"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2-null-11.json.gz",
+    "bytes": 110478,
+    "sha256": "c414f0afa2062dddab4b1a20e7b8d10d4577f26311a8c7d13f74d653e7e41288"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2-null-12.json.gz",
+    "bytes": 111844,
+    "sha256": "1bba5ed01526b550999b153fd60a97617595454a64b4fbf4c4e07ad21dd1fec4"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2-null-13.json.gz",
+    "bytes": 109023,
+    "sha256": "f67a4bb677cf2d8362c475dbbdadd855ebebe474e41634b72a22cf9da15f2080"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2-null-14.json.gz",
+    "bytes": 108807,
+    "sha256": "f4aa80e407bdc0d4c746a725c9d33c8b77afa2c724eca06075aeb82676d4d4f5"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2-null-15.json.gz",
+    "bytes": 113446,
+    "sha256": "010242bf7a562fb163a36d22d3187bc6b4e08df3930346e9870382fda24b5fe7"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2-null-16.json.gz",
+    "bytes": 111921,
+    "sha256": "d3fb9e5e3f8872bcecb8f6f6d505c3e9a254d1114dd68a227365cd34d3d950ac"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2-null-17.json.gz",
+    "bytes": 111000,
+    "sha256": "10e43903596fdc13e1a72022c59ae5fa9aeb0572a01c3611acd9a57bcd50a9bb"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2-null-18.json.gz",
+    "bytes": 112206,
+    "sha256": "5a1b8b77590e4b03d2b283d6dc705c371e4e2aa66e09543d350f92dcba60f45d"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2-summary.json",
+    "bytes": 1272,
+    "sha256": "6260fb17cfdf46453c66e2991af93ee31b73fdae77e9704ef4393dbe61dba16c"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-2.json",
+    "bytes": 19302,
+    "sha256": "d0e5429eb80b9ab01ba7522e4659b914eb869e3e5920adfaf98bfd45687e7123"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3-main.json.gz",
+    "bytes": 98292,
+    "sha256": "41d73182cfcd5f7f4842e5091243310eb0a4e5476ab0f3d35ec197b58ca57f3e"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3-null-00.json.gz",
+    "bytes": 96485,
+    "sha256": "ad98ca353ddc7d56923a62d549c6f7f89c3ba8fbc5161d03e2c96b59b260bfaa"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3-null-01.json.gz",
+    "bytes": 96787,
+    "sha256": "ddf147d64590a89ce2ad725041fe8e91780078d527addcc8608d98e0fc089b2f"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3-null-02.json.gz",
+    "bytes": 93792,
+    "sha256": "df07d557c6a4e9d93bd56f71ce16d0cc1f6761d6f9671144a8e8e5d67922cb3b"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3-null-03.json.gz",
+    "bytes": 98129,
+    "sha256": "a787b04c66c432086ff396c221b0b190153acc6fbaef05a21c475425b93b9100"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3-null-04.json.gz",
+    "bytes": 100204,
+    "sha256": "86c0163dbc1337ad6d4cb30a02c42b7be3ca11576954f4d315cfbef446dbde56"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3-null-05.json.gz",
+    "bytes": 95487,
+    "sha256": "6d12c4cbc75e0f7d2842d2463b6d35188c82a16adf6071805893249c255fdd06"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3-null-06.json.gz",
+    "bytes": 100559,
+    "sha256": "8f3001f9a720913dd7270091d5e0fbcc7b8caf7828fc95c3f6477df96c5ad2e8"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3-null-07.json.gz",
+    "bytes": 97616,
+    "sha256": "96669f080fb402f35109e2af620a60ed660fadcdce6f7b9432137f06fea41a9f"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3-null-08.json.gz",
+    "bytes": 94304,
+    "sha256": "97ec9846a656cbc149e0530d3adbddfbaa899f6cbee9d72c3fc2a16591e0e86f"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3-null-09.json.gz",
+    "bytes": 98906,
+    "sha256": "95a446fa68f9bb9b4241c946c4bd7a448ce54fc8662e73e037b8778b5ad09e44"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3-null-10.json.gz",
+    "bytes": 97658,
+    "sha256": "f8e3f4ff3691c782551bd08ddaeaf3e2bc7d716291d47e47f65895c163ca925d"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3-null-11.json.gz",
+    "bytes": 97976,
+    "sha256": "a7375cace1759e0a357b4ab7704cd397f177c6246328279036da5aaea8062cc6"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3-null-12.json.gz",
+    "bytes": 99203,
+    "sha256": "e1f1ffd3d5f15b7f8410385e7aa910822af7f22a1a7bbeb8ca6832d70b8f6590"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3-null-13.json.gz",
+    "bytes": 98911,
+    "sha256": "60aa20f08f63fab1a3811320af0bc65aed311ccbd54ff5d382b681b5b85f2f3a"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3-null-14.json.gz",
+    "bytes": 95871,
+    "sha256": "de2de7cfaf7591d8dee14ada04004189c6d3aac9f908cba4c62fdb48d227ad8b"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3-null-15.json.gz",
+    "bytes": 96559,
+    "sha256": "64198b8a6d8fb72c35e9b685d167bed9596ffe8404f3c9ad090aec0c415edc6f"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3-null-16.json.gz",
+    "bytes": 97484,
+    "sha256": "3e64fd902a33df6cb168de3ffacf98977ea6f40092220a07204de0e3530a9910"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3-null-17.json.gz",
+    "bytes": 97910,
+    "sha256": "c0ae190648e258e1a471a932a62bbe23fefec1ba4e02e166d3f28eb04b2c91d9"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3-null-18.json.gz",
+    "bytes": 98082,
+    "sha256": "cdeb64cecf3fc2060f6e5be197f1c1c267bdc5f1161cc19c07a029d39227e6d7"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3-summary.json",
+    "bytes": 1412,
+    "sha256": "69ad2b347589281a2496d2602980adbaa987ca9e6109e19e4f2c3ae99d0fa591"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-3.json",
+    "bytes": 21559,
+    "sha256": "22df569b3daa158f0d80e8dabfe888071254db7e3992e9ce518b1b12264c1cc4"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-full-top16.txt",
+    "bytes": 7059,
+    "sha256": "e4a504c819dc2cb43bd171dea0a4cc357a645d936c6f4c88adeab0aa91cc95a0"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-main.json.gz",
+    "bytes": 85260,
+    "sha256": "210eb97faf896f238268cf2eb45415bb8ae2fe26c2761526c7ac70c88a0d831a"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-null-00.json.gz",
+    "bytes": 87154,
+    "sha256": "af8f4649c0492a6fd115354adc3b2c6c7446839ce1faf61845aa96a77ea01297"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-null-01.json.gz",
+    "bytes": 89193,
+    "sha256": "28e3277149a69a37f6c2709ff9fabbd31ab668660f7b0da6fd4e3aee6f59f1e8"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-null-02.json.gz",
+    "bytes": 88072,
+    "sha256": "067a10a7231b03cba63f5b7df23a9c600b35829f0227e2006befb906a7bfb783"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-null-03.json.gz",
+    "bytes": 87012,
+    "sha256": "4ef733ee8660a04268858187bca17e4c1e217a5a8eda19e8825966b67565f057"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-null-04.json.gz",
+    "bytes": 87638,
+    "sha256": "2661bb3ec290a266c14810e1969e5cd468e9668ce8ee14dab8c7e18b2fa6a73c"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-null-05.json.gz",
+    "bytes": 87945,
+    "sha256": "6767511020445e3a4f3dea6e78e851857a71938f82ee2584d6ed136833131d21"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-null-06.json.gz",
+    "bytes": 88538,
+    "sha256": "a4b0f936204dce025a14d55b288465d2e5c3caf0a70597dbf866eff05298ae47"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-null-07.json.gz",
+    "bytes": 88687,
+    "sha256": "25cf7816c4a5e30cc54610aecb86e3c842c5b33eb23fa8c6f51af296b26f214b"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-null-08.json.gz",
+    "bytes": 84304,
+    "sha256": "71d94a7597b375ebf242ec413f65eddc3ae8fb2aebdbdd5dfaf14d944904c399"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-null-09.json.gz",
+    "bytes": 86640,
+    "sha256": "924e5869cb07a87081b816b83aa469d2a52cd8a642e86c882af904f930ed0db2"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-null-10.json.gz",
+    "bytes": 86974,
+    "sha256": "0c969a5aa686faa483ff67e3df5319a920d73e540a9a849414fc6efd80d8e0a2"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-null-11.json.gz",
+    "bytes": 86595,
+    "sha256": "d744fa07576673cb27bca1f16e80162443003f8170698fa84dd60c9f724ab41d"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-null-12.json.gz",
+    "bytes": 88852,
+    "sha256": "a931a91f84e0de034cb092050c48f71ea0dbfcf794e4cb83998065317833dfa3"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-null-13.json.gz",
+    "bytes": 88957,
+    "sha256": "81d0a2fbf81bd2573727f561e172d6b16bd2e8f66e59927166978e24731d49ed"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-null-14.json.gz",
+    "bytes": 88208,
+    "sha256": "2c487b4fd3cb1857f4d7e01fa449764b9e1c23b2298e1820ce0496d917a923a3"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-null-15.json.gz",
+    "bytes": 88931,
+    "sha256": "07c51f22900c95800ba23aea2d43bf95081fb14097ec314bf80e68c0554a2208"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-null-16.json.gz",
+    "bytes": 87682,
+    "sha256": "a838a4ad18ffea3c99ebe66ef842652f099a5cf3da34397a6c27be4312666fc1"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-null-17.json.gz",
+    "bytes": 87014,
+    "sha256": "b75e2b7700a68e0e305866d49d4de5a2a4ceafb574560068db022fe5037b76ca"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-null-18.json.gz",
+    "bytes": 88697,
+    "sha256": "05a7a7e5bb0de5ac31f9f419bea76763bdc2f21c2700e3c3736f06948076eed3"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4-summary.json",
+    "bytes": 151,
+    "sha256": "b0f574f732ad31a7c3e2d56e97811b45ec5e46b86970f092a869ab5512863b78"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-4.json",
+    "bytes": 17258,
+    "sha256": "e355e0dcaaa37c47f30d177c3d921c215aabebbf5ca6ead7d81c4f35944a35f9"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-full-top16.txt",
+    "bytes": 7423,
+    "sha256": "de8e1feb05ea1744968fe5ded4af17645d70718c02e910eec70c636dbc31d7d4"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-main.json.gz",
+    "bytes": 89703,
+    "sha256": "defc7bbfb22218583297bf3c18492fe45ed22aa7fb4e05396f7f637659642cdb"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-null-00.json.gz",
+    "bytes": 88858,
+    "sha256": "d58acac31a73a17686e61c7956e8c4d57244a5e5bfd9d630a23f45f2ec0d919a"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-null-01.json.gz",
+    "bytes": 89576,
+    "sha256": "319aad1f62c81df031ff70f68f2ddd5c6b7ee25fa4c92481944bd34600317a16"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-null-02.json.gz",
+    "bytes": 88789,
+    "sha256": "386c3f11fdbe7db6be1280ebdee7af6269d0dde6b1966103c5ea1b5dee11305a"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-null-03.json.gz",
+    "bytes": 92181,
+    "sha256": "1b0f79782db8a03919ec0ff24c82a546f8910393ef25ae85ff8aee4a7095f851"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-null-04.json.gz",
+    "bytes": 88608,
+    "sha256": "277f5d51d70ef9d40b34154076c0fdd8eabff86e509dacc3c2d10a6ac0e7efff"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-null-05.json.gz",
+    "bytes": 89474,
+    "sha256": "2f34297d4b4deda41ede240612074168691e8fbe315736ca7e054c992d5453d2"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-null-06.json.gz",
+    "bytes": 87756,
+    "sha256": "482451922cf45bd4eaaaefaa1363ad87399bd4a7a9c804f0423e4f7246485e0f"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-null-07.json.gz",
+    "bytes": 88887,
+    "sha256": "3f458daa219a9dd8144e4f3bfdffaa3bf7d0e4ff691f866d390ee2e2fb634237"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-null-08.json.gz",
+    "bytes": 88582,
+    "sha256": "aa6f368e755bdbf99e8b5ce83cddbcbe2604b02699d95a87d11d65b7abd44603"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-null-09.json.gz",
+    "bytes": 90912,
+    "sha256": "8f9899f3abfb0cf65c4d5ec83f79c2e81293c6652c46f8c1b0d88d915a7ceea1"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-null-10.json.gz",
+    "bytes": 88238,
+    "sha256": "a0451397e6dea46807a9712f1ab6faae67186abb219c1169f2a203a8b99a465f"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-null-11.json.gz",
+    "bytes": 87362,
+    "sha256": "cd75c78c92da1a551c9748cad8a6642836f0bddbf294ffbdba4ce9589df4815d"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-null-12.json.gz",
+    "bytes": 87424,
+    "sha256": "05f13232eb5e843e836420f49b2506fbb93560b2fb9ae94b12d35b0a5cef3b93"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-null-13.json.gz",
+    "bytes": 90684,
+    "sha256": "5120c2f0a86cf94c49d31a47fb1287f0ff3f2ced1a81997da283ae8e0dd6ae73"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-null-14.json.gz",
+    "bytes": 87926,
+    "sha256": "5367f8c431cabb1372c1cc51dd29fa296f8892541abff6349c10fddfca7a03a0"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-null-15.json.gz",
+    "bytes": 88420,
+    "sha256": "c57006164f7ea04a0998a9049b980bf3ecddca1eea3c1ba8387442c13e670903"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-null-16.json.gz",
+    "bytes": 89212,
+    "sha256": "5eb92a3f6ea59de93fc7b4345f0a33e83ad640a1fa8546b013c7f49f3cc33f1b"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-null-17.json.gz",
+    "bytes": 88278,
+    "sha256": "3ac3cf18158d1e9bc4670f48b990ef600c81f57538c182befb37fd62cf15a9c3"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-null-18.json.gz",
+    "bytes": 86389,
+    "sha256": "4a99849e14ee5919f6e5eeaa2abb322072da9a0e8a5d4ec4580bd0f9988c9ba7"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5-summary.json",
+    "bytes": 151,
+    "sha256": "2fe8606d5b0cfe124e7f98669c31fc62d6b15c771813e7ff11ac270d63855a44"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-5.json",
+    "bytes": 19778,
+    "sha256": "f07ce6303e38a37be4e0a9dfba9e414e152a8f710c6e8a2046b45ca5aa60e0cf"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-full-top16.txt",
+    "bytes": 2809,
+    "sha256": "24dfa8f54990d4532dfac66e84507e6d3a67981fc51ad555f9a31b0383cd8fc8"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-main.json.gz",
+    "bytes": 38665,
+    "sha256": "2631abaa77fa23f3f215a91e5d6df0d11c58e088e42db5869ce968515c8b4457"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-null-00.json.gz",
+    "bytes": 38258,
+    "sha256": "c2572c724c3858b218d56e7b27e7769557098080eb69ce9a7f897bdc46a8995f"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-null-01.json.gz",
+    "bytes": 38329,
+    "sha256": "1455622b45b65d2eaeff133d69419f3f0c97aca294458c768bae7e8c4b92663f"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-null-02.json.gz",
+    "bytes": 38606,
+    "sha256": "bf842deb805c6f8c5fceaa9a15c58b0a72cbaa224b5d763449a4dcd117209231"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-null-03.json.gz",
+    "bytes": 38393,
+    "sha256": "9289dc3ee75df0e32264eec480a1a9c7683fdfacd5003db64b9723dad55ef547"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-null-04.json.gz",
+    "bytes": 38433,
+    "sha256": "428371fff406af8d56c9a3508a6e87a29db14a6ee21f77f1b5693eae2df9fba0"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-null-05.json.gz",
+    "bytes": 38268,
+    "sha256": "d664df544d0ee9ce16151596245a5d5949c0984e3abfb15d5ef1c03a2454f5f0"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-null-06.json.gz",
+    "bytes": 38316,
+    "sha256": "15c940f6c6244761abb9940a98b1d46ac22365d11e8626bb75ed174b15543645"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-null-07.json.gz",
+    "bytes": 38547,
+    "sha256": "f53f129433b285af9e695f7758975f242147627e583a1585dbe0e151678bc1bc"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-null-08.json.gz",
+    "bytes": 38581,
+    "sha256": "fc0f93ebbf40ed6bf5320f5a0746585e1ab3142e3eb738340ce82752b93c4cbb"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-null-09.json.gz",
+    "bytes": 38199,
+    "sha256": "29f477860192107296f1147465764429249e29cfb964d9659711a286dec5fb0b"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-null-10.json.gz",
+    "bytes": 38645,
+    "sha256": "4028abf5db3523071f29e59f2febb8e82c5cd064f474c5890fbb88c604313cf0"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-null-11.json.gz",
+    "bytes": 38633,
+    "sha256": "126fa8eab4aba0432d6f63d4337ccca30f5e59b128f421466679a3eb99ebba54"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-null-12.json.gz",
+    "bytes": 38361,
+    "sha256": "f5a936dff56d916f0a7f30ce3cb5d4fd2946f4704229524c70b5834be57b89a8"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-null-13.json.gz",
+    "bytes": 38371,
+    "sha256": "9436f3bdea17e7fa6a08d013ce350d845685ab6c89bf8b31bbbdcc550216dbbe"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-null-14.json.gz",
+    "bytes": 38474,
+    "sha256": "d1a176bdf8069e7a62357843386454d4b7082e15a19e18f82932ce6694c16ed1"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-null-15.json.gz",
+    "bytes": 38443,
+    "sha256": "aa5985cbc63f70968dc5cf0adbb49cb48badf97d5767d65343240ce68a17cb0a"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-null-16.json.gz",
+    "bytes": 38554,
+    "sha256": "1e11084bedc3125bc455cad8afb9510158000f58feb459cf450462f13ece1000"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-null-17.json.gz",
+    "bytes": 38390,
+    "sha256": "bb269e2f0c4b7f099e65b3c2f963fc8b598da59cd0bdc44387c7a1dde5e48b5c"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-null-18.json.gz",
+    "bytes": 38614,
+    "sha256": "d4c76d1d4d2e25ccb791829ae86ab274cb02de0d0ed77f62fee9b07761ca9cb0"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6-summary.json",
+    "bytes": 152,
+    "sha256": "6e35883ed4acddbc94cfe257c9caa2900bf34c241c9c441b632070a0d71b0599"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/packet-6.json",
+    "bytes": 5296,
+    "sha256": "d5277e0077aeea141febc35a596859d75ee0a0d342f86d11cd311f2f48fcedd7"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/sources.json",
+    "bytes": 1238,
+    "sha256": "5cd715c56b7c9800a57e1da49e3e250ef69a6d2a71cec815fa640f038840e62e"
+  },
+  {
+    "path": "exploration/persistent-01/worker-p/P25-clean/tiny-controls.json",
+    "bytes": 21081,
+    "sha256": "e07720134613fa8a4c748c26f740ec3f860aa7d5ee025796598b8011638f991b"
+  }
+]

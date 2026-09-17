@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "probabilities": 27000,
+  "exact_array_equality": true,
+  "all_counts_equal": true,
+  "unchanged_held_objects": true,
+  "max_delta_cell": [
+    26,
+    29,
+    11
+  ],
+  "max_delta_labels": [
+    "Y",
+    "BOUNDARY",
+    "J"
+  ],
+  "old_logp": -1.7915156571799753,
+  "clean_logp": -20.40051107074799,
+  "delta": -18.608995413568014,
+  "old_trigram_count": 1,
+  "clean_trigram_count": 0,
+  "old_unigram_count": 2,
+  "clean_unigram_count": 0,
+  "normalization_error": 3.3306690738754696e-16,
+  "changed_cells": 27000
+}

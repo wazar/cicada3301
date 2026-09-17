@@ -1,0 +1,70 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/coordinator/Q05-latin/check.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "c9bfde286fbb0daa19f576b9f971ee52d475cc8d",
+  "started_utc": "2026-09-17T01:15:50.337928+00:00",
+  "timeout_seconds": 120,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin/check.py",
+      "exists": true,
+      "bytes": 3040,
+      "sha256": "e566356051b9e1dd76d005af8a59c6a23084f0e620a16856b81372c96363353e"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin/fetch.py",
+      "exists": true,
+      "bytes": 587,
+      "sha256": "957c0078d2edd372900dd5a81f79f7d3cc93cd2ac82660604d87b6d3eb07082f"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin/model.json",
+      "exists": true,
+      "bytes": 1762,
+      "sha256": "228cb0d896af7faa59652df52825ad8cf85d63be849983263b1bd2bf191a2eef"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin/model.npz",
+      "exists": true,
+      "bytes": 104427,
+      "sha256": "16f491d53007cc4492d1bb94b42fed16aca136bca0f62ba7ebe1b8ba769c3b93"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin/prepare.py",
+      "exists": true,
+      "bytes": 3915,
+      "sha256": "a054cdd7543742cf80355b91edb20ac1e01367dc7bbdfa04d156f67be6f6ac52"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "liber-primus/src/lp/gematria.py",
+      "exists": true,
+      "bytes": 4283,
+      "sha256": "7b4f5c30137741ab3c33638fb91076c4b1f228229dc3634ba2e6ef232cd47f04"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 93058,
+  "finished_utc": "2026-09-17T01:15:50.599276+00:00",
+  "duration_seconds": 0.2610887500050012
+}

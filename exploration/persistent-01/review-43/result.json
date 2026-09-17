@@ -1,0 +1,98 @@
+{
+  "status": "PASS",
+  "panels": 280,
+  "cells": 45360,
+  "alternatives": 673920,
+  "max_score_error": 1.865174681370263e-14,
+  "changed_cells": 22680,
+  "changed_pathsets": 21852,
+  "changed_winners": 46,
+  "changed_bestpaths": 65,
+  "rows": [
+    {
+      "packet": 0,
+      "model": 0,
+      "maximum": -2.2358111606660613,
+      "tail": 0.05
+    },
+    {
+      "packet": 0,
+      "model": 1,
+      "maximum": -2.23538720273839,
+      "tail": 0.05
+    },
+    {
+      "packet": 1,
+      "model": 0,
+      "maximum": -2.474951737727254,
+      "tail": 0.05
+    },
+    {
+      "packet": 1,
+      "model": 1,
+      "maximum": -2.4748159850010847,
+      "tail": 0.05
+    },
+    {
+      "packet": 2,
+      "model": 0,
+      "maximum": -2.3404159392433925,
+      "tail": 0.05
+    },
+    {
+      "packet": 2,
+      "model": 1,
+      "maximum": -2.340430093152969,
+      "tail": 0.05
+    },
+    {
+      "packet": 3,
+      "model": 0,
+      "maximum": -2.199134376790884,
+      "tail": 0.05
+    },
+    {
+      "packet": 3,
+      "model": 1,
+      "maximum": -2.1987499772728225,
+      "tail": 0.05
+    },
+    {
+      "packet": 4,
+      "model": 0,
+      "maximum": -6.597221000277127,
+      "tail": 0.3
+    },
+    {
+      "packet": 4,
+      "model": 1,
+      "maximum": -6.662889376644763,
+      "tail": 0.2
+    },
+    {
+      "packet": 5,
+      "model": 0,
+      "maximum": -6.7157197942775415,
+      "tail": 0.85
+    },
+    {
+      "packet": 5,
+      "model": 1,
+      "maximum": -6.907362055328659,
+      "tail": 1.0
+    },
+    {
+      "packet": 6,
+      "model": 0,
+      "maximum": -6.434108955857554,
+      "tail": 0.95
+    },
+    {
+      "packet": 6,
+      "model": 1,
+      "maximum": -6.608051270842757,
+      "tail": 0.95
+    }
+  ],
+  "coverage": "Saved beam-retained paths and selections; no claim of exact arbitrary-length path optimality"
+}

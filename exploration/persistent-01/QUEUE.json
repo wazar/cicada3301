@@ -877,7 +877,7 @@
   {
     "id": "P25-clean",
     "owner": "persistent_p",
-    "status": "running",
+    "status": "completed",
     "title": "P25-clean: repeat the identical162-cell Latin F/key grid on140panels after a corpus-footer correction, retaining original contaminated model/results. No key/null/input expansion."
   },
   {
@@ -889,7 +889,7 @@
   {
     "id": "REVIEW42",
     "owner": "persistent_n",
-    "status": "running",
+    "status": "completed",
     "title": "Review42 confirms original/clean Latin model arithmetic and source-boundary defect; review41 binary-format proof complete. Next check actual P25 result comparisons and S12/S13."
   },
   {
@@ -897,5 +897,35 @@
     "owner": "coordinator",
     "status": "completed",
     "title": "Exact last-two-output-state contradictions with/withoutwordposition; freshreviewpending."
+  },
+  {
+    "id": "P26",
+    "owner": "persistent_p",
+    "status": "completed",
+    "title": "Frozen unknowncyclicorder spectralmodel losesheldprediction; review45 complete."
+  },
+  {
+    "id": "P27",
+    "owner": "persistent_p",
+    "status": "completed",
+    "title": "Reversefit stability fails; combinedgainnegative,agreement5/29; review47 complete."
+  },
+  {
+    "id": "P28",
+    "owner": "persistent_p",
+    "status": "running",
+    "title": "P28 actual OutGuess0.4 compatibility/control/extraction on images0/26, fixeddefault+7historicallyspecifiedpassphrases. Localbuild/sourceinspection, noinstall; archiveversion/tool limits. P26/P27 frozen and reviewed, no predictive improvement/order stability."
+  },
+  {
+    "id": "REVIEW48",
+    "owner": "persistent_n",
+    "status": "running",
+    "title": "Locate one existing historical OutGuesscarrier+expectedpayload for P28compatibility; independently inspect coefficient/length handling for proposedblankcontrol. Reviews42\u201347 complete."
+  },
+  {
+    "id": "N10",
+    "owner": "persistent_s",
+    "status": "completed",
+    "title": "Implemented asS12 with frozenreadycardprovenance; no duplicateexecution."
   }
 ]

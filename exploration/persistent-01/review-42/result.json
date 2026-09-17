@@ -1,0 +1,526 @@
+{
+  "status": "MODEL_REPLAY_PASS_SOURCE_BOUNDARY_DEFECT",
+  "train_words": 20500,
+  "train_runes": 120913,
+  "train_tokens": 141413,
+  "held_words": 240,
+  "held_runes": [
+    303,
+    339,
+    331,
+    383
+  ],
+  "probabilities_checked": 27000,
+  "max_logp_error": 0.0,
+  "max_row_normalization_error": 3.3306690738754696e-16,
+  "headings": [
+    "C. IULI CAESARIS DE BELLO GALLICO COMMENTARIUS SECUNDUS",
+    "C. IULI CAESARIS DE BELLO GALLICO COMMENTARIUS TERTIUS",
+    "C. IULI CAESARIS DE BELLO GALLICO COMMENTARIUS QUARTUS"
+  ],
+  "legacy_footer_start": 150887,
+  "legacy_footer_text": "End of Project Gutenberg's C\u00e6sar's Commentaries, Books I-IV, by Julius C\u00e6sar\r\n\r\n\r\n\r\n",
+  "included_footer_words": [
+    {
+      "text": "End",
+      "start": 150887,
+      "end": 150890,
+      "runes": [
+        18,
+        9,
+        23
+      ],
+      "rune_char_spans": [
+        [
+          150887,
+          150888
+        ],
+        [
+          150888,
+          150889
+        ],
+        [
+          150889,
+          150890
+        ]
+      ]
+    },
+    {
+      "text": "of",
+      "start": 150891,
+      "end": 150893,
+      "runes": [
+        3,
+        0
+      ],
+      "rune_char_spans": [
+        [
+          150891,
+          150892
+        ],
+        [
+          150892,
+          150893
+        ]
+      ]
+    },
+    {
+      "text": "Project",
+      "start": 150894,
+      "end": 150901,
+      "runes": [
+        13,
+        4,
+        3,
+        11,
+        18,
+        5,
+        16
+      ],
+      "rune_char_spans": [
+        [
+          150894,
+          150895
+        ],
+        [
+          150895,
+          150896
+        ],
+        [
+          150896,
+          150897
+        ],
+        [
+          150897,
+          150898
+        ],
+        [
+          150898,
+          150899
+        ],
+        [
+          150899,
+          150900
+        ],
+        [
+          150900,
+          150901
+        ]
+      ]
+    },
+    {
+      "text": "Gutenberg",
+      "start": 150902,
+      "end": 150911,
+      "runes": [
+        6,
+        1,
+        16,
+        18,
+        9,
+        17,
+        18,
+        4,
+        6
+      ],
+      "rune_char_spans": [
+        [
+          150902,
+          150903
+        ],
+        [
+          150903,
+          150904
+        ],
+        [
+          150904,
+          150905
+        ],
+        [
+          150905,
+          150906
+        ],
+        [
+          150906,
+          150907
+        ],
+        [
+          150907,
+          150908
+        ],
+        [
+          150908,
+          150909
+        ],
+        [
+          150909,
+          150910
+        ],
+        [
+          150910,
+          150911
+        ]
+      ]
+    },
+    {
+      "text": "s",
+      "start": 150912,
+      "end": 150913,
+      "runes": [
+        15
+      ],
+      "rune_char_spans": [
+        [
+          150912,
+          150913
+        ]
+      ]
+    },
+    {
+      "text": "C",
+      "start": 150914,
+      "end": 150915,
+      "runes": [
+        5
+      ],
+      "rune_char_spans": [
+        [
+          150914,
+          150915
+        ]
+      ]
+    },
+    {
+      "text": "sar",
+      "start": 150916,
+      "end": 150919,
+      "runes": [
+        15,
+        24,
+        4
+      ],
+      "rune_char_spans": [
+        [
+          150916,
+          150917
+        ],
+        [
+          150917,
+          150918
+        ],
+        [
+          150918,
+          150919
+        ]
+      ]
+    },
+    {
+      "text": "s",
+      "start": 150920,
+      "end": 150921,
+      "runes": [
+        15
+      ],
+      "rune_char_spans": [
+        [
+          150920,
+          150921
+        ]
+      ]
+    },
+    {
+      "text": "Commentaries",
+      "start": 150922,
+      "end": 150934,
+      "runes": [
+        5,
+        3,
+        19,
+        19,
+        18,
+        9,
+        16,
+        24,
+        4,
+        10,
+        18,
+        15
+      ],
+      "rune_char_spans": [
+        [
+          150922,
+          150923
+        ],
+        [
+          150923,
+          150924
+        ],
+        [
+          150924,
+          150925
+        ],
+        [
+          150925,
+          150926
+        ],
+        [
+          150926,
+          150927
+        ],
+        [
+          150927,
+          150928
+        ],
+        [
+          150928,
+          150929
+        ],
+        [
+          150929,
+          150930
+        ],
+        [
+          150930,
+          150931
+        ],
+        [
+          150931,
+          150932
+        ],
+        [
+          150932,
+          150933
+        ],
+        [
+          150933,
+          150934
+        ]
+      ]
+    },
+    {
+      "text": "Books",
+      "start": 150936,
+      "end": 150941,
+      "runes": [
+        17,
+        3,
+        3,
+        5,
+        15
+      ],
+      "rune_char_spans": [
+        [
+          150936,
+          150937
+        ],
+        [
+          150937,
+          150938
+        ],
+        [
+          150938,
+          150939
+        ],
+        [
+          150939,
+          150940
+        ],
+        [
+          150940,
+          150941
+        ]
+      ]
+    },
+    {
+      "text": "I",
+      "start": 150942,
+      "end": 150943,
+      "runes": [
+        10
+      ],
+      "rune_char_spans": [
+        [
+          150942,
+          150943
+        ]
+      ]
+    },
+    {
+      "text": "IV",
+      "start": 150944,
+      "end": 150946,
+      "runes": [
+        10,
+        1
+      ],
+      "rune_char_spans": [
+        [
+          150944,
+          150945
+        ],
+        [
+          150945,
+          150946
+        ]
+      ]
+    },
+    {
+      "text": "by",
+      "start": 150948,
+      "end": 150950,
+      "runes": [
+        17,
+        26
+      ],
+      "rune_char_spans": [
+        [
+          150948,
+          150949
+        ],
+        [
+          150949,
+          150950
+        ]
+      ]
+    },
+    {
+      "text": "Julius",
+      "start": 150951,
+      "end": 150957,
+      "runes": [
+        11,
+        1,
+        20,
+        10,
+        1,
+        15
+      ],
+      "rune_char_spans": [
+        [
+          150951,
+          150952
+        ],
+        [
+          150952,
+          150953
+        ],
+        [
+          150953,
+          150954
+        ],
+        [
+          150954,
+          150955
+        ],
+        [
+          150955,
+          150956
+        ],
+        [
+          150956,
+          150957
+        ]
+      ]
+    },
+    {
+      "text": "C",
+      "start": 150958,
+      "end": 150959,
+      "runes": [
+        5
+      ],
+      "rune_char_spans": [
+        [
+          150958,
+          150959
+        ]
+      ]
+    },
+    {
+      "text": "sar",
+      "start": 150960,
+      "end": 150963,
+      "runes": [
+        15,
+        24,
+        4
+      ],
+      "rune_char_spans": [
+        [
+          150960,
+          150961
+        ],
+        [
+          150961,
+          150962
+        ],
+        [
+          150962,
+          150963
+        ]
+      ]
+    }
+  ],
+  "footer_tokens": 75,
+  "expected_clean_words": 20484,
+  "expected_clean_runes": 120854,
+  "expected_clean_tokens": 141338,
+  "max_abs_logp_change_on_cleaning": 18.608995413568014,
+  "targeted_English_marker_scan": [
+    {
+      "text": "End",
+      "start": 150887,
+      "end": 150890,
+      "inside_legacy_footer": true
+    },
+    {
+      "text": "of",
+      "start": 150891,
+      "end": 150893,
+      "inside_legacy_footer": true
+    },
+    {
+      "text": "Project",
+      "start": 150894,
+      "end": 150901,
+      "inside_legacy_footer": true
+    },
+    {
+      "text": "Gutenberg",
+      "start": 150902,
+      "end": 150911,
+      "inside_legacy_footer": true
+    },
+    {
+      "text": "Commentaries",
+      "start": 150922,
+      "end": 150934,
+      "inside_legacy_footer": true
+    },
+    {
+      "text": "Books",
+      "start": 150936,
+      "end": 150941,
+      "inside_legacy_footer": true
+    },
+    {
+      "text": "by",
+      "start": 150948,
+      "end": 150950,
+      "inside_legacy_footer": true
+    }
+  ],
+  "nonASCII_alphabetic_body": [
+    {
+      "character": "\u00e6",
+      "position": 150915,
+      "inside_legacy_footer": true
+    },
+    {
+      "character": "\u00e6",
+      "position": 150959,
+      "inside_legacy_footer": true
+    }
+  ],
+  "interpretation": "Targeted source scan, not exhaustive linguistic proof. Original model unchanged; expected cleaned model only under own review directory."
+}

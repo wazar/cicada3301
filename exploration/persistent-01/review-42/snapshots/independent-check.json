@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "words_checked": 20740,
+  "train_tokens": 141413,
+  "logprob_cells": 27000,
+  "max_logprob_error": 0.0,
+  "held_sources": 4,
+  "held_runes": [
+    303,
+    339,
+    331,
+    383
+  ],
+  "limitations": "Independent implementation shares declared GP table and downloaded sources; classical Latin training does not establish puzzle language or universal Latin power."
+}

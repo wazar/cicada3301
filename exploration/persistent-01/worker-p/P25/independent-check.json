@@ -1,0 +1,51 @@
+{
+  "pass_all": true,
+  "panels": 140,
+  "cells": 22680,
+  "alternatives": 336960,
+  "maximum_vector_score_error": 1.865174681370263e-14,
+  "rows": [
+    {
+      "packet": 0,
+      "name": "virgil-book-I",
+      "tail": 0.05,
+      "maximum": -2.2358111606660613
+    },
+    {
+      "packet": 1,
+      "name": "virgil-book-IV",
+      "tail": 0.05,
+      "maximum": -2.474951737727254
+    },
+    {
+      "packet": 2,
+      "name": "virgil-book-VII",
+      "tail": 0.05,
+      "maximum": -2.3404159392433925
+    },
+    {
+      "packet": 3,
+      "name": "virgil-book-X",
+      "tail": 0.05,
+      "maximum": -2.199134376790884
+    },
+    {
+      "packet": 4,
+      "name": "original0",
+      "tail": 0.3,
+      "maximum": -6.597221000277127
+    },
+    {
+      "packet": 5,
+      "name": "original17",
+      "tail": 0.85,
+      "maximum": -6.7157197942775415
+    },
+    {
+      "packet": 6,
+      "name": "original55",
+      "tail": 0.95,
+      "maximum": -6.434108955857554
+    }
+  ]
+}

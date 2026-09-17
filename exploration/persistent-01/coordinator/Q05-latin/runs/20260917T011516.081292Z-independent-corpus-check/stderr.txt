@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<REPO_ROOT>/exploration/persistent-01/coordinator/Q05-latin/check.py", line 24, in <module>
+    a,b=w['start'],w['end'];assert text[a:b]==w['text'];r,sp=independent(text[a:b]);assert r==w['runes'];assert [[a+x,a+y] for x,y in sp]==w['rune_char_spans'];count+=1
+                                                                                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

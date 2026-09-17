@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "conflicting_contexts_checked": 521,
+  "control_page_cases": 360,
+  "models": [
+    {
+      "clock": false,
+      "incompatible": 43,
+      "compatible_pages": [
+        49,
+        51
+      ]
+    },
+    {
+      "clock": true,
+      "incompatible": 41,
+      "compatible_pages": [
+        46,
+        49,
+        51,
+        55
+      ]
+    }
+  ]
+}

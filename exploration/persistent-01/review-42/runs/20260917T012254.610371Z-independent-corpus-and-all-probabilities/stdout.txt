@@ -1,0 +1,29 @@
+{
+  "status": "MODEL_REPLAY_PASS_SOURCE_BOUNDARY_DEFECT",
+  "train_words": 20500,
+  "train_runes": 120913,
+  "train_tokens": 141413,
+  "held_words": 240,
+  "held_runes": [
+    303,
+    339,
+    331,
+    383
+  ],
+  "probabilities_checked": 27000,
+  "max_logp_error": 0.0,
+  "max_row_normalization_error": 3.3306690738754696e-16,
+  "headings": [
+    "C. IULI CAESARIS DE BELLO GALLICO COMMENTARIUS SECUNDUS",
+    "C. IULI CAESARIS DE BELLO GALLICO COMMENTARIUS TERTIUS",
+    "C. IULI CAESARIS DE BELLO GALLICO COMMENTARIUS QUARTUS"
+  ],
+  "legacy_footer_start": 150887,
+  "legacy_footer_text": "End of Project Gutenberg's C\u00e6sar's Commentaries, Books I-IV, by Julius C\u00e6sar\r\n\r\n\r\n\r\n",
+  "footer_tokens": 75,
+  "expected_clean_words": 20484,
+  "expected_clean_runes": 120854,
+  "expected_clean_tokens": 141338,
+  "max_abs_logp_change_on_cleaning": 18.608995413568014,
+  "interpretation": "Targeted source scan, not exhaustive linguistic proof. Original model unchanged; expected cleaned model only under own review directory."
+}

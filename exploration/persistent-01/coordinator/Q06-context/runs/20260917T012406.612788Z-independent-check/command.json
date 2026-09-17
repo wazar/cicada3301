@@ -1,0 +1,58 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/coordinator/Q06-context/check.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "c9bfde286fbb0daa19f576b9f971ee52d475cc8d",
+  "started_utc": "2026-09-17T01:24:06.622418+00:00",
+  "timeout_seconds": 120,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q06-context/check.py",
+      "exists": true,
+      "bytes": 2451,
+      "sha256": "eaa0dced835ec544253ab94326334cbbae936435c2e104f87792bc30ae3a47cf"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q06-context/real.json.gz",
+      "exists": true,
+      "bytes": 28670,
+      "sha256": "4aac344af3ab82fa4d924c5e1e05697da174d39c79a74f5fdf6ca528747c3122"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q06-context/test.py",
+      "exists": true,
+      "bytes": 2851,
+      "sha256": "3de8a525ebb4e50db95b64152bce7bd30b62d7e03dc3376d69b1b50119529b95"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-f/F06-maps.json",
+      "exists": true,
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 94168,
+  "finished_utc": "2026-09-17T01:24:06.712160+00:00",
+  "duration_seconds": 0.08949320800456917
+}

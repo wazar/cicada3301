@@ -1,0 +1,140 @@
+{
+  "scope": "Current publication bytes; previous manifests are original snapshot identities.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/CARD.md",
+      "bytes": 940,
+      "sha256": "d8126e8c8881275df59994316affb96a06d6bd1e34a5fc5c1a80a254644f491c"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/REPORT.md",
+      "bytes": 1394,
+      "sha256": "4cf55c661d753135fb2057656686c5a676a96a1a461bf786c44433af794ff7f3"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/check.py",
+      "bytes": 3040,
+      "sha256": "e566356051b9e1dd76d005af8a59c6a23084f0e620a16856b81372c96363353e"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/correction-difference.json",
+      "bytes": 6784,
+      "sha256": "faa1631412c51c195cac2258e925a961c5f13487731a0ec8ebd42a62b7d66acc"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/counts.json.gz",
+      "bytes": 13358,
+      "sha256": "f1a86d258a7644e0cbba189086b677e3b0e33a54de647eebe561aacd0688f2e9"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/held-controls.json.gz",
+      "bytes": 13851,
+      "sha256": "3ac16a507eec1ea1a9585703fb2d2d2d7ef1fd7821e2c55e3c2b452fd63a412b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/independent-check.json",
+      "bytes": 390,
+      "sha256": "1bdf404fce61a10861168306d493e4b0972f4ee538d019f998328f6c1330684f"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/model.json",
+      "bytes": 1762,
+      "sha256": "5aca0491098085910178b9c6e091a24b98fc8e8c7e8365cdb67d1f9f6869e0b6"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/model.npz",
+      "bytes": 99821,
+      "sha256": "f4667652da86ab021af47cfcba098226454415a809ff3b1ecce84a1b4023e92e"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/pg218.txt",
+      "bytes": 169899,
+      "sha256": "84ac8411841a4d8f5f4a49b6a2cd1f466917c6a5af72916d5e0b2b1ecb2f659c"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/pg227.txt",
+      "bytes": 495876,
+      "sha256": "2620ba82c00964d1a1f0458c8cf171946f158a06de0d0e764594170602c4c7b8"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/prepare.py",
+      "bytes": 3931,
+      "sha256": "093a4ee74dae87ac8be9ba589db5d7f793c82a5310331ff76096bba15446bc9c"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/runs/20260917T012201.342897Z-prepare-corrected-boundary/code/exploration/persistent-01/coordinator/Q05-latin-clean/check.py",
+      "bytes": 3040,
+      "sha256": "e566356051b9e1dd76d005af8a59c6a23084f0e620a16856b81372c96363353e"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/runs/20260917T012201.342897Z-prepare-corrected-boundary/code/exploration/persistent-01/coordinator/Q05-latin-clean/prepare.py",
+      "bytes": 3931,
+      "sha256": "093a4ee74dae87ac8be9ba589db5d7f793c82a5310331ff76096bba15446bc9c"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/runs/20260917T012201.342897Z-prepare-corrected-boundary/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/runs/20260917T012201.342897Z-prepare-corrected-boundary/code/liber-primus/src/lp/gematria.py",
+      "bytes": 4283,
+      "sha256": "7b4f5c30137741ab3c33638fb91076c4b1f228229dc3634ba2e6ef232cd47f04"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/runs/20260917T012201.342897Z-prepare-corrected-boundary/command.json",
+      "bytes": 2253,
+      "sha256": "7db012845fe3de54cf82391f379bf1d42253ebbc1913d06125e0203400dfdff3"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/runs/20260917T012201.342897Z-prepare-corrected-boundary/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/runs/20260917T012201.342897Z-prepare-corrected-boundary/stdout.txt",
+      "bytes": 1396,
+      "sha256": "c646150d809da93abe2acd2f9355519f94ac5654ea6d277d58e5e18cb1d6f267"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/runs/20260917T012226.733926Z-independent-corpus-check/code/exploration/persistent-01/coordinator/Q05-latin-clean/check.py",
+      "bytes": 3040,
+      "sha256": "e566356051b9e1dd76d005af8a59c6a23084f0e620a16856b81372c96363353e"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/runs/20260917T012226.733926Z-independent-corpus-check/code/exploration/persistent-01/coordinator/Q05-latin-clean/prepare.py",
+      "bytes": 3931,
+      "sha256": "093a4ee74dae87ac8be9ba589db5d7f793c82a5310331ff76096bba15446bc9c"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/runs/20260917T012226.733926Z-independent-corpus-check/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/runs/20260917T012226.733926Z-independent-corpus-check/code/liber-primus/src/lp/gematria.py",
+      "bytes": 4283,
+      "sha256": "7b4f5c30137741ab3c33638fb91076c4b1f228229dc3634ba2e6ef232cd47f04"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/runs/20260917T012226.733926Z-independent-corpus-check/command.json",
+      "bytes": 2033,
+      "sha256": "f4e58a5d72d26d98a8d68270a23d2e66519bf44105528102e38403a250dd6051"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/runs/20260917T012226.733926Z-independent-corpus-check/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/runs/20260917T012226.733926Z-independent-corpus-check/stdout.txt",
+      "bytes": 352,
+      "sha256": "d88ebf48fbfcd4c0d2066af25bb54966d52d215401317c908f5f0ef7a14a6556"
+    },
+    {
+      "path": "exploration/persistent-01/coordinator/Q05-latin-clean/train-maps.json.gz",
+      "bytes": 962705,
+      "sha256": "e9f0e3f512ddf47ec51b22e2329049546f4165c4d8fc9c56e9b4241fe4aae91b"
+    }
+  ]
+}

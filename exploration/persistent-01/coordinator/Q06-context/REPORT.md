@@ -1,0 +1,13 @@
+# Q06-context — exposed-state consistency bound
+
+A deterministic generator whose complete state is its last two printed runes fails on43of45 admitted pages, even permitting a separate arbitrary transition function perpage and free word resets/initial pairs. There are428conflicting contexts. Adding the integer within-word output position still fails on41pages, with93conflicting context/position tuples. These exact contradictions do not require linear arithmetic or canonical numeric labels; any fixed bijective relabelling preserves them.
+
+Example original0 withoutclock: runecontext[0,14] has successor6 at positions58–60 and25 at177–179. Withclock, context[24,19] at within-word position3 has successor10 at96–98 and4 at258–260. Exact F06 word/rune/sourcecharacter mappings are retained for every occurrence and contradiction. These are two printed-context copies with different observed nextsymbols, a complete impossibility witness for that specified deterministic function.
+
+Pages49/51 have no contradiction for the no-clock version;46/49/51/55 have none withclock. This is compatibility only, not evidence they implement such a generator, and no fitted text or extra context lengths were searched. Hidden state, word-specific functions or word-index input, stochastic choices, skipped ticks, transcription errors and longer-memory rules remain outside coverage. The test does not exclude ordinary keyed encryption, whose key/state is not fully observable in two printed runes.
+
+Controls: four independently sampled nonlinear-table panels permodel, each at all45actual word/page lengths,360pagecases total. All accept their true table, with exact tables and streams retained. Eight tiny3-symbol examples were exhaustively compared with19,683tables each (157,464checks). Independent reconstruction checks all521conflicting contexts/sourcecoordinates, all360control tables and tiny counts by closed-form compatibletable counting.
+
+The first attempt stopped before controls on a KeyError from using 'units' instead of F06's 'words' field. The failed code/log remain. Correcting only that field name allowed the frozen experiment to execute; no result-dependent parameter change occurred. MainPASS.497s; independentPASS.089s. Exact commands, input/code hashes, exits and full artifacts retained.
+
+This logically refines S10's exposed-state question: some of its arithmetic could be bypassed by a shorter functional-consistency obstruction. It is not independent evidence against broader unrelated mechanisms and not a new keyspace measurement. No English score, hypothesis p-value, sourceimage or reserve reveal was used.

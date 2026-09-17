@@ -1,0 +1,4 @@
+# Q05-latin-clean — source-boundary correction only
+Review42 found16Englishwordfragments/59runes/75tokens from a legacyGutenbergfooter before the modern***END delimiter in Q05-latin training. Preserve all originalsource/model/P25results. Change exactly the Caesar body end from150971 to150887, immediately before the legacyfooter. Same20,484precedingwords, GPnormalization, threeinternalheadingexclusions, .5/8/5smoothing, and fourheldVirgilpassages. No new corpus or hyperparameter selection. No rerequest/replacement of downloadedsourcebytes.
+
+Independently check allcounts/maps/logprobabilities and quantify changedmodelcells. P25-clean repeats the identical140packets/162keycells on identicalciphertexts, same19nulls/seeds perpanel. This is a sourcecorrection comparison, not search expansion or choosing best acrossmodels. Original outputs remain contaminated as documented; do not relabel them passing. Originaldeadline03:30:37UTC.
