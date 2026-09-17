@@ -1,17 +1,15 @@
-# PERSISTENT-01 — active direct research
+# PERSISTENT-01 — closed at fixed deadline
 
 Strategy **outside-box-v1**. Safe fast-forward ef2e807 was completed; strategy receipt is evidenced by worker acknowledgements and executed alternative-model cards, not just the Git update. One direct-session coordinator and up to three native workers; no external controller or competing supervisor.
 
-Start: **2026-09-16 19:30:37 UTC /21:30:37 SAST**. Fixed deadline: **2026-09-17 03:30:37 UTC /05:30:37 SAST**. No extension. Honor `exploration/persistent-01/STOP`. Native research goal remains active. A completed batch, miss or push is not mission completion.
+Start: **2026-09-16 19:30:37 UTC /21:30:37 SAST**. Fixed deadline: **2026-09-17 03:30:37 UTC /05:30:37 SAST**. No extension. Honor `exploration/persistent-01/STOP`. The authorized window has ended; the native goal is completed only after final reviewed publication. No new research is authorized by this state file.
 
 ## Current assignments
 
-Recorded at 2026-09-17T03:27:06.600347+00:00
+Recorded at 2026-09-17T03:30:49.494206+00:00
 
-- **persistent_n**: N19 and review69 correction complete; no active search.
-- **persistent_p**: Reviews71/73 complete; no active search.
-- **persistent_s**: S21 and review72 complete; no active search.
-- **coordinator**: Final reviewed evidence publication and deadline closure; original window remains active until03:30:37UTC.
+- **persistent_n / persistent_p / persistent_s**: all assigned scientific work and reviews complete; idle, no active research processes.
+- **coordinator**: fixed-deadline closure and final report publication only.
 
 ## Evidence and allocation
 
@@ -55,10 +53,10 @@ Checkpoint23 completes N17/N18/S20 with reviews67/68/70. N18 admits page0 at239 
 
 S21/review71 quantifies minimum119/2355errors even for arbitrary14-type outputs. N19/review72 fails fixedcompressor metadata selection on allfourcontrols, so no actual/null score ran. Finalreportreviews69/73 confirm scope and expose/correct68eligible futureglyphs, not80. All worker scientific jobs complete without orphans; coordinator is performing final publication checks and fixed-deadline closure.
 
-Next actions within this window: verify reviewed checkpoint24 on origin/master; at03:30:37UTC record actual worker/process shutdown and close final report. Prospective next-window tests are in finalreport/review69, explicitly unexecuted and not an extension of current deadline.
+Window closed at03:30:37UTC/05:30:37SAST. STOP marker prevents accidental continuation. No remaining experiment cursor requires completion in this window. Next-window proposals are the68eligible held glyph capability test and a separately justified source-model metadata selection control; neither is executed or automatically scheduled. Read finalreport and reviews69/73 before any future work; preserve completed output families and do not rerun them as new coverage.
 
 ## Integrity and limits
 
 Experiment01 remains failed. No credible candidate warrants a reserve reveal. Originals4,9,14,19,24,29,34,39,44,54 remain excluded; earlier E exposure to historical54 vision annotations is recorded as contamination, not pristine holdout. No new image50 inspection; cached corrected256-byte input used by P16/R06 is separately pinned. Exact source mapping, commands, outputs, exit codes, alternative outputs and resume commands remain in per-worker evidence.
 
-Only coordinator writes Git/shared management files. Unrelated macOS setup preserved. Reviewed checkpoint23 is verified on origin/master at `728d4f29b76b54e0cf030ad8d97c82d1d2b457a7`; checkpoint24 publication is in progress. Completed log metadata may normalize checkout prefixes, with original bytes and hash mapping retained locally; frozen scientific source/output bytes are not cosmetically rewritten. See numbered checkpoints for historical results and corrections.
+Only coordinator writes Git/shared management files. Unrelated macOS setup preserved. Reviewed checkpoint24 is verified on origin/master at `c45411f902183f2457bb943c0edb0b2bdfcae5b3`; finalreport/closure publication is the only remaining coordinator action. Completed log metadata may normalize checkout prefixes, with original bytes and hash mapping retained locally; frozen scientific source/output bytes are not cosmetically rewritten. See numbered checkpoints for historical results and corrections.

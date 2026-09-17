@@ -2735,5 +2735,12 @@
     "original_sha256": "6c7ec0332a89d7666b67966103cd40c574d53d85d08b35e964962a2e4ca4f39d",
     "published_sha256": "4b770383c3b534f9ced1f0ef528a29f7ac9881ed00bd3af50b90820f7b75b2b7",
     "change": "Completed metadata/output checkout prefix only; frozen scientific source unchanged."
+  },
+  {
+    "path": "exploration/persistent-01/coordinator/closure.json",
+    "private_original": "exploration/persistent-01/private-originals/coordinator/closure.json",
+    "original_sha256": "fdb6f138fae9b05594401580b98fc078d0c48672060eb8a508e4971a04e1e1d7",
+    "published_sha256": "b05b2089e54f8ebeea0d16d1fd381372ba143c49d1028bb3344faad38febaf64",
+    "change": "Closing process metadata user-home prefix only; raw original retained, no scientific change."
   }
 ]

@@ -1,0 +1,22 @@
+{
+  "closed_utc": "2026-09-17T03:30:49.494206+00:00",
+  "deadline_utc": "2026-09-17T03:30:37+00:00",
+  "deadline_sast": "2026-09-17T05:30:37+02:00",
+  "start_utc": "2026-09-16T19:30:37Z",
+  "mode": "DIRECT",
+  "strategy": "outside-box-v1",
+  "reason": "Fixed authorized eight-hour deadline reached; all assigned scientific jobs and reviews complete.",
+  "worker_status_source": "Native agent inventory independently checked by coordinator at closure; persistent_n/persistent_p/persistent_s idle.",
+  "remaining_activity": "Coordinator report publication only; no further research or external controller.",
+  "scientific_remote_commit": "c45411f902183f2457bb943c0edb0b2bdfcae5b3",
+  "process_snapshot": [
+    " 1838  1811 11:34:35 /Applications/ChatGPT.app/Contents/Resources/codex",
+    " 1853  1811 11:34:33 <USER_HOME>/.codex/computer-use/Codex Computer Use.app/Contents/MacOS/SkyComputerUseService",
+    " 2128  1838 11:31:19 /Applications/ChatGPT.app/Contents/Resources/codex-code-mode-host",
+    "21035     1 08:01:35 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal",
+    "21104 10349 08:01:16 /Applications/ChatGPT.app/Contents/Resources/codex",
+    "30688  1838    00:01 /opt/homebrew/Cellar/python@3.12/3.12.14/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python",
+    "55819     1 05:49:05 <USER_HOME>/Library/Caches/com.openai.codex/org.sparkle-project.Sparkle/Launcher/SMlcrBYm9/Updater.app/Contents/MacOS/Updater"
+  ],
+  "process_scope": "Selected executable names only. Codex UI/app-server processes are not research controllers; closing Python is this coordinator bookkeeping command."
+}
