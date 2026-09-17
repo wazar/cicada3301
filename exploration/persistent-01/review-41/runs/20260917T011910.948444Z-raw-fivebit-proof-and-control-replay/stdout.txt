@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "actual_nodes": 133545,
+  "actual_leaves": 66773,
+  "actual_source_clauses": 20572,
+  "tiny_cases": 100,
+  "tiny_balanced_assignments": 2000,
+  "tiny_refutation_nodes": 1047,
+  "controls": [
+    {
+      "truth_ones": 14,
+      "found_ones": 14,
+      "same_partition": true,
+      "changed_bits": 0,
+      "nodes": 130925
+    },
+    {
+      "truth_ones": 15,
+      "found_ones": 14,
+      "same_partition": false,
+      "changed_bits": 1,
+      "nodes": 97023
+    }
+  ],
+  "format_identity_values": 32,
+  "monotone_subset_values": 832
+}

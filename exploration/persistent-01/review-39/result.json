@@ -1,0 +1,389 @@
+{
+  "status": "PASS",
+  "complete_single_spellings": 33,
+  "pair_cases": 841,
+  "forbidden_pairs": 14,
+  "triple_cases": 24389,
+  "triple_feasible": 23594,
+  "triple_valid_paths": 35030,
+  "source_words": 257,
+  "forbidden_pair_certificates": [
+    {
+      "pair": [
+        3,
+        12
+      ],
+      "all_spelling_options": [
+        {
+          "left": "O",
+          "right": "EO",
+          "valid": false,
+          "parsed": [
+            22,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "pair": [
+        3,
+        18
+      ],
+      "all_spelling_options": [
+        {
+          "left": "O",
+          "right": "E",
+          "valid": false,
+          "parsed": [
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "pair": [
+        3,
+        28
+      ],
+      "all_spelling_options": [
+        {
+          "left": "O",
+          "right": "EA",
+          "valid": false,
+          "parsed": [
+            22,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "pair": [
+        9,
+        6
+      ],
+      "all_spelling_options": [
+        {
+          "left": "N",
+          "right": "G",
+          "valid": false,
+          "parsed": [
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "pair": [
+        10,
+        24
+      ],
+      "all_spelling_options": [
+        {
+          "left": "I",
+          "right": "A",
+          "valid": false,
+          "parsed": [
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "pair": [
+        10,
+        25
+      ],
+      "all_spelling_options": [
+        {
+          "left": "I",
+          "right": "AE",
+          "valid": false,
+          "parsed": [
+            27,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "pair": [
+        16,
+        8
+      ],
+      "all_spelling_options": [
+        {
+          "left": "T",
+          "right": "H",
+          "valid": false,
+          "parsed": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "pair": [
+        18,
+        3
+      ],
+      "all_spelling_options": [
+        {
+          "left": "E",
+          "right": "O",
+          "valid": false,
+          "parsed": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "pair": [
+        18,
+        22
+      ],
+      "all_spelling_options": [
+        {
+          "left": "E",
+          "right": "OE",
+          "valid": false,
+          "parsed": [
+            12,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "pair": [
+        18,
+        24
+      ],
+      "all_spelling_options": [
+        {
+          "left": "E",
+          "right": "A",
+          "valid": false,
+          "parsed": [
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "pair": [
+        18,
+        25
+      ],
+      "all_spelling_options": [
+        {
+          "left": "E",
+          "right": "AE",
+          "valid": false,
+          "parsed": [
+            28,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "pair": [
+        24,
+        12
+      ],
+      "all_spelling_options": [
+        {
+          "left": "A",
+          "right": "EO",
+          "valid": false,
+          "parsed": [
+            25,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "pair": [
+        24,
+        18
+      ],
+      "all_spelling_options": [
+        {
+          "left": "A",
+          "right": "E",
+          "valid": false,
+          "parsed": [
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "pair": [
+        24,
+        28
+      ],
+      "all_spelling_options": [
+        {
+          "left": "A",
+          "right": "EA",
+          "valid": false,
+          "parsed": [
+            25,
+            24
+          ]
+        }
+      ]
+    }
+  ],
+  "actual_witnesses": [
+    {
+      "page": 0,
+      "unit": 0,
+      "runes": [
+        18,
+        3
+      ],
+      "source_rune_indices": [
+        2,
+        3
+      ],
+      "source_char_positions": [
+        2,
+        3
+      ],
+      "spellings": [
+        [
+          "E"
+        ],
+        [
+          "O"
+        ]
+      ]
+    },
+    {
+      "page": 0,
+      "unit": 18,
+      "runes": [
+        10,
+        25
+      ],
+      "source_rune_indices": [
+        83,
+        84
+      ],
+      "source_char_positions": [
+        107,
+        110
+      ],
+      "spellings": [
+        [
+          "I"
+        ],
+        [
+          "AE"
+        ]
+      ]
+    },
+    {
+      "page": 0,
+      "unit": 22,
+      "runes": [
+        16,
+        8
+      ],
+      "source_rune_indices": [
+        105,
+        106
+      ],
+      "source_char_positions": [
+        135,
+        136
+      ],
+      "spellings": [
+        [
+          "T"
+        ],
+        [
+          "H"
+        ]
+      ]
+    },
+    {
+      "page": 0,
+      "unit": 55,
+      "runes": [
+        3,
+        18
+      ],
+      "source_rune_indices": [
+        246,
+        247
+      ],
+      "source_char_positions": [
+        323,
+        324
+      ],
+      "spellings": [
+        [
+          "O"
+        ],
+        [
+          "E"
+        ]
+      ]
+    },
+    {
+      "page": 1,
+      "unit": 12,
+      "runes": [
+        9,
+        6
+      ],
+      "source_rune_indices": [
+        60,
+        61
+      ],
+      "source_char_positions": [
+        422,
+        423
+      ],
+      "spellings": [
+        [
+          "N"
+        ],
+        [
+          "G"
+        ]
+      ]
+    },
+    {
+      "page": 1,
+      "unit": 26,
+      "runes": [
+        3,
+        18
+      ],
+      "source_rune_indices": [
+        105,
+        106
+      ],
+      "source_char_positions": [
+        485,
+        486
+      ],
+      "spellings": [
+        [
+          "O"
+        ],
+        [
+          "E"
+        ]
+      ]
+    }
+  ]
+}

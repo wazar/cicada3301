@@ -1,0 +1,1 @@
+Review39 separate maximal-munch trie parser, exhaustive completeA-Z single-tokenpreimages, allpair/triplealias paths and allactual/sourcecontrol certificates. No broader aliases/Latinformats/segmentation, reserves/Git/shared edits. StandardloggeroneCPU<=900s/originaldeadline.

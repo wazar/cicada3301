@@ -6,12 +6,12 @@ Start: **2026-09-16 19:30:37 UTC /21:30:37 SAST**. Fixed deadline: **2026-09-17 
 
 ## Current assignments
 
-Recorded at 2026-09-17T01:06:15.348366+00:00
+Recorded at 2026-09-17T01:28:21.455368+00:00
 
-- **persistent_p**: P23 canonical greedy Latin-to-GP renderer membership, all aliases and exact impossible-pair certificates; controls/real0–1 complete, report freezing. Next different model selected after review.
-- **persistent_s**: S09 two-template loop classification completed on eligible p2 crops;3/5/6 noncomparable. S10 redirected to a new explicit generative/representation mechanism, no more ornament nuisance fitting.
-- **persistent_n**: Review38 independently checks S09 source eligibility and two-template classification; reviews30–37 completed.
-- **coordinator**: Sole direct controller: publish reviewed checkpoint16, select next discriminating tests and preserve original deadline.
+- **persistent_p**: P25-clean: repeat the identical162-cell Latin F/key grid on140panels after a corpus-footer correction, retaining original contaminated model/results. No key/null/input expansion.
+- **persistent_s**: S14 bounded power-conjugated cyclic-key arithmetic proposal/pilot, explicitly still conjugate-additive; S12 section prediction and S13 postfix-format tests complete, awaiting review.
+- **persistent_n**: Review42 confirms original/clean Latin model arithmetic and source-boundary defect; review41 binary-format proof complete. Next check actual P25 result comparisons and S12/S13.
+- **coordinator**: Sole direct controller: publish checkpoint17; Q06 exact exposed-state context witnesses complete and independently replayed locally, pending fresh review. Originaldeadline remains03:30:37UTC.
 
 ## Evidence and allocation
 
@@ -23,12 +23,16 @@ Checkpoint15 publishes reviewed R07 boundary-echo comparison (tail .23), Q04-pre
 
 Checkpoint16 publishes S01–S08 and P20–P22 with reviews30–37. Tested alternatives include per-word memory, word-bag codes, runes as fixed graph edges, all-word prime representations, 2/3-rune code dictionaries, Morse-gap grammar, literal word-interior extraction, and omitted ornament structure. Exact incompatibilities are confined to each stated model; statistical misses retain control-power/null limitations. P22 is an existing additive-feedback extension, not an alternative-family claim; matched full32-lag rank .255.
 
-S08's prescribed rotation/half-pixel family does not explain p0's top-loop discrepancy. Independent review37 reproduces every fit; no payload inference. S09 subsequently finds exact decoded-grayscale reuse of p1/p2 top loops and all0/1/2 bottom loops; p0top variant does not recur in its small eligible set. Review38 is active; no further transform family is being added to rescue the discrepancy.
+Checkpoint17 publishes P23/P24, S09–S11 and reviews38–41. Six0/1units fail the exact greedy GP renderer; all812directed nonself pairs occur inside admitted words, preventing even an unknown shared bijection from hiding its forbiddenpairs. S10 excludes only a word-reset Fibonacci exposed-state model through exact full-rank certificates. S11 excludes balanced14/15 binary homophones for fixed5bit codes0–25 with independentpage phases; its complete refutation is checked. None rejects all Latin-first formats, recurrences or binary encodings.
 
-Next executable actions: P23 exact full-alias rendering certificates and independent review; S10 implement a distinct falsifiable generative/representation model on F06 discovery units after a narrow prior-scope check. The image lane has been redirected because more nuisance fitting alone would not identify meaning. Both active exploratory lanes challenge assumptions outside the English scorer/additive-key model; the completed P22 retains a justified existing-method comparison. No promising candidate currently justifies concentration or reserve use.
+S09 confirms grayscale top-loop identity across1/2 and bottom identity across0/1/2. The p0top variant does not recur in the small eligible sample;3/5/6 have different ornaments. This source observation did not justify more nuisance fitting. S12 tests externalstyle-group weights and finds heldgain−4.96, rank .495; S13 finds exact postfix one-result-word inconsistencies. Both await fresh review. RootQ06 shows arbitrary deterministic last-two-printed-rune functions fail on43/45pages, or41/45 when also given withinwordposition; hidden state remains outside scope.
+
+New Latin-ranked P25 has four exact unknown-key controls but no coherent actual output on0/17/55. Review42 found16Englishfooterfragments in its training corpus. Originalmodel/results are retained; cleanmodel removes only75tokens, and identical140packets/162cells are being replayed. The maximum single log-probability change is18.61nats despite the smalltokenfraction, so impact is measured rather than assumed negligible.
+
+Next executable actions: complete P25-clean paired comparison and independent review; S14 controls before bounded power-coordinate decoding; review S12/S13/Q06 exact and predictive results. S14 changes numericalcoordinates but remains conjugate-additive and is not counted as a fundamentallynonadditive explanation. Language-free structuredformat/generator tests remain a separate lane of evidence. No credible candidate warrants reserve use; no current method is established as best.
 
 ## Integrity and limits
 
 Experiment01 remains failed. No credible candidate warrants a reserve reveal. Originals4,9,14,19,24,29,34,39,44,54 remain excluded; earlier E exposure to historical54 vision annotations is recorded as contamination, not pristine holdout. No new image50 inspection; cached corrected256-byte input used by P16/R06 is separately pinned. Exact source mapping, commands, outputs, exit codes, alternative outputs and resume commands remain in per-worker evidence.
 
-Only coordinator writes Git/shared management files. Unrelated macOS setup preserved. Reviewed checkpoint15 is verified on origin/master at `998efa7340972cfbdbd4cfbfe6a5a7227ac697d9`; checkpoint16 publication is in progress. Completed log metadata may normalize checkout prefixes, with original bytes and hash mapping retained locally; frozen scientific source/output bytes are not cosmetically rewritten. See numbered checkpoints for historical results and corrections.
+Only coordinator writes Git/shared management files. Unrelated macOS setup preserved. Reviewed checkpoint16 is verified on origin/master at `c9bfde286fbb0daa19f576b9f971ee52d475cc8d`; checkpoint17 publication is in progress. Completed log metadata may normalize checkout prefixes, with original bytes and hash mapping retained locally; frozen scientific source/output bytes are not cosmetically rewritten. See numbered checkpoints for historical results and corrections.

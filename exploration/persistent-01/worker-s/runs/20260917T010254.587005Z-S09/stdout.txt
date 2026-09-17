@@ -1,0 +1,162 @@
+{
+  "threshold": 96732,
+  "gate": true,
+  "control_classifications": [
+    {
+      "label": "A_p0top",
+      "winner": "A_p0top",
+      "winner_sse": 0,
+      "loser_sse": 7650939,
+      "loser_winner_ratio": null,
+      "accepted": true
+    },
+    {
+      "label": "A_p0top",
+      "winner": "A_p0top",
+      "winner_sse": 22622,
+      "loser_sse": 4133803,
+      "loser_winner_ratio": 182.73375475201132,
+      "accepted": true
+    },
+    {
+      "label": "A_p0top",
+      "winner": "A_p0top",
+      "winner_sse": 21397,
+      "loser_sse": 5914454,
+      "loser_winner_ratio": 276.41510492125065,
+      "accepted": true
+    },
+    {
+      "label": "A_p0top",
+      "winner": "A_p0top",
+      "winner_sse": 22120,
+      "loser_sse": 4029716,
+      "loser_winner_ratio": 182.175226039783,
+      "accepted": true
+    },
+    {
+      "label": "A_p0top",
+      "winner": "A_p0top",
+      "winner_sse": 24141,
+      "loser_sse": 6118161,
+      "loser_winner_ratio": 253.43444762023114,
+      "accepted": true
+    },
+    {
+      "label": "B_commonbottom",
+      "winner": "B_commonbottom",
+      "winner_sse": 0,
+      "loser_sse": 7648785,
+      "loser_winner_ratio": null,
+      "accepted": true
+    },
+    {
+      "label": "B_commonbottom",
+      "winner": "B_commonbottom",
+      "winner_sse": 23868,
+      "loser_sse": 4150391,
+      "loser_winner_ratio": 173.8893497569968,
+      "accepted": true
+    },
+    {
+      "label": "B_commonbottom",
+      "winner": "B_commonbottom",
+      "winner_sse": 21913,
+      "loser_sse": 6014905,
+      "loser_winner_ratio": 274.49025692511293,
+      "accepted": true
+    },
+    {
+      "label": "B_commonbottom",
+      "winner": "B_commonbottom",
+      "winner_sse": 20795,
+      "loser_sse": 4025479,
+      "loser_winner_ratio": 193.57917768694398,
+      "accepted": true
+    },
+    {
+      "label": "B_commonbottom",
+      "winner": "B_commonbottom",
+      "winner_sse": 24183,
+      "loser_sse": 6151616,
+      "loser_winner_ratio": 254.37770334532522,
+      "accepted": true
+    }
+  ],
+  "real": [
+    {
+      "region": "top",
+      "classification": {
+        "label": "B_commonbottom",
+        "winner": "B_commonbottom",
+        "winner_sse": 40206,
+        "loser_sse": 7637225,
+        "loser_winner_ratio": 189.9523702929911,
+        "accepted": true
+      },
+      "best_fits": {
+        "A_p0top": {
+          "angle": 0.0,
+          "phase_dx_dy": [
+            0.0,
+            0.5
+          ],
+          "shift_dy_dx": [
+            -1,
+            0
+          ],
+          "sse": 7637225
+        },
+        "B_commonbottom": {
+          "angle": 0.0,
+          "phase_dx_dy": [
+            0.0,
+            0.0
+          ],
+          "shift_dy_dx": [
+            5,
+            0
+          ],
+          "sse": 40206
+        }
+      }
+    },
+    {
+      "region": "bottom",
+      "classification": {
+        "label": "B_commonbottom",
+        "winner": "B_commonbottom",
+        "winner_sse": 0,
+        "loser_sse": 7648785,
+        "loser_winner_ratio": null,
+        "accepted": true
+      },
+      "best_fits": {
+        "A_p0top": {
+          "angle": 0.0,
+          "phase_dx_dy": [
+            0.0,
+            0.5
+          ],
+          "shift_dy_dx": [
+            -6,
+            0
+          ],
+          "sse": 7648785
+        },
+        "B_commonbottom": {
+          "angle": 0.0,
+          "phase_dx_dy": [
+            0.0,
+            0.0
+          ],
+          "shift_dy_dx": [
+            0,
+            0
+          ],
+          "sse": 0
+        }
+      }
+    }
+  ]
+}

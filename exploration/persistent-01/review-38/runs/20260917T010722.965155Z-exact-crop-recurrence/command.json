@@ -1,0 +1,52 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "exploration/persistent-01/review-38/exact.py"
+  ],
+  "cwd": "<REPO_ROOT>",
+  "working_commit": "c9bfde286fbb0daa19f576b9f971ee52d475cc8d",
+  "started_utc": "2026-09-17T01:07:22.974901+00:00",
+  "timeout_seconds": 900,
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONNOUSERSITE": "1",
+    "PYTHONUNBUFFERED": "1",
+    "PYTHONUTF8": "1",
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "sources_inputs": [
+    {
+      "path": "exploration/persistent-01/review-38/check.py",
+      "exists": true,
+      "bytes": 5452,
+      "sha256": "a19eb0c107e419326b92b79c68a9387336fcf2cb50a96ea1acfb226f6480132a"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/exact.py",
+      "exists": true,
+      "bytes": 672,
+      "sha256": "8217d8f4dcdad99e785bb191ccef2ecf208ac4e98dd81f5d1aa7ff6bf65d4271"
+    },
+    {
+      "path": "exploration/persistent-01/run_logged.py",
+      "exists": true,
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/worker-s/S09-exact-comparison.json",
+      "exists": true,
+      "bytes": 1297,
+      "sha256": "9d301292838f516618ca419ee44a2ad2dd8442ab3664da82f97fec9bf849f137"
+    }
+  ],
+  "outcome": "PASS",
+  "exit_code": 0,
+  "pid": 92409,
+  "finished_utc": "2026-09-17T01:07:23.104674+00:00",
+  "duration_seconds": 0.12958749999961583
+}

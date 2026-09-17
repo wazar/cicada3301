@@ -1,0 +1,34 @@
+{
+  "status": "PASS",
+  "S10": {
+    "equations": [
+      147,
+      141
+    ],
+    "integer_determinants": [
+      -321,
+      -48
+    ],
+    "mod29": [
+      27,
+      10
+    ],
+    "controls": 60,
+    "tiny_assignments": 12500,
+    "initial_final_identical_except_free_variables": true
+  },
+  "P24": {
+    "units": 2355,
+    "within_unit_transitions": 8111,
+    "observed_edges_including_self": 836,
+    "nonself_edges": 812,
+    "missing_nonself": 0,
+    "tiny_cases": 100,
+    "control_full_mapping_mismatches": [
+      29,
+      29,
+      28,
+      29
+    ]
+  }
+}

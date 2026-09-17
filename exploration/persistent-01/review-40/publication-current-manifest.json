@@ -1,0 +1,155 @@
+{
+  "scope": "Current publication bytes; previous manifests are original snapshot identities.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/review-40/MANIFEST.json",
+      "bytes": 4310,
+      "sha256": "5bb7b9c719e671dd49594d577f4bc552365b7215f1c0280c7af5fce297ed6cc7"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/P24-nonself-source-certificate.json",
+      "bytes": 251409,
+      "sha256": "f300ca9d9affd1f290c6a3d224f7d10c6fdef7b53a3e4d7a534f1a0ef059190d"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/PROTOCOL.md",
+      "bytes": 372,
+      "sha256": "3c83a5912efc596ba08a8073d0803b68aa332104cc401715fc527322bffc1158"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/REPORT.md",
+      "bytes": 3780,
+      "sha256": "3e48edb61e78409ce6aaf944c8684b4963f100215d91f9f03a80a1d619221a1f"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/check.py",
+      "bytes": 8491,
+      "sha256": "42b2aa7c3cc36f08aa13ccb6b63124110ba6cb2ce4e18afcdf757b2245f08da0"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/inputs.json",
+      "bytes": 3560,
+      "sha256": "61bae04c34ea5bff73e8dd84027b897b62f31883f2647fdb24cec79b1464008f"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/result.json",
+      "bytes": 569,
+      "sha256": "e470691438aa8ba2d21f7ec44df0a253f403a67a2d77c3c22ce19282253d4e15"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/runs/20260917T011358.444482Z-exact-GF29-and-all-edge-certificates/code/exploration/persistent-01/review-40/check.py",
+      "bytes": 8491,
+      "sha256": "42b2aa7c3cc36f08aa13ccb6b63124110ba6cb2ce4e18afcdf757b2245f08da0"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/runs/20260917T011358.444482Z-exact-GF29-and-all-edge-certificates/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/runs/20260917T011358.444482Z-exact-GF29-and-all-edge-certificates/code/exploration/persistent-01/worker-p/p24.py",
+      "bytes": 6559,
+      "sha256": "5a4fb122a824a0a696dcfa3091c202d430b0b5d5c66f0904d8af45aa1840e1d0"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/runs/20260917T011358.444482Z-exact-GF29-and-all-edge-certificates/code/exploration/persistent-01/worker-s/s10.py",
+      "bytes": 4862,
+      "sha256": "b69e2c06d3a009fc4b9a07e68e31250a2958ad8ceecc333f10dddfd377ee6fb4"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/runs/20260917T011358.444482Z-exact-GF29-and-all-edge-certificates/command.json",
+      "bytes": 1542,
+      "sha256": "386f32c126af849204b1a9b20ee2a0cd33a908b4366f41418bfff1b5347711af"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/runs/20260917T011358.444482Z-exact-GF29-and-all-edge-certificates/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/runs/20260917T011358.444482Z-exact-GF29-and-all-edge-certificates/stdout.txt",
+      "bytes": 570,
+      "sha256": "d4f25d258010870bd674e61fb58b2f57728fd27b39929868ee279cc83a660f03"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/snapshots/CARD.md",
+      "bytes": 3169,
+      "sha256": "0202a7c8ac575c64c69ab95072b10f9dc5c1c30382b24e8a06c204b6261bce53"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/snapshots/F06-maps.json",
+      "bytes": 816335,
+      "sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/snapshots/MANIFEST.json",
+      "bytes": 2503,
+      "sha256": "798a8a17156c80fc5be7029de30a2a1294b9e403d289b9d3ee28fbf67f4e5f8f"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/snapshots/REPORT.md",
+      "bytes": 4246,
+      "sha256": "e2b03ec4875314735f7ce038c80fa89d6844f33772752e2ca30581ed1421a4fb"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/snapshots/S10-CARD.md",
+      "bytes": 2203,
+      "sha256": "6e96560867590d1ab5b5ee6fa91824ffd80fd9da250f178852d5bb62cba351b9"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/snapshots/S10-CONTROL-CHECK.md",
+      "bytes": 602,
+      "sha256": "4cd0d79ee67680fd6491732fa11a18fac5054f082334b262aab20e48540d42b1"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/snapshots/S10-initial-result.json",
+      "bytes": 957015,
+      "sha256": "a2cc472a789ecca231c432201a89b0e4ad8ea221ed678f982fcef83a5bbd3b8b"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/snapshots/S10-result.json",
+      "bytes": 965076,
+      "sha256": "f3fe413e20d223650621d177f1639426c42f4b1ede5b64775fd6e019caf20987"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/snapshots/controls-summary.json",
+      "bytes": 466,
+      "sha256": "b3aedf903178492bb8b74318933c14b6c934073e4b131fb9ffc5ae810c419256"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/snapshots/final-P24-REPORT.md",
+      "bytes": 4246,
+      "sha256": "e2b03ec4875314735f7ce038c80fa89d6844f33772752e2ca30581ed1421a4fb"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/snapshots/final-worker-s-S10-REPORT.md",
+      "bytes": 2963,
+      "sha256": "15144718528536c94e74346e9dfd4586eaaab22c304550d69b4ae0e3ae37955f"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/snapshots/independent-certificate.json",
+      "bytes": 289274,
+      "sha256": "89755d79e1282c656d475fbecf34cbcaf7dac7b701d899eac12e6cf288e9c395"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/snapshots/p24.py",
+      "bytes": 6559,
+      "sha256": "5a4fb122a824a0a696dcfa3091c202d430b0b5d5c66f0904d8af45aa1840e1d0"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/snapshots/s10.py",
+      "bytes": 4862,
+      "sha256": "b69e2c06d3a009fc4b9a07e68e31250a2958ad8ceecc333f10dddfd377ee6fb4"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/snapshots/sources.json",
+      "bytes": 467,
+      "sha256": "e3558b1bc045a73edd916d5d937046817f8c3568adc019dee39be542d425ed6c"
+    },
+    {
+      "path": "exploration/persistent-01/review-40/snapshots/summary.json",
+      "bytes": 266,
+      "sha256": "faf7f24390f55cdc0fa28a3d7d125ef65fb156b7192a0ce572fd9d2bf11ab6b1"
+    }
+  ]
+}

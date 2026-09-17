@@ -1,0 +1,33 @@
+{
+  "seed": 1709202610,
+  "source_sha256": "74bdf46e10ce11080762e82350004bd95ea1952a866a9778b3e746c20012973b",
+  "tiny_cases": 100,
+  "tiny_assignments": 12500,
+  "hidden_maps": 30,
+  "generated_page_controls": 60,
+  "control_ranks": [
+    26,
+    27,
+    28
+  ],
+  "real": [
+    {
+      "page": 0,
+      "equations": 147,
+      "rank": 29,
+      "certificate_rows": 29,
+      "integer_determinant": -321,
+      "determinant_mod29": 27,
+      "verdict": "NO_BIJECTION_FULL_RANK"
+    },
+    {
+      "page": 1,
+      "equations": 141,
+      "rank": 29,
+      "certificate_rows": 29,
+      "integer_determinant": -48,
+      "determinant_mod29": 10,
+      "verdict": "NO_BIJECTION_FULL_RANK"
+    }
+  ]
+}

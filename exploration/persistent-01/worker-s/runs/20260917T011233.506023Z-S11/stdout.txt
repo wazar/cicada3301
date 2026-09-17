@@ -1,0 +1,43 @@
+{"control": 14, "status": "SAT", "ones": 506581889, "root": null, "nodes": 130925, "seconds": 0.5232480409977143, "limits": {"seconds": 120, "nodecap": 2000000}}
+{"control": 15, "status": "SAT", "ones": 237774700, "root": null, "nodes": 97023, "seconds": 0.42244249999930616, "limits": {"seconds": 120, "nodecap": 2000000}}
+{
+  "controls": [
+    {
+      "control": 14,
+      "status": "SAT",
+      "ones": 506581889,
+      "root": null,
+      "nodes": 130925,
+      "seconds": 0.5232480409977143,
+      "limits": {
+        "seconds": 120,
+        "nodecap": 2000000
+      }
+    },
+    {
+      "control": 15,
+      "status": "SAT",
+      "ones": 237774700,
+      "root": null,
+      "nodes": 97023,
+      "seconds": 0.42244249999930616,
+      "limits": {
+        "seconds": 120,
+        "nodecap": 2000000
+      }
+    }
+  ],
+  "tiny_cases": 100,
+  "tiny_assignments": 2000,
+  "real": {
+    "status": "UNSAT",
+    "ones": null,
+    "root": 133544,
+    "nodes": 133545,
+    "seconds": 0.5556847920015571,
+    "limits": {
+      "seconds": 120,
+      "nodecap": 2000000
+    }
+  }
+}

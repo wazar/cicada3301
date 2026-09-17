@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "template_fit_calls": 24,
+  "all_SSE_cells": 6795360,
+  "actual_full_signed_residuals": 1040,
+  "threshold": 96732,
+  "control_correct_SSE": [
+    22622,
+    21397,
+    22120,
+    24141,
+    23868,
+    21913,
+    20795,
+    24183
+  ],
+  "control_gate": true,
+  "real": [
+    {
+      "region": "top",
+      "classification": {
+        "label": "B_commonbottom",
+        "winner": "B_commonbottom",
+        "winner_sse": 40206,
+        "loser_sse": 7637225,
+        "loser_winner_ratio": 189.9523702929911,
+        "accepted": true
+      }
+    },
+    {
+      "region": "bottom",
+      "classification": {
+        "label": "B_commonbottom",
+        "winner": "B_commonbottom",
+        "winner_sse": 0,
+        "loser_sse": 7648785,
+        "loser_winner_ratio": null,
+        "accepted": true
+      }
+    }
+  ],
+  "eligibility": "Independent full-image visual inspection:2 comparable loops,3/5/6 no comparable loops at frozen top/bottom positions; selection image-informed."
+}

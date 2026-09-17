@@ -1,0 +1,125 @@
+{
+  "scope": "Current publication bytes; previous manifests are original snapshot identities.",
+  "files": [
+    {
+      "path": "exploration/persistent-01/review-38/MANIFEST.json",
+      "bytes": 3797,
+      "sha256": "51d1a98756bd24db52616eaf73a333b6e8cbd9e4da14efb506d6d05efedf5682"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/PROTOCOL.md",
+      "bytes": 285,
+      "sha256": "4e01caaa455e04a3530013dc18e5893b614cb325dd1b5bd25d4ad216ffb6525b"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/REPORT.md",
+      "bytes": 3237,
+      "sha256": "5d42d2a7e08bfafdfa65f03373195f77d0db12aa82c7255a8120ace6463b952e"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/check.py",
+      "bytes": 5452,
+      "sha256": "a19eb0c107e419326b92b79c68a9387336fcf2cb50a96ea1acfb226f6480132a"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/exact-check.json",
+      "bytes": 296,
+      "sha256": "52ac8f22bffe4a2499711a69066290cb485b988fde61ea565e58f73df41ce891"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/exact.py",
+      "bytes": 672,
+      "sha256": "8217d8f4dcdad99e785bb191ccef2ecf208ac4e98dd81f5d1aa7ff6bf65d4271"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/inputs.json",
+      "bytes": 6432,
+      "sha256": "e0b73d34d1234031d38f19e3a605c45d4f16d919d73bccc30bc3b51e2590126b"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/result.json",
+      "bytes": 997,
+      "sha256": "a68a14d4174ae3b448c24beaafd55a1b9299dad7f513c9e388be24c5210d40bf"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/runs/20260917T010604.972675Z-independent-two-template-all-grids/code/exploration/persistent-01/review-38/check.py",
+      "bytes": 5452,
+      "sha256": "a19eb0c107e419326b92b79c68a9387336fcf2cb50a96ea1acfb226f6480132a"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/runs/20260917T010604.972675Z-independent-two-template-all-grids/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/runs/20260917T010604.972675Z-independent-two-template-all-grids/code/exploration/persistent-01/worker-s/s09.py",
+      "bytes": 5460,
+      "sha256": "6584b7125ad2530f8ed2c0697fa9c61348ea9639b88acd64b56dfcba7e6ab7d5"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/runs/20260917T010604.972675Z-independent-two-template-all-grids/command.json",
+      "bytes": 1546,
+      "sha256": "fdd57ac8a30b2b1bf023f09387cba98be0e19b9c88a5be754f22550270f6a465"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/runs/20260917T010604.972675Z-independent-two-template-all-grids/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/runs/20260917T010604.972675Z-independent-two-template-all-grids/stdout.txt",
+      "bytes": 998,
+      "sha256": "4514a01c5c847673ea3048e21758058bb48d560c6523bd42051c0121fccfd3f4"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/runs/20260917T010722.965155Z-exact-crop-recurrence/code/exploration/persistent-01/review-38/check.py",
+      "bytes": 5452,
+      "sha256": "a19eb0c107e419326b92b79c68a9387336fcf2cb50a96ea1acfb226f6480132a"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/runs/20260917T010722.965155Z-exact-crop-recurrence/code/exploration/persistent-01/review-38/exact.py",
+      "bytes": 672,
+      "sha256": "8217d8f4dcdad99e785bb191ccef2ecf208ac4e98dd81f5d1aa7ff6bf65d4271"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/runs/20260917T010722.965155Z-exact-crop-recurrence/code/exploration/persistent-01/run_logged.py",
+      "bytes": 3045,
+      "sha256": "ed2359a1d6211a6055a751bd96e8776d7adefb4600ce6dd244b97f24b610d40b"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/runs/20260917T010722.965155Z-exact-crop-recurrence/command.json",
+      "bytes": 1563,
+      "sha256": "7364bb6a713dc81a1c37e344509f90cc310c65edae4e7274dd6aa1d63de5e04b"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/runs/20260917T010722.965155Z-exact-crop-recurrence/stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/runs/20260917T010722.965155Z-exact-crop-recurrence/stdout.txt",
+      "bytes": 187,
+      "sha256": "08fd2650462648ecf2ff4e65ab19d432cc4a57652bf548c8e4ea92ab9df41bec"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/snapshots/S09-CARD.md",
+      "bytes": 2116,
+      "sha256": "7dffdefdb2cde0262a81e31e58d91f4c189af0d28d4d7b58904c618bee7335ee"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/snapshots/S09-exact-comparison.json",
+      "bytes": 1297,
+      "sha256": "9d301292838f516618ca419ee44a2ad2dd8442ab3664da82f97fec9bf849f137"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/snapshots/S09-result.json",
+      "bytes": 1656974,
+      "sha256": "8c116b4307f925974d4a6a9490e168ef07da573ca5b7953e0e8f00ca39edc84e"
+    },
+    {
+      "path": "exploration/persistent-01/review-38/snapshots/s09.py",
+      "bytes": 5460,
+      "sha256": "6584b7125ad2530f8ed2c0697fa9c61348ea9639b88acd64b56dfcba7e6ab7d5"
+    }
+  ]
+}

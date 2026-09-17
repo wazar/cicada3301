@@ -1,0 +1,4932 @@
+{
+  "status": "PASS",
+  "proof_nodes": 133545,
+  "leaf_counts": {
+    "page20": 891,
+    "page43": 837,
+    "page17": 2711,
+    "page10": 2459,
+    "page42": 874,
+    "page1": 2174,
+    "page0": 2823,
+    "page31": 1227,
+    "page25": 778,
+    "page35": 1052,
+    "cardinality": 18990,
+    "page21": 1585,
+    "page3": 1319,
+    "page5": 1201,
+    "page22": 625,
+    "page36": 701,
+    "page12": 2703,
+    "page11": 2742,
+    "page6": 523,
+    "page8": 3809,
+    "page45": 605,
+    "page30": 419,
+    "page52": 300,
+    "page7": 1734,
+    "page41": 356,
+    "page2": 1521,
+    "page13": 1594,
+    "page16": 1314,
+    "page18": 1088,
+    "page37": 297,
+    "page26": 1160,
+    "page28": 679,
+    "page15": 667,
+    "page46": 384,
+    "page53": 69,
+    "page27": 1153,
+    "page40": 270,
+    "page47": 462,
+    "page48": 677,
+    "page51": 12,
+    "page23": 582,
+    "page33": 608,
+    "page38": 517,
+    "page32": 272,
+    "page49": 8,
+    "page55": 1
+  },
+  "first_page_leaf_examples": {
+    "20": {
+      "proof_node": 0,
+      "known_one_runes": [
+        0,
+        11,
+        14,
+        22,
+        24,
+        25
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 25,
+          "minimum_code": 30,
+          "runes": [
+            14,
+            22,
+            25,
+            24,
+            12
+          ],
+          "source_char_positions": [
+            6459,
+            6461,
+            6462,
+            6464,
+            6465
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 26,
+          "minimum_code": 29,
+          "runes": [
+            22,
+            25,
+            24,
+            12,
+            14
+          ],
+          "source_char_positions": [
+            6461,
+            6462,
+            6464,
+            6465,
+            6467
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 27,
+          "minimum_code": 26,
+          "runes": [
+            25,
+            24,
+            12,
+            14,
+            5
+          ],
+          "source_char_positions": [
+            6462,
+            6464,
+            6465,
+            6467,
+            6468
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 173,
+          "minimum_code": 27,
+          "runes": [
+            14,
+            11,
+            3,
+            0,
+            11
+          ],
+          "source_char_positions": [
+            6655,
+            6656,
+            6657,
+            6659,
+            6660
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 24,
+          "minimum_code": 31,
+          "runes": [
+            25,
+            14,
+            22,
+            25,
+            24
+          ],
+          "source_char_positions": [
+            6458,
+            6459,
+            6461,
+            6462,
+            6464
+          ]
+        }
+      ]
+    },
+    "43": {
+      "proof_node": 1,
+      "known_one_runes": [
+        0,
+        1,
+        11,
+        14,
+        22,
+        24
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 160,
+          "minimum_code": 27,
+          "runes": [
+            11,
+            14,
+            15,
+            11,
+            22
+          ],
+          "source_char_positions": [
+            14051,
+            14052,
+            14053,
+            14054,
+            14056
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 261,
+          "minimum_code": 26,
+          "runes": [
+            0,
+            14,
+            10,
+            22,
+            6
+          ],
+          "source_char_positions": [
+            14185,
+            14186,
+            14187,
+            14188,
+            14189
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 22,
+          "minimum_code": 31,
+          "runes": [
+            22,
+            0,
+            1,
+            14,
+            0
+          ],
+          "source_char_positions": [
+            13873,
+            13877,
+            13878,
+            13880,
+            13881
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 23,
+          "minimum_code": 30,
+          "runes": [
+            0,
+            1,
+            14,
+            0,
+            25
+          ],
+          "source_char_positions": [
+            13877,
+            13878,
+            13880,
+            13881,
+            13882
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 24,
+          "minimum_code": 28,
+          "runes": [
+            1,
+            14,
+            0,
+            25,
+            23
+          ],
+          "source_char_positions": [
+            13878,
+            13880,
+            13881,
+            13882,
+            13883
+          ]
+        }
+      ]
+    },
+    "17": {
+      "proof_node": 2,
+      "known_one_runes": [
+        0,
+        2,
+        11,
+        14,
+        22,
+        24
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 105,
+          "minimum_code": 27,
+          "runes": [
+            11,
+            14,
+            27,
+            22,
+            24
+          ],
+          "source_char_positions": [
+            5491,
+            5492,
+            5493,
+            5495,
+            5496
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 76,
+          "minimum_code": 26,
+          "runes": [
+            14,
+            2,
+            9,
+            11,
+            5
+          ],
+          "source_char_positions": [
+            5452,
+            5453,
+            5455,
+            5456,
+            5457
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 227,
+          "minimum_code": 26,
+          "runes": [
+            2,
+            0,
+            15,
+            0,
+            21
+          ],
+          "source_char_positions": [
+            5657,
+            5658,
+            5659,
+            5660,
+            5661
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 258,
+          "minimum_code": 29,
+          "runes": [
+            11,
+            24,
+            22,
+            21,
+            2
+          ],
+          "source_char_positions": [
+            5695,
+            5696,
+            5698,
+            5699,
+            5700
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 219,
+          "minimum_code": 30,
+          "runes": [
+            24,
+            2,
+            0,
+            24,
+            25
+          ],
+          "source_char_positions": [
+            5645,
+            5646,
+            5648,
+            5649,
+            5650
+          ]
+        }
+      ]
+    },
+    "10": {
+      "proof_node": 4,
+      "known_one_runes": [
+        0,
+        11,
+        13,
+        14,
+        22,
+        24
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 60,
+          "minimum_code": 26,
+          "runes": [
+            13,
+            22,
+            19,
+            14,
+            25
+          ],
+          "source_char_positions": [
+            3255,
+            3256,
+            3258,
+            3261,
+            3262
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 16,
+          "minimum_code": 29,
+          "runes": [
+            14,
+            13,
+            14,
+            9,
+            22
+          ],
+          "source_char_positions": [
+            3194,
+            3195,
+            3196,
+            3198,
+            3201
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 17,
+          "minimum_code": 26,
+          "runes": [
+            13,
+            14,
+            9,
+            22,
+            23
+          ],
+          "source_char_positions": [
+            3195,
+            3196,
+            3198,
+            3201,
+            3203
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 238,
+          "minimum_code": 28,
+          "runes": [
+            22,
+            14,
+            0,
+            4,
+            5
+          ],
+          "source_char_positions": [
+            3494,
+            3497,
+            3499,
+            3500,
+            3501
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 39,
+          "minimum_code": 26,
+          "runes": [
+            24,
+            0,
+            15,
+            14,
+            23
+          ],
+          "source_char_positions": [
+            3226,
+            3228,
+            3229,
+            3230,
+            3233
+          ]
+        }
+      ]
+    },
+    "42": {
+      "proof_node": 5,
+      "known_one_runes": [
+        0,
+        11,
+        14,
+        16,
+        22,
+        24
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 205,
+          "minimum_code": 31,
+          "runes": [
+            11,
+            16,
+            0,
+            14,
+            24
+          ],
+          "source_char_positions": [
+            13757,
+            13759,
+            13760,
+            13761,
+            13763
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 206,
+          "minimum_code": 31,
+          "runes": [
+            16,
+            0,
+            14,
+            24,
+            11
+          ],
+          "source_char_positions": [
+            13759,
+            13760,
+            13761,
+            13763,
+            13764
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 207,
+          "minimum_code": 30,
+          "runes": [
+            0,
+            14,
+            24,
+            11,
+            10
+          ],
+          "source_char_positions": [
+            13760,
+            13761,
+            13763,
+            13764,
+            13766
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 208,
+          "minimum_code": 29,
+          "runes": [
+            14,
+            24,
+            11,
+            10,
+            0
+          ],
+          "source_char_positions": [
+            13761,
+            13763,
+            13764,
+            13766,
+            13767
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 14,
+          "minimum_code": 27,
+          "runes": [
+            0,
+            11,
+            2,
+            0,
+            24
+          ],
+          "source_char_positions": [
+            13509,
+            13510,
+            13511,
+            13513,
+            13514
+          ]
+        }
+      ]
+    },
+    "1": {
+      "proof_node": 7,
+      "known_one_runes": [
+        0,
+        4,
+        11,
+        14,
+        22,
+        24
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 115,
+          "minimum_code": 26,
+          "runes": [
+            24,
+            22,
+            2,
+            4,
+            21
+          ],
+          "source_char_positions": [
+            499,
+            500,
+            501,
+            502,
+            503
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 211,
+          "minimum_code": 28,
+          "runes": [
+            14,
+            22,
+            4,
+            27,
+            6
+          ],
+          "source_char_positions": [
+            623,
+            624,
+            626,
+            627,
+            628
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 92,
+          "minimum_code": 28,
+          "runes": [
+            14,
+            22,
+            14,
+            6,
+            13
+          ],
+          "source_char_positions": [
+            469,
+            471,
+            472,
+            473,
+            475
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 238,
+          "minimum_code": 29,
+          "runes": [
+            0,
+            11,
+            24,
+            20,
+            14
+          ],
+          "source_char_positions": [
+            660,
+            661,
+            662,
+            664,
+            665
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 239,
+          "minimum_code": 26,
+          "runes": [
+            11,
+            24,
+            20,
+            14,
+            15
+          ],
+          "source_char_positions": [
+            661,
+            662,
+            664,
+            665,
+            668
+          ]
+        }
+      ]
+    },
+    "0": {
+      "proof_node": 11,
+      "known_one_runes": [
+        0,
+        11,
+        14,
+        21,
+        22,
+        24
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 205,
+          "minimum_code": 28,
+          "runes": [
+            21,
+            14,
+            14,
+            12,
+            23
+          ],
+          "source_char_positions": [
+            269,
+            270,
+            271,
+            272,
+            273
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 91,
+          "minimum_code": 26,
+          "runes": [
+            0,
+            21,
+            5,
+            11,
+            2
+          ],
+          "source_char_positions": [
+            118,
+            119,
+            120,
+            121,
+            123
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 17,
+          "minimum_code": 28,
+          "runes": [
+            0,
+            11,
+            22,
+            3,
+            9
+          ],
+          "source_char_positions": [
+            20,
+            21,
+            22,
+            26,
+            27
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 58,
+          "minimum_code": 26,
+          "runes": [
+            0,
+            14,
+            6,
+            0,
+            15
+          ],
+          "source_char_positions": [
+            74,
+            75,
+            76,
+            77,
+            81
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 49,
+          "minimum_code": 26,
+          "runes": [
+            24,
+            21,
+            26,
+            14,
+            17
+          ],
+          "source_char_positions": [
+            63,
+            64,
+            65,
+            66,
+            68
+          ]
+        }
+      ]
+    },
+    "31": {
+      "proof_node": 12,
+      "known_one_runes": [
+        0,
+        11,
+        14,
+        22,
+        24,
+        27
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 245,
+          "minimum_code": 30,
+          "runes": [
+            27,
+            11,
+            27,
+            22,
+            21
+          ],
+          "source_char_positions": [
+            10377,
+            10378,
+            10381,
+            10382,
+            10383
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 246,
+          "minimum_code": 29,
+          "runes": [
+            11,
+            27,
+            22,
+            21,
+            11
+          ],
+          "source_char_positions": [
+            10378,
+            10381,
+            10382,
+            10383,
+            10384
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 107,
+          "minimum_code": 28,
+          "runes": [
+            24,
+            14,
+            24,
+            26,
+            25
+          ],
+          "source_char_positions": [
+            10190,
+            10191,
+            10193,
+            10194,
+            10195
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 138,
+          "minimum_code": 26,
+          "runes": [
+            24,
+            11,
+            16,
+            14,
+            12
+          ],
+          "source_char_positions": [
+            10235,
+            10236,
+            10238,
+            10239,
+            10240
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 244,
+          "minimum_code": 31,
+          "runes": [
+            22,
+            27,
+            11,
+            27,
+            22
+          ],
+          "source_char_positions": [
+            10376,
+            10377,
+            10378,
+            10381,
+            10382
+          ]
+        }
+      ]
+    },
+    "25": {
+      "proof_node": 13,
+      "known_one_runes": [
+        0,
+        5,
+        11,
+        14,
+        22,
+        24
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 30,
+          "minimum_code": 28,
+          "runes": [
+            14,
+            14,
+            24,
+            18,
+            17
+          ],
+          "source_char_positions": [
+            7997,
+            7998,
+            7999,
+            8000,
+            8002
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 151,
+          "minimum_code": 28,
+          "runes": [
+            24,
+            0,
+            14,
+            16,
+            3
+          ],
+          "source_char_positions": [
+            8149,
+            8150,
+            8151,
+            8152,
+            8154
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 202,
+          "minimum_code": 26,
+          "runes": [
+            14,
+            11,
+            4,
+            14,
+            10
+          ],
+          "source_char_positions": [
+            8216,
+            8217,
+            8218,
+            8221,
+            8223
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 138,
+          "minimum_code": 28,
+          "runes": [
+            24,
+            14,
+            22,
+            9,
+            20
+          ],
+          "source_char_positions": [
+            8133,
+            8134,
+            8135,
+            8137,
+            8138
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 4,
+          "minimum_code": 28,
+          "runes": [
+            14,
+            5,
+            14,
+            26,
+            15
+          ],
+          "source_char_positions": [
+            7962,
+            7963,
+            7964,
+            7965,
+            7967
+          ]
+        }
+      ]
+    },
+    "35": {
+      "proof_node": 15,
+      "known_one_runes": [
+        0,
+        11,
+        14,
+        18,
+        22,
+        24
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 170,
+          "minimum_code": 26,
+          "runes": [
+            0,
+            11,
+            4,
+            18,
+            27
+          ],
+          "source_char_positions": [
+            11432,
+            11433,
+            11434,
+            11435,
+            11437
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 36,
+          "minimum_code": 29,
+          "runes": [
+            22,
+            0,
+            18,
+            26,
+            22
+          ],
+          "source_char_positions": [
+            11258,
+            11259,
+            11260,
+            11261,
+            11262
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 37,
+          "minimum_code": 26,
+          "runes": [
+            0,
+            18,
+            26,
+            22,
+            10
+          ],
+          "source_char_positions": [
+            11259,
+            11260,
+            11261,
+            11262,
+            11263
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 28,
+          "minimum_code": 26,
+          "runes": [
+            24,
+            11,
+            3,
+            24,
+            23
+          ],
+          "source_char_positions": [
+            11248,
+            11249,
+            11251,
+            11252,
+            11253
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 109,
+          "minimum_code": 28,
+          "runes": [
+            14,
+            22,
+            14,
+            13,
+            20
+          ],
+          "source_char_positions": [
+            11349,
+            11351,
+            11352,
+            11355,
+            11356
+          ]
+        }
+      ]
+    },
+    "21": {
+      "proof_node": 35,
+      "known_one_runes": [
+        0,
+        2,
+        3,
+        11,
+        14,
+        22
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 85,
+          "minimum_code": 28,
+          "runes": [
+            2,
+            14,
+            2,
+            25,
+            15
+          ],
+          "source_char_positions": [
+            6894,
+            6895,
+            6896,
+            6897,
+            6898
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 221,
+          "minimum_code": 28,
+          "runes": [
+            3,
+            11,
+            0,
+            16,
+            6
+          ],
+          "source_char_positions": [
+            7070,
+            7072,
+            7073,
+            7074,
+            7075
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 92,
+          "minimum_code": 26,
+          "runes": [
+            3,
+            0,
+            13,
+            22,
+            15
+          ],
+          "source_char_positions": [
+            6901,
+            6904,
+            6906,
+            6907,
+            6908
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 158,
+          "minimum_code": 28,
+          "runes": [
+            11,
+            11,
+            0,
+            20,
+            9
+          ],
+          "source_char_positions": [
+            6987,
+            6988,
+            6989,
+            6992,
+            6993
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 84,
+          "minimum_code": 30,
+          "runes": [
+            0,
+            2,
+            14,
+            2,
+            25
+          ],
+          "source_char_positions": [
+            6893,
+            6894,
+            6895,
+            6896,
+            6897
+          ]
+        }
+      ]
+    },
+    "3": {
+      "proof_node": 37,
+      "known_one_runes": [
+        0,
+        2,
+        11,
+        14,
+        16,
+        22
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 10,
+          "minimum_code": 26,
+          "runes": [
+            16,
+            14,
+            8,
+            16,
+            1
+          ],
+          "source_char_positions": [
+            974,
+            975,
+            976,
+            978,
+            979
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 6,
+          "minimum_code": 27,
+          "runes": [
+            2,
+            16,
+            25,
+            11,
+            16
+          ],
+          "source_char_positions": [
+            970,
+            971,
+            972,
+            973,
+            974
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 92,
+          "minimum_code": 29,
+          "runes": [
+            2,
+            0,
+            22,
+            27,
+            2
+          ],
+          "source_char_positions": [
+            1079,
+            1080,
+            1081,
+            1082,
+            1084
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 93,
+          "minimum_code": 26,
+          "runes": [
+            0,
+            22,
+            27,
+            2,
+            18
+          ],
+          "source_char_positions": [
+            1080,
+            1081,
+            1082,
+            1084,
+            1085
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 9,
+          "minimum_code": 29,
+          "runes": [
+            11,
+            16,
+            14,
+            8,
+            16
+          ],
+          "source_char_positions": [
+            973,
+            974,
+            975,
+            976,
+            978
+          ]
+        }
+      ]
+    },
+    "5": {
+      "proof_node": 41,
+      "known_one_runes": [
+        0,
+        2,
+        8,
+        11,
+        14,
+        22
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 125,
+          "minimum_code": 28,
+          "runes": [
+            2,
+            11,
+            2,
+            4,
+            1
+          ],
+          "source_char_positions": [
+            1761,
+            1762,
+            1763,
+            1764,
+            1765
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 31,
+          "minimum_code": 27,
+          "runes": [
+            0,
+            14,
+            23,
+            14,
+            11
+          ],
+          "source_char_positions": [
+            1635,
+            1636,
+            1638,
+            1639,
+            1640
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 2,
+          "minimum_code": 28,
+          "runes": [
+            14,
+            8,
+            11,
+            25,
+            19
+          ],
+          "source_char_positions": [
+            1599,
+            1600,
+            1601,
+            1602,
+            1603
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 148,
+          "minimum_code": 26,
+          "runes": [
+            0,
+            8,
+            3,
+            22,
+            19
+          ],
+          "source_char_positions": [
+            1790,
+            1791,
+            1792,
+            1794,
+            1795
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 34,
+          "minimum_code": 26,
+          "runes": [
+            14,
+            11,
+            28,
+            8,
+            10
+          ],
+          "source_char_positions": [
+            1639,
+            1640,
+            1642,
+            1643,
+            1644
+          ]
+        }
+      ]
+    },
+    "22": {
+      "proof_node": 45,
+      "known_one_runes": [
+        0,
+        2,
+        5,
+        11,
+        14,
+        22
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 10,
+          "minimum_code": 27,
+          "runes": [
+            2,
+            11,
+            26,
+            0,
+            2
+          ],
+          "source_char_positions": [
+            7153,
+            7154,
+            7156,
+            7157,
+            7159
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 21,
+          "minimum_code": 26,
+          "runes": [
+            11,
+            5,
+            8,
+            11,
+            4
+          ],
+          "source_char_positions": [
+            7167,
+            7170,
+            7171,
+            7172,
+            7173
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 47,
+          "minimum_code": 27,
+          "runes": [
+            2,
+            5,
+            19,
+            2,
+            0
+          ],
+          "source_char_positions": [
+            7202,
+            7203,
+            7204,
+            7205,
+            7206
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 13,
+          "minimum_code": 30,
+          "runes": [
+            0,
+            2,
+            5,
+            11,
+            27
+          ],
+          "source_char_positions": [
+            7157,
+            7159,
+            7160,
+            7161,
+            7162
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 14,
+          "minimum_code": 28,
+          "runes": [
+            2,
+            5,
+            11,
+            27,
+            18
+          ],
+          "source_char_positions": [
+            7159,
+            7160,
+            7161,
+            7162,
+            7163
+          ]
+        }
+      ]
+    },
+    "36": {
+      "proof_node": 63,
+      "known_one_runes": [
+        0,
+        11,
+        13,
+        14,
+        22
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 40,
+          "minimum_code": 30,
+          "runes": [
+            11,
+            13,
+            22,
+            11,
+            24
+          ],
+          "source_char_positions": [
+            11620,
+            11622,
+            11623,
+            11624,
+            11625
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 41,
+          "minimum_code": 28,
+          "runes": [
+            13,
+            22,
+            11,
+            24,
+            21
+          ],
+          "source_char_positions": [
+            11622,
+            11623,
+            11624,
+            11625,
+            11626
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 87,
+          "minimum_code": 30,
+          "runes": [
+            11,
+            0,
+            13,
+            11,
+            23
+          ],
+          "source_char_positions": [
+            11679,
+            11680,
+            11681,
+            11682,
+            11685
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 88,
+          "minimum_code": 28,
+          "runes": [
+            0,
+            13,
+            11,
+            23,
+            10
+          ],
+          "source_char_positions": [
+            11680,
+            11681,
+            11682,
+            11685,
+            11687
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 129,
+          "minimum_code": 28,
+          "runes": [
+            22,
+            11,
+            0,
+            10,
+            3
+          ],
+          "source_char_positions": [
+            11738,
+            11739,
+            11740,
+            11741,
+            11742
+          ]
+        }
+      ]
+    },
+    "12": {
+      "proof_node": 64,
+      "known_one_runes": [
+        0,
+        11,
+        14,
+        16,
+        17,
+        22
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 90,
+          "minimum_code": 30,
+          "runes": [
+            17,
+            14,
+            11,
+            17,
+            18
+          ],
+          "source_char_positions": [
+            4003,
+            4005,
+            4006,
+            4007,
+            4009
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 91,
+          "minimum_code": 28,
+          "runes": [
+            14,
+            11,
+            17,
+            18,
+            9
+          ],
+          "source_char_positions": [
+            4005,
+            4006,
+            4007,
+            4009,
+            4010
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 177,
+          "minimum_code": 28,
+          "runes": [
+            14,
+            16,
+            11,
+            23,
+            13
+          ],
+          "source_char_positions": [
+            4124,
+            4126,
+            4127,
+            4128,
+            4129
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 238,
+          "minimum_code": 28,
+          "runes": [
+            0,
+            11,
+            17,
+            12,
+            4
+          ],
+          "source_char_positions": [
+            4202,
+            4205,
+            4207,
+            4208,
+            4209
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 114,
+          "minimum_code": 28,
+          "runes": [
+            16,
+            0,
+            17,
+            10,
+            25
+          ],
+          "source_char_positions": [
+            4036,
+            4038,
+            4039,
+            4040,
+            4042
+          ]
+        }
+      ]
+    },
+    "11": {
+      "proof_node": 71,
+      "known_one_runes": [
+        0,
+        5,
+        9,
+        11,
+        14,
+        16,
+        22
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 25,
+          "minimum_code": 26,
+          "runes": [
+            9,
+            11,
+            20,
+            5,
+            4
+          ],
+          "source_char_positions": [
+            3562,
+            3564,
+            3565,
+            3566,
+            3567
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 146,
+          "minimum_code": 28,
+          "runes": [
+            22,
+            16,
+            5,
+            6,
+            17
+          ],
+          "source_char_positions": [
+            3721,
+            3722,
+            3723,
+            3724,
+            3725
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 102,
+          "minimum_code": 28,
+          "runes": [
+            0,
+            9,
+            5,
+            1,
+            17
+          ],
+          "source_char_positions": [
+            3663,
+            3665,
+            3666,
+            3668,
+            3669
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 48,
+          "minimum_code": 28,
+          "runes": [
+            9,
+            11,
+            14,
+            8,
+            2
+          ],
+          "source_char_positions": [
+            3592,
+            3594,
+            3595,
+            3597,
+            3598
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 99,
+          "minimum_code": 27,
+          "runes": [
+            0,
+            22,
+            25,
+            0,
+            9
+          ],
+          "source_char_positions": [
+            3660,
+            3661,
+            3662,
+            3663,
+            3665
+          ]
+        }
+      ]
+    },
+    "6": {
+      "proof_node": 72,
+      "known_one_runes": [
+        0,
+        5,
+        11,
+        14,
+        16,
+        18,
+        22
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 0,
+          "minimum_code": 28,
+          "runes": [
+            14,
+            5,
+            16,
+            8,
+            23
+          ],
+          "source_char_positions": [
+            1943,
+            1944,
+            1945,
+            1946,
+            1947
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 101,
+          "minimum_code": 28,
+          "runes": [
+            11,
+            16,
+            22,
+            3,
+            8
+          ],
+          "source_char_positions": [
+            2079,
+            2080,
+            2082,
+            2083,
+            2084
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 107,
+          "minimum_code": 28,
+          "runes": [
+            11,
+            5,
+            18,
+            27,
+            3
+          ],
+          "source_char_positions": [
+            2086,
+            2090,
+            2091,
+            2092,
+            2093
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 148,
+          "minimum_code": 26,
+          "runes": [
+            22,
+            16,
+            27,
+            11,
+            13
+          ],
+          "source_char_positions": [
+            2139,
+            2140,
+            2141,
+            2143,
+            2146
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 89,
+          "minimum_code": 28,
+          "runes": [
+            14,
+            18,
+            16,
+            3,
+            6
+          ],
+          "source_char_positions": [
+            2064,
+            2065,
+            2066,
+            2067,
+            2068
+          ]
+        }
+      ]
+    },
+    "8": {
+      "proof_node": 73,
+      "known_one_runes": [
+        0,
+        5,
+        11,
+        14,
+        16,
+        19,
+        22
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 5,
+          "minimum_code": 28,
+          "runes": [
+            14,
+            19,
+            5,
+            2,
+            13
+          ],
+          "source_char_positions": [
+            2499,
+            2500,
+            2501,
+            2502,
+            2503
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 151,
+          "minimum_code": 28,
+          "runes": [
+            11,
+            11,
+            5,
+            21,
+            3
+          ],
+          "source_char_positions": [
+            2689,
+            2691,
+            2692,
+            2693,
+            2694
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 2,
+          "minimum_code": 27,
+          "runes": [
+            14,
+            19,
+            1,
+            14,
+            19
+          ],
+          "source_char_positions": [
+            2495,
+            2496,
+            2498,
+            2499,
+            2500
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 138,
+          "minimum_code": 27,
+          "runes": [
+            14,
+            5,
+            9,
+            22,
+            22
+          ],
+          "source_char_positions": [
+            2675,
+            2676,
+            2678,
+            2679,
+            2680
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 194,
+          "minimum_code": 28,
+          "runes": [
+            22,
+            19,
+            0,
+            26,
+            21
+          ],
+          "source_char_positions": [
+            2744,
+            2746,
+            2747,
+            2748,
+            2749
+          ]
+        }
+      ]
+    },
+    "45": {
+      "proof_node": 97,
+      "known_one_runes": [
+        0,
+        5,
+        7,
+        11,
+        14,
+        22
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 130,
+          "minimum_code": 31,
+          "runes": [
+            7,
+            5,
+            11,
+            7,
+            14
+          ],
+          "source_char_positions": [
+            14732,
+            14733,
+            14734,
+            14735,
+            14736
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 131,
+          "minimum_code": 30,
+          "runes": [
+            5,
+            11,
+            7,
+            14,
+            24
+          ],
+          "source_char_positions": [
+            14733,
+            14734,
+            14735,
+            14736,
+            14738
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 132,
+          "minimum_code": 28,
+          "runes": [
+            11,
+            7,
+            14,
+            24,
+            27
+          ],
+          "source_char_positions": [
+            14734,
+            14735,
+            14736,
+            14738,
+            14741
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 73,
+          "minimum_code": 28,
+          "runes": [
+            22,
+            11,
+            22,
+            19,
+            3
+          ],
+          "source_char_positions": [
+            14656,
+            14657,
+            14659,
+            14660,
+            14661
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 104,
+          "minimum_code": 28,
+          "runes": [
+            5,
+            0,
+            14,
+            4,
+            10
+          ],
+          "source_char_positions": [
+            14698,
+            14699,
+            14700,
+            14701,
+            14702
+          ]
+        }
+      ]
+    },
+    "30": {
+      "proof_node": 110,
+      "known_one_runes": [
+        0,
+        11,
+        14,
+        21,
+        22,
+        27
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 170,
+          "minimum_code": 29,
+          "runes": [
+            27,
+            22,
+            0,
+            20,
+            21
+          ],
+          "source_char_positions": [
+            9925,
+            9926,
+            9927,
+            9929,
+            9931
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 171,
+          "minimum_code": 27,
+          "runes": [
+            22,
+            0,
+            20,
+            21,
+            0
+          ],
+          "source_char_positions": [
+            9926,
+            9927,
+            9929,
+            9931,
+            9934
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 137,
+          "minimum_code": 30,
+          "runes": [
+            22,
+            27,
+            14,
+            27,
+            17
+          ],
+          "source_char_positions": [
+            9883,
+            9884,
+            9885,
+            9887,
+            9888
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 138,
+          "minimum_code": 28,
+          "runes": [
+            27,
+            14,
+            27,
+            17,
+            4
+          ],
+          "source_char_positions": [
+            9884,
+            9885,
+            9887,
+            9888,
+            9889
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 174,
+          "minimum_code": 28,
+          "runes": [
+            21,
+            0,
+            27,
+            23,
+            24
+          ],
+          "source_char_positions": [
+            9931,
+            9934,
+            9935,
+            9937,
+            9938
+          ]
+        }
+      ]
+    },
+    "52": {
+      "proof_node": 120,
+      "known_one_runes": [
+        0,
+        9,
+        11,
+        14,
+        22,
+        27
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 195,
+          "minimum_code": 28,
+          "runes": [
+            11,
+            22,
+            9,
+            10,
+            15
+          ],
+          "source_char_positions": [
+            16468,
+            16471,
+            16472,
+            16473,
+            16475
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 96,
+          "minimum_code": 30,
+          "runes": [
+            0,
+            11,
+            14,
+            22,
+            4
+          ],
+          "source_char_positions": [
+            16338,
+            16339,
+            16340,
+            16341,
+            16342
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 97,
+          "minimum_code": 28,
+          "runes": [
+            11,
+            14,
+            22,
+            4,
+            19
+          ],
+          "source_char_positions": [
+            16339,
+            16340,
+            16341,
+            16342,
+            16343
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 153,
+          "minimum_code": 26,
+          "runes": [
+            14,
+            22,
+            28,
+            27,
+            21
+          ],
+          "source_char_positions": [
+            16410,
+            16413,
+            16414,
+            16415,
+            16416
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 214,
+          "minimum_code": 29,
+          "runes": [
+            27,
+            9,
+            14,
+            16,
+            27
+          ],
+          "source_char_positions": [
+            16493,
+            16494,
+            16495,
+            16496,
+            16500
+          ]
+        }
+      ]
+    },
+    "7": {
+      "proof_node": 168,
+      "known_one_runes": [
+        0,
+        9,
+        11,
+        14,
+        24,
+        25
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 15,
+          "minimum_code": 26,
+          "runes": [
+            24,
+            9,
+            12,
+            14,
+            28
+          ],
+          "source_char_positions": [
+            2226,
+            2227,
+            2228,
+            2229,
+            2231
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 141,
+          "minimum_code": 28,
+          "runes": [
+            14,
+            24,
+            9,
+            21,
+            12
+          ],
+          "source_char_positions": [
+            2392,
+            2394,
+            2395,
+            2396,
+            2398
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 127,
+          "minimum_code": 26,
+          "runes": [
+            9,
+            25,
+            18,
+            9,
+            26
+          ],
+          "source_char_positions": [
+            2372,
+            2373,
+            2376,
+            2378,
+            2379
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 13,
+          "minimum_code": 30,
+          "runes": [
+            11,
+            14,
+            24,
+            9,
+            12
+          ],
+          "source_char_positions": [
+            2223,
+            2225,
+            2226,
+            2227,
+            2228
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 14,
+          "minimum_code": 29,
+          "runes": [
+            14,
+            24,
+            9,
+            12,
+            14
+          ],
+          "source_char_positions": [
+            2225,
+            2226,
+            2227,
+            2228,
+            2229
+          ]
+        }
+      ]
+    },
+    "41": {
+      "proof_node": 189,
+      "known_one_runes": [
+        0,
+        1,
+        3,
+        11,
+        14,
+        24
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 170,
+          "minimum_code": 28,
+          "runes": [
+            1,
+            0,
+            14,
+            13,
+            19
+          ],
+          "source_char_positions": [
+            13356,
+            13358,
+            13359,
+            13360,
+            13361
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 26,
+          "minimum_code": 28,
+          "runes": [
+            0,
+            24,
+            1,
+            12,
+            23
+          ],
+          "source_char_positions": [
+            13166,
+            13168,
+            13169,
+            13170,
+            13172
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 247,
+          "minimum_code": 30,
+          "runes": [
+            3,
+            11,
+            14,
+            11,
+            20
+          ],
+          "source_char_positions": [
+            13455,
+            13456,
+            13460,
+            13461,
+            13462
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 113,
+          "minimum_code": 27,
+          "runes": [
+            24,
+            14,
+            28,
+            24,
+            11
+          ],
+          "source_char_positions": [
+            13279,
+            13280,
+            13283,
+            13285,
+            13286
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 59,
+          "minimum_code": 28,
+          "runes": [
+            24,
+            0,
+            3,
+            26,
+            27
+          ],
+          "source_char_positions": [
+            13210,
+            13211,
+            13212,
+            13213,
+            13214
+          ]
+        }
+      ]
+    },
+    "2": {
+      "proof_node": 198,
+      "known_one_runes": [
+        0,
+        1,
+        4,
+        5,
+        11,
+        14,
+        24
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 115,
+          "minimum_code": 26,
+          "runes": [
+            5,
+            0,
+            13,
+            24,
+            20
+          ],
+          "source_char_positions": [
+            847,
+            849,
+            851,
+            852,
+            853
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 181,
+          "minimum_code": 30,
+          "runes": [
+            11,
+            5,
+            1,
+            14,
+            16
+          ],
+          "source_char_positions": [
+            930,
+            933,
+            934,
+            935,
+            936
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 182,
+          "minimum_code": 29,
+          "runes": [
+            5,
+            1,
+            14,
+            16,
+            24
+          ],
+          "source_char_positions": [
+            933,
+            934,
+            935,
+            936,
+            937
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 183,
+          "minimum_code": 26,
+          "runes": [
+            1,
+            14,
+            16,
+            24,
+            17
+          ],
+          "source_char_positions": [
+            934,
+            935,
+            936,
+            937,
+            938
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 124,
+          "minimum_code": 28,
+          "runes": [
+            11,
+            11,
+            5,
+            20,
+            7
+          ],
+          "source_char_positions": [
+            858,
+            860,
+            861,
+            862,
+            863
+          ]
+        }
+      ]
+    },
+    "13": {
+      "proof_node": 215,
+      "known_one_runes": [
+        0,
+        1,
+        7,
+        11,
+        14,
+        24,
+        27
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 135,
+          "minimum_code": 26,
+          "runes": [
+            14,
+            24,
+            25,
+            0,
+            26
+          ],
+          "source_char_positions": [
+            4414,
+            4417,
+            4418,
+            4420,
+            4421
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 81,
+          "minimum_code": 26,
+          "runes": [
+            7,
+            27,
+            3,
+            1,
+            2
+          ],
+          "source_char_positions": [
+            4342,
+            4344,
+            4345,
+            4347,
+            4348
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 187,
+          "minimum_code": 29,
+          "runes": [
+            0,
+            11,
+            1,
+            23,
+            7
+          ],
+          "source_char_positions": [
+            4484,
+            4485,
+            4486,
+            4488,
+            4489
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 188,
+          "minimum_code": 26,
+          "runes": [
+            11,
+            1,
+            23,
+            7,
+            2
+          ],
+          "source_char_positions": [
+            4485,
+            4486,
+            4488,
+            4489,
+            4490
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 134,
+          "minimum_code": 29,
+          "runes": [
+            27,
+            14,
+            24,
+            25,
+            0
+          ],
+          "source_char_positions": [
+            4413,
+            4414,
+            4417,
+            4418,
+            4420
+          ]
+        }
+      ]
+    },
+    "16": {
+      "proof_node": 270,
+      "known_one_runes": [
+        0,
+        3,
+        11,
+        13,
+        14,
+        24
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 130,
+          "minimum_code": 26,
+          "runes": [
+            14,
+            3,
+            2,
+            11,
+            5
+          ],
+          "source_char_positions": [
+            5171,
+            5172,
+            5173,
+            5176,
+            5177
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 71,
+          "minimum_code": 28,
+          "runes": [
+            11,
+            24,
+            13,
+            4,
+            15
+          ],
+          "source_char_positions": [
+            5091,
+            5092,
+            5093,
+            5094,
+            5095
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 112,
+          "minimum_code": 31,
+          "runes": [
+            13,
+            3,
+            11,
+            13,
+            11
+          ],
+          "source_char_positions": [
+            5147,
+            5149,
+            5150,
+            5151,
+            5153
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 113,
+          "minimum_code": 30,
+          "runes": [
+            3,
+            11,
+            13,
+            11,
+            19
+          ],
+          "source_char_positions": [
+            5149,
+            5150,
+            5151,
+            5153,
+            5154
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 114,
+          "minimum_code": 28,
+          "runes": [
+            11,
+            13,
+            11,
+            19,
+            28
+          ],
+          "source_char_positions": [
+            5150,
+            5151,
+            5153,
+            5154,
+            5155
+          ]
+        }
+      ]
+    },
+    "18": {
+      "proof_node": 277,
+      "known_one_runes": [
+        0,
+        3,
+        8,
+        11,
+        14,
+        24,
+        27
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 85,
+          "minimum_code": 28,
+          "runes": [
+            0,
+            27,
+            27,
+            22,
+            1
+          ],
+          "source_char_positions": [
+            5830,
+            5831,
+            5832,
+            5835,
+            5836
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 111,
+          "minimum_code": 26,
+          "runes": [
+            0,
+            8,
+            23,
+            0,
+            26
+          ],
+          "source_char_positions": [
+            5866,
+            5867,
+            5869,
+            5870,
+            5871
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 27,
+          "minimum_code": 30,
+          "runes": [
+            3,
+            14,
+            8,
+            27,
+            21
+          ],
+          "source_char_positions": [
+            5754,
+            5756,
+            5757,
+            5759,
+            5760
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 28,
+          "minimum_code": 28,
+          "runes": [
+            14,
+            8,
+            27,
+            21,
+            23
+          ],
+          "source_char_positions": [
+            5756,
+            5757,
+            5759,
+            5760,
+            5762
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 79,
+          "minimum_code": 26,
+          "runes": [
+            8,
+            27,
+            16,
+            14,
+            12
+          ],
+          "source_char_positions": [
+            5823,
+            5824,
+            5825,
+            5827,
+            5828
+          ]
+        }
+      ]
+    },
+    "37": {
+      "proof_node": 310,
+      "known_one_runes": [
+        0,
+        11,
+        13,
+        14,
+        17,
+        24
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 110,
+          "minimum_code": 26,
+          "runes": [
+            11,
+            14,
+            23,
+            11,
+            21
+          ],
+          "source_char_positions": [
+            12029,
+            12030,
+            12032,
+            12035,
+            12036
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 16,
+          "minimum_code": 29,
+          "runes": [
+            13,
+            14,
+            24,
+            10,
+            11
+          ],
+          "source_char_positions": [
+            11903,
+            11904,
+            11906,
+            11907,
+            11910
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 17,
+          "minimum_code": 26,
+          "runes": [
+            14,
+            24,
+            10,
+            11,
+            15
+          ],
+          "source_char_positions": [
+            11904,
+            11906,
+            11907,
+            11910,
+            11911
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 108,
+          "minimum_code": 30,
+          "runes": [
+            0,
+            17,
+            11,
+            14,
+            23
+          ],
+          "source_char_positions": [
+            12026,
+            12028,
+            12029,
+            12030,
+            12032
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 109,
+          "minimum_code": 29,
+          "runes": [
+            17,
+            11,
+            14,
+            23,
+            11
+          ],
+          "source_char_positions": [
+            12028,
+            12029,
+            12030,
+            12032,
+            12035
+          ]
+        }
+      ]
+    },
+    "26": {
+      "proof_node": 356,
+      "known_one_runes": [
+        0,
+        4,
+        9,
+        11,
+        14,
+        24
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 230,
+          "minimum_code": 26,
+          "runes": [
+            9,
+            24,
+            28,
+            4,
+            28
+          ],
+          "source_char_positions": [
+            8612,
+            8614,
+            8615,
+            8616,
+            8618
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 76,
+          "minimum_code": 29,
+          "runes": [
+            14,
+            0,
+            24,
+            28,
+            4
+          ],
+          "source_char_positions": [
+            8410,
+            8412,
+            8413,
+            8415,
+            8416
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 77,
+          "minimum_code": 26,
+          "runes": [
+            0,
+            24,
+            28,
+            4,
+            12
+          ],
+          "source_char_positions": [
+            8412,
+            8413,
+            8415,
+            8416,
+            8417
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 228,
+          "minimum_code": 30,
+          "runes": [
+            0,
+            4,
+            9,
+            24,
+            28
+          ],
+          "source_char_positions": [
+            8610,
+            8611,
+            8612,
+            8614,
+            8615
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 164,
+          "minimum_code": 28,
+          "runes": [
+            0,
+            24,
+            4,
+            28,
+            19
+          ],
+          "source_char_positions": [
+            8526,
+            8527,
+            8528,
+            8529,
+            8531
+          ]
+        }
+      ]
+    },
+    "28": {
+      "proof_node": 388,
+      "known_one_runes": [
+        0,
+        7,
+        9,
+        11,
+        14,
+        24
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 15,
+          "minimum_code": 28,
+          "runes": [
+            11,
+            9,
+            24,
+            22,
+            16
+          ],
+          "source_char_positions": [
+            8993,
+            8994,
+            8995,
+            8996,
+            8998
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 226,
+          "minimum_code": 26,
+          "runes": [
+            9,
+            7,
+            19,
+            11,
+            1
+          ],
+          "source_char_positions": [
+            9265,
+            9266,
+            9267,
+            9271,
+            9273
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 142,
+          "minimum_code": 26,
+          "runes": [
+            11,
+            14,
+            27,
+            0,
+            10
+          ],
+          "source_char_positions": [
+            9158,
+            9159,
+            9160,
+            9161,
+            9163
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 128,
+          "minimum_code": 28,
+          "runes": [
+            0,
+            9,
+            0,
+            3,
+            19
+          ],
+          "source_char_positions": [
+            9138,
+            9139,
+            9140,
+            9142,
+            9143
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 14,
+          "minimum_code": 30,
+          "runes": [
+            7,
+            11,
+            9,
+            24,
+            22
+          ],
+          "source_char_positions": [
+            8992,
+            8993,
+            8994,
+            8995,
+            8996
+          ]
+        }
+      ]
+    },
+    "15": {
+      "proof_node": 444,
+      "known_one_runes": [
+        0,
+        1,
+        4,
+        11,
+        14,
+        21,
+        25
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 25,
+          "minimum_code": 31,
+          "runes": [
+            25,
+            11,
+            0,
+            25,
+            1
+          ],
+          "source_char_positions": [
+            4818,
+            4819,
+            4820,
+            4821,
+            4823
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 26,
+          "minimum_code": 30,
+          "runes": [
+            11,
+            0,
+            25,
+            1,
+            6
+          ],
+          "source_char_positions": [
+            4819,
+            4820,
+            4821,
+            4823,
+            4826
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 27,
+          "minimum_code": 29,
+          "runes": [
+            0,
+            25,
+            1,
+            6,
+            14
+          ],
+          "source_char_positions": [
+            4820,
+            4821,
+            4823,
+            4826,
+            4827
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 18,
+          "minimum_code": 26,
+          "runes": [
+            0,
+            21,
+            10,
+            1,
+            10
+          ],
+          "source_char_positions": [
+            4809,
+            4810,
+            4812,
+            4813,
+            4814
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 94,
+          "minimum_code": 29,
+          "runes": [
+            21,
+            1,
+            0,
+            2,
+            21
+          ],
+          "source_char_positions": [
+            4910,
+            4911,
+            4912,
+            4913,
+            4914
+          ]
+        }
+      ]
+    },
+    "46": {
+      "proof_node": 464,
+      "known_one_runes": [
+        0,
+        1,
+        11,
+        14,
+        25,
+        27
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 5,
+          "minimum_code": 27,
+          "runes": [
+            11,
+            1,
+            23,
+            0,
+            27
+          ],
+          "source_char_positions": [
+            14924,
+            14925,
+            14927,
+            14928,
+            14929
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 71,
+          "minimum_code": 26,
+          "runes": [
+            14,
+            11,
+            2,
+            1,
+            16
+          ],
+          "source_char_positions": [
+            15014,
+            15015,
+            15016,
+            15017,
+            15019
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 2,
+          "minimum_code": 27,
+          "runes": [
+            14,
+            25,
+            10,
+            11,
+            1
+          ],
+          "source_char_positions": [
+            14921,
+            14922,
+            14923,
+            14924,
+            14925
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 8,
+          "minimum_code": 28,
+          "runes": [
+            0,
+            27,
+            25,
+            15,
+            10
+          ],
+          "source_char_positions": [
+            14928,
+            14929,
+            14930,
+            14932,
+            14933
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 244,
+          "minimum_code": 28,
+          "runes": [
+            11,
+            25,
+            27,
+            19,
+            7
+          ],
+          "source_char_positions": [
+            15239,
+            15240,
+            15242,
+            15245,
+            15246
+          ]
+        }
+      ]
+    },
+    "53": {
+      "proof_node": 467,
+      "known_one_runes": [
+        0,
+        1,
+        11,
+        14,
+        18,
+        25
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 90,
+          "minimum_code": 26,
+          "runes": [
+            18,
+            1,
+            15,
+            25,
+            26
+          ],
+          "source_char_positions": [
+            16676,
+            16677,
+            16678,
+            16679,
+            16680
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 31,
+          "minimum_code": 28,
+          "runes": [
+            1,
+            11,
+            1,
+            2,
+            19
+          ],
+          "source_char_positions": [
+            16598,
+            16599,
+            16601,
+            16602,
+            16603
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 67,
+          "minimum_code": 27,
+          "runes": [
+            18,
+            0,
+            15,
+            18,
+            0
+          ],
+          "source_char_positions": [
+            16647,
+            16648,
+            16649,
+            16651,
+            16652
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 118,
+          "minimum_code": 26,
+          "runes": [
+            25,
+            11,
+            12,
+            1,
+            17
+          ],
+          "source_char_positions": [
+            16711,
+            16712,
+            16714,
+            16715,
+            16716
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 84,
+          "minimum_code": 28,
+          "runes": [
+            11,
+            1,
+            25,
+            26,
+            15
+          ],
+          "source_char_positions": [
+            16667,
+            16668,
+            16669,
+            16673,
+            16674
+          ]
+        }
+      ]
+    },
+    "27": {
+      "proof_node": 486,
+      "known_one_runes": [
+        0,
+        3,
+        11,
+        14,
+        17,
+        25
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 60,
+          "minimum_code": 26,
+          "runes": [
+            25,
+            0,
+            18,
+            11,
+            4
+          ],
+          "source_char_positions": [
+            8745,
+            8746,
+            8748,
+            8749,
+            8750
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 26,
+          "minimum_code": 26,
+          "runes": [
+            17,
+            0,
+            23,
+            11,
+            1
+          ],
+          "source_char_positions": [
+            8698,
+            8699,
+            8701,
+            8702,
+            8703
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 67,
+          "minimum_code": 30,
+          "runes": [
+            17,
+            0,
+            17,
+            3,
+            12
+          ],
+          "source_char_positions": [
+            8754,
+            8756,
+            8757,
+            8758,
+            8760
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 68,
+          "minimum_code": 28,
+          "runes": [
+            0,
+            17,
+            3,
+            12,
+            4
+          ],
+          "source_char_positions": [
+            8756,
+            8757,
+            8758,
+            8760,
+            8761
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 34,
+          "minimum_code": 26,
+          "runes": [
+            25,
+            0,
+            13,
+            25,
+            13
+          ],
+          "source_char_positions": [
+            8709,
+            8710,
+            8712,
+            8716,
+            8717
+          ]
+        }
+      ]
+    },
+    "40": {
+      "proof_node": 712,
+      "known_one_runes": [
+        0,
+        1,
+        7,
+        11,
+        14,
+        17
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 55,
+          "minimum_code": 28,
+          "runes": [
+            7,
+            11,
+            17,
+            26,
+            19
+          ],
+          "source_char_positions": [
+            12895,
+            12896,
+            12897,
+            12900,
+            12901
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 41,
+          "minimum_code": 26,
+          "runes": [
+            17,
+            1,
+            2,
+            0,
+            22
+          ],
+          "source_char_positions": [
+            12876,
+            12877,
+            12879,
+            12880,
+            12881
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 212,
+          "minimum_code": 28,
+          "runes": [
+            0,
+            14,
+            0,
+            16,
+            5
+          ],
+          "source_char_positions": [
+            13105,
+            13106,
+            13107,
+            13108,
+            13110
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 38,
+          "minimum_code": 27,
+          "runes": [
+            17,
+            1,
+            18,
+            17,
+            1
+          ],
+          "source_char_positions": [
+            12873,
+            12874,
+            12875,
+            12876,
+            12877
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 54,
+          "minimum_code": 30,
+          "runes": [
+            17,
+            7,
+            11,
+            17,
+            26
+          ],
+          "source_char_positions": [
+            12893,
+            12895,
+            12896,
+            12897,
+            12900
+          ]
+        }
+      ]
+    },
+    "47": {
+      "proof_node": 904,
+      "known_one_runes": [
+        0,
+        2,
+        7,
+        11,
+        14,
+        17
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 65,
+          "minimum_code": 26,
+          "runes": [
+            11,
+            7,
+            28,
+            2,
+            23
+          ],
+          "source_char_positions": [
+            15355,
+            15356,
+            15357,
+            15359,
+            15360
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 21,
+          "minimum_code": 26,
+          "runes": [
+            2,
+            7,
+            13,
+            17,
+            15
+          ],
+          "source_char_positions": [
+            15299,
+            15300,
+            15304,
+            15306,
+            15307
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 202,
+          "minimum_code": 26,
+          "runes": [
+            0,
+            2,
+            23,
+            7,
+            19
+          ],
+          "source_char_positions": [
+            15538,
+            15539,
+            15540,
+            15541,
+            15543
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 113,
+          "minimum_code": 26,
+          "runes": [
+            17,
+            0,
+            25,
+            7,
+            26
+          ],
+          "source_char_positions": [
+            15419,
+            15420,
+            15422,
+            15423,
+            15424
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 64,
+          "minimum_code": 29,
+          "runes": [
+            0,
+            11,
+            7,
+            28,
+            2
+          ],
+          "source_char_positions": [
+            15354,
+            15355,
+            15356,
+            15357,
+            15359
+          ]
+        }
+      ]
+    },
+    "48": {
+      "proof_node": 1116,
+      "known_one_runes": [
+        0,
+        7,
+        11,
+        13,
+        14,
+        27
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 15,
+          "minimum_code": 26,
+          "runes": [
+            13,
+            0,
+            24,
+            13,
+            23
+          ],
+          "source_char_positions": [
+            15652,
+            15654,
+            15655,
+            15657,
+            15658
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 236,
+          "minimum_code": 27,
+          "runes": [
+            0,
+            11,
+            17,
+            27,
+            13
+          ],
+          "source_char_positions": [
+            15948,
+            15949,
+            15951,
+            15952,
+            15953
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 192,
+          "minimum_code": 26,
+          "runes": [
+            27,
+            0,
+            12,
+            27,
+            5
+          ],
+          "source_char_positions": [
+            15890,
+            15891,
+            15892,
+            15893,
+            15895
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 183,
+          "minimum_code": 28,
+          "runes": [
+            7,
+            13,
+            27,
+            9,
+            20
+          ],
+          "source_char_positions": [
+            15878,
+            15880,
+            15881,
+            15882,
+            15883
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 79,
+          "minimum_code": 26,
+          "runes": [
+            27,
+            0,
+            3,
+            11,
+            23
+          ],
+          "source_char_positions": [
+            15739,
+            15740,
+            15742,
+            15743,
+            15744
+          ]
+        }
+      ]
+    },
+    "51": {
+      "proof_node": 1585,
+      "known_one_runes": [
+        0,
+        11,
+        22,
+        24,
+        25
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 60,
+          "minimum_code": 26,
+          "runes": [
+            0,
+            24,
+            21,
+            22,
+            26
+          ],
+          "source_char_positions": [
+            16167,
+            16168,
+            16170,
+            16171,
+            16172
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 56,
+          "minimum_code": 31,
+          "runes": [
+            22,
+            0,
+            11,
+            25,
+            0
+          ],
+          "source_char_positions": [
+            16163,
+            16164,
+            16165,
+            16166,
+            16167
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 57,
+          "minimum_code": 31,
+          "runes": [
+            0,
+            11,
+            25,
+            0,
+            24
+          ],
+          "source_char_positions": [
+            16164,
+            16165,
+            16166,
+            16167,
+            16168
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 58,
+          "minimum_code": 30,
+          "runes": [
+            11,
+            25,
+            0,
+            24,
+            21
+          ],
+          "source_char_positions": [
+            16165,
+            16166,
+            16167,
+            16168,
+            16170
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 59,
+          "minimum_code": 29,
+          "runes": [
+            25,
+            0,
+            24,
+            21,
+            22
+          ],
+          "source_char_positions": [
+            16166,
+            16167,
+            16168,
+            16170,
+            16171
+          ]
+        }
+      ]
+    },
+    "23": {
+      "proof_node": 1591,
+      "known_one_runes": [
+        0,
+        1,
+        4,
+        11,
+        22,
+        24
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 60,
+          "minimum_code": 27,
+          "runes": [
+            24,
+            11,
+            15,
+            22,
+            1
+          ],
+          "source_char_positions": [
+            7395,
+            7396,
+            7397,
+            7398,
+            7400
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 196,
+          "minimum_code": 30,
+          "runes": [
+            1,
+            4,
+            1,
+            22,
+            23
+          ],
+          "source_char_positions": [
+            7573,
+            7574,
+            7575,
+            7576,
+            7578
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 197,
+          "minimum_code": 28,
+          "runes": [
+            4,
+            1,
+            22,
+            23,
+            8
+          ],
+          "source_char_positions": [
+            7574,
+            7575,
+            7576,
+            7578,
+            7579
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 63,
+          "minimum_code": 26,
+          "runes": [
+            22,
+            1,
+            7,
+            4,
+            16
+          ],
+          "source_char_positions": [
+            7398,
+            7400,
+            7401,
+            7402,
+            7403
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 129,
+          "minimum_code": 26,
+          "runes": [
+            24,
+            4,
+            13,
+            0,
+            19
+          ],
+          "source_char_positions": [
+            7483,
+            7485,
+            7486,
+            7487,
+            7488
+          ]
+        }
+      ]
+    },
+    "33": {
+      "proof_node": 1787,
+      "known_one_runes": [
+        0,
+        7,
+        11,
+        18,
+        22,
+        24
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 65,
+          "minimum_code": 30,
+          "runes": [
+            7,
+            11,
+            24,
+            11,
+            25
+          ],
+          "source_char_positions": [
+            10656,
+            10657,
+            10659,
+            10660,
+            10661
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 11,
+          "minimum_code": 27,
+          "runes": [
+            22,
+            0,
+            16,
+            18,
+            22
+          ],
+          "source_char_positions": [
+            10584,
+            10586,
+            10587,
+            10588,
+            10589
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 77,
+          "minimum_code": 30,
+          "runes": [
+            18,
+            11,
+            7,
+            18,
+            1
+          ],
+          "source_char_positions": [
+            10673,
+            10674,
+            10675,
+            10677,
+            10678
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 78,
+          "minimum_code": 28,
+          "runes": [
+            11,
+            7,
+            18,
+            1,
+            8
+          ],
+          "source_char_positions": [
+            10674,
+            10675,
+            10677,
+            10678,
+            10680
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 14,
+          "minimum_code": 26,
+          "runes": [
+            18,
+            22,
+            28,
+            24,
+            27
+          ],
+          "source_char_positions": [
+            10588,
+            10589,
+            10590,
+            10591,
+            10594
+          ]
+        }
+      ]
+    },
+    "38": {
+      "proof_node": 1902,
+      "known_one_runes": [
+        0,
+        11,
+        16,
+        17,
+        22,
+        25
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 175,
+          "minimum_code": 28,
+          "runes": [
+            22,
+            11,
+            16,
+            6,
+            20
+          ],
+          "source_char_positions": [
+            12421,
+            12423,
+            12424,
+            12425,
+            12427
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 61,
+          "minimum_code": 30,
+          "runes": [
+            17,
+            22,
+            16,
+            22,
+            7
+          ],
+          "source_char_positions": [
+            12273,
+            12274,
+            12276,
+            12277,
+            12278
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 62,
+          "minimum_code": 29,
+          "runes": [
+            22,
+            16,
+            22,
+            7,
+            11
+          ],
+          "source_char_positions": [
+            12274,
+            12276,
+            12277,
+            12278,
+            12279
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 63,
+          "minimum_code": 27,
+          "runes": [
+            16,
+            22,
+            7,
+            11,
+            25
+          ],
+          "source_char_positions": [
+            12276,
+            12277,
+            12278,
+            12279,
+            12281
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 189,
+          "minimum_code": 27,
+          "runes": [
+            25,
+            22,
+            19,
+            22,
+            25
+          ],
+          "source_char_positions": [
+            12443,
+            12444,
+            12445,
+            12447,
+            12448
+          ]
+        }
+      ]
+    },
+    "32": {
+      "proof_node": 2179,
+      "known_one_runes": [
+        0,
+        2,
+        3,
+        8,
+        11,
+        22
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 30,
+          "minimum_code": 31,
+          "runes": [
+            0,
+            3,
+            2,
+            8,
+            3
+          ],
+          "source_char_positions": [
+            10448,
+            10449,
+            10450,
+            10452,
+            10453
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 31,
+          "minimum_code": 30,
+          "runes": [
+            3,
+            2,
+            8,
+            3,
+            19
+          ],
+          "source_char_positions": [
+            10449,
+            10450,
+            10452,
+            10453,
+            10454
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 32,
+          "minimum_code": 28,
+          "runes": [
+            2,
+            8,
+            3,
+            19,
+            18
+          ],
+          "source_char_positions": [
+            10450,
+            10452,
+            10453,
+            10454,
+            10455
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 28,
+          "minimum_code": 31,
+          "runes": [
+            2,
+            0,
+            0,
+            3,
+            2
+          ],
+          "source_char_positions": [
+            10445,
+            10446,
+            10448,
+            10449,
+            10450
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 29,
+          "minimum_code": 31,
+          "runes": [
+            0,
+            0,
+            3,
+            2,
+            8
+          ],
+          "source_char_positions": [
+            10446,
+            10448,
+            10449,
+            10450,
+            10452
+          ]
+        }
+      ]
+    },
+    "49": {
+      "proof_node": 3953,
+      "known_one_runes": [
+        0,
+        8,
+        11,
+        18,
+        24,
+        27
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 0,
+          "minimum_code": 30,
+          "runes": [
+            27,
+            18,
+            11,
+            0,
+            20
+          ],
+          "source_char_positions": [
+            15996,
+            15998,
+            15999,
+            16001,
+            16002
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 1,
+          "minimum_code": 28,
+          "runes": [
+            18,
+            11,
+            0,
+            20,
+            22
+          ],
+          "source_char_positions": [
+            15998,
+            15999,
+            16001,
+            16002,
+            16003
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 32,
+          "minimum_code": 30,
+          "runes": [
+            8,
+            0,
+            24,
+            27,
+            6
+          ],
+          "source_char_positions": [
+            16040,
+            16041,
+            16042,
+            16043,
+            16044
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 33,
+          "minimum_code": 29,
+          "runes": [
+            0,
+            24,
+            27,
+            6,
+            24
+          ],
+          "source_char_positions": [
+            16041,
+            16042,
+            16043,
+            16044,
+            16046
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 34,
+          "minimum_code": 26,
+          "runes": [
+            24,
+            27,
+            6,
+            24,
+            19
+          ],
+          "source_char_positions": [
+            16042,
+            16043,
+            16044,
+            16046,
+            16047
+          ]
+        }
+      ]
+    },
+    "55": {
+      "proof_node": 29681,
+      "known_one_runes": [
+        0,
+        1,
+        4,
+        5,
+        7,
+        17
+      ],
+      "violations_all_phases": [
+        {
+          "phase": 0,
+          "start": 20,
+          "minimum_code": 30,
+          "runes": [
+            1,
+            7,
+            4,
+            17,
+            28
+          ],
+          "source_char_positions": [
+            17130,
+            17132,
+            17133,
+            17135,
+            17138
+          ]
+        },
+        {
+          "phase": 1,
+          "start": 21,
+          "minimum_code": 29,
+          "runes": [
+            7,
+            4,
+            17,
+            28,
+            0
+          ],
+          "source_char_positions": [
+            17132,
+            17133,
+            17135,
+            17138,
+            17139
+          ]
+        },
+        {
+          "phase": 2,
+          "start": 22,
+          "minimum_code": 26,
+          "runes": [
+            4,
+            17,
+            28,
+            0,
+            14
+          ],
+          "source_char_positions": [
+            17133,
+            17135,
+            17138,
+            17139,
+            17140
+          ]
+        },
+        {
+          "phase": 3,
+          "start": 18,
+          "minimum_code": 31,
+          "runes": [
+            17,
+            5,
+            1,
+            7,
+            4
+          ],
+          "source_char_positions": [
+            17128,
+            17129,
+            17130,
+            17132,
+            17133
+          ]
+        },
+        {
+          "phase": 4,
+          "start": 19,
+          "minimum_code": 31,
+          "runes": [
+            5,
+            1,
+            7,
+            4,
+            17
+          ],
+          "source_char_positions": [
+            17129,
+            17130,
+            17132,
+            17133,
+            17135
+          ]
+        }
+      ]
+    }
+  },
+  "controls": [
+    {
+      "truth_ones_count": 14,
+      "pages": 45,
+      "SAT_witness_and_truth_arithmetic": "PASS"
+    },
+    {
+      "truth_ones_count": 15,
+      "pages": 45,
+      "SAT_witness_and_truth_arithmetic": "PASS"
+    }
+  ],
+  "seconds": 1.090535709001415
+}

@@ -1,0 +1,1 @@
+Independent image eligibility review originals2/3/5/6; frozen two-template sourcepixels/control replay, allrigidphase grids via linearconvolution, classifications and byte recurrence. No newtransforms/ROIs/bitassignments, reserves/Git/sharededits; loggedoneCPU<=900s/originaldeadline.

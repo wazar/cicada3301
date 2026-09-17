@@ -1,0 +1,1 @@
+Independent raw5bit sourceclauses andfullrefutation tree, exactbalancedcardinality andmonotonic14/15argument, completecontrol RNG/decodedmaps andtinybalanced assignments. No solver rerun, codealphabet/partition/phaseexpansion, reserves/Git/sharededits. StandardloggeroneCPU<=900s/originaldeadline.

@@ -1,0 +1,1 @@
+Review40 S10 exactsource GF29rowrank/nullspaces and rational determinant independentofBareiss; disclosedinitial/controlcompletion comparison. P24 allsourceedgecounts/witnesses, simplecompletegraphobstruction, tinyinjectionexhaustion/sourcecontrolcompatibility. No othermaps/coefficients/pages/models, reserves/Git/sharededits. StandardloggeroneCPU<=900s/originaldeadline.
